@@ -1,0 +1,207 @@
+\documentclass{article}
+\usepackage[T1]{fontenc}
+\usepackage{amssymb, amsmath, graphicx, subfigure, enumerate}
+\usepackage{amsthm,alltt} 
+\usepackage[margin=1.25in]{geometry} %geometry (sets margin) and other useful packages
+\usepackage{graphicx,ctable,booktabs}
+\usepackage{mathtools}
+\usepackage[boxed]{algorithm2e}
+\usepackage{mathdots}
+\usepackage{fancyhdr} %Fancy-header package to modify header/page numbering
+\usepackage{cleveref}
+
+\setlength{\oddsidemargin}{.25in}
+\setlength{\evensidemargin}{.25in}
+\setlength{\textwidth}{6in}
+\setlength{\topmargin}{-0.4in}
+\setlength{\textheight}{8.5in}
+
+
+
+\newcommand{\heading}[6]{
+  \renewcommand{\thepage}{\arabic{page}} % used to be #1-\arabic{page}
+  \noindent
+  \begin{center}
+  \framebox{
+    \vbox{
+      \hbox to 5.78in { \textbf{#2} \hfill #3 }
+      \vspace{4mm}
+      \hbox to 5.78in { {\Large \hfill #6  \hfill} }
+      \vspace{2mm}
+      \hbox to 5.78in { \textit{Instructor: #4 \hfill #5} }
+    }
+  }
+  \end{center}
+  \vspace*{4mm}
+}
+
+%Redefining sections as problems
+\makeatletter
+\newenvironment{problem}{\@startsection
+       {section}
+       {2}
+       {-.2em}
+       {-3.5ex plus -1ex minus -.2ex}
+       {2.3ex plus .2ex}
+       {\pagebreak[3]%forces pagebreak when space is small; use \eject for better results
+       \large\bf\noindent{Problem }
+       }
+       }
+       %{%\vspace{1ex}\begin{center} \rule{0.3\linewidth}{.3pt}\end{center}}
+       %\begin{center}\large\bf \ldots\ldots\ldots\end{center}}
+\makeatother
+
+
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem{definition}[theorem]{Definition}
+\newtheorem{remark}[theorem]{Remark}
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{proposition}[theorem]{Proposition}
+\newtheorem{claim}[theorem]{Claim}
+\newtheorem{observation}[theorem]{Observation}
+\newtheorem{fact}[theorem]{Fact}
+\newtheorem{assumption}[theorem]{Assumption}
+
+%\newenvironment{proof}{\noindent{\bf Proof:} \hspace*{1mm}}{
+% \hspace*{\fill} $\Box$ }
+%\newenvironment{proof_of}[1]{\noindent {\bf Proof of #1:}
+% \hspace*{1mm}}{\hspace*{\fill} $\Box$ }
+%\newenvironment{proof_claim}{\begin{quotation} \noindent}{
+% \hspace*{\fill} $\diamond$ \end{quotation}}
+
+\newcommand{\problemset}[3]{\heading{#1}{\classname}{#2}{\instructor}{#3}{Problem Set #1}} % Don't change this line
+%%%%%%%%%%%%%%%%%%%%%%%%%% Change this stuff below, don't change the line above this one
+\newcommand{\problemsetnum}{2}            % problem set number
+\newcommand{\duedate}{09/11/2017} % problem set deadline
+\newcommand{\studentname}{Tiancheng Gong}      % name of student (i.e., you)
+\newcommand{\classname}{CS 8803 GA}
+\newcommand{\instructor}{Prof. Eric Vigoda}
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\pagestyle{fancy}
+%\addtolength{\headwidth}{\marginparsep} %these change header-rule width
+%\addtolength{\headwidth}{\marginparwidth}
+\lhead{\classname} %Problem \thesection}
+\chead{} 
+\rhead{\thepage} 
+\lfoot{\small\scshape \classname}
+\cfoot{} 
+\rfoot{\footnotesize PS \#\problemsetnum} 
+\renewcommand{\headrulewidth}{.3pt} 
+\renewcommand{\footrulewidth}{.3pt}
+\setlength\voffset{-0.25in}
+\setlength\textheight{648pt}
+
+
+\newcommand{\sit}{\shortintertext}
+\newcommand\deq{\mathrel{\overset{\makebox[0pt]{\mbox{\normalfont\tiny\sffamily def}}}{=}}}
+\newcommand{\ones}{\mathbbm{1}}
+\newcommand{\e}{\vec{e}}
+\newcommand{\tr}{\text{tr}}
+\newcommand{\bs}{\boldsymbol}
+\mathchardef\mhyphen="2D
+\newcommand{\C}{\mathbb{C}}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\II}{\mathcal{I}}
+\newcommand{\FF}{\mathcal{F}}
+\newcommand{\X}{\mathcal{X}}
+\newcommand{\Y}{\mathcal{Y}}
+\newcommand{\ra}{\rightarrow}
+\newcommand{\Ra}{\Rightarrow}
+\newcommand{\PP}{\mathbb{P}}
+\newcommand{\sse}{\subseteq}
+\newcommand{\eps}{\epsilon}
+\newcommand{\N}{\mathcal{N}}
+\newcommand{\poly}{\textup{poly}}
+
+\newcommand{\dom}{\textup{dom}}
+
+\renewcommand{\thesubsection}{\thesection.\roman{subsection}}
+
+
+% auto sized delimiters
+\newcommand{\Br}[1]{\left\{#1\right\}}
+\newcommand{\br}[1]{\left[#1\right]}
+\newcommand{\pr}[1]{\left(#1\right)}
+\newcommand{\ceil}[1]{\left\lceil#1\right\rceil}
+\newcommand{\floor}[1]{\left\lfloor#1\right\rfloor}
+\newcommand{\abs}[1]{\left|#1\right|}
+\newcommand{\sgn}{\textup{sgn}}
+
+%default delimiter for Pr and E
+\DeclarePairedDelimiter{\defaultDelim}{[}{]}
+
+\DeclareMathOperator{\capPr}{Pr}
+\renewcommand{\Pr}[2][]{\capPr_{#1}\defaultDelim*{#2}}
+\DeclareMathOperator{\capE}{E}
+\newcommand{\E}[2][]{\capE_{#1}\defaultDelim*{#2}}
+\DeclareMathOperator{\capVar}{Var}
+\newcommand{\Var}[2][]{\capVar_{#1}\defaultDelim*{#2}}
+
+%\DeclareMathOperator*{}{} puts subscript below
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+\problemset{\problemsetnum}{\duedate}{\studentname}
+
+\begin{problem} {DPV 1.12}
+\textbf{Answer:}\\\\
+Since 3 is prime, by Fermat's Little Theorem (or by observation) we know that
+$2^2\equiv 1 \mod 3$.  We'll use this fact in the following manner: \\
+	\textbf{Answer:}\\\\
+	\begin{equation} \nonumber
+	2^{2^{2006}} \equiv 2^{2\times 2^{2005}} \equiv \left(2^2\right)^{2^{2005}} \equiv (1)^{2^{2005}} \equiv 1 \mod 3
+\end{equation}
+\end{problem}
+
+\begin{problem} {DPV 1.25}
+By Fermat's Little Theorem, since 127 is prime we know that $2^{126}\equiv 1 \mod 127$.  To use this fact we need to find the inverse of $2 \mod 127$.  Since $gcd(2,127)=1$ hence $2^{-1}\mod 127$ exists, and
+observe that $2^{-1} \equiv 64 \mod 127$.  Using these facts we have: \\
+	\textbf{Answer:}\\\\
+	\begin{equation} \nonumber
+	2^{125} \equiv 2^{126}\times 2^{-1} \equiv 1\times 64 \equiv 64  \mod 127
+	\end{equation}
+\end{problem}
+
+\begin{problem} {DPV 1.20}
+	\textbf{Answer:}
+	\begin{enumerate}
+		\item
+		$4 \times 20 - 1 \times 79 = 1 \quad \Rightarrow \quad 20^{-1} \equiv 4 \mod 79$
+		\item
+		$21 \times 3 - 1 \times 62 = 1 \quad \Rightarrow \quad 3^{-1} \equiv 21 \mod 62$
+		\item
+		The inverse doesn't exist since $\gcd(21, 91) = 7 \neq 1$.
+		\item
+		$5 \times 14 - 3 \times 23 = 1 \quad \Rightarrow \quad 5^{-1} \equiv 14 \mod 23$
+	\end{enumerate}
+\end{problem}
+
+\begin{problem} {DPV 1.22}
+	\textbf{Claim: If $a$ has an inverse modulo $b$, then $b$ has an inverse modulo $a$.}\\\\
+	\textbf{Proof:}\\\\
+	If $a$ has an inverse modulo $b$, then $\gcd(a, b) = 1$, which indicates $b$ has an inverse modulo $a$ as well.\\
+	Alternative proof: \\
+	Let $c \in \mathbb{Z}$ such that $c \equiv a^{-1} \mod b$, then there exists $d \in \mathbb{Z}$ such that $ca + db = 1$.\\
+	Mod both sides with $a$ and we get $ca + db \equiv db \equiv 1 \mod a$, which implies $d$ is an inverse of $b$ modulo $a$. The claim is proved.
+\end{problem}
+
+\begin{problem} {DPV 1.28}
+	\textbf{Answer:}\\\\
+	Given $p = 7$ and $q = 11$, we have $(p-1)(q-1) = 60$.\\
+	We try $e = 2, 3, 5, 7, \dots$, and $e=7$ is the first one that has an inverse module 60 since $\gcd(7, 60) = 1$. And using the Extended-Euclid Algorithm covered in the lecture, we can find $d \in \mathbb{Z}$ such that $d \equiv e^{-1} \mod 60$. The answer is $d = 43 \equiv 7^{-1} \mod 60$, which can be verified by $43 \times 7 - 5 \times 60 = 1$.
+\end{problem}
+
+\begin{problem} {DPV 1.42}
+	\textbf{Claim: The new cryptosystem using only $p$ is not secure.}\\\\
+	\textbf{Proof:}\\\\
+	Let $p$ be an $n$-bit number.\\\\
+	Given $p, e$ and $m^e \mod p$, we can first compute the inverse of $e$ modulo $p-1$ using the Extended-Euclid Algorithm in $O(n^3)$ time. Let the inverse be $a$, and we have $ae + b (p-1) = 1$. \\\\
+	According to the Fermat's Little Theorem, we have $m^{p-1} \equiv 1 \mod p$ since $p$ is a prime.\\\\
+	Thus we can decrypt the message by $(m^e)^a \equiv m^{ae} \equiv m \cdot m^{-b(p-1)} \equiv m \mod p$. Since we are given $m^e \mod p$, which is at most $\log(p)$ bits and $a \leq p-1$ (otherwise we can subtract $p-1$ from $a$ to get a smaller inverse), the computation time for this step is $O(n^3)$.\\\\
+	The total running time for this algorithm is $O(n^3) + O(n^3) = O(n^3)$, which is a polynomial time for the input space ($\log p = n$).
+\end{problem}
+
+\end{document}

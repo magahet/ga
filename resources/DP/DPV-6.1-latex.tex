@@ -1,0 +1,134 @@
+\documentclass[12pt]{article}
+
+\usepackage{amsmath}    % need for subequations
+\usepackage{graphicx}   % need for figures
+\usepackage{verbatim}   % useful for program listings
+\usepackage{subfigure}  % use for side-by-side figures
+\usepackage{hyperref}   % use for hypertext links, including those to external documents and URLs
+\usepackage{clrscode}
+\usepackage{algorithmic}
+\usepackage{amssymb}
+\usepackage{algorithm}
+\usepackage{url,hyperref}
+\usepackage{amsthm}
+
+% don't need the following. simply use defaults
+%\setlength{\baselineskip}{50.0pt}    % 16 pt usual spacing between lines
+%\setlength{\parskip}{3pt plus 2pt}
+%\setlength{\parindent}{20pt}
+%\setlength{\oddsidemargin}{0.5cm}
+%\setlength{\evensidemargin}{0.5cm}
+%\setlength{\marginparsep}{0.75cm}
+%\setlength{\marginparwidth}{2.5cm}
+%\setlength{\marginparpush}{1.0cm}
+%\setlength{\textwidth}{150mm}
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem{lemma}[theorem]{Lemma}
+
+\algsetup{indent=1cm}
+
+\begin{document}
+
+\begin{center}
+{\large 
+Solutions for [DPV] Practice Dynamic Programming Problems} \\
+\end{center}
+
+{\noindent \bf [DPV] Problem 6.1 --  Max contiguous subsequence}
+
+{\noindent \bf Solution:}
+Let's first solve the problem of finding the maximum sum obtainable by a contiguous
+subsequence, and then we'll see it's easy to modify that algorithm to output a valid
+subsequence.
+
+For solving the problems using dynamic programming, we first identify the subproblems and then
+we try to express a recurrence for the solution to the subproblem in
+terms of smaller subproblems.
+Our first attempt is often to consider {\em prefixes} for the subproblem.
+For the first $i$ numbers, find the maximum contiguous subsequence within it.
+However, one will realize that the recurrence is hard to write down because we have to
+maintain  the property that the solution is contiguous.
+As in the longest increasing
+subsequence problem, we have to strengthen the subproblem so that we consider
+the best solution that includes the number $a_i$.
+
+We define the subproblem as:
+\begin{eqnarray*}
+S(i) = & \mbox{ the maximum sum attainable by a contiguous subsequence from the list } \\
+& \mbox{ of numbers $a_1,a_2,a_3,...,a_i$ with the extra constraint that } \\
+& \mbox{ the contiguous subsequence has to end with $a_i$. }
+\end{eqnarray*}
+
+The reason to force the subproblem to have this extra condition is that, just
+as for the longest increasing subsequence problem that we saw in class, it is 
+necessary in order to write a recursive formula for $S(i)$ in terms of $S(1),\dots, S(i-1)$.
+
+Let's look at the example in the book, $A = [5, 15, -30, 10, -5, 40, 10]$.
+Then, $S(1) = 5$ since $5$ itself is the only option.
+$S(2)=20$ since $5,15$ has larger sum than $15$ by itself.
+Similarly, $S(3) = -10$ since $5+15-30 =-10$ is larger than $-30$ by itself.
+Note, $S(4)=10$ since that is larger than $5+15-30+10=0$.
+The whole table is $S = [5, 20, -10, 10, 5, 45, 55]$.
+
+Notice that to compute $S(i)$ we either consider adding $a_i$ to the optimal
+subsequence ending at $a_{i-1}$ or we consider $a_i$ by itself.
+Hence, the recurrence is the following:
+\[ S(i) = \max\{ a_i, a_i+S(i-1)\}.
+\]
+
+It is easy to see that once we define these subproblems, the final solution to the original problem is the best solution among $S(1), S(2),..., S(n)$ which can be computed in $O(n)$ time assuming that all the subproblems are solved.
+The pseudocode for filling the table is below.
+
+To obtain a valid subsequence, as in the longest increasing subsequence problem
+that we did in class, we just have to ``backtrack'' in the table $S$ to determine if the
+optimal subsequence only includes $a_i$, or if it continues to the optimal subsequence ending at $a_{i-1}$.
+To this end we add use the table $prev()$ to keep track of which value achieves
+the maximum in the recurrence.
+
+\begin{algorithm}[h!]
+\caption{Max sum of contiguous subsequence($a_1,a_2,\dots,a_n$)}
+\begin{algorithmic}
+\STATE $S(0) = 0$.
+\FOR{$i=1$ to $n$}
+\IF{$S(i-1) + a_i \ge a_i$}
+\STATE $S(i) = S(i-1)+a_i$
+\STATE $prev(i) = i-1$
+\ELSE
+\STATE $S(i) = a_i$
+\STATE $prev(i) = NULL$
+\ENDIF
+\ENDFOR
+\STATE $max=1$
+\FOR{$i=2$ to $n$}
+\IF{$S(i)>S(max)$} 
+\STATE $max=i$
+\ENDIF
+\ENDFOR
+\RETURN $S(max)$
+\end{algorithmic}
+\end{algorithm}
+
+
+The running time is $O(n)$.
+
+To output a contiguous subsequence obtaining the maximum sum we add
+the following to the algorithm.
+
+\begin{algorithm}[h!]
+\caption{Outputting a contiguous subsequence of maximum sum}
+\begin{algorithmic}
+\STATE $i=max$
+\STATE $output(i)$
+\WHILE{$prev(i)\neq NULL$}  
+\STATE $i = prev(i)$
+\STATE  $output(i)$
+  \ENDWHILE
+\end{algorithmic}
+\end{algorithm}
+
+
+
+
+
+
+\end{document}
