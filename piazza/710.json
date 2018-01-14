@@ -1,0 +1,536 @@
+{
+  "status": "active", 
+  "unique_views": 188, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-13T01:28:39Z", 
+      "data": "j8p7sje8iia6vr", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j8p7sje5dmx6vq", 
+      "anon": "stud", 
+      "when": "2017-10-13T01:55:08Z", 
+      "type": "followup"
+    }, 
+    {
+      "to": "j8p7sje5dmx6vq", 
+      "anon": "no", 
+      "when": "2017-10-13T02:02:11Z", 
+      "type": "feedback", 
+      "uid": "i4kxfs7hlxngu"
+    }, 
+    {
+      "to": "j8p7sje5dmx6vq", 
+      "anon": "no", 
+      "when": "2017-10-13T02:24:21Z", 
+      "type": "feedback", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j8p7sje5dmx6vq", 
+      "anon": "no", 
+      "when": "2017-10-13T04:37:54Z", 
+      "type": "feedback", 
+      "uid": "hvvxmpxfuyb2eo"
+    }, 
+    {
+      "to": "j8p7sje5dmx6vq", 
+      "anon": "no", 
+      "when": "2017-10-13T13:31:17Z", 
+      "type": "feedback", 
+      "uid": "hz2wlft5i565vr"
+    }, 
+    {
+      "to": "j8p7sje5dmx6vq", 
+      "anon": "no", 
+      "when": "2017-10-13T13:42:02Z", 
+      "type": "feedback", 
+      "uid": "idi5567wFgu"
+    }, 
+    {
+      "to": "j8p7sje5dmx6vq", 
+      "anon": "no", 
+      "when": "2017-10-13T15:17:48Z", 
+      "type": "feedback", 
+      "uid": "i4j6x8uvfv6743"
+    }, 
+    {
+      "to": "j8p7sje5dmx6vq", 
+      "anon": "no", 
+      "when": "2017-10-13T17:45:28Z", 
+      "type": "feedback", 
+      "uid": "idj18b4cw027p9"
+    }, 
+    {
+      "to": "j8p7sje5dmx6vq", 
+      "anon": "no", 
+      "when": "2017-10-13T19:46:59Z", 
+      "type": "feedback", 
+      "uid": "hcaxmzfcban3bv"
+    }, 
+    {
+      "to": "j8p7sje5dmx6vq", 
+      "anon": "no", 
+      "when": "2017-10-13T23:55:52Z", 
+      "type": "feedback", 
+      "uid": "hz03lfq2z6r446"
+    }, 
+    {
+      "to": "j8p7sje5dmx6vq", 
+      "anon": "no", 
+      "when": "2017-10-14T12:54:05Z", 
+      "type": "feedback", 
+      "uid": "iddoxmqfc2e2qh"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8p7sje5dmx6vq", 
+  "bookmarked": 15, 
+  "tags": [
+    "exam", 
+    "graph_algorithms", 
+    "student"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-10-13T01:55:08Z", 
+      "no_upvotes": 0, 
+      "created": "2017-10-13T01:55:08Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8p8qlib8193wi", 
+      "anon": "stud", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-13T02:02:11Z", 
+          "uid": "i4kxfs7hlxngu", 
+          "created": "2017-10-13T02:02:11Z", 
+          "type": "feedback", 
+          "id": "j8p8znoiq0w2ia", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Yes Brent, this is very good notes, thank you very much for sharing.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-13T02:24:21Z", 
+          "uid": "i4ket0u1z5q31a", 
+          "created": "2017-10-13T02:24:21Z", 
+          "type": "feedback", 
+          "id": "j8p9s5kibq24tn", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thank-you for sharing! :)</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-13T04:37:54Z", 
+          "uid": "hvvxmpxfuyb2eo", 
+          "created": "2017-10-13T04:37:54Z", 
+          "type": "feedback", 
+          "id": "j8pejwpn7v77h7", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>thanks a lot Brent!</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-13T13:31:17Z", 
+          "uid": "hz2wlft5i565vr", 
+          "created": "2017-10-13T13:31:17Z", 
+          "type": "feedback", 
+          "id": "j8pxlujv7pr2v", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#43;1</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-13T13:42:02Z", 
+          "uid": "idi5567wFgu", 
+          "created": "2017-10-13T13:42:02Z", 
+          "type": "feedback", 
+          "id": "j8pxzo1m4gr68r", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thanks, Brent. Appreciate it.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-13T15:17:48Z", 
+          "uid": "i4j6x8uvfv6743", 
+          "created": "2017-10-13T15:17:48Z", 
+          "type": "feedback", 
+          "id": "j8q1etx38dw2wq", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Awesome, much appreciated.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-13T17:45:28Z", 
+          "uid": "idj18b4cw027p9", 
+          "created": "2017-10-13T17:45:28Z", 
+          "type": "feedback", 
+          "id": "j8q6oqag3boxp", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thanks Brent</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-13T19:46:59Z", 
+          "uid": "hcaxmzfcban3bv", 
+          "created": "2017-10-13T19:46:59Z", 
+          "type": "feedback", 
+          "id": "j8qb0zpcebo1dq", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thanks! &#43; 1</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-13T23:55:52Z", 
+          "uid": "hz03lfq2z6r446", 
+          "created": "2017-10-13T23:55:52Z", 
+          "type": "feedback", 
+          "id": "j8qjx2l54iz2ta", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thank you !</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-14T12:54:05Z", 
+          "uid": "iddoxmqfc2e2qh", 
+          "created": "2017-10-14T12:54:05Z", 
+          "type": "feedback", 
+          "id": "j8rbpva3tw2kj", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#43;1 Much appreciated!</p>"
+        }
+      ], 
+      "subject": "<p>VERY helpful . thanks.</p>"
+    }
+  ], 
+  "nr": 710, 
+  "bucket_order": 2, 
+  "type": "note", 
+  "folders": [
+    "graph_algorithms", 
+    "exam"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 19, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-10-13T01:28:39Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145152138, 
+  "tag_good": [
+    {
+      "name": "Gautam Salhotra", 
+      "admin": false, 
+      "photo": "1425181695_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4m49pmqc4h14p"
+    }, 
+    {
+      "name": "Gautam Venkataramanan", 
+      "admin": false, 
+      "photo": "1447185933_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hvvxmpxfuyb2eo"
+    }, 
+    {
+      "name": "Shihgian Lee", 
+      "admin": false, 
+      "photo": "1420394909_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i18w67avy8e1uk"
+    }, 
+    {
+      "name": "Isaac Gutierrez", 
+      "admin": false, 
+      "photo": "1420658091_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hzetpo9z5sK"
+    }, 
+    {
+      "name": "Arvind Kumar Sharma", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "j8asouglzmcwj"
+    }, 
+    {
+      "name": "Xinyu Wang", 
+      "admin": true, 
+      "photo": null, 
+      "us": false, 
+      "role": "ta", 
+      "facebook_id": null, 
+      "id": "isce58miop454k"
+    }, 
+    {
+      "name": "Daniel Yan Cai", 
+      "admin": false, 
+      "photo": "1452666260_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hcaxmzfcban3bv"
+    }, 
+    {
+      "name": "Zack Gow", 
+      "admin": false, 
+      "photo": "1476241357_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hyzyc8nwswo6z5"
+    }, 
+    {
+      "name": "Balaji Sundaresan", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hz03lfq2z6r446"
+    }, 
+    {
+      "name": "Bhavani Subramanian", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "ijawb89brbO"
+    }, 
+    {
+      "name": "Nikita Nerkar", 
+      "admin": false, 
+      "photo": "1455312357_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "idfwkf5jgsm3gg"
+    }, 
+    {
+      "name": "Babak Keyvani", 
+      "admin": false, 
+      "photo": "1408337737_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hyywem7iw0v1jj"
+    }, 
+    {
+      "name": "Blaine Spear", 
+      "admin": false, 
+      "photo": "1494887789_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "idfwkujs17e3ky"
+    }, 
+    {
+      "name": "Tanmaya Kumar", 
+      "admin": false, 
+      "photo": "1463491563_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4no5h494jw7ha"
+    }, 
+    {
+      "name": "Estelle Yeh", 
+      "admin": false, 
+      "photo": "1421544945_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4fxg6tfzh211n"
+    }, 
+    {
+      "name": "Jason Buoni", 
+      "admin": false, 
+      "photo": "1463440659_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "name": "David Ogor", 
+      "admin": false, 
+      "photo": "1476567276_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "iddoxmqfc2e2qh"
+    }, 
+    {
+      "name": "Nelson Cheng", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4kxfs7hlxngu"
+    }, 
+    {
+      "name": "Geoffrey Sizemore", 
+      "admin": false, 
+      "photo": "1431901103_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hq73eu599lv"
+    }, 
+    {
+      "name": "David Duffy", 
+      "admin": false, 
+      "photo": "1420776747_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4ket0u1z5q31a"
+    }, 
+    {
+      "name": "Jason Keung", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4z1vdy6o1e"
+    }
+  ], 
+  "tag_good_arr": [
+    "i4m49pmqc4h14p", 
+    "hvvxmpxfuyb2eo", 
+    "i18w67avy8e1uk", 
+    "hzetpo9z5sK", 
+    "j8asouglzmcwj", 
+    "isce58miop454k", 
+    "hcaxmzfcban3bv", 
+    "hyzyc8nwswo6z5", 
+    "hz03lfq2z6r446", 
+    "ijawb89brbO", 
+    "idfwkf5jgsm3gg", 
+    "hyywem7iw0v1jj", 
+    "idfwkujs17e3ky", 
+    "i4no5h494jw7ha", 
+    "i4fxg6tfzh211n", 
+    "ijbr5ddtwyt6pa", 
+    "iddoxmqfc2e2qh", 
+    "i4kxfs7hlxngu", 
+    "hq73eu599lv", 
+    "i4ket0u1z5q31a", 
+    "i4z1vdy6o1e"
+  ], 
+  "history": [
+    {
+      "content": "<p>Hi All,</p>\n<p></p>\n<p>I took notes from the Max Flow lectures.\u00a0 Initially, I used Dr. Vigoda&#39;s notes as a base, but I found I needed things spelled out a bit (and I needed to convince myself of some of the points).\u00a0 I usually dont go into the proofs (I use Dr. Vigoda&#39;s notes for those), but I try to capture all of the other concepts.\u00a0 You will also see me struggle to get concepts in the notes, but I do my best. If this would be helpful to you, here they are:</p>\n<p></p>\n<p><a href=\"https://drive.google.com/file/d/0B2HONWLOI4JLRlgyZWZyOWFLbWM/view?usp=sharing\" target=\"_blank\">MF1, MF4</a></p>\n<p><a href=\"https://drive.google.com/file/d/0B2HONWLOI4JLVXVRNHpzOVJKLU0/view?usp=sharing\" target=\"_blank\">MF2, MF3</a></p>\n<p><a href=\"https://drive.google.com/file/d/0B2HONWLOI4JLLWlmTEM0VWxieUE/view?usp=sharing\" target=\"_blank\">MF5</a></p>\n<p></p>\n<p>Thanks,</p>\n<p>Brent</p>", 
+      "anon": "no", 
+      "created": "2017-10-13T01:28:39Z", 
+      "uid": "hvil6y6khgk2ri", 
+      "subject": "My Notes, Max Flow"
+    }
+  ]
+}

@@ -1,0 +1,353 @@
+{
+  "status": "active", 
+  "unique_views": 195, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "stud", 
+      "when": "2017-10-02T23:10:58Z", 
+      "data": "j8asgymb1mb5ki"
+    }, 
+    {
+      "type": "update", 
+      "anon": "stud", 
+      "when": "2017-10-02T23:11:26Z", 
+      "data": "j8ashk3v4b468r"
+    }, 
+    {
+      "uid": "j8asou1orcgw3", 
+      "type": "s_answer", 
+      "when": "2017-10-02T23:27:59Z", 
+      "to": "j8asgym9vut5kh", 
+      "anon": "no", 
+      "data": "j8at2u9axns199"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-10-02T23:29:16Z", 
+      "data": "j8at4h7p9974tp", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "uid": "gns9oa0pgsO", 
+      "type": "i_answer", 
+      "when": "2017-10-02T23:29:49Z", 
+      "to": "j8asgym9vut5kh", 
+      "anon": "no", 
+      "data": "j8at575crn5c1"
+    }, 
+    {
+      "to": "j8asgym9vut5kh", 
+      "anon": "no", 
+      "when": "2017-10-02T23:31:52Z", 
+      "type": "followup", 
+      "uid": "j8asou1orcgw3"
+    }, 
+    {
+      "to": "j8asgym9vut5kh", 
+      "anon": "stud", 
+      "when": "2017-10-03T01:54:19Z", 
+      "type": "followup"
+    }, 
+    {
+      "to": "j8asgym9vut5kh", 
+      "anon": "no", 
+      "when": "2017-10-03T02:02:38Z", 
+      "type": "feedback", 
+      "uid": "ijjd1u5dbTq"
+    }, 
+    {
+      "to": "j8asgym9vut5kh", 
+      "anon": "stud", 
+      "when": "2017-10-03T02:24:06Z", 
+      "type": "feedback"
+    }, 
+    {
+      "to": "j8asgym9vut5kh", 
+      "anon": "no", 
+      "when": "2017-10-03T02:33:23Z", 
+      "type": "feedback", 
+      "uid": "ijjd1u5dbTq"
+    }, 
+    {
+      "to": "j8asgym9vut5kh", 
+      "anon": "stud", 
+      "when": "2017-10-03T02:45:56Z", 
+      "type": "feedback"
+    }, 
+    {
+      "to": "j8asgym9vut5kh", 
+      "anon": "no", 
+      "when": "2017-10-03T05:11:04Z", 
+      "type": "followup", 
+      "uid": "i4mub6lmaxh"
+    }, 
+    {
+      "to": "j8asgym9vut5kh", 
+      "anon": "no", 
+      "when": "2017-10-03T14:53:48Z", 
+      "type": "feedback", 
+      "uid": "gns9oa0pgsO"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8asgym9vut5kh", 
+  "bookmarked": 5, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-02T23:27:59Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j8at2u945cq198", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>For task 2 :</p>\n<p>If you look at the constructor, Si is already given\u00a0 in the config. You use it to seed the random number generator using the given method random.seed(Si &#43; x).\u00a0</p>\n<p>Now you&#39;re ready to generate random number in the desired range. Hint: Size of your bloom filter determines the desired range for random numbers.\u00a0</p>\n<p></p>\n<p>Also more info here -\u00a0<a href=\"https://www.piazza.com/class/j6f5zm92gj34gi?cid=437\">https://piazza.com/class/j6f5zm92gj34gi?cid=437</a>\u00a0</p>", 
+          "anon": "no", 
+          "created": "2017-10-02T23:29:16Z", 
+          "uid": "gns9oa0pgsO", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>If you look at the constructor, Si is already given\u00a0 in the config. You use it to seed the random number generator using the given method random.seed(Si &#43; x).\u00a0</p>\n<p>Now you&#39;re ready to generate random number in the desired range. Hint: Size of your bloom filter determines the desired range for random numbers.\u00a0</p>\n<p></p>\n<p>Also more info here -\u00a0<a href=\"https://www.piazza.com/class/j6f5zm92gj34gi?cid=437\">https://piazza.com/class/j6f5zm92gj34gi?cid=437</a>\u00a0</p>", 
+          "anon": "no", 
+          "created": "2017-10-02T23:27:59Z", 
+          "uid": "j8asou1orcgw3", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-02T23:29:49Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "hyzyc8nwswo6z5"
+      ], 
+      "id": "j8at575bsjw5c0", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Zack Gow", 
+          "admin": false, 
+          "photo": "1476241357_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hyzyc8nwswo6z5"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>actually, for task 1 you must not use the provided seeds in config, you generate the seeds/coefficients for the hash functions, in the constructors.</p>", 
+          "anon": "no", 
+          "created": "2017-10-02T23:29:49Z", 
+          "uid": "gns9oa0pgsO", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-02T23:31:52Z", 
+      "no_upvotes": 0, 
+      "uid": "j8asou1orcgw3", 
+      "created": "2017-10-02T23:31:52Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8at7u9d1orki", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>Oops sorry, didn&#39;t read the question right - answered for task 2. Thanks for correcting John.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-03T01:54:19Z", 
+      "no_upvotes": 0, 
+      "created": "2017-10-03T01:54:19Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8ayb0xuglh4vq", 
+      "anon": "stud", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-03T02:02:38Z", 
+          "uid": "ijjd1u5dbTq", 
+          "created": "2017-10-03T02:02:38Z", 
+          "type": "feedback", 
+          "id": "j8aylq6m2bq6fu", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>For tasks 1 and 3, you&#39;ll need to generate your own seeds. You&#39;ll need to generate a seed for each k. \u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-03T02:24:06Z", 
+          "created": "2017-10-03T02:24:06Z", 
+          "type": "feedback", 
+          "id": "j8azdbvs15l2rp", 
+          "anon": "stud", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>So i would need to use the random.randint function to generate own random seed?\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-03T02:33:23Z", 
+          "uid": "ijjd1u5dbTq", 
+          "created": "2017-10-03T02:33:23Z", 
+          "type": "feedback", 
+          "id": "j8azp9cioqy2bb", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>That&#39;s what I&#39;ve done. I don&#39;t know if this generated list should be seeded or not though. Still working through my testing for task 1.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-03T02:45:56Z", 
+          "created": "2017-10-03T02:45:56Z", 
+          "type": "feedback", 
+          "id": "j8b05elgl934kj", 
+          "anon": "stud", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thanks</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-03T14:53:48Z", 
+          "uid": "gns9oa0pgsO", 
+          "created": "2017-10-03T14:53:48Z", 
+          "type": "feedback", 
+          "id": "j8bq5fx2yvpjc", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>you do not generate any seeds for task 2. you must generate your own seeds for task 1 and 3.</p>"
+        }
+      ], 
+      "subject": "<p>what is the actual meaning of generate the seeds? <strong attention=\"gns9oa0pgsO\">&#64;john turner</strong> \u00a0</p>\n<p>Should I use the random.seed function? Or the seeds would be read from the txt files?</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-03T05:11:04Z", 
+      "no_upvotes": 0, 
+      "uid": "i4mub6lmaxh", 
+      "created": "2017-10-03T05:11:04Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8b5c1chkvx1f9", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>I&#39;m also trying to understand the properties of $$s_i$$ better.</p>\n<p>As far as I can understand because it&#39;s just used to seed the random number generator, it can be any integer.</p>\n<p>From <a href=\"https://docs.scipy.org/doc/numpy/reference/generated/numpy.random.RandomState.html#numpy.random.RandomState\">https://docs.scipy.org/doc/numpy/reference/generated/numpy.random.RandomState.html#numpy.random.RandomState</a><br />&#34;Random seed used to initialize the pseudo-random number generator. Can be any integer between 0 and 2**32 - 1 inclusive, ...&#34;</p>"
+    }
+  ], 
+  "nr": 546, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "project"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 3, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "project", 
+    "student"
+  ], 
+  "created": "2017-10-02T23:10:58Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145191491, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>Have been stuck for Task one for 3 days. Not sure i fully understand the requirement right...</p>\n<p></p>\n<p>My understanding is that the r(Si&#43;X) is equivalent to the function\u00a0random.seed(Si&#43;X) provided to generator seeded at Si&#43;X, but how the Si is generated or picked? Should I use the random.randint(0,n) \u00a0function to generate Si?</p>", 
+      "anon": "stud", 
+      "created": "2017-10-02T23:11:26Z", 
+      "subject": "How to pick the seed Si for Task 1"
+    }, 
+    {
+      "content": "<p>Have been stuck for Task one for 3 days. Not sure i fully understand the requirement right...</p>\n<p></p>\n<p>My understanding is that the r(Si&#43;X) is equivalent to the function\u00a0random.seed(Si&#43;X) provided to generator seeded at Si&#43;X, but how the Si is generation or picked? Should I use the random.randint(0,n) \u00a0function?</p>", 
+      "anon": "stud", 
+      "created": "2017-10-02T23:10:58Z", 
+      "subject": "How to pick the seed Si for Task 1"
+    }
+  ]
+}

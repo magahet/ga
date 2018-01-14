@@ -1,0 +1,194 @@
+{
+  "status": "active", 
+  "unique_views": 177, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-08-23T19:34:45Z", 
+      "data": "j6pf4tkofytp8", 
+      "uid": "i4pvwmg5VTb"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-08-23T19:35:02Z", 
+      "data": "j6pf56nmy2416b", 
+      "uid": "i4pvwmg5VTb"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-08-23T19:35:15Z", 
+      "data": "j6pf5gscnbb1ag", 
+      "uid": "i4pvwmg5VTb"
+    }, 
+    {
+      "uid": "i4nkipeofrkrz", 
+      "type": "s_answer", 
+      "when": "2017-08-23T19:58:33Z", 
+      "to": "j6pf4tkkrupp7", 
+      "anon": "no", 
+      "data": "j6pfzfnayz3ne"
+    }, 
+    {
+      "to": "j6pf4tkkrupp7", 
+      "anon": "no", 
+      "when": "2017-08-23T20:02:58Z", 
+      "type": "followup", 
+      "uid": "i4pvwmg5VTb"
+    }, 
+    {
+      "to": "j6pf4tkkrupp7", 
+      "anon": "no", 
+      "when": "2017-08-23T20:29:42Z", 
+      "type": "feedback", 
+      "uid": "i4iys7m3lpq2ij"
+    }, 
+    {
+      "to": "j6pf4tkkrupp7", 
+      "anon": "no", 
+      "when": "2017-08-23T20:53:05Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j6pf4tkkrupp7", 
+  "bookmarked": 4, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-08-23T19:58:33Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j6pfzflan3wnd", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>I might not be understanding your question well, but let&#39;s see if this helps:</p>\n<p></p>\n<p>Yes, you can have multiple conditions. You can do something like this:</p>\n<p></p>\n<p>$$L(i, j) = \\begin{Bmatrix}\n1 &amp; if~a = b\\\\ \n2 &amp; if~a &gt; b\\\\ \n0 &amp; otherwise\n\\end{Bmatrix}$$</p>\n<p></p>\n<p>Does this help?</p>", 
+          "anon": "no", 
+          "created": "2017-08-23T19:58:33Z", 
+          "uid": "i4nkipeofrkrz", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-23T20:02:58Z", 
+      "no_upvotes": 0, 
+      "uid": "i4pvwmg5VTb", 
+      "created": "2017-08-23T20:02:58Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6pg54azlzv6tk", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-08-23T20:29:42Z", 
+          "uid": "i4iys7m3lpq2ij", 
+          "created": "2017-08-23T20:29:42Z", 
+          "type": "feedback", 
+          "id": "j6ph3hcbciw191", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I&#39;m no expert, but here&#39;s my thinking (Note: I reversed things to make this more readable to me, but you could also work backwards).</p>\n<p></p>\n<p>$$X = X[::-1] = [1, 1, 0, 1, 1, 1, 9, 0, 0]$$</p>\n<p></p>\n<p>subproblem:</p>\n<p>$$C(i)$$ = number of consecutive 1s ending at $$i$$\u00a0and not followed by\u00a09 for prefix $$1..i$$ \u00a0</p>\n<p></p>\n<p>recurrence:</p>\n<p>$$C(i) = \\left\\{\\begin{matrix}\n1&#43;C(i-1) &amp; \\text{if } x_i = 1 \\text{ and } (i&#43;1 &gt; n \\text{ or } x_{i&#43;1} \\neq 9) \\\\ \n0 &amp; \\text{otherwise}\n\\end{matrix}\\right.$$</p>\n<p>Base case: $$C(0)=0$$</p>\n<p></p>\n<pre>C[0] = 0\nfor i=1:n\n    if X[i] = 1 and (i&#43;1 &gt; n or X[i&#43;1] != 9)\n        C[i] = 1 &#43; C[i-1]\n    else\n        C[i] = 0\nm = 1\nfor i=2:n\n    if C[i]&gt;C[m]\n        m=i\nreturn C[m]</pre>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-23T20:53:05Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-08-23T20:53:05Z", 
+          "type": "feedback", 
+          "id": "j6phxk3e4eaqy", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>This specific problem can be solved linearly, but here is the way I&#39;d approach it:</p>\n<p></p>\n<p>$$L(i) = max \\begin{Bmatrix}-1 &amp; x[i] = 9~\\vee~x[i] = 1~\\wedge~ x[i-1]=-1\\\\x[i-1] &#43; 1 &amp; x[i] = 1\\\\ 0 &amp; otherwise \\end{Bmatrix}$$</p>\n<p></p>"
+        }
+      ], 
+      "subject": "<p>That does help, but\u00a0a bit different than what I&#39;m asking. Sorry for not wording correctly.</p>\n<p></p>\n<p>Let&#39;s say I want to count the length of the longest substring of 1&#39;s BUT if the number 9 is immediately preceding the letter 1, then don&#39;t\u00a0count that substring of 1&#39;s.</p>\n<p></p>\n<p>X = [ 0, 0, 9, 1, 1, 1, 0, 1, 1]</p>\n<p>The answer would be 2, since the other longer set of 1&#39;s is proceeded by a 9, so we don&#39;t count it.</p>\n<p></p>\n<p>In the recursion, as it&#39;s counting the number 1&#39;s, once it gets to the 9, how would you write it know to drop the count?</p>\n<p></p>"
+    }
+  ], 
+  "nr": 54, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "dynamic_programming"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 2, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "dynamic_programming", 
+    "student"
+  ], 
+  "created": "2017-08-23T19:34:45Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145320652, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>If i am doing a reccurence, (ie, S(i) = 1 &#43; S(i-1)) and then suddenly there exists a condition where I want to drop the current count, how would I write this in an algorithm?\u00a0</p>\n<p></p>\n<p>I think i would have to use multiple IF statements, but just having trouble with the format of writing them. Can I define all the IF conditions ahead of time, and then when I write the algorithm formula below, it knows to use those conditions?</p>\n<p></p>\n<p></p>\n<p></p>", 
+      "anon": "no", 
+      "created": "2017-08-23T19:35:15Z", 
+      "uid": "i4pvwmg5VTb", 
+      "subject": "How to cancel a reccurence"
+    }, 
+    {
+      "content": "<p>If i am doing a reccurence, (ie, S(i) = 1 &#43; S(i-1)) and then suddenly there exists a condition where I want to drop the current count, how would I write this in an algorithm?\u00a0</p>\n<p></p>\n<p>I think i would have to use multiple IF statements, but just having trouble with the format of writing them. Can I definte all the IF conditions ahead of time, and then when I write the algorithm formula below, it knows to use those conditions?</p>\n<p></p>\n<p></p>\n<p></p>", 
+      "anon": "no", 
+      "created": "2017-08-23T19:35:02Z", 
+      "uid": "i4pvwmg5VTb", 
+      "subject": "How to cancel a reccurence"
+    }, 
+    {
+      "content": "<p>If i am doing a reccurence, (ie, S(i) = 1 &#43; S(i-1)) and then suddenly there exists a condition where I want to drop the current count. How would I write this in an algorithm?\u00a0</p>\n<p></p>\n<p>I think i would have to use multiple IF statements, but just having trouble with the format of writing them. Can I definte all the IF conditions ahead of time, and then when I write the algorithm formula below, it knows to use those conditions?</p>\n<p></p>\n<p></p>\n<p></p>", 
+      "anon": "no", 
+      "created": "2017-08-23T19:34:45Z", 
+      "uid": "i4pvwmg5VTb", 
+      "subject": "How to cancel a reccurence"
+    }
+  ]
+}

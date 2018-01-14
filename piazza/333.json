@@ -1,0 +1,188 @@
+{
+  "status": "active", 
+  "unique_views": 177, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-17T14:49:31Z", 
+      "data": "j7ouyaz3e3q40v", 
+      "uid": "j6m1j9wkzk46tu"
+    }, 
+    {
+      "to": "j7ouyaz1wol40t", 
+      "anon": "stud", 
+      "when": "2017-09-17T15:06:24Z", 
+      "type": "followup"
+    }, 
+    {
+      "uid": "i4nkipeofrkrz", 
+      "type": "s_answer", 
+      "when": "2017-09-17T17:11:51Z", 
+      "to": "j7ouyaz1wol40t", 
+      "anon": "no", 
+      "data": "j7p01cx6caq395"
+    }, 
+    {
+      "to": "j7ouyaz1wol40t", 
+      "anon": "no", 
+      "when": "2017-09-17T17:14:19Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j7ouyaz1wol40t", 
+      "anon": "no", 
+      "when": "2017-09-17T17:52:36Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j7ouyaz1wol40t", 
+  "bookmarked": 5, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-09-17T15:06:24Z", 
+      "no_upvotes": 0, 
+      "created": "2017-09-17T15:06:24Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7ovk120npv77g", 
+      "anon": "stud", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-17T17:14:19Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-09-17T17:14:19Z", 
+          "type": "feedback", 
+          "id": "j7p04is14ra5dr", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Don&#39;t provide pseudo-code; a description of your solution is enough.</p>\n<p></p>\n<p>I&#39;m not sure exactly what do you mean by the question related to the description of the book.\u00a0The main challenge of the problem is that $$n$$ is not provided. Your algorithm should account for that.</p>\n<p></p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-17T17:52:36Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-09-17T17:52:36Z", 
+          "type": "feedback", 
+          "id": "j7p1hrgaswzbp", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>The text in parentheses in the textbook is just another way to look at the problem, but it won&#39;t make any difference to your algorithm. All that your algorithm knows is that if it tries to read an element beyond n, it gets the value infinity.</p>"
+        }
+      ], 
+      "subject": "<p>Also can we use the description from the book for solving this problem. i.e.\u00a0(If you are disturbed by the fact that the array A has innite length, assume instead that it is of length n, but that you don&#39;t know this length, and that the implementation of the array data type in your programming language returns the error message 1 whenever<br />elements A[i] with i &gt; n are accessed.)</p>\n<p></p>\n<p>Also do we need to provide detailed pseudo code for this problem, or a description on how to solve it would be sufficient?</p>"
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-17T17:11:51Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [
+        "j6m1j9wkzk46tu"
+      ], 
+      "id": "j7p01cx4vig394", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Arvind Sharma", 
+          "admin": false, 
+          "photo": "1503332883_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "j6m1j9wkzk46tu"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>Just &#34;do binary search&#34; is enough. You don&#39;t need to explain what binary search does.</p>", 
+          "anon": "no", 
+          "created": "2017-09-17T17:11:51Z", 
+          "uid": "i4nkipeofrkrz", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 333, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw3"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw3", 
+    "student"
+  ], 
+  "created": "2017-09-17T14:49:31Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145237750, 
+  "tag_good": [
+    {
+      "name": "Di Wang", 
+      "admin": false, 
+      "photo": "1453179229_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "ija2ufzr6l0f7"
+    }
+  ], 
+  "tag_good_arr": [
+    "ija2ufzr6l0f7"
+  ], 
+  "history": [
+    {
+      "content": "Can we mention terms like do binary search on some range of array while explaining the algorithm or we need to mention what binary search does on that range ? Please clarify.", 
+      "anon": "no", 
+      "created": "2017-09-17T14:49:31Z", 
+      "uid": "j6m1j9wkzk46tu", 
+      "subject": "[DPV] Problem 2.16 (find x in an infinite array)"
+    }
+  ]
+}

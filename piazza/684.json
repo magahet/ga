@@ -1,0 +1,209 @@
+{
+  "status": "active", 
+  "unique_views": 189, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-09T19:27:53Z", 
+      "data": "j8kkl1bi9z64mw", 
+      "uid": "hz0pn3deX7A"
+    }, 
+    {
+      "uid": "gy4twfv45cg5o6", 
+      "type": "i_answer", 
+      "when": "2017-10-09T21:07:34Z", 
+      "to": "j8kkl1bg3494mv", 
+      "anon": "no", 
+      "data": "j8ko58803ed262"
+    }, 
+    {
+      "to": "j8kkl1bg3494mv", 
+      "anon": "no", 
+      "when": "2017-10-16T23:23:19Z", 
+      "type": "followup", 
+      "uid": "ijb8j8y2bZ5"
+    }, 
+    {
+      "to": "j8kkl1bg3494mv", 
+      "anon": "no", 
+      "when": "2017-10-22T03:53:00Z", 
+      "type": "feedback", 
+      "uid": "hyxoacu48ea3ls"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8kkl1bg3494mv", 
+  "bookmarked": 5, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-09T21:07:34Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "hvfeyx7qglF", 
+        "hz0pn3deX7A", 
+        "hv1gl7gmpkj41y", 
+        "hyzyc8nwswo6z5", 
+        "hve4kb0lopy4sl", 
+        "ido3erby783m0", 
+        "iddoy2bdneb2tv", 
+        "ij9j08l4mzc3j6", 
+        "i18w67avy8e1uk"
+      ], 
+      "id": "j8ko587t1o5261", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Brandon Richards", 
+          "admin": false, 
+          "photo": "1408392221_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hvfeyx7qglF"
+        }, 
+        {
+          "name": "Michael Buss", 
+          "admin": false, 
+          "photo": "1435529089_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hz0pn3deX7A"
+        }, 
+        {
+          "name": "William Miller", 
+          "admin": false, 
+          "photo": "1408322716_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hv1gl7gmpkj41y"
+        }, 
+        {
+          "name": "Zack Gow", 
+          "admin": false, 
+          "photo": "1476241357_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hyzyc8nwswo6z5"
+        }, 
+        {
+          "name": "Dimitri Krinos", 
+          "admin": false, 
+          "photo": "1410181027_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hve4kb0lopy4sl"
+        }, 
+        {
+          "name": "Kan Wu", 
+          "admin": false, 
+          "photo": "1440313201_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "ido3erby783m0"
+        }, 
+        {
+          "name": "Jesse Peinado", 
+          "admin": false, 
+          "photo": null, 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "iddoy2bdneb2tv"
+        }, 
+        {
+          "name": "Hao Wu", 
+          "admin": false, 
+          "photo": "1452573993_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "ij9j08l4mzc3j6"
+        }, 
+        {
+          "name": "Shihgian Lee", 
+          "admin": false, 
+          "photo": "1420394909_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i18w67avy8e1uk"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "Some of the homework problems you can do after watching GR3&#43;MF1.\nThat practice problem you probably need MF2.\nYou might find MF3&#43;MF5 useful to get some ideas for how to reduce a problem to max-flow.\nAnd you should watch MF4 as well before the exam, but I won&#39;t to test you on the detailed analysis of the Edmonds-Karp algorithm.\nYou don&#39;t need to do the homework problems in order.\n\n--Eric", 
+          "anon": "no", 
+          "created": "2017-10-09T21:07:34Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 684, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw5"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 6, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw5", 
+    "student"
+  ], 
+  "created": "2017-10-09T19:27:53Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145159108, 
+  "tag_good": [
+    {
+      "name": "Nelson Cheng", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4kxfs7hlxngu"
+    }
+  ], 
+  "tag_good_arr": [
+    "i4kxfs7hlxngu"
+  ], 
+  "history": [
+    {
+      "content": "<p>What lectures should we watch in order to complete HW5?</p>\n<p>Normally, I was thinking the homework assignment depended only on the lecture videos from the previous week. Which lectures does everyone else watch before the homework assignments?</p>\n<p></p>\n<p>I&#39;m most interested in MF2 as it is described as Max-flow = min cut and the first practice problem for HW5 is DPV 7.10 (max-flow = min-cut example). Should it be watched in preparation for HW5?</p>", 
+      "anon": "no", 
+      "created": "2017-10-09T19:27:53Z", 
+      "uid": "hz0pn3deX7A", 
+      "subject": "HW5 corresponding lecture videos"
+    }
+  ]
+}

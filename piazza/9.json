@@ -1,0 +1,200 @@
+{
+  "status": "active", 
+  "unique_views": 332, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-08-20T18:44:38Z", 
+      "data": "j6l30tbzag2d2", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-08-20T18:44:59Z", 
+      "data": "j6l319pxy762sh", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j6l30tbrii12d1", 
+      "anon": "no", 
+      "when": "2017-08-20T20:30:11Z", 
+      "type": "followup", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j6l30tbrii12d1", 
+      "anon": "no", 
+      "when": "2017-08-20T20:35:36Z", 
+      "type": "feedback", 
+      "uid": "hz0jkj9dnctqp"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-08-23T00:25:31Z", 
+      "data": "j6oa2wpdbkr3tf", 
+      "uid": "i1v7fed8sw85di"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j6l30tbrii12d1", 
+  "bookmarked": 6, 
+  "tags": [
+    "course", 
+    "logistics", 
+    "student"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-08-20T20:30:11Z", 
+      "no_upvotes": 0, 
+      "uid": "hvil6y6khgk2ri", 
+      "created": "2017-08-20T20:30:11Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6l6sk1e2zeg4", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-08-20T20:35:36Z", 
+          "uid": "hz0jkj9dnctqp", 
+          "created": "2017-08-20T20:35:36Z", 
+          "type": "feedback", 
+          "id": "j6l6zifggad2ce", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>If I put slack on my phone, I&#39;d never get anything done!</p>"
+        }
+      ], 
+      "subject": "<p>Also: Both Piazza AND Slack have mobile apps for Android and iOS! Some of the functionality isnt there, 95% of what you need will be.</p>"
+    }
+  ], 
+  "nr": 9, 
+  "bucket_order": 2, 
+  "type": "note", 
+  "folders": [
+    "logistics", 
+    "course"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-08-20T18:44:38Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145337900, 
+  "tag_good": [
+    {
+      "name": "Jon Erickson", 
+      "admin": false, 
+      "photo": "1503255168_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "ijalzed08k3wp"
+    }, 
+    {
+      "name": "Alyssa Hardy", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hz0jkj9dnctqp"
+    }, 
+    {
+      "name": "Brent Wagenseller", 
+      "admin": false, 
+      "photo": "1408396390_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hvil6y6khgk2ri"
+    }, 
+    {
+      "name": "Matthew Clarke", 
+      "admin": false, 
+      "photo": "1468354733_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4knvwlqXZ8"
+    }, 
+    {
+      "name": "Gene Hynson", 
+      "admin": false, 
+      "photo": "1456026706_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hklp7yk0n6o2j8"
+    }, 
+    {
+      "name": "Anna", 
+      "admin": false, 
+      "photo": "1484629250_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4je07nkEjF"
+    }
+  ], 
+  "tag_good_arr": [
+    "ijalzed08k3wp", 
+    "hz0jkj9dnctqp", 
+    "hvil6y6khgk2ri", 
+    "i4knvwlqXZ8", 
+    "hklp7yk0n6o2j8", 
+    "i4je07nkEjF"
+  ], 
+  "history": [
+    {
+      "content": "<p><a href=\"https://omscs-study.slack.com/messages/C2RME3MLJ/convo/C2RME3MLJ-1503078882.000075/\" target=\"_blank\">https://omscs-study.slack.com/messages/C2RME3MLJ/convo/C2RME3MLJ-1503078882.000075/</a></p>", 
+      "anon": "no", 
+      "created": "2017-08-23T00:25:31Z", 
+      "uid": "i1v7fed8sw85di", 
+      "subject": "Piazza is great but don&#39;t forget about Slack!"
+    }, 
+    {
+      "content": "<p><a href=\"https://omscs-study.slack.com/messages/C2RME3MLJ/convo/C2RME3MLJ-1503078882.000075/\" target=\"_blank\">https://omscs-study.slack.com/messages/C2RME3MLJ/convo/C2RME3MLJ-1503078882.000075/</a></p>", 
+      "anon": "no", 
+      "created": "2017-08-20T18:44:59Z", 
+      "uid": "i4ket0u1z5q31a", 
+      "subject": "Piazza is great but don&#39;t forget about Slack!"
+    }, 
+    {
+      "content": "<p>https://omscs-study.slack.com/messages/C2RME3MLJ/convo/C2RME3MLJ-1503078882.000075/</p>", 
+      "anon": "no", 
+      "created": "2017-08-20T18:44:38Z", 
+      "uid": "i4ket0u1z5q31a", 
+      "subject": "Piazza is great but don&#39;t forget about Slack!"
+    }
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "status": "active", 
+  "unique_views": 137, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-19T00:01:57Z", 
+      "data": "j8xpc4yoyqs69x", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j8xpc4ylav069w", 
+      "anon": "no", 
+      "when": "2017-10-19T00:15:30Z", 
+      "type": "followup", 
+      "uid": "i4j6wvmu7he6v1"
+    }, 
+    {
+      "uid": "ijbr5ddtwyt6pa", 
+      "type": "s_answer", 
+      "when": "2017-10-19T00:19:29Z", 
+      "to": "j8xpc4ylav069w", 
+      "anon": "no", 
+      "data": "j8xpyp3my8k35s"
+    }, 
+    {
+      "to": "j8xpc4ylav069w", 
+      "anon": "no", 
+      "when": "2017-10-19T01:46:56Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j8xpc4ylav069w", 
+      "anon": "no", 
+      "when": "2017-10-19T05:19:34Z", 
+      "type": "followup", 
+      "uid": "hz0jkj9dnctqp"
+    }, 
+    {
+      "to": "j8xpc4ylav069w", 
+      "anon": "no", 
+      "when": "2017-10-20T01:48:05Z", 
+      "type": "followup", 
+      "uid": "hkvhtvraa6x6cg"
+    }, 
+    {
+      "to": "j8xpc4ylav069w", 
+      "anon": "no", 
+      "when": "2017-10-20T02:24:41Z", 
+      "type": "feedback", 
+      "uid": "hz0jkj9dnctqp"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8xpc4ylav069w", 
+  "bookmarked": 9, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-10-19T00:15:30Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "i4j6wvmu7he6v1", 
+      "created": "2017-10-19T00:15:30Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8xptkw9vmq7o3", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-19T01:46:56Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-10-19T01:46:56Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j8xt35zv1jr1di", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Thanks for the insight. I do think this is not the common English usage, but nonetheless I believe you&#39;re right."
+        }
+      ], 
+      "subject": "<p>I believe the answer is 2.\u00a0 While studying I have found the distinction to be the word &#34;Unique&#34;.\u00a0 If there is a &#34;Unique lightest edge&#34; then the answer is 1.</p>"
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-19T00:19:29Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [
+        "hju4w9odatf30"
+      ], 
+      "id": "j8xpyp3gcv135r", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Murali Raghu Babu B", 
+          "admin": true, 
+          "photo": "1503448397_35.png", 
+          "us": false, 
+          "role": "ta", 
+          "facebook_id": null, 
+          "id": "hju4w9odatf30"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>The lightest edge e (we can call it e*) is an edge in E where for all edges e in G.E (edges in the graph) there is not an edge which has a weight that is less than e*. This means that there can be edges that are equal in weight though.</p>", 
+          "anon": "no", 
+          "created": "2017-10-19T00:19:29Z", 
+          "uid": "ijbr5ddtwyt6pa", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-19T05:19:34Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "hz0jkj9dnctqp", 
+      "created": "2017-10-19T05:19:34Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8y0oljtq434db", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>I would also assume by that language that <strong><em>lightest</em></strong><em> </em>implies that it is uniquely lighter than any other edge in the comparison group. English is such a slippery language.</p>\n<p></p>\n<p>I suppose that explains my confusion on problem 3 talking about the heaviest edge, and wondering how the heaviest edge got into an MST in the first place. I should have looked closer, as math is always very direct, to see w(e \u2217) \u2265 w(e&#96;) for all e&#96; \u2208 C.</p>\n<p></p>\n<p>When in doubt, look for a formula is the lesson there.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-20T01:48:05Z", 
+      "no_upvotes": 0, 
+      "uid": "hkvhtvraa6x6cg", 
+      "created": "2017-10-20T01:48:05Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8z8kh7nq1rxp", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-20T02:24:41Z", 
+          "uid": "hz0jkj9dnctqp", 
+          "created": "2017-10-20T02:24:41Z", 
+          "type": "feedback", 
+          "id": "j8z9vk0zf7w5x9", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>The question is about lightest edge, though.</p>"
+        }
+      ], 
+      "subject": "<p>Light edge is defined on page 626 of CLRS. That book isn&#39;t required for the course, but I&#39;m pretty sure that is where it&#39;s getting defined. Here&#39;s what it says.<br /><br /><br />We say that a cut respects a set A of edges if no edge in A crosses the cut. An edge is a light edge crossing a cut if its weight is the minimum of any edge<br />crossing the cut. Note that there can be more than one light edge crossing a cut in the case of ties. More generally, we say that an edge is a light edge satisfying a given property if its weight is the minimum of any edge satisfying the property.</p>"
+    }
+  ], 
+  "nr": 754, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "graph_algorithms"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "graph_algorithms", 
+    "student"
+  ], 
+  "created": "2017-10-19T00:01:57Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145138833, 
+  "tag_good": [
+    {
+      "name": "Sean McKiernan", 
+      "admin": false, 
+      "photo": "1420614205_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4keszk6se630l"
+    }, 
+    {
+      "name": "Jeff Berry", 
+      "admin": false, 
+      "photo": "1452567269_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "ijarmqggjkc3gz"
+    }
+  ], 
+  "tag_good_arr": [
+    "i4keszk6se630l", 
+    "ijarmqggjkc3gz"
+  ], 
+  "history": [
+    {
+      "content": "What does it mean to say that an edge e is &#34;the lightest edge&#34;. Does it mean that:\n\n1) e is lighter than any other edge? \n\n2) No edge is lighter than e, but there might be other edges as light as e?\n\nIn common English usage, I&#39;m confident that the answer would be #1. However, in the the DPV proof of the cut property, #2 is apparently the intent, leading to the conclusion that &#34;X U {e} is part of some MST&#34;. I think if #1 has been intended, then the conclusion would have been that X U {e} is a part of every MST.\n\nCan anyone explain this?", 
+      "anon": "no", 
+      "created": "2017-10-19T00:01:57Z", 
+      "uid": "hq8hn0qyfuvyr", 
+      "subject": "The lightest edge"
+    }
+  ]
+}

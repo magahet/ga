@@ -1,0 +1,117 @@
+{
+  "status": "active", 
+  "unique_views": 148, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-13T22:19:46Z", 
+      "data": "j7jl9xdngf26p0", 
+      "uid": "i8597qyse9c1v2"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-13T22:20:13Z", 
+      "data": "j7jlai34snz73f", 
+      "uid": "i8597qyse9c1v2"
+    }, 
+    {
+      "uid": "i4iys7m3lpq2ij", 
+      "type": "s_answer", 
+      "when": "2017-09-13T22:50:16Z", 
+      "to": "j7jl9xdlgvo6oz", 
+      "anon": "no", 
+      "data": "j7jmd50oprk6nj"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j7jl9xdlgvo6oz", 
+  "bookmarked": 3, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-13T22:50:16Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [
+        "i8597qyse9c1v2"
+      ], 
+      "id": "j7jmd50j2706ni", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Pedro Henrique Rocha Moy", 
+          "admin": false, 
+          "photo": "1452626521_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i8597qyse9c1v2"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>If you run\u00a0FFT on some sequence, the result is (1,0,0,0). Recall that FFT is invertible.</p>", 
+          "anon": "no", 
+          "created": "2017-09-13T22:50:16Z", 
+          "uid": "i4iys7m3lpq2ij", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 294, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw3"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 0, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw3", 
+    "student"
+  ], 
+  "created": "2017-09-13T22:19:46Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145248151, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>&#34;And of which sequence is (1,0,0,0) the FFT?&#34;\u00a0</p>\n<p></p>\n<p>What does the above mean?</p>", 
+      "anon": "no", 
+      "created": "2017-09-13T22:20:13Z", 
+      "uid": "i8597qyse9c1v2", 
+      "subject": "2.8a"
+    }, 
+    {
+      "content": "<p>&#34;What of which sequence is (1,0,0,0) the FFT?&#34;\u00a0</p>\n<p></p>\n<p>What does the above mean?</p>", 
+      "anon": "no", 
+      "created": "2017-09-13T22:19:46Z", 
+      "uid": "i8597qyse9c1v2", 
+      "subject": "2.8a"
+    }
+  ]
+}

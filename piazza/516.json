@@ -1,0 +1,103 @@
+{
+  "status": "active", 
+  "unique_views": 163, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-01T20:19:12Z", 
+      "data": "j896w7g6x9z5cc", 
+      "uid": "hv5exp71kfz754"
+    }, 
+    {
+      "uid": "gy4twfv45cg5o6", 
+      "type": "i_answer", 
+      "when": "2017-10-01T20:36:39Z", 
+      "to": "j896w7g4f245cb", 
+      "anon": "no", 
+      "data": "j897inljt736yp"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j896w7g4f245cb", 
+  "bookmarked": 3, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-01T20:36:39Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "hv5exp71kfz754"
+      ], 
+      "id": "j897inlec5u6yo", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Kris Peterson", 
+          "admin": false, 
+          "photo": null, 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hv5exp71kfz754"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "You&#39;re just supposed to explain your algorithm.  What&#39;s the graph and how do you check if there is a solution.  You&#39;re not supposed to draw the actual graph.", 
+          "anon": "no", 
+          "created": "2017-10-01T20:36:39Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 516, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw4"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 3, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw4", 
+    "student"
+  ], 
+  "created": "2017-10-01T20:19:12Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145197395, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>Want to see what type of format this answer should be.</p>\n<p></p>\n<p>I think I have a way to attack 3.8 part a.\u00a0 However, the graph would end up being pretty large.\u00a0 I assume we are to just explain how the graph/tree is connected and what the nodes are?\u00a0 The solution I&#39;m thinking would be pretty large and drawing the entire thing out would probably take a while and some space.</p>\n<p></p>\n<p></p>", 
+      "anon": "no", 
+      "created": "2017-10-01T20:19:12Z", 
+      "uid": "hv5exp71kfz754", 
+      "subject": "Answering 3.8 Part a"
+    }
+  ]
+}

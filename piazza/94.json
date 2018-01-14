@@ -1,0 +1,103 @@
+{
+  "status": "active", 
+  "unique_views": 159, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-08-27T19:53:03Z", 
+      "data": "j6v5jrvgnth1c3", 
+      "uid": "hz0pec4uduL"
+    }, 
+    {
+      "uid": "i4nkipeofrkrz", 
+      "type": "s_answer", 
+      "when": "2017-08-27T19:58:11Z", 
+      "to": "j6v5jrvdbvl1c2", 
+      "anon": "no", 
+      "data": "j6v5qcx2wjj5gb"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j6v5jrvdbvl1c2", 
+  "bookmarked": 3, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-08-27T19:58:11Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [
+        "hz0pec4uduL"
+      ], 
+      "id": "j6v5qcwygd05ga", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Hugh Woltzen", 
+          "admin": false, 
+          "photo": "1423117810_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hz0pec4uduL"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>The professor mentioned that we aren&#39;t going to be tested on this material. This will give us extra time to practice dynamic programming problems.</p>", 
+          "anon": "no", 
+          "created": "2017-08-27T19:58:11Z", 
+          "uid": "i4nkipeofrkrz", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 94, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "dynamic_programming"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 0, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "dynamic_programming", 
+    "student"
+  ], 
+  "created": "2017-08-27T19:53:03Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145307392, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>Hi,</p>\n<p>I noticed that the shortest paths lecture is prefixed with the word, supplemental. I was wondering if the shortest paths material is considered core material for this course or supplemental material? The reason that I&#39;m asking is that I&#39;m trying to figure out if I should do extra practice problems for shortest path.</p>\n<p></p>\n<p>Thanks,</p>\n<p>Hugh</p>", 
+      "anon": "no", 
+      "created": "2017-08-27T19:53:03Z", 
+      "uid": "hz0pec4uduL", 
+      "subject": "shortest paths material"
+    }
+  ]
+}

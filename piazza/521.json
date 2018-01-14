@@ -1,0 +1,58 @@
+{
+  "status": "active", 
+  "unique_views": 149, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-02T02:43:47Z", 
+      "data": "j89kms2en2r66k", 
+      "uid": "hkkbz4bujtv5dn"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j89kms2dqq866j", 
+  "bookmarked": 3, 
+  "tags": [
+    "course", 
+    "instructor-note", 
+    "logistics"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [], 
+  "nr": 521, 
+  "bucket_order": 2, 
+  "type": "note", 
+  "folders": [
+    "logistics", 
+    "course"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-10-02T02:43:47Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145196135, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>Hi,</p>\n<p></p>\n<p>I will hold office hours\u00a0Monday\u00a0at 9 PM. Please post your questions to <a href=\"http://slido.com/CS8803-Mon\" target=\"_blank\">slido.com</a> using code\u00a0<strong>CS8803-Mon</strong>.</p>\n<p></p>\n<p>Thanks,</p>\n<p>-Jeremy</p>", 
+      "anon": "no", 
+      "created": "2017-10-02T02:43:47Z", 
+      "uid": "hkkbz4bujtv5dn", 
+      "subject": "Office Hours: Monday October 2nd - 9 PM EST"
+    }
+  ]
+}

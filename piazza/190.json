@@ -1,0 +1,135 @@
+{
+  "status": "active", 
+  "unique_views": 148, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-05T05:08:02Z", 
+      "data": "j774wasd7u75x", 
+      "uid": "hz0pec4uduL"
+    }, 
+    {
+      "uid": "i4iys7m3lpq2ij", 
+      "type": "s_answer", 
+      "when": "2017-09-26T13:46:28Z", 
+      "to": "j774was9n2475w", 
+      "anon": "no", 
+      "data": "j81nnvt4tnw3cu"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j774was9n2475w", 
+  "bookmarked": 3, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-26T13:46:28Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j81nnvt1iwq3ct", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>I don&#39;t think so, since DP3 was supplemental.</p>", 
+          "anon": "no", 
+          "created": "2017-09-26T13:46:28Z", 
+          "uid": "i4iys7m3lpq2ij", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 190, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "dp-solutions", 
+    "dynamic_programming"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "dp-solutions", 
+    "dynamic_programming", 
+    "student"
+  ], 
+  "created": "2017-09-05T05:08:02Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145280539, 
+  "tag_good": [
+    {
+      "name": "Konstantin Rybakov", 
+      "admin": false, 
+      "photo": "1471889957_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4m8xop4ndthr"
+    }, 
+    {
+      "name": "Estelle Yeh", 
+      "admin": false, 
+      "photo": "1421544945_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4fxg6tfzh211n"
+    }, 
+    {
+      "name": "Hamel", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hkvdb9dig3v511"
+    }, 
+    {
+      "name": "Jeffrey Skonhovd", 
+      "admin": false, 
+      "photo": "1433190638_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hkvhtvraa6x6cg"
+    }
+  ], 
+  "tag_good_arr": [
+    "i4m8xop4ndthr", 
+    "i4fxg6tfzh211n", 
+    "hkvdb9dig3v511", 
+    "hkvhtvraa6x6cg"
+  ], 
+  "history": [
+    {
+      "content": "<p>Hi - Should we be able to do DP graph problems, like the vertex cover problem found in 6.21?</p>", 
+      "anon": "no", 
+      "created": "2017-09-05T05:08:02Z", 
+      "uid": "hz0pec4uduL", 
+      "subject": "DP Graph Problems"
+    }
+  ]
+}

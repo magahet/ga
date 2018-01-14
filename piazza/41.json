@@ -1,0 +1,254 @@
+{
+  "status": "active", 
+  "unique_views": 260, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-08-23T01:41:30Z", 
+      "data": "j6ocsmac7l1705", 
+      "uid": "hqa65fnalg83fr"
+    }, 
+    {
+      "to": "j6ocsma9zjh704", 
+      "anon": "no", 
+      "when": "2017-08-23T01:42:28Z", 
+      "type": "followup", 
+      "uid": "hqa65fnalg83fr"
+    }, 
+    {
+      "uid": "ijaqo3bm4133g3", 
+      "type": "i_answer", 
+      "when": "2017-08-23T01:43:55Z", 
+      "to": "j6ocsma9zjh704", 
+      "anon": "no", 
+      "data": "j6ocvq5kms7o2"
+    }, 
+    {
+      "to": "j6ocsma9zjh704", 
+      "anon": "no", 
+      "when": "2017-08-23T01:45:54Z", 
+      "type": "feedback", 
+      "uid": "ijaqo3bm4133g3"
+    }, 
+    {
+      "to": "j6ocsma9zjh704", 
+      "anon": "no", 
+      "when": "2017-08-23T01:54:06Z", 
+      "type": "feedback", 
+      "uid": "hqa65fnalg83fr"
+    }, 
+    {
+      "to": "j6ocsma9zjh704", 
+      "anon": "no", 
+      "when": "2017-08-23T10:04:13Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j6ocsma9zjh704", 
+      "anon": "no", 
+      "when": "2017-08-23T15:44:30Z", 
+      "type": "feedback", 
+      "uid": "i4kbps83eci2ka"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j6ocsma9zjh704", 
+  "bookmarked": 4, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-08-23T01:42:28Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "hqa65fnalg83fr", 
+      "created": "2017-08-23T01:42:28Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6octuwclpi3", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-08-23T01:45:54Z", 
+          "uid": "ijaqo3bm4133g3", 
+          "created": "2017-08-23T01:45:54Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j6ocy9z930j1qd", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>In my opinion, it can help people evaluate how hard this class could be for them.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-23T01:54:06Z", 
+          "uid": "hqa65fnalg83fr", 
+          "created": "2017-08-23T01:54:06Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j6od8tf3apo6kx", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>ah.. makes sense.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-23T10:04:13Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-08-23T10:04:13Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j6our3wexpi421", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thanks, I fixed it, it should&#39;ve been 6.2.</p>\n<p></p>\n<p>Yes, you don&#39;t turn it in, it&#39;s just to help you decide if you&#39;re ready for this class.</p>\n<p>I agree though it&#39;s concerning that nobody else noticed the typo yet...</p>\n<p></p>\n<p>--Eric</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-23T15:44:30Z", 
+          "uid": "i4kbps83eci2ka", 
+          "created": "2017-08-23T15:44:30Z", 
+          "type": "feedback", 
+          "id": "j6p6wq7z7t63br", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Perhaps because 6.1-6.4 were called out as practice problems at end of lecture 2. I know I already had both 6.1 and 6.2 on my to do list so I did not pay much attention to the HW0 list.</p>"
+        }
+      ], 
+      "subject": "<p>I&#39;m confused about how it can be a diagnostic if nobody has a look at it but me.</p>"
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-08-23T01:43:55Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "i4knvwlqXZ8", 
+        "i4fxg6tfzh211n"
+      ], 
+      "id": "j6ocvq5drfnz", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Matthew Clarke", 
+          "admin": false, 
+          "photo": "1468354733_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i4knvwlqXZ8"
+        }, 
+        {
+          "name": "Estelle Yeh", 
+          "admin": false, 
+          "photo": "1421544945_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i4fxg6tfzh211n"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>No, you don&#39;t have to return it.</p>\n<p>Actually in my edition the &#34;Hotel stops&#34; is also 6.2. It might be due to either a typo or a difference in versions.</p>", 
+          "anon": "no", 
+          "created": "2017-08-23T01:43:55Z", 
+          "uid": "ijaqo3bm4133g3", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 41, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw1", 
+    "dynamic_programming"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "dynamic_programming", 
+    "hw1", 
+    "student"
+  ], 
+  "created": "2017-08-23T01:41:30Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145325499, 
+  "tag_good": [
+    {
+      "name": "Matthew Clarke", 
+      "admin": false, 
+      "photo": "1468354733_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4knvwlqXZ8"
+    }
+  ], 
+  "tag_good_arr": [
+    "i4knvwlqXZ8"
+  ], 
+  "history": [
+    {
+      "content": "<p>I&#39;m confused. HW 0 is just for our own edification? We don&#39;t turn it in?</p>\n<p><br />Also it says:<br /><br /></p>\n<ol><li>[DPV] Problem 0.1 (comparing functions)</li><li>[DPV] Problem 2.12 (how many lines?)</li><li>[DPV] Problem 6.1 \u00a0(Hotel stops)</li></ol>\n<p></p>\n<p>But in my edition of the book &#34;Hotel stops&#34; is 6.2.</p>", 
+      "anon": "no", 
+      "created": "2017-08-23T01:41:30Z", 
+      "uid": "hqa65fnalg83fr", 
+      "subject": "hw0"
+    }
+  ]
+}

@@ -1,0 +1,258 @@
+{
+  "status": "active", 
+  "unique_views": 228, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-08-23T20:47:02Z", 
+      "data": "j6phps09b804vx", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j6phps07dbs4vw", 
+      "anon": "no", 
+      "when": "2017-08-25T05:58:53Z", 
+      "type": "followup", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "to": "j6phps07dbs4vw", 
+      "anon": "no", 
+      "when": "2017-08-25T16:56:04Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j6phps07dbs4vw", 
+      "anon": "no", 
+      "when": "2017-08-25T19:40:40Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j6phps07dbs4vw", 
+      "anon": "no", 
+      "when": "2017-08-26T01:52:47Z", 
+      "type": "feedback", 
+      "uid": "hve4kbcvx7l4t3"
+    }, 
+    {
+      "to": "j6phps07dbs4vw", 
+      "anon": "no", 
+      "when": "2017-08-26T18:53:05Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j6phps07dbs4vw", 
+      "anon": "no", 
+      "when": "2017-08-27T04:54:44Z", 
+      "type": "feedback", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "to": "j6phps07dbs4vw", 
+      "anon": "no", 
+      "when": "2017-08-27T05:04:58Z", 
+      "type": "followup", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "to": "j6phps07dbs4vw", 
+      "anon": "no", 
+      "when": "2017-08-27T22:44:05Z", 
+      "type": "feedback", 
+      "uid": "hve4kbcvx7l4t3"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j6phps07dbs4vw", 
+  "bookmarked": 5, 
+  "tags": [
+    "dp-solutions", 
+    "instructor-note"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-08-25T05:58:53Z", 
+      "no_upvotes": 0, 
+      "uid": "ijbr5ddtwyt6pa", 
+      "created": "2017-08-25T05:58:53Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6rgvb3que27c7", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-08-25T16:56:04Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-08-25T16:56:04Z", 
+          "type": "feedback", 
+          "id": "j6s4cgqjjd6kd", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p></p>\n<p>They are the same, so use whichever you&#39;d like.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-25T19:40:40Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-08-25T19:40:40Z", 
+          "type": "feedback", 
+          "id": "j6sa84ih6xd5y1", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "There seems to be a mistake in the first one. It says &#34;j&lt;1&#34;, but I think you meant &#34;j"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-26T01:52:47Z", 
+          "uid": "hve4kbcvx7l4t3", 
+          "created": "2017-08-26T01:52:47Z", 
+          "type": "feedback", 
+          "id": "j6snios8enjbb", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "I think he meant j &lt; i?"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-26T18:53:05Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-08-26T18:53:05Z", 
+          "type": "feedback", 
+          "id": "j6tnysz0fi15pj", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Thanks, Lekha. That&#39;s what I meant to say. Piazza apparently ate part of my post."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-27T04:54:44Z", 
+          "uid": "ijbr5ddtwyt6pa", 
+          "created": "2017-08-27T04:54:44Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j6u9gj5k7tr5kk", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#64;Lekha is correct</p>"
+        }
+      ], 
+      "subject": "<p>Can I get a quick clarification on 6.3 (well, problems like this in general)</p>\n<p></p>\n<p>Is there a difference between</p>\n<p></p>\n<p>max<br />0&lt;=j&lt;i {S(j)... : mj &lt;mi - mk}</p>\n<p></p>\n<p>and</p>\n<p></p>\n<p>max{S(j)... : mj &lt;mi - mk &amp; 0&lt;=j&lt;i -1}</p>\n<p></p>\n<p>If I put the first option instead of the second one, would it be wrong? The first option will go from 0 to i - 1 correct? Or am I just rusty on some of my math</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-27T05:04:58Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "ijbr5ddtwyt6pa", 
+      "created": "2017-08-27T05:04:58Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6u9tocgpan299", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-08-27T22:44:05Z", 
+          "uid": "hve4kbcvx7l4t3", 
+          "created": "2017-08-27T22:44:05Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j6vbnpdm7cv5q7", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Here is how I understood this - The goal of Q 6.3 is to find  maximum expected profit subject to constraints that distance between 2 YD locations should be at least k and there can be at most one yuckdonald&#39;s at each possible location. Expressed in DP terms we have to find  max from a set of profits where each value corresponds to profit at location i.  To answer P1 of your Q, for loop is trying to cycle thru various possible profits possible for each location i, if the preceding location was at j where mj - mi &lt;=k.   At the end of for loop we will be left with a set of profits possible if there was a YD at location i. From this we return max value to determine the maximum possible value."
+        }
+      ], 
+      "subject": "<p>Got another one here. For 6.3 the question states the following for P:</p>\n<p></p>\n<div>\n<div>\n<div>\n<p><em>At each location, Yuckdonald\u2019s may open at most one restaurant. The expected profit from opening a restaurant at location i is pi, where pi &gt; 0 and i = 1,2,...,n.\u00a0</em></p>\n<p></p>\n<p>So for this statement:</p>\n<p></p>\n<p><em>if mj &lt;= mi - k &amp;\u00a0\u00a0T(i) &lt; P(i) &#43; T(j)</em></p>\n<p></p>\n<p>why would we in the pseudo code need to check to see if T(i) &lt; P(i) &#43; T(j)? If P(i) &gt; 0 then by default, won&#39;t that condition always be true because T(j) is just a subset of i, so P(j) must always be greater than 0?\u00a0</p>\n<p></p>\n<p>Also, why do we have to reloop through n again?</p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/ijbr5ddtwyt6pa/j6u9qeiyd1n/Screen_Shot_20170827_at_12.59.16_AM.png\" alt=\"\" /></p>\n<p></p>\n<p>Don&#39;t we want to return the P(n) in this case, which is T(n) after our first calculation? I am probably misunderstanding something, but I thought we already had the T(max) value after the first two for loops, so, if that is correct, this loop is just recalculating what we already know.</p>\n<p></p>\n<p>I am probably confused about this problem. If for each m in m1, m2, ... mn if p(m) has to be greater than 0, why wouldn&#39;t the answer be to simply put a restaurant at every m location?</p>\n</div>\n</div>\n</div>"
+    }
+  ], 
+  "nr": 56, 
+  "bucket_order": 2, 
+  "type": "note", 
+  "folders": [
+    "dp-solutions"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 2, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-08-23T20:47:02Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145320131, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p></p>\n<p>Hi, \u00a0In the resources section of TSquare I&#39;ve added a<br />blank template for DP solutions; I will use this template<br />for the exams and homeworks.<br /><br />I also added my solution for [DPV] Problems 6.2 and 6.3.<br />It&#39;s best to only look at the solutions after you&#39;ve solved it.<br />If you&#39;re stuck post on Piazza and we&#39;ll try to help. \u00a0It&#39;s better<br />to figure it out (with some help) then to just look up the<br />solution.<br /><br />I&#39;ll post more solutions later on.<br /><br />Remember: Office hours tonight at 9pm EST, and also<br />tomorrow night at 9pm EST.<br /><br />--Eric</p>", 
+      "anon": "no", 
+      "created": "2017-08-23T20:47:02Z", 
+      "uid": "gy4twfv45cg5o6", 
+      "subject": "DPV 6.2,6.3 solutions"
+    }
+  ]
+}

@@ -1,0 +1,404 @@
+{
+  "status": "active", 
+  "unique_views": 180, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-01T00:15:13Z", 
+      "data": "j87zvvs0wr0xu", 
+      "uid": "ij7kflqnsgm3av"
+    }, 
+    {
+      "uid": "iddrzsd4r7kfm", 
+      "type": "s_answer", 
+      "when": "2017-10-01T00:28:42Z", 
+      "to": "j87zvvrxxhfxt", 
+      "anon": "no", 
+      "data": "j880d80zvj25fb"
+    }, 
+    {
+      "to": "j87zvvrxxhfxt", 
+      "anon": "no", 
+      "when": "2017-10-02T01:42:55Z", 
+      "type": "followup", 
+      "uid": "hve4kb0lopy4sl"
+    }, 
+    {
+      "to": "j87zvvrxxhfxt", 
+      "anon": "no", 
+      "when": "2017-10-02T12:26:15Z", 
+      "type": "feedback", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j87zvvrxxhfxt", 
+      "anon": "no", 
+      "when": "2017-10-02T13:12:03Z", 
+      "type": "feedback", 
+      "uid": "hve4kb0lopy4sl"
+    }, 
+    {
+      "to": "j87zvvrxxhfxt", 
+      "anon": "no", 
+      "when": "2017-10-02T13:32:58Z", 
+      "type": "feedback", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j87zvvrxxhfxt", 
+      "anon": "no", 
+      "when": "2017-10-03T00:55:27Z", 
+      "type": "feedback", 
+      "uid": "hve4kb0lopy4sl"
+    }, 
+    {
+      "to": "j87zvvrxxhfxt", 
+      "anon": "no", 
+      "when": "2017-10-03T01:05:11Z", 
+      "type": "feedback", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j87zvvrxxhfxt", 
+      "anon": "no", 
+      "when": "2017-10-03T02:38:44Z", 
+      "type": "feedback", 
+      "uid": "ijjd1u5dbTq"
+    }, 
+    {
+      "to": "j87zvvrxxhfxt", 
+      "anon": "no", 
+      "when": "2017-10-03T02:45:11Z", 
+      "type": "feedback", 
+      "uid": "ij7kflqnsgm3av"
+    }, 
+    {
+      "to": "j87zvvrxxhfxt", 
+      "anon": "no", 
+      "when": "2017-10-03T03:20:54Z", 
+      "type": "feedback", 
+      "uid": "ijjd1u5dbTq"
+    }, 
+    {
+      "to": "j87zvvrxxhfxt", 
+      "anon": "no", 
+      "when": "2017-10-03T03:50:50Z", 
+      "type": "feedback", 
+      "uid": "ij7kflqnsgm3av"
+    }, 
+    {
+      "to": "j87zvvrxxhfxt", 
+      "anon": "no", 
+      "when": "2017-10-03T03:56:45Z", 
+      "type": "feedback", 
+      "uid": "ijjd1u5dbTq"
+    }, 
+    {
+      "to": "j87zvvrxxhfxt", 
+      "anon": "no", 
+      "when": "2017-10-03T15:33:06Z", 
+      "type": "feedback", 
+      "uid": "gns9oa0pgsO"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j87zvvrxxhfxt", 
+  "bookmarked": 6, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-01T00:28:42Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [
+        "ij7kflqnsgm3av"
+      ], 
+      "id": "j880d80rhr55fa", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Dylan Dignan", 
+          "admin": false, 
+          "photo": "1503334101_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "ij7kflqnsgm3av"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>for type 1 each value is determined by a random number seeded with seed_k &#43; x. My understanding is that the random number should be in the range [0, n-1].</p>\n<p>for type 2 each value is determined by (a_k * x &#43; b_k % N) % n. a_k and b_k are random numbers. Because the entire thing is mod n at the end, it is already\u00a0in the range [0, n-1].</p>", 
+          "anon": "no", 
+          "created": "2017-10-01T00:28:42Z", 
+          "uid": "iddrzsd4r7kfm", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-02T01:42:55Z", 
+      "no_upvotes": 0, 
+      "uid": "hve4kb0lopy4sl", 
+      "created": "2017-10-02T01:42:55Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j89igi254ztgh", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-02T12:26:15Z", 
+          "uid": "gns9oa0pgsO", 
+          "created": "2017-10-02T12:26:15Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j8a5fuj6ygw2y5", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#34;we are supposed to re-seed the random number generator for each value we are putting in the hash table&#34;</p>\n<p>yes, that is correct, for type 1 hash functions, you reseed and draw from random.randint for every hash function, for every data value.\u00a0</p>\n<p></p>\n<p>the seeding in the constructor that you are talking about is the one that initially seeds the random number generator before the seeds/coefficients are generated.\u00a0 this is present only for repeatability of experiments, and can be set to None or commented out if not desired.</p>\n<p></p>\n<p>&#34;If there is only 1 k for task 1, why do you need more than one seed for type 1 or one a/b pair for type 2?\u00a0 It is my understanding that multiple seeds or coefficients would only be for task 2 and 3 which have multiple k.\u00a0 What am I missing here?&#34;\u00a0</p>\n<p>you are correct - for task 1, with k = 1, there is only one seed for type 1 hash functions, and 1 pair of coefficients, a and b, for type 2 has functions.</p>\n<p></p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-02T13:12:03Z", 
+          "uid": "hve4kb0lopy4sl", 
+          "created": "2017-10-02T13:12:03Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j8a72qc6z762nj", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thanks for your response but it is still confusing.\u00a0 I see two possible things that can happen:</p>\n<p></p>\n<p>1) &#34;reseed and draw from randint for every data value&#34;\u00a0 This implies there is a new seed value applied before every time randint is called for each and every data value being hashed. &lt;- from your first paragraph</p>\n<p></p>\n<p>or: 2) Only do random seed/coefficient<br />generation 1 time per hash function<br />generation (in the constructor). &lt;- from office hour notes</p>\n<p>from your response third paragraph -&gt;&#34;for task 1, with k = 1, there is only one seed for type 1 hash functions, and 1 pair of coefficients, a and b, for type 2 has functions&#34;</p>\n<p></p>\n<p>To me, response 2) means we only seed once for the entire type 1 hash function and this same seed is used for all the calls to randint for each and every data value being hashed.</p>\n<p></p>\n<p>Sorry if I&#39;m being dense here, but these seem like contradictory positions.\u00a0 Also, since the genseed that is supplied already in the constructor is a function of time, I don&#39;t get how it will guarantee any sort of repeatability since it would seem that a different time based seed would be used for every run of the program (which already fulfills the requirement in the instructions: &#34;Each run should be random and independent of previous runs&#34;) .\u00a0 So it seems that the template code already disables the repeatability unless you override the genseed with a fixed number (or none/comment out) when re-seeding (which would make it repeatable since a non-time-based seed would be used).</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-02T13:32:57Z", 
+          "uid": "gns9oa0pgsO", 
+          "created": "2017-10-02T13:32:57Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j8a7tmod58kn2", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>i understand that this is somewhat confusing.\u00a0 seeds everywhere.\u00a0</p>\n<p></p>\n<p>there are two kinds of &#34;seeding&#34; going on, at least for type 1 hashes.</p>\n<p></p>\n<p>for type 1 hash functions,\u00a0the quote you have as #1\u00a0is how they hash - we are using the seeding functionality coupled with the generator to actually calculate the hash based on the data being hashed.\u00a0 however, you need a set of seeds/coefficients that remain constant for the entire hash function - they are attributes of the hash function itself - and as such they are precomputed 1 time, in the constructor, and reused as long as that hash function is used.\u00a0 this precomputation\u00a0is done for both types of hashes.</p>\n<p></p>\n<p>so, for type 1 hashes, you generate k random seeds when you first make the hash function, and then you use these k seeds (along with each data element) to reseed the generator and generate k different hash values for each data element being hashed.\u00a0 for type 2 hashes, you generate k pairs of coefficients and put them into lists a and b, and then when you are hashing a data element, you perform the given arithmetic using the lists of coefficients, a and b, and\u00a0generate k hashes of the data element.</p>\n<p></p>\n<p>lastly, you are\u00a0correct in that\u00a0the genseed is provided for repeatability of the functionality.\u00a0 if you use the template code for task 1\u00a0and task 3, you may\u00a0not have the code set up to run only 1 time, like it does for task 2.\u00a0 \u00a0for task 3 in particular you should either reset the genseed every iteration, or else just set it to None, unless you wish to repeatedly generate the same seeds/coefficients.</p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-03T00:55:27Z", 
+          "uid": "hve4kb0lopy4sl", 
+          "created": "2017-10-03T00:55:27Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j8aw7bm1mu12m1", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thanks for the clarifications John, I think I get it now.\u00a0 Though I&#39;m still not 100% clear whether this list of seeds can be any unique numbers at all (ie. 1-k), or whether they need to be random numbers from a particular range.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-03T01:05:11Z", 
+          "uid": "gns9oa0pgsO", 
+          "created": "2017-10-03T01:05:11Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j8awju96hyn5xu", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p></p><div> \n <div>\n   Random numbers. \n </div> \n <div> \n  <br /> \n </div> \n <div> \n </div> \n</div> \n<br /> \n<div>\n  ----- Reply message ----- \n</div>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-03T02:38:44Z", 
+          "uid": "ijjd1u5dbTq", 
+          "created": "2017-10-03T02:38:44Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j8azw4s0luw2h0", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Should we also seed the random number generator before we generate the list of seeds?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-03T02:45:11Z", 
+          "uid": "ij7kflqnsgm3av", 
+          "created": "2017-10-03T02:45:11Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j8b04ftow5f1cd", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Only if you want repeatable results.\u00a0However for Task 1, you should not and should set\u00a0config[&#39;genSeed&#39;] = None</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-03T03:20:54Z", 
+          "uid": "ijjd1u5dbTq", 
+          "created": "2017-10-03T03:20:54Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j8b1eddlngo5bf", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>So comment out the random.seed(config[&#39;genSeed&#39;]) portion of each hash function for task 1? Or set to 0?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-03T03:50:49Z", 
+          "uid": "ij7kflqnsgm3av", 
+          "created": "2017-10-03T03:50:49Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j8b2guq7g3x1an", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Neither. Set to None. Take a look at the <a href=\"https://www.youtube.com/watch?v=iPeaJ-Ai9-g\" target=\"_blank\">office hours</a>. You don&#39;t have to comment it out and setting it to 0 would be the same as setting to any other integer.</p>\n<p></p>\n<p>&gt;&gt;&gt; np.random.seed(0)<br />&gt;&gt;&gt; np.random.randint(300)<br />172<br />&gt;&gt;&gt; np.random.seed(0)<br />&gt;&gt;&gt; np.random.randint(300)<br />172</p>\n<p></p>\n<p>https://docs.scipy.org/doc/numpy-1.13.0/reference/generated/numpy.random.seed.html</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-03T03:56:45Z", 
+          "uid": "ijjd1u5dbTq", 
+          "created": "2017-10-03T03:56:45Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j8b2ognkfbus4", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thanks I see now. Much appreciated!</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-03T15:33:06Z", 
+          "uid": "gns9oa0pgsO", 
+          "created": "2017-10-03T15:33:06Z", 
+          "type": "feedback", 
+          "id": "j8brjz453ls1wt", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>random.seed(config[&#39;genSeed&#39;]) can be commented out - acts like None.</p>\n<p></p>\n<p>this isn&#39;t really a problem for task 1 - you&#39;re not running multiple iterations, and the seed is set at initial runtime off system clock.\u00a0 it will be a problem with task 3 though\u00a0 - you need to comment it out, or generate a new seed for each iteration, otherwise all the iterations for a specific k,c tuple will have the same seeds/coefficients</p>"
+        }
+      ], 
+      "subject": "<p>I&#39;m afraid after reading and re-reading most of these threads about task 1 type 1, I&#39;m still confused since your description makes it sound like we are supposed to re-seed the random number generator for each value we are putting in the hash table.\u00a0 This was in fact the first way I coded it but after all the discussions in the other thread(s) about putting the seed in the constructor of the hash type object, I changed it so that it only seeds the generator 1 time when that object is built and then it uses that same seed for all the values that are hashed.\u00a0 But many responses still make it sound like the seeding happens in the gethashlist method for each hash value.</p>\n<p></p>\n<p>The other thing that is confusing in all these responses in the mention of plural &#39;seeds&#39; for task1.\u00a0 If there is only 1 k for task 1, why do you need more than one seed for type 1 or one a/b pair for type 2?\u00a0 It is my understanding that multiple seeds or coefficients would only be for task 2 and 3 which have multiple k.\u00a0 What am I missing here?</p>"
+    }
+  ], 
+  "nr": 502, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "project"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 4, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "project", 
+    "student"
+  ], 
+  "created": "2017-10-01T00:15:13Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145200861, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "For both HashType 1 and 2 we have been given the seeds and then are expected to fill res in getHashList with random \u00a0ints.\u00a0<div><br /></div><div>What is the range for these int values? I wasn&#39;t able to find this in the write-up or office hours.</div>", 
+      "anon": "no", 
+      "created": "2017-10-01T00:15:13Z", 
+      "uid": "ij7kflqnsgm3av", 
+      "subject": "Range for hashList values"
+    }
+  ]
+}

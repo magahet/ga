@@ -1,0 +1,58 @@
+{
+  "status": "active", 
+  "unique_views": 132, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-18T01:05:51Z", 
+      "data": "j8wc6gly2fm26a", 
+      "uid": "hq9zldybngyw2"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8wc6glwie6269", 
+  "bookmarked": 4, 
+  "no_answer": 1, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [], 
+  "nr": 749, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "graph_algorithms"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "graph_algorithms", 
+    "student", 
+    "unanswered"
+  ], 
+  "created": "2017-10-18T01:05:50Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145140532, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "After we translated the original image segmentation undirected graph into a directed graph it seemed we added anti-parallel edges between the vertices.\n\nIs there an implication not stated explicitly in the lecture that these anti-parallel edges were eliminated by adding an additional vertex (which would have complicated the discussion/diagram but not changed the outcome)\n\nThanks!", 
+      "anon": "no", 
+      "created": "2017-10-18T01:05:50Z", 
+      "uid": "hq9zldybngyw2", 
+      "subject": "Image Segmentation Problem and Anti-Parallel Edges"
+    }
+  ]
+}

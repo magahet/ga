@@ -1,0 +1,180 @@
+{
+  "status": "active", 
+  "unique_views": 204, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "stud", 
+      "when": "2017-09-28T17:44:53Z", 
+      "data": "j84r27echai706"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-28T17:45:04Z", 
+      "data": "j84r2fdsp8e76f", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "uid": "gy4twfv45cg5o6", 
+      "type": "i_answer", 
+      "when": "2017-09-28T23:11:08Z", 
+      "to": "j84r27eado2705", 
+      "anon": "no", 
+      "data": "j852pr8cmx496"
+    }, 
+    {
+      "to": "j84r27eado2705", 
+      "anon": "no", 
+      "when": "2017-09-29T02:01:11Z", 
+      "type": "followup", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j84r27eado2705", 
+      "anon": "no", 
+      "when": "2017-09-29T09:31:16Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j84r27eado2705", 
+  "bookmarked": 2, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-28T23:11:08Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "i8597qyse9c1v2"
+      ], 
+      "id": "j852pr891gf495", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Pedro Henrique Rocha Moy", 
+          "admin": false, 
+          "photo": "1452626521_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i8597qyse9c1v2"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "No, sorry.  You&#39;ll get the opportunity on the final exam to demonstrate that you know DP.", 
+          "anon": "no", 
+          "created": "2017-09-28T23:11:08Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-29T02:01:11Z", 
+      "no_upvotes": 0, 
+      "uid": "i4ket0u1z5q31a", 
+      "created": "2017-09-29T02:01:11Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j858sg0t81t77e", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-29T09:31:16Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-09-29T09:31:16Z", 
+          "type": "feedback", 
+          "id": "j85ov9bm7t460e", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "No."
+        }
+      ], 
+      "subject": "<p>Does that mean the final exam will replace the midterm grade for DP if it is better?</p>\n<p></p>"
+    }
+  ], 
+  "nr": 472, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "exam", 
+    "course"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "course", 
+    "exam", 
+    "student"
+  ], 
+  "created": "2017-09-28T17:44:53Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145208185, 
+  "tag_good": [
+    {
+      "name": "vennela kodali", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": "100001272977115", 
+      "id": "i4jbtxqavqb3r0"
+    }
+  ], 
+  "tag_good_arr": [
+    "i4jbtxqavqb3r0"
+  ], 
+  "history": [
+    {
+      "content": "<p>Will we have any opportunity to do some extra credit work to makeup for poor exam performance?</p>\n<p>I personally made a lot of stupid mistakes on the exam and need some way to recover from that.</p>", 
+      "anon": "no", 
+      "created": "2017-09-28T17:45:04Z", 
+      "uid": "i4ket0u1z5q31a", 
+      "subject": "Can we have extra credit work?"
+    }, 
+    {
+      "content": "<p>Will we have any opportunity to do some extra credit work to makeup for poor exam performance?</p>\n<p>I personally made a lot of stupid mistakes on the exam and need some way to recover from that.</p>", 
+      "anon": "stud", 
+      "created": "2017-09-28T17:44:53Z", 
+      "subject": "Can we have extra credit work?"
+    }
+  ]
+}

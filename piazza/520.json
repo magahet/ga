@@ -1,0 +1,192 @@
+{
+  "status": "active", 
+  "unique_views": 193, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-02T01:11:27Z", 
+      "data": "j89hc1kll0c384", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "uid": "hq9zldq5n9mvn", 
+      "type": "s_answer", 
+      "when": "2017-10-02T07:52:01Z", 
+      "to": "j89hc1kjx7t383", 
+      "anon": "no", 
+      "data": "j89vn6jtush597"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-10-02T07:52:43Z", 
+      "data": "j89vo2hwt3n5jd", 
+      "uid": "hq9zldq5n9mvn"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-10-02T07:54:34Z", 
+      "data": "j89vqg104ov6gg", 
+      "uid": "hq9zldq5n9mvn"
+    }, 
+    {
+      "uid": "gns9oa0pgsO", 
+      "type": "i_answer", 
+      "when": "2017-10-02T12:06:25Z", 
+      "to": "j89hc1kjx7t383", 
+      "anon": "no", 
+      "data": "j8a4qcfpryf2fl"
+    }, 
+    {
+      "type": "i_answer_update", 
+      "anon": "no", 
+      "when": "2017-10-02T12:06:44Z", 
+      "data": "j8a4qqgaf5e2qo", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j89hc1kjx7t383", 
+      "anon": "no", 
+      "when": "2017-10-06T22:16:42Z", 
+      "type": "followup", 
+      "uid": "i4ps9nqsv397k6"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j89hc1kjx7t383", 
+  "bookmarked": 5, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-02T07:52:01Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j89vn6jo7rt596", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>For every c value, 10 or 15, you&#39;ll have a range of k integer values ranging from (0.4 * c) to (1.0 * c).</p>\n<p>So for c = 10, your k will range from 4 to 10. For c = 15, your k will range from 6 to 15. You&#39;ll want to run 10 trials per c, k pairing.</p>", 
+          "anon": "no", 
+          "created": "2017-10-02T07:54:34Z", 
+          "uid": "hq9zldq5n9mvn", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>For every c value, 10 or 15, you&#39;ll have a range of k integer values ranging from (0.4 * c) to (1.0 * c).</p>\n<p>So for c = 10, your k will range from 4 to 10. For c = 15, your k will range from 6 to 15. You&#39;ll want to run 10 trails per c, k pairing.</p>", 
+          "anon": "no", 
+          "created": "2017-10-02T07:52:43Z", 
+          "uid": "hq9zldq5n9mvn", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>For every c value, 10 or 15, you&#39;ll have a range of k integer values ranging from (0.4 * c) to (1.0 * c).</p>\n<p>So for c = 10, your k will range from 4 to 10. For c = 15, your k will range from 6 to 15.</p>\n<p></p>\n<p>For each c, k pair, you&#39;ll want to run 10 trials.</p>", 
+          "anon": "no", 
+          "created": "2017-10-02T07:52:01Z", 
+          "uid": "hq9zldq5n9mvn", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-02T12:06:25Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j8a4qcfn6ap2fk", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>k is the number of hash functions.\u00a0 you can&#39;t have a fractional count of hash functions.\u00a0 for c = 10, k = 4,5,6,7,8,9,10, for c = 15, k=6,7,8,9,10,11,12,13,14,15</p>\n<p></p>", 
+          "anon": "no", 
+          "created": "2017-10-02T12:06:44Z", 
+          "uid": "gns9oa0pgsO", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>k is the number of hash functions.\u00a0 you can&#39;t have a fractional count of hash functions.\u00a0 for c = 10, k = 4,5,6,7,8,9,10, for c = 15, k=5,6,7,8,9,10,11,12,13,14,15</p>\n<p></p>", 
+          "anon": "no", 
+          "created": "2017-10-02T12:06:25Z", 
+          "uid": "gns9oa0pgsO", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-06T22:16:42Z", 
+      "no_upvotes": 0, 
+      "uid": "i4ps9nqsv397k6", 
+      "created": "2017-10-06T22:16:42Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8ggakx2fa62do", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>Thanks for this clarification, because if you strictly follow the PDF, you would only get\u00a07 (or 6 if you thought of it as exclusive) for\u00a0the first set, and I don&#39;t think it&#39;s immediately obvious that you would have more to go through in the second c trials (as in you would still only do a range of 0.4 * c through 1.0 * c with a step size of 0.1).\u00a0 I only mention this\u00a0because how I described it is how I saw it, so if this project is used in the future, explicit number ranges may be easier to show.</p>"
+    }
+  ], 
+  "nr": 520, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "project"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 3, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "project", 
+    "student"
+  ], 
+  "created": "2017-10-02T01:11:27Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145196546, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>Can I get a clarification of what this is asking:</p>\n<p></p>\n<div>\n<div>\n<div>\n<p><em>Performing 10 trials for each value of &#x1d450; and &#x1d458; should be sufficient to provide reasonable results. Fix c first to be 10, and then 15, and sweep k from .4 * c to 1.0 * c. So, for example, you should perform 10 trials with c = 10, k = 4, regenerating coefficients for each trial, then 10 with c = 10, k = 5, etc.\u00a0</em></p>\n<p></p>\n<p>From my understanding, we want to test multiple k&#39;s with a max of 4, 5. To get these, we go from k = k*.4 * c -&gt; k = k*1*c. So for k = 4, where we chose an increment of something reasonable (like a tenth of a hundredth\u00a0or something)</p>\n<p></p>\n<p>k = 4*.4 * c -&gt; k = 4*1*c</p>\n<p></p>\n<p>Is this correct?</p>\n</div>\n</div>\n</div>", 
+      "anon": "no", 
+      "created": "2017-10-02T01:11:27Z", 
+      "uid": "ijbr5ddtwyt6pa", 
+      "subject": "Clarification on Task 3"
+    }
+  ]
+}

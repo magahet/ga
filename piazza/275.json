@@ -1,0 +1,131 @@
+{
+  "status": "active", 
+  "unique_views": 185, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-12T03:55:48Z", 
+      "data": "j7h2ecuag5f644", 
+      "uid": "hqa9hej5ny2gl"
+    }, 
+    {
+      "uid": "gy4twfv45cg5o6", 
+      "type": "i_answer", 
+      "when": "2017-09-12T14:14:16Z", 
+      "to": "j7h2ecu9i2v643", 
+      "anon": "no", 
+      "data": "j7hohpqxja73kz"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j7h2ecu9i2v643", 
+  "bookmarked": 3, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-12T14:14:16Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "hq8hn0qyfuvyr", 
+        "i4m49pmqc4h14p"
+      ], 
+      "id": "j7hohpquc8o3ky", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Nolan Capehart", 
+          "admin": false, 
+          "photo": null, 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hq8hn0qyfuvyr"
+        }, 
+        {
+          "name": "Gautam Salhotra", 
+          "admin": false, 
+          "photo": "1425181695_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i4m49pmqc4h14p"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p></p>\n<p>No need. \u00a0It doesn&#39;t change the O() running time, and it just complicates the pseudocode, makes it harder for us to read/understand.</p>", 
+          "anon": "no", 
+          "created": "2017-09-12T14:14:16Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 275, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw1", 
+    "hw_solutions1", 
+    "dynamic_programming", 
+    "exam"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "dynamic_programming", 
+    "exam", 
+    "hw1", 
+    "hw_solutions1", 
+    "student"
+  ], 
+  "created": "2017-09-12T03:55:48Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145254890, 
+  "tag_good": [
+    {
+      "name": "Silviu Pitis", 
+      "admin": false, 
+      "photo": "1471876944_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "is653ar0mae7ei"
+    }
+  ], 
+  "tag_good_arr": [
+    "is653ar0mae7ei"
+  ], 
+  "history": [
+    {
+      "content": "<p>I know it may not\u00a0change the correctness or time complexity of an algorithm, but do we need to worry about breaking out of loops at all in\u00a0pseudo codes?</p>\n<p>For example, in the solution provided for problem 6.4 below, shouldn&#39;t we break out of the loop once a solution for E(i) == True is found? \u00a0</p>\n<p>Also, assuming the message is much larger than any single word in the dictionary, wouldn&#39;t it be more efficient to loop the j from i to 1 (instead of 1 to i)? \u00a0Of course this only makes a difference if we break out the loop upon first solution found.</p>\n<p>Again, I do not think these type of optimization change the correctness of the algorithm or time complexity answer in big O notation, but just want some confirmation I understood the solution correctly and also clarification on what&#39;s expected in the exam as far as optimization goes. \u00a0I reckon part of the motivation behind dynamic programming is to eliminate repeated calculations to the same question (in contrast to recursive counterparts), it seems there would be many\u00a0unnecessary repeated check of TRUE status on E(1), E(2) etc. as i increases in the solution provided. \u00a0I suppose the evaluation of a condition like this is not considered &#34;calculation&#34;, or reduction/elimination of the repeats that does not change the\u00a0time complexity is not one of dynamic programming principles.</p>\n<p></p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/hqa9hej5ny2gl/j7h1n0jcpwa4/6_4.sol\" alt=\"6.4 pseudo code\" /></p>", 
+      "anon": "no", 
+      "created": "2017-09-12T03:55:48Z", 
+      "uid": "hqa9hej5ny2gl", 
+      "subject": "Not to worry about break from loops in pseudo codes?"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "status": "active", 
+  "unique_views": 188, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-06T03:03:18Z", 
+      "data": "j78fvqc6y316h", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "uid": "gy4twfv45cg5o6", 
+      "type": "i_answer", 
+      "when": "2017-09-06T07:17:03Z", 
+      "to": "j78fvqc3vnm16g", 
+      "anon": "no", 
+      "data": "j78oy1x8q7l6g3"
+    }, 
+    {
+      "to": "j78fvqc3vnm16g", 
+      "anon": "no", 
+      "when": "2017-09-07T19:05:22Z", 
+      "type": "followup", 
+      "uid": "ijawwe19w053cm"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j78fvqc3vnm16g", 
+  "bookmarked": 4, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-06T07:17:03Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j78oy1x4wew6g2", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p></p>\n<p>Good point.</p>\n<p></p>\n<p>Yes, it is fine to just return the largest difference (as with DP). \u00a0I&#39;ll update the template.</p>", 
+          "anon": "no", 
+          "created": "2017-09-06T07:17:03Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-07T19:05:22Z", 
+      "no_upvotes": 0, 
+      "uid": "ijawwe19w053cm", 
+      "created": "2017-09-07T19:05:22Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7atotc8rvx76m", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>just realized that I totally forgot to return the index. It is a leetcode problem so I naturally returned the maximum profit...</p>\n<p></p>\n<p>anyway, thanks professor!</p>"
+    }
+  ], 
+  "nr": 204, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw3"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 2, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw3", 
+    "student"
+  ], 
+  "created": "2017-09-06T03:03:18Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145276293, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>Problem 3 of Hw3 asks us to return the best pair of days. We can do that, but the pseudocode gets verbose when we try to keep the appropriate reference to the specific days (besides the largest difference in stock price between these 2 days).</p>\n<p></p>\n<p>I was wondering whether is OK to solve the exercise returning the largest difference (for example, $9 for the given example) instead of also having to return day 4 and day 6. I think we still have to do the full algorithm to show the divide and conquer solution but we don&#39;t have to worry about functions returning multiple values.</p>\n<p></p>\n<p>Like with Dynamic Programming, if we know how to obtain the largest difference, it is quite simple to return the specific days.</p>\n<p></p>\n<p>Professor, what do you think?</p>", 
+      "anon": "no", 
+      "created": "2017-09-06T03:03:18Z", 
+      "uid": "i4nkipeofrkrz", 
+      "subject": "Is it ok if we just return the largest difference?"
+    }
+  ]
+}

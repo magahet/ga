@@ -1,0 +1,245 @@
+{
+  "status": "active", 
+  "unique_views": 197, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-08-30T02:03:09Z", 
+      "data": "j6ydnexd7gx4zz", 
+      "uid": "i4n2o8f9uyk2sj"
+    }, 
+    {
+      "uid": "isce58miop454k", 
+      "type": "i_answer", 
+      "when": "2017-08-30T03:52:02Z", 
+      "to": "j6ydnexbqux4zy", 
+      "anon": "no", 
+      "data": "j6yhjftnhvk13b"
+    }, 
+    {
+      "uid": "i4nkipeofrkrz", 
+      "type": "s_answer", 
+      "when": "2017-08-30T11:35:24Z", 
+      "to": "j6ydnexbqux4zy", 
+      "anon": "no", 
+      "data": "j6yy3ciwscr5fq"
+    }, 
+    {
+      "to": "j6ydnexbqux4zy", 
+      "anon": "no", 
+      "when": "2017-08-31T02:37:17Z", 
+      "type": "followup", 
+      "uid": "hviwm6agQCk"
+    }, 
+    {
+      "to": "j6ydnexbqux4zy", 
+      "anon": "no", 
+      "when": "2017-08-31T02:51:21Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j6ydnexbqux4zy", 
+      "anon": "no", 
+      "when": "2017-09-03T15:45:10Z", 
+      "type": "feedback", 
+      "uid": "ijb8j8y2bZ5"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j6ydnexbqux4zy", 
+  "bookmarked": 6, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-08-30T03:52:02Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "hz03lfq2z6r446"
+      ], 
+      "id": "j6yhjftig2c13a", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Balaji Sundaresan", 
+          "admin": false, 
+          "photo": null, 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hz03lfq2z6r446"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>In my opinion, the relationship between different denominations is irrelevant.</p>\n<p>In the case you describe, the rule that you can only use each denomination once applies, which means you can use x_j once if it is not used.</p>\n<p>Even if the value of x_i equals value of x_j, x_i and x_j are still different denominations so that you can use each of them once.</p>\n<p>Hope it helps.</p>", 
+          "anon": "no", 
+          "created": "2017-08-30T03:52:02Z", 
+          "uid": "isce58miop454k", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-08-30T11:35:24Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [
+        "gy4twfv45cg5o6"
+      ], 
+      "id": "j6yy3ciuiwo5fp", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Eric Vigoda", 
+          "admin": true, 
+          "photo": null, 
+          "us": false, 
+          "role": "instructor", 
+          "facebook_id": null, 
+          "id": "gy4twfv45cg5o6"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>It really doesn&#39;t matter whether the same denomination is added twice to the initial input.</p>\n<p></p>\n<p>Let&#39;s say you get the following: 1c, 5c, 5c, 10c, 25c</p>\n<p></p>\n<p>That means that you can use a coin of 1c, a coin of 5c, another coin of 5c, a coin of 10c, and a coin of 25c.</p>\n<p></p>\n<p>You can&#39;t repeat the coins, and the only reason you are using 5c twice is that the initial input comes with two coins of the same denomination.</p>\n<p></p>\n<p>So yes, you need to assume that repeated denominations is a thing, but at the same time, your solution has to be designed in a way this doesn&#39;t matter.</p>", 
+          "anon": "no", 
+          "created": "2017-08-30T11:35:24Z", 
+          "uid": "i4nkipeofrkrz", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-31T02:37:17Z", 
+      "no_upvotes": 0, 
+      "uid": "hviwm6agQCk", 
+      "created": "2017-08-31T02:37:17Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6zub5vc6ww6k6", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-08-31T02:51:21Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-08-31T02:51:21Z", 
+          "type": "feedback", 
+          "id": "j6zut9biyzn3rl", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Yes, there&#39;s a solution\u00a0$$O(nB)$$. See &#64;78 for more information.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-03T15:45:10Z", 
+          "uid": "ijb8j8y2bZ5", 
+          "created": "2017-09-03T15:45:10Z", 
+          "type": "feedback", 
+          "id": "j74wry5qanwoc", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I think getting count should be similar to getting list of used coins.\u00a0</p>"
+        }
+      ], 
+      "subject": "Is there a solution to this less than O(n^3)? Yes or no is ok, I don&#39;t need details. It&#39;s that pesky check of at most k that&#39;s  bugging me as I try to figure out how to select different subsets to calculate their total.  It&#39;s like a loop could use up the first i coins of n coins but I&#39;m not sure how to keep checking if that was less than k coins unless I also keep tally of k....or figure k into one of the loop throughs...."
+    }
+  ], 
+  "nr": 114, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw1"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 2, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw1", 
+    "student"
+  ], 
+  "created": "2017-08-30T02:03:09Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145300673, 
+  "tag_good": [
+    {
+      "name": "Nolan Capehart", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "name": "Nelson Cheng", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4kxfs7hlxngu"
+    }
+  ], 
+  "tag_good_arr": [
+    "hq8hn0qyfuvyr", 
+    "i4kxfs7hlxngu"
+  ], 
+  "history": [
+    {
+      "content": "<p>The Coin Change Variant problem states &#34;You are given denominations\u00a0 x_1, x_2, ..., x_n...&#34; and &#34;...can only use each denomination at most once.&#34;\u00a0 I would like some clarity on this:</p>\n<p></p>\n<p>Are there repeating denominations where the value x_i == x_j ?</p>\n<p>\u00a0</p>\n<p>If x_i == x_j and I used x_i to make change and still have x_j &lt;= B does using each denomination at most once apply or can I still use x_j?</p>\n<p></p>\n<p></p>", 
+      "anon": "no", 
+      "created": "2017-08-30T02:03:09Z", 
+      "uid": "i4n2o8f9uyk2sj", 
+      "subject": "Coin Change Variant Clarification"
+    }
+  ]
+}

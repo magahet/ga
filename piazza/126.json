@@ -1,0 +1,441 @@
+{
+  "status": "active", 
+  "unique_views": 221, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "stud", 
+      "when": "2017-08-31T15:36:35Z", 
+      "data": "j70m5cevujs52v"
+    }, 
+    {
+      "uid": "gy4twfv45cg5o6", 
+      "type": "i_answer", 
+      "when": "2017-08-31T15:42:42Z", 
+      "to": "j70m5ceu6uq52u", 
+      "anon": "no", 
+      "data": "j70md82t2bl2a"
+    }, 
+    {
+      "uid": "i4nkipeofrkrz", 
+      "type": "s_answer", 
+      "when": "2017-08-31T15:43:11Z", 
+      "to": "j70m5ceu6uq52u", 
+      "anon": "no", 
+      "data": "j70mdu2wq6m2n"
+    }, 
+    {
+      "to": "j70m5ceu6uq52u", 
+      "anon": "stud", 
+      "when": "2017-08-31T15:52:10Z", 
+      "type": "followup"
+    }, 
+    {
+      "to": "j70m5ceu6uq52u", 
+      "anon": "stud", 
+      "when": "2017-08-31T16:06:26Z", 
+      "type": "feedback"
+    }, 
+    {
+      "to": "j70m5ceu6uq52u", 
+      "anon": "stud", 
+      "when": "2017-08-31T17:16:25Z", 
+      "type": "followup"
+    }, 
+    {
+      "to": "j70m5ceu6uq52u", 
+      "anon": "no", 
+      "when": "2017-08-31T18:22:17Z", 
+      "type": "feedback", 
+      "uid": "hv8z1thijfq6ns"
+    }, 
+    {
+      "to": "j70m5ceu6uq52u", 
+      "anon": "no", 
+      "when": "2017-08-31T19:01:51Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j70m5ceu6uq52u", 
+      "anon": "stud", 
+      "when": "2017-08-31T19:35:58Z", 
+      "type": "feedback"
+    }, 
+    {
+      "to": "j70m5ceu6uq52u", 
+      "anon": "no", 
+      "when": "2017-09-01T07:04:54Z", 
+      "type": "followup", 
+      "uid": "ijawwe19w053cm"
+    }, 
+    {
+      "to": "j70m5ceu6uq52u", 
+      "anon": "no", 
+      "when": "2017-09-01T16:42:01Z", 
+      "type": "followup", 
+      "uid": "idi5567wFgu"
+    }, 
+    {
+      "to": "j70m5ceu6uq52u", 
+      "anon": "no", 
+      "when": "2017-09-01T18:10:34Z", 
+      "type": "feedback", 
+      "uid": "iddoy2bdneb2tv"
+    }, 
+    {
+      "to": "j70m5ceu6uq52u", 
+      "anon": "no", 
+      "when": "2017-09-01T19:40:37Z", 
+      "type": "feedback", 
+      "uid": "idi5567wFgu"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j70m5ceu6uq52u", 
+  "bookmarked": 9, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-08-31T15:42:42Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "hqa65fnalg83fr", 
+        "i8597qyse9c1v2", 
+        "hyzyc8nwswo6z5"
+      ], 
+      "id": "j70md82d1p29", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Amin Mansuri", 
+          "admin": false, 
+          "photo": "1400911910_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hqa65fnalg83fr"
+        }, 
+        {
+          "name": "Pedro Henrique Rocha Moy", 
+          "admin": false, 
+          "photo": "1452626521_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i8597qyse9c1v2"
+        }, 
+        {
+          "name": "Zack Gow", 
+          "admin": false, 
+          "photo": "1476241357_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hyzyc8nwswo6z5"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p></p>\n<p>You won&#39;t pass the course if you don&#39;t know DP. \u00a0 It&#39;s too important of a topic.</p>", 
+          "anon": "no", 
+          "created": "2017-08-31T15:42:42Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-08-31T15:43:11Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j70mdu2utod2m", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>The second topic of the class (RSA) doesn&#39;t build up on Dynamic Programming. You can ace RSA without knowing squat about DP, which is probably good for you. I have the feeling that this is not going to be the case for every other topic in this class.</p>\n<p></p>\n<p>Also, we can expect the first exam to be heavy on DP, and the Final exam will definitively include DP as well. Assuming you get 0 credit for everything DP-related, your\u00a0score will probably be (under) B from the get go, assuming you get maximum points on everything else.</p>\n<p></p>\n<p>Here is the thing: even if without DP you can approve the class, what are the actual chances that you will understand and score perfectly on every other topic?\u00a0</p>\n<p></p>\n<p>If you feel that this is a big problem for you, my recommendation would be to withdraw the class and spend some time without pressure learning DP on your own.</p>", 
+          "anon": "no", 
+          "created": "2017-08-31T15:43:11Z", 
+          "uid": "i4nkipeofrkrz", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-31T15:52:10Z", 
+      "no_upvotes": 0, 
+      "created": "2017-08-31T15:52:10Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j70mpe41t39nn", 
+      "anon": "stud", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-08-31T16:06:26Z", 
+          "created": "2017-08-31T16:06:26Z", 
+          "type": "feedback", 
+          "id": "j70n7qkx8z64et", 
+          "anon": "stud", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>EDIT: I do know DP. I just wish I could be more proficient in it :) I would postpone\u00a0this course if I could not understand DP.</p>"
+        }
+      ], 
+      "subject": "<p>I have the similar thought. I\u00a0understand DP better by working through homework problems, re-watching lessons and attempting 1 or 2 practice problems. I would like to attempt more practice problems but DP is a challenging and time consuming topic. It depends on how I look at the problem. I feel like there is a lot of art to it. If I haven&#39;t attempted enough practice problems, I won&#39;t have a base idea to start with on homework problems. At some point, I need to move on to new topics because there\u00a0is so much time I can allocate to DP.\u00a0</p>\n<p></p>\n<p>I do appreciate the HW1 extension. It helps tremendously in learning DP!</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-31T17:16:25Z", 
+      "no_upvotes": 0, 
+      "created": "2017-08-31T17:16:25Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j70ppquzpxh1t3", 
+      "anon": "stud", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-08-31T18:22:17Z", 
+          "uid": "hv8z1thijfq6ns", 
+          "created": "2017-08-31T18:22:17Z", 
+          "type": "feedback", 
+          "id": "j70s2ftri457mg", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I&#39;m in the same boat -- last class for me as well ha. Trying my best to grasp these problems. Most difficult part is trying to do it under time constraints.</p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-31T19:01:51Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-08-31T19:01:51Z", 
+          "type": "feedback", 
+          "id": "j70thblb7n26pq", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p></p>\n<p>I realize it&#39;s difficult for a lot of you. \u00a0That&#39;s why I always teach it first in my grad and undergrad algorithms courses (my undergrads also have to learn it to pass the course). \u00a0Many people, including some of the TA&#39;s to this course, had to do many practice DP problems to get the hang of it. \u00a0Some of the homework questions are a bit more non-standard to challenge you and get you thinking outside the box a bit. \u00a0 Once you get the hang of it you start to notice similarities to other problems. \u00a0E.g., longest increasing subsequence you saw, so that&#39;s easy to recreate, right? \u00a0How about if I asked you longest increasing substring, can you do that easily enough? \u00a0Similarly for longest common subsequence vs. longest common substring? \u00a0Or given you know knapsack, don&#39;t the coin changing problems 6.17 and 6.18 seem similar to it?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-31T19:35:58Z", 
+          "created": "2017-08-31T19:35:58Z", 
+          "type": "feedback", 
+          "id": "j70up7c73u22ei", 
+          "anon": "stud", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Yes,\u00a0I can see many similarities, thanks to the top notch video lectures! For someone who was enrolled in CCA the last minute, when GA was not ready in Spring 17, and then dropped the course, I really appreciate the techniques being demonstrated in the video lectures. I was struggling on homework problem 3 without solving problem 6.18. I got all the knapsack intuitions and pieces in place but was unable to put them together. Thanks to my study group, my teammates set me straight. I am learning a ton about DP. I am just not there yet to solve a DP problem in 20 minutes. I will circle back and do a couple more practice problems with the remaining time that I have this week.</p>"
+        }
+      ], 
+      "subject": "<p>Same situation....it takes me a long time to understand the solutions after reading them a good number of times... and I don t think I could quickly come up with a solution \u00a0to new problems that we will see on exams....honestly \u00a0this class has me ------- my pants knowing I Have to get at least a B to graduate. I wIll give it my best shot and drop it if I&#39;m not at the B mark by the drop deadline</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-01T07:04:54Z", 
+      "no_upvotes": 0, 
+      "uid": "ijawwe19w053cm", 
+      "created": "2017-09-01T07:04:54Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j71jb6pji3o6f6", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>I think professor&#39;s videos are great. You might also want to check Erik Demaine&#39;s MIT courses:\u00a0</p>\n<p><a href=\"https://www.youtube.com/watch?v=OQ5jsbhAv_M\">https://www.youtube.com/watch?v=OQ5jsbhAv_M</a></p>\n<p></p>\n<p>for reference.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-01T16:42:01Z", 
+      "no_upvotes": 0, 
+      "uid": "idi5567wFgu", 
+      "created": "2017-09-01T16:42:01Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j723xckpxv318z", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-01T18:10:34Z", 
+          "uid": "iddoy2bdneb2tv", 
+          "created": "2017-09-01T18:10:34Z", 
+          "type": "feedback", 
+          "id": "j72738cqgkb4s5", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I think he said more details would come the week of the exam. I would say focus on all topics, if you finish a hw assignment and still believe you need more practice on another topic, then focus on that.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-01T19:40:37Z", 
+          "uid": "idi5567wFgu", 
+          "created": "2017-09-01T19:40:37Z", 
+          "type": "feedback", 
+          "id": "j72ab18eokj39p", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thanks Jesse. That is a good advice. Hope, at some point we will hear more about the exam.</p>"
+        }
+      ], 
+      "subject": "<p>Prof. Vigoda,\u00a0</p>\n<p></p>\n<p>Is it possible to let us know as to what percentage (appx) of questions on exam1 will be from DP? This would help us to focus more on one topic over the other. The fact that you indicated that DP is an important topic, should we be focusing on DP more than the other topics for exam 1? Any hints towards this would be greatly appreciated.</p>\n<p></p>\n<p>Until I read this thread, I was thinking that the Exam 1 will be almost equally distributed among all topics, but this thread seems to indicate otherwise.</p>\n<p></p>\n<p>If you could please give us some directions on this, this would tremendously help to direct our focus appropriately.</p>\n<p></p>\n<p>Thanks in advance.</p>"
+    }
+  ], 
+  "nr": 126, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "course", 
+    "dynamic_programming"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "course", 
+    "dynamic_programming", 
+    "student"
+  ], 
+  "created": "2017-08-31T15:36:35Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145297711, 
+  "tag_good": [
+    {
+      "name": "Estelle Yeh", 
+      "admin": false, 
+      "photo": "1421544945_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4fxg6tfzh211n"
+    }, 
+    {
+      "name": "Shihgian Lee", 
+      "admin": false, 
+      "photo": "1420394909_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i18w67avy8e1uk"
+    }, 
+    {
+      "name": "Amin Mansuri", 
+      "admin": false, 
+      "photo": "1400911910_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hqa65fnalg83fr"
+    }, 
+    {
+      "name": "abarysevich", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4t8eakz3ex6lk"
+    }
+  ], 
+  "tag_good_arr": [
+    "i4fxg6tfzh211n", 
+    "i18w67avy8e1uk", 
+    "hqa65fnalg83fr", 
+    "i4t8eakz3ex6lk"
+  ], 
+  "history": [
+    {
+      "content": "<p>This is a topic that I am struggling with. I am making progress, and more practice helps, but\u00a0of course there comes a time when I need to move on and start with the new topics we are learning. Ideally I would just keep doing both, but I am aware that the amount of time and effort I am putting into Dynamic Programming is unsustainable if I mix in learning these other topics.</p>\n<p></p>\n<p>I get the impression that knowing dynamic programming is very important to be successful in this course. Is that actually the case, or will we be able to pass the course even if we aren&#39;t as good with that topic? As in,\u00a0do all the other topics build off of dynamic programming (meaning if I do not do well with this, I pretty much am guaranteed to not do well in the course) or are the topics after it on different concepts</p>", 
+      "anon": "stud", 
+      "created": "2017-08-31T15:36:35Z", 
+      "subject": "How much of this course is related to DP?"
+    }
+  ]
+}

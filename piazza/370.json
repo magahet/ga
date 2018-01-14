@@ -1,0 +1,247 @@
+{
+  "status": "active", 
+  "unique_views": 146, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-20T21:36:03Z", 
+      "data": "j7tjso2aq6r4q8", 
+      "uid": "iddox7abejr2mj"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-20T21:37:26Z", 
+      "data": "j7tjuftvw5a6jd", 
+      "uid": "iddox7abejr2mj"
+    }, 
+    {
+      "uid": "hkkbz4bujtv5dn", 
+      "type": "i_answer", 
+      "when": "2017-09-21T03:21:03Z", 
+      "to": "j7tjso25sot4q7", 
+      "anon": "no", 
+      "data": "j7tw4bvdcny2i5"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-21T10:25:08Z", 
+      "data": "j7ub9psenfg5q6", 
+      "uid": "iddox7abejr2mj"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-21T10:29:36Z", 
+      "data": "j7ubfg9muae1c", 
+      "uid": "iddox7abejr2mj"
+    }, 
+    {
+      "to": "j7tjso25sot4q7", 
+      "anon": "no", 
+      "when": "2017-09-21T10:30:28Z", 
+      "type": "followup", 
+      "uid": "iddox7abejr2mj"
+    }, 
+    {
+      "to": "j7tjso25sot4q7", 
+      "anon": "no", 
+      "when": "2017-09-21T14:08:58Z", 
+      "type": "feedback", 
+      "uid": "hkkbz4bujtv5dn"
+    }, 
+    {
+      "to": "j7tjso25sot4q7", 
+      "anon": "no", 
+      "when": "2017-09-21T22:47:31Z", 
+      "type": "feedback", 
+      "uid": "hq9zldy4rr4w1"
+    }, 
+    {
+      "to": "j7tjso25sot4q7", 
+      "anon": "no", 
+      "when": "2017-09-21T22:58:09Z", 
+      "type": "feedback", 
+      "uid": "hkkbz4bujtv5dn"
+    }, 
+    {
+      "type": "i_answer_update", 
+      "anon": "no", 
+      "when": "2017-09-21T23:05:19Z", 
+      "data": "j7v2fb6hr2rg5", 
+      "uid": "hkkbz4bujtv5dn"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j7tjso25sot4q7", 
+  "bookmarked": 4, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-21T03:21:02Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j7tw4buyd032i4", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>Please see followup discussion below.</p>", 
+          "anon": "no", 
+          "created": "2017-09-21T23:05:19Z", 
+          "uid": "hkkbz4bujtv5dn", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>DPV 4.17 begins\u00a0with &#34;Suppose we want to run Dijkstra\u2019s algorithm on a graph whose edge weights are integers in the range $$0, 1, . . . , W$$, where $$W$$\u00a0is a relatively small number.&#34; \u00a0Is that the problem\u00a0you are asking\u00a0about?</p>", 
+          "anon": "no", 
+          "created": "2017-09-21T03:21:03Z", 
+          "uid": "hkkbz4bujtv5dn", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-21T10:30:28Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "iddox7abejr2mj", 
+      "created": "2017-09-21T10:30:28Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7ubgkr57kdbe", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-21T14:08:58Z", 
+          "uid": "hkkbz4bujtv5dn", 
+          "created": "2017-09-21T14:08:58Z", 
+          "type": "feedback", 
+          "id": "j7uj9kejjip1p9", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>For part (a), instead of maximizing the product of\u00a0exchange rates $$r_{i_{1},i_{2}}, r_{i_{2},i_{3}}, ..., r_{i_{k-1}i_{k}}$$, you\u00a0can\u00a0equivalently minimize the sum $$\\sum\\limits_{j=1}^{k-1}(-\\log r_{i_{j},i_{j&#43;1}})$$.</p>\n<p></p>\n<p>For part (b), a cycle with $$\\sum\\limits_{j=1}^{k-1}(-\\log r_{i_{j},i_{j&#43;1}}) &lt; 0$$ implies $$\\prod\\limits_{j=1}^{k-1}{r_{i_{j},i_{j&#43;1}}}$$ &gt; 1.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-21T22:47:31Z", 
+          "uid": "hq9zldy4rr4w1", 
+          "created": "2017-09-21T22:47:31Z", 
+          "type": "feedback", 
+          "id": "j7v1sfmys22ri", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Jeremy,\u00a0</p>\n<p></p>\n<p>\u00a0 \u00a0 \u00a0Since the logs are going to be both positive and negative, any reason not to just use sum ( log s) and maximize for Part A? \u00a0 And a sum &gt; 0 for Part B would imply an anomaly.\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-21T22:58:09Z", 
+          "uid": "hkkbz4bujtv5dn", 
+          "created": "2017-09-21T22:58:09Z", 
+          "type": "feedback", 
+          "id": "j7v263br7p527w", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Harshan, \u00a0that would also\u00a0solve the problem -- minimization is used to here to reduce the problem to shortest paths.</p>"
+        }
+      ], 
+      "subject": "<p>My bad, I did a typo as I was working a few problems yesterday. I am looking for a solution for problem 4.21. This was given as a practice problem at the end of the DP3 shortest path lecture. Here is the problem:<img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/iddox7abejr2mj/j7ubg1t2jxd5/4.21.PNG\" alt=\"\" /></p>"
+    }
+  ], 
+  "nr": 370, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "dynamic_programming"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 0, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "dynamic_programming", 
+    "student"
+  ], 
+  "created": "2017-09-20T21:36:03Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145226475, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>Is there a solution available for the practice problem - DPV 4.21 ?</p>", 
+      "anon": "no", 
+      "created": "2017-09-21T10:29:36Z", 
+      "uid": "iddox7abejr2mj", 
+      "subject": "Solution to DPV 4.21"
+    }, 
+    {
+      "content": "<p>Is there a solution available for the practice problem - DPV 4.21 (Shortest path)?</p>", 
+      "anon": "no", 
+      "created": "2017-09-21T10:25:08Z", 
+      "uid": "iddox7abejr2mj", 
+      "subject": "Solution to DPV 4.21"
+    }, 
+    {
+      "content": "<p>Is there a solution available for the practice problem - DPV 4.17 (Shortest path)?</p>", 
+      "anon": "no", 
+      "created": "2017-09-20T21:37:26Z", 
+      "uid": "iddox7abejr2mj", 
+      "subject": "Solution to DPV 2.17"
+    }, 
+    {
+      "content": "<p>Is a there solution available for the practice problem - DPV 4.17 (Shortest path)?</p>", 
+      "anon": "no", 
+      "created": "2017-09-20T21:36:03Z", 
+      "uid": "iddox7abejr2mj", 
+      "subject": "Solution to DPV 2.17"
+    }
+  ]
+}

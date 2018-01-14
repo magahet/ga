@@ -1,0 +1,138 @@
+{
+  "status": "active", 
+  "unique_views": 201, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-08-23T17:44:15Z", 
+      "data": "j6pb6q52atgb5", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "uid": "gy4twfv45cg5o6", 
+      "type": "i_answer", 
+      "when": "2017-08-23T19:22:10Z", 
+      "to": "j6pb6q512eob4", 
+      "anon": "no", 
+      "data": "j6peomwn70322"
+    }, 
+    {
+      "uid": "idgjs16yZ4K", 
+      "type": "s_answer", 
+      "when": "2017-08-24T10:21:03Z", 
+      "to": "j6pb6q512eob4", 
+      "anon": "no", 
+      "data": "j6qaslvlyfx76p"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-08-24T10:22:19Z", 
+      "data": "j6qau8q2by27m4", 
+      "uid": "idgjs16yZ4K"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j6pb6q512eob4", 
+  "bookmarked": 2, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-08-23T19:22:10Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j6peomwlhik321", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>I&#39;d guess no, but that&#39;s just a guess.\u00a0--Eric</p>", 
+          "anon": "no", 
+          "created": "2017-08-23T19:22:10Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-08-24T10:21:03Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j6qaslvkjiq76o", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "In another thread (&#64;36), one of the TAs suggested posting something in one or the other of the on-campus buildings. So from that it sounded to me like you would not find an official group but rather would need to locate an individual student who would be willing to tutor you.", 
+          "anon": "no", 
+          "created": "2017-08-24T10:22:19Z", 
+          "uid": "idgjs16yZ4K", 
+          "subject": ""
+        }, 
+        {
+          "content": "In another thread (not sure which), one of the TAs suggested posting something in one or the other of the on-campus buildings. So from that it sounded to me like you would not find an official group but rather would need to locate an individual student who would be willing to tutor you.", 
+          "anon": "no", 
+          "created": "2017-08-24T10:21:03Z", 
+          "uid": "idgjs16yZ4K", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 52, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "course"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "course", 
+    "student"
+  ], 
+  "created": "2017-08-23T17:44:15Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145321617, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>For those of us who actually live in Atlanta, is there any on campus tutoring available? I looked at the website:\u00a0<a href=\"https://academicsupport.gatech.edu/TracWeb40/searchavail.4sp\">https://academicsupport.gatech.edu/TracWeb40/searchavail.4sp</a>\u00a0but there was no section available to me for this class.\u00a0</p>\n<p></p>", 
+      "anon": "no", 
+      "created": "2017-08-23T17:44:15Z", 
+      "uid": "ijbr5ddtwyt6pa", 
+      "subject": "On Campus Tutoring"
+    }
+  ]
+}

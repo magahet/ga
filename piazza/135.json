@@ -1,0 +1,110 @@
+{
+  "status": "active", 
+  "unique_views": 188, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-01T02:14:53Z", 
+      "data": "j718y7j5xb0608", 
+      "uid": "ija2ufzr6l0f7"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-01T06:26:26Z", 
+      "data": "j71hxpm9qgf7lk", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "to": "j718y7j3v6o607", 
+      "anon": "no", 
+      "when": "2017-09-01T15:40:25Z", 
+      "type": "followup", 
+      "uid": "h65bydtml4u1g0"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j718y7j3v6o607", 
+  "bookmarked": 3, 
+  "tags": [
+    "hw1", 
+    "student", 
+    "unanswered"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-09-01T15:40:25Z", 
+      "no_upvotes": 0, 
+      "uid": "h65bydtml4u1g0", 
+      "created": "2017-09-01T15:40:25Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j721q4x8mok2qr", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>That&#39;s a good way to test your own codes. But remember not to use actual codes in homework/tests :D</p>"
+    }
+  ], 
+  "nr": 135, 
+  "bucket_order": 2, 
+  "type": "note", 
+  "folders": [
+    "hw1"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 5, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-09-01T02:14:53Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145294808, 
+  "tag_good": [
+    {
+      "name": "Di Wang", 
+      "admin": false, 
+      "photo": "1453179229_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "ija2ufzr6l0f7"
+    }
+  ], 
+  "tag_good_arr": [
+    "ija2ufzr6l0f7"
+  ], 
+  "history": [
+    {
+      "content": "<p>Anyone who wants to test your DP code can use the following DFS method. I found one bug in my DP answer using it.</p>\n<p></p>\n<pre>static int ans = 0;<br /><br />static int MaxProduct(String nums, int k){<br />    if (nums.length() &lt;= 1) return Integer.parseInt(nums);<br />    helper(nums, 0, 0, 0, 1, k);<br />    return ans;<br />}<br /><br />static void helper(String nums, int pos, int mul, int num, int res, int k){<br />    if(pos == nums.length() || mul &gt;= k){<br />        if (mul == k){<br />            res *= Integer.parseInt(String.valueOf(num) &#43; nums.substring(pos, nums.length()));<br />            ans = Math.max(ans,res);<br />        }<br />        return;<br />    }<br /><br />    for (int i = pos; i &lt; nums.length(); i&#43;&#43;) {<br />        helper(nums, i &#43; 1, mul &#43; 1, Integer.parseInt(nums.substring(i, i &#43; 1)), res * num, k);<br />        helper(nums, i &#43; 1, mul, num * 10 &#43; Integer.parseInt(nums.substring(i, i &#43; 1)), res, k);<br />    }<br />}</pre>", 
+      "anon": "no", 
+      "created": "2017-09-01T06:26:26Z", 
+      "uid": "i4hdvab632i522", 
+      "subject": "Simple DFS method to Verify your HW1 Q2"
+    }, 
+    {
+      "content": "<p>Anyone who wants to test your DP code can use the following DFS method. I found one bug in my DP answer using it.</p>\n<p></p>\n<pre>static int ans = 0;<br /><br />static int MaxProduct(String nums, int k){<br />    if (nums.length() &lt;= 1) return Integer.parseInt(nums);<br />    helper(nums, 0, 0, 0, 1, k);<br />    return ans;<br />}<br /><br />static void helper(String nums, int pos, int mul, int num, int res, int k){<br />    if(pos == nums.length() || mul &gt;= k){<br />        if (mul == k){<br />            res *= Integer.parseInt(String.valueOf(num) &#43; nums.substring(pos, nums.length()));<br />            ans = Math.max(ans,res);<br />        }<br />        return;<br />    }<br /><br />    for (int i = pos; i &lt; nums.length(); i&#43;&#43;) {<br />        helper(nums, i &#43; 1, mul &#43; 1, Integer.parseInt(nums.substring(i, i &#43; 1)), res * num, k);<br />        helper(nums, i &#43; 1, mul, num * 10 &#43; Integer.parseInt(nums.substring(i, i &#43; 1)), res, k);<br />    }<br />}</pre>", 
+      "anon": "no", 
+      "created": "2017-09-01T02:14:53Z", 
+      "uid": "ija2ufzr6l0f7", 
+      "subject": "Simple DFS method to Verify your HW1 Q2"
+    }
+  ]
+}

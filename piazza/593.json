@@ -1,0 +1,152 @@
+{
+  "status": "active", 
+  "unique_views": 178, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-04T14:04:32Z", 
+      "data": "j8d3txs5dou5x7", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j8d3txs2qd15x6", 
+      "anon": "no", 
+      "when": "2017-10-04T14:15:24Z", 
+      "type": "followup", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j8d3txs2qd15x6", 
+      "anon": "no", 
+      "when": "2017-10-04T15:06:58Z", 
+      "type": "feedback", 
+      "uid": "i4gzn4buf4Q"
+    }, 
+    {
+      "to": "j8d3txs2qd15x6", 
+      "anon": "no", 
+      "when": "2017-10-04T15:25:55Z", 
+      "type": "feedback", 
+      "uid": "idi5567wFgu"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-05T13:47:21Z", 
+      "data": "j8einotvm987gf", 
+      "uid": "gns9oa0pgsO"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8d3txs2qd15x6", 
+  "bookmarked": 4, 
+  "tags": [
+    "instructor-note", 
+    "project"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-10-04T14:15:24Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "hvil6y6khgk2ri", 
+      "created": "2017-10-04T14:15:24Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8d47x6ie5rm8", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-04T15:06:58Z", 
+          "uid": "i4gzn4buf4Q", 
+          "created": "2017-10-04T15:06:58Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j8d627wlffk7m6", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#43;1</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-04T15:25:55Z", 
+          "uid": "idi5567wFgu", 
+          "created": "2017-10-04T15:25:55Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j8d6qlhgkkb1ym", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#43;1</p>"
+        }
+      ], 
+      "subject": "<p>Thanks John! You have been very patient in answering what seems to be 100s of questions on this.</p>"
+    }
+  ], 
+  "nr": 593, 
+  "bucket_order": 2, 
+  "type": "note", 
+  "folders": [
+    "project"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 2, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-10-04T14:04:32Z", 
+  "is_tag_good": false, 
+  "config": {
+    "is_announcement": 1, 
+    "bypass_email": 1
+  }, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145181694, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>Hi folks, a few things :</p>\n<p>1) Tonight, Wednesday October 4, from 5-7, i will hold my last office hours for this project.\u00a0 I&#39;ll put the information for the youtube link and slido up in the stickied post above.</p>\n<p>2)\u00a0 This weekend I will be &#34;out of earshot&#34; for piazza, and will probably not be answering any questions (Starting friday night).\u00a0 This shouldn&#39;t be a problem, because a) pretty much every variation of possible question on this project has already been asked and answered multiple times over the past few weeks since the project was posted and b) we&#39;re all grownups and none of us are going to wait until the absolute last minute to start the project.</p>\n<p>3) Many folks are just starting the project now\u00a0 - do a search on your question before asking it.\u00a0 If you don&#39;t get an answer from me very quickly it means your question has been answered already, so look for it.</p>\n<p></p>", 
+      "anon": "no", 
+      "created": "2017-10-05T13:47:21Z", 
+      "uid": "gns9oa0pgsO", 
+      "subject": "BF Project : A few announcements"
+    }, 
+    {
+      "content": "<p>Hi folks, a few things :</p>\n<p>1) Tonight, Wednesday October 4, from 5-7, i will hold my last office hours for this project.\u00a0 I&#39;ll put the information for the youtube link and slido up in the stickied post above.</p>\n<p>2)\u00a0 This weekend I will be &#34;out of earshot&#34; for piazza, and will probably not be answering any questions (Starting friday night).\u00a0 This shouldn&#39;t be a problem, because a) pretty much every variation of possible question on this project has already been asked and answered multiple times over the past few weeks since the project was posted and b) we&#39;re all grownups and none of us are going to wait until the absolute last minute to start the project.</p>\n<p>3) Many folks are just starting the project now\u00a0 - do a search on your question before asking it.\u00a0 If you don&#39;t get an answer from very quickly it means your question has been answered already.</p>\n<p></p>", 
+      "anon": "no", 
+      "created": "2017-10-04T14:04:32Z", 
+      "uid": "gns9oa0pgsO", 
+      "subject": "BF Project : A few announcements"
+    }
+  ]
+}

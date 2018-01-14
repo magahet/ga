@@ -1,0 +1,389 @@
+{
+  "status": "active", 
+  "unique_views": 160, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-17T15:27:17Z", 
+      "data": "j8vrifkasxniw", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "uid": "gy4twfv45cg5o6", 
+      "type": "i_answer", 
+      "when": "2017-10-17T15:32:17Z", 
+      "to": "j8vrifk9sd5iv", 
+      "anon": "no", 
+      "data": "j8vrov0tiqb329"
+    }, 
+    {
+      "to": "j8vrifk9sd5iv", 
+      "anon": "no", 
+      "when": "2017-10-17T15:37:56Z", 
+      "type": "followup", 
+      "uid": "hv5exp71kfz754"
+    }, 
+    {
+      "to": "j8vrifk9sd5iv", 
+      "anon": "no", 
+      "when": "2017-10-17T15:40:03Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j8vrifk9sd5iv", 
+      "anon": "no", 
+      "when": "2017-10-17T16:02:17Z", 
+      "type": "followup", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j8vrifk9sd5iv", 
+      "anon": "no", 
+      "when": "2017-10-17T16:27:07Z", 
+      "type": "followup", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "to": "j8vrifk9sd5iv", 
+      "anon": "no", 
+      "when": "2017-10-17T17:32:14Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j8vrifk9sd5iv", 
+      "anon": "no", 
+      "when": "2017-10-17T17:36:10Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j8vrifk9sd5iv", 
+      "anon": "no", 
+      "when": "2017-10-17T17:53:41Z", 
+      "type": "feedback", 
+      "uid": "i4iys7m3lpq2ij"
+    }, 
+    {
+      "to": "j8vrifk9sd5iv", 
+      "anon": "no", 
+      "when": "2017-10-17T18:00:55Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j8vrifk9sd5iv", 
+      "anon": "no", 
+      "when": "2017-10-17T18:33:15Z", 
+      "type": "feedback", 
+      "uid": "i4iys7m3lpq2ij"
+    }, 
+    {
+      "to": "j8vrifk9sd5iv", 
+      "anon": "no", 
+      "when": "2017-10-17T18:35:33Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j8vrifk9sd5iv", 
+      "anon": "no", 
+      "when": "2017-10-17T18:44:19Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8vrifk9sd5iv", 
+  "bookmarked": 8, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-17T15:32:17Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "i4m49pmqc4h14p"
+      ], 
+      "id": "j8vrouzvhk0328", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Gautam Salhotra", 
+          "admin": false, 
+          "photo": "1425181695_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i4m49pmqc4h14p"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "There&#39;s a cleaner solution.  Can you use the idea of the proof of the cut property? Don&#39;t use the actual cut property.  Just the proof idea.  So I give you a tree T that doesn&#39;t include this lightest edge e.  I claim T is a MST.  Can you prove me wrong by creating a new tree T&#39; which is lighter weight?", 
+          "anon": "no", 
+          "created": "2017-10-17T15:32:17Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-17T15:37:56Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "hv5exp71kfz754", 
+      "created": "2017-10-17T15:37:56Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8vrw46xxici", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-17T15:40:03Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-10-17T15:40:03Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j8vryugact53c6", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Look at the proof of the cut property!"
+        }
+      ], 
+      "subject": "<p>I would try to state with something like the following.</p>\n<p></p>\n<p>1.\u00a0 Assume a Graph of size |G| vertices.</p>\n<p>2.\u00a0 There will be |G| - 1 edges in the MST.</p>\n<p>3.\u00a0 Assume\u00a0$$e_o $$ is the lightest unique edge and all other edges\u00a0$$e_n$$ are of higher weight.</p>\n<p>4.\u00a0 An MST of value w(T) including\u00a0$$e_0$$ would be W(T) =\u00a0$$e_0$$ &#43;\u00a0$$\\sum e_{2..(n-1)}$$</p>\n<p>5.\u00a0 If another edge\u00a0$$e_n $$ is substituted we know its value is &gt;\u00a0$$e_0$$, the updated weight of the MST would become w(T&#39;) = W(T) - $$e_0 &#43; e_n$$ - Since $$e_n &gt; e_0 $$ then W(T&#39;) &gt; W(T) and this would not be an MST.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-17T16:02:17Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "i4nkipeofrkrz", 
+      "created": "2017-10-17T16:02:17Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8vsrfw6jxc4rm", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-17T17:32:14Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-10-17T17:32:14Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j8vvz4krdti2r9", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Drop step (2).  You&#39;re not applying the cut property, just using the same idea as its proof.  Your proof might be fine but there&#39;s a simpler proof.\n\nSo take MST T where $$e\\notin T$$.  \n\nThen $$T\\cup e$$ has a cycle, call it $C$.  \n\nTake the heaviest edge $$e&#39;$$ in that cycle and drop it.\n\nLet $$T&#39;=T\\cup e - e&#39;$$.  T&#39; is a tree and w(T&#39;)"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-17T17:53:41Z", 
+          "uid": "i4iys7m3lpq2ij", 
+          "created": "2017-10-17T17:53:41Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j8vwqp7xz99783", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>So perhaps could we use the following rule of thumb:\u00a0</p>\n<p>1) if we have an edge $$e$$ and we want to construct a tree that contains it, we simply need to start from a tree that doesn&#39;t, add $$e$$ and then remove any edge in the resulting cycle. We don&#39;t need to bother defining the cut that contains these two edges.</p>\n<p>2) if we\u00a0have an edge $$e$$ in a tree $$T$$ and we want to &#34;swap&#34; $$e$$ for another edge to make a new tree, then we have to define a cut that respects the subtrees formed when we remove $$e$$ from $$T$$ and\u00a0replace $$e$$ with another edge in that cut; otherwise, we\u00a0cannot guarentee that our replacement edge would reconnect the subtrees.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-17T18:00:55Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-10-17T18:00:55Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j8vx0071cub3ao", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Certainly (1) I agree with.  I&#39;m not sure if I get when you should do (2).\nPerhaps I&#39;d phrase it like this:\nIf you have a tree T and an edge e that you might want to add into T to get a lighter tree T&#39;, then do (1) -- this is the idea of the proof of the cut property.\nIf you have a tree T and an edge e&#39; that you want to potentially remove from T then do (2) -- look at T-e&#39; and then apply the cut property to find the best edge crossing between the two components of T-e&#39;."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-17T18:33:15Z", 
+          "uid": "i4iys7m3lpq2ij", 
+          "created": "2017-10-17T18:33:15Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j8vy5ktfdlc1va", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Fantastic, thank you. And yes, that&#39;s what I was trying to achieve/describe with (2) - when you remove e&#39; from T, you replace it with some other edge - hence &#34;swap&#34;.\u00a0I was trying to be general in case for some reason you wanted to select a heavy edge.\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-17T18:35:33Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-10-17T18:35:33Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j8vy8jl4l5y4qu", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Great!</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-17T18:44:19Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-10-17T18:44:19Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j8vyjtpp23k54u", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "The important thing are the 2 cases pointed out by Kate.\nEither you apply the idea of the proof of the cut property which is (1), or\nyou apply the statement of the cut property which is (2)."
+        }
+      ], 
+      "subject": "<p>Here is my attempt at proving this using the same idea of the proof of the cut property:</p>\n<p></p>\n<ol><li>We have a MST $$T$$ that doesn&#39;t include the lightest\u00a0edge in the graph\u00a0$$e$$ and we want to construct a new MST $$T&#39;$$ that&#39;s lighter</li><li>We find a cut($$S$$, $$\\overline{S}$$) where\u00a0$$e$$ crosses from $$S$$ to $$\\overline{S}$$.</li><li>Since $$T \\cup e$$ creates\u00a0a cycle, we remove any edge $$e&#39;$$ that goes from\u00a0$$S$$ to $$\\overline{S}$$. We obtain\u00a0$$T&#39; = T \\cup e - e&#39;$$</li><li>$$w(T&#39;)=w(T)&#43;w(e)\u2212w(e&#39;)$$ and since $$w(e) &lt; w(e&#39;)$$, we end up with $$w(T&#39;) &lt; w(T)$$ which is a contradiction (For $$T$$ to be a MST, it has to have min weight).</li></ol>\n<p>Profesor Vigora, is this what you were thinking about?</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-17T16:27:07Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "i4hdvab632i522", 
+      "created": "2017-10-17T16:27:07Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8vtndvedx15eh", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-17T17:36:10Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-10-17T17:36:10Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j8vw46im9295mi", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Yes."
+        }
+      ], 
+      "subject": "Consider some tree $$T&#39;$$ not containing $$e = (u,v)$$, assuming for the purposes of contradiction that it is an MST; then there must be a path connecting $$u$$ &amp; $$v$$ in $$T&#39;$$; we may remove some edge $$e&#39;$$ in that path, replacing it with $$e$$, to create a new tree $$T$$\n\nnow we know that $$w(e) &lt; w(e&#39;)$$ as $$e$$ is the unique minimum weight edge in the tree, so that $$w(T&#39;) &gt; w(T)$$ contradicting the assumption that $$T&#39;$$ was an MST"
+    }
+  ], 
+  "nr": 744, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "exam", 
+    "graph_algorithms"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 12, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "exam", 
+    "graph_algorithms", 
+    "student"
+  ], 
+  "created": "2017-10-17T15:27:17Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145142232, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>This statement is <strong>True</strong>. Here is the way I&#39;d prove it:</p>\n<p></p>\n<ol><li>Let&#39;s assume $$(v, w)$$ is the lightest edge in the graph and it is unique.</li><li>Let&#39;s assume we have a MST $$T$$ and $$(v, w)$$ is not part of this MST.</li><li>Let&#39;s assume there&#39;s a cut($$L$$, $$R$$) that contains $$(v, w)$$ with $$v \\in L$$ and $$w \\in R$$.</li><li>Since\u00a0$$(v, w)$$ is not part of this MST $$T$$, then we know there&#39;s another edge $$e&#39;$$ that crosses from $$L$$ to $$R$$.</li><li>Let&#39;s assume that we want to create a new MST $$T&#39;$$ by replacing $$e&#39;$$ with $$(v, w)$$.</li><li>We then can compute $$w(T&#39;) = w(T) &#43; w((v, w)) - w(e&#39;)$$</li><li>Since we know that $$w((v, w)) &lt; w(e&#39;)$$, then $$w(T&#39;) &lt; w(T)$$ which is a contraction because we started with the assumption that $$T$$ was an MST.</li></ol>\n<p></p>\n<p>Therefore, $$(v, w)$$ must be part of every MST.</p>\n<p></p>\n<p>Does this look correct?</p>\n<p>\u00a0</p>", 
+      "anon": "no", 
+      "created": "2017-10-17T15:27:17Z", 
+      "uid": "i4nkipeofrkrz", 
+      "subject": "If the lightest edge in a graph is unique, then it must be part of every MST."
+    }
+  ]
+}

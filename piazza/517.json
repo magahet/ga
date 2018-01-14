@@ -1,0 +1,59 @@
+{
+  "status": "active", 
+  "unique_views": 202, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-01T21:06:00Z", 
+      "data": "j898ke5l4o45y6", 
+      "uid": "gy4twfv45cg5o6"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j898ke5j62j5y5", 
+  "bookmarked": 2, 
+  "tags": [
+    "exam", 
+    "instructor-note"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [], 
+  "nr": 517, 
+  "bucket_order": 2, 
+  "type": "note", 
+  "folders": [
+    "exam"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 0, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-10-01T21:06:00Z", 
+  "is_tag_good": false, 
+  "config": {
+    "is_announcement": 1, 
+    "bypass_email": 1
+  }, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145196986, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "Please make sure that in Gradescope your SID matches your student id on TSquare (this is something like evigoda77, not the 9-digit number).  Also check that your full name is there and correct.  Otherwise we can&#39;t match your Gradescope page with your Proctortrack&#43;TSquare entries, so we won&#39;t be able to give you a grade.  \n\nFor example, some names and SID&#39;s are missing or rubbish.  And one student has a non-GT email address for their login.  Please correct if you&#39;d like a grade.\n\n--Eric", 
+      "anon": "no", 
+      "created": "2017-10-01T21:06:00Z", 
+      "uid": "gy4twfv45cg5o6", 
+      "subject": "Gradescope GTid"
+    }
+  ]
+}

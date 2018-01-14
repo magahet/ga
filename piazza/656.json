@@ -1,0 +1,265 @@
+{
+  "status": "active", 
+  "unique_views": 145, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-07T19:23:17Z", 
+      "data": "j8hpjey19y76e8", 
+      "uid": "i4m49noo31213z"
+    }, 
+    {
+      "to": "j8hpjexys926e6", 
+      "anon": "no", 
+      "when": "2017-10-07T20:08:47Z", 
+      "type": "followup", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j8hpjexys926e6", 
+      "anon": "no", 
+      "when": "2017-10-07T20:39:40Z", 
+      "type": "feedback", 
+      "uid": "i4m49noo31213z"
+    }, 
+    {
+      "to": "j8hpjexys926e6", 
+      "anon": "no", 
+      "when": "2017-10-07T21:24:44Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j8hpjexys926e6", 
+      "anon": "no", 
+      "when": "2017-10-08T15:18:03Z", 
+      "type": "feedback", 
+      "uid": "hve4kbcvx7l4t3"
+    }, 
+    {
+      "to": "j8hpjexys926e6", 
+      "anon": "no", 
+      "when": "2017-10-08T17:05:58Z", 
+      "type": "feedback", 
+      "uid": "i4j6x4gsbrz70z"
+    }, 
+    {
+      "to": "j8hpjexys926e6", 
+      "anon": "no", 
+      "when": "2017-10-08T21:03:53Z", 
+      "type": "feedback", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j8hpjexys926e6", 
+      "anon": "no", 
+      "when": "2017-10-09T00:04:01Z", 
+      "type": "feedback", 
+      "uid": "hve4kbcvx7l4t3"
+    }, 
+    {
+      "uid": "i4hdvab632i522", 
+      "type": "s_answer", 
+      "when": "2017-10-09T06:29:46Z", 
+      "to": "j8hpjexys926e6", 
+      "anon": "no", 
+      "data": "j8jsscu3wm93ud"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8hpjexys926e6", 
+  "bookmarked": 7, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-10-07T20:08:47Z", 
+      "no_upvotes": 0, 
+      "uid": "hq8hn0qyfuvyr", 
+      "created": "2017-10-07T20:08:47Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8hr5x7mq3q4wd", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-07T20:39:40Z", 
+          "uid": "i4m49noo31213z", 
+          "created": "2017-10-07T20:39:40Z", 
+          "type": "feedback", 
+          "id": "j8hs9mtjp527ax", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thanks.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-07T21:24:44Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-10-07T21:24:44Z", 
+          "type": "feedback", 
+          "id": "j8htvlmcevi35w", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>You&#39;re welcome.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-08T15:18:03Z", 
+          "uid": "hve4kbcvx7l4t3", 
+          "created": "2017-10-08T15:18:03Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j8iw7w8lepv5ec", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Any idea why the project writeup says we need to submit both report and template? If I fill in the template and convert to pdf and upload to gradescope\u00a0will that do? TIA</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-08T17:05:58Z", 
+          "uid": "i4j6x4gsbrz70z", 
+          "created": "2017-10-08T17:05:58Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j8j02o4igftgf", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>As far as I can see, nowhere in the writeup says to submit template. Just submitting pdf is enough.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-08T21:03:53Z", 
+          "uid": "i4ket0u1z5q31a", 
+          "created": "2017-10-08T21:03:53Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j8j8kmvrzd24rk", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>The template is just for you to use to fill in to get the desired format.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-09T00:04:01Z", 
+          "uid": "hve4kbcvx7l4t3", 
+          "created": "2017-10-09T00:04:01Z", 
+          "type": "feedback", 
+          "id": "j8jf0afwfhf1wg", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Yep when you are in a race against time ur brain starts seeing things.- I think that is what was happening to me :-) I just submitted my report and the source code. Thanks for the timely feedback everyone! Now am going to do another scramble to see if I can get my HW4 in as well.</p>"
+        }
+      ], 
+      "subject": "<p>I think that somewhere they mentioned that we should submit the report in PDF format. I&#39;m not certain, so you might want to search here for &#34;pdf&#34;. However, that would not prevent you from using any tool you like, as long as you can produce a PDF file, which is easy to do with Microsoft Word, or with a PDF printer driver.</p>"
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-09T06:29:46Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j8jssctyl2z3uc", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "Marking as resolved; see followup", 
+          "anon": "no", 
+          "created": "2017-10-09T06:29:46Z", 
+          "uid": "i4hdvab632i522", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 656, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "project"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 0, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "project", 
+    "student"
+  ], 
+  "created": "2017-10-07T19:23:17Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145166880, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>I am assuming it is okay if we do the project write-up in any tool we like as long as it adheres to the template given.</p>", 
+      "anon": "no", 
+      "created": "2017-10-07T19:23:17Z", 
+      "uid": "i4m49noo31213z", 
+      "subject": "project write-up"
+    }
+  ]
+}

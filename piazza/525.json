@@ -1,0 +1,1065 @@
+{
+  "status": "active", 
+  "unique_views": 299, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-02T14:42:05Z", 
+      "data": "j8aaairhbik54q", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j8aaairf96m54p", 
+      "anon": "no", 
+      "when": "2017-10-02T14:50:09Z", 
+      "type": "followup", 
+      "uid": "hkvdb9dig3v511"
+    }, 
+    {
+      "to": "j8aaairf96m54p", 
+      "anon": "no", 
+      "when": "2017-10-02T14:54:22Z", 
+      "type": "feedback", 
+      "uid": "iddoxgqriix2oq"
+    }, 
+    {
+      "to": "j8aaairf96m54p", 
+      "anon": "no", 
+      "when": "2017-10-02T14:55:34Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j8aaairf96m54p", 
+      "anon": "no", 
+      "when": "2017-10-02T14:56:29Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j8aaairf96m54p", 
+      "anon": "no", 
+      "when": "2017-10-02T14:57:02Z", 
+      "type": "feedback", 
+      "uid": "i18w67avy8e1uk"
+    }, 
+    {
+      "to": "j8aaairf96m54p", 
+      "anon": "no", 
+      "when": "2017-10-02T14:58:19Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j8aaairf96m54p", 
+      "anon": "no", 
+      "when": "2017-10-02T15:02:32Z", 
+      "type": "followup", 
+      "uid": "ija2ufzr6l0f7"
+    }, 
+    {
+      "to": "j8aaairf96m54p", 
+      "anon": "stud", 
+      "when": "2017-10-02T15:09:34Z", 
+      "type": "followup"
+    }, 
+    {
+      "to": "j8aaairf96m54p", 
+      "anon": "no", 
+      "when": "2017-10-02T15:10:53Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j8aaairf96m54p", 
+      "anon": "no", 
+      "when": "2017-10-02T15:15:08Z", 
+      "type": "feedback", 
+      "uid": "hv5exp71kfz754"
+    }, 
+    {
+      "to": "j8aaairf96m54p", 
+      "anon": "stud", 
+      "when": "2017-10-02T15:20:52Z", 
+      "type": "feedback"
+    }, 
+    {
+      "to": "j8aaairf96m54p", 
+      "anon": "stud", 
+      "when": "2017-10-02T15:27:54Z", 
+      "type": "feedback"
+    }, 
+    {
+      "to": "j8aaairf96m54p", 
+      "anon": "no", 
+      "when": "2017-10-02T15:33:13Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j8aaairf96m54p", 
+      "anon": "no", 
+      "when": "2017-10-02T15:40:13Z", 
+      "type": "feedback", 
+      "uid": "ija2ufzr6l0f7"
+    }, 
+    {
+      "to": "j8aaairf96m54p", 
+      "anon": "stud", 
+      "when": "2017-10-02T15:51:55Z", 
+      "type": "feedback"
+    }, 
+    {
+      "to": "j8aaairf96m54p", 
+      "anon": "no", 
+      "when": "2017-10-02T16:12:32Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j8aaairf96m54p", 
+      "anon": "no", 
+      "when": "2017-10-02T16:22:06Z", 
+      "type": "feedback", 
+      "uid": "iecy8j5dNYG"
+    }, 
+    {
+      "to": "j8aaairf96m54p", 
+      "anon": "no", 
+      "when": "2017-10-02T16:23:25Z", 
+      "type": "feedback", 
+      "uid": "iecy8j5dNYG"
+    }, 
+    {
+      "to": "j8aaairf96m54p", 
+      "anon": "no", 
+      "when": "2017-10-02T17:35:24Z", 
+      "type": "followup", 
+      "uid": "ija2uf6e3vger"
+    }, 
+    {
+      "to": "j8aaairf96m54p", 
+      "anon": "no", 
+      "when": "2017-10-02T17:41:54Z", 
+      "type": "feedback", 
+      "uid": "hv8z1thijfq6ns"
+    }, 
+    {
+      "to": "j8aaairf96m54p", 
+      "anon": "no", 
+      "when": "2017-10-02T17:54:59Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j8aaairf96m54p", 
+      "anon": "no", 
+      "when": "2017-10-02T18:08:50Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j8aaairf96m54p", 
+      "anon": "no", 
+      "when": "2017-10-02T18:10:15Z", 
+      "type": "feedback", 
+      "uid": "hvduxyr7r4s6q7"
+    }, 
+    {
+      "to": "j8aaairf96m54p", 
+      "anon": "no", 
+      "when": "2017-10-02T18:48:19Z", 
+      "type": "feedback", 
+      "uid": "ija2uf6e3vger"
+    }, 
+    {
+      "to": "j8aaairf96m54p", 
+      "anon": "stud", 
+      "when": "2017-10-02T19:50:01Z", 
+      "type": "followup"
+    }, 
+    {
+      "to": "j8aaairf96m54p", 
+      "anon": "no", 
+      "when": "2017-10-02T20:00:44Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j8aaairf96m54p", 
+      "anon": "stud", 
+      "when": "2017-10-02T20:01:34Z", 
+      "type": "feedback"
+    }, 
+    {
+      "to": "j8aaairf96m54p", 
+      "anon": "no", 
+      "when": "2017-10-02T20:26:54Z", 
+      "type": "followup", 
+      "uid": "ijarmqggjkc3gz"
+    }, 
+    {
+      "to": "j8aaairf96m54p", 
+      "anon": "no", 
+      "when": "2017-10-02T20:31:09Z", 
+      "type": "feedback", 
+      "uid": "iddrzsd4r7kfm"
+    }, 
+    {
+      "to": "j8aaairf96m54p", 
+      "anon": "stud", 
+      "when": "2017-10-02T21:06:37Z", 
+      "type": "feedback"
+    }, 
+    {
+      "to": "j8aaairf96m54p", 
+      "anon": "no", 
+      "when": "2017-10-02T21:48:53Z", 
+      "type": "feedback", 
+      "uid": "hyzyc8nwswo6z5"
+    }, 
+    {
+      "to": "j8aaairf96m54p", 
+      "anon": "no", 
+      "when": "2017-10-02T21:53:16Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j8aaairf96m54p", 
+      "anon": "no", 
+      "when": "2017-10-02T22:27:13Z", 
+      "type": "feedback", 
+      "uid": "idgjs16yZ4K"
+    }, 
+    {
+      "to": "j8aaairf96m54p", 
+      "anon": "no", 
+      "when": "2017-10-03T01:33:23Z", 
+      "type": "feedback", 
+      "uid": "hz46706oA2e"
+    }, 
+    {
+      "to": "j8aaairf96m54p", 
+      "anon": "no", 
+      "when": "2017-10-03T02:00:28Z", 
+      "type": "feedback", 
+      "uid": "i4ogin8rDC4"
+    }, 
+    {
+      "to": "j8aaairf96m54p", 
+      "anon": "stud", 
+      "when": "2017-10-03T02:05:41Z", 
+      "type": "followup"
+    }, 
+    {
+      "to": "j8aaairf96m54p", 
+      "anon": "no", 
+      "when": "2017-10-03T03:10:00Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j8aaairf96m54p", 
+      "anon": "no", 
+      "when": "2017-10-07T13:22:07Z", 
+      "type": "followup", 
+      "uid": "hz4ug66rg6o26j"
+    }, 
+    {
+      "to": "j8aaairf96m54p", 
+      "anon": "no", 
+      "when": "2017-10-07T13:44:22Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j8aaairf96m54p", 
+      "anon": "no", 
+      "when": "2017-10-07T15:49:30Z", 
+      "type": "feedback", 
+      "uid": "idgauptz2ou3po"
+    }, 
+    {
+      "to": "j8aaairf96m54p", 
+      "anon": "no", 
+      "when": "2017-10-07T17:34:05Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-10T19:58:00Z", 
+      "data": "j8m13lutppx1z8", 
+      "uid": "gy4twfv45cg5o6"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8aaairf96m54p", 
+  "bookmarked": 23, 
+  "tags": [
+    "exam", 
+    "instructor-note"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-10-02T14:50:09Z", 
+      "no_upvotes": 0, 
+      "uid": "hkvdb9dig3v511", 
+      "created": "2017-10-02T14:50:09Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8aakwhak1g4g6", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-02T14:54:22Z", 
+          "uid": "iddoxgqriix2oq", 
+          "created": "2017-10-02T14:54:22Z", 
+          "type": "feedback", 
+          "id": "j8aaqbokmx013o", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#43;1</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-02T14:55:34Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-10-02T14:55:34Z", 
+          "type": "feedback", 
+          "id": "j8aarvd9lq1y7", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "I just added it to the resources section of TSquare.  \nCan you please keep it on TSquare and to yourself and not distribute?\n(For example, there are many on this PIazza who are not registered for the class.  Should I prune?)\n\nThanks, Eric"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-02T14:56:29Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-10-02T14:56:29Z", 
+          "type": "feedback", 
+          "id": "j8aat1bje013fc", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>If the exams are going to be similar in future semesters, I&#39;d say get those shears out as its pruning time! :)</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-02T14:57:02Z", 
+          "uid": "i18w67avy8e1uk", 
+          "created": "2017-10-02T14:57:02Z", 
+          "type": "feedback", 
+          "id": "j8aatr5lgjf27g", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I agree with pruning before posting if the same exams are going to be used next semester.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-02T14:58:19Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-10-02T14:58:19Z", 
+          "type": "feedback", 
+          "id": "j8aave8f5js4op", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>If they are going to be pretty different, though, it may not matter.\u00a0 I know of other classes that use the previous semesters test as a study guide for the current semester....so if thats the case, sometimes its useful to try to follow along in a class as its helpful when you actually take it.<br /><br />Again, though, thats only if the tests change enough. If they dont, the hammer must be dropped!</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-02T18:10:15Z", 
+          "uid": "hvduxyr7r4s6q7", 
+          "created": "2017-10-02T18:10:15Z", 
+          "type": "feedback", 
+          "id": "j8ahq8j2gfv5mx", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Usually my experience is that the instructors purge Piazza periodically. Especially after the drop deadline.</p>"
+        }
+      ], 
+      "subject": "<p><strong attention=\"gy4twfv45cg5o6\">&#64;Eric Vigoda</strong>\u00a0 can you release the questions for this\u00a0test again? \u00a0 It will be useful for studying, as the questions themselves were only on proctortrack and its hard to remember what some of the questions were (for example short answer). \u00a0</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-02T15:02:32Z", 
+      "no_upvotes": 0, 
+      "uid": "ija2ufzr6l0f7", 
+      "created": "2017-10-02T15:02:32Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8ab0tw7fg56ko", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-02T15:15:08Z", 
+          "uid": "hv5exp71kfz754", 
+          "created": "2017-10-02T15:15:08Z", 
+          "type": "feedback", 
+          "id": "j8abh0xlr3r5u1", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Congrats on the nice score.\u00a0 I made the same mistake.\u00a0\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-02T15:27:54Z", 
+          "created": "2017-10-02T15:27:54Z", 
+          "type": "feedback", 
+          "id": "j8abxftxfsf7pp", 
+          "anon": "stud", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I think you should be happy you did so well, many of us did not do so well so publicly begging for a perfect score will only make the curve even worse for everyone else who didn&#39;t do as well.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-02T15:33:13Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-10-02T15:33:13Z", 
+          "type": "feedback", 
+          "id": "j8ac4act88844i", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I don&#39;t think this is a productive conversation.... I don&#39;t think either that Di was begging for a perfect score, she was just mentioning how close she got. Understandable that higher scores will make the curve worse, but that&#39;s on the people that made mistakes, not on Di for doing well on the exam.\u00a0</p>\n<p></p>\n<p>I think that calling people out for saying that they could use the points is not good, as you probably know because you decided to do it anonymously.</p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-02T15:40:13Z", 
+          "uid": "ija2ufzr6l0f7", 
+          "created": "2017-10-02T15:40:13Z", 
+          "type": "feedback", 
+          "id": "j8acdaculh96sv", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thank you and I have removed my info, just want to check whether there are any other classmates having similar issues. Since this is not really a conceptual mistake, maybe we can talk to TA regarding the regrade. I guess it is helpful.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-02T15:51:55Z", 
+          "created": "2017-10-02T15:51:55Z", 
+          "type": "feedback", 
+          "id": "j8acsbkey9z2ua", 
+          "anon": "stud", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>As you said yourself Santiago, this is not the place to ask for more points and I applaud you, Di and all the others who did so well on the exam (and have obvious solid A grade in this class at this point).\u00a0 It doesn&#39;t come as easily to others despite a lot of hard work so please keep in mind that some of us are struggling to pass this class after the first exam.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-02T16:12:32Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-10-02T16:12:32Z", 
+          "type": "feedback", 
+          "id": "j8adiuf6mt513m", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I appreciate that and respect it. I just felt you came a little bit strong on the first message. But it makes sense.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-02T16:22:06Z", 
+          "uid": "iecy8j5dNYG", 
+          "created": "2017-10-02T16:22:06Z", 
+          "type": "feedback", 
+          "id": "j8adv5czu8b56w", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p></p>"
+        }
+      ], 
+      "subject": "<p>For the\u00a0short answer problem c, I just simply wrote n, and the answer\u00a0should be O(n)...=(</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-02T15:09:34Z", 
+      "no_upvotes": 0, 
+      "created": "2017-10-02T15:09:34Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8ab9vjzn3xn7", 
+      "anon": "stud", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-02T15:10:53Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-10-02T15:10:53Z", 
+          "type": "feedback", 
+          "id": "j8abbkj6qo65sd", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>If you post a private post to the instructors, they will analyze your situation. This will be better than every student asking for regrades publicly.</p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-02T15:20:52Z", 
+          "created": "2017-10-02T15:20:52Z", 
+          "type": "feedback", 
+          "id": "j8aboefiwlcne", 
+          "anon": "stud", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>cool</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-02T16:23:25Z", 
+          "uid": "iecy8j5dNYG", 
+          "created": "2017-10-02T16:23:25Z", 
+          "type": "feedback", 
+          "id": "j8adwu72awh71c", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I made the same mistake ...</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-02T20:01:34Z", 
+          "created": "2017-10-02T20:01:34Z", 
+          "type": "feedback", 
+          "id": "j8alpdf9r3123i", 
+          "anon": "stud", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#43;Jianming lol you must have been freaking out during the exam just like me...hopefully the TA understands..</p>"
+        }
+      ], 
+      "subject": "<p>for one of the short answers i made a silly calculation error..</p>\n<p>(10)(30) = 30</p>\n<p>instead of 300....</p>\n<p></p>\n<p>mercy..please?</p>\n<p>can i get points for this?</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-02T17:35:24Z", 
+      "no_upvotes": 0, 
+      "uid": "ija2uf6e3vger", 
+      "created": "2017-10-02T17:35:24Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8aghetqwgesm", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-02T17:41:54Z", 
+          "uid": "hv8z1thijfq6ns", 
+          "created": "2017-10-02T17:41:54Z", 
+          "type": "feedback", 
+          "id": "j8agps4b1q05wp", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#43; 1 to this. I did slightly worse than I was expecting from a silly calculation mistake. Would like some opportunity to make up some points wherever possible. I&#39;m a fairly terrible test taker -- so would appreciate any chance to not have such a large portion of my grade be strictly test based. To top it off #4 basically destroyed me as I couldn&#39;t quite grasp what it was even asking.\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-02T17:54:59Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-10-02T17:54:59Z", 
+          "type": "feedback", 
+          "id": "j8ah6lcwvpp6kk", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "That&#39;s why the Bloom filter project is there.  And if that goes smoothly we can add an additional project, but that&#39;s later semesters.\n\nI don&#39;t know if there will be extra credit problems on future exams.  This was one of the first instances where I did it.  I&#39;ll try, but no promises."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-02T18:08:50Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-10-02T18:08:50Z", 
+          "type": "feedback", 
+          "id": "j8ahoesznup4ap", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I really appreciated the extra credit - not for the credit itself, but for the time it gave to do the other problems; I can eventually get most problems but am a VERY slow test taker, and without that extra time I would have done worse. I appreciated the extra credit, even though I had no intention of attempting it for this reason.<br /><br /></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-02T18:48:19Z", 
+          "uid": "ija2uf6e3vger", 
+          "created": "2017-10-02T18:48:19Z", 
+          "type": "feedback", 
+          "id": "j8aj36lpzce58t", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thank you for keeping\u00a0extra credit problems\u00a0under consideration! Will do my best to not need it.\u00a0</p>"
+        }
+      ], 
+      "subject": "<p>Hi Professor Vigoda, Thanks for the fast turnaround with the grades!</p>\n<p>I pretty much got the score I was expecting, but I&#39;m still somewhat bummed over it.\u00a0</p>\n<p>I understand there&#39;s no extra credit work for the class, but is there any possibility that you would consider adding similar\u00a0extra credit problems in future exams?</p>\n<p>The little nudges are most appreciated (but\u00a0unfortunately not leveraged this time around).\u00a0</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-02T19:50:01Z", 
+      "no_upvotes": 0, 
+      "created": "2017-10-02T19:50:01Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8alaiuw2m066o", 
+      "anon": "stud", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-02T20:00:44Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-10-02T20:00:44Z", 
+          "type": "feedback", 
+          "id": "j8alobc9j0wmh", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>The way curves work is like this:</p>\n<p></p>\n<ul><li>Score &gt;= 80: A</li><li>60 &gt;= Score &gt;= 79: B</li><li>X &gt;= Score &gt;= 59: C</li></ul>\n<p></p>\n<p>If your specialization has this class as a Core class, then you need an A or a B to be able to count it. A C won&#39;t work.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-02T20:31:09Z", 
+          "uid": "iddrzsd4r7kfm", 
+          "created": "2017-10-02T20:31:09Z", 
+          "type": "feedback", 
+          "id": "j8amrfd2lsf3z7", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>yeah but theres a difference between the course grade and the exam grade. assuming that the project, homeworks, etc are not curved and just the exams are curved then there will have to be a way to combine the grades. getting a C on this exam doesnt mean someone cant get a B or even an A in the overall course.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-02T21:06:37Z", 
+          "created": "2017-10-02T21:06:37Z", 
+          "type": "feedback", 
+          "id": "j8ao11a1f1x2ej", 
+          "anon": "stud", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>And, if the curve does not go past (as in they don&#39;t just add 20% to someone who got a 60% or higher) then there are some students who really have already pretty much failed the course, and who would probably want to know that so they can drop the class before the deadline</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-02T21:48:53Z", 
+          "uid": "hyzyc8nwswo6z5", 
+          "created": "2017-10-02T21:48:53Z", 
+          "type": "feedback", 
+          "id": "j8apjebdqg7j7", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>True, but Dr. Vigoda did mention that\u00a0we will get &#34;the opportunity to demonstrate your knowledge of this material (especially DP) on the final exam.&#34;.</p>\n<p></p>\n<p>I&#39;m not sure what the policy in this class will be, but I&#39;ve had\u00a0professors in the past that rewarded students who did poorly on initial exams but showed considerable improvement on the final.\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-02T21:53:16Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-10-02T21:53:16Z", 
+          "type": "feedback", 
+          "id": "j8app1fv68n3ia", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "I don&#39;t apply letter grades until I combine your scores from all exams/final and homeworks.  Then I apply the thresholds (TBD at what level) afterwards.\n\n--Eric"
+        }
+      ], 
+      "subject": "<p>So how exactly does the curve work? By that I mean, will someone with a 60 get bumped to an 80, or will a 60 just be a B in the course? What does someone who had less than a 60 get? If we got less than a 60, would the best move to be drop the class (as in, we are almost guaranteed to be out of the A, B, F range)?</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-02T20:26:54Z", 
+      "no_upvotes": 0, 
+      "uid": "ijarmqggjkc3gz", 
+      "created": "2017-10-02T20:26:54Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8amlyc7twe3fz", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-02T22:27:13Z", 
+          "uid": "idgjs16yZ4K", 
+          "created": "2017-10-02T22:27:13Z", 
+          "type": "feedback", 
+          "id": "j8aqwox437s2ws", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Agree. The turnaround time was excellent. Thank you all for this."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-03T01:33:23Z", 
+          "uid": "hz46706oA2e", 
+          "created": "2017-10-03T01:33:23Z", 
+          "type": "feedback", 
+          "id": "j8axk3gq25u5hy", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#43;1 Thanks for the hard work!</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-03T02:00:28Z", 
+          "uid": "i4ogin8rDC4", 
+          "created": "2017-10-03T02:00:28Z", 
+          "type": "feedback", 
+          "id": "j8ayixqgsjh51o", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Agreed, thanks very much for the hard work on grading the exam!</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-03T03:10:00Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-10-03T03:10:00Z", 
+          "type": "feedback", 
+          "id": "j8b10crwn5h2ng", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Hear, hear!</p>"
+        }
+      ], 
+      "subject": "<p><strong attention=\"gy4twfv45cg5o6\">&#64;Eric Vigoda</strong>\u00a0, you and your TAs did an awesome job getting this exam back to us on time.\u00a0 Maybe you should get them an early Christmas bonus (like a membership to the jelly-of-the-month club or something).\u00a0 I know this starts with clear leadership from the professor and the head TA. Thank you.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-03T02:05:41Z", 
+      "no_upvotes": 0, 
+      "created": "2017-10-03T02:05:41Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8aypn5wwk924x", 
+      "anon": "stud", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>Thank you so much for the awesome lectures and office hours. I took 6505 and never learned dynamic programming. Luckily I did not do well in 6505 and am taking this class. I&#39;ve learned dynamic programming this time and much more. The lectures and the office hours make it much easier to understand the material.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-07T13:22:07Z", 
+      "no_upvotes": 0, 
+      "uid": "hz4ug66rg6o26j", 
+      "created": "2017-10-07T13:22:07Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8hcmxskwm45q6", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-07T13:44:22Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-10-07T13:44:22Z", 
+          "type": "feedback", 
+          "id": "j8hdfjufe47ek", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Yes, it&#39;s out of 95, though you still get any extra points above 95.  \n\nWe&#39;ll compute your average as specified here, (where Exam 1 will be divided by 95):\nhttps://8803ga.wordpress.com\nThen using your complete course average we&#39;ll draw thresholds for A,B,C, etc., roughly in line with what I specified for Exam 1. \n\nWe will upload the current scores to TSquare next week."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-07T15:49:30Z", 
+          "uid": "idgauptz2ou3po", 
+          "created": "2017-10-07T15:49:30Z", 
+          "type": "feedback", 
+          "id": "j8hhwhhzkba400", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>When you draw the final grade thresholds, do you include only the population of students who remained in the course from start to finish, or do you include all students who reached a certain point -- such as the population of students who took exam one, whether or not they dropped afterwards?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-07T17:34:05Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-10-07T17:34:05Z", 
+          "type": "feedback", 
+          "id": "j8hlmz3zvt547l", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "It doesn&#39;t matter.  I don&#39;t curve so that a certain percentage get an A.  I curve based on what scores are worthy of an A, B, etc.  So you are not competing with each other."
+        }
+      ], 
+      "subject": "Hey quick question that I didn&#39;t see asked/answered but may missed it.  The test is out of 95... correct?  So as far as discussions above about percentages, we should divide our grade by 95?  \n\nThanks all for your help and great class discussion so far!"
+    }
+  ], 
+  "nr": 525, 
+  "bucket_order": 2, 
+  "type": "note", 
+  "folders": [
+    "exam"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 4, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-10-02T14:42:05Z", 
+  "is_tag_good": false, 
+  "config": {
+    "is_announcement": 1, 
+    "bypass_email": 1
+  }, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145194811, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "Hi all,\n\nI&#39;m releasing the exam 1 grades. \n\nRegrade requests:  Submit through Gradescope.  We will review the entire problem so you could lose or gain points, so make sure your request is justified.  You should first understand the correct solution.  In your regrade request you should explain why your solution is worth more points, what we may have missed in it.  Don&#39;t just beg for more points.  \n\nI am not releasing a solution set.  You should work through the problems to try to solve them on your own.  The TA&#39;s will go through the solutions in office hours this week so tune into to those.  \n\nThe median was 61 points (out of 95 or 110, will be the same).  This is comparable to the on-campus class; I&#39;ve given a combination of similar problems over the years and calculated the median for the on-campus as roughly 67%.  2 students got a perfect 110, and 6 more got 95/95 (excluding the extra credit) -- congratulations!  To give you some calibration (this is rough, I won&#39;t make precise thresholds until the end of the semester), I think &gt;80 points is an A, and &gt;60 points is a B.  There is no extra credit in the class, but you will get the opportunity to demonstrate your knowledge of this material (especially DP) on the final exam.\n\nFor your reference, the exam problems were graded by the following TA&#39;s:\n  Problem 1 DP: John Turner\n  Problem 2 DP: Michael&#43;Murali\n  Problem 3 Short answer: Xinyu\n  Problem 4 Cartesian Sum: Jeremy&#43;Jian\n  Problem 5 Extra credit DP: Tiancheng\n\n--Eric", 
+      "anon": "no", 
+      "created": "2017-10-10T19:58:00Z", 
+      "uid": "gy4twfv45cg5o6", 
+      "subject": "Exam information"
+    }, 
+    {
+      "content": "Hi all,\n\nI&#39;m releasing the exam 1 grades. \n\nRegrade requests:  Submit through Gradescope.  We will review the entire problem so you could lose or gain points, so make sure your request is justified.  You should first understand the correct solution.  In your regrade request you should explain why your solution is worth more points, what we may have missed in it.  Don&#39;t just beg for more points.  \n\nI am not releasing a solution set.  You should work through the problems to try to solve them on your own.  The TA&#39;s will go through the solutions in office hours this week so tune into to those.  \n\nThe median was 61 points (out of 95 or 110, will be the same).  This is comparable to the on-campus class; I&#39;ve given a combination of similar problems over the years and calculated the median for the on-campus as roughly 67%.  2 students got a perfect 110, and 6 more got 95/95 (excluding the extra credit) -- congratulations!  To give you some calibration (this is rough, I won&#39;t make precise thresholds until the end of the semester), I think &gt;80 points is an A, and &gt;60 points is a B.  There is no extra credit in the class, but you will get the opportunity to demonstrate your knowledge of this material (especially DP) on the final exam.\n\nFor your reference, the exam problems were graded by the following TA&#39;s:\n  Problem 1 DP: John Turner\n  Problem 2 DP: Michael&#43;Murali\n  Problem 3 Short answer: Xinyu\n  Problem 4 Cartesian Sum: Jeremy&#43;Jian\n  Problem 5 Extra credit DP: Tiancheng\n\n--Eric\n\n#pin", 
+      "anon": "no", 
+      "created": "2017-10-02T14:42:05Z", 
+      "uid": "gy4twfv45cg5o6", 
+      "subject": "Exam information"
+    }
+  ]
+}

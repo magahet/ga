@@ -1,0 +1,113 @@
+{
+  "status": "active", 
+  "unique_views": 142, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-11T02:40:15Z", 
+      "data": "j8mfgwtwaqs5bb", 
+      "uid": "iddrzsd4r7kfm"
+    }, 
+    {
+      "uid": "i4nkipeofrkrz", 
+      "type": "s_answer", 
+      "when": "2017-10-11T02:47:40Z", 
+      "to": "j8mfgwtr7gq5ba", 
+      "anon": "no", 
+      "data": "j8mfqg5mh814lu"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8mfgwtr7gq5ba", 
+  "bookmarked": 5, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-11T02:47:40Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [
+        "hkjzzued3ef4xh", 
+        "hz3xzg3uwdmpt"
+      ], 
+      "id": "j8mfqg4hyzj4ls", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Tiancheng Gong", 
+          "admin": true, 
+          "photo": null, 
+          "us": false, 
+          "role": "ta", 
+          "facebook_id": null, 
+          "id": "hkjzzued3ef4xh"
+        }, 
+        {
+          "name": "Chris Curran", 
+          "admin": false, 
+          "photo": null, 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hz3xzg3uwdmpt"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>English.</p>", 
+          "anon": "no", 
+          "created": "2017-10-11T02:47:40Z", 
+          "uid": "i4nkipeofrkrz", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 697, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw5"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw5", 
+    "student"
+  ], 
+  "created": "2017-10-11T02:40:15Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145156620, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>should we give the algorithm for problem 1 in pseudocode or english or both?</p>", 
+      "anon": "no", 
+      "created": "2017-10-11T02:40:15Z", 
+      "uid": "iddrzsd4r7kfm", 
+      "subject": "problem 1 pseudocode/english?"
+    }
+  ]
+}

@@ -1,0 +1,380 @@
+{
+  "status": "active", 
+  "unique_views": 203, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-24T15:45:23Z", 
+      "data": "j95s8nu5she3zb", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j95s8ntd5xp3za", 
+      "anon": "no", 
+      "when": "2017-10-24T15:49:45Z", 
+      "type": "followup", 
+      "uid": "hz4ug66rg6o26j"
+    }, 
+    {
+      "to": "j95s8ntd5xp3za", 
+      "anon": "no", 
+      "when": "2017-10-24T18:59:41Z", 
+      "type": "followup", 
+      "uid": "hq9zldzvy63w7"
+    }, 
+    {
+      "to": "j95s8ntd5xp3za", 
+      "anon": "no", 
+      "when": "2017-10-24T19:07:38Z", 
+      "type": "feedback", 
+      "uid": "hl3n6qayshy5b4"
+    }, 
+    {
+      "to": "j95s8ntd5xp3za", 
+      "anon": "no", 
+      "when": "2017-10-24T19:26:47Z", 
+      "type": "followup", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j95s8ntd5xp3za", 
+      "anon": "no", 
+      "when": "2017-10-24T19:27:58Z", 
+      "type": "feedback", 
+      "uid": "hz2wlft5i565vr"
+    }, 
+    {
+      "to": "j95s8ntd5xp3za", 
+      "anon": "no", 
+      "when": "2017-10-24T19:28:40Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j95s8ntd5xp3za", 
+      "anon": "no", 
+      "when": "2017-10-24T23:06:25Z", 
+      "type": "followup", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "to": "j95s8ntd5xp3za", 
+      "anon": "no", 
+      "when": "2017-10-25T00:06:14Z", 
+      "type": "followup", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j95s8ntd5xp3za", 
+      "anon": "no", 
+      "when": "2017-10-25T00:15:51Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j95s8ntd5xp3za", 
+      "anon": "no", 
+      "when": "2017-10-25T00:35:13Z", 
+      "type": "feedback", 
+      "uid": "i4t8eakz3ex6lk"
+    }, 
+    {
+      "to": "j95s8ntd5xp3za", 
+      "anon": "no", 
+      "when": "2017-10-25T06:26:18Z", 
+      "type": "feedback", 
+      "uid": "hqj2wfy7NUZ"
+    }, 
+    {
+      "to": "j95s8ntd5xp3za", 
+      "anon": "no", 
+      "when": "2017-10-26T15:12:47Z", 
+      "type": "feedback", 
+      "uid": "i4pvwmg5VTb"
+    }
+  ], 
+  "id": "j95s8ntd5xp3za", 
+  "bookmarked": 12, 
+  "tags": [
+    "exam", 
+    "polls", 
+    "student"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-10-24T15:49:45Z", 
+      "no_upvotes": 0, 
+      "uid": "hz4ug66rg6o26j", 
+      "created": "2017-10-24T15:49:45Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j95se9xtv7v1vm", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-24T19:07:38Z", 
+          "uid": "hl3n6qayshy5b4", 
+          "created": "2017-10-24T19:07:38Z", 
+          "type": "feedback", 
+          "id": "j95zgrj9kqt2dc", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I definitely agree with you. Along with the pressure of the exam itself, the wording and presentation of the question had me rereading it many times for at least 10-15 minutes of exam before I had an idea of what was going on and what to do. It was just not as clear as it should have been. The diagram itself was confusing, having to disregard a part of it to make sense of it.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-25T00:35:13Z", 
+          "uid": "i4t8eakz3ex6lk", 
+          "created": "2017-10-25T00:35:13Z", 
+          "type": "feedback", 
+          "id": "j96b61qw32c2rn", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#43;1 here. That was too cruel.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-25T06:26:18Z", 
+          "uid": "hqj2wfy7NUZ", 
+          "created": "2017-10-25T06:26:18Z", 
+          "type": "feedback", 
+          "id": "j96npjaboun5fw", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I had the same issue. \u00a0This question may have survived in a classroom setting because students can ask about it. \u00a0(And I would bet they always do) \u00a0It is not appropriate for OMSCS since you are unable to ask for clarification.</p>"
+        }
+      ], 
+      "subject": "<p>Here is what I posted re Q1 in the other thread:\u00a0\u00a0I know it will be said that it was solvable without knowing exactly what Bipartite-Perfect-Matching is but if you can&#39;t figure out what this type of graph aims to accomplish, you\u00a0don&#39;t feel very confident setting it up as a Max Flow problem.\u00a0 I also don&#39;t know what the word incident in this context means:\u00a0 v 2 V is incident\u00a0exactly one edge in S.\u00a0 \u00a0 \u00a0 \u00a0 Who knows, maybe I did well answering it...just didn&#39;t agree with the setup of the question.\u00a0</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-24T18:59:41Z", 
+      "no_upvotes": 0, 
+      "uid": "hq9zldzvy63w7", 
+      "created": "2017-10-24T18:59:41Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j95z6ji2jr565a", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "Q1. \u00a0It was that \u201coh yeah\u201d moment when I remembered the term which made it much easier to answer. \u00a0 I still could have worded that response better, but hopefully it was enough. \u00a0"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-24T19:26:47Z", 
+      "no_upvotes": 0, 
+      "uid": "hq8hn0qyfuvyr", 
+      "created": "2017-10-24T19:26:47Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j9605e0atyp2kd", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-24T19:27:58Z", 
+          "uid": "hz2wlft5i565vr", 
+          "created": "2017-10-24T19:27:58Z", 
+          "type": "feedback", 
+          "id": "j9606wznx7b14z", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I think you&#39;ll be fine. You turn it in under your GT email address in Gradescope, so they can figure out it&#39;s yours (fortunately).</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-24T19:28:40Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-10-24T19:28:40Z", 
+          "type": "feedback", 
+          "id": "j9607tgqqif1y8", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Thanks. I&#39;m fairly sure you&#39;re right."
+        }
+      ], 
+      "subject": "OK, I chose &#34;Writing my name at the top&#34;, not because it&#39;s inherently difficult, but because it&#39;s the only part that I know I completely messed up!"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-24T23:06:25Z", 
+      "no_upvotes": 0, 
+      "uid": "ijbr5ddtwyt6pa", 
+      "created": "2017-10-24T23:06:25Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j967zuclpa53vf", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>Q1 was easy in theory (once you get what they are asking for, hence &#34;in theory&#34;), but in retrospect I way overdid it in on the test. More or less went and tested every possible approach, as a &#34;paranoia&#34; sort of option. Great for testing in general, but bad when you are in an algorithms class.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-25T00:06:14Z", 
+      "no_upvotes": 0, 
+      "uid": "i4ket0u1z5q31a", 
+      "created": "2017-10-25T00:06:14Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j96a4rer4ms3rj", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-25T00:15:51Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-10-25T00:15:51Z", 
+          "type": "feedback", 
+          "id": "j96ah531t166u7", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "I have actually seen this reduction before. I couldn&#39;t actually remember how to do it, but the way that I really benefited from having seen it is that I knew what &#34;bipartite&#34; meant and all of that."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-26T15:12:47Z", 
+          "uid": "i4pvwmg5VTb", 
+          "created": "2017-10-26T15:12:47Z", 
+          "type": "feedback", 
+          "id": "j98lygeifye12z", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "I knew what a bipartite graph was, but not an incident edge. Bc of this I couldn\u2019t solve it completely. As soon as I googled what an incident edge was after the test, I instantly knew how to answer."
+        }
+      ], 
+      "subject": "<p>Question 1 was hard because the wording threw a lot of us off, but once we understood the wording then what it was actually asking for was not hard.</p>\n<p>The question could have been worded more clearly.</p>"
+    }
+  ], 
+  "nr": 803, 
+  "bucket_order": 2, 
+  "type": "poll", 
+  "folders": [
+    "exam", 
+    "polls"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 2, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "answer": "", 
+    "admin": "", 
+    "has_voted": [], 
+    "result": {
+      "1": 26, 
+      "0": 71, 
+      "3": 5, 
+      "2": 6, 
+      "4": 5
+    }, 
+    "total_votes": 113
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-10-24T15:45:23Z", 
+  "is_tag_good": false, 
+  "config": {
+    "show_results": "", 
+    "anonymous": "yes", 
+    "multiple_selections": 0, 
+    "unpublished": 0, 
+    "toggle_visibility_on": 1, 
+    "revote": 1, 
+    "allow_followups": "yes", 
+    "always_open": 0, 
+    "close_after": "48", 
+    "publish_later": 0
+  }, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145130207, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>Hi All,</p>\n<p></p>\n<p>Just wondering what everyone considered to be the &#39;hardest&#39; on the exam.<br /><br /></p>\n<br/> [o] Problem #1\n[o] Problem #2\n[o] Problem #3\n[o] Problem #4\n[o] Writing my name at the top", 
+      "anon": "no", 
+      "created": "2017-10-24T15:45:23Z", 
+      "uid": "hvil6y6khgk2ri", 
+      "subject": "Which Question On Exam 2 was Hardest?"
+    }
+  ]
+}

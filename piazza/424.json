@@ -1,0 +1,178 @@
+{
+  "status": "active", 
+  "unique_views": 225, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-25T16:13:16Z", 
+      "data": "j80dgtpu6qn1u2", 
+      "uid": "hyxoacu48ea3ls"
+    }, 
+    {
+      "uid": "idj18b4cw027p9", 
+      "type": "s_answer", 
+      "when": "2017-09-25T16:18:32Z", 
+      "to": "j80dgtpq2y01u1", 
+      "anon": "no", 
+      "data": "j80dnlpzsqrz7"
+    }, 
+    {
+      "to": "j80dgtpq2y01u1", 
+      "anon": "no", 
+      "when": "2017-09-25T16:19:23Z", 
+      "type": "followup", 
+      "uid": "hyvx0owj4ot1a0"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-09-25T16:19:25Z", 
+      "data": "j80doqqm1xx1qu", 
+      "uid": "idj18b4cw027p9"
+    }, 
+    {
+      "to": "j80dgtpq2y01u1", 
+      "anon": "no", 
+      "when": "2017-09-25T22:34:10Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j80dgtpq2y01u1", 
+  "bookmarked": 5, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-25T16:18:32Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [
+        "hyxoacu48ea3ls", 
+        "hqa65fnalg83fr"
+      ], 
+      "id": "j80dnlpqxh9z6", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Aditi Mehta", 
+          "admin": false, 
+          "photo": null, 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hyxoacu48ea3ls"
+        }, 
+        {
+          "name": "Amin Mansuri", 
+          "admin": false, 
+          "photo": "1400911910_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hqa65fnalg83fr"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>This was already answered in &#64;13 by professor saying <em>&#34;The final is cumulative.&#34;</em></p>", 
+          "anon": "no", 
+          "created": "2017-09-25T16:19:25Z", 
+          "uid": "idj18b4cw027p9", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>This was already answered in\u00a0cid=13 by professor saying <em>&#34;The final is cumulative.&#34;</em></p>", 
+          "anon": "no", 
+          "created": "2017-09-25T16:18:32Z", 
+          "uid": "idj18b4cw027p9", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-25T16:19:23Z", 
+      "no_upvotes": 0, 
+      "uid": "hyvx0owj4ot1a0", 
+      "created": "2017-09-25T16:19:23Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j80dop87bb24e1", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-25T22:34:10Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-09-25T22:34:10Z", 
+          "type": "feedback", 
+          "id": "j80r2obo6iw72z", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Yes, thanks.  Too much to do before then.  But the final will be cumulative so roughly the union of the topics on the 3 midterm exams.  Is there any reason to discuss it more at this time?"
+        }
+      ], 
+      "subject": "<p>Based on past experience with classes being offered for the first time...\u00a0 the content/details of the final exam probably won&#39;t be decided until a week or two before the end of the semester.\u00a0 There is just too much that can happen between now and then.</p>"
+    }
+  ], 
+  "nr": 424, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "exam"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "exam", 
+    "student"
+  ], 
+  "created": "2017-09-25T16:13:16Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145221715, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>Understand it might be a little early asking this question, but I don&#39;t believe this information is clearly evident. What will be the full syllabus of Final Exam, will it cover everything?</p>", 
+      "anon": "no", 
+      "created": "2017-09-25T16:13:16Z", 
+      "uid": "hyxoacu48ea3ls", 
+      "subject": "Final Exam Syllabus"
+    }
+  ]
+}

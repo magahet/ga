@@ -1,0 +1,268 @@
+{
+  "status": "active", 
+  "unique_views": 145, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-06T00:51:32Z", 
+      "data": "j78b6a94yvz1oi", 
+      "uid": "hqa65fnalg83fr"
+    }, 
+    {
+      "uid": "gy4twfv45cg5o6", 
+      "type": "i_answer", 
+      "when": "2017-09-06T07:50:27Z", 
+      "to": "j78b6a91eh81oh", 
+      "anon": "no", 
+      "data": "j78q50g4qzy3xu"
+    }, 
+    {
+      "to": "j78b6a91eh81oh", 
+      "anon": "no", 
+      "when": "2017-09-06T08:07:32Z", 
+      "type": "followup", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j78b6a91eh81oh", 
+      "anon": "no", 
+      "when": "2017-09-06T12:17:42Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j78b6a91eh81oh", 
+      "anon": "no", 
+      "when": "2017-09-06T13:28:54Z", 
+      "type": "feedback", 
+      "uid": "hqa65fnalg83fr"
+    }, 
+    {
+      "to": "j78b6a91eh81oh", 
+      "anon": "no", 
+      "when": "2017-09-06T15:17:32Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j78b6a91eh81oh", 
+      "anon": "no", 
+      "when": "2017-09-06T15:21:41Z", 
+      "type": "feedback", 
+      "uid": "hqa65fnalg83fr"
+    }, 
+    {
+      "to": "j78b6a91eh81oh", 
+      "anon": "no", 
+      "when": "2017-09-06T15:27:36Z", 
+      "type": "feedback", 
+      "uid": "hqa65fnalg83fr"
+    }, 
+    {
+      "to": "j78b6a91eh81oh", 
+      "anon": "no", 
+      "when": "2017-09-06T15:27:43Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j78b6a91eh81oh", 
+  "bookmarked": 3, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-06T07:50:27Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j78q50g2avd3xt", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p></p>\n<p>OK, thanks for pointing that out.</p>", 
+          "anon": "no", 
+          "created": "2017-09-06T07:50:27Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-06T08:07:32Z", 
+      "no_upvotes": 0, 
+      "uid": "gy4twfv45cg5o6", 
+      "created": "2017-09-06T08:07:32Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j78qqzl9v67w5", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-06T12:17:42Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-09-06T12:17:42Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j78zop3dev55h6", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>There are 2 missing nodes there which show how to combine the power of 2 choices with the traditional chain hashing scheme. \u00a0I&#39;m trying to get them added in. \u00a0Thanks for noticing it.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-06T13:28:54Z", 
+          "uid": "hqa65fnalg83fr", 
+          "created": "2017-09-06T13:28:54Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j792895tud41fx", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>cool.. very interesting topic by the way.</p>\n<p></p>\n<p>I hadn&#39;t heard of this technique before. I suppose it could work with open addressing as well?<br /><br />Though isn&#39;t this just a variation of double hashing?\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-06T15:17:32Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-09-06T15:17:32Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j7963yutrck1xr", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p></p>\n<p>New node added in. \u00a0</p>\n<p></p>\n<p>It&#39;s different from double hashing. \u00a0It&#39;s simpler. \u00a0You are just maintaining a string of 0-1 bits. \u00a0No linked list or anything more. \u00a0The cost of the simplicity is false positives with some small rate.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-06T15:21:41Z", 
+          "uid": "hqa65fnalg83fr", 
+          "created": "2017-09-06T15:21:41Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j7969auoium1i6", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Sorry I wasn&#39;t clear.. I wasn&#39;t talking about Bloom Filters I was talking about the loglogN hashing technique (Power of two hashing).<br /><br />[thanks for adding the node by the way...watching now]</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-06T15:27:36Z", 
+          "uid": "hqa65fnalg83fr", 
+          "created": "2017-09-06T15:27:36Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j796gwr4g6a27u", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I guess the only difference between double hashing and power of two hashing is that you always hash with both functions in power of two. Thereby guaranteeing a loglogN load. In doble hashing I suppose you just solve it with open addressing on the second hash function leaving the load on the second node (and such load could approach logN as N gets big).</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-06T15:27:43Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-09-06T15:27:43Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j796h23smnw2aj", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p></p>\n<p>OK. \u00a0Slightly different, but similar idea. \u00a0The hash tables aren&#39;t nested in this case. \u00a0This is more in the style of Bloom filters.</p>"
+        }
+      ], 
+      "subject": "<p></p>\n<p>By the way, Bloom Filters are not on Exam 1. \u00a0So it&#39;s best to move on to D&amp;C after doing RSA.</p>"
+    }
+  ], 
+  "nr": 203, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "udacity"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 2, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "student", 
+    "udacity"
+  ], 
+  "created": "2017-09-06T00:51:32Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145276721, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>The video says now lets try and use the same scheme for hashing but then changes the subject. So it kind of leaves us hanging.</p>", 
+      "anon": "no", 
+      "created": "2017-09-06T00:51:32Z", 
+      "uid": "hqa65fnalg83fr", 
+      "subject": "RA3:Bloom filters #10 (errata)"
+    }
+  ]
+}

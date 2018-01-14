@@ -1,0 +1,289 @@
+{
+  "status": "active", 
+  "unique_views": 169, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-12T22:43:45Z", 
+      "data": "j8p1wglzhv437j", 
+      "uid": "hq9zldybngyw2"
+    }, 
+    {
+      "to": "j8p1wglrwdj37i", 
+      "anon": "no", 
+      "when": "2017-10-12T22:48:29Z", 
+      "type": "followup", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j8p1wglrwdj37i", 
+      "anon": "no", 
+      "when": "2017-10-12T22:49:48Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "uid": "hkjzzued3ef4xh", 
+      "type": "i_answer", 
+      "when": "2017-10-12T23:49:54Z", 
+      "to": "j8p1wglrwdj37i", 
+      "anon": "no", 
+      "data": "j8p49jsexk647s"
+    }, 
+    {
+      "to": "j8p1wglrwdj37i", 
+      "anon": "no", 
+      "when": "2017-10-13T00:44:33Z", 
+      "type": "followup", 
+      "uid": "hq9zldybngyw2"
+    }, 
+    {
+      "to": "j8p1wglrwdj37i", 
+      "anon": "no", 
+      "when": "2017-10-13T01:21:52Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j8p1wglrwdj37i", 
+      "anon": "no", 
+      "when": "2017-10-13T02:38:58Z", 
+      "type": "feedback", 
+      "uid": "hq9zldybngyw2"
+    }, 
+    {
+      "to": "j8p1wglrwdj37i", 
+      "anon": "no", 
+      "when": "2017-10-13T06:26:00Z", 
+      "type": "feedback", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "to": "j8p1wglrwdj37i", 
+      "anon": "no", 
+      "when": "2017-10-16T02:39:25Z", 
+      "type": "feedback", 
+      "uid": "hve4kb0lopy4sl"
+    }, 
+    {
+      "to": "j8p1wglrwdj37i", 
+      "anon": "no", 
+      "when": "2017-10-16T04:04:54Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8p1wglrwdj37i", 
+  "bookmarked": 9, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-10-12T22:48:29Z", 
+      "no_upvotes": 0, 
+      "uid": "hvil6y6khgk2ri", 
+      "created": "2017-10-12T22:48:29Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8p22jshy5f2ir", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-12T22:49:48Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-10-12T22:49:48Z", 
+          "type": "feedback", 
+          "id": "j8p248ojbxe3ov", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "&#64;701"
+        }
+      ], 
+      "subject": "I have a visual example here on the forums somewhere (i am on my phone now so i can&#39;t find it). That may help."
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-12T23:49:54Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j8p49js5uy547r", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>Our goal is\u00a0to reach the maximal flow by finding augmenting path on your residual graph, which is constructed from any flow\u00a0$$f$$. That means we need to saturate the augmenting path and update your residual graph until there is no more augmenting path.</p>\n<p>If a flow $$f$$ transfer $$c$$ unit on an edge $$e(u, v)$$, you will need to make\u00a0an\u00a0edge $$e(v, u)$$\u00a0and\u00a0capacity $$c$$ in your residual graph.\u00a0The maximal flow may\u00a0transfer $$c&#39;$$ on that edge and $$c&#39; &lt; c$$ , which is same as transferring $$c-c&#39;$$ on edge $$e(v, u)$$ on your residual graph.</p>\n<p></p>\n<p>The two statements actually define how you construct your residual graph.</p>\n<p>I will use $$e(u,v)$$ for the edge in your original graph, and $$e_r(u, v)$$ for the\u00a0edge in the residual graph\u00a0$$G^f$$ (constructed from a given flow $$f$$).</p>\n<p></p>\n<p>They define any edge $$e_r(u,v)$$ of your\u00a0residual graph $$G^f$$ can be either one of the following 2 cases:</p>\n<p>1) $$e(u,v)$$ is in your original graph and not\u00a0at full capacity ----- say the capacity of $$e(u,v)$$ is $$x$$, flow $$f$$ uses $$y$$ of it, there are $$x-y$$ remaining, which is the capacity of\u00a0$$e_r(u,v)$$ in $$G^f$$</p>\n<p>2)\u00a0$$e(v,u)$$ is in your original graph and $$f$$ uses some of its capacity ----- say the capacity of\u00a0$$e(v, u)$$ is\u00a0$$x$$, flow\u00a0$$f$$ uses\u00a0$$y$$ of it, then the $$e_r(u, v)$$\u00a0has capacity of\u00a0$$y$$ in $$G^f$$, and this is the case explained above.</p>", 
+          "anon": "no", 
+          "created": "2017-10-12T23:49:54Z", 
+          "uid": "hkjzzued3ef4xh", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-13T00:44:33Z", 
+      "no_upvotes": 0, 
+      "uid": "hq9zldybngyw2", 
+      "created": "2017-10-13T00:44:33Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8p67tcl60j72e", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-13T01:21:52Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-10-13T01:21:52Z", 
+          "type": "feedback", 
+          "id": "j8p7jt5frnn72", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "The residual network has two types of edges: forward edges which are edges in the original network and backward edges which are the reverse of edges in the original network.  Take an edge (u,v) in the original network.  If there is spare capacity along (u,v) (i.e., f(u,v) &lt; c(u,v)) then this edge (u,v) is in the residual network because we can send additional flow along it.  If there is some flow going along edge (u,v) so f(u,v)&gt;0 then we add the reverse edge (v,u) to the residual network.  Why?  Because we can decrease the flow along (u,v) which is the same in some sense as sending flow along (v,u)."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-13T02:38:58Z", 
+          "uid": "hq9zldybngyw2", 
+          "created": "2017-10-13T02:38:58Z", 
+          "type": "feedback", 
+          "id": "j8paayygl1bfk", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Thank you Prof Vigoda. Your wording &#34;backward edges WHICH ARE THE REVERSE of edges in the original network&#34; and some slides from the University of Illinois where they walk through a different way of labeling the network edges put me over hump. \n\nThe wording in the book &#34;the reverse edge (v, u) is in the original graph and there is some flow along it&#34; threw me off as the reverse edges are not in the original graph but are created as part of building the residual network on each iteration."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-13T06:26:00Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-10-13T06:26:00Z", 
+          "type": "feedback", 
+          "id": "j8piexqx6g5pf", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "For the sake of clarity: what I think is getting you, Todd, is that there are 2 ways of describing a reverse edge; you could say either &#34;add (u,v) when (v,u) is in the original graph &amp; there is some flow along it&#34;  or &#34;add (v,u) when (u,v) is in the original graph &amp; there is some flow along it&#34;. Although the 2 are entirely equivalent, it&#39;s clearly not that intuitive automatically for everyone :-)"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-16T02:39:25Z", 
+          "uid": "hve4kb0lopy4sl", 
+          "created": "2017-10-16T02:39:25Z", 
+          "type": "feedback", 
+          "id": "j8tkn35qzf620e", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Sorry, I guess I&#39;m with Todd in that this reverse part of the definition is confusing me and seems to be over-complicating what I would intuitively consider to be a residual flow.\u00a0 Why is this much of the definition not sufficient: (1)Take an edge (u,v) in the original network. If there is spare capacity along (u,v) (i.e., f(u,v) &lt; c(u,v)) then this edge (u,v) is in the residual network because we can send additional flow along it.</p>\n<p></p>\n<p>And this amount of residual makes sense:say the capacity of <span style=\"font-size:120%\"><span style=\"font-style:italic\">e</span>(</span><span style=\"font-style:italic\">u</span>,<span style=\"font-style:italic\">v</span>) is <span style=\"font-size:120%\"><span style=\"font-style:italic\">x</span></span>, flow <span style=\"font-size:120%\"><span style=\"font-style:italic\">f</span></span> uses <span style=\"font-size:120%\"><span style=\"font-style:italic\">y</span></span> of it, there are <span style=\"font-size:120%\"><span style=\"font-style:italic\">x</span>\u2212</span><span style=\"font-style:italic\">y</span> remaining, which is the capacity of\u00a0<span style=\"font-size:120%\"><span style=\"font-style:italic\">e</span></span><span style=\"font-style:italic\">r</span>(<span style=\"font-style:italic\">u</span>,<span style=\"font-style:italic\">v</span>) in <span style=\"font-size:120%\"><span style=\"font-style:italic\">G</span></span><span style=\"font-style:italic\">f</span></p>\n<p>\u00a0</p>\n<p>Everything past that doesn&#39;t make sense to me:(2) If there is some flow going along edge (u,v) so f(u,v)&gt;0 then we add the reverse edge (v,u) to the residual network</p>\n<p></p>\n<p>Is (2) just another way to look at (1) (I get this) or we are actually adding (2) to (1) (I don&#39;t get this)?</p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-16T04:04:54Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-10-16T04:04:54Z", 
+          "type": "feedback", 
+          "id": "j8tnp102set1uq", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>You are doing 2 AND 1; you will potentially add BOTH edges.</p>"
+        }
+      ], 
+      "subject": "Still not clear unfortunately, I get it conceptually but not such that I can describe it to someone else. Will revisit the lecture again and look online for other sources."
+    }
+  ], 
+  "nr": 709, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw5"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 5, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw5", 
+    "student"
+  ], 
+  "created": "2017-10-12T22:43:45Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145152771, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "I&#39;m a somewhat confused by the book and lecture explanations for building a residual network. Although I understand the idea conceptually, the algorithm explanation is still unclear and reads to me like it is contradictory.\n\nOn page 200 of the text the authors state:\n\n&#34;In this particular case, it would subsequently choose the path of Figure 7.5(f). Edge (b,a) of this path ISN&#39;T in the original network and has the effect of canceling flow previously assigned to edge (a,b). \n\nTo summarize, in each iteration, simplex looks for an s - t path whose edges (u,v) can be of two types:\n\n1) (u,v) IS IN the original network and is not yet at full capacity\n\n2) The reverse edge (v,u) IS IN the original network and there is some flow along it&#34;\n\nSo in the first part of this explanation, Edge (b, a) IS NOT IN the original network, yet in the two cases to consider, it says the reverse edge (v, u) IS IN the original network.\n\nThe lecture, which I thought is great, did not clear up the confusion up on this aspect of the algorithm for me. \n\nAny alternative explanations or perhaps just pointing out what may be obvious and I may be missing in the wording would be of great help :)", 
+      "anon": "no", 
+      "created": "2017-10-12T22:43:45Z", 
+      "uid": "hq9zldybngyw2", 
+      "subject": "Max Flow and Residual Networks"
+    }
+  ]
+}

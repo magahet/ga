@@ -1,0 +1,327 @@
+{
+  "status": "active", 
+  "unique_views": 170, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-30T23:13:24Z", 
+      "data": "j87xoe0ej8d5ze", 
+      "uid": "i4iufvhm2nj4s1"
+    }, 
+    {
+      "to": "j87xoe0c6yp5zd", 
+      "anon": "no", 
+      "when": "2017-09-30T23:25:52Z", 
+      "type": "followup", 
+      "uid": "i9o02g4mhGM"
+    }, 
+    {
+      "to": "j87xoe0c6yp5zd", 
+      "anon": "no", 
+      "when": "2017-09-30T23:27:00Z", 
+      "type": "feedback", 
+      "uid": "i4iufvhm2nj4s1"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-30T23:28:23Z", 
+      "data": "j87y7n9zq14143", 
+      "uid": "i4iufvhm2nj4s1"
+    }, 
+    {
+      "uid": "gns9oa0pgsO", 
+      "type": "i_answer", 
+      "when": "2017-09-30T23:45:44Z", 
+      "to": "j87xoe0c6yp5zd", 
+      "anon": "no", 
+      "data": "j87ytyg21hu6js"
+    }, 
+    {
+      "to": "j87xoe0c6yp5zd", 
+      "anon": "no", 
+      "when": "2017-10-02T12:22:05Z", 
+      "type": "feedback", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j87xoe0c6yp5zd", 
+      "anon": "no", 
+      "when": "2017-10-04T02:16:21Z", 
+      "type": "feedback", 
+      "uid": "hve4kbcvx7l4t3"
+    }, 
+    {
+      "to": "j87xoe0c6yp5zd", 
+      "anon": "no", 
+      "when": "2017-10-04T02:34:55Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j87xoe0c6yp5zd", 
+      "anon": "no", 
+      "when": "2017-10-04T03:00:24Z", 
+      "type": "feedback", 
+      "uid": "hve4kbcvx7l4t3"
+    }, 
+    {
+      "to": "j87xoe0c6yp5zd", 
+      "anon": "no", 
+      "when": "2017-10-05T00:42:10Z", 
+      "type": "feedback", 
+      "uid": "hve4kbcvx7l4t3"
+    }, 
+    {
+      "to": "j87xoe0c6yp5zd", 
+      "anon": "no", 
+      "when": "2017-10-05T01:25:36Z", 
+      "type": "feedback", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j87xoe0c6yp5zd", 
+      "anon": "no", 
+      "when": "2017-10-05T02:15:48Z", 
+      "type": "feedback", 
+      "uid": "hve4kbcvx7l4t3"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j87xoe0c6yp5zd", 
+  "bookmarked": 6, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-09-30T23:25:52Z", 
+      "no_upvotes": 0, 
+      "uid": "i9o02g4mhGM", 
+      "created": "2017-09-30T23:25:52Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j87y4eizlon74s", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-30T23:27:00Z", 
+          "uid": "i4iufvhm2nj4s1", 
+          "created": "2017-09-30T23:27:00Z", 
+          "type": "feedback", 
+          "id": "j87y5uwuo61p", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Yup just found that myself.\u00a0 Thanks Roger!</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-02T12:22:05Z", 
+          "uid": "gns9oa0pgsO", 
+          "created": "2017-10-02T12:22:05Z", 
+          "type": "feedback", 
+          "id": "j8a5ahip6pruu", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>please note, however, that this random time seed is set only when that function is called (initial runtime).\u00a0 If you want to have your task 3 to generate different random seeds/coefficients for each iteration, you need to re-set the value for genSeed for every iteration (or just set it to None in the task 3 function)</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-04T02:16:21Z", 
+          "uid": "hve4kbcvx7l4t3", 
+          "created": "2017-10-04T02:16:21Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j8cej7uvd92c9", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>For task 3 is it necessary to generate different coefficients for each iteration? In that case is my assumption that I need to add code in HashType 2 to do so correct?\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-04T02:34:55Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-10-04T02:34:55Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j8cf72xugic2ld", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Hi Lekha, Yes, you will need to generate new random a&#39;s and b&#39;s for task 3 (MAKE SURE they are changing).\u00a0 You DO NOT do this every time you run hash.contains() or hash.add() though, you set (a, b) for every k (so if k = 13, you will have 13 pairs of (a, b)) in the constructor upon initialization.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-04T03:00:24Z", 
+          "uid": "hve4kbcvx7l4t3", 
+          "created": "2017-10-04T03:00:24Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j8cg3v1ayyr6kr", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thanks Brent!</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-05T00:42:10Z", 
+          "uid": "hve4kbcvx7l4t3", 
+          "created": "2017-10-05T00:42:10Z", 
+          "type": "feedback", 
+          "id": "j8dqlxqugmd7ie", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>So do we set to a new genSeed for every sweep of k from 4 to 10 in other words generate new genSeed for k=4, k=5 etc? Or is it ok for a,b&#39;s to be same as previous k if we use same genseed?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-05T01:25:36Z", 
+          "uid": "gns9oa0pgsO", 
+          "created": "2017-10-05T01:25:36Z", 
+          "type": "feedback", 
+          "id": "j8ds5shpdp763n", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>no, you must use different a&#39;s and b&#39;s, and seeds for hash type 1, every iteration.\u00a0 you can either generate a new genseed every time or just comment that line out (it&#39;s there purely for reproducibility)</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-05T02:15:48Z", 
+          "uid": "hve4kbcvx7l4t3", 
+          "created": "2017-10-05T02:15:48Z", 
+          "type": "feedback", 
+          "id": "j8dtycsnjpg1ej", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Got it! Thanks!</p>"
+        }
+      ], 
+      "subject": "<p>In bfProjoectUtils.py if the task is not equal to 2 it uses a random time seed.\u00a0 Line 107</p>"
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-30T23:45:44Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j87ytyfyqyf6jr", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>genSeed is there for reproducibility of experiments.\u00a0</p>\n<p></p>\n<p>it is very astute, however, of you to notice how that is configured and your concern was a reasonable one.</p>", 
+          "anon": "no", 
+          "created": "2017-09-30T23:45:44Z", 
+          "uid": "gns9oa0pgsO", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 500, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "project"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 4, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "project", 
+    "student"
+  ], 
+  "created": "2017-09-30T23:13:24Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145201727, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>We are given the &#39;genseed&#39;, the &#34;<strong>Seed used to generate hash function seeds</strong>&#34; for task 1 and 3.\u00a0 That means for each run of task 1 and 3, if we are using the same configuration file, we will generate the same seeds, and thus generate the same values for our hash functions.</p>\n<p></p>\n<p>But, it is clearly stated that &#34;Each run should be random and independent of previous runs (so every time you run your program it should have different results, which are random and independent of previous runs). &#34; in the project description.\u00a0 How are these two statements compatible, or am I missing something?</p>\n<p></p>\n<p>Update: See Roger&#39;s answer below.\u00a0 The instructors may want to make it more clear how genSeed is generated for Task 1 and 3 (for the more dull students in class such as myself :] ).</p>", 
+      "anon": "no", 
+      "created": "2017-09-30T23:28:23Z", 
+      "uid": "i4iufvhm2nj4s1", 
+      "subject": "Discrepancy between &#39;genseed&#39; and Task 1 requirement"
+    }, 
+    {
+      "content": "<p>We are given the &#39;genseed&#39;, the &#34;<strong>Seed used to generate hash function seeds</strong>&#34; for task 1 and 3.\u00a0 That means for each run of task 1 and 3, if we are using the same configuration file, we will generate the same seeds, and thus generate the same values for our hash functions.</p>\n<p></p>\n<p>But, it is clearly stated that &#34;Each run should be random and independent of previous runs (so every time you run your program it should have different results, which are random and independent of previous runs). &#34; in the project description.\u00a0 How are these two statements compatible, or am I missing something?</p>", 
+      "anon": "no", 
+      "created": "2017-09-30T23:13:24Z", 
+      "uid": "i4iufvhm2nj4s1", 
+      "subject": "Discrepancy between &#39;genseed&#39; and Task 1 requirement"
+    }
+  ]
+}

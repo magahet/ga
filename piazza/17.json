@@ -1,0 +1,592 @@
+{
+  "status": "active", 
+  "unique_views": 306, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-08-21T15:32:39Z", 
+      "data": "j6mblsa2eu823d", 
+      "uid": "hveop63kovn61t"
+    }, 
+    {
+      "uid": "hkkbz4bujtv5dn", 
+      "type": "i_answer", 
+      "when": "2017-08-21T15:41:57Z", 
+      "to": "j6mblsa0tas23c", 
+      "anon": "no", 
+      "data": "j6mbxqth94z64y"
+    }, 
+    {
+      "type": "i_answer_update", 
+      "anon": "no", 
+      "when": "2017-08-21T15:44:20Z", 
+      "data": "j6mc0t0vrfs73m", 
+      "uid": "hkkbz4bujtv5dn"
+    }, 
+    {
+      "type": "i_answer_update", 
+      "anon": "no", 
+      "when": "2017-08-21T15:44:56Z", 
+      "data": "j6mc1kqm6q67c0", 
+      "uid": "hkkbz4bujtv5dn"
+    }, 
+    {
+      "type": "i_answer_update", 
+      "anon": "no", 
+      "when": "2017-08-21T15:45:45Z", 
+      "data": "j6mc2mg4d087nj", 
+      "uid": "hkkbz4bujtv5dn"
+    }, 
+    {
+      "to": "j6mblsa0tas23c", 
+      "anon": "no", 
+      "when": "2017-08-21T17:26:04Z", 
+      "type": "followup", 
+      "uid": "hveop63kovn61t"
+    }, 
+    {
+      "to": "j6mblsa0tas23c", 
+      "anon": "no", 
+      "when": "2017-08-21T18:28:31Z", 
+      "type": "feedback", 
+      "uid": "is653ar0mae7ei"
+    }, 
+    {
+      "to": "j6mblsa0tas23c", 
+      "anon": "no", 
+      "when": "2017-08-21T18:42:00Z", 
+      "type": "feedback", 
+      "uid": "hveop63kovn61t"
+    }, 
+    {
+      "to": "j6mblsa0tas23c", 
+      "anon": "no", 
+      "when": "2017-08-21T18:56:22Z", 
+      "type": "feedback", 
+      "uid": "i18w67avy8e1uk"
+    }, 
+    {
+      "to": "j6mblsa0tas23c", 
+      "anon": "no", 
+      "when": "2017-08-22T01:35:55Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j6mblsa0tas23c", 
+      "anon": "no", 
+      "when": "2017-08-22T02:02:23Z", 
+      "type": "feedback", 
+      "uid": "idgauptz2ou3po"
+    }, 
+    {
+      "to": "j6mblsa0tas23c", 
+      "anon": "no", 
+      "when": "2017-08-22T05:26:28Z", 
+      "type": "followup", 
+      "uid": "hz0jkj9dnctqp"
+    }, 
+    {
+      "to": "j6mblsa0tas23c", 
+      "anon": "no", 
+      "when": "2017-08-22T13:29:28Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j6mblsa0tas23c", 
+      "anon": "no", 
+      "when": "2017-08-22T14:37:58Z", 
+      "type": "feedback", 
+      "uid": "i18w67avy8e1uk"
+    }, 
+    {
+      "to": "j6mblsa0tas23c", 
+      "anon": "no", 
+      "when": "2017-08-22T14:40:35Z", 
+      "type": "feedback", 
+      "uid": "hv1gl7gmpkj41y"
+    }, 
+    {
+      "to": "j6mblsa0tas23c", 
+      "anon": "no", 
+      "when": "2017-08-22T14:45:05Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j6mblsa0tas23c", 
+      "anon": "no", 
+      "when": "2017-08-22T14:45:26Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j6mblsa0tas23c", 
+      "anon": "no", 
+      "when": "2017-08-22T21:00:18Z", 
+      "type": "feedback", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j6mblsa0tas23c", 
+      "anon": "no", 
+      "when": "2017-08-22T21:06:44Z", 
+      "type": "feedback", 
+      "uid": "hveop63kovn61t"
+    }, 
+    {
+      "to": "j6mblsa0tas23c", 
+      "anon": "no", 
+      "when": "2017-08-22T21:13:50Z", 
+      "type": "feedback", 
+      "uid": "i18w67avy8e1uk"
+    }, 
+    {
+      "to": "j6mblsa0tas23c", 
+      "anon": "no", 
+      "when": "2017-08-22T22:42:28Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j6mblsa0tas23c", 
+  "bookmarked": 9, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-08-21T15:41:57Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "hv1gl7gmpkj41y", 
+        "i18w67avy8e1uk", 
+        "i4gzn4buf4Q", 
+        "i4t8eakz3ex6lk", 
+        "ij7kfkx61zz365", 
+        "i4knvwlqXZ8"
+      ], 
+      "id": "j6mbxqtepat64w", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "William Miller", 
+          "admin": false, 
+          "photo": "1408322716_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hv1gl7gmpkj41y"
+        }, 
+        {
+          "name": "Shihgian Lee", 
+          "admin": false, 
+          "photo": "1420394909_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i18w67avy8e1uk"
+        }, 
+        {
+          "name": "Conor Cahill", 
+          "admin": false, 
+          "photo": "1420377819_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i4gzn4buf4Q"
+        }, 
+        {
+          "name": "abarysevich", 
+          "admin": false, 
+          "photo": null, 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i4t8eakz3ex6lk"
+        }, 
+        {
+          "name": "Samantha Campo", 
+          "admin": false, 
+          "photo": "1452452625_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "ij7kfkx61zz365"
+        }, 
+        {
+          "name": "Matthew Clarke", 
+          "admin": false, 
+          "photo": "1468354733_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i4knvwlqXZ8"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>Yes, the HW\u00a0and exams will use\u00a0pseudo code. There is no requirement for\u00a0pseudo code syntax as long as you can write a clear and complete algorithm to solve the given problem.</p>\n<p></p>", 
+          "anon": "no", 
+          "created": "2017-08-21T15:45:45Z", 
+          "uid": "hkkbz4bujtv5dn", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>HW\u00a0and exams will only require\u00a0pseudo code. There is no requirement for\u00a0pseudo code syntax as long as you can write a clear and complete algorithm to solve the given problem.</p>\n<p></p>", 
+          "anon": "no", 
+          "created": "2017-08-21T15:44:56Z", 
+          "uid": "hkkbz4bujtv5dn", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>HW\u00a0and exams will only require\u00a0pseudo code. There is no requirement for\u00a0pseudo code syntax as long as you can write a clear and complete algorithm to solve the problem.</p>\n<p></p>", 
+          "anon": "no", 
+          "created": "2017-08-21T15:44:20Z", 
+          "uid": "hkkbz4bujtv5dn", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>HW\u00a0and exams will only require\u00a0pseudo code. There is no requirement for\u00a0pseudo code syntax as long as\u00a0it is clear and complete.</p>\n<p></p>", 
+          "anon": "no", 
+          "created": "2017-08-21T15:41:57Z", 
+          "uid": "hkkbz4bujtv5dn", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-21T17:26:04Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "hveop63kovn61t", 
+      "created": "2017-08-21T17:26:04Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6mfnn0uuk072l", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-08-21T18:28:31Z", 
+          "uid": "is653ar0mae7ei", 
+          "created": "2017-08-21T18:28:31Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j6mhvya577e4o1", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I think a good\u00a0guideline is that one should be able to read, understand and implement regardless of their\u00a0programming language of choice. Python syntax typically meets this, but I would avoid non-standard constructs\u00a0like list/dictionary comprehensions or vectorized numpy code, and spell out things like &#34;{}&#34; for a dictionary and &#34;&#43;&#34; for string concatenation.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-21T18:42:00Z", 
+          "uid": "hveop63kovn61t", 
+          "created": "2017-08-21T18:42:00Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j6mid9wh3a530e", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>do you have a good resource for understanding the allowable standard constructs?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-21T18:56:22Z", 
+          "uid": "i18w67avy8e1uk", 
+          "created": "2017-08-21T18:56:22Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j6mivrfrqrq1dp", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>The lectures have a lot of pseudocode written by Professor Eric. Those are great examples.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-22T01:35:55Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-08-22T01:35:55Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j6mx5kxd39939r", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p></p>\n<p>Absolutely no Python! \u00a0No code whatsoever. \u00a0Would you want to</p>\n<p>read someone else&#39;s code?</p>\n<p></p>\n<p>Pseudocode is high-level, look at my lectures or [DPV]. \u00a0I have</p>\n<p>you write pseudocode for DP solutions but primarily to help</p>\n<p>clarify your recurrence, if it is unclear. \u00a0</p>\n<p>Later we won&#39;t use pseudocode. \u00a0You will write your algorithm</p>\n<p>in words, high-level description, e.g.: Run DFS on G. \u00a0Take the</p>\n<p>vertex with lowest postorder #, etc.</p>\n<p></p>\n<p>--Eric</p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-22T02:02:23Z", 
+          "uid": "idgauptz2ou3po", 
+          "created": "2017-08-22T02:02:23Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j6my3m7mlli24w", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>So more like &#34;Fry the egg&#34; and not &#34;Heat 10g filtered coconut oil to 173.89 C in heavy frying pan. When oil is heated, crack egg one-handed with sharp blow on side of pan and drop egg contents into oil...&#34;?</p>"
+        }
+      ], 
+      "subject": "<p>does that mean if we write\u00a0a python solution it would be valid? or are there some guidelines to writing pseudocode? edit: typo</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-22T05:26:28Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "hz0jkj9dnctqp", 
+      "created": "2017-08-22T05:26:28Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6n5e2m3dhb2lq", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-08-22T13:29:28Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-08-22T13:29:28Z", 
+          "type": "feedback", 
+          "id": "j6nmn7s7ww02dv", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p></p>\n<p>Share what code, like a C/Python program? \u00a0Why would you write that? \u00a0The main part of the DP homework is defining the subproblem in words and writing the recurrence. \u00a0Look at the format of the homework problems to see how you should approach the practice DP problems as well, it&#39;s the same approach I do in the lectures.</p>\n<p></p>\n<p>Normally I recommend a study group: \u00a0several people get together, say let&#39;s do problem 6.57 now. \u00a0You work separately on it for a while. \u00a0And then you help each other out or discuss ideas if you get stuck, and compare solutions. \u00a0If that&#39;s a homework problem you worked on, then later on your own you should re-do the problem solution from scratch. \u00a0Good?</p>\n<p></p>\n<p>--Eric</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-22T14:37:58Z", 
+          "uid": "i18w67avy8e1uk", 
+          "created": "2017-08-22T14:37:58Z", 
+          "type": "feedback", 
+          "id": "j6np3b8erw96zq", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Fit my learning style perfectly!</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-22T14:40:35Z", 
+          "uid": "hv1gl7gmpkj41y", 
+          "created": "2017-08-22T14:40:35Z", 
+          "type": "feedback", 
+          "id": "j6np6oa9phtjb", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "In defense of writing actual code, so far defining the sub problem and writing the recurrence first, and then writing up an actual Python solution instead of just pseudocode has been helpful in both improving my sub problem / recurrence definitions and actually checking the correctness of my algorithm."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-22T14:45:05Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-08-22T14:45:05Z", 
+          "type": "feedback", 
+          "id": "j6npcg7598f2b9", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>The Python/Java code will be helpful to test different inputs and validate the outputs, especially while you are trying to understand dynamic programming and need a way to validate your solution.</p>\n<p></p>\n<p>Without actual code, it&#39;s is hard to fully validate your solution.\u00a0</p>\n<p></p>\n<p>After you get the hang out of it, you won&#39;t need code, I&#39;m sure.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-22T14:45:26Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-08-22T14:45:26Z", 
+          "type": "feedback", 
+          "id": "j6npcwlej8b2gm", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#43;1 what William said.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-22T21:00:18Z", 
+          "uid": "i4ket0u1z5q31a", 
+          "created": "2017-08-22T21:00:18Z", 
+          "type": "feedback", 
+          "id": "j6o2qzyte5s6uv", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I agree with writing actual code to know if your solution works correctly.</p>\n<p>Otherwise you could be making one or more\u00a0incorrect assumptions.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-22T21:06:44Z", 
+          "uid": "hveop63kovn61t", 
+          "created": "2017-08-22T21:06:44Z", 
+          "type": "feedback", 
+          "id": "j6o2z9buf1d2wf", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>For me when I read the pseudo code and maths it doesn&#39;t really make sense to me, yet reading a python function is pretty manageable. I am trying hard to translate my programming knowledge to the format in the book and lectures. Maybe this is holding me back?\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-22T21:13:50Z", 
+          "uid": "i18w67avy8e1uk", 
+          "created": "2017-08-22T21:13:50Z", 
+          "type": "feedback", 
+          "id": "j6o38drvyme1fm", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I would say do whatever works for you to enable\u00a0you to learn.\u00a0</p>\n<p></p>\n<p>For me, writing codes is\u00a0mechanical - a direct translation from subproblem and recurrence. If I\u00a0produced subproblem or recurrence incorrectly, I\u00a0will be having difficulty producing pseudocode.</p>\n<p></p>\n<p>Please keep in mind that we are asked to produce pseudocode for\u00a0homework and exams.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-22T22:42:28Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-08-22T22:42:28Z", 
+          "type": "feedback", 
+          "id": "j6o6edg41t871a", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Different people will approach problems in a different way. I&#39;m sure there are folks that don&#39;t need actual (runnable) code to properly understand their solutions, but I&#39;m not in that camp.</p>\n<p></p>\n<p>The code is another tool you can use until you become more comfortable with the problems and your ability to come up with the solutions.</p>"
+        }
+      ], 
+      "subject": "<p>Clarifying the course docs:</p>\n<p>&#34;You may work with other people on the homework, but you must each write up your solutions separately (without any notes from your group discussion). If you work with other people, indicate who you worked with on your solution.&#34;</p>\n<p></p>\n<p>Since the homeworks require pseudocode only, can we share code? I assume we can at least share code for the practice problems suggested by the lecture if they&#39;re not in the homework. What sort of collaboration is recommended?</p>\n<p></p>\n<p>Thanks!</p>"
+    }
+  ], 
+  "nr": 17, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "logistics"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 2, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "logistics", 
+    "student"
+  ], 
+  "created": "2017-08-21T15:32:39Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145334872, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>The format of the HW seems to use pseudo code, will we ever be submitting runnable code via a specific language? I saw the project uses Python. Will any of the HW or exams ever require writing Python code?\u00a0</p>", 
+      "anon": "no", 
+      "created": "2017-08-21T15:32:39Z", 
+      "uid": "hveop63kovn61t", 
+      "subject": "Will the homeworks typically use pseudo code?"
+    }
+  ]
+}

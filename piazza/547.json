@@ -1,0 +1,584 @@
+{
+  "status": "active", 
+  "unique_views": 166, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-02T23:12:34Z", 
+      "data": "j8asj0apc9q3qs", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j8asj0annc3qr", 
+      "anon": "no", 
+      "when": "2017-10-02T23:19:20Z", 
+      "type": "followup", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j8asj0annc3qr", 
+      "anon": "no", 
+      "when": "2017-10-02T23:23:22Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j8asj0annc3qr", 
+      "anon": "no", 
+      "when": "2017-10-02T23:23:35Z", 
+      "type": "followup", 
+      "uid": "j8asou1orcgw3"
+    }, 
+    {
+      "to": "j8asj0annc3qr", 
+      "anon": "no", 
+      "when": "2017-10-02T23:23:41Z", 
+      "type": "feedback", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j8asj0annc3qr", 
+      "anon": "no", 
+      "when": "2017-10-02T23:24:24Z", 
+      "type": "feedback", 
+      "uid": "ija2ufzr6l0f7"
+    }, 
+    {
+      "to": "j8asj0annc3qr", 
+      "anon": "no", 
+      "when": "2017-10-02T23:24:41Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j8asj0annc3qr", 
+      "anon": "no", 
+      "when": "2017-10-02T23:25:55Z", 
+      "type": "feedback", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j8asj0annc3qr", 
+      "anon": "no", 
+      "when": "2017-10-02T23:27:43Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j8asj0annc3qr", 
+      "anon": "no", 
+      "when": "2017-10-02T23:33:24Z", 
+      "type": "feedback", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j8asj0annc3qr", 
+      "anon": "no", 
+      "when": "2017-10-02T23:36:12Z", 
+      "type": "followup", 
+      "uid": "idgauptz2ou3po"
+    }, 
+    {
+      "to": "j8asj0annc3qr", 
+      "anon": "no", 
+      "when": "2017-10-02T23:40:51Z", 
+      "type": "feedback", 
+      "uid": "j8asou1orcgw3"
+    }, 
+    {
+      "to": "j8asj0annc3qr", 
+      "anon": "no", 
+      "when": "2017-10-02T23:50:15Z", 
+      "type": "feedback", 
+      "uid": "io8sblee7kl5wc"
+    }, 
+    {
+      "to": "j8asj0annc3qr", 
+      "anon": "no", 
+      "when": "2017-10-03T00:17:56Z", 
+      "type": "feedback", 
+      "uid": "ija2uf6e3vger"
+    }, 
+    {
+      "to": "j8asj0annc3qr", 
+      "anon": "no", 
+      "when": "2017-10-03T00:44:42Z", 
+      "type": "feedback", 
+      "uid": "io8sblee7kl5wc"
+    }, 
+    {
+      "to": "j8asj0annc3qr", 
+      "anon": "no", 
+      "when": "2017-10-03T03:14:49Z", 
+      "type": "followup", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j8asj0annc3qr", 
+      "anon": "no", 
+      "when": "2017-10-03T04:04:07Z", 
+      "type": "followup", 
+      "uid": "hqa65fnalg83fr"
+    }, 
+    {
+      "to": "j8asj0annc3qr", 
+      "anon": "no", 
+      "when": "2017-10-03T04:17:56Z", 
+      "type": "feedback", 
+      "uid": "i4kd2g0n8rw3f6"
+    }, 
+    {
+      "to": "j8asj0annc3qr", 
+      "anon": "no", 
+      "when": "2017-10-03T04:49:34Z", 
+      "type": "followup", 
+      "uid": "i4mub6lmaxh"
+    }, 
+    {
+      "to": "j8asj0annc3qr", 
+      "anon": "no", 
+      "when": "2017-10-03T07:41:15Z", 
+      "type": "followup", 
+      "uid": "j6m1j9wkzk46tu"
+    }, 
+    {
+      "to": "j8asj0annc3qr", 
+      "anon": "no", 
+      "when": "2017-10-03T11:11:01Z", 
+      "type": "feedback", 
+      "uid": "idej2kl6hh1"
+    }, 
+    {
+      "to": "j8asj0annc3qr", 
+      "anon": "no", 
+      "when": "2017-10-08T06:53:16Z", 
+      "type": "followup", 
+      "uid": "ikqt77ujmch5qs"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8asj0annc3qr", 
+  "bookmarked": 14, 
+  "tags": [
+    "course", 
+    "instructor-note"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-10-02T23:19:20Z", 
+      "no_upvotes": 0, 
+      "uid": "i4nkipeofrkrz", 
+      "created": "2017-10-02T23:19:20Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8asrpdmch737o", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-02T23:23:22Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-10-02T23:23:22Z", 
+          "type": "feedback", 
+          "id": "j8asww5dyqn6z7", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>And got dropped again....</p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-02T23:23:41Z", 
+          "uid": "gns9oa0pgsO", 
+          "created": "2017-10-02T23:23:41Z", 
+          "type": "feedback", 
+          "id": "j8asxb1rufx7ap", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>sorry man for the inconvenience.\u00a0 i expect this is going to suck for a bit, but there were over 100 people registered as students that were not in this class, and it&#39;s about time their free ride stopped.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-02T23:24:24Z", 
+          "uid": "ija2ufzr6l0f7", 
+          "created": "2017-10-02T23:24:24Z", 
+          "type": "feedback", 
+          "id": "j8asy8crm6r5xb", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>same for\u00a0\u00a0<a href=\"mailto:dwang814&#64;gatech.edu\" target=\"_blank\">dwang814&#64;gatech.edu</a>....</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-02T23:24:41Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-10-02T23:24:41Z", 
+          "type": "feedback", 
+          "id": "j8asylij2qr606", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I get it. I&#39;m just a little bit freak out that I will get dropped and won&#39;t be able to re-join again :(</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-02T23:25:55Z", 
+          "uid": "gns9oa0pgsO", 
+          "created": "2017-10-02T23:25:55Z", 
+          "type": "feedback", 
+          "id": "j8at06oxubw1q0", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>no, i had to run it twice, that&#39;s done.\u00a0 you just timed it right and got dropped 2x.\u00a0 shouldn&#39;t happen again.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-02T23:27:43Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-10-02T23:27:43Z", 
+          "type": "feedback", 
+          "id": "j8at2hsf7vm10k", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Good. Happy it&#39;s over :)</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-02T23:50:15Z", 
+          "uid": "io8sblee7kl5wc", 
+          "created": "2017-10-02T23:50:15Z", 
+          "type": "feedback", 
+          "id": "j8atvgssy1eu1", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I also got dropped (<a href=\"mailto:zackgow&#64;gatech.edu\">zackgow&#64;gatech.edu</a>)\u00a0and had to rejoin. A little annoying, but no big deal :) Though it does mess up my Piazza stats :)</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-03T00:17:56Z", 
+          "uid": "ija2uf6e3vger", 
+          "created": "2017-10-03T00:17:56Z", 
+          "type": "feedback", 
+          "id": "j8auv2marl64cb", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>PSA if your stats/profile got messed up with the merge (like mine did), shoot an email over to <a href=\"mailto:team&#64;piazza.com\">team&#64;piazza.com</a>\u00a0and they can recover your details/stats from your other account.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-03T00:44:42Z", 
+          "uid": "io8sblee7kl5wc", 
+          "created": "2017-10-03T00:44:42Z", 
+          "type": "feedback", 
+          "id": "j8avthqg9q526d", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thanks!\u00a0</p>"
+        }
+      ], 
+      "subject": "<p>I just got dropped from Piazza and had to rejoin.... my email is <a href=\"mailto:svpino&#64;gatech.edu,\">svpino&#64;gatech.edu,</a>\u00a0and this is different from the T-Square account: svaldarrama3.</p>\n<p></p>\n<p>:(</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-02T23:23:35Z", 
+      "no_upvotes": 0, 
+      "uid": "j8asou1orcgw3", 
+      "created": "2017-10-02T23:23:35Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8asx6l8qao4wu", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-02T23:33:24Z", 
+          "uid": "gns9oa0pgsO", 
+          "created": "2017-10-02T23:33:24Z", 
+          "type": "feedback", 
+          "id": "j8at9t9vhhv22m", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>send my your gt email and your preferred email in a private message and i&#39;ll add it.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-02T23:40:51Z", 
+          "uid": "j8asou1orcgw3", 
+          "created": "2017-10-02T23:40:51Z", 
+          "type": "feedback", 
+          "id": "j8atjdtacc26hv", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thank you !</p>"
+        }
+      ], 
+      "subject": "<p>I had some important communications in progress with the instructors via private posts. I can&#39;t see them anymore because the other email that I was using got dropped.\u00a0</p>\n<p>I wonder if the posts got deleted too which would be a disaster for me :(\u00a0</p>\n<p></p>\n<p></p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-02T23:36:12Z", 
+      "no_upvotes": 0, 
+      "uid": "idgauptz2ou3po", 
+      "created": "2017-10-02T23:36:12Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8atdedknmv4sk", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "I got dropped as well, but then I was getting duplicate email digests anyway -- so apparently I had somehow joined twice.\u00a0"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-03T03:14:49Z", 
+      "no_upvotes": 0, 
+      "uid": "hvil6y6khgk2ri", 
+      "created": "2017-10-03T03:14:49Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8b16jm41z25c1", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>You may want to make an announcement on T-square; that way, if anyone was dropped and they have no idea what&#39;s going on, at the very least they have a chance of seeing the message / announcement in T-square (also only legit students will see the message).</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-03T04:04:07Z", 
+      "no_upvotes": 0, 
+      "uid": "hqa65fnalg83fr", 
+      "created": "2017-10-03T04:04:07Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8b2xxvmpll7d1", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-03T04:17:56Z", 
+          "uid": "i4kd2g0n8rw3f6", 
+          "created": "2017-10-03T04:17:56Z", 
+          "type": "feedback", 
+          "id": "j8b3fpypciq6sg", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "I was dropped as well. I am registered with my alias mail address from gatech."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-03T11:11:01Z", 
+          "uid": "idej2kl6hh1", 
+          "created": "2017-10-03T11:11:01Z", 
+          "type": "feedback", 
+          "id": "j8bi6y86jj0tp", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I did the same. In fact, when John re-added me with the GT Login, there was a link in the e-mail from Piazza to link that ID to my existing account. I followed that link, and\u00a0it added the GT ID as an alternate e-mail and restored all of my followed posts, archived posts, and e-mail preferences.</p>"
+        }
+      ], 
+      "subject": "<p>Some older students have their email alias set rather than the\u00a0login based email set on Piazza. Its how we were invited to Piazza in the first place so it stuck.</p>\n<p></p>\n<p>What I did to remedy this was to add my GT Login based email as a secondary email. Maybe that will stop the system from dropping me. Also it should merge both.\u00a0</p>\n<p></p>\n<p>I also manually re-registered as I was originally. Hopefully I won&#39;t get dropped again.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-03T04:49:34Z", 
+      "no_upvotes": 0, 
+      "uid": "i4mub6lmaxh", 
+      "created": "2017-10-03T04:49:34Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8b4ke93shn20a", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>It&#39;s strange, I only joined the this class via the piazza link at the beginning of the semester but somehow I was now dropped.</p>\n<p>I think it might be because piazza had to previously merge my account from a private email address.</p>\n<p>At least I was still able to get back in.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-03T07:41:15Z", 
+      "no_upvotes": 0, 
+      "uid": "j6m1j9wkzk46tu", 
+      "created": "2017-10-03T07:41:15Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8bap6n1d9xry", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "I was also dropped. I am using alias - arvindksh81&#64;gatech.edu, original is asharma479&#64;gatech.edu\nI joined again. I hope I will stay now :)"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-08T06:53:16Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "ikqt77ujmch5qs", 
+      "created": "2017-10-08T06:53:16Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8ie6qq2obf3yz", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "I now seem to have been automatically added as my &#39;default&#39; ID, including the standard every-4-hours-digest that needed a bit of clearing :-)"
+    }
+  ], 
+  "nr": 547, 
+  "bucket_order": 2, 
+  "type": "note", 
+  "folders": [
+    "course"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 0, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-10-02T23:12:34Z", 
+  "is_tag_good": false, 
+  "config": {
+    "is_announcement": 1, 
+    "bypass_email": 1
+  }, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145191046, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>HI folks.\u00a0 I am about to prune the unregistered members from piazza momentarily.\u00a0 I am using the email addresses that are attached to your account on T-Square.\u00a0 These will be the email addresses to access, and get notifications from, piazza, from here on out.\u00a0</p>", 
+      "anon": "no", 
+      "created": "2017-10-02T23:12:34Z", 
+      "uid": "gns9oa0pgsO", 
+      "subject": "Pruning unregistered members"
+    }
+  ]
+}

@@ -1,0 +1,278 @@
+{
+  "status": "active", 
+  "unique_views": 200, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-01T03:54:11Z", 
+      "data": "j71chwk37fe4qz", 
+      "uid": "hyzqrr6e3u13as"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-01T03:57:00Z", 
+      "data": "j71cljd53t84xj", 
+      "uid": "hyzqrr6e3u13as"
+    }, 
+    {
+      "uid": "iddrzsd4r7kfm", 
+      "type": "s_answer", 
+      "when": "2017-09-01T08:05:20Z", 
+      "to": "j71chwk0ups4qy", 
+      "anon": "no", 
+      "data": "j71lgw4rog86tu"
+    }, 
+    {
+      "to": "j71chwk0ups4qy", 
+      "anon": "no", 
+      "when": "2017-09-01T08:37:02Z", 
+      "type": "followup", 
+      "uid": "idg5nm2lC96"
+    }, 
+    {
+      "to": "j71chwk0ups4qy", 
+      "anon": "no", 
+      "when": "2017-09-01T16:52:23Z", 
+      "type": "followup", 
+      "uid": "hkvdb9dig3v511"
+    }, 
+    {
+      "to": "j71chwk0ups4qy", 
+      "anon": "no", 
+      "when": "2017-09-01T17:13:57Z", 
+      "type": "feedback", 
+      "uid": "iddrzsd4r7kfm"
+    }, 
+    {
+      "to": "j71chwk0ups4qy", 
+      "anon": "no", 
+      "when": "2017-09-01T17:15:27Z", 
+      "type": "feedback", 
+      "uid": "iddrzsd4r7kfm"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-09-01T17:17:44Z", 
+      "data": "j7257a7vg2h4r7", 
+      "uid": "iddrzsd4r7kfm"
+    }, 
+    {
+      "to": "j71chwk0ups4qy", 
+      "anon": "no", 
+      "when": "2017-09-01T17:20:25Z", 
+      "type": "feedback", 
+      "uid": "iddrzsd4r7kfm"
+    }, 
+    {
+      "uid": "hju4w9odatf30", 
+      "type": "i_answer", 
+      "when": "2017-09-03T03:13:08Z", 
+      "to": "j71chwk0ups4qy", 
+      "anon": "no", 
+      "data": "j745wu1tsik179"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j71chwk0ups4qy", 
+  "bookmarked": 6, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-01T08:05:20Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j71lgw4psaj6tt", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>sorry, my first answer was actually related to a different question...<br /><br />yes, I think that is allowed. any work you do to derive the ultimate answer from your table should be doable in O(1) time though.</p>", 
+          "anon": "no", 
+          "created": "2017-09-01T17:17:44Z", 
+          "uid": "iddrzsd4r7kfm", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>Can we for the purposes of this homework, I think yes. However its important to keep in mind that time-complexity isn&#39;t the only complexity to be mindful of, we also have to be mindful of space-complexity. So if you are storing a separate table with 1xn entries, and your main table also has 1xn entries, your space complexity will be O(n). If you store a table with nxn entries even if your main table is 1xn, your space complexity is O(n^2).\u00a0Just something to keep in mind.</p>", 
+          "anon": "no", 
+          "created": "2017-09-01T08:05:20Z", 
+          "uid": "iddrzsd4r7kfm", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-01T08:37:02Z", 
+      "no_upvotes": 0, 
+      "uid": "idg5nm2lC96", 
+      "created": "2017-09-01T08:37:02Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j71mlnhu9ha287", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-01T17:15:27Z", 
+          "uid": "iddrzsd4r7kfm", 
+          "created": "2017-09-01T17:15:27Z", 
+          "type": "feedback", 
+          "id": "j7254cqjed56sg", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>whoops, I answered the wrong question... thanks</p>"
+        }
+      ], 
+      "subject": "<p>Tyler, just to be sure, here&#39;s a paraphrase of\u00a0the question: is it okay to derive the answer from a constructed table? That is, the answer is\u00a0not directly in that table, and there&#39;s no separate table--it is the main one. I think space complexity is not the main concern.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-01T16:52:23Z", 
+      "no_upvotes": 0, 
+      "uid": "hkvdb9dig3v511", 
+      "created": "2017-09-01T16:52:23Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j724aog0cai3le", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-01T17:13:57Z", 
+          "uid": "iddrzsd4r7kfm", 
+          "created": "2017-09-01T17:13:57Z", 
+          "type": "feedback", 
+          "id": "j7252f8uupq5w3", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>i dont think its required. there are better ways to solve the problem that dont use an auxiliary table</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-01T17:20:25Z", 
+          "uid": "iddrzsd4r7kfm", 
+          "created": "2017-09-01T17:20:25Z", 
+          "type": "feedback", 
+          "id": "j725aqtazl766g", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>actually i was answering\u00a0a different\u00a0question by mistake... I meant to answer\u00a0&#64;131. the professor answered that question by now and actually said the opposite of what I\u00a0did so i guess I was wrong! we are not allowed to use\u00a0auxiliary tables at all.</p>"
+        }
+      ], 
+      "subject": "Tyler can you talk about what problem you are thinking of doing this for? \u00a0I actually encountered some problems where I initially did this, but then the more I thought about it I realized storing other things were not necessary. \u00a0"
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-03T03:13:08Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j745wu1o8li178", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>Yes, it should be fine that you do some additional work (like getting, max or min etc..) on the table to get the final answer.</p>", 
+          "anon": "no", 
+          "created": "2017-09-03T03:13:08Z", 
+          "uid": "hju4w9odatf30", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 136, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw1"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 3, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw1", 
+    "student"
+  ], 
+  "created": "2017-09-01T03:54:11Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145294376, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>Is it ok to store another piece of information in a table you build other than the answer? Say my problem was defined as Problem( N , M) and I wanted a one dimensional table T(1....N) where each value was something that I checked against M to determine the ultimate answer. Is that approach ok?</p>\n<p></p>\n<p>I know other solutions we&#39;ve stored things like Longest substring/subsequence that ends in X_i at each table entry and then used the max, but in this case the answer would not really be located anywhere in the table.</p>", 
+      "anon": "no", 
+      "created": "2017-09-01T03:57:00Z", 
+      "uid": "hyzqrr6e3u13as", 
+      "subject": "Using your DP table to store something other than the answer"
+    }, 
+    {
+      "content": "<p>Is it ok to store another piece of information in a table you build other than the answer? Say my problem was defined as Problem( N , M) and I wanted a one dimensional table T(1....N) where each value was something that I checked against M to determine the ultimate answer. Is that approach ok?</p>", 
+      "anon": "no", 
+      "created": "2017-09-01T03:54:11Z", 
+      "uid": "hyzqrr6e3u13as", 
+      "subject": "Using your DP table to store something other than the answer"
+    }
+  ]
+}

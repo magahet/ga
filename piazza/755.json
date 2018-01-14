@@ -1,0 +1,535 @@
+{
+  "status": "active", 
+  "unique_views": 143, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-19T00:17:06Z", 
+      "data": "j8xpvmlstr9186", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-19T00:26:13Z", 
+      "data": "j8xq7d3sbyt3p8", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-19T00:27:08Z", 
+      "data": "j8xq8j6icbe4qg", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-19T01:00:21Z", 
+      "data": "j8xrf965uts3zg", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-19T01:00:34Z", 
+      "data": "j8xrfj8j7w645e", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "to": "j8xpvmlq5x2185", 
+      "anon": "no", 
+      "when": "2017-10-19T01:52:50Z", 
+      "type": "followup", 
+      "uid": "ijarmqggjkc3gz"
+    }, 
+    {
+      "to": "j8xpvmlq5x2185", 
+      "anon": "no", 
+      "when": "2017-10-19T02:08:50Z", 
+      "type": "feedback", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "to": "j8xpvmlq5x2185", 
+      "anon": "no", 
+      "when": "2017-10-19T02:50:24Z", 
+      "type": "feedback", 
+      "uid": "ijarmqggjkc3gz"
+    }, 
+    {
+      "to": "j8xpvmlq5x2185", 
+      "anon": "no", 
+      "when": "2017-10-19T03:09:47Z", 
+      "type": "feedback", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "to": "j8xpvmlq5x2185", 
+      "anon": "no", 
+      "when": "2017-10-19T03:09:53Z", 
+      "type": "feedback", 
+      "uid": "ijarmqggjkc3gz"
+    }, 
+    {
+      "to": "j8xpvmlq5x2185", 
+      "anon": "no", 
+      "when": "2017-10-19T03:12:53Z", 
+      "type": "feedback", 
+      "uid": "ijarmqggjkc3gz"
+    }, 
+    {
+      "uid": "ijarmqggjkc3gz", 
+      "type": "s_answer", 
+      "when": "2017-10-19T03:26:18Z", 
+      "to": "j8xpvmlq5x2185", 
+      "anon": "no", 
+      "data": "j8xwmxz1w8x52k"
+    }, 
+    {
+      "to": "j8xpvmlq5x2185", 
+      "anon": "no", 
+      "when": "2017-10-19T04:55:27Z", 
+      "type": "followup", 
+      "uid": "iebwjhg152x642"
+    }, 
+    {
+      "to": "j8xpvmlq5x2185", 
+      "anon": "no", 
+      "when": "2017-10-19T11:16:37Z", 
+      "type": "feedback", 
+      "uid": "ijarmqggjkc3gz"
+    }, 
+    {
+      "to": "j8xpvmlq5x2185", 
+      "anon": "no", 
+      "when": "2017-10-23T17:35:05Z", 
+      "type": "followup", 
+      "uid": "idg5nm2lC96"
+    }, 
+    {
+      "to": "j8xpvmlq5x2185", 
+      "anon": "no", 
+      "when": "2017-10-24T14:10:50Z", 
+      "type": "feedback", 
+      "uid": "ijarmqggjkc3gz"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-10-24T14:32:43Z", 
+      "data": "j95pn7ni98c2gr", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-10-24T14:33:25Z", 
+      "data": "j95po43s5gm332", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "to": "j8xpvmlq5x2185", 
+      "anon": "no", 
+      "when": "2017-10-24T14:35:08Z", 
+      "type": "feedback", 
+      "uid": "idg5nm2lC96"
+    }, 
+    {
+      "to": "j8xpvmlq5x2185", 
+      "anon": "no", 
+      "when": "2017-10-24T14:41:55Z", 
+      "type": "followup", 
+      "uid": "hve4kb0lopy4sl"
+    }, 
+    {
+      "to": "j8xpvmlq5x2185", 
+      "anon": "no", 
+      "when": "2017-10-24T14:45:09Z", 
+      "type": "feedback", 
+      "uid": "ijarmqggjkc3gz"
+    }, 
+    {
+      "to": "j8xpvmlq5x2185", 
+      "anon": "no", 
+      "when": "2017-10-24T15:16:54Z", 
+      "type": "feedback", 
+      "uid": "ijarmqggjkc3gz"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8xpvmlq5x2185", 
+  "bookmarked": 9, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-10-19T01:52:50Z", 
+      "no_upvotes": 0, 
+      "uid": "ijarmqggjkc3gz", 
+      "created": "2017-10-19T01:52:50Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8xtaqsi9j5738", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-19T02:08:50Z", 
+          "uid": "ijbr5ddtwyt6pa", 
+          "created": "2017-10-19T02:08:50Z", 
+          "type": "feedback", 
+          "id": "j8xtvbu37ge5mw", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Would that work in terms of flow though? What if one of the edges in that SCC was a critical flow?</p>\n<p></p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/ijbr5ddtwyt6pa/j8xtti8own0c/Screen_Shot_20171018_at_10.07.11_PM.png\" alt=\"\" /></p>\n<p></p>\n<p>So, in this case, isn&#39;t {SABC} a SCC? So the max flow would be 14 unless I did a simple mistake, and in this case, if we altered the value of BC (In the SCC) to 5, that would alter the max flow, making it a critical edge, correct?</p>\n<p></p>\n<p>I could be wrong here though</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-19T02:50:24Z", 
+          "uid": "ijarmqggjkc3gz", 
+          "created": "2017-10-19T02:50:24Z", 
+          "type": "feedback", 
+          "id": "j8xvcru3zbd111", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>In your example you ran SCC on the original graph.\u00a0 You need to run SCC on the residual graph.\u00a0 The max-flow residual graph for your example is as follows:</p>\n<p></p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/ijarmqggjkc3gz/j8xv2gw5mtdd/20171018_21_41_57Clipboard.png\" alt=\"\" /></p>\n<p></p>\n<p>The residual graph\u00a0SCCs (in no particular order) are: {SB, A, C, D, ET}.</p>\n<p></p>\n<p>In your example the set of edges at capacity happens to be the same as the residual graph cross SCC edges.\u00a0 However, there are other examples where the residual graph cross SCC edges is a subset of the edges at capacity.\u00a0</p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-19T03:09:47Z", 
+          "uid": "ijbr5ddtwyt6pa", 
+          "created": "2017-10-19T03:09:47Z", 
+          "type": "feedback", 
+          "id": "j8xw1p8swed278", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>OK, that actually makes sense, and seems a bit simpler than my approach. Because the SCCs will pretty much result from not having max capacity anyways, we ca assume it is at capacity. What about the cases where the edge is at capacity, but not a critical edge? I.e. there is a cycle we could use to get around this, which we didn&#39;t happen to pick in the first place (Some edge with 0 flow for example)? Does this cover those cases?\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-19T03:09:53Z", 
+          "uid": "ijarmqggjkc3gz", 
+          "created": "2017-10-19T03:09:53Z", 
+          "type": "feedback", 
+          "id": "j8xw1tyj5zm4tw", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Here&#39;s an example graph and it&#39;s corresponding max-flow residual graph.\u00a0 Notice how there are two edges at capacity {BC, CD} but only one of them is critical {CD} and notice how the SCC algorithm works to find the one that is critical.</p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/ijarmqggjkc3gz/j8xvz9mhgcjb/20171018_22_07_35Clipboard.png\" alt=\"\" /></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-19T03:12:53Z", 
+          "uid": "ijarmqggjkc3gz", 
+          "created": "2017-10-19T03:12:53Z", 
+          "type": "feedback", 
+          "id": "j8xw5p3d6e17kv", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Edge BC is not critical because if we decrease it there is still a residual flow path available to compensate for that lost capacity.</p>"
+        }
+      ], 
+      "subject": "What about this:<div><br /></div><div>- Run SCC on the residual graph.</div><div>- Any edge connecting vertices of different SCCs (i.e. edges in the meta DAG) correspond to critical edges in the original graph.</div>"
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-19T03:26:18Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [
+        "ijbr5ddtwyt6pa"
+      ], 
+      "id": "j8xwmxyidb452h", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Jason Buoni", 
+          "admin": false, 
+          "photo": "1463440659_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "ijbr5ddtwyt6pa"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "- Run SCC on the residual graph.\n- Any edge connecting vertices of different residual graph SCCs (i.e. edges in the meta DAG) correspond to critical edges in the original graph.\n\n<u>Mark&#39;s Edit:</u>\nNB the question asks for &#34;a&#34; critical edge, not &#34;every&#34; critical edge. So, you simply need to select an edge from the min-cut.", 
+          "anon": "no", 
+          "created": "2017-10-24T14:33:25Z", 
+          "uid": "i4hdvab632i522", 
+          "subject": ""
+        }, 
+        {
+          "content": "- Run SCC on the residual graph.\n- Any edge connecting vertices of different residual graph SCCs (i.e. edges in the meta DAG) correspond to critical edges in the original graph.\n\n\nNB the question asks for &#34;a&#34; critical edge, not &#34;every&#34; critical edge. So, you simply need to select an edge from the min-cut.", 
+          "anon": "no", 
+          "created": "2017-10-24T14:32:43Z", 
+          "uid": "i4hdvab632i522", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p></p><div>- Run SCC on the residual graph.</div>\n<div>- Any edge connecting vertices of different residual graph SCCs (i.e. edges in the meta DAG) correspond to critical edges in the original graph.</div>", 
+          "anon": "no", 
+          "created": "2017-10-19T03:26:18Z", 
+          "uid": "ijarmqggjkc3gz", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-19T04:55:27Z", 
+      "no_upvotes": 0, 
+      "uid": "iebwjhg152x642", 
+      "created": "2017-10-19T04:55:27Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8xztlhz5ol6yi", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-19T11:16:37Z", 
+          "uid": "ijarmqggjkc3gz", 
+          "created": "2017-10-19T11:16:37Z", 
+          "type": "feedback", 
+          "id": "j8ydfs7c2001bi", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Try this example:<div><br /></div><div>S --1--&gt; A--2--&gt;B--1--&gt;C--2--&gt;D--1--&gt;T</div><div><br /></div><div>All edges of capacity 1 are critical edges in this graph. What does your algorithm return?</div>"
+        }
+      ], 
+      "subject": "<p>Would the following work?</p>\n<p>* Run explore on s node in Gf. Let L be the leaf nodes in the tree returned by explore.</p>\n<p>* Reverse Gf</p>\n<p>* Run explore on each Gf for each of the leaf nodes in L. Any edge in a path from a node in L to t is a critical edge.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-23T17:35:05Z", 
+      "no_upvotes": 0, 
+      "uid": "idg5nm2lC96", 
+      "created": "2017-10-23T17:35:05Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j94gpwhimx045z", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-24T14:10:50Z", 
+          "uid": "ijarmqggjkc3gz", 
+          "created": "2017-10-24T14:10:50Z", 
+          "type": "feedback", 
+          "id": "j95ov2k0w4b1rs", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Dennis, thanks for the feedback.\u00a0 However, you&#39;ve incorrectly drawn the SCCs on your residual graph.\u00a0 All four vertices on the left are part of the same SCC because every vertex in that group is reachable by any vertex in that group.\u00a0 Take another look at the SCC definition and algorithm and see if you agree.</p>\n<p></p>\n<p>Also, I noticed the 1/9 edge weights on your residual graph should be flipped but that doesn&#39;t affect our discussion.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-24T14:35:08Z", 
+          "uid": "idg5nm2lC96", 
+          "created": "2017-10-24T14:35:08Z", 
+          "type": "feedback", 
+          "id": "j95pqc6hjo96co", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Yes, you&#39;re right. We had a few examples, and looks like we incorrectly drew this one.</p>\n<p></p>\n<p>After thinking about it some more, looks like the SCC approach does work: seems like if there&#39;s a different route for a flow, that route would always create an SCC with the original one. I doubted my solution without putting much more thought. Sorry about that.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-24T15:16:54Z", 
+          "uid": "ijarmqggjkc3gz", 
+          "created": "2017-10-24T15:16:54Z", 
+          "type": "feedback", 
+          "id": "j95r81lkki4hz", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Here is similar alternative solution along with its proof of correctness.\u00a0<a href=\"http://vlsicad.ucsd.edu/courses/cse101-w16/hw/hw4_solutions.pdf\">http://vlsicad.ucsd.edu/courses/cse101-w16/hw/hw4_solutions.pdf</a>\u00a0</p>\n<p></p>\n<p>Building upon that proof:</p>\n<p>If\u00a0edge (u,v) is at capacity then there is an edge (v,u) in the residual graph.</p>\n<p>All vertices along any path from u to v are members of\u00a0an SCC and edge (u,v) is not a critical edge</p>"
+        }
+      ], 
+      "subject": "<p><span style=\"text-decoration:line-through\">Jeff, unfortunately, your proposed solution is incorrect. I came up with the same solution independently, but there are many counterexamples, for example (hat tip to Mark Shalda):</span></p>\n<p></p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/idg5nm2lC96/j94gmiwl5jpf/critical_edges.png\" alt=\"\" /></p>\n<p></p>\n<p><span style=\"text-decoration:line-through\">In the example above, the\u00a0top two edges in $$G^f$$ would be incorrectly considered as critical. I&#39;m not entirely sure what the correct solution is, but it seems to involve checking\u00a0whether the flow can be rerouted through a different set of edges or not.</span></p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-24T14:41:55Z", 
+      "no_upvotes": 0, 
+      "uid": "hve4kb0lopy4sl", 
+      "created": "2017-10-24T14:41:55Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j95pz22n51r1s6", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-24T14:45:09Z", 
+          "uid": "ijarmqggjkc3gz", 
+          "created": "2017-10-24T14:45:09Z", 
+          "type": "feedback", 
+          "id": "j95q37j7gds17y", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>The definition of a critical edge is very similar to the definition of a bottle neck.\u00a0 It makes sense that the algorithms will be similar as well.. but they are not the same.</p>"
+        }
+      ], 
+      "subject": "<p>Isn&#39;t the solution to this one pretty much the same as the bottleneck problem discussed in &#64;737 ?</p>"
+    }
+  ], 
+  "nr": 755, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "graph_algorithms"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 3, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "graph_algorithms", 
+    "student"
+  ], 
+  "created": "2017-10-19T00:17:06Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145138446, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>I know it was not a recommended problem, but it seems to follow what we may see on a test, and I thought it would be good practice:</p>\n<p></p>\n<p><em>7.21 An edge of a flow network is called critical if decreasing the capacity of this edge results in a decrease in the maximum flow. Give an efficient algorithm that finds a critical edge in a network.\u00a0</em></p>\n<p></p>\n<p>So, for this solution, we could assume that any edge that is at max capacity could be considered a critical edge correct?\u00a0Don&#39;t we just need to run the max flow algorithm and check the flow - capacity of each edge? If there is an edge where fe == ce, then is it not a critical edge?</p>\n<p></p>\n<p><span style=\"text-decoration:line-through\">So:</span></p>\n<ol><li><span style=\"text-decoration:line-through\">Run Max flow algorithm (Edmonds-Karp) on graph G as G<sup>f</sup></span></li><li><span style=\"text-decoration:line-through\">For all edges e in E<sup>f\u00a0</sup>:If f<sub>e</sub> == c<sub>e\u00a0</sub>return e</span></li></ol>\n<p><span style=\"text-decoration:line-through\">runtime = O(VE<sup>2</sup>)</span></p>\n<p></p>\n<p>If anyone else tried this problem out, did they get a similar answer?</p>\n<p></p>\n<p><strong>Edit:\u00a0</strong>This is not entirely correct, since, if there is an edge where capacity is equal to flow, but the residual graph shows that we can push flow thorough that edge in the other direction, then it is not critical.</p>\n<p></p>\n<p>So:</p>\n<ol><li>Run Max flow algorithm (Edmonds-Karp) on graph G as G<sup>f</sup></li><li>For all edges e in E<sup>f\u00a0</sup>:If f<sub>e</sub>\u00a0== c<sub>e\u00a0</sub>return e as set S\u00a0</li><li>For (u, v) in S:\u00a0<ol><li>Run DFS on the residual graph ; If there is not a path to (u, v) then the edge is critical</li></ol></li></ol>\n<p>runtime = O(VE<sup>2</sup>) &#43; O(E) &#43; O(V &#43; E) =&gt; Still\u00a0O(VE<sup>2</sup>)\u00a0</p>\n<p></p>\n<p>I think thats right, no?</p>", 
+      "anon": "no", 
+      "created": "2017-10-19T01:00:34Z", 
+      "uid": "ijbr5ddtwyt6pa", 
+      "subject": "DPV 7.21"
+    }, 
+    {
+      "content": "<p>I know it was not a recommended problem, but it seems to follow what we may see on a test, and I thought it would be good practice:</p>\n<p></p>\n<p><em>7.21 An edge of a flow network is called critical if decreasing the capacity of this edge results in a decrease in the maximum flow. Give an efficient algorithm that finds a critical edge in a network.\u00a0</em></p>\n<p></p>\n<p>So, for this solution, we could assume that any edge that is at max capacity could be considered a critical edge correct?\u00a0Don&#39;t we just need to run the max flow algorithm and check the flow - capacity of each edge? If there is an edge where fe == ce, then is it not a critical edge?</p>\n<p></p>\n<p>So:</p>\n<ol><li>Run Max flow algorithm (Edmonds-Karp) on graph G as G<sup>f</sup></li><li>For all edges e in E<sup>f\u00a0</sup>:If f<sub>e</sub> == c<sub>e\u00a0</sub>return e</li></ol>\n<p>runtime = O(VE<sup>2</sup>)</p>\n<p></p>\n<p>If anyone else tried this problem out, did they get a similar answer?</p>\n<p></p>\n<p><strong>Edit:\u00a0</strong>This is not entirely correct, since, if there is an edge where capacity is equal to flow, but the residual graph shows that we can push flow thorough that edge in the other direction, then it is not critical.</p>\n<p></p>\n<p>So:</p>\n<ol><li>Run Max flow algorithm (Edmonds-Karp) on graph G as G<sup>f</sup></li><li>For all edges e in E<sup>f\u00a0</sup>:If f<sub>e</sub>\u00a0== c<sub>e\u00a0</sub>return e as set S\u00a0</li><li>For (u, v) in S:\u00a0<ol><li>Run DFS on the residual graph ; If there is not a path to (u, v) then the edge is critical</li></ol></li></ol>\n<p>runtime = O(VE<sup>2</sup>) &#43; O(E) &#43; O(V &#43; E) =&gt; Still\u00a0O(VE<sup>2</sup>)\u00a0</p>\n<p></p>\n<p>I think thats right, no?</p>", 
+      "anon": "no", 
+      "created": "2017-10-19T01:00:21Z", 
+      "uid": "ijbr5ddtwyt6pa", 
+      "subject": "DPV 7.21"
+    }, 
+    {
+      "content": "<p>I know it was not a recommended problem, but it seems to follow what we may see on a test, and I thought it would be good practice:</p>\n<p></p>\n<p><em>7.21 An edge of a flow network is called critical if decreasing the capacity of this edge results in a decrease in the maximum flow. Give an efficient algorithm that finds a critical edge in a network.\u00a0</em></p>\n<p></p>\n<p>So, for this solution, we could assume that any edge that is at max capacity could be considered a critical edge correct?\u00a0Don&#39;t we just need to run the max flow algorithm and check the flow - capacity of each edge? If there is an edge where fe == ce, then is it not a critical edge?</p>\n<p></p>\n<p>So:</p>\n<ol><li>Run Max flow algorithm (Edmonds-Karp) on graph G as G<sup>f</sup></li><li>For all edges e in E<sup>f\u00a0</sup>:If f<sub>e</sub> == c<sub>e\u00a0</sub>return e</li></ol>\n<p>runtime = O(VE<sup>2</sup>)</p>\n<p></p>\n<p>If anyone else tried this problem out, did they get a similar answer?</p>", 
+      "anon": "no", 
+      "created": "2017-10-19T00:27:08Z", 
+      "uid": "ijbr5ddtwyt6pa", 
+      "subject": "DPV 7.21"
+    }, 
+    {
+      "content": "<p>I know it was not a recommended problem, but it seems to follow what we may see on a test, and I thought it would be good practice:</p>\n<p></p>\n<p><em>7.21 An edge of a flow network is called critical if decreasing the capacity of this edge results in a decrease in the maximum flow. Give an efficient algorithm that finds a critical edge in a network.\u00a0</em></p>\n<p></p>\n<p>So, for this solution, we could assume that any edge that is at max capacity could be considered a critical edge correct?\u00a0Don&#39;t we just need to run the max flow algorithm and check the flow - capacity of each edge? If there is an edge where fe == ce, then is it not a critical edge?</p>\n<p></p>\n<p>So:</p>\n<ol><li>Run Max flow algorithm (Edmonds-Karp) on graph G as G<sup>f</sup></li><li>For all edges e in E<sup>f\u00a0</sup>:If f<sub>e</sub> == c<sub>e\u00a0</sub>return e</li></ol>\n<p></p>\n<p>If anyone else tried this problem out, did they get a similar answer?</p>", 
+      "anon": "no", 
+      "created": "2017-10-19T00:26:13Z", 
+      "uid": "ijbr5ddtwyt6pa", 
+      "subject": "DPV 7.21"
+    }, 
+    {
+      "content": "<p>I know it was not a recommended problem, but it seems to follow what we may see on a test, and I thought it would be good practice:</p>\n<p></p>\n<p><em>7.21 An edge of a flow network is called critical if decreasing the capacity of this edge results in a decrease in the maximum flow. Give an efficient algorithm that finds a critical edge in a network.\u00a0</em></p>\n<p><em></em></p>\n<p>So, for this solution, we could assume that any edge that is at max capacity could be considered a critical edge correct? Because decreasing the capacity of these edges would decrease the max flow? So, it is possible to run\u00a0max flow algorithm, then, run DFS on the reverse of that (from T) seeing which edges are reachable by T, but the opposite is not true (i.e. there is only one directional edge, away from T)<br /><br />But, we can probably do this in a quicker way no? Don&#39;t we just need to run the max flow algorithm and check the flow - capacity of each edge? If there is an edge where fe == ce, then is it not a critical edge?</p>\n<p></p>\n<p>So:</p>\n<ol><li>Run Max flow algorithm on graph G as G<sup>f</sup></li><li>For all edges e in E<sup>f\u00a0</sup>:If f<sub>e</sub> == c<sub>e\u00a0</sub>return e</li></ol>\n<p></p>\n<p>If anyone else tried this problem out, did they get a similar answer?</p>", 
+      "anon": "no", 
+      "created": "2017-10-19T00:17:06Z", 
+      "uid": "ijbr5ddtwyt6pa", 
+      "subject": "DPV 7.21"
+    }
+  ]
+}

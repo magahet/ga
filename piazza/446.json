@@ -1,0 +1,392 @@
+{
+  "status": "active", 
+  "unique_views": 218, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-26T14:22:26Z", 
+      "data": "j81oy4yq5s54ig", 
+      "uid": "i4m8xop4ndthr"
+    }, 
+    {
+      "uid": "gns9oa0pgsO", 
+      "type": "i_answer", 
+      "when": "2017-09-26T15:35:02Z", 
+      "to": "j81oy4yju924if", 
+      "anon": "no", 
+      "data": "j81rjic9qdcxb"
+    }, 
+    {
+      "to": "j81oy4yju924if", 
+      "anon": "no", 
+      "when": "2017-09-26T17:14:52Z", 
+      "type": "followup", 
+      "uid": "i4m8xop4ndthr"
+    }, 
+    {
+      "to": "j81oy4yju924if", 
+      "anon": "no", 
+      "when": "2017-09-28T21:38:19Z", 
+      "type": "followup", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j81oy4yju924if", 
+      "anon": "no", 
+      "when": "2017-09-28T21:50:30Z", 
+      "type": "feedback", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j81oy4yju924if", 
+      "anon": "no", 
+      "when": "2017-09-28T21:57:11Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j81oy4yju924if", 
+      "anon": "no", 
+      "when": "2017-09-28T23:48:00Z", 
+      "type": "followup", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "to": "j81oy4yju924if", 
+      "anon": "no", 
+      "when": "2017-09-29T02:22:26Z", 
+      "type": "feedback", 
+      "uid": "hvfeyx7qglF"
+    }, 
+    {
+      "to": "j81oy4yju924if", 
+      "anon": "no", 
+      "when": "2017-09-29T02:45:23Z", 
+      "type": "feedback", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "to": "j81oy4yju924if", 
+      "anon": "no", 
+      "when": "2017-09-29T07:23:48Z", 
+      "type": "feedback", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j81oy4yju924if", 
+      "anon": "no", 
+      "when": "2017-10-02T01:08:51Z", 
+      "type": "followup", 
+      "uid": "i4ps9nqsv397k6"
+    }, 
+    {
+      "to": "j81oy4yju924if", 
+      "anon": "no", 
+      "when": "2017-10-02T04:36:25Z", 
+      "type": "feedback", 
+      "uid": "i4m8xop4ndthr"
+    }, 
+    {
+      "to": "j81oy4yju924if", 
+      "anon": "no", 
+      "when": "2017-10-02T12:36:30Z", 
+      "type": "feedback", 
+      "uid": "gns9oa0pgsO"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j81oy4yju924if", 
+  "bookmarked": 7, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-26T15:35:02Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "i4m8xop4ndthr"
+      ], 
+      "id": "j81rjic2723xa", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Konstantin Rybakov", 
+          "admin": false, 
+          "photo": "1471889957_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i4m8xop4ndthr"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>P is the first prime greater than or equal to the size of the universe.\u00a0 If your universe has 10 things, P would be 11.</p>\n<p></p>\n<p>For the data files you have been given, N is already prime (2^32 - 1) so you can use N as P.</p>\n<p></p>\n<p>If you would like to know the theory behind the hash function, check out this book :</p>\n<p><a href=\"https://www.amazon.com/Probability-Computing-Randomized-Algorithms-Probabilistic/dp/0521835402\">https://www.amazon.com/Probability-Computing-Randomized-Algorithms-Probabilistic/dp/0521835402</a></p>\n<p></p>\n<p>specifically page 323 - this exact hash function is discussed.</p>", 
+          "anon": "no", 
+          "created": "2017-09-26T15:35:02Z", 
+          "uid": "gns9oa0pgsO", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-26T17:14:52Z", 
+      "no_upvotes": 0, 
+      "uid": "i4m8xop4ndthr", 
+      "created": "2017-09-26T17:14:52Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j81v3wkxqxo34d", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>John, thanks for the explanation. It now totally makes sense!</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-28T21:38:19Z", 
+      "no_upvotes": 0, 
+      "uid": "hvil6y6khgk2ri", 
+      "created": "2017-09-28T21:38:19Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j84zeeffr701ya", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-28T21:50:30Z", 
+          "uid": "gns9oa0pgsO", 
+          "created": "2017-09-28T21:50:30Z", 
+          "type": "feedback", 
+          "id": "j84zu20u2r364u", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>No, the universe is what you are actually\u00a0pulling from, and it is of size N.\u00a0 for task 2 the data you have been provided has been sampled from the universe of all positive ints up to 2^32 -1.\u00a0 N is not a subset, it is the set we are pulling from.\u00a0 what we are using as our data is the subset of N</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-28T21:57:11Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-09-28T21:57:11Z", 
+          "type": "feedback", 
+          "id": "j8502o2v2ft5k2", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Ah, thanks!"
+        }
+      ], 
+      "subject": "<p>I am a bit confused.....I thought the universe N was ALL POSSIBLE values, which may be infinite for positive integers.\u00a0 When we are speaking of N here...in this instance, does N = the subset of integers we were given to use in the file?</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-28T23:48:00Z", 
+      "no_upvotes": 0, 
+      "uid": "ijbr5ddtwyt6pa", 
+      "created": "2017-09-28T23:48:00Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j854165246z2vz", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-29T02:22:26Z", 
+          "uid": "hvfeyx7qglF", 
+          "created": "2017-09-29T02:22:26Z", 
+          "type": "feedback", 
+          "id": "j859jrhxo3v102", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I think you&#39;d use the next largest prime &gt; n. \u00a0 There&#39;s a function in the util file for doing this.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-29T02:45:23Z", 
+          "uid": "ijbr5ddtwyt6pa", 
+          "created": "2017-09-29T02:45:23Z", 
+          "type": "feedback", 
+          "id": "j85adaf3i182o8", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>So P is the next largest prime &gt; N and n is the next largest prime &gt; n if n is not prime?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-29T07:23:48Z", 
+          "uid": "gns9oa0pgsO", 
+          "created": "2017-09-29T07:23:48Z", 
+          "type": "feedback", 
+          "id": "j85kbbne6zi65t", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>P &gt;= N, not strictly &gt; N.\u00a0 N may be prime.</p>"
+        }
+      ], 
+      "subject": "<p>As a follow up, what is n in this case? I am confused, because we have n = |H| which is the size of the hash. What happens if n is not prime? Is this a different n?</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-02T01:08:51Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "i4ps9nqsv397k6", 
+      "created": "2017-10-02T01:08:51Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j89h8ownaj9478", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-02T04:36:25Z", 
+          "uid": "i4m8xop4ndthr", 
+          "created": "2017-10-02T04:36:25Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j89onn264lm637", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I was able to find pdf of the entire book somewhere, but forgot the link.\u00a0</p>\n<p>Anyway, here is 2 pages.</p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/i4m8xop4ndthr/j89olc7pksud/323.png\" alt=\"323\" /></p>\n<p></p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/i4m8xop4ndthr/j89om9twbew9/324.png\" alt=\"324\" /></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-02T12:36:30Z", 
+          "uid": "gns9oa0pgsO", 
+          "created": "2017-10-02T12:36:30Z", 
+          "type": "feedback", 
+          "id": "j8a5t0lgb4n7k8", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>yeah, you should definitely check n, to be prime for task 3 in particular, since it will vary in size based on c - if you are using the provided data then the provided N is prime already (Mersenne prime in fact).\u00a0 only do this prime checking once per iteration,\u00a0in the constructor or the loop controlling your iterations.</p>"
+        }
+      ], 
+      "subject": "<p>That book has like 2 pages available via Amazon, but Google does have more pages:\u00a0<a href=\"https://books.google.com/books?id=0bAYl6d7hvkC&amp;printsec=frontcover&amp;dq=Probability&#43;and&#43;Computing:&#43;Randomized&#43;Algorithms&#43;and&#43;Probabilistic&#43;Analysis&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwjH3azm3NDWAhXBRyYKHcRgCb8Q6AEIKDAA#v=onepage&amp;q=Probability%20and%20Computing%3A%20Randomized%20Algorithms%20and%20Probabilistic%20Analysis&amp;f=false\">https://books.google.com/books?id=0bAYl6d7hvkC&amp;printsec=frontcover&amp;dq=Probability&#43;and&#43;Computing:&#43;Randomized&#43;Algorithms&#43;and&#43;Probabilistic&#43;Analysis&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwjH3azm3NDWAhXBRyYKHcRgCb8Q6AEIKDAA#v=onepage&amp;q=Probability%20and%20Computing%3A%20Randomized%20Algorithms%20and%20Probabilistic%20Analysis&amp;f=false</a>\u00a0however, neither seems to show me page 323.</p>\n<p></p>\n<p><span style=\"text-decoration:line-through\">I just want to make sure I&#39;m understanding this, n can be seen as self.n (which must be prime), and we should be able to use self.N as P.\u00a0 I assume this is what you are saying in &#64;456</span> --- No real need to answer this, I got &#34;compareResults : Your bloom filter performs as expected &#34;, so that&#39;s confirmation enough for me.</p>\n<p></p>\n<p>As an added question, should we be sanity checking n and P, making sure they are prime?\u00a0 You said for the given files the values are already prime, but will that definitely be the case for the undisclosed test cases?\u00a0 Which I think you actually answer in &#64;514 as, no we do not.</p>\n<p></p>"
+    }
+  ], 
+  "nr": 446, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "project"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 3, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "project", 
+    "student"
+  ], 
+  "created": "2017-09-26T14:22:26Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145215674, 
+  "tag_good": [
+    {
+      "name": "abarysevich", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4t8eakz3ex6lk"
+    }
+  ], 
+  "tag_good_arr": [
+    "i4t8eakz3ex6lk"
+  ], 
+  "history": [
+    {
+      "content": "<p>I didn&#39;t quite understand what is P in the 2nd hash function.\u00a0</p>\n<p></p>\n<p>Also this note is confusing:</p>\n<p>&#34;&#34;&#34;</p>\n<p>Note: for this hash function to have the desired properties, both P and &#x1d45b; must be prime, and must be P&gt;= N; the template code you have been provided has a function you can use to find a suitable prime, or you can lookup online to get a prime number of the desired order of magnitude.</p>\n<p></p>\n<p>&#34;&#34;&#34;</p>\n<p></p>\n<p>Isn&#39;t N the size of the universe? Then, why P&gt;=N?</p>", 
+      "anon": "no", 
+      "created": "2017-09-26T14:22:26Z", 
+      "uid": "i4m8xop4ndthr", 
+      "subject": "P &gt;= N ?"
+    }
+  ]
+}

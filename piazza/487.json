@@ -1,0 +1,645 @@
+{
+  "status": "active", 
+  "unique_views": 199, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-29T09:45:52Z", 
+      "data": "j85pe1csvfi1bi", 
+      "uid": "hz03lfq2z6r446"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-29T09:46:15Z", 
+      "data": "j85peiq7rhi1r5", 
+      "uid": "hz03lfq2z6r446"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-29T09:46:58Z", 
+      "data": "j85pffq8mhh1yk", 
+      "uid": "hz03lfq2z6r446"
+    }, 
+    {
+      "uid": "i4hdvab632i522", 
+      "type": "s_answer", 
+      "when": "2017-09-29T10:11:49Z", 
+      "to": "j85pe1cq8es1bh", 
+      "anon": "no", 
+      "data": "j85qbeswhxx293"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-09-29T10:13:16Z", 
+      "data": "j85qd9uk6ll2n9", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-09-29T10:17:35Z", 
+      "data": "j85qittl5hs5cr", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "uid": "gns9oa0pgsO", 
+      "type": "i_answer", 
+      "when": "2017-09-29T10:40:34Z", 
+      "to": "j85pe1cq8es1bh", 
+      "anon": "no", 
+      "data": "j85rcdswwbw3oi"
+    }, 
+    {
+      "to": "j85pe1cq8es1bh", 
+      "anon": "no", 
+      "when": "2017-09-29T12:41:11Z", 
+      "type": "followup", 
+      "uid": "hz03lfq2z6r446"
+    }, 
+    {
+      "to": "j85pe1cq8es1bh", 
+      "anon": "no", 
+      "when": "2017-09-29T13:18:14Z", 
+      "type": "feedback", 
+      "uid": "i8597yy2i2f1z6"
+    }, 
+    {
+      "to": "j85pe1cq8es1bh", 
+      "anon": "no", 
+      "when": "2017-09-29T13:19:37Z", 
+      "type": "feedback", 
+      "uid": "hz03lfq2z6r446"
+    }, 
+    {
+      "to": "j85pe1cq8es1bh", 
+      "anon": "no", 
+      "when": "2017-09-29T13:22:04Z", 
+      "type": "feedback", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j85pe1cq8es1bh", 
+      "anon": "no", 
+      "when": "2017-09-29T13:22:24Z", 
+      "type": "feedback", 
+      "uid": "i8597yy2i2f1z6"
+    }, 
+    {
+      "to": "j85pe1cq8es1bh", 
+      "anon": "no", 
+      "when": "2017-09-29T13:28:31Z", 
+      "type": "feedback", 
+      "uid": "hz03lfq2z6r446"
+    }, 
+    {
+      "to": "j85pe1cq8es1bh", 
+      "anon": "no", 
+      "when": "2017-09-29T15:30:53Z", 
+      "type": "followup", 
+      "uid": "hv1gl7gmpkj41y"
+    }, 
+    {
+      "to": "j85pe1cq8es1bh", 
+      "anon": "no", 
+      "when": "2017-09-29T17:21:21Z", 
+      "type": "feedback", 
+      "uid": "hz03lfq2z6r446"
+    }, 
+    {
+      "to": "j85pe1cq8es1bh", 
+      "anon": "no", 
+      "when": "2017-09-29T18:19:40Z", 
+      "type": "feedback", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j85pe1cq8es1bh", 
+      "anon": "no", 
+      "when": "2017-09-30T18:02:07Z", 
+      "type": "followup", 
+      "uid": "idfwgv9b5br"
+    }, 
+    {
+      "to": "j85pe1cq8es1bh", 
+      "anon": "no", 
+      "when": "2017-10-01T00:24:55Z", 
+      "type": "feedback", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j85pe1cq8es1bh", 
+      "anon": "no", 
+      "when": "2017-10-01T00:58:55Z", 
+      "type": "feedback", 
+      "uid": "idfwgv9b5br"
+    }, 
+    {
+      "to": "j85pe1cq8es1bh", 
+      "anon": "no", 
+      "when": "2017-10-01T11:09:11Z", 
+      "type": "feedback", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j85pe1cq8es1bh", 
+      "anon": "no", 
+      "when": "2017-10-02T04:14:42Z", 
+      "type": "feedback", 
+      "uid": "i4iufvhm2nj4s1"
+    }, 
+    {
+      "to": "j85pe1cq8es1bh", 
+      "anon": "no", 
+      "when": "2017-10-02T12:50:58Z", 
+      "type": "feedback", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j85pe1cq8es1bh", 
+      "anon": "no", 
+      "when": "2017-10-04T08:29:25Z", 
+      "type": "feedback", 
+      "uid": "i4k3wmovHgP"
+    }, 
+    {
+      "to": "j85pe1cq8es1bh", 
+      "anon": "no", 
+      "when": "2017-10-04T09:56:09Z", 
+      "type": "feedback", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "to": "j85pe1cq8es1bh", 
+      "anon": "no", 
+      "when": "2017-10-04T15:21:09Z", 
+      "type": "feedback", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j85pe1cq8es1bh", 
+      "anon": "no", 
+      "when": "2017-10-07T11:20:35Z", 
+      "type": "feedback", 
+      "uid": "hqj2wfy7NUZ"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j85pe1cq8es1bh", 
+  "bookmarked": 10, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-29T10:11:49Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j85qbessg2a292", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "Those True values seem to correspond to predicted hash collisions \u2013 predicted false positives \u2013 for task 2 with the seed as provided in the config file/s, for $$k=13$$ as specified in the config file/s", 
+          "anon": "no", 
+          "created": "2017-09-29T10:17:35Z", 
+          "uid": "i4hdvab632i522", 
+          "subject": ""
+        }, 
+        {
+          "content": "Those True values presumably correspond to predicted hash collisions \u2013 predicted false positives \u2013 for task 2 with the seed as provided in the config file/s, for $$k=13$$ as specified in the config file/s", 
+          "anon": "no", 
+          "created": "2017-09-29T10:13:16Z", 
+          "uid": "i4hdvab632i522", 
+          "subject": ""
+        }, 
+        {
+          "content": "Those True values presumably correspond to predicted hash collisions for task 2 with the seed as provided in the config file/s, for $$k=13$$ as specified in the config file/s", 
+          "anon": "no", 
+          "created": "2017-09-29T10:11:49Z", 
+          "uid": "i4hdvab632i522", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-29T10:40:34Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j85rcdsv3z73oh", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>Those are the false positives - there are going to have some.\u00a0 If you construct your bloom filter correctly the false positives you get will match the false positives in the validation file.\u00a0 That&#39;s why, for task 2, you must use the config file and all the config data contained therein to run your bloom filter.</p>", 
+          "anon": "no", 
+          "created": "2017-09-29T10:40:34Z", 
+          "uid": "gns9oa0pgsO", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-29T12:41:11Z", 
+      "no_upvotes": 0, 
+      "uid": "hz03lfq2z6r446", 
+      "created": "2017-09-29T12:41:11Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j85vnhg9trxua", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-29T13:18:14Z", 
+          "uid": "i8597yy2i2f1z6", 
+          "created": "2017-09-29T13:18:14Z", 
+          "type": "feedback", 
+          "id": "j85wz4ml9i2405", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>False positive rate = FP / (TN &#43; FP)</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-29T13:19:37Z", 
+          "uid": "hz03lfq2z6r446", 
+          "created": "2017-09-29T13:19:37Z", 
+          "type": "feedback", 
+          "id": "j85x0xb2llt48o", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>which field to use for FP :-) numFFalseRes or\u00a0numFTrueRes?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-29T13:22:04Z", 
+          "uid": "gns9oa0pgsO", 
+          "created": "2017-09-29T13:22:04Z", 
+          "type": "feedback", 
+          "id": "j85x428hf4w5yc", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>in other words - # of false positives / total number of withheld</p>\n<p></p>\n<p>you don&#39;t use either of those fields balaji - they are only there to show how many false positives or true negatives the bloom filter got wrong.\u00a0 if you are getting any values in those fields it means your bloom filter is incorrect.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-29T13:22:24Z", 
+          "uid": "i8597yy2i2f1z6", 
+          "created": "2017-09-29T13:22:24Z", 
+          "type": "feedback", 
+          "id": "j85x4hl0k9v40x", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I don&#39;t see either of those variables in the template code? Maybe you are defining them yourself? Oh, I see them in the utils file now...I didn&#39;t use either of them.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-29T13:28:31Z", 
+          "uid": "hz03lfq2z6r446", 
+          "created": "2017-09-29T13:28:31Z", 
+          "type": "feedback", 
+          "id": "j85xccnvtkp1dz", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>its in the util function.\u00a0</p>\n<p>Thanks John.</p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-02T04:14:42Z", 
+          "uid": "i4iufvhm2nj4s1", 
+          "created": "2017-10-02T04:14:42Z", 
+          "type": "feedback", 
+          "id": "j89nvp1gv3x2z6", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>John, are you sure we aren&#39;t supposed to use numFTrueRes?\u00a0 Because those are the number of False Positives?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-02T12:50:58Z", 
+          "uid": "gns9oa0pgsO", 
+          "created": "2017-10-02T12:50:58Z", 
+          "type": "feedback", 
+          "id": "j8a6bmshvjo7cj", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>no, that&#39;s the number of incorrect false positives -\u00a0 withheld elements that the execution of the bloom filter says are present (i.e. false positives) that the validation file does not say is true.</p>"
+        }
+      ], 
+      "subject": "<p>In that case to calculate false positive rate, we should be using\u00a0numFFalseRes/m*2 or\u00a0\u00a0\u00a0numFTrueRes/m*2 ?</p>\n<p></p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-29T15:30:53Z", 
+      "no_upvotes": 0, 
+      "uid": "hv1gl7gmpkj41y", 
+      "created": "2017-09-29T15:30:53Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j861pqfm88h66p", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-29T17:21:21Z", 
+          "uid": "hz03lfq2z6r446", 
+          "created": "2017-09-29T17:21:21Z", 
+          "type": "feedback", 
+          "id": "j865ns0gpg974w", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Can you please explain what do you mean by order of operations?</p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-29T18:19:40Z", 
+          "uid": "gns9oa0pgsO", 
+          "created": "2017-09-29T18:19:40Z", 
+          "type": "feedback", 
+          "id": "j867qrwm7ez29v", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>you perform a_i * x\u00a0 &#43; b_i first, then % P the result, and then % n the result of that.\u00a0 so, in other words, follow the parenthesis in the assignment documentation, and in the code comments.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-04T08:29:25Z", 
+          "uid": "i4k3wmovHgP", 
+          "created": "2017-10-04T08:29:25Z", 
+          "type": "feedback", 
+          "id": "j8cruz86kt54xg", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I am bit confused , since all the numbers in input dataset already prime , we are not supposed to use P - for Task 2 (per Piazza posts)</p>\n<p></p>\n<p>Then , are we supposed to use following formula - without P ?\u00a0 \u00a0Please clarify.</p>\n<p></p>\n<pre>(self.a[i] * x &#43; self.b[i]) mod n </pre>\n<p>in place of\u00a0</p>\n<pre>(self.a[i] * x &#43; self.b[i] mod P) mod n </pre>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-04T09:56:09Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-10-04T09:56:09Z", 
+          "type": "feedback", 
+          "id": "j8cuyii9nne619", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "it&#39;s $$((a_i  x &#43; b_i)\\!\\!\\! \\mod P)\\!\\!\\! \\mod n$$"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-04T15:21:09Z", 
+          "uid": "gns9oa0pgsO", 
+          "created": "2017-10-04T15:21:09Z", 
+          "type": "feedback", 
+          "id": "j8d6kh49kkl6ji", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>where did you get the idea that all the numbers in the input dataset are already prime?\u00a0 i can say with almost complete certainly that they are not prime, they don&#39;t have to be.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-07T11:20:35Z", 
+          "uid": "hqj2wfy7NUZ", 
+          "created": "2017-10-07T11:20:35Z", 
+          "type": "feedback", 
+          "id": "j8h8an8xml1gm", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>the parenthesis in the assignment documentation is correct but the code comments are not correct.</p>"
+        }
+      ], 
+      "subject": "<p>This may or may not apply to you, but make sure you have your order of operations correct in your Type 2 function. I was having the same issue.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-30T18:02:07Z", 
+      "no_upvotes": 0, 
+      "uid": "idfwgv9b5br", 
+      "created": "2017-09-30T18:02:07Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j87mk2bz4247ny", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-01T00:24:55Z", 
+          "uid": "gns9oa0pgsO", 
+          "created": "2017-10-01T00:24:55Z", 
+          "type": "feedback", 
+          "id": "j8808clyf4412q", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>if you are talking about the feedback from running task 2, it is not giving you false positives, it is giving you falsely reported false positives, meaning your bloom filter is saying something that is withheld (a negative) is being reported as contained in bloom filter (a false positive)\u00a0 and it is doing so incorrectly (a falsely reported false positive).</p>\n<p></p>\n<p>changing k changes the entire structure of the bloom filter, and so the validation files will not be valid anymore.\u00a0 for task 2 you should not change anything in the config file.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-01T00:58:55Z", 
+          "uid": "idfwgv9b5br", 
+          "created": "2017-10-01T00:58:55Z", 
+          "type": "feedback", 
+          "id": "j881g2zsulk5vq", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Actually my output doesn&#39;t show any &#34;true&#34; past the 100k mark while the validation file does. My errors are because the validation file has false positives and my output does not as far as I can tell."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-01T11:09:11Z", 
+          "uid": "gns9oa0pgsO", 
+          "created": "2017-10-01T11:09:11Z", 
+          "type": "feedback", 
+          "id": "j88n8vv4v4w2zq", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>send\u00a0 me your hash type 2 code in a private message please and i&#39;ll take a look at it.</p>"
+        }
+      ], 
+      "subject": "<p>Using all of the defaults, I am getting no false positives but I do see false positives if I scale back K.\u00a0 We are expected to see exactly the validation file correct?\u00a0 I&#39;m not sure how I could be doing &#34;better&#34;. :|\u00a0</p>"
+    }
+  ], 
+  "nr": 487, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "project"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 2, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "project", 
+    "student"
+  ], 
+  "created": "2017-09-29T09:45:52Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145204328, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>There are extra&#39;s &#34;True&#39;s&#34; after m &gt; 100K (11 for hash 1 and 10 for hash 2).</p>\n<p>Because of this we always get\u00a0numFFalseRes variable (in util function) &gt; 0 except\u00a0when k = 13.</p>\n<p>Why the project template\u00a0added True values there since we know we never added anything\u00a0m &gt; 100K?</p>\n<p>Bloom filter will never give a &#34;False Negative&#34; but because of these True values we do get False Negatives when k &lt;&gt; 13.\u00a0</p>\n<p>Was these\u00a0entered to make test&#39;s work only for k=13?</p>\n<p></p>\n<p></p>", 
+      "anon": "no", 
+      "created": "2017-09-29T09:46:58Z", 
+      "uid": "hz03lfq2z6r446", 
+      "subject": "Task 2 Validation Set"
+    }, 
+    {
+      "content": "<p>There are extra&#39;s &#34;True&#39;s&#34; after m &gt; 100K (11 for hash 1 and 10 for hash 2).</p>\n<p>Because of this we always get\u00a0numFFalseRes variable (in util function) &gt; 0 except\u00a0when k = 13.</p>\n<p>Why the project template\u00a0added True values there since we know we never added anything\u00a0m &gt; 100K?</p>\n<p>Bloom filter will never give a &#34;False Negative&#34; but because of these True values we do get False Negatives when K &lt;&gt; 13.\u00a0</p>\n<p></p>\n<p></p>", 
+      "anon": "no", 
+      "created": "2017-09-29T09:46:15Z", 
+      "uid": "hz03lfq2z6r446", 
+      "subject": "Task 2 Validation Set"
+    }, 
+    {
+      "content": "<p>There are extra&#39;s &#34;True&#39;s&#34; after m &gt; 100K (11 for hash 1 and 10 for hash 2).</p>\n<p>Because of this we always get\u00a0numFFalseRes variable (in util function) &gt; 1 except\u00a0when k = 13.</p>\n<p>Why the project template\u00a0added True values there since we know we never added anything\u00a0m &gt; 100K?</p>\n<p>Bloom filter will never give a &#34;False Negative&#34; but because of these True values we do get False Negatives when K &lt;&gt; 13.\u00a0</p>\n<p></p>\n<p></p>", 
+      "anon": "no", 
+      "created": "2017-09-29T09:45:52Z", 
+      "uid": "hz03lfq2z6r446", 
+      "subject": "Task 2 Validation Set"
+    }
+  ]
+}

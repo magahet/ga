@@ -1,0 +1,91 @@
+{
+  "status": "active", 
+  "unique_views": 122, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-01T02:02:12Z", 
+      "data": "j883pgkftoz2fg", 
+      "uid": "ij7curo6tdo360"
+    }, 
+    {
+      "uid": "i4hdvab632i522", 
+      "type": "s_answer", 
+      "when": "2017-10-01T09:22:32Z", 
+      "to": "j883pgk8jtm2ff", 
+      "anon": "no", 
+      "data": "j88jfqmtjig592"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j883pgk8jtm2ff", 
+  "bookmarked": 4, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-01T09:22:32Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j88jfqmrpy5591", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "The definition video is correct. It sounds as though you may have misunderstood what a path is; a path may be of length &gt; 1 <a href=\"https://en.wikipedia.org/wiki/Path_%28graph_theory%29\">Path</a>", 
+          "anon": "no", 
+          "created": "2017-10-01T09:22:32Z", 
+          "uid": "i4hdvab632i522", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 506, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "udacity"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "student", 
+    "udacity"
+  ], 
+  "created": "2017-10-01T02:02:12Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145199519, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>Hello,</p>\n<p></p>\n<p>On this quiz we were asked to count the number of Strong Connected Components (SCC). The answer is 5, but I was way off. I counted about 12.</p>\n<p></p>\n<p>Quiz video:\u00a0<a href=\"https://youtu.be/XOWBVgLKCb4\">https://youtu.be/XOWBVgLKCb4</a></p>\n<p></p>\n<p>Can someone explain to me what defines a Strong Connected Component? To me, the definition in the solution video contradicts the definition of Strongly Connected Vertices in this <a href=\"https://youtu.be/94jJfoVtWUE\" target=\"_blank\">video</a></p>\n<p></p>\n<p>Thanks,</p>", 
+      "anon": "no", 
+      "created": "2017-10-01T02:02:12Z", 
+      "uid": "ij7curo6tdo360", 
+      "subject": "Strongly Connected Components vs. Strong Connected Verticies"
+    }
+  ]
+}

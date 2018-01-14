@@ -1,0 +1,217 @@
+{
+  "status": "active", 
+  "unique_views": 176, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-02T20:54:12Z", 
+      "data": "j73sdisxe461vv", 
+      "uid": "i4ptxbxq30m358"
+    }, 
+    {
+      "uid": "gy4twfv45cg5o6", 
+      "type": "i_answer", 
+      "when": "2017-09-02T21:02:53Z", 
+      "to": "j73sdisv1yy1vu", 
+      "anon": "no", 
+      "data": "j73soo83dw123s"
+    }, 
+    {
+      "to": "j73sdisv1yy1vu", 
+      "anon": "no", 
+      "when": "2017-09-04T16:55:43Z", 
+      "type": "followup", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j73sdisv1yy1vu", 
+      "anon": "no", 
+      "when": "2017-09-04T18:07:26Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j73sdisv1yy1vu", 
+      "anon": "no", 
+      "when": "2017-09-04T18:27:20Z", 
+      "type": "feedback", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j73sdisv1yy1vu", 
+      "anon": "no", 
+      "when": "2017-09-05T14:11:31Z", 
+      "type": "feedback", 
+      "uid": "hqa65fnalg83fr"
+    }, 
+    {
+      "to": "j73sdisv1yy1vu", 
+      "anon": "no", 
+      "when": "2017-09-05T14:15:11Z", 
+      "type": "feedback", 
+      "uid": "hqa65fnalg83fr"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j73sdisv1yy1vu", 
+  "bookmarked": 5, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-02T21:02:53Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j73soo8068i23r", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>You&#39;re algorithm is O(n^2). \u00a0It is also O(n^{5/3}). \u00a0O() is an asymptotic upper bound.</p>", 
+          "anon": "no", 
+          "created": "2017-09-02T21:02:53Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-04T16:55:43Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "i4ket0u1z5q31a", 
+      "created": "2017-09-04T16:55:43Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j76eqirmlgb508", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-04T18:07:26Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-09-04T18:07:26Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j76haqxlc530l", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I guess it&#39;ll depend. If you have\u00a0$$O(kn^2)$$, with $$1 \\leq k \\leq n - 1$$, then at least you know that the worst case will be $$T(n^3)$$. But if $$k$$ isn&#39;t necessarily equivalent to $$n$$, the correct run time should be\u00a0$$O(kn^2)$$.</p>\n<p></p>\n<p>For example, in our homework, the exercise for the Maximum Product gives us $$1 \\leq k \\leq n - 1$$, but nothing specifies that $$k$$ will get closer to $$n$$, so the correct answer is\u00a0$$O(kn^2)$$ and not\u00a0$$O(n^3)$$.</p>\n<p></p>\n<p>Does that make sense?</p>\n<p></p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-04T18:27:20Z", 
+          "uid": "i4ket0u1z5q31a", 
+          "created": "2017-09-04T18:27:20Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j76i0ctix5js3", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Yes, thank-you, I should have asked that\u00a0before it was\u00a0too late to change my answer on the homework. ;)</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-05T14:11:31Z", 
+          "uid": "hqa65fnalg83fr", 
+          "created": "2017-09-05T14:11:31Z", 
+          "type": "feedback", 
+          "id": "j77ob7jueov4ln", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Big-O is sloppy. Its an upper bound. So you could say that :<br /><br />For i = 1 to N:</p>\n<p>\u00a0 \u00a0 ... \u00a0// something O(1)<br /><br />is \u00a0O(N), O(N^2), O(2^N) \u00a0 [ though that&#39;s not usually what people mean by it]<br /><br />The definition of Big-O certainly permits this.<br /><br />But usually when people say Big-O they really mean Big-Theta.. or a close upper bound at least:<br /><br />https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-big-theta-notation<br /><br /><br /></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-05T14:15:11Z", 
+          "uid": "hqa65fnalg83fr", 
+          "created": "2017-09-05T14:15:11Z", 
+          "type": "feedback", 
+          "id": "j77ofxuvjrq713", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Wikipedias formal definition is:<br /><br /><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/hqa65fnalg83fr/j77ofmluqwf5/Screen_Shot_20170905_at_10.14.17.png\" alt=\"\" /></p>\n<p>So as long as you can find that M and X0.. you are good. g(X) can be arbitrary huge.</p>"
+        }
+      ], 
+      "subject": "<p>If something has O(kn$$^{2}$$) where k can be at most n-1 should we just simplify that as O(n$$^{3}$$)?</p>"
+    }
+  ], 
+  "nr": 154, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw1"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw1", 
+    "student"
+  ], 
+  "created": "2017-09-02T20:54:12Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145288447, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>I have an algorithm which iterates over approximately n*n^(2/3) elements; however, the literature indicates that the runtime is O(n^2).<br /><br />I understand that O represents an upper bound, Theta represents the expected complexity, and Omega represents a lower bound...<br /><br />...is it the case that &#39;O&#39; is only concerned with the termination variable (n) of loops without being concerned with the exact pattern the execution path takes? The algorithm cannot run more than n^n(2/3)&#43;1 iterations, but the O notation still generalizes this to O(n^2). Why is this?<br /><br />Is there a rule stating that fractional exponents should be rounded?</p>", 
+      "anon": "no", 
+      "created": "2017-09-02T20:54:12Z", 
+      "uid": "i4ptxbxq30m358", 
+      "subject": "Runtime Analysis Question"
+    }
+  ]
+}

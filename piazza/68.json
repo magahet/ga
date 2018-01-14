@@ -1,0 +1,246 @@
+{
+  "status": "active", 
+  "unique_views": 188, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-08-24T12:45:13Z", 
+      "data": "j6qfy0algad80", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-08-24T12:47:00Z", 
+      "data": "j6qg0b95icc68s", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-08-24T12:48:40Z", 
+      "data": "j6qg2g8s9kz6vl", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j6qfy0ai5xy7z", 
+      "anon": "no", 
+      "when": "2017-08-24T13:47:08Z", 
+      "type": "followup", 
+      "uid": "i4iys7m3lpq2ij"
+    }, 
+    {
+      "to": "j6qfy0ai5xy7z", 
+      "anon": "no", 
+      "when": "2017-08-24T14:30:35Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j6qfy0ai5xy7z", 
+      "anon": "no", 
+      "when": "2017-08-24T16:54:33Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j6qfy0ai5xy7z", 
+      "anon": "no", 
+      "when": "2017-08-24T16:58:02Z", 
+      "type": "followup", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "uid": "hvil6y6khgk2ri", 
+      "type": "s_answer", 
+      "when": "2017-08-24T20:38:56Z", 
+      "to": "j6qfy0ai5xy7z", 
+      "anon": "no", 
+      "data": "j6qwv7oysyo2sm"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-08-24T20:48:12Z", 
+      "data": "j6qx74p13yg1iw", 
+      "uid": "hvil6y6khgk2ri"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j6qfy0ai5xy7z", 
+  "bookmarked": 3, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-08-24T13:47:08Z", 
+      "no_upvotes": 0, 
+      "uid": "i4iys7m3lpq2ij", 
+      "created": "2017-08-24T13:47:08Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6qi5mwibz65fl", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-08-24T14:30:35Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-08-24T14:30:35Z", 
+          "type": "feedback", 
+          "id": "j6qjpimpci1on", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Ahhh, I think I see with your explanation now; I was getting hung up on some of the finer points, but after reading your response coupled with the diagram given in the lecture, I think I can see it now.<br /><br />Thanks for the help.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-24T16:54:33Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-08-24T16:54:33Z", 
+          "type": "feedback", 
+          "id": "j6qounww82x1ak", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>That&#39;s a good, succinct explanation. Thanks, Kate.</p>"
+        }
+      ], 
+      "subject": "<p>If $$x_i = y_j$$, then you can add $$x_i$$ /\u00a0$$y_j$$ (same character) to the previously-longest subsequence that did not include\u00a0\u00a0$$x_i$$ nor $$y_j$$ - a.k.a., $$L(i-1,j-1)$$ and then $$&#43;1$$ for this additional character.</p>\n<p></p>\n<p>If\u00a0$$x_i \\ne y_j$$, then you need to either drop\u00a0$$y_j$$, in which case, your solution is the same as when you didn&#39;t have $$y_j$$: $$L(i,j-1)$$, or drop $$x_i$$, in which case, your solution is the same as when you didn&#39;t have\u00a0$$x_i$$:\u00a0$$L(i-1,j)$$. To decide which, just take the max of the two.</p>\n<p></p>\n<p>So to answer your question, the &#34;catercorner&#34; $$L(i-1,j-1)$$ is used because it&#39;s the previously-longest subsequence not including\u00a0$$x_i$$ and $$y_j$$.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-24T16:58:02Z", 
+      "no_upvotes": 0, 
+      "uid": "hq8hn0qyfuvyr", 
+      "created": "2017-08-24T16:58:02Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6qoz52gpm830r", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>Regarding Brent&#39;s comment about the &#34;wrong problem&#34;, I think the idea is that simplifying to problem to just find the length lets you concentrate on the hard part of the problem while ignoring the little details, and then later you can solve the rest of the problem. Now that I think about it, it&#39;s a divide-and-conquer approach.</p>"
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-08-24T20:38:56Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j6qwv7owgti2sl", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>After further thinking I believe I now have this, thanks to Kate below.</p>\n<p></p>\n<p>For reference, here is the diagram in the lesson:</p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/hvil6y6khgk2ri/j6qwsr0rplis/dia1.png\" alt=\"\" /></p>\n<p></p>\n<p></p>\n<p>The basic idea is that once we find a match, we propagate that match through a 2D array going down and to the right. Since its propagated, it is cumulative with future matches later on; Its propagation pattern \u2013 specifically, once a match is found \u2013 will not propagate multiple matches on the same letter (more on how that works later).</p>\n<p></p>\n<p>We start comparing at (1,1) and we work across first (j), then down (i).\u00a0 If we get a match, we add 1 to (i-1,j-1); This has to be done because if we do not select the NW diagonal block, we could be propagating matches with the same character. To expand on this, IF we were to add one to the block directly above, we could actually be \u2018double dipping\u2019; for example, if one string was B and another was BB and our strategy was adding one to the block directly north, that would look like:</p>\n<p></p>\n<p></p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/hvil6y6khgk2ri/j6qwumk219kb/dia2.png\" alt=\"\" /></p>\n<p></p>\n<p>The block at (1,1) is 1 because this is a match. The block at (1,2) is 2, but this is impossible as there is only one character in \u2018i\u2019; we need to use a value that is guaranteed to not use the character at i=2 OR j=1, and the only one that is guaranteed of that is the diagonal at (0,0); this is the last point where we are guaranteed neither \u2018i\u2019 nor \u2018j\u2019 are used in a match, and - because of the propagation - we are guaranteed that it is the optimal choice at that point..</p>\n<p></p>\n<p></p>", 
+          "anon": "no", 
+          "created": "2017-08-24T20:48:12Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>After further thinking I believe I now have this, thanks to Kate below.</p>\n<p></p>\n<p>For reference, here is the diagram in the lesson:</p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/hvil6y6khgk2ri/j6qwsr0rplis/dia1.png\" alt=\"\" /></p>\n<p></p>\n<p></p>\n<p>The basic idea is that once we find a match, we propagate that match through a 2D array going down and to the right. Since its propagated, it is cumulative with future matches later on; Its propagation pattern \u2013 specifically, once a match is found \u2013 will not propagate multiple matches on the same letter (more on how that works later).</p>\n<p></p>\n<p>We start comparing at (1,1) and we work across first (j), then down (i).\u00a0 If we get a match, we add 1 to (i-1,j-1); This has to be done because if we do not select the NW diagonal block, we could be propagating matches with the same character. To expand on this, IF we were to add one to the block directly above, we could actually be \u2018double dipping\u2019; for example, if one string was B and another was BB and our strategy was adding one to the block directly north, that would look like:</p>\n<p></p>\n<p></p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/hvil6y6khgk2ri/j6qwumk219kb/dia2.png\" alt=\"\" /></p>\n<p></p>\n<p>The block at (1,1) is 1 because this is a match. The block at (1,2) is 2, but this is impossible as there is only one character in \u2018i\u2019; we need to use a value that is guaranteed to not use the character at i=2 OR j=1, and the only one that is guaranteed of that is the diagonal at (0,0); this is the last point where we are guaranteed neither \u2018i\u2019 nor \u2018j\u2019 are used in a match.</p>\n<p></p>\n<p></p>", 
+          "anon": "no", 
+          "created": "2017-08-24T20:38:56Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 68, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "dynamic_programming"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 4, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "dynamic_programming", 
+    "student"
+  ], 
+  "created": "2017-08-24T12:45:13Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145315420, 
+  "tag_good": [
+    {
+      "name": "William Miller", 
+      "admin": false, 
+      "photo": "1408322716_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hv1gl7gmpkj41y"
+    }
+  ], 
+  "tag_good_arr": [
+    "hv1gl7gmpkj41y"
+  ], 
+  "history": [
+    {
+      "content": "<p>Hi All,</p>\n<p></p>\n<p>So I understand the pseudocode itself as well as how the table is constructed for the longest common subsequence, but I do not understand the mechanics behind WHY it works.\u00a0 Is anyone able to explain why we are using the element catercorner (e.g. (i-1, j-i)) for the &#39;base&#39;, or why we would use the max of the previous row / same column or previous column / same row? Its not quite clear to me.\u00a0</p>\n<p></p>\n<p>It may be the simple case of LCS doesn&#39;t show WHAT the subsequence is, it just shows the length; maybe my brain is rejecting this because I am subconsciously trying to answer the wrong problem.</p>\n<p></p>\n<p>Thanks,</p>\n<p>Brent</p>", 
+      "anon": "no", 
+      "created": "2017-08-24T12:48:40Z", 
+      "uid": "hvil6y6khgk2ri", 
+      "subject": "Understanding the Mechanics Behind LCS"
+    }, 
+    {
+      "content": "<p>Hi All,</p>\n<p></p>\n<p>So I understand the pseudocode itself as well as how the table is constructed for the longest common subsequence, but I do not understand the mechanics behind WHY it works.\u00a0 Is anyone able to explain why we are using the element catercorner (e.g. (i-1, j-i)) for the &#39;base&#39;, or why we would use the max of the previous row / same column or previous column / same row? Its not quite clear to me.\u00a0</p>\n<p></p>\n<p>It may be the simple case of this doesnt show WHAT the subsequence is, it just shows the length; maybe my brain is rejecting this because I am subconsciously trying to answer the wrong problem.</p>\n<p></p>\n<p>Thanks,</p>\n<p>Brent</p>", 
+      "anon": "no", 
+      "created": "2017-08-24T12:47:00Z", 
+      "uid": "hvil6y6khgk2ri", 
+      "subject": "Understanding the Mechanics Behind LCS"
+    }, 
+    {
+      "content": "<p>Hi All,</p>\n<p></p>\n<p>So I understand the pseudocode itself as well as how the table is constructed for the longest common subsequence, but I do not understand the mechanics behind WHY it works.\u00a0 Is anyone able to explain why we are using the element catercorner (e.g. (i-1, j-i)) for the &#39;base&#39;, or why we would use the max of the previous row / same column or previous column / same row? Its not quite clear to me.\u00a0</p>\n<p></p>\n<p>Thanks,</p>\n<p>Brent</p>", 
+      "anon": "no", 
+      "created": "2017-08-24T12:45:13Z", 
+      "uid": "hvil6y6khgk2ri", 
+      "subject": "Understanding the Mechanics Behind LCS"
+    }
+  ]
+}

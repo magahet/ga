@@ -1,0 +1,277 @@
+{
+  "status": "active", 
+  "unique_views": 163, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-03T21:00:47Z", 
+      "data": "j7581trvj642w6", 
+      "uid": "i18w67avy8e1uk"
+    }, 
+    {
+      "to": "j7581trrcdl2w5", 
+      "anon": "no", 
+      "when": "2017-09-03T21:18:47Z", 
+      "type": "followup", 
+      "uid": "ija2ufzr6l0f7"
+    }, 
+    {
+      "to": "j7581trrcdl2w5", 
+      "anon": "no", 
+      "when": "2017-09-03T21:20:25Z", 
+      "type": "feedback", 
+      "uid": "i18w67avy8e1uk"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-03T21:35:54Z", 
+      "data": "j759azipet51lr", 
+      "uid": "i18w67avy8e1uk"
+    }, 
+    {
+      "uid": "idg5nm2lC96", 
+      "type": "s_answer", 
+      "when": "2017-09-03T21:40:06Z", 
+      "to": "j7581trrcdl2w5", 
+      "anon": "no", 
+      "data": "j759ge6tgc53id"
+    }, 
+    {
+      "to": "j7581trrcdl2w5", 
+      "anon": "no", 
+      "when": "2017-09-03T21:43:51Z", 
+      "type": "followup", 
+      "uid": "ixwuhwpik046y6"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-03T21:44:17Z", 
+      "data": "j759ls4wvry67v", 
+      "uid": "i18w67avy8e1uk"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-03T21:45:55Z", 
+      "data": "j759nvdv9eh71r", 
+      "uid": "i18w67avy8e1uk"
+    }, 
+    {
+      "to": "j7581trrcdl2w5", 
+      "anon": "no", 
+      "when": "2017-09-03T21:47:59Z", 
+      "type": "feedback", 
+      "uid": "i18w67avy8e1uk"
+    }, 
+    {
+      "to": "j7581trrcdl2w5", 
+      "anon": "no", 
+      "when": "2017-09-04T13:06:09Z", 
+      "type": "feedback", 
+      "uid": "ijjd1u5dbTq"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j7581trrcdl2w5", 
+  "bookmarked": 6, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-09-03T21:18:47Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "ija2ufzr6l0f7", 
+      "created": "2017-09-03T21:18:47Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j758ozdklhw7iv", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-03T21:20:25Z", 
+          "uid": "i18w67avy8e1uk", 
+          "created": "2017-09-03T21:20:25Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j758r38pbqujr", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>It is the longest common substring problem.</p>"
+        }
+      ], 
+      "subject": "<p>Is it a subString/subSequence problem?</p>"
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-03T21:40:06Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [
+        "hkkbz4bujtv5dn"
+      ], 
+      "id": "j759ge6dhgk3ic", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Jeremy Stephens", 
+          "admin": true, 
+          "photo": null, 
+          "us": false, 
+          "role": "ta", 
+          "facebook_id": null, 
+          "id": "hkkbz4bujtv5dn"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>The second recurrence formulation above handles longest common subsequence. When handling substring, you need to &#34;reset&#34; when $$x_i \\neq x_j$$.</p>\n<p></p>\n<p>As a side note, I think the second formulation above should have been</p>\n<p></p>\n<p>$$L(i, j) = \n\\begin{cases}\n 1 &#43; L(i - 1, j - 1), \\text{ if } x_i = y_j \\\\\n \\max\\big\\{L(i - 1, j), L(i, j - 1)\\big\\}, \\text{ if } x_i \\neq y_j\n\\end{cases}$$</p>\n<p></p>", 
+          "anon": "no", 
+          "created": "2017-09-03T21:40:06Z", 
+          "uid": "idg5nm2lC96", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-03T21:43:51Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "ixwuhwpik046y6", 
+      "created": "2017-09-03T21:43:51Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j759l7vkc6u6cl", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-03T21:47:59Z", 
+          "uid": "i18w67avy8e1uk", 
+          "created": "2017-09-03T21:47:59Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j759qj93wiicb", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Indeed. Thanks!</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-04T13:06:09Z", 
+          "uid": "ijjd1u5dbTq", 
+          "created": "2017-09-04T13:06:09Z", 
+          "type": "feedback", 
+          "id": "j766jb76oei27y", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#64;Scott, would it be fair then to say that for subsequence problems, the result is carried along and for substring problems, the result is reset to 0?</p>"
+        }
+      ], 
+      "subject": "<p>Since a substring has to be contiguous, your updated recurrence would create wrong answers. For example take the following two strings</p>\n<p></p>\n<p>1:) abcd<br />2:) abdd</p>\n<p></p>\n<p>The length of the longest substring is 2 for &#39;ab&#39;.</p>\n<p></p>\n<p>But for your recurrence, since you carry along the 2 instead of resetting to 0 when &#39;c&#39; vs &#39;d&#39; is reached. \u00a0So, when you reach the final position your recurrence would increment the length of the substring to 3 which would be incorrect.</p>"
+    }
+  ], 
+  "nr": 165, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "dynamic_programming", 
+    "dp-solutions"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 2, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "dp-solutions", 
+    "dynamic_programming", 
+    "student"
+  ], 
+  "created": "2017-09-03T21:00:47Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145285492, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>My first attempt for practice problem 6.8 was the same as the solution:</p>\n<p><br />$$$$\\begin{equation}<br />L(i, j)=\\begin{cases}<br />L(i,j)=1&#43;L(i-1,j-1), &amp; \\text{if $x_{i}=y_{j}$}.\\\\<br />L(i,j)=0, &amp; x_{i}\\neq y_{j}.<br />\\end{cases}<br />\\end{equation}$$$$</p>\n<p></p>\n<p>Then, I changed my mind by following the logic that if the last letters\u00a0of both strings are not the same, then I will just get the optimal solution of the previous last letters\u00a0of\u00a0both strings. So, I changed my recurrence for $$x_{i}\\neq y_{j}$$ to the following:</p>\n<p></p>\n<p>$$$$\\begin{equation}<br />L(i, j)=\\begin{cases}<br />L(i,j)=1&#43;L(i-1,j-1), &amp; \\text{if $x_{i}=y_{j}$}.\\\\<br />L(i,j)=L(i-1,j-1), &amp; x_{i}\\neq y_{j}.<br />\\end{cases}<br />\\end{equation}$$$$</p>\n<p></p>\n<p>I think\u00a0this still yield the same solution.\u00a0Is my thinking correct?</p>\n<p></p>\n<p>Thank you.</p>\n<p></p>", 
+      "anon": "no", 
+      "created": "2017-09-03T21:45:55Z", 
+      "uid": "i18w67avy8e1uk", 
+      "subject": "[DPV 6.8] Longest Common Substring Recurrence (Spoiler)"
+    }, 
+    {
+      "content": "<p>My first attempt for practice problem 6.8 was the same as the solution:</p>\n<p><br />$$$$\\begin{equation}<br />L(i, j)=\\begin{cases}<br />L(i,j)=1&#43;L(i-1,j-1), &amp; \\text{if $x_{i}=y_{j}$}.\\\\<br />L(i,j)=0, &amp; x_{i}\\neq y_{j}.<br />\\end{cases}<br />\\end{equation}$$$$</p>\n<p></p>\n<p>Then, I changed my mind by following the logic that if the last letters\u00a0of both strings are not the same, then I will just get the optimal solution of the previous last letters\u00a0of\u00a0both strings. So, I changed my recurrence for $$x_{i}\\neq y_{j}$$ to the following:</p>\n<p></p>\n<p>$$\\begin{equation} L(i, j)=\\begin{cases}&lt;br/&gt; L(i,j)=1&#43;L(i-1,j-1), &amp; \\text{if $x_{i}=y_{j}$}.\\\\&lt;br/&gt; L(i,j)=L(i-1,j-1), &amp; x_{i}\\neq y_{j}. \\end{cases}&lt;br/&gt;\\end{equation}$$</p>\n<p></p>\n<p>I think\u00a0this still yield the same solution.\u00a0Is my thinking correct?</p>\n<p></p>\n<p>Thank you.</p>\n<p></p>", 
+      "anon": "no", 
+      "created": "2017-09-03T21:44:17Z", 
+      "uid": "i18w67avy8e1uk", 
+      "subject": "[DPV 6.8] Longest Common Substring Recurrence (Spoiler)"
+    }, 
+    {
+      "content": "<p>My first attempt for practice problem 6.8 was the same as the solution:</p>\n<p><br />$$$$\\begin{equation}<br />L(i, j)=\\begin{cases}<br />L(i,j)=1&#43;L(i-1,j-1), &amp; \\text{if $x_{i}=y_{j}$}.\\\\<br />L(i,j)=0, &amp; x_{i}\\neq y_{j}.<br />\\end{cases}<br />\\end{equation}$$$$</p>\n<p></p>\n<p>Then, I changed my mind by following the logic that if the last letters\u00a0of both strings are not the same, then I will just get the optimal solution of the previous last letters\u00a0of\u00a0both strings. So, I changed my recurrence for $$x_{i}\\neq y_{j}$$ to the following:</p>\n<p></p>\n<p>$$\\begin{equation}&lt;br/&gt; L(i, j)=\\begin{cases}&lt;br/&gt; L(i,j)=1&#43;L(i-1,j-1), &amp; \\text{if $x_{i}=y_{j}$}.\\\\&lt;br/&gt; L(i,j)=L(i-1,j-1), &amp; x_{i}\\neq y_{j}.&lt;br/&gt; \\end{cases}&lt;br/&gt;\\end{equation}$$</p>\n<p></p>\n<p>I think\u00a0this still yield the same solution.\u00a0Is my thinking correct?</p>\n<p></p>\n<p>Thank you.</p>\n<p></p>", 
+      "anon": "no", 
+      "created": "2017-09-03T21:35:54Z", 
+      "uid": "i18w67avy8e1uk", 
+      "subject": "[DPV 6.8] Longest Common Substring Recurrence (Spoiler)"
+    }, 
+    {
+      "content": "<p>My first attempt for practice problem 6.8 was the same as the solution:</p>\n<p><br />$$$$\\begin{equation}<br />L(i, j)=\\begin{cases}<br />L(i,j)=1&#43;L(i-1,j-1), &amp; \\text{if $x_{i}=y_{j}$}.\\\\<br />L(i,j)=0, &amp; x_{i}\\neq y_{j}.<br />\\end{cases}<br />\\end{equation}$$$$</p>\n<p></p>\n<p>Then, I changed my mind by following the logic that if the last letters\u00a0of both strings are not the same, then I will just get the optimal solution of the previous last letters\u00a0of\u00a0both strings. So, I changed my recurrence for $$x_{i}\\neq y_{j}$$ to the following:</p>\n<p></p>\n<p>$$\\begin{equation}\n L(i, j)=\\begin{cases}\n L(i,j)=1&#43;L(i-1,j-1), &amp; \\text{if $x_{i}=y_{j}$}.\\\\\n L(i,j)=L(i-1,j-1), &amp; x_{i}\\neq y_{j}.\n \\end{cases}\n\\end{equation}$$</p>\n<p></p>\n<p>I believe this still yield the same solution.\u00a0Is my thinking correct?</p>\n<p></p>\n<p>Thank you.</p>\n<p></p>", 
+      "anon": "no", 
+      "created": "2017-09-03T21:00:47Z", 
+      "uid": "i18w67avy8e1uk", 
+      "subject": "[DPV 6.8] Longest Common Substring Recurrence (Spoiler)"
+    }
+  ]
+}

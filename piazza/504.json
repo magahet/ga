@@ -1,0 +1,138 @@
+{
+  "status": "active", 
+  "unique_views": 172, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-01T01:13:18Z", 
+      "data": "j881yk9vskg5i4", 
+      "uid": "i4iufvhm2nj4s1"
+    }, 
+    {
+      "uid": "gns9oa0pgsO", 
+      "type": "i_answer", 
+      "when": "2017-10-01T11:11:37Z", 
+      "to": "j881yk9uxm35i3", 
+      "anon": "no", 
+      "data": "j88nc06gt053qt"
+    }, 
+    {
+      "uid": "hq8hn0qyfuvyr", 
+      "type": "s_answer", 
+      "when": "2017-10-03T20:17:02Z", 
+      "to": "j881yk9uxm35i3", 
+      "anon": "no", 
+      "data": "j8c1p4vls4b779"
+    }, 
+    {
+      "type": "i_answer_update", 
+      "anon": "no", 
+      "when": "2017-10-03T21:46:41Z", 
+      "data": "j8c4wem39bd6mm", 
+      "uid": "gns9oa0pgsO"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j881yk9uxm35i3", 
+  "bookmarked": 4, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-01T11:11:37Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j88nc06cxbi3qs", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>\u00a0if you matched the initial tests then you are fine.</p>\n<p></p>\n<p>edit(jt) what you are seeing is that you are changing the amount of data you are sending into the bloom filter, without changing the size of the filter itself.</p>", 
+          "anon": "no", 
+          "created": "2017-10-03T21:46:41Z", 
+          "uid": "gns9oa0pgsO", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>\u00a0if you matched the initial tests then you are fine.</p>", 
+          "anon": "no", 
+          "created": "2017-10-01T11:11:37Z", 
+          "uid": "gns9oa0pgsO", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-03T20:17:02Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j8c1p4vjot9778", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "That&#39;s what it sounds like to me - false positives.", 
+          "anon": "no", 
+          "created": "2017-10-03T20:17:02Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 504, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "project"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "project", 
+    "student"
+  ], 
+  "created": "2017-10-01T01:13:18Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145199933, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>I tested my Bloom Filter with the given test input and verification for both hash type 1 and 2, and both passed.</p>\n<p></p>\n<p>For kicks I decided to increase my &#39;m&#39; value from 100k to 150k.\u00a0 In theory I should get 150k of True&#39;s as output and 50k False&#39;s.\u00a0 However, I get a few more True&#39;s than I would like.\u00a0 Can I just chalk this up to the false positive rate, or is this a sign I implemented my Bloom Filter incorrectly?</p>", 
+      "anon": "no", 
+      "created": "2017-10-01T01:13:18Z", 
+      "uid": "i4iufvhm2nj4s1", 
+      "subject": "More thorough testing of Bloom Filter"
+    }
+  ]
+}

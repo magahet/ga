@@ -1,0 +1,143 @@
+{
+  "status": "active", 
+  "unique_views": 249, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-02T13:16:36Z", 
+      "data": "j8a78l77hvp6sd", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-02T13:36:54Z", 
+      "data": "j8a7yozy2ef32k", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-02T22:54:06Z", 
+      "data": "j8arv9b473oq7", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-04T15:47:20Z", 
+      "data": "j8d7i51tztj62l", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-04T15:49:27Z", 
+      "data": "j8d7kut77zl7m0", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-04T20:57:51Z", 
+      "data": "j8dilgo7r1au4", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-10T19:56:56Z", 
+      "data": "j8m128jq7s3xv", 
+      "uid": "gy4twfv45cg5o6"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8a78l74cx26sc", 
+  "bookmarked": 3, 
+  "tags": [
+    "instructor-note", 
+    "project"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [], 
+  "nr": 524, 
+  "bucket_order": 2, 
+  "type": "note", 
+  "folders": [
+    "project"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-10-02T13:16:36Z", 
+  "is_tag_good": false, 
+  "config": {
+    "is_announcement": 1, 
+    "bypass_email": 1
+  }, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145195274, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "Hey folks, first up, the transcript for the past 2 office hours on the Bloom Filter project can be found here :\n\n<a href=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/gns9oa0pgsO/j8a73qf5p4hj/OfficeHours1b.pdf\" target=\"_blank\">OfficeHours1b.pdf</a>\n\nSecondly, I will again be holding office hours for the Bloom Filter project this Wednesday, October 4, at 5-7 pm, with youtube link :\n\n<a href=\"https://www.youtube.com/watch?v=0zqgW2LmTTk\">https://www.youtube.com/watch?v=0zqgW2LmTTk</a>\n\nand the slido code is\n#9410", 
+      "anon": "no", 
+      "created": "2017-10-10T19:56:56Z", 
+      "uid": "gy4twfv45cg5o6", 
+      "subject": "BF Project Office Hours 10/4; Past Transcripts"
+    }, 
+    {
+      "content": "<p>Hey folks, first up, the transcript for the past 2 office hours on the Bloom Filter project can be found here :</p>\n<p></p>\n<p><a href=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/gns9oa0pgsO/j8a73qf5p4hj/OfficeHours1b.pdf\" target=\"_blank\">OfficeHours1b.pdf</a></p>\n<p></p>\n<p>Secondly, I will again be holding office hours for the Bloom Filter project this Wednesday, October 4, at 5-7 pm, with youtube link :</p>\n<p></p>\n<p><a href=\"https://www.youtube.com/watch?v=0zqgW2LmTTk\">https://www.youtube.com/watch?v=0zqgW2LmTTk</a></p>\n<p></p>\n<p>and the slido code is</p>\n<p>#9410</p>\n<p></p>\n<p>#pin</p>", 
+      "anon": "no", 
+      "created": "2017-10-04T20:57:51Z", 
+      "uid": "gns9oa0pgsO", 
+      "subject": "BF Project Office Hours 10/4; Past Transcripts"
+    }, 
+    {
+      "content": "<p>Hey folks, first up, the transcript for the past 2 office hours on the Bloom Filter project can be found here :</p>\n<p></p>\n<p><a href=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/gns9oa0pgsO/j8a73qf5p4hj/OfficeHours1b.pdf\" target=\"_blank\">OfficeHours1b.pdf</a></p>\n<p></p>\n<p>Secondly, I will again be holding office hours for the Bloom Filter project this Wednesday, October 4, at 5-7 pm, with youtube link :</p>\n<p></p>\n<p><a href=\"https://www.youtube.com/watch?v=0zqgW2LmTTk\">https://www.youtube.com/watch?v=0zqgW2LmTTk</a></p>\n<p></p>\n<p>and the slido code will still be\u00a0#9410</p>\n<p></p>\n<p>#pin</p>", 
+      "anon": "no", 
+      "created": "2017-10-04T15:49:27Z", 
+      "uid": "gns9oa0pgsO", 
+      "subject": "BF Project Office Hours 10/4; Past Transcripts"
+    }, 
+    {
+      "content": "<p>Hey folks, first up, the transcript for the past 2 office hours on the Bloom Filter project can be found here :</p>\n<p></p>\n<p><a href=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/gns9oa0pgsO/j8a73qf5p4hj/OfficeHours1b.pdf\" target=\"_blank\">OfficeHours1b.pdf</a></p>\n<p></p>\n<p>Secondly, I will again be holding office hours for the Bloom Filter project this Wednesday, October 4, at 5-7 pm, with youtube link :</p>\n<p></p>\n<p><a href=\"https://www.youtube.com/watch?v=0zqgW2LmTTk\">https://www.youtube.com/watch?v=0zqgW2LmTTk</a></p>\n<p></p>\n<p>and the slido code will still be\u00a0(also TBD, i need to set up a new slido)</p>\n<p></p>\n<p>#pin</p>", 
+      "anon": "no", 
+      "created": "2017-10-04T15:47:20Z", 
+      "uid": "gns9oa0pgsO", 
+      "subject": "BF Project Office Hours 10/4; Past Transcripts"
+    }, 
+    {
+      "content": "<p>Hey folks, first up, the transcript for the past 2 office hours on the Bloom Filter project can be found here :</p>\n<p></p>\n<p><a href=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/gns9oa0pgsO/j8a73qf5p4hj/OfficeHours1b.pdf\" target=\"_blank\">OfficeHours1b.pdf</a></p>\n<p></p>\n<p>Secondly, I will again be holding office hours for the Bloom Filter project this Wednesday, October 4, at 5-7 pm, with youtube link :</p>\n<p></p>\n<p>TBD (i&#39;ll add it nearer to the date)</p>\n<p></p>\n<p>and the slido code will still be\u00a0(also TBD, i need to set up a new slido)</p>\n<p></p>\n<p>#pin</p>", 
+      "anon": "no", 
+      "created": "2017-10-02T22:54:06Z", 
+      "uid": "gns9oa0pgsO", 
+      "subject": "BF Project Office Hours 10/4; Past Transcripts"
+    }, 
+    {
+      "content": "<p>Hey folks, first up, the transcript for the past 2 office hours on the Bloom Filter project can be found here :</p>\n<p></p>\n<p><a href=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/gns9oa0pgsO/j8a73qf5p4hj/OfficeHours1b.pdf\" target=\"_blank\">OfficeHours1b.pdf</a></p>\n<p></p>\n<p>Secondly, I will again be holding office hours for the Bloom Filter project this Wednesday, October 4, with youtube link :</p>\n<p></p>\n<p>TBD (i&#39;ll add it nearer to the date)</p>\n<p></p>\n<p>and the slido code will still be\u00a0(also TBD, i need to set up a new slido)</p>\n<p></p>\n<p>#pin</p>", 
+      "anon": "no", 
+      "created": "2017-10-02T13:36:54Z", 
+      "uid": "gns9oa0pgsO", 
+      "subject": "BF Project Office Hours 10/4; Past Transcripts"
+    }, 
+    {
+      "content": "<p>Hey folks, first up, the transcript for the past 2 office hours on the Bloom Filter project can be found here :</p>\n<p></p>\n<p><a href=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/gns9oa0pgsO/j8a73qf5p4hj/OfficeHours1b.pdf\" target=\"_blank\">OfficeHours1b.pdf</a></p>\n<p></p>\n<p>Secondly, I will again be holding office hours for the Bloom Filter project this Wednesday, October 4, with youtube link :</p>\n<p></p>\n<p>TBD (i&#39;ll add it nearer to the date)</p>\n<p></p>\n<p>and the slido code will still be\u00a0#8803Prj1_OfficeHrs</p>\n<p></p>\n<p>#pin</p>", 
+      "anon": "no", 
+      "created": "2017-10-02T13:16:36Z", 
+      "uid": "gns9oa0pgsO", 
+      "subject": "BF Project Office Hours 10/4; Past Transcripts"
+    }
+  ]
+}

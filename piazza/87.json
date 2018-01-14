@@ -1,0 +1,185 @@
+{
+  "status": "active", 
+  "unique_views": 194, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-08-26T21:15:14Z", 
+      "data": "j6tt1m0d1c0", 
+      "uid": "i4iqvrxeAWr"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-08-26T21:16:48Z", 
+      "data": "j6tt3maro6j17l", 
+      "uid": "i4iqvrxeAWr"
+    }, 
+    {
+      "uid": "i4iys7m3lpq2ij", 
+      "type": "s_answer", 
+      "when": "2017-08-26T22:14:16Z", 
+      "to": "j6tt1m0apfm7pr", 
+      "anon": "no", 
+      "data": "j6tv5idap8k4c7"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-08-26T22:14:34Z", 
+      "data": "j6tv5wq87fh4gy", 
+      "uid": "i4iys7m3lpq2ij"
+    }, 
+    {
+      "to": "j6tt1m0apfm7pr", 
+      "anon": "no", 
+      "when": "2017-08-27T12:13:40Z", 
+      "type": "followup", 
+      "uid": "i4iqvrxeAWr"
+    }, 
+    {
+      "to": "j6tt1m0apfm7pr", 
+      "anon": "no", 
+      "when": "2017-08-27T19:15:45Z", 
+      "type": "followup", 
+      "uid": "i4nkipeofrkrz"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j6tt1m0apfm7pr", 
+  "bookmarked": 3, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-08-26T22:14:16Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [
+        "i4iqvrxeAWr"
+      ], 
+      "id": "j6tv5id5s4f4c6", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Erik Turk", 
+          "admin": false, 
+          "photo": "1432606567_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i4iqvrxeAWr"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>You just need to add 1 to your range &#34;stop&#34; values:\u00a0<a href=\"https://docs.python.org/2/library/functions.html#range\" target=\"_blank\">https://docs.python.org/2/library/functions.html#range</a>.</p>", 
+          "anon": "no", 
+          "created": "2017-08-26T22:14:34Z", 
+          "uid": "i4iys7m3lpq2ij", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>You just need to add 1 to your range &#34;stop&#34; values:\u00a0https://docs.python.org/2/library/functions.html#range.</p>", 
+          "anon": "no", 
+          "created": "2017-08-26T22:14:16Z", 
+          "uid": "i4iys7m3lpq2ij", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-27T12:13:40Z", 
+      "no_upvotes": 0, 
+      "uid": "i4iqvrxeAWr", 
+      "created": "2017-08-27T12:13:40Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6up4zitb7y5ih", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>Thanks Kate.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-27T19:15:45Z", 
+      "no_upvotes": 0, 
+      "uid": "i4nkipeofrkrz", 
+      "created": "2017-08-27T19:15:45Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6v47slma2q27f", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>Here is my Python code for 6.2. Hopefully, this helps.</p>\n<p></p>\n<pre>import sys<br /><br />distances = [0, 200, 210, 300, 350]<br /><br />P = [0 for i in range(len(distances))]<br /><br />for i in range(len(distances)):<br />\tmin_penalty = sys.maxint<br />\tfor j in range(i):<br />\t\tpenalty = P[j] &#43; ((200 - (distances[i] - distances[j])) ** 2)<br /><br />\t\tif penalty &lt; min_penalty:<br />\t\t\tmin_penalty = penalty<br /><br />\tP[i] = 0 if i == 0 else min_penalty<br /><br />print P[len(distances) - 1]</pre>"
+    }
+  ], 
+  "nr": 87, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw1", 
+    "dynamic_programming"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 4, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "dynamic_programming", 
+    "hw1", 
+    "student"
+  ], 
+  "created": "2017-08-26T21:15:14Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145310324, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>At this time, I need to write code to ensure that my recurrence relation is correct - I don&#39;t have trust in my proof creation capabilities yet - so in the absence of having someone to be able to ask &#34;is this right?&#34; I want/think I should be able to write code, and then run my code with some simple test cases to see if it works as I expect it to. I hope this will help me build confidence and understanding, so that I don&#39;t need to do it in the future - for now it&#39;s a convenient crutch to use to learn from.</p>\n<p></p>\n<p>I tried to ask this question in an office hours - but I didn&#39;t clearly indicate my problem was with the python code, not the actual pseudo code. ( I had a little tangent while writing this post while googling &#34;pseudo code compiler&#34;) I know the point of the course is not to improve my python syntax - It&#39;s a means to an end.</p>\n<p></p>\n<p>For 6.2 - here&#39;s my python translation of the pseudo code given in Prof. Vigoda&#39;s answer.</p>\n<p></p>\n<pre>import numpy as np\n\ndef hotel(A):\n    n = len(A)\n    myA = [0] &#43; A\n    T = np.zeros((n&#43;1))&#43;np.inf\n    for i in range(1,n):\n        T[i] = (200-myA[i])**2\n        for j in range(1,i-1):\n            t = T[j]&#43; (200-(myA[i]-myA[j]))**2\n            if T[i]&gt; t:\n                T[i] = t \n\treturn T[n]\n\nprint( hotel([201,400]) )\nassert hotel([201,400]) == 2</pre>\n<p><a href=\"https://repl.it/K1QS/1\" target=\"_blank\">I have a repl.it of the code here</a></p>\n<p></p>\n<p>I don&#39;t think that T[n] (where n is the final index) is ever re-calculated after the first pass \u00a0- So it never gets assigned the proper value. Since j can only go up to i-1, T[i] is never T[n] after the initial pass.</p>\n<p></p>\n<p>I recognize that this may be a problem with how python represents the array, or something else - but unless j gets to ever become n, T[n] will always be infinity.</p>\n<p></p>\n<p>Can someone comment on where my thinking has gone wrong? I&#39;m assuming the pseudo code is correct and hope the issue is with my python implementation.</p>\n<p></p>\n<p>Thanks!</p>", 
+      "anon": "no", 
+      "created": "2017-08-26T21:16:48Z", 
+      "uid": "i4iqvrxeAWr", 
+      "subject": "Pseudocode to Python for 6.2 Hotel Stops problems"
+    }, 
+    {
+      "content": "<p>At this time, I need to write code to ensure that my recurrence relation is correct - I don&#39;t have trust in my proof creation capabilities yet - so in the absence of having someone to be able to ask &#34;is this right?&#34; I want/think I should be able to write code, and then run my code with some simple test cases to see if it works as I expect it to. I hope this will help me build confidence and understanding, so that I don&#39;t need to do it in the future - for now it&#39;s a convenient crutch to use to learn from.</p>\n<p></p>\n<p>I tried to ask this question in an office hours - but I didn&#39;t clearly indicate my problem was with the python code, not the actual pseudo code. ( I had a little tangent while writing this post while googling &#34;pseudo code compiler&#34;) I know the point of the course is not to improve my python syntax - It&#39;s a means to an end.</p>\n<p></p>\n<p>For 6.2 - here&#39;s my python translation of the pseudo code given in Prof. Vigoda&#39;s answer.</p>\n<p></p>\n<pre>import numpy as np\n\ndef hotel(A):\n    n = len(A)\n    myA = [0] &#43; A\n    T = np.zeros((n&#43;1))&#43;np.inf\n    for i in range(1,n):\n        T[i] = (200-myA[i])**2\n        for j in range(1,i-1):\n            t = T[j]&#43; (200-(myA[i]-myA[j]))**2\n            if T[i]&gt; t:\n                T[i] = t <br />\treturn T[n]\n\nprint( hotel([201,400]) )\nassert hotel([201,400]) == 2</pre>\n<p><a href=\"https://repl.it/K1QS/1\" target=\"_blank\">I have a repl.it of the code here</a></p>\n<p></p>\n<p>I don&#39;t think that T[n] (where n is the final index) is ever re-calculated after the first pass \u00a0- So it never gets assigned the proper value. Since j can only go up to i-1, T[i] is never T[n].</p>\n<p></p>\n<p>I recognize that this may be a problem with how python represents the array, or something else - but unless j gets to ever become n, T[n] will always be infinity.</p>\n<p></p>\n<p>Can someone comment on where my thinking has gone wrong? I&#39;m assuming the pseudo code is correct and hope the issue is with my python implementation.</p>\n<p></p>\n<p>Thanks!</p>", 
+      "anon": "no", 
+      "created": "2017-08-26T21:15:14Z", 
+      "uid": "i4iqvrxeAWr", 
+      "subject": "Pseudocode to Python for 6.2 Hotel Stops problems"
+    }
+  ]
+}

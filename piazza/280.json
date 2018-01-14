@@ -1,0 +1,328 @@
+{
+  "status": "active", 
+  "unique_views": 179, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-12T22:53:16Z", 
+      "data": "j7i715bwb6n3ia", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j7i715bsyim3i9", 
+      "anon": "no", 
+      "when": "2017-09-12T23:15:36Z", 
+      "type": "followup", 
+      "uid": "idi5567wFgu"
+    }, 
+    {
+      "uid": "gy4twfv45cg5o6", 
+      "type": "i_answer", 
+      "when": "2017-09-13T00:26:55Z", 
+      "to": "j7i715bsyim3i9", 
+      "anon": "no", 
+      "data": "j7iadlifdfp23g"
+    }, 
+    {
+      "to": "j7i715bsyim3i9", 
+      "anon": "no", 
+      "when": "2017-09-13T00:27:15Z", 
+      "type": "feedback", 
+      "uid": "i4j6x8uvfv6743"
+    }, 
+    {
+      "to": "j7i715bsyim3i9", 
+      "anon": "no", 
+      "when": "2017-09-13T02:37:28Z", 
+      "type": "followup", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j7i715bsyim3i9", 
+      "anon": "no", 
+      "when": "2017-09-17T03:30:01Z", 
+      "type": "followup", 
+      "uid": "idej2kl6hh1"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j7i715bsyim3i9", 
+  "bookmarked": 7, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-09-12T23:15:36Z", 
+      "no_upvotes": 0, 
+      "uid": "idi5567wFgu", 
+      "created": "2017-09-12T23:15:36Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7i7tvv2c46bv", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-13T00:27:15Z", 
+          "uid": "i4j6x8uvfv6743", 
+          "created": "2017-09-13T00:27:15Z", 
+          "type": "feedback", 
+          "id": "j7iae0fa9po2ae", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#43;1</p>"
+        }
+      ], 
+      "subject": "<p>Thanks for asking this question, Santiago. Completely agree with you. The first one is prone to mistakes and also \u00a0takes much longer time than the second one. If instructors allow us to use the second method, that would be really great.</p>"
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-13T00:26:55Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "i4j6x8uvfv6743", 
+        "iddoy2bdneb2tv", 
+        "hyzyc8nwswo6z5", 
+        "ijarmqggjkc3gz", 
+        "i18w67avy8e1uk", 
+        "hv1gl7gmpkj41y"
+      ], 
+      "id": "j7iadli96yo23f", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Eddie Spencer", 
+          "admin": false, 
+          "photo": "1432002672_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i4j6x8uvfv6743"
+        }, 
+        {
+          "name": "Jesse Peinado", 
+          "admin": false, 
+          "photo": null, 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "iddoy2bdneb2tv"
+        }, 
+        {
+          "name": "Zack Gow", 
+          "admin": false, 
+          "photo": "1476241357_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hyzyc8nwswo6z5"
+        }, 
+        {
+          "name": "Jeff Berry", 
+          "admin": false, 
+          "photo": "1452567269_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "ijarmqggjkc3gz"
+        }, 
+        {
+          "name": "Shihgian Lee", 
+          "admin": false, 
+          "photo": "1420394909_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i18w67avy8e1uk"
+        }, 
+        {
+          "name": "William Miller", 
+          "admin": false, 
+          "photo": "1408322716_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hv1gl7gmpkj41y"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p></p>\n<p>Either method is OK. \u00a0I&#39;m not going to ask you to do FFT during the exam, I&#39;m not cruel (at least not intentionally), I realize it takes a lot of time. \u00a0Note on the homework I think you can get away with the 4th roots. \u00a0And it&#39;s a small example so the point is that you can easily check if you got the right answer. \u00a0</p>", 
+          "anon": "no", 
+          "created": "2017-09-13T00:26:55Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-13T02:37:28Z", 
+      "no_upvotes": 0, 
+      "uid": "i4nkipeofrkrz", 
+      "created": "2017-09-13T02:37:28Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7if1h4i9am5ui", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>For the matrixes approach, see an example in &#64;284.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-17T03:30:01Z", 
+      "no_upvotes": 0, 
+      "uid": "idej2kl6hh1", 
+      "created": "2017-09-17T03:30:01Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7o6ogolki850k", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>Technically, the matrix approach is not the FFT, it&#39;s the DFT, correct?</p>"
+    }
+  ], 
+  "nr": 280, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw3"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 8, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw3", 
+    "student"
+  ], 
+  "created": "2017-09-12T22:53:16Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145253609, 
+  "tag_good": [
+    {
+      "name": "Josh Clum", 
+      "admin": false, 
+      "photo": "1431566311_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hve4k9bj2u4qu"
+    }, 
+    {
+      "name": "Eddie Spencer", 
+      "admin": false, 
+      "photo": "1432002672_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4j6x8uvfv6743"
+    }, 
+    {
+      "name": "Zack Gow", 
+      "admin": false, 
+      "photo": "1476241357_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hyzyc8nwswo6z5"
+    }, 
+    {
+      "name": "Shihgian Lee", 
+      "admin": false, 
+      "photo": "1420394909_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i18w67avy8e1uk"
+    }, 
+    {
+      "name": "Brian Trinh", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hq9zldq5n9mvn"
+    }, 
+    {
+      "name": "William Miller", 
+      "admin": false, 
+      "photo": "1408322716_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hv1gl7gmpkj41y"
+    }, 
+    {
+      "name": "Chris Noyes", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "idej2kl6hh1"
+    }
+  ], 
+  "tag_good_arr": [
+    "hve4k9bj2u4qu", 
+    "i4j6x8uvfv6743", 
+    "hyzyc8nwswo6z5", 
+    "i18w67avy8e1uk", 
+    "hq9zldq5n9mvn", 
+    "hv1gl7gmpkj41y", 
+    "idej2kl6hh1"
+  ], 
+  "history": [
+    {
+      "content": "<p>This same question came up in a couple of different threads, but we still haven&#39;t gotten an official answer from the instructors, probably because the question has come up in the comments.</p>\n<p></p>\n<p>So, here is again:</p>\n<p></p>\n<p>There are two different ways we can approach polynomial multiplication in both HW3 and the exam:</p>\n<p></p>\n<ol><li>Following the recursive algorithm (where we obtain a butterfly network) as explained in the videos. This method is the one where we split every\u00a0problem into 2 subproblems using the even and odd terms, and continuously solve until we evaluate both polynomials in the $$n^{th}$$ roots of unity. Then we multiply to obtain $$C(x)$$, and finally, do the interpolation by\u00a0running $$FFT^{-1}$$.<br /><br /></li><li>The second method is where we determine the matrix $$M_n(\\omega)$$, do the evaluation of both polynomials by multiplying\u00a0$$M_n(\\omega)$$ by the each vector. Then obtain\u00a0$$C(x)$$, and finally, multiply\u00a0$$C$$ by the matrix\u00a0$$M_n(\\omega^{-1})$$.</li></ol>\n<p></p>\n<p>The first method is very verbose and prone to mistakes. For $$n &gt; 4$$ it is probably very hard to run the algorithm manually. For HW3 is ok, but it still takes time to complete.</p>\n<p></p>\n<p>The second method is pretty straightforward and cleaner. Definitively easier for the homework, and especially for the exam.</p>\n<p></p>\n<p>The question for the instructors is: can we use any of the above methods, or are we forced to only use the first method in HW3 and the exam?</p>\n<p></p>\n<p></p>\n<p></p>", 
+      "anon": "no", 
+      "created": "2017-09-12T22:53:16Z", 
+      "uid": "i4nkipeofrkrz", 
+      "subject": "Polynomial Multiplication on the Exam and HW3"
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "status": "active", 
+  "unique_views": 211, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-08-22T22:29:30Z", 
+      "data": "j6o5xpcplxw7gk", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "uid": "ijaqo3bm4133g3", 
+      "type": "i_answer", 
+      "when": "2017-08-23T01:36:45Z", 
+      "to": "j6o5xpcmb3l7gj", 
+      "anon": "no", 
+      "data": "j6ocmihth0k5y2"
+    }, 
+    {
+      "to": "j6o5xpcmb3l7gj", 
+      "anon": "no", 
+      "when": "2017-08-23T01:52:01Z", 
+      "type": "followup", 
+      "uid": "hqa65fnalg83fr"
+    }, 
+    {
+      "to": "j6o5xpcmb3l7gj", 
+      "anon": "no", 
+      "when": "2017-08-23T02:20:58Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j6o5xpcmb3l7gj", 
+      "anon": "no", 
+      "when": "2017-08-23T02:21:57Z", 
+      "type": "followup", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j6o5xpcmb3l7gj", 
+      "anon": "no", 
+      "when": "2017-08-23T09:08:02Z", 
+      "type": "feedback", 
+      "uid": "hqa65fnalg83fr"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j6o5xpcmb3l7gj", 
+  "bookmarked": 5, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-08-23T01:36:45Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j6ocmihq7i45y1", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>In the context of this class, a recurrence relation helps you define the generic pattern while solving a problem recursively. For more information, you can read textbook DPV section 2.1 Multiplication and 2.2 Recurrence relations.(hopefully we have the same version of this book) Hope it helps! \u00a0</p>", 
+          "anon": "no", 
+          "created": "2017-08-23T01:36:45Z", 
+          "uid": "ijaqo3bm4133g3", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-23T01:52:01Z", 
+      "no_upvotes": 0, 
+      "uid": "hqa65fnalg83fr", 
+      "created": "2017-08-23T01:52:01Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6od658un0556p", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-08-23T02:20:58Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-08-23T02:20:58Z", 
+          "type": "feedback", 
+          "id": "j6oe7dkua0928m", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Thanks Amin! I will check that out when i get home!"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-23T09:08:02Z", 
+          "uid": "hqa65fnalg83fr", 
+          "created": "2017-08-23T09:08:02Z", 
+          "type": "feedback", 
+          "id": "j6osqv4ewau5p4", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>These chapters look at it from the point of view of complexity analysis\u00a0though.. it may not be the same usage as the professor is discussing (though clearly its related).</p>"
+        }
+      ], 
+      "subject": "<p>Here&#39;s my favorite quick and dirty summary:</p>\n<p></p>\n<p>https://courses.cs.washington.edu/courses/cse326/03wi/lectures/RaoLect3.pdf</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-23T02:21:57Z", 
+      "no_upvotes": 0, 
+      "uid": "hvil6y6khgk2ri", 
+      "created": "2017-08-23T02:21:57Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6oe8mr3a2g2p3", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "Thanks Xinyu! I will take a look at those chapters.  I appreciate it."
+    }
+  ], 
+  "nr": 33, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "logistics"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 4, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "logistics", 
+    "student"
+  ], 
+  "created": "2017-08-22T22:29:30Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145328672, 
+  "tag_good": [
+    {
+      "name": "Chris Purcell", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4jbu1br4pp3t0"
+    }, 
+    {
+      "name": "Sterling Taylor", 
+      "admin": false, 
+      "photo": "1427505602_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hveop63kovn61t"
+    }
+  ], 
+  "tag_good_arr": [
+    "i4jbu1br4pp3t0", 
+    "hveop63kovn61t"
+  ], 
+  "history": [
+    {
+      "content": "<p>Hi All,</p>\n<p></p>\n<p>One area is struggle with is recurrence relations; on a VERY high level I understand them (my cornball definition is &#39;&#39;they mathematically describe the problem&#34;, but I could be way off there).\u00a0 Does anyone have any good resources for</p>\n<p></p>\n<ol><li>What is a recurrence relation?</li><li>What are the key elements of a recurrence relation?</li><li>How do you construct a recurrence relation?</li><li>What they do?</li><li>What they do not do?</li><li>Any other useful tips?</li></ol>\n<p></p>\n<p>Those are the questions I have been mulling over, and after some of my own research I am still not clear.\u00a0 Does anyone have a handle on them and can describe them, or does anyone have a good resource describing what they are, how to construct them, and their uses?</p>\n<p><br />I can kinda-sorta get them on paper, but mine are terrible and am looking to imporve.</p>\n<p></p>\n<p>Thanks for the help,</p>\n<p>Brent</p>", 
+      "anon": "no", 
+      "created": "2017-08-22T22:29:30Z", 
+      "uid": "hvil6y6khgk2ri", 
+      "subject": "Any Good Resources For Recurrence Relations?"
+    }
+  ]
+}

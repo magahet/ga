@@ -1,0 +1,390 @@
+{
+  "status": "active", 
+  "unique_views": 200, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-20T13:05:42Z", 
+      "data": "j7t1kce3qj11yf", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-20T13:05:50Z", 
+      "data": "j7t1kitxqet24d", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-20T13:08:03Z", 
+      "data": "j7t1ndibml43a7", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-20T13:22:37Z", 
+      "data": "j7t2646m8pe56v", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-20T13:23:23Z", 
+      "data": "j7t273aufcf5li", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j7t1kce1bvt1ye", 
+      "anon": "no", 
+      "when": "2017-09-20T14:33:58Z", 
+      "type": "followup", 
+      "uid": "hvfeyx7qglF"
+    }, 
+    {
+      "to": "j7t1kce1bvt1ye", 
+      "anon": "no", 
+      "when": "2017-09-20T17:10:30Z", 
+      "type": "followup", 
+      "uid": "hz2wlft5i565vr"
+    }, 
+    {
+      "to": "j7t1kce1bvt1ye", 
+      "anon": "no", 
+      "when": "2017-09-20T19:05:37Z", 
+      "type": "followup", 
+      "uid": "hqa65fnalg83fr"
+    }, 
+    {
+      "to": "j7t1kce1bvt1ye", 
+      "anon": "no", 
+      "when": "2017-09-21T00:16:41Z", 
+      "type": "followup", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-21T23:51:34Z", 
+      "data": "j7v42sn1k15es", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j7t1kce1bvt1ye", 
+      "anon": "no", 
+      "when": "2017-09-21T23:52:55Z", 
+      "type": "followup", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-22T02:42:35Z", 
+      "data": "j7va6q1qj1v5u5", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j7t1kce1bvt1ye", 
+      "anon": "no", 
+      "when": "2017-09-22T02:42:53Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j7t1kce1bvt1ye", 
+  "bookmarked": 7, 
+  "tags": [
+    "dynamic_programming", 
+    "exam", 
+    "student"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-09-20T14:33:58Z", 
+      "no_upvotes": 0, 
+      "uid": "hvfeyx7qglF", 
+      "created": "2017-09-20T14:33:58Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7t4pusyocd10x", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>Awesome!\u00a0 Thanks so much for this.\u00a0\u00a0</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-20T17:10:30Z", 
+      "no_upvotes": 0, 
+      "uid": "hz2wlft5i565vr", 
+      "created": "2017-09-20T17:10:30Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7tab5o7o4r1vz", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>Thanks for posting. Nice to see another person&#39;s take on this.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-20T19:05:37Z", 
+      "no_upvotes": 0, 
+      "uid": "hqa65fnalg83fr", 
+      "created": "2017-09-20T19:05:37Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7tef79rksu56x", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>I think there are 2 skills that need to be developed for DP.</p>\n<p></p>\n<p>One is to solve the problem via programming. I find this easier. However, its messy, iterative, and takes too long. The other is to solve it via mathematical thinking. (I know these are equivalent in a sense but programming gives you more feedback)</p>\n<p></p>\n<p>Mathematical thinking can get you the right answer but its easy to overlook some aspect (ex:\u00a0I wrote the max{ P(i,j) } instead of max { P(i,j) : j &lt; i} )<br /><br />Solutions can be tested via programming, visual techniques (as you demonstrate nicely in Excel) or mathematical proofs. Sometimes I think I have it right, but I don&#39;t.<br /><br />I&#39;m trying to hone in the\u00a0math thinking skill.\u00a0</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-21T00:16:41Z", 
+      "no_upvotes": 0, 
+      "uid": "i4ket0u1z5q31a", 
+      "created": "2017-09-21T00:16:41Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7tpj92ioyg3y5", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>Thank-you for sharing.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-21T23:52:55Z", 
+      "no_upvotes": 0, 
+      "uid": "hvil6y6khgk2ri", 
+      "created": "2017-09-21T23:52:55Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7v44jdofh01f3", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-22T02:42:53Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-09-22T02:42:53Z", 
+          "type": "feedback", 
+          "id": "j7va73z8smg61d", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Updated some of the numbers in 6.20 where I added wrong.</p>"
+        }
+      ], 
+      "subject": "<p>Updated - now includes 6.7 and 6.20, in both the word and excel docs.\u00a0 I didnt do #19, but everything else is done.</p>"
+    }
+  ], 
+  "nr": 363, 
+  "bucket_order": 2, 
+  "type": "note", 
+  "folders": [
+    "exam", 
+    "dynamic_programming"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 7, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-09-20T13:05:42Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145227906, 
+  "tag_good": [
+    {
+      "name": "Alana Manuel", 
+      "admin": false, 
+      "photo": "1472358269_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hz2wlft5i565vr"
+    }, 
+    {
+      "name": "Brandon Richards", 
+      "admin": false, 
+      "photo": "1408392221_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hvfeyx7qglF"
+    }, 
+    {
+      "name": "Shihgian Lee", 
+      "admin": false, 
+      "photo": "1420394909_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i18w67avy8e1uk"
+    }, 
+    {
+      "name": "Michael Buss", 
+      "admin": false, 
+      "photo": "1435529089_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hz0pn3deX7A"
+    }, 
+    {
+      "name": "Nelson Cheng", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4kxfs7hlxngu"
+    }, 
+    {
+      "name": "Blaine Spear", 
+      "admin": false, 
+      "photo": "1494887789_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "idfwkujs17e3ky"
+    }, 
+    {
+      "name": "Parag Kalra", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "iddoy33j6hv2tz"
+    }, 
+    {
+      "name": "Gautam Venkataramanan", 
+      "admin": false, 
+      "photo": "1447185933_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hvvxmpxfuyb2eo"
+    }, 
+    {
+      "name": "Babak Keyvani", 
+      "admin": false, 
+      "photo": "1408337737_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hyywem7iw0v1jj"
+    }
+  ], 
+  "tag_good_arr": [
+    "hz2wlft5i565vr", 
+    "hvfeyx7qglF", 
+    "i18w67avy8e1uk", 
+    "hz0pn3deX7A", 
+    "i4kxfs7hlxngu", 
+    "idfwkujs17e3ky", 
+    "iddoy33j6hv2tz", 
+    "hvvxmpxfuyb2eo", 
+    "hyywem7iw0v1jj"
+  ], 
+  "history": [
+    {
+      "content": "<p>Hi All,<br /><br />I tend to be a visual learner, so I have to map out problems to understand how they work.\u00a0 In regards to the DP practice problems, I have a Word doc that explains the problem in my own words along with the recurrence / pseudocode, and then an Excel doc that visually shows how the problem works out for an example.<br /><br />I wasn&#39;t planning on making this public, which means that in some cases I don&#39;t fully flesh out the problem because I understand it to a point; also I am still working on 3 problems so its not quite done (but if this is helpful for you, check back periodically as I will upload a newer version when I have one available).</p>\n<p></p>\n<p>(Just a note - I used the word &#39;deck&#39; to denote the current item being investigated (i.e. &#39;on deck&#39;); so if 1 &lt;= j &lt;= 5, and we are looping through the array and j is currently 3, Array[3] is what I am calling the &#39;deck&#39; item)<br /><br /><a href=\"https://drive.google.com/file/d/0B2HONWLOI4JLNlBYcE9UU0pJcTg/view?usp=sharing\" target=\"_blank\">If you want the Word doc, its here.</a><br /><br /><a href=\"https://drive.google.com/file/d/0B2HONWLOI4JLN0o1OHR1TTNRejQ/view?usp=sharing\" target=\"_blank\">If you want the Excel doc, its here.</a><br /><br />Its best if you follow along with the pseudocode as you are stepping through the examples.</p>\n<p></p>\n<p>Thanks and good luck!<br />-Brent</p>", 
+      "anon": "no", 
+      "created": "2017-09-22T02:42:35Z", 
+      "uid": "hvil6y6khgk2ri", 
+      "subject": "DP Problems, Visualized"
+    }, 
+    {
+      "content": "<p>Hi All,<br /><br />I tend to be a visual learner, so I have to map out problems to understand how they work.\u00a0 In regards to the DP practice problems, I have a Word doc that explains the problem in my own words along with the recurrence / pseudocode, and then an Excel doc that visually shows how the problem works out for an example.<br /><br />I wasn&#39;t planning on making this public, which means that in some cases I don&#39;t fully flesh out the problem because I understand it to a point; also I am still working on 3 problems so its not quite done (but if this is helpful for you, check back periodically as I will upload a newer version when I have one available).</p>\n<p></p>\n<p>(Just a note - I used the word &#39;deck&#39; to denote the current item being investigated (i.e. &#39;on deck&#39;); so if 1 &lt;= j &lt;= 5, and we are looping through the array and j is currently 3, Array[3] is what I am calling the &#39;deck&#39; item)<br /><br /><a href=\"https://drive.google.com/file/d/0B2HONWLOI4JLNlBYcE9UU0pJcTg/view?usp=sharing\" target=\"_blank\">If you want the Word doc, its here.</a><br /><br /><a href=\"https://drive.google.com/file/d/0B2HONWLOI4JLbG1wR1VreWpMbzA/view?usp=sharing\" target=\"_blank\">If you want the Excel doc, its here.</a><br /><br />Its best if you follow along with the pseudocode as you are stepping through the examples.</p>\n<p></p>\n<p>Thanks and good luck!<br />-Brent</p>", 
+      "anon": "no", 
+      "created": "2017-09-21T23:51:34Z", 
+      "uid": "hvil6y6khgk2ri", 
+      "subject": "DP Problems, Visualized"
+    }, 
+    {
+      "content": "<p>Hi All,<br /><br />I tend to be a visual learner, so I have to map out problems to understand how they work.\u00a0 In regards to the DP practice problems, I have a Word doc that explains the problem in my own words along with the recurrence / pseudocode, and then an Excel doc that visually shows how the problem works out for an example.<br /><br />I wasn&#39;t planning on making this public, which means that in some cases I don&#39;t fully flesh out the problem because I understand it to a point; also I am still working on 3 problems so its not quite done (but if this is helpful for you, check back periodically as I will upload a newer version when I have one available).</p>\n<p></p>\n<p>(Just a note - I used the word &#39;deck&#39; to denote the current item being investigated (i.e. &#39;on deck&#39;); so if 1 &lt;= j &lt;= 5, and we are looping through the array and j is currently 3, Array[3] is what I am calling the &#39;deck&#39; item)<br /><br /><a href=\"https://docs.google.com/document/d/1ZmhwmMlEwJTw21gCGVaVr3FeoHW3PI6ck0ntEcr4CXA/edit?usp=sharing\" target=\"_blank\">If you want the Word doc, its here.</a><br /><br /><a href=\"https://docs.google.com/spreadsheets/d/1d_E1Zpgh7Qpmq-_eFmhkfkFj_QOgX4RrBbnLUiTk2og/edit?usp=sharing\" target=\"_blank\">If you want the Excel doc, its here.</a><br /><br />Its best if you follow along with the pseudocode as you are stepping through the examples.</p>\n<p></p>\n<p>Thanks and good luck!<br />-Brent</p>", 
+      "anon": "no", 
+      "created": "2017-09-20T13:23:23Z", 
+      "uid": "hvil6y6khgk2ri", 
+      "subject": "DP Problems, Visualized"
+    }, 
+    {
+      "content": "<p>Hi All,<br /><br />I tend to be a visual learner, so I have to map out problems to understand how they work.\u00a0 In regards to the DP practice problems, I have a Word doc that explains the problem in my own words along with the recurrence / pseudocode, and then an Excel doc that visually shows how the problem works out for an example.<br /><br />I wasn&#39;t planning on making this public, which means that in some cases I don&#39;t fully flesh out the problem because I understand it to a point; also I am still working on 3 problems so its not quite done (but if this is helpful for you, check back periodically as I will upload a newer version when I have one available).</p>\n<p></p>\n<p>(Just a note - I used the word &#39;deck&#39; to denote the current item being investigated; so if 1 &lt;= j &lt;= 5, and we are looping through the array and j is currently 3, Array[3] is what I am calling the &#39;deck&#39; item)<br /><br /><a href=\"https://docs.google.com/document/d/1ZmhwmMlEwJTw21gCGVaVr3FeoHW3PI6ck0ntEcr4CXA/edit?usp=sharing\" target=\"_blank\">If you want the Word doc, its here.</a><br /><br /><a href=\"https://docs.google.com/spreadsheets/d/1d_E1Zpgh7Qpmq-_eFmhkfkFj_QOgX4RrBbnLUiTk2og/edit?usp=sharing\" target=\"_blank\">If you want the Excel doc, its here.</a><br /><br />Its best if you follow along with the pseudocode as you are stepping through the examples.</p>\n<p></p>\n<p>Thanks and good luck!<br />-Brent</p>", 
+      "anon": "no", 
+      "created": "2017-09-20T13:22:37Z", 
+      "uid": "hvil6y6khgk2ri", 
+      "subject": "DP Problems, Visualized"
+    }, 
+    {
+      "content": "<p>Hi All,<br /><br />I tend to be a visual learner, so I have to map out problems to understand how they work.\u00a0 In regards to the DP practice problems, I have a Word doc that explains the problem in my own words along with the recurrence / pseudocode, and then an Excel doc that visually shows how the problem works out for an example.<br /><br />I wasn&#39;t planning on making this public, which means that in some cases I don&#39;t fully flesh out the problem because I understand it to a point; also I am still working on 3 problems so its not quite done (but if this is helpful for you, check back periodically as I will upload a newer version when I have one available).<br /><br /><a href=\"https://docs.google.com/document/d/1ZmhwmMlEwJTw21gCGVaVr3FeoHW3PI6ck0ntEcr4CXA/edit?usp=sharing\" target=\"_blank\">If you want the Word doc, its here.</a><br /><br /><a href=\"https://docs.google.com/spreadsheets/d/1d_E1Zpgh7Qpmq-_eFmhkfkFj_QOgX4RrBbnLUiTk2og/edit?usp=sharing\" target=\"_blank\">If you want the Excel doc, its here.</a><br /><br />Its best if you follow along with the pseudocode as you are stepping through the examples.</p>\n<p></p>\n<p>Thanks and good luck!<br />-Brent</p>", 
+      "anon": "no", 
+      "created": "2017-09-20T13:08:03Z", 
+      "uid": "hvil6y6khgk2ri", 
+      "subject": "DP Problems, Visualized"
+    }, 
+    {
+      "content": "<p>Hi All,<br /><br />I tend to be a visual learner, so I have to map out problems to understand how they work.\u00a0 In regards to the DP practice problems, I have a Word doc that explains the problem in my own words along with the recurrence / pseudocode, and then an Excel doc that visually shows how the problem works out for an example.<br /><br />I wasn&#39;t planning on making this public, which means that in some cases I don&#39;t fully flesh out the problem because I understand it to a point; also I am still working on 3 problems so its not quite done (but if this is helpful for you, check back periodically as I will upload a newer version when I have one available).<br /><br /><a href=\"https://docs.google.com/document/d/1ZmhwmMlEwJTw21gCGVaVr3FeoHW3PI6ck0ntEcr4CXA/edit?usp=sharing\" target=\"_blank\">If you want the Word doc, its here.</a><br /><br /><a href=\"https://docs.google.com/spreadsheets/d/1d_E1Zpgh7Qpmq-_eFmhkfkFj_QOgX4RrBbnLUiTk2og/edit?usp=sharing\" target=\"_blank\">If you want the Excel doc, its here.</a><br /><br /><br />Thanks and good luck!<br />-Brent</p>", 
+      "anon": "no", 
+      "created": "2017-09-20T13:05:50Z", 
+      "uid": "hvil6y6khgk2ri", 
+      "subject": "DP Problems, Visualized"
+    }, 
+    {
+      "content": "<p>Hi All,<br /><br />I tend to be a visual learner, so I have to map out problems to understand how they work.\u00a0 In regards to the DP practice problems, I have a Word doc that explains the problem in my own words along with the recurrence / pseudocode, and then an Excel doc that visually shows how the problem works out for an example.<br /><br />I wasn&#39;t planning on making this public, which means that in some cases I don&#39;t fully flesh out the problem because I understand it to a point; also I am still working on 3 problems so its not quite done (but if this is helpful for you, check back periodically as I will upload a newer version when I have one available).<br /><br /><a href=\"https://docs.google.com/document/d/1ZmhwmMlEwJTw21gCGVaVr3FeoHW3PI6ck0ntEcr4CXA/edit?usp=sharing\" target=\"_blank\">If you want the word doc, its here.</a><br /><br /><a href=\"https://docs.google.com/spreadsheets/d/1d_E1Zpgh7Qpmq-_eFmhkfkFj_QOgX4RrBbnLUiTk2og/edit?usp=sharing\" target=\"_blank\">If you want the Excel doc, its here.</a><br /><br /><br />Thanks and good luck!<br />-Brent</p>", 
+      "anon": "no", 
+      "created": "2017-09-20T13:05:42Z", 
+      "uid": "hvil6y6khgk2ri", 
+      "subject": "DP Problems, Visualized"
+    }
+  ]
+}

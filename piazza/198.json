@@ -1,0 +1,437 @@
+{
+  "status": "active", 
+  "unique_views": 195, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-05T23:54:49Z", 
+      "data": "j7895cnqoep2ty", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "uid": "gy4twfv45cg5o6", 
+      "type": "i_answer", 
+      "when": "2017-09-06T00:23:15Z", 
+      "to": "j7895cnofr22tw", 
+      "anon": "no", 
+      "data": "j78a5wjsr5m3c6"
+    }, 
+    {
+      "to": "j7895cnofr22tw", 
+      "anon": "no", 
+      "when": "2017-09-07T01:47:43Z", 
+      "type": "followup", 
+      "uid": "hqa9hej5ny2gl"
+    }, 
+    {
+      "to": "j7895cnofr22tw", 
+      "anon": "no", 
+      "when": "2017-09-07T13:19:24Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j7895cnofr22tw", 
+      "anon": "no", 
+      "when": "2017-09-07T14:06:48Z", 
+      "type": "feedback", 
+      "uid": "hqa9hej5ny2gl"
+    }, 
+    {
+      "to": "j7895cnofr22tw", 
+      "anon": "no", 
+      "when": "2017-09-07T14:30:23Z", 
+      "type": "feedback", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "to": "j7895cnofr22tw", 
+      "anon": "no", 
+      "when": "2017-09-07T17:22:06Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j7895cnofr22tw", 
+      "anon": "no", 
+      "when": "2017-09-07T18:13:32Z", 
+      "type": "feedback", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "to": "j7895cnofr22tw", 
+      "anon": "no", 
+      "when": "2017-09-07T22:20:46Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j7895cnofr22tw", 
+      "anon": "no", 
+      "when": "2017-09-08T10:23:54Z", 
+      "type": "feedback", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "to": "j7895cnofr22tw", 
+      "anon": "no", 
+      "when": "2017-09-08T13:13:34Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j7895cnofr22tw", 
+      "anon": "no", 
+      "when": "2017-09-08T13:47:49Z", 
+      "type": "feedback", 
+      "uid": "i4iys7m3lpq2ij"
+    }, 
+    {
+      "to": "j7895cnofr22tw", 
+      "anon": "no", 
+      "when": "2017-09-08T13:58:08Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j7895cnofr22tw", 
+      "anon": "no", 
+      "when": "2017-09-08T14:00:11Z", 
+      "type": "feedback", 
+      "uid": "i4iys7m3lpq2ij"
+    }, 
+    {
+      "to": "j7895cnofr22tw", 
+      "anon": "no", 
+      "when": "2017-09-08T14:01:31Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j7895cnofr22tw", 
+      "anon": "no", 
+      "when": "2017-09-08T14:55:58Z", 
+      "type": "feedback", 
+      "uid": "i4hdvab632i522"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j7895cnofr22tw", 
+  "bookmarked": 7, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-06T00:23:15Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j78a5wjnl0d3c5", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>Sure, go ahead.</p>", 
+          "anon": "no", 
+          "created": "2017-09-06T00:23:15Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-07T01:47:43Z", 
+      "no_upvotes": 0, 
+      "uid": "hqa9hej5ny2gl", 
+      "created": "2017-09-07T01:47:43Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j79sme0m8tv20s", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-07T13:19:24Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-09-07T13:19:24Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j7ahbvy2y57lh", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Here is the recurrence that I put as my answer:</p>\n<p></p>\n<p>$$ L(i,j) = \\max_{1 \\leq j \\leq i~} \n\\begin{cases}\n1 &amp; \\text{if $j = i$}\\\\\n2 &amp; \\text{if $j &#43; 1 = i \\wedge X_j = X_i$}\\\\\ni-j&#43;1 &amp; \\text{if $L(i-1,j&#43;1) &gt; 0 \\wedge X_j = X_i$}\\\\\n0 &amp; otherwise\n\\end{cases}$$</p>\n<p></p>\n<p>and here is the pseudocode:</p>\n<p></p>\n<pre>LengthOfLongestPalindromicSubstring(x):<br />  n = length(x)<br />  max = 0<br />  for i=1 to n:<br />    for j=1 to i:<br />      if j=i then<br />        L[i,j]=1<br />      else if j&#43;1=i and x[j]=x[i] then<br />        L[i,j]=2<br />      else if L[i-1,j&#43;1] != 0 and x[j]=x[i] then<br />        L[i,j]=i-j&#43;1<br />        <br />      if L[i,j] &gt; max then<br />        max = L[i,j]<br /><br />  return max</pre>\n<p></p>\n<p>As you can see, this is a $$O(n^2)$$ solution. I use the table to store the length of the longest palindromic substring contained in $${x_j, x_{j&#43;1},..., x_i}$$.</p>\n<p></p>\n<p>Hopefully, this makes sense.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-07T14:06:48Z", 
+          "uid": "hqa9hej5ny2gl", 
+          "created": "2017-09-07T14:06:48Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j7aj0uy69mbkk", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thanks, I can follow your logic with no \u00a0problem and it seems achieves the effect as the official answers.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-07T14:30:23Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-09-07T14:30:23Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j7ajv6eikp06xy", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Santiago, do you think you need to account for the &#39;triangular&#39; shape of the table you build? I think the start indices for the loops need adjusting"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-07T17:22:06Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-09-07T17:22:06Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j7aq00rr53d7ll", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I&#39;m not sure I follow your thoughts. Why would they need to be adjusted?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-07T18:13:32Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-09-07T18:13:32Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j7aru5tob936rb", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Did you read the model answer?"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-07T22:20:46Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-09-07T22:20:46Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j7b0o3bfilo5va", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I did, yes. But I&#39;m still not sure what you are referring to.</p>\n<p></p>\n<p>I\u00a0coded the pseudocode in Python exactly as-is, and it works fine.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-08T10:23:54Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-09-08T10:23:54Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j7bqi1vfhfc3dx", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "My concern would be for instance when i = 2, j = 1,  the test\n$$\\mathrm{if} L[i-1,j&#43;1] != 0$$ is checking $$L[1, 2]$$ that is undefined [although != 0 in python]\n<pre>&gt;&gt;&gt; a = None\n&gt;&gt;&gt; a != 0\nTrue</pre>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-08T13:13:34Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-09-08T13:13:34Z", 
+          "type": "feedback", 
+          "id": "j7bwk93d5xl5aa", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Oh, I&#39;m assuming the table is initialized with 0&#39;s. It will never be undefined. I didn&#39;t put this in the pseudocode because\u00a0I think it is an implementation detail (whether a table is initialized with 0 or null/None\u00a0really depends on the prog. language). That being said, I should have added it to avoid confusion.</p>\n<p></p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-08T13:47:49Z", 
+          "uid": "i4iys7m3lpq2ij", 
+          "created": "2017-09-08T13:47:49Z", 
+          "type": "feedback", 
+          "id": "j7bxsac9qez3vf", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I don&#39;t think it&#39;s an issue with your indexing - at\u00a0i = 2 and j = 1,\u00a0j&#43;1=i, so you never get to a portion of code that needs\u00a0L[i\u22121,j&#43;1]. From what I can tell, you never access L[i\u22121,j&#43;1]\u00a0when\u00a0L[i\u22121,j&#43;1] hasn&#39;t been &#34;visited&#34;. However, the way you have it written,\u00a0L[i\u22121,j&#43;1] will\u00a0not be set if it doesn&#39;t contain a palindrome. Since your last &#34;else if L[i-1,j&#43;1] != 0&#34; expects that\u00a0L[i\u22121,j&#43;1]=0 when it doesn&#39;t contain a palindrome, I&#39;d argue that the initialization of\u00a0L is not an implementation detail but a necessary step for your algorithm to behave predictably. It must contain 0s and not null/None/etc or you risk it being treated as a palindromic subsequence.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-08T13:58:08Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-09-08T13:58:08Z", 
+          "type": "feedback", 
+          "id": "j7by5jzu5dl3s", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Yes, I can see that. The code I wrote initializes the array, but the pseudocode doesn&#39;t. I guess I assumed that 0&#39;s are the default.</p>\n<p></p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-08T14:00:11Z", 
+          "uid": "i4iys7m3lpq2ij", 
+          "created": "2017-09-08T14:00:11Z", 
+          "type": "feedback", 
+          "id": "j7by873xpbc7ow", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>You could always add some &#34;else L[i,j]=0&#34; to the pseudocode so that initialization truly doesn&#39;t matter :)</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-08T14:01:31Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-09-08T14:01:31Z", 
+          "type": "feedback", 
+          "id": "j7by9x0x6e52hr", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>That&#39;s also true :)</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-08T14:55:58Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-09-08T14:55:58Z", 
+          "type": "feedback", 
+          "id": "j7c07xiws3m7bf", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Although given that you only really need a triangular table, it&#39;s possibly best to specify the $$L[i, i&#43;1]$$ / $$L[i - 1, i]$$ entries as length-0 palindromes specifically; incidentally, when you do that, then there&#39;s no need for the special length-2 case.\n\nAs I recall, the model answer approaches the question of that edge case subtly differently, so that is an additional useful perspective"
+        }
+      ], 
+      "subject": "<p>For HW1 (Palindrome substring), is it acceptable (from DP point of view) to create a reversed list of the original input and (re)use the longest common substring algorithm to get the answer for the palindrome?</p>\n<p>I have to admit I would not have been able to come up with the pseudo code technique used in the answer even if I could define the same sub-problem and recurrence. \u00a0I had thought checking if a specific (new) substring ending at position j is a palindrome or not is no different from calculating a value to be used in correlating to the smaller (solved) sub-problem, but &#64;160 seems to imply that is not a valid assumption. So I am trying to see if there are other more intuitive method than the\u00a0pseudo code shown in the official answer.</p>"
+    }
+  ], 
+  "nr": 198, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw1"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 6, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw1", 
+    "student"
+  ], 
+  "created": "2017-09-05T23:54:49Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145278449, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>Now that the deadline is over, is it OK to talk about our solutions to HW1?</p>\n<p></p>\n<p></p>", 
+      "anon": "no", 
+      "created": "2017-09-05T23:54:49Z", 
+      "uid": "i4nkipeofrkrz", 
+      "subject": "Is it OK to post our solutions to HW1?"
+    }
+  ]
+}

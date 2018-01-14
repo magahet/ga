@@ -1,0 +1,2345 @@
+{
+  "status": "active", 
+  "unique_views": 235, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-23T15:24:33Z", 
+      "data": "j94c20zc2l3mc", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-23T15:26:48Z", 
+      "type": "followup", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-23T15:27:25Z", 
+      "type": "feedback", 
+      "uid": "hqa65g8mcpc3gc"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-23T15:28:05Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-23T15:28:46Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-23T15:29:12Z", 
+      "type": "feedback", 
+      "uid": "hv8z1thijfq6ns"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-23T15:29:17Z", 
+      "data": "j94c841fere7i0", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-23T15:30:09Z", 
+      "data": "j94c98dn7o6gt", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-23T15:30:22Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-23T15:31:02Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-23T15:31:30Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-23T15:32:53Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-23T15:33:26Z", 
+      "data": "j94cdg5zrxo6wl", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-23T15:34:06Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-23T15:37:56Z", 
+      "type": "followup", 
+      "uid": "ija2ufzr6l0f7"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-23T15:41:47Z", 
+      "type": "followup", 
+      "uid": "hv5exp71kfz754"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-23T15:42:38Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-23T15:42:48Z", 
+      "type": "feedback", 
+      "uid": "i4gzn4buf4Q"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-23T15:46:13Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-23T15:46:29Z", 
+      "type": "feedback", 
+      "uid": "ija2ufzr6l0f7"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-23T15:47:06Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-23T15:48:45Z", 
+      "type": "feedback", 
+      "uid": "hv8z1thijfq6ns"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-23T15:49:43Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-23T15:50:09Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-23T15:51:08Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-23T15:51:24Z", 
+      "type": "followup", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-23T15:52:07Z", 
+      "type": "feedback", 
+      "uid": "hv8z1thijfq6ns"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-23T15:52:39Z", 
+      "type": "feedback", 
+      "uid": "ija2ufzr6l0f7"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-23T15:53:11Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-23T15:54:45Z", 
+      "type": "feedback", 
+      "uid": "hv8z1thijfq6ns"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-23T15:55:17Z", 
+      "type": "feedback", 
+      "uid": "hkvhtvraa6x6cg"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-23T15:57:22Z", 
+      "type": "feedback", 
+      "uid": "hkvhtvraa6x6cg"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-23T15:57:27Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-23T15:58:24Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-23T15:59:19Z", 
+      "type": "feedback", 
+      "uid": "hkvhtvraa6x6cg"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-23T15:59:43Z", 
+      "type": "feedback", 
+      "uid": "hvvxmpxfuyb2eo"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-23T16:00:08Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-23T16:01:31Z", 
+      "type": "feedback", 
+      "uid": "hvvxmpxfuyb2eo"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-23T16:01:36Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-23T16:03:00Z", 
+      "type": "followup", 
+      "uid": "ija2uf6e3vger"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-23T16:03:47Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-23T16:05:38Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-23T16:13:08Z", 
+      "type": "feedback", 
+      "uid": "hvduxyr7r4s6q7"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-23T16:14:28Z", 
+      "type": "feedback", 
+      "uid": "hvduxyr7r4s6q7"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-23T16:15:44Z", 
+      "type": "feedback", 
+      "uid": "hvduxyr7r4s6q7"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-23T16:17:40Z", 
+      "type": "followup", 
+      "uid": "i4g1simdqek6ey"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-23T16:24:33Z", 
+      "type": "followup", 
+      "uid": "i4j6x5bv5ua71n"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-23T16:24:37Z", 
+      "type": "feedback", 
+      "uid": "ij9fd7ecOTV"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-23T16:35:28Z", 
+      "type": "feedback", 
+      "uid": "hyzyc8nwswo6z5"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-23T16:41:48Z", 
+      "type": "feedback", 
+      "uid": "i4j6x8uvfv6743"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-23T16:50:16Z", 
+      "type": "feedback", 
+      "uid": "idgacgwydO0"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-23T16:55:54Z", 
+      "type": "feedback", 
+      "uid": "hv8z1thijfq6ns"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-23T16:59:13Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-23T17:07:13Z", 
+      "type": "feedback", 
+      "uid": "i4j6x5bv5ua71n"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-23T17:07:55Z", 
+      "type": "feedback", 
+      "uid": "i4kd2g0n8rw3f6"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-23T17:14:43Z", 
+      "type": "feedback", 
+      "uid": "i9jej4o7cmx14m"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-23T17:20:56Z", 
+      "type": "feedback", 
+      "uid": "i4ogin8rDC4"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-23T17:24:08Z", 
+      "type": "feedback", 
+      "uid": "i9jej4o7cmx14m"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-23T17:27:11Z", 
+      "type": "feedback", 
+      "uid": "idjrfx2fR1Z"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-23T17:34:45Z", 
+      "type": "feedback", 
+      "uid": "i4j6x5bv5ua71n"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-23T17:39:09Z", 
+      "type": "feedback", 
+      "uid": "idjrfx2fR1Z"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-23T17:47:02Z", 
+      "type": "feedback", 
+      "uid": "hyzyc8nwswo6z5"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-23T17:52:51Z", 
+      "type": "feedback", 
+      "uid": "i4k05w06D2B"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-23T18:17:57Z", 
+      "type": "feedback", 
+      "uid": "iddox7abejr2mj"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-23T18:26:23Z", 
+      "type": "feedback", 
+      "uid": "hv5exp71kfz754"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-23T18:38:32Z", 
+      "type": "feedback", 
+      "uid": "hkvhtvraa6x6cg"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-23T19:01:53Z", 
+      "type": "feedback", 
+      "uid": "ijarmqggjkc3gz"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-23T19:43:26Z", 
+      "type": "feedback", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-23T19:49:18Z", 
+      "type": "feedback", 
+      "uid": "iddrzkhbzfnd3"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-23T19:58:48Z", 
+      "type": "feedback", 
+      "uid": "hq9zldzvy63w7"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-23T21:02:18Z", 
+      "type": "feedback", 
+      "uid": "idjrfx2fR1Z"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-23T21:10:21Z", 
+      "type": "feedback", 
+      "uid": "is52ojuybmv5er"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-23T21:32:54Z", 
+      "type": "feedback", 
+      "uid": "hqa9hei3ww2gk"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-23T21:42:59Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-23T22:02:00Z", 
+      "type": "feedback", 
+      "uid": "hve4kb0lopy4sl"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-23T22:31:19Z", 
+      "type": "feedback", 
+      "uid": "idgauptz2ou3po"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-24T01:38:44Z", 
+      "type": "feedback", 
+      "uid": "i4fxg6tfzh211n"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-24T01:58:44Z", 
+      "type": "feedback", 
+      "uid": "iddoxdl8kz72oc"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-24T13:27:41Z", 
+      "type": "followup", 
+      "uid": "i8597qyse9c1v2"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-24T13:39:13Z", 
+      "type": "feedback", 
+      "uid": "i8597yy2i2f1z6"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-24T14:31:14Z", 
+      "type": "feedback", 
+      "uid": "hve4kb0lopy4sl"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-24T14:35:27Z", 
+      "type": "feedback", 
+      "uid": "hve4kb0lopy4sl"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-24T14:57:24Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-24T15:38:45Z", 
+      "type": "feedback", 
+      "uid": "idgauptz2ou3po"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-24T15:51:22Z", 
+      "type": "feedback", 
+      "uid": "i4j6x5bv5ua71n"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-24T16:09:03Z", 
+      "type": "feedback", 
+      "uid": "i4ijgkcwkz15lx"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-24T17:12:40Z", 
+      "type": "feedback", 
+      "uid": "i4j6x5bv5ua71n"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-24T17:48:52Z", 
+      "type": "feedback", 
+      "uid": "i4gzn4buf4Q"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-24T18:42:23Z", 
+      "type": "followup", 
+      "uid": "i4j6x4gsbrz70z"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-24T18:45:39Z", 
+      "type": "feedback", 
+      "uid": "ija2ufzr6l0f7"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-24T18:48:10Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-25T00:51:16Z", 
+      "type": "feedback", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-25T00:53:06Z", 
+      "type": "feedback", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-25T00:57:27Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j94c20z3oo33m9", 
+      "anon": "no", 
+      "when": "2017-10-25T06:37:56Z", 
+      "type": "feedback", 
+      "uid": "i4hdvab632i522"
+    }
+  ], 
+  "id": "j94c20z3oo33m9", 
+  "bookmarked": 35, 
+  "tags": [
+    "exam", 
+    "student"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-10-23T15:26:48Z", 
+      "no_upvotes": 0, 
+      "uid": "hvil6y6khgk2ri", 
+      "created": "2017-10-23T15:26:48Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j94c4wvl3622hd", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-23T15:27:25Z", 
+          "uid": "hqa65g8mcpc3gc", 
+          "created": "2017-10-23T15:27:25Z", 
+          "type": "feedback", 
+          "id": "j94c5pr7rh739f", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Seconded</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T15:28:05Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-10-23T15:28:05Z", 
+          "type": "feedback", 
+          "id": "j94c6kettnr3rp", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I will try to add</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T15:28:46Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-10-23T15:28:46Z", 
+          "type": "feedback", 
+          "id": "j94c7g63f4e4ug", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>NVM I dont know how to edit these things and dont want to screw up Santiagos poll</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T15:29:12Z", 
+          "uid": "hv8z1thijfq6ns", 
+          "created": "2017-10-23T15:29:12Z", 
+          "type": "feedback", 
+          "id": "j94c7zzvqkt7fj", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Struggled to understand what #1 was asking... was there a typo in the question?\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T15:30:22Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-10-23T15:30:22Z", 
+          "type": "feedback", 
+          "id": "j94c9hzth5f12o", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Added a new option. Fixed the first option.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T15:31:02Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-10-23T15:31:02Z", 
+          "type": "feedback", 
+          "id": "j94cad5fhum6he", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>thanks!</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T15:31:30Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-10-23T15:31:30Z", 
+          "type": "feedback", 
+          "id": "j94cayn2ptr6xa", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>wait did you mean &#34;I struck out 1-2 questions but feel confident in the rest&#34;?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T15:32:53Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-10-23T15:32:53Z", 
+          "type": "feedback", 
+          "id": "j94ccqo1mtm3b1", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I guess... 1 or 2 questions wrong, but the rest is pretty good.\u00a0</p>\n<p></p>\n<p>Gosh, I suck at these polls :)</p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T15:34:06Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-10-23T15:34:06Z", 
+          "type": "feedback", 
+          "id": "j94ceauq7fv1h7", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Naw, thanks for making it!</p>"
+        }
+      ], 
+      "subject": "<p>Can we add a degree between &#39;some mistakes&#39; and &#39;its not looking good&#39;?<br /><br />I think I screwed up #2 royally, but otherwise I did OK.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-23T15:37:56Z", 
+      "no_upvotes": 0, 
+      "uid": "ija2ufzr6l0f7", 
+      "created": "2017-10-23T15:37:56Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j94cj879j663db", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-23T15:42:38Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-10-23T15:42:38Z", 
+          "type": "feedback", 
+          "id": "j94cpag7dzz507", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I was also scared at the beginning. I left Problem 1 to the end. Fortunately, I found (and wrote) the answer with 30 seconds to spare /:)</p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T15:42:48Z", 
+          "uid": "i4gzn4buf4Q", 
+          "created": "2017-10-23T15:42:48Z", 
+          "type": "feedback", 
+          "id": "j94cphol6471d9", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I skipped 1, skipped 2, did 3, did 4, went back to 2\u00a0 and did 2.\u00a0 Then I sat there staring at #1 for a long time (probably murmuring some choice words to myself).\u00a0 Not because I didn&#39;t know how to use max flows, but because I was trying to figure out WTF a Bipartite graph was...\u00a0 It would have been much more understandable as a question if there was a clean definition of what that was (at least for me).</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T15:46:13Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-10-23T15:46:13Z", 
+          "type": "feedback", 
+          "id": "j94ctvyv7bs3o", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I had the same issue! What&#39;s funny is that, while studying, I purposely skip the section in the book that talks about Bipartite. Exactly what we needed in the exam, right there in the book! But of course, I didn&#39;t read that so I had to come with the solution by myself. The red-dotted lines threw me off because I wasn&#39;t sure whether those were edges in the graph, or edges that we needed to add to the graph. Anyway, I ended up assuming the right thing and thanks to that, I found the solution.</p>\n<p></p>\n<p>I first completed #4, then #3, then #2, and finally #1.</p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T15:46:29Z", 
+          "uid": "ija2ufzr6l0f7", 
+          "created": "2017-10-23T15:46:29Z", 
+          "type": "feedback", 
+          "id": "j94cu890wx650b", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Just by adding node s with capacity 1 to all As, and add t to connected all Bs, also with capacity 1, will solve the problem...In that half an hour, I was even thinking about some MST transfer to modify the graph...Timed exams won&#39;t be that hard...</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T15:48:45Z", 
+          "uid": "hv8z1thijfq6ns", 
+          "created": "2017-10-23T15:48:45Z", 
+          "type": "feedback", 
+          "id": "j94cx50juc02ku", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Yea I found that out way too late.. was able to answer part A, but not enough time for the remainder of it :( ... Also there was some choice wordings of something like &#34;is incident&#34;-- which I completely was lost on for &#43;20 min.\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T15:49:43Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-10-23T15:49:43Z", 
+          "type": "feedback", 
+          "id": "j94cye9e8ez3du", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>The &#34;incident&#34; word killed me. Then I thought it was my poor English vocabulary. I&#39;m glad I wasn&#39;t the only one ;)</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T15:52:07Z", 
+          "uid": "hv8z1thijfq6ns", 
+          "created": "2017-10-23T15:52:07Z", 
+          "type": "feedback", 
+          "id": "j94d1hg1ul92ux", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Yes- I still feel there may have been a question typo in the phrasing. Either missing a word, or meant to say &#34;is in&#34; or something else.. I reread that question multiple times and &#34;incident&#34; just didn&#39;t seem to fit\u00a0in that context.</p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T15:52:39Z", 
+          "uid": "ija2ufzr6l0f7", 
+          "created": "2017-10-23T15:52:39Z", 
+          "type": "feedback", 
+          "id": "j94d265db8443o", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Don&#39;t you find Eric always\u00a0like using\u00a0some GRE words in\u00a0the video or in the problem descriptions? That enriches my vocabulary...and\u00a0brings scary atmosphere during the exam.\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T15:55:17Z", 
+          "uid": "hkvhtvraa6x6cg", 
+          "created": "2017-10-23T15:55:17Z", 
+          "type": "feedback", 
+          "id": "j94d5jrmot4xn", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Did #1. Had any idea for #2, but skipped it. Did #3 and #4 then finished up #2.</p>\n<p></p>\n<p>I think #2 was definitely the hardest.\u00a0</p>\n<p></p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T15:58:24Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-10-23T15:58:24Z", 
+          "type": "feedback", 
+          "id": "j94d9k4iyft7f1", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>What was #2 again?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T15:59:19Z", 
+          "uid": "hkvhtvraa6x6cg", 
+          "created": "2017-10-23T15:59:19Z", 
+          "type": "feedback", 
+          "id": "j94daqp9cirt", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>It was finding the MST from a MST when the weight of one edge is changed that isn&#39;t in the original MST.</p>\n<p></p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T15:59:43Z", 
+          "uid": "hvvxmpxfuyb2eo", 
+          "created": "2017-10-23T15:59:43Z", 
+          "type": "feedback", 
+          "id": "j94db9crmod1oe", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Same problem. Was damn scared looking at 1. I too skipped reading bipartite:(. Luckily kept last 45 mins to read the question with a calm mind. I came up with the solution with a min left.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T16:01:36Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-10-23T16:01:36Z", 
+          "type": "feedback", 
+          "id": "j94ddo6ucz70g", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>The MST was tricky, yes.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T16:03:47Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-10-23T16:03:47Z", 
+          "type": "feedback", 
+          "id": "j94dghk37va6i6", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "For me, by far the hardest thing about #2 was trying to decide how to phrase my use of the black-box algorithm that I used so that it would not be viewed as a modification."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T16:13:08Z", 
+          "uid": "hvduxyr7r4s6q7", 
+          "created": "2017-10-23T16:13:08Z", 
+          "type": "feedback", 
+          "id": "j94dshvljlu67f", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#34;Incident&#34; messed me up. I stared at that for ten minutes. I kept seeing the reflection of my confused face in the corner video. It clicked eventually, but I thought it could have been a little clearer.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T16:35:28Z", 
+          "uid": "hyzyc8nwswo6z5", 
+          "created": "2017-10-23T16:35:28Z", 
+          "type": "feedback", 
+          "id": "j94el80o3p36ex", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>The MST problem had like 4 different cases that I came up with that had to be considered, but I struggled organizing/communicating how to handle each case.\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T16:41:48Z", 
+          "uid": "i4j6x8uvfv6743", 
+          "created": "2017-10-23T16:41:48Z", 
+          "type": "feedback", 
+          "id": "j94etdhpitl6el", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Yeah I could not figure out if the dotted lines were actually part of the graph or not.\u00a0"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T16:59:13Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-10-23T16:59:13Z", 
+          "type": "feedback", 
+          "id": "j94ffrbl60m170", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Actually that was one little tweak that I thought could have been clearer (well actually, two).<br /><br />In #1 it was not apparent to me, at first, if the dotted lines were new and OVERLAYED to the black ones or if they were simply highlighted. ALSO, for all hw I saw (I think) we used the word &#39;adjacent&#39; and not &#39;incident&#39; (and not sure if we used the term &#39;degree anywhere but I think I do remember seeing it somewhere).<br /><br />I knew the terms as I have (sort of) done graph problems before, but I dont remember those terms used in any hw problem.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T17:07:55Z", 
+          "uid": "i4kd2g0n8rw3f6", 
+          "created": "2017-10-23T17:07:55Z", 
+          "type": "feedback", 
+          "id": "j94fqycv2b8728", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "incident killed me too. Kept staring at it for a long time."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T17:14:43Z", 
+          "uid": "i9jej4o7cmx14m", 
+          "created": "2017-10-23T17:14:43Z", 
+          "type": "feedback", 
+          "id": "j94fzpj6gl16i1", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I also stressed on problem 1 for a very long time, and I overthought it to the point where I ended up with some ridiculous answer that is almost certainly not correct. I hope I get a couple points credit but we&#39;ll see. I felt pretty good about 2, 3, and 4 though.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T17:20:56Z", 
+          "uid": "i4ogin8rDC4", 
+          "created": "2017-10-23T17:20:56Z", 
+          "type": "feedback", 
+          "id": "j94g7ovuiwx5s1", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#43;1 on being confused by the &#34;incident&#34; phrasing.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T21:10:21Z", 
+          "uid": "is52ojuybmv5er", 
+          "created": "2017-10-23T21:10:21Z", 
+          "type": "feedback", 
+          "id": "j94oeq1wkuq2n5", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>had no idea what incident meant.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T21:32:54Z", 
+          "uid": "hqa9hei3ww2gk", 
+          "created": "2017-10-23T21:32:54Z", 
+          "type": "feedback", 
+          "id": "j94p7pumybf6qs", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#43;1 I really confused myself with what &#34;incident&#34; meant and the wording confused me along with the diagram, kicked myself after I realized what was meant by looking in the textbook (in the one section I didn&#39;t read) \u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T21:42:59Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-10-23T21:42:59Z", 
+          "type": "feedback", 
+          "id": "j94pkordu1d4lt", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "When my employer had a company in Russia do our QA work, I got in the habit of reviewing my writing to them to ensure that I was using words, idioms, or grammar that they had less chance of understanding. I probably wouldn&#39;t have used &#34;incident&#34; for that reason."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T22:31:19Z", 
+          "uid": "idgauptz2ou3po", 
+          "created": "2017-10-23T22:31:19Z", 
+          "type": "feedback", 
+          "id": "j94raufzeu63i", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Problem 1 and its solution are described in the book, section 7.3.\u00a0<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-24T01:38:44Z", 
+          "uid": "i4fxg6tfzh211n", 
+          "created": "2017-10-24T01:38:44Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j94xzv3pfva3g4", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "&#43;1 on staring at \u201cincident\u201d without knowing what it meant (I blame my English as a second language)"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-24T01:58:44Z", 
+          "uid": "iddoxdl8kz72oc", 
+          "created": "2017-10-24T01:58:44Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j94ypl0bmmb6de", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#43;1 totally tricked by the phrasing of question. Stuck there for 30 minuts and still as i read through the question, i thought the black line of the original flow already there, the red line was the new flow need to be added. Otherwise question 1 would not be a hard problem to solve...\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-24T14:57:24Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-10-24T14:57:24Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j95qiz272to5r1", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Man, does it seem like many had a problem with the term &#39;incident&#39; (and I am guessing, to a lesser extent, &#39;degree&#39;).<br /><br />I would humbly request that for future iterations, the term &#39;incident&#39; replaces the term &#39;adjacent&#39; in at least one hw problem; that way the astute can pick up on the terminology (I knew it from my time in CCA, but am betting at least half the class did not take CCA) or at least question it there (and have it figured out come test time).</p>"
+        }
+      ], 
+      "subject": "<p>After finished the other 3 problems, I was sitting there, looking at problem 1 for about half an hour. Suddenly I found myself thinking too much and the problem\u00a0was actually not hard...</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-23T15:41:47Z", 
+      "no_upvotes": 0, 
+      "uid": "hv5exp71kfz754", 
+      "created": "2017-10-23T15:41:47Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j94co6mzdhm4ba", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-23T15:47:06Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-10-23T15:47:06Z", 
+          "type": "feedback", 
+          "id": "j94cv169w5tqz", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I think that most people that will drop the class will do it now after Exam 2.\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T15:50:09Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-10-23T15:50:09Z", 
+          "type": "feedback", 
+          "id": "j94cyyb0s608j", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "And the deadline for dropping with a &#39;W&#39; is almost here."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T15:51:08Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-10-23T15:51:08Z", 
+          "type": "feedback", 
+          "id": "j94d07x6sbr1gr", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Yup, that&#39;s why people that didn&#39;t do good on Exam 1 are probably holding until Exam 2. If you didn&#39;t do good on Exam 1 and Exam 2, then you are probably considering dropping.</p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T15:54:45Z", 
+          "uid": "hv8z1thijfq6ns", 
+          "created": "2017-10-23T15:54:45Z", 
+          "type": "feedback", 
+          "id": "j94d4v2l3vk5h5", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Hope they can get grades out in time, and I would like to understand how they map in terms of the curve. I know he said curve was not based on other&#39;s performance, but if that were truly the case then he wouldn&#39;t have to wait until end of semester to figure out the cutoffs. I did better than average on test 1, and likely on test 2, but I&#39;m struggling between deciding to stay or drop myself at this rate considering we don&#39;t know what the end will bring.</p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T15:57:22Z", 
+          "uid": "hkvhtvraa6x6cg", 
+          "created": "2017-10-23T15:57:22Z", 
+          "type": "feedback", 
+          "id": "j94d88jbbol6ti", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p></p>\n<p>Vincent - As a heuristic, I basically won&#39;t drop a course if I&#39;m above the median for all the tests.</p>\n<p></p>\n<p>It hasn&#39;t failed me yet.\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T15:57:27Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-10-23T15:57:27Z", 
+          "type": "feedback", 
+          "id": "j94d8bxj1kn6h8", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>If you did &#34;better than average&#34;, I&#39;d assume you are on track for a B. Combine that with a strong project, and you should be good. I find hard to believe that more than half a class will get a C.</p>\n<p></p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T16:14:28Z", 
+          "uid": "hvduxyr7r4s6q7", 
+          "created": "2017-10-23T16:14:28Z", 
+          "type": "feedback", 
+          "id": "j94du7tfrkgyr", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>The median heuristic is solid I would say</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T17:24:08Z", 
+          "uid": "i9jej4o7cmx14m", 
+          "created": "2017-10-23T17:24:08Z", 
+          "type": "feedback", 
+          "id": "j94gbtjmqr86n9", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>In the event that I might not\u00a0do well enough to get a B, and considering this is my last class, is there any point to dropping? Meaning is a W now plus guaranteed trying again next semester any better or worse than riding it til the end, even if I get C or worse but possibly passing, and then having to try again next semester?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T17:47:02Z", 
+          "uid": "hyzyc8nwswo6z5", 
+          "created": "2017-10-23T17:47:02Z", 
+          "type": "feedback", 
+          "id": "j94h591zioc1ko", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Depends how much you care about your GPA I suppose. I&#39;m in a similar case as you, but am going to try my hardest to do as well as I can, and then re-take it if I have to.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T18:17:57Z", 
+          "uid": "iddox7abejr2mj", 
+          "created": "2017-10-23T18:17:57Z", 
+          "type": "feedback", 
+          "id": "j94i90z99yg1sl", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I am with you John and Zack... the GPA may drop a bit if we get a C or D this time.... and if I have to retake it in the next semester, then at-least I will have knowledge on the topics and hopefully it may be easier next time. I will try my best and plan go till the end....:)</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T18:26:23Z", 
+          "uid": "hv5exp71kfz754", 
+          "created": "2017-10-23T18:26:23Z", 
+          "type": "feedback", 
+          "id": "j94ijv1uv1e40m", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I&#39;m in it until the end.\u00a0 I feel like I understand the material.\u00a0 If I don&#39;t get a B this round, then another semester definitely seems like it wouldn&#39;t be too bad.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T19:01:53Z", 
+          "uid": "ijarmqggjkc3gz", 
+          "created": "2017-10-23T19:01:53Z", 
+          "type": "feedback", 
+          "id": "j94jtix1loa4s9", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p></p>\n<p>Course intro &#64;8 : 347 views (100%)<br />Exam 1 info &#64;293 : 340 views (98%)<br />Exam 2 info &#64;752 : 286 views (82%)</p>"
+        }
+      ], 
+      "subject": "<p>Preparing for the exam, I looked for and worked some max-flow problems that solved some different real world problems.\u00a0 Had I not done that, I would probably not have answered #1 right.</p>\n<p></p>\n<p>Any idea how many people are still enrolled in the class?</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-23T15:51:24Z", 
+      "no_upvotes": 0, 
+      "uid": "hq8hn0qyfuvyr", 
+      "created": "2017-10-23T15:51:24Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j94d0jqifnb1at", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-23T15:53:11Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-10-23T15:53:11Z", 
+          "type": "feedback", 
+          "id": "j94d2uou63h318", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Lol. I always print 2 copies of the template the night before and add the name to the pages right then.\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T16:00:08Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-10-23T16:00:08Z", 
+          "type": "feedback", 
+          "id": "j94dbs2z6dv23d", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "I did that for exam 1, but for some reason didn&#39;t think of it this time. I noticed that problem after I had uploaded the scan, but I remembered that we were told that if we showed the papers to the camera, we should under no circumstances add anything afterward, and I think they even gave the example of adding one&#39;s name!"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T16:01:31Z", 
+          "uid": "hvvxmpxfuyb2eo", 
+          "created": "2017-10-23T16:01:31Z", 
+          "type": "feedback", 
+          "id": "j94ddkl7txl4hw", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I dont think writing name matters anyway (hopefully:-)), since only your gradescope has your handwritten upload.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T16:15:44Z", 
+          "uid": "hvduxyr7r4s6q7", 
+          "created": "2017-10-23T16:15:44Z", 
+          "type": "feedback", 
+          "id": "j94dvuj7eef1yn", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I purposely did NOT write my name. I always think it&#39;s better to grade blindly. Now, my name may pop up in big bold letters across the top of the screen for the grader in gradescope, but I figured I might as well try and keep some anonymity.</p>"
+        }
+      ], 
+      "subject": "You should add an option to the poll for &#34;Forgot to write your name on pages.&#34; I hope they don&#39;t decide to make some kind of example out of me."
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-23T16:03:00Z", 
+      "no_upvotes": 0, 
+      "uid": "ija2uf6e3vger", 
+      "created": "2017-10-23T16:03:00Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j94dfh26l6o4gd", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-23T16:05:38Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-10-23T16:05:38Z", 
+          "type": "feedback", 
+          "id": "j94diuyx4ir6f4", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>This has me scared as well.\u00a0 I am not sure if the &#39;all or nothing&#39; pertains to just 2.b or if it was 2.a as well...</p>"
+        }
+      ], 
+      "subject": "<p>Somewhat hesitant to throw my hat into\u00a0this poll because I&#39;m not really sure how efficient my algorithm choices were.</p>\n<p>I think most of the time was spent second-guessing if the algorithms I wrote could be made faster. :-&lt;\u00a0</p>\n<p></p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-23T16:17:40Z", 
+      "no_upvotes": 0, 
+      "uid": "i4g1simdqek6ey", 
+      "created": "2017-10-23T16:17:40Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j94dyc1h4zi3p5", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-23T16:24:37Z", 
+          "uid": "ij9fd7ecOTV", 
+          "created": "2017-10-23T16:24:37Z", 
+          "type": "feedback", 
+          "id": "j94e79nz1uk58g", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Same, had trouble interpreting the given figure. Only after the test and googling some stuff did I realize that the dashed lines are edges in <em><strong>both</strong></em>\u00a0the\u00a0bipartite and perfect matching graphs. It didn&#39;t click during the test and I thought it only applied to the perfect matching...</p>"
+        }
+      ], 
+      "subject": "<p>I full skipped the first problem. I had no idea what a bipartite graph was or incident one edge was. I was able to figure out what a bipartite graph was during the test, but was still stuck on &#34;incident one edge.&#34; I think I did okay on the rest. A few silly mistakes, but silly mistakes can still be marked off quite a bit.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-23T16:24:33Z", 
+      "no_upvotes": 0, 
+      "uid": "i4j6x5bv5ua71n", 
+      "created": "2017-10-23T16:24:33Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j94e76j3v2i2q9", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-23T16:50:16Z", 
+          "uid": "idgacgwydO0", 
+          "created": "2017-10-23T16:50:16Z", 
+          "type": "feedback", 
+          "id": "j94f493fel96ix", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Mhmmm.. Adding any edge to an MST will create a cycle</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T16:55:54Z", 
+          "uid": "hv8z1thijfq6ns", 
+          "created": "2017-10-23T16:55:54Z", 
+          "type": "feedback", 
+          "id": "j94fbi7vu11bb", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>It is a bit frustrating that the whole course grade really comes down to 4 tests (~ 16 ish questions total?).. The 10% project is somewhat of a gimme, and the HW is not really impactful. I think this course (as well as the previous CS6505) would of had much better student success if the class wasn&#39;t so biased towards performances on short tests.</p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T17:07:13Z", 
+          "uid": "i4j6x5bv5ua71n", 
+          "created": "2017-10-23T17:07:13Z", 
+          "type": "feedback", 
+          "id": "j94fq1wwrr417k", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Yes exactly. I understand it makes grading easier, but the goal of testing should be to maximize the correlation between knowledge of the student and the grade received (it should accurately reflect your knowledge). I don&#39;t think this scheme really does that. For example, I&#39;ll probably get very little credit for the MST problem since my answer was clearly wrong, but I had most of the insights necessary to answer it properly.\n\nI know that&#39;s the convention with these kind of classes though."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T17:27:11Z", 
+          "uid": "idjrfx2fR1Z", 
+          "created": "2017-10-23T17:27:11Z", 
+          "type": "feedback", 
+          "id": "j94gfqr5n2h4bq", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>While I do\u00a0prefer classes with tons of workload but no midterm (as in BDH), I admit the two midterms so far are very well thought out. By that, I mean they are not extremely\u00a0difficult (like\u00a0the HPC exams) and not overly easy which makes the course sketchy. The exams really\u00a0forced me to absorb and apply the stuff. I feel like the retention rate is higher since I&#39;m still remembering\u00a0most of the problems and answers from exam 1, lol.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T17:34:45Z", 
+          "uid": "i4j6x5bv5ua71n", 
+          "created": "2017-10-23T17:34:45Z", 
+          "type": "feedback", 
+          "id": "j94gpgvuriw3su", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Don&#39;t get me wrong! I definitely think the questions are the perfect level of difficulty, and provide the right incentives to really understand the material. I prefer the heavier workload, project based classes as well, though I think having exams really forces you to deeply understand the material. \n\nI&#39;m just suggesting it could be improved by not having the course grade weighted so heavily on a small number of questions. That is, if we assume the goal is for the test to reflect the student&#39;s understanding."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T17:39:09Z", 
+          "uid": "idjrfx2fR1Z", 
+          "created": "2017-10-23T17:39:09Z", 
+          "type": "feedback", 
+          "id": "j94gv4g5iqj1wc", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>True dat, it does feel like walking on thin ice. Maybe he mitigated it by\u00a0giving out more exams than usual, LOL.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T17:52:51Z", 
+          "uid": "i4k05w06D2B", 
+          "created": "2017-10-23T17:52:51Z", 
+          "type": "feedback", 
+          "id": "j94hcqo3rc63dk", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I don&#39;t really mind it being focused on tests but I wish the homework were worth more. At 5% it just seems like each assignment is a nuance even though I know it would help with my understanding of the material, I have a hard time forcing myself to do it.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T18:38:32Z", 
+          "uid": "hkvhtvraa6x6cg", 
+          "created": "2017-10-23T18:38:32Z", 
+          "type": "feedback", 
+          "id": "j94izhsh8f421e", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "I rather have most of my grade come from tests.\n\nIt&#39;s much easier for me to focus on three exams, rather than stress out to get 10 assignments done by arbitrary deadlines."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T19:43:26Z", 
+          "uid": "i4ket0u1z5q31a", 
+          "created": "2017-10-23T19:43:26Z", 
+          "type": "feedback", 
+          "id": "j94lay1f8mh59l", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I wish none of my grade came from tests and 100% came from doing coding projects.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T19:49:18Z", 
+          "uid": "iddrzkhbzfnd3", 
+          "created": "2017-10-23T19:49:18Z", 
+          "type": "feedback", 
+          "id": "j94lihq31nc249", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>^ agreed</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T19:58:48Z", 
+          "uid": "hq9zldzvy63w7", 
+          "created": "2017-10-23T19:58:48Z", 
+          "type": "feedback", 
+          "id": "j94lupgxei75om", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<div>This is my one issue with exams at this level. \u00a0I cannot offer a solution for our instructors to test knowledge without an exam or a better method for exams. \u00a0</div><div><br /></div><div>At work, I am not provided 30 minutes to write a design for software architecture. \u00a0There are certainly mistakes made in 30 minutes (certainly had several on exam2 that I would have corrected after the exam). \u00a0Every project could take days to solution and document. \u00a0Those solutions are going to be discussed with a team before handed over to implement. \u00a0</div><div><br /></div><div>It isn\u2019t about memory, but about knowing how to research. \u00a0Yet, we couldn\u2019t know how to perform that research without these classes. I am still not going to quote F-F or E-K from memory before double checking on Google. \u00a0</div><div>\u00a0</div>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T21:02:18Z", 
+          "uid": "idjrfx2fR1Z", 
+          "created": "2017-10-23T21:02:18Z", 
+          "type": "feedback", 
+          "id": "j94o4dab35z1sp", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I wish everyone thinks that way, but the interviews I&#39;m going through\u00a0do assume a lot was committed to memory. I\u00a0guess it is true for senior people who already have a software jobs, but not quite for noobs like me.\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T22:02:00Z", 
+          "uid": "hve4kb0lopy4sl", 
+          "created": "2017-10-23T22:02:00Z", 
+          "type": "feedback", 
+          "id": "j94q95885bq4ew", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I fully agree with these comments and as likely one of the older students in this class (30 yrs in the industry), I can say with certainty that the real world is not about having to rush through 4 algorithms in 2 hours....if that was the way stuff worked in computer companies, everything would be broken. But I also do understand that without exams, there is no way to demonstrate knowledge either. In all my omscs courses I have trouble on the exams and a lot of it is time mgmt related (which is why I have heavily depended on projects to balance the grade-and\u00a0 the projects ARE like the real CS world)...its because I have to spend 20-30 minutes pondering over the questions before I can even get started writing anything. \u00a0 I also did them backwards...or maybe it was like 3-4-2-1 iirc.\u00a0 But I barely finished writing my first draft when time ran out, didn&#39;t have time to double check anything and probably didn&#39;t do very well..again...a much different environment than the HW where you can put in a lot of deep thought.\u00a0 I felt that I studied so much material and then the exam was only able to cover about 10-15% of what I had studied.\u00a0 Although its a good thing that #1 had the hint about using max flow reduction or I would have left it blank so maybe I did relatively ok on that one based on some of these comments.\u00a0 I hope we get graded on general high level concepts and not the level of detail that was required in the homeworks.\u00a0 Because for those it probably takes me an average of 2 hours just to figure out 1 problem.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-24T13:39:13Z", 
+          "uid": "i8597yy2i2f1z6", 
+          "created": "2017-10-24T13:39:13Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j95nqffg5718t", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>It is interesting to read different perspectives like this. I have always thought of Computer Science as something that is different from Software Engineering. But it seems like my opinion is in the minority.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-24T14:31:14Z", 
+          "uid": "hve4kb0lopy4sl", 
+          "created": "2017-10-24T14:31:14Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j95plbe96wwvo", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I think you are right that there is a distinction between them, just that most people who end up following the money trail in their careers will likely end up in some offshoot of CS.\u00a0 For example, after my BSCS I spent about 7 years in a software engineering company and then moved into networking/telecommunications which does have components of both CS and SE but not in their purebred/idealistic forms either. I think my main point about these types of exams is if I had time to do more than one pass, I would have done a much better job.\u00a0 And age factors into that too.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-24T15:38:45Z", 
+          "uid": "idgauptz2ou3po", 
+          "created": "2017-10-24T15:38:45Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j95s055ar161fv", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>One of my professors back in my undergraduate days said something like &#34;If you just want to learn how to program, you can go to [the local technical-vocational school]; but if you want to learn how to design software, then you take Computer Science.&#34;</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-24T15:51:22Z", 
+          "uid": "i4j6x5bv5ua71n", 
+          "created": "2017-10-24T15:51:22Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j95sgd03j8v1ij", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "I don&#39;t know that I agree about computer science being associated with design. But that&#39;s more of a semantics thing on the meaning of design. When I think of design, I think of macro-scale coding decisions/architecture. How do you define a user friendly API, how can you make the code robust. \n\nMost computer science courses focus on the implementation details side of things (what&#39;s the OPTIMAL way to implement this idea). For example, I can have an API similar to a traditional Map where all operations run in O(n) time, and I&#39;d say the consumer facing design can still be good, but the implementation would be a bit lacking (since we could use hashing get to O(1))\n\nIn my experience, the most important factor differentiating people in the &#34;real world&#34; is the ability to write quality code, which is something not emphasized in school so much (have you ever been graded on the quality of your code here?). That will of course depend on the role, as some research oriented ones will lean more towards computer science fundamentals."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-24T16:09:03Z", 
+          "uid": "i4ijgkcwkz15lx", 
+          "created": "2017-10-24T16:09:03Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j95t33oz4oe4hw", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>How do you write quality code, if\u00a0</p>\n<p>- you do not know how to think about the edge cases</p>\n<p>- using the right data structure</p>\n<p>- using the right algorithm</p>\n<p>- modifying the current algorithm to solve the problem</p>\n<p>- modifying the existing problem to solve with existing tools as black box</p>\n<p></p>\n<p>Quality code is just not about readable code. Its also about efficiency, using the right tool for the trade. Imagine solving something in O(n) when O(log(n)) solution exists. So as your n increases, you just keep throwing more resources at it to solve the problem.\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-24T17:12:40Z", 
+          "uid": "i4j6x5bv5ua71n", 
+          "created": "2017-10-24T17:12:40Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j95vcx5z2021w7", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "I was talking specifically about code &#34;design&#34;, which generally entails consumer (of the API) facing concerns, not implementation details. You&#39;re mainly discussing implementation details. Whether I implement a Map with O(n) or O(1) performance characteristics, it doesn&#39;t affect the API. &#34;Quality&#34; is an overly broad term, so I don&#39;t think it&#39;s useful to discuss. Of course code that runs in O(n^2) is &#34;less quality&#34; than one in O(n) if both implementations are straightforward.\n\nMy point was that, in the current world the bulk of what matters in software development is the ability to write well structured code without technical debt. This is mostly orthogonal with computer science and the things you learn in school. That doesn&#39;t mean the information isn&#39;t useful, just it&#39;s relatively less valuable when considering employability. I interview people from top CS schools all the time that can solve algorithm problems but can&#39;t code in any meaningful way outside of that.\n\nThat being said, it&#39;s entirely role dependent. While 90% of software out there is CRUD apps, there are roles where you&#39;re implementing something novel and a strong grasp on computer science fundamentals is 100% necessary and important."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-24T17:48:52Z", 
+          "uid": "i4gzn4buf4Q", 
+          "created": "2017-10-24T17:48:52Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j95wngyls7y4pn", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Hey Dimitri, I&#39;d give you a run for your money on the oldness factor :-)...</p>\n<p></p>\n<p>While I do agree that in a day job in the software world, you won&#39;t be solving problems in 2 hours (well, not all the time, anyway), for an exam, the level of depth of understanding will impact how long it takes you to solve the problem.\u00a0\u00a0 When you really know the topic, you can solve the problems much faster.</p>\n<p></p>\n<p>The problems that we are solving here are generally much simpler than the problems you face in your day job (much more constrained at least) and are driven around the student being able to recognize the type of the problem and apply solutions we learned about.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-25T00:51:16Z", 
+          "uid": "i4ket0u1z5q31a", 
+          "created": "2017-10-25T00:51:16Z", 
+          "type": "feedback", 
+          "id": "j96bqokc7g82av", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I can solve the problems fast and still make stupid mistakes that cause a failing grade but would easily have been caught in the real world with some unit tests.</p>"
+        }
+      ], 
+      "subject": "Kind of annoyed because I realized I made lots of small mistakes as I was scanning it. My strategy for time allocation is pretty bad for this class... need to allocate more time for checking before submitting. While the type of questions are fair, and I think I&#39;ll probably beat the average, I don&#39;t see the point of having the course grade reflect a handful of questions. Throw in some multiple choice or short answer to make the results less spikey. I really appreciated that section on exam 1.\n\nJust writing the answers by hand took the majority of my time, had very little time to think about anything.\n\nI believe I only got the MST question wrong, and I&#39;m annoyed because I knew that adding the edge would create a cycle but I wasn&#39;t making the connection that we could remove any link in the cycle, I was thinking along the lines of how to detect the other edge of the cut in that cycle. In the end I put something totally crazy down about disconnecting the existing edges and graph into two connected components and reselecting the edge (though my algorithm could have created more than two components. In which case it wouldn&#39;t work)"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-24T13:27:41Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "i8597qyse9c1v2", 
+      "created": "2017-10-24T13:27:41Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j95nbl2krlf5z1", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-24T14:35:27Z", 
+          "uid": "hve4kb0lopy4sl", 
+          "created": "2017-10-24T14:35:27Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j95pqq5wr2v4nm", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#43;1 -&gt; really easy to overthink these types of questions and this exam did seem more front loaded as you can see from a lot of folks saving #1 for the end</p>"
+        }
+      ], 
+      "subject": "<p>I did problem number 1 right off the bat, and was like, ok this was not such an easy problem. Then I went into the rest of the exam thinking, what is the trick with these other questions and probably created extra complexities for everything else ;(</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-24T18:42:23Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "i4j6x4gsbrz70z", 
+      "created": "2017-10-24T18:42:23Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j95ykaj9ant48p", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-24T18:45:39Z", 
+          "uid": "ija2ufzr6l0f7", 
+          "created": "2017-10-24T18:45:39Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j95yohoq80p1mr", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Yeah, especially for someone having a fish memory like me, when I read the problem, I already forgot the descriptions...The scroll\u00a0is somewhat malfunctioned and hard to locate....</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-24T18:48:10Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-10-24T18:48:10Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j95yrpz73i02i5", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>For this class, this happens to be the case (50% for just a button), but ProctorTrack was designed for students to write answers right there.</p>\n<p></p>\n<p>I remember in another class that students wanted exactly the opposite: more space to write your answer and less space to show the question :)</p>\n<p></p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-25T00:53:06Z", 
+          "uid": "i4ket0u1z5q31a", 
+          "created": "2017-10-25T00:53:06Z", 
+          "type": "feedback", 
+          "id": "j96bt1abnf53ua", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>ProctorTrack has issues with their UI development, in over two years of us students complaining they still have not figured out how to fix their UI.</p>\n<p>For starters they don&#39;t even leverage all of the available monitor screen realestate.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-25T00:57:27Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-10-25T00:57:27Z", 
+          "type": "feedback", 
+          "id": "j96bymm58ev67n", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Agreed</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-25T06:37:56Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-10-25T06:37:56Z", 
+          "type": "feedback", 
+          "id": "j96o4i52a0d7ir", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "During the Midterm 2, the little &#39;video&#39; monitor window was just showing a blurry static image that looked as though some element of the proctortrack software had crashed during some interaction with the webcam driver before the start of the test proper; luckily it all seemed to complete happily, although as I was adjusting the focus ring without a monitor of how it looked, the actual footage it uploaded may not be very edifying :-D"
+        }
+      ], 
+      "subject": "<p>One general suggestion (to Proctortrack) will be to increase the window size containing the question to avoid too much scrolling. Especially for question 1, as it was quite long, it needed too much scrolling around to see the questions,\u00a0revisit graphs etc..Currently they have kind of used 50% of total space for question window and rest 50% for just a button!</p>\n<p></p>"
+    }
+  ], 
+  "nr": 790, 
+  "bucket_order": 2, 
+  "type": "poll", 
+  "folders": [
+    "exam"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 2, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "answer": "", 
+    "admin": "", 
+    "has_voted": [], 
+    "result": {
+      "1": 41, 
+      "0": 19, 
+      "3": 52, 
+      "2": 69, 
+      "4": 10
+    }, 
+    "total_votes": 191
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-10-23T15:24:33Z", 
+  "is_tag_good": false, 
+  "config": {
+    "show_results": "av", 
+    "anonymous": "yes", 
+    "multiple_selections": 0, 
+    "unpublished": 0, 
+    "toggle_visibility_on": 1, 
+    "revote": 0, 
+    "allow_followups": "yes", 
+    "always_open": 0, 
+    "close_after": "48", 
+    "publish_later": 0
+  }, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145133025, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p></p>\n<p>\n [o] I did great!\u00a0\n [o] I did good. Some mistakes, but nothing major.</p>\n<p>[o] I struck in\u00a0one or two questions but I feel confident in the rest.\n [o] It&#39;s not looking good for me.\n [o] My exam was a disaster.</p>", 
+      "anon": "no", 
+      "created": "2017-10-23T15:33:26Z", 
+      "uid": "i4nkipeofrkrz", 
+      "subject": "How did you do on Exam 2?"
+    }, 
+    {
+      "content": "<p></p>\n<p>\n [o] I did great!\u00a0\n [o] I did good. Some mistakes, but nothing major.</p>\n<p>[o] I struck in\u00a0one or two questions.\n [o] It&#39;s not looking good for me.\n [o] My exam was a disaster.</p>", 
+      "anon": "no", 
+      "created": "2017-10-23T15:30:09Z", 
+      "uid": "i4nkipeofrkrz", 
+      "subject": "How did you do on Exam 2?"
+    }, 
+    {
+      "content": "<p></p>\n<p>\n [o] I did great! Pretty sure I got everything right.\n [o] I did good. Some mistakes, but nothing major.</p>\n<p>[o] I struck in\u00a0one or two questions.\n [o] It&#39;s not looking good for me.\n [o] My exam was a disaster.</p>", 
+      "anon": "no", 
+      "created": "2017-10-23T15:29:17Z", 
+      "uid": "i4nkipeofrkrz", 
+      "subject": "How did you do on Exam 2?"
+    }, 
+    {
+      "content": "<p></p>\n<br/> [o] I did great! Pretty sure I got everything right.\n[o] I did good. Some mistakes, but nothing major.\n[o] It&#39;s not looking good for me.\n[o] My exam was a disaster.", 
+      "anon": "no", 
+      "created": "2017-10-23T15:24:33Z", 
+      "uid": "i4nkipeofrkrz", 
+      "subject": "How did you do on Exam 2?"
+    }
+  ]
+}

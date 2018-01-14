@@ -1,0 +1,457 @@
+{
+  "status": "active", 
+  "unique_views": 345, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-08-21T04:28:59Z", 
+      "data": "j6lnway22w4n2", 
+      "uid": "i4m8xop4ndthr"
+    }, 
+    {
+      "uid": "idgjs16yZ4K", 
+      "type": "s_answer", 
+      "when": "2017-08-21T10:15:52Z", 
+      "to": "j6lnway0accn1", 
+      "anon": "no", 
+      "data": "j6m0aecpfph73u"
+    }, 
+    {
+      "to": "j6lnway0accn1", 
+      "anon": "no", 
+      "when": "2017-08-21T11:11:39Z", 
+      "type": "followup", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "uid": "gy4twfv45cg5o6", 
+      "type": "i_answer", 
+      "when": "2017-08-21T13:23:50Z", 
+      "to": "j6lnway0accn1", 
+      "anon": "no", 
+      "data": "j6m704k6u8f114"
+    }, 
+    {
+      "to": "j6lnway0accn1", 
+      "anon": "no", 
+      "when": "2017-08-21T13:25:09Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j6lnway0accn1", 
+      "anon": "no", 
+      "when": "2017-08-21T17:32:43Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j6lnway0accn1", 
+      "anon": "stud", 
+      "when": "2017-08-21T17:42:25Z", 
+      "type": "followup"
+    }, 
+    {
+      "to": "j6lnway0accn1", 
+      "anon": "no", 
+      "when": "2017-08-22T02:19:32Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j6lnway0accn1", 
+      "anon": "no", 
+      "when": "2017-08-22T07:20:33Z", 
+      "type": "followup", 
+      "uid": "i4gyatgdfzz"
+    }, 
+    {
+      "to": "j6lnway0accn1", 
+      "anon": "no", 
+      "when": "2017-08-22T13:18:21Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j6lnway0accn1", 
+      "anon": "no", 
+      "when": "2017-08-28T05:03:50Z", 
+      "type": "followup", 
+      "uid": "idj18b4cw027p9"
+    }, 
+    {
+      "to": "j6lnway0accn1", 
+      "anon": "no", 
+      "when": "2017-08-28T12:36:18Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j6lnway0accn1", 
+      "anon": "no", 
+      "when": "2017-09-12T17:04:24Z", 
+      "type": "followup", 
+      "uid": "hyxsfi7z2md2rl"
+    }, 
+    {
+      "to": "j6lnway0accn1", 
+      "anon": "no", 
+      "when": "2017-09-12T19:10:53Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j6lnway0accn1", 
+      "anon": "no", 
+      "when": "2017-09-12T19:39:50Z", 
+      "type": "feedback", 
+      "uid": "i4hdvab632i522"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j6lnway0accn1", 
+  "bookmarked": 10, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-08-21T10:15:52Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j6m0ae7chun73r", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "The instructors have mentioned in various places that the homeworks are excellent practice for the exams. \n\nTo me, this implies that the format of the exam questions will be very similar, and that we probably won&#39;t get a practice exam as these homeworks will effectively serve as such.", 
+          "anon": "no", 
+          "created": "2017-08-21T10:15:52Z", 
+          "uid": "idgjs16yZ4K", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-21T11:11:39Z", 
+      "no_upvotes": 0, 
+      "uid": "i4nkipeofrkrz", 
+      "created": "2017-08-21T11:11:39Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6m2a4jqddd5jy", 
+      "anon": "no", 
+      "bucket_name": "Week 8/20 - 8/26", 
+      "config": {}, 
+      "bucket_order": 8, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-08-21T13:25:09Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-08-21T13:25:09Z", 
+          "type": "feedback", 
+          "id": "j6m71tf1oab1iv", 
+          "anon": "no", 
+          "bucket_name": "Week 8/20 - 8/26", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p></p>\n<p>Yes, if this uncertainty bothers you then wait for a future semester, there are</p>\n<p>many eager students trying to get in. \u00a0--Eric</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-21T17:32:43Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-08-21T17:32:43Z", 
+          "type": "feedback", 
+          "id": "j6mfw6kzcrx5pi", 
+          "anon": "no", 
+          "bucket_name": "Week 8/20 - 8/26", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I&#39;m good :)</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-12T19:39:50Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-09-12T19:39:50Z", 
+          "type": "feedback", 
+          "id": "j7i04e08a0y2kz", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Although, looking at tests from your flavor of CS6505 from preceding semesters could be very helpful"
+        }
+      ], 
+      "subject": "<p>Remember also that this is the first semester where this class is being taught, so we probably won&#39;t get any &#34;previous exams&#34;.</p>"
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-08-21T13:23:50Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j6m704k5ckc113", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p></p>\n<p>Correct, thank you. \u00a0The homeworks are practice for the exams.</p>\n<p>We will talk about the exam details closer to then. \u00a0--Eric</p>", 
+          "anon": "no", 
+          "created": "2017-08-21T13:23:50Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-21T17:42:25Z", 
+      "no_upvotes": 0, 
+      "created": "2017-08-21T17:42:25Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6mg8ng8pqs269", 
+      "anon": "stud", 
+      "bucket_name": "Week 8/20 - 8/26", 
+      "config": {}, 
+      "bucket_order": 8, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-08-22T02:19:32Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-08-22T02:19:32Z", 
+          "type": "feedback", 
+          "id": "j6mypoh11km641", 
+          "anon": "no", 
+          "bucket_name": "Week 8/20 - 8/26", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Yes. \u00a0</p>"
+        }
+      ], 
+      "subject": "<p>Will the exams be closed book and notes?</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-22T07:20:33Z", 
+      "no_upvotes": 0, 
+      "uid": "i4gyatgdfzz", 
+      "created": "2017-08-22T07:20:33Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6n9gsfndnu3fe", 
+      "anon": "no", 
+      "bucket_name": "Week 8/20 - 8/26", 
+      "config": {}, 
+      "bucket_order": 8, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-08-22T13:18:21Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-08-22T13:18:21Z", 
+          "type": "feedback", 
+          "id": "j6nm8ww0upe3j9", 
+          "anon": "no", 
+          "bucket_name": "Week 8/20 - 8/26", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p></p>\n<p>Yes.</p>"
+        }
+      ], 
+      "subject": "What&#39;s the timeframe for the exam? For example the official date for the first one is Sep 22, Friday. Does that mean the exam is open on the weekend?"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-28T05:03:50Z", 
+      "no_upvotes": 0, 
+      "uid": "idj18b4cw027p9", 
+      "created": "2017-08-28T05:03:50Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6vp82l97i6708", 
+      "anon": "no", 
+      "bucket_name": "Week 8/27 - 9/2", 
+      "config": {}, 
+      "bucket_order": 7, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-08-28T12:36:18Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-08-28T12:36:18Z", 
+          "type": "feedback", 
+          "id": "j6w5dxwy4argx", 
+          "anon": "no", 
+          "bucket_name": "Week 8/27 - 9/2", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>The final is cumulative.</p>"
+        }
+      ], 
+      "subject": "<p>Just to confirm, Will the <strong>Final exam</strong> include questions from all the Lessons ?\u00a0</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-12T17:04:24Z", 
+      "no_upvotes": 0, 
+      "uid": "hyxsfi7z2md2rl", 
+      "created": "2017-09-12T17:04:24Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7hukibvjns3qj", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-12T19:10:53Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-09-12T19:10:53Z", 
+          "type": "feedback", 
+          "id": "j7hz36161h77bv", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p></p>\n<p>It&#39;ll be open from 8am EST on Friday 9/22 to 8am EST on Monday 9/25.</p>\n<p>I was told those are semi-standard times.</p>"
+        }
+      ], 
+      "subject": "<p>Hey, don&#39;t mean to nag but any idea what time Friday 9/22 the exam will become available?\u00a0</p>\n<p></p>\n<p>Traveling that weekend so just trying to coordinate.\u00a0</p>\n<p>If I had any say I&#39;d vote as early as possible! Like 12:00am UTC.\u00a0</p>"
+    }
+  ], 
+  "nr": 13, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "exam"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "exam", 
+    "student"
+  ], 
+  "created": "2017-08-21T04:28:59Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145336539, 
+  "tag_good": [
+    {
+      "name": "Estelle Yeh", 
+      "admin": false, 
+      "photo": "1421544945_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4fxg6tfzh211n"
+    }, 
+    {
+      "name": "Cedric Meury", 
+      "admin": false, 
+      "photo": "1420556447_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4j6x86gc2b73o"
+    }, 
+    {
+      "name": "Nikita Nerkar", 
+      "admin": false, 
+      "photo": "1455312357_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "idfwkf5jgsm3gg"
+    }
+  ], 
+  "tag_good_arr": [
+    "i4fxg6tfzh211n", 
+    "i4j6x86gc2b73o", 
+    "idfwkf5jgsm3gg"
+  ], 
+  "history": [
+    {
+      "content": "<p>Dear instructors,</p>\n<p></p>\n<p>What will be the format of the exams? Are there any practice exams available?</p>", 
+      "anon": "no", 
+      "created": "2017-08-21T04:28:59Z", 
+      "uid": "i4m8xop4ndthr", 
+      "subject": "Exams"
+    }
+  ]
+}

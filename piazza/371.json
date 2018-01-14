@@ -1,0 +1,182 @@
+{
+  "status": "active", 
+  "unique_views": 174, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-21T00:44:55Z", 
+      "data": "j7tqjjrxpsf7d9", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-21T00:55:24Z", 
+      "data": "j7tqx18pbyc65v", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "uid": "hkkbz4bujtv5dn", 
+      "type": "i_answer", 
+      "when": "2017-09-21T03:52:58Z", 
+      "to": "j7tqjjrv7nl7d8", 
+      "anon": "no", 
+      "data": "j7tx9dxdvd32yf"
+    }, 
+    {
+      "type": "i_answer_update", 
+      "anon": "no", 
+      "when": "2017-09-21T13:45:33Z", 
+      "data": "j7uifgj5a0i3uq", 
+      "uid": "hkkbz4bujtv5dn"
+    }, 
+    {
+      "uid": "i4nkipeofrkrz", 
+      "type": "s_answer", 
+      "when": "2017-09-21T15:02:18Z", 
+      "to": "j7tqjjrv7nl7d8", 
+      "anon": "no", 
+      "data": "j7ul65it4pz5yu"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-09-21T18:49:54Z", 
+      "data": "j7utau9f27k15l", 
+      "uid": "i4nkipeofrkrz"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j7tqjjrv7nl7d8", 
+  "bookmarked": 4, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-21T03:52:58Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "hvil6y6khgk2ri"
+      ], 
+      "id": "j7tx9dxa5fc2ye", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Brent Wagenseller", 
+          "admin": false, 
+          "photo": "1408396390_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hvil6y6khgk2ri"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>Looks like\u00a0it <em>is</em> possible that $$k&#43;1 &gt; n$$ when solving\u00a0the last subproblem.</p>\n<p></p>\n<p>I think that similar to the base case $$j &lt; i\\ C(i, j) = 0$$, cost zero should be used for the empty subtree (i.e. $$C(n&#43;1, n) = 0$$).\u00a0You could either\u00a0extend the table by 1, or add a conditional to check\u00a0for that case.</p>", 
+          "anon": "no", 
+          "created": "2017-09-21T13:45:33Z", 
+          "uid": "hkkbz4bujtv5dn", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>Looks like\u00a0it <em>is</em> possible that $$k&#43;1 &gt; j$$ when solving\u00a0the last subproblem.</p>\n<p></p>\n<p>I think that similar to the base case $$j &lt; i\\ C(i, j) = 0$$, cost zero should be used for the empty subtree (i.e. $$C(n&#43;1, n) = 0$$).\u00a0You could either\u00a0extend the table by 1, or add a conditional to check\u00a0for that case.</p>", 
+          "anon": "no", 
+          "created": "2017-09-21T03:52:58Z", 
+          "uid": "hkkbz4bujtv5dn", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-21T15:02:18Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j7ul65irtzr5yt", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>Make sure you understand exactly how the table will be filled by looking at the pseudo-code. That&#39;s key to make sure your algorithm doesn&#39;t access a position in the table that hasn&#39;t been initialized yet.</p>\n<p></p>\n<p>Unfortunately, this isn&#39;t reflected in the recurrence, so trying to &#34;debug&#34; your recurrence won&#39;t work.</p>", 
+          "anon": "no", 
+          "created": "2017-09-21T18:49:54Z", 
+          "uid": "i4nkipeofrkrz", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>Make sure you understand exactly how the table will be filled by looking at the pseudo-code. That&#39;s key to make sure your algorithm doesn&#39;t access a position in the table that hasn&#39;t been initialized yet.</p>\n<p></p>\n<p>Unfortunately, this isn&#39;t reflected in the recurrence, so trying to &#34;debugging&#34; your recurrence won&#39;t work.</p>", 
+          "anon": "no", 
+          "created": "2017-09-21T15:02:18Z", 
+          "uid": "i4nkipeofrkrz", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 371, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw1", 
+    "exam", 
+    "dynamic_programming"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 3, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "dynamic_programming", 
+    "exam", 
+    "hw1", 
+    "student"
+  ], 
+  "created": "2017-09-21T00:44:55Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145225948, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>Hi All,</p>\n<p></p>\n<p>I am struggling with the recurrence as provided for problem 6.20 in the answer sheet.\u00a0 <br /><br />So for example, say n = 4.\u00a0 This state can be reached:</p>\n<p></p>\n<table><tbody><tr><td>\u00a0</td><td>min</td><td>current</td><td>max</td></tr><tr><td>n</td><td>4</td><td>4</td><td>4</td></tr><tr><td>w</td><td>1</td><td>1</td><td>3</td></tr><tr><td>i</td><td>1</td><td>3</td><td>3</td></tr><tr><td>j</td><td>\u00a0</td><td>4</td><td>\u00a0</td></tr><tr><td>k</td><td>3</td><td>4</td><td>4</td></tr></tbody></table>\n<p><br />The recurrence says (p_i &#43; ... p_j) &#43; MIN( C(i, k-1) &#43; C(k &#43; 1, j)).\u00a0 HOWEVER, k can be 4 and when thats the case, k &#43; 1 means k = 5 which blows up the sequence.<br /><br />Am I not looking at this right, or is there an issue here?<br /><br />OR, is it just the case in this type of setting, that does not matter / is understood to just be zero / undefined (without failure) / infinite / whatever works?<br /><br />Thanks,</p>\n<p>Brent</p>", 
+      "anon": "no", 
+      "created": "2017-09-21T00:55:24Z", 
+      "uid": "hvil6y6khgk2ri", 
+      "subject": "Problem 6.20: Optimal Binary Search Tree"
+    }, 
+    {
+      "content": "<p>Hi All,</p>\n<p></p>\n<p>I am struggling with the recurrence as provided for problem 6.20 in the answer sheet.\u00a0 <br /><br />So for example, say n = 4.\u00a0 This state can be reached:</p>\n<p></p>\n<table><tbody><tr><td>\u00a0</td><td>min</td><td>current</td><td>max</td></tr><tr><td>n</td><td>4</td><td>4</td><td>4</td></tr><tr><td>w</td><td>1</td><td>1</td><td>3</td></tr><tr><td>i</td><td>1</td><td>3</td><td>3</td></tr><tr><td>j</td><td>\u00a0</td><td>4</td><td>\u00a0</td></tr><tr><td>k</td><td>3</td><td>4</td><td>4</td></tr></tbody></table>\n<p><br />The recurrence says (p_i &#43; ... p_j) &#43; MIN( C(i, k-1) &#43; C(k &#43; 1, j)).\u00a0 HOWEVER, k can be 4 and when thats the case, k &#43; 1 means k = 5 which blows up the sequence.<br /><br />Am I not looking at this right, or is there an issue here?<br /><br />Thanks,</p>\n<p>Brent</p>", 
+      "anon": "no", 
+      "created": "2017-09-21T00:44:55Z", 
+      "uid": "hvil6y6khgk2ri", 
+      "subject": "Problem 6.20: Optimal Binary Search Tree"
+    }
+  ]
+}

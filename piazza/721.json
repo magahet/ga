@@ -1,0 +1,280 @@
+{
+  "status": "active", 
+  "unique_views": 154, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-14T21:54:12Z", 
+      "data": "j8rv0ge45n45rh", 
+      "uid": "ij7curo6tdo360"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-14T21:54:58Z", 
+      "data": "j8rv1fjepz26ea", 
+      "uid": "ij7curo6tdo360"
+    }, 
+    {
+      "to": "j8rv0ge1shk5rg", 
+      "anon": "no", 
+      "when": "2017-10-14T22:02:17Z", 
+      "type": "followup", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-14T22:04:40Z", 
+      "data": "j8rvdx77rqe6ll", 
+      "uid": "ij7curo6tdo360"
+    }, 
+    {
+      "to": "j8rv0ge1shk5rg", 
+      "anon": "no", 
+      "when": "2017-10-14T22:08:57Z", 
+      "type": "feedback", 
+      "uid": "ij7curo6tdo360"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-14T22:12:22Z", 
+      "data": "j8rvntpj6gf2ja", 
+      "uid": "ij7curo6tdo360"
+    }, 
+    {
+      "to": "j8rv0ge1shk5rg", 
+      "anon": "no", 
+      "when": "2017-10-14T22:16:04Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j8rv0ge1shk5rg", 
+      "anon": "no", 
+      "when": "2017-10-14T22:18:41Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j8rv0ge1shk5rg", 
+      "anon": "no", 
+      "when": "2017-10-14T22:23:53Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j8rv0ge1shk5rg", 
+      "anon": "no", 
+      "when": "2017-10-14T22:34:58Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "uid": "i4ket0u1z5q31a", 
+      "type": "s_answer", 
+      "when": "2017-10-15T04:49:04Z", 
+      "to": "j8rv0ge1shk5rg", 
+      "anon": "no", 
+      "data": "j8s9tz27hth56n"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8rv0ge1shk5rg", 
+  "bookmarked": 4, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-10-14T22:02:17Z", 
+      "no_upvotes": 0, 
+      "uid": "hvil6y6khgk2ri", 
+      "created": "2017-10-14T22:02:17Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8rvau5y76x4uo", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-14T22:08:57Z", 
+          "uid": "ij7curo6tdo360", 
+          "created": "2017-10-14T22:08:57Z", 
+          "type": "feedback", 
+          "id": "j8rvjetu7z44lc", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "See that doesn&#39;t make sense to me... edge(a-&gt;b) is the only edge that exist. There is no edge(b-&gt;a). \n\nWhat allows us to fabricate the edge(b-&gt;a)? In addition, why is the capacity 10? According the definition, the capacity should be zero as edge(a-&gt;b) is already sending at maximum capacity."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-14T22:16:04Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-10-14T22:16:04Z", 
+          "type": "feedback", 
+          "id": "j8rvskn0oun6om", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Because when flow travels from s-&gt;b, it can get logjammed whereas if that original flow just sent 7 units down a-&gt;t there would be no problem.</p>\n<p></p>\n<p>So that imaginary flow technically doesnt exist, BUT we can use it to &#39;track&#39; how much we can &#39;push back&#39;.\u00a0 In the example above, since 10 units are coming across, 10 units can be &#39;repelled&#39;.\u00a0 10 in theory, but when the algorithm traverses s-&gt;b its going to ultimately try to dump 7 units into t, and to do that, it will &#39;repel&#39; 7 units flowing from a to b (and it knows it can repulse up to 10 due to that b-&gt;a edge being 10, but it can only do 7 due to the limitations on a-&gt;b and a-&gt;t).\u00a0</p>\n<p></p>\n<p>After it does this, technically a-&gt;b will have used capacity = 3 and b-&gt;a will ALSO be 3.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-14T22:18:41Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-10-14T22:18:41Z", 
+          "type": "feedback", 
+          "id": "j8rvvxuuvk41br", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>You can also think of it as the flow from s-&gt;b comes in, tells 7/10 of the original flow &#39;hey buddy, find another way&#39; at which point the original flow backtracks 7/10 units and those 7 units flow from a-&gt;t instead, and then the s-&gt;b flow then uses 7 units on b-&gt;t and the original flow s-&gt;a uses 3 units on b-&gt;t.\u00a0 This isnt how it works in reality, but you can think of it this way.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-14T22:23:53Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-10-14T22:23:53Z", 
+          "type": "feedback", 
+          "id": "j8rw2mooif81sm", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>And the capacity b-&gt;a for that snapshot in time is 10, because the reverse &#39;imaginary&#39; path only has the capacity that is equivalent to the flow in the opposite direction (except for when demands are used in max-flow)</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-14T22:34:58Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-10-14T22:34:58Z", 
+          "type": "feedback", 
+          "id": "j8rwgvfvs975bc", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#64;701 and &#64;709 also have discussion on it, if you are interested.</p>"
+        }
+      ], 
+      "subject": "<p>Dont forget that in the residual graph, its possible to have the original edge AND a &#39;new&#39; edge that flows in the opposite direction; its possible to have both.</p>\n<p></p>\n<p>So in the residual graph above, there is an edge ab with 0 capacity AS WELL AS an edge ba that now has capacity 10.</p>"
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-15T04:49:04Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j8s9tz23yj056m", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>You can have a residual graph edge in the opposite direction of the flow with a capacity equal to the flow in the normal direction.</p>\n<p>What that\u00a0shows is how much of the current flow you can shut off and stop sending in the normal direction if you can find a better use for it elsewhere.</p>", 
+          "anon": "no", 
+          "created": "2017-10-15T04:49:04Z", 
+          "uid": "i4ket0u1z5q31a", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 721, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "udacity"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 2, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "student", 
+    "udacity"
+  ], 
+  "created": "2017-10-14T21:54:12Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145148706, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "Based on the definition in this lecture: <a href=\"https://youtu.be/eCWXmpUtDtQ\">https://youtu.be/eCWXmpUtDtQ</a>\n\nThe definition of an edge of residual network doesn&#39;t seem to align with what I saw in the previous video with the following graph:\n\n<img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/ij7curo6tdo360/j8rukb86n5sb/Screen_Shot_20171014_at_14.41.16.png\" alt=\"Available capacity\" width=\"152\" height=\"117\" />\n\nThe green marks the flow taken and we assumed the maximum capacity was sent.\n\n<ol><li>G(s-&gt;a) = 10</li><li>G(a-&gt;b) = 10</li><li>G(b-&gt;t) = 10</li></ol>\n\nHowever, the definition of how to find a residual edge is equal to the edge total capacity minus the edge&#39;s current flow:\n<ul><li>residual edge (a-&gt;b) = capacity(a-&gt;b) - current_flow(a-&gt;b)</li></ul>\n\nIf we honor the above statement, how do we get a residual edge of residual_edge(a-&gt;b) = 3?\n\nIf my math is correct, 10 - 10 = 0. In other words, the residual edge for edge(a-&gt;b) = 0.\n\nI saw post <a href=\"https://www.piazza.com/class/j6f5zm92gj34gi?cid=709\" target=\"_blank\">&#64;709</a> and read over the professor&#39;s response, but it didn&#39;t quite understand. If we jump back to analogy of using &#34;pipes&#34;, if the pipe is already sending at maximum capacity, why or how does a residual edge exist? I would expect to be residual edge to be zero. Why? Because there is no pipe bandwidth available. \n\nThe professor mention you can reduce the current flow of an edge, but doesn&#39;t that change our original graph? I have the mentality that current flow of any edge cannot be modify.\n\nIf the flow of an edge can be modified, then does that mean every edge has residual edge, thus every network has a residual network?", 
+      "anon": "no", 
+      "created": "2017-10-14T22:12:22Z", 
+      "uid": "ij7curo6tdo360", 
+      "subject": "Residual Networks"
+    }, 
+    {
+      "content": "<p>Based on the definition in this lecture:\u00a0<a href=\"https://youtu.be/eCWXmpUtDtQ\">https://youtu.be/eCWXmpUtDtQ</a></p>\n<p></p>\n<p>The definition of an edge of residual network doesn&#39;t seem to align with what I saw in the previous video with the following graph:</p>\n<p></p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/ij7curo6tdo360/j8rukb86n5sb/Screen_Shot_20171014_at_14.41.16.png\" alt=\"Available capacity\" width=\"152\" height=\"117\" /></p>\n<p></p>\n<p>The green marks the flow taken and we assumed the maximum capacity was sent.</p>\n<p></p>\n<ol><li>G(s-&gt;a) = 10</li><li>G(a-&gt;b) = 10</li><li>G(b-&gt;t) = 10</li></ol>\n<p></p>\n<p>However, the definition of how to find a\u00a0residual edge is equal to the edge total capacity minus the edge&#39;s current flow:</p>\n<ul><li>residual edge (a-&gt;b) = capacity(a-&gt;b) - current_flow(a-&gt;b)</li></ul>\n<p></p>\n<p>If we honor the above statement, how do we\u00a0get a residual edge of residual_edge(a-&gt;b) = 3?</p>\n<p></p>\n<p>If my math is correct, 10 - 10 = 0. In other words, the residual edge for edge(a-&gt;b) = 0.</p>\n<p></p>\n<p>I saw post <a href=\"https://www.piazza.com/class/j6f5zm92gj34gi?cid=709\" target=\"_blank\">&#64;709</a>\u00a0and read over the professor&#39;s response, but it didn&#39;t quite understand. If we jump back to analogy of using &#34;pipes&#34;, if the pipe is already sending at maximum capacity, why or how does a residual edge exist? I would expect to be residual edge to be zero. Why? Because there is no pipe bandwidth available.\u00a0</p>\n<p></p>\n<p>The professor mention you can reduce the current flow of an edge, but doesn&#39;t change our original graph? I have the mentality that current flow of any edges cannot be modify.</p>\n<p></p>\n<p>If the flow of an edge can be modified, then does that mean every edge has residual edge, thus every network\u00a0has a residual network?\u00a0</p>\n<p></p>\n<p></p>", 
+      "anon": "no", 
+      "created": "2017-10-14T22:04:40Z", 
+      "uid": "ij7curo6tdo360", 
+      "subject": "Residual Networks"
+    }, 
+    {
+      "content": "<p>Based on the definition in this lecture:\u00a0<a href=\"https://youtu.be/eCWXmpUtDtQ\">https://youtu.be/eCWXmpUtDtQ</a></p>\n<p></p>\n<p>The definition of an edge of residual network doesn&#39;t seem to align with what I saw in the previous video with the following graph:</p>\n<p></p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/ij7curo6tdo360/j8rukb86n5sb/Screen_Shot_20171014_at_14.41.16.png\" alt=\"Available capacity\" width=\"152\" height=\"117\" /></p>\n<p></p>\n<p>The green marks the flow taken and we assumed the maximum capacity was sent.</p>\n<p></p>\n<ol><li>G(s-&gt;a) = 10</li><li>G(a-&gt;b) = 10</li><li>G(b-&gt;t) = 10</li></ol>\n<p></p>\n<p>However, the definition of how to find a\u00a0residual edge is equal to the edge total capacity minus the edge&#39;s current flow:</p>\n<ul><li>residual edge (a-&gt;b) = capacity(a-&gt;b) - current_flow(a-&gt;b)</li></ul>\n<p></p>\n<p>If we honor the above statement, how do we\u00a0get a residual edge of residual_edge(a-&gt;b) = 3?</p>\n<p></p>\n<p>If my math is correct, 10 - 10 = 0. In other words, the residual edge for edge(a-&gt;b) = 0.</p>\n<p></p>\n<p></p>", 
+      "anon": "no", 
+      "created": "2017-10-14T21:54:58Z", 
+      "uid": "ij7curo6tdo360", 
+      "subject": "Residual Networks"
+    }, 
+    {
+      "content": "<p>Based on the definition in this lecture:\u00a0<a href=\"https://youtu.be/eCWXmpUtDtQ\">https://youtu.be/eCWXmpUtDtQ</a></p>\n<p></p>\n<p>The definition of an edge of residual network doesn&#39;t seem to align with what I saw in the previous video with the following graph:</p>\n<p></p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/ij7curo6tdo360/j8rukb86n5sb/Screen_Shot_20171014_at_14.41.16.png\" alt=\"Available capacity\" width=\"152\" height=\"117\" /></p>\n<p></p>\n<p>The green marks the flow taken and we assumed the maximum capacity was sent. </p>\n<p></p>\n<ol><li>G(s-&gt;a) = 10</li><li>G(a-&gt;b) = 10</li><li>G(b-&gt;t) = 10</li></ol>\n<p></p>\n<p>However, the definition of how to find a\u00a0residual edge is equal to the edge total capacity minus the edge&#39;s current flow:</p>\n<ul><li>residual edge (a-&gt;b) = capacity(a-&gt;b) - current_flow(a-&gt;b)</li></ul>\n<p></p>\n<p>If we honor the above statement, how do we can a residual edge of residual_edge(a-&gt;b) = 3?</p>\n<p></p>\n<p>If my math is correct, 10 - 10 = 0. In other words, the residual edge for edge(a-&gt;b) = 0.</p>\n<p></p>\n<p></p>", 
+      "anon": "no", 
+      "created": "2017-10-14T21:54:12Z", 
+      "uid": "ij7curo6tdo360", 
+      "subject": "Residual Networks"
+    }
+  ]
+}

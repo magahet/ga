@@ -1,0 +1,223 @@
+{
+  "status": "active", 
+  "unique_views": 217, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-02T07:59:15Z", 
+      "data": "j89vwh8pgwd6pd", 
+      "uid": "hz6fs7qs6ps161"
+    }, 
+    {
+      "uid": "i4nkipeofrkrz", 
+      "type": "s_answer", 
+      "when": "2017-10-02T11:58:17Z", 
+      "to": "j89vwh8ob6b6pc", 
+      "anon": "no", 
+      "data": "j8a4fvcvs3t5wv"
+    }, 
+    {
+      "uid": "gns9oa0pgsO", 
+      "type": "i_answer", 
+      "when": "2017-10-02T12:04:51Z", 
+      "to": "j89vwh8ob6b6pc", 
+      "anon": "no", 
+      "data": "j8a4oblgqfe1pt"
+    }, 
+    {
+      "to": "j89vwh8ob6b6pc", 
+      "anon": "no", 
+      "when": "2017-10-04T03:46:11Z", 
+      "type": "followup", 
+      "uid": "ij7curo6tdo360"
+    }, 
+    {
+      "to": "j89vwh8ob6b6pc", 
+      "anon": "no", 
+      "when": "2017-10-04T10:48:29Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j89vwh8ob6b6pc", 
+      "anon": "no", 
+      "when": "2017-10-04T11:25:45Z", 
+      "type": "feedback", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j89vwh8ob6b6pc", 
+      "anon": "no", 
+      "when": "2017-10-04T12:25:18Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j89vwh8ob6b6pc", 
+  "bookmarked": 6, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-02T11:58:17Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j8a4fvcs6jv5wt", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>You are looking to compare both Hash functions. How do they perform with different types of input values? For example, compare them when the input universe follows a specific pattern. Do both hash functions behave the same?</p>", 
+          "anon": "no", 
+          "created": "2017-10-02T11:58:17Z", 
+          "uid": "i4nkipeofrkrz", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-02T12:04:51Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j8a4oblfovt1ps", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>task 1 you can have k set to be 1.\u00a0you need to compare how\u00a0the two different hash functions (type 1 and type 2) perform with random data and correlated data.</p>", 
+          "anon": "no", 
+          "created": "2017-10-02T12:04:51Z", 
+          "uid": "gns9oa0pgsO", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-04T03:46:11Z", 
+      "no_upvotes": 0, 
+      "uid": "ij7curo6tdo360", 
+      "created": "2017-10-04T03:46:11Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8chqq55pln5cz", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-04T10:48:29Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-10-04T10:48:29Z", 
+          "type": "feedback", 
+          "id": "j8cwttgifjxhc", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "I can&#39;t answer this fully as i am on my phone,  but k =1 for task 1."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-04T11:25:45Z", 
+          "uid": "gns9oa0pgsO", 
+          "created": "2017-10-04T11:25:45Z", 
+          "type": "feedback", 
+          "id": "j8cy5qmy8zl124", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>yeah, you only need 1 hash function for task 1.\u00a0 using more might obfuscate the results, make things hard to see.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-04T12:25:18Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-10-04T12:25:18Z", 
+          "type": "feedback", 
+          "id": "j8d0abbqezs227", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Diego, now that I am on a keyboard again, I wanted to say your scatter plots will be on two separate graphs, one for hash 1 and one for hash 2: the y axis is for their respective results of your hash function, and their respective a-axis will be the value that went into the hash to produce that value (in other words, the &#39;x&#39; that was used).</p>\n<p></p>\n<p>Of course other graphs are helpful too, but these seem to be important.</p>\n<p></p>\n<p></p>"
+        }
+      ], 
+      "subject": "<p><strong attention=\"gns9oa0pgsO\">&#64;john turner</strong> \u00a0</p>\n<p></p>\n<p>When comparing the scatter plots, am I just comparing\u00a0 \u210e1(&#x1d465;) from HashType1 to\u00a0 \u210e1(&#x1d465;) from HashType2?</p>\n<p></p>\n<p>I am trying to visualize how I would compare data considering an input of &#39;x&#39; returns 13 &#39;y&#39;s.\u00a0</p>\n<p></p>\n<p>Example, if x=2, I may have an output of [7,8,14,84,26,1,90,55,83,92,21,45,61]. This list represents my &#39;k&#39; hashes.</p>\n<p></p>\n<p>For a moment I was thinking I can just pair up the y&#39;s with the single x, [e.g (2,7) (2,8) .... (2,61)] but this doesn&#39;t feel right</p>\n<p></p>\n<p>Can I just plot a single &#39;k&#39; hash, for each &#39;x&#39;?</p>"
+    }
+  ], 
+  "nr": 522, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "project"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 4, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "project", 
+    "student"
+  ], 
+  "created": "2017-10-02T07:59:15Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145195713, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>should we just be talking about the correlation between input value and k hash values?</p>\n<p></p>", 
+      "anon": "no", 
+      "created": "2017-10-02T07:59:15Z", 
+      "uid": "hz6fs7qs6ps161", 
+      "subject": "What exactly are we looking for in the scatter plots?"
+    }
+  ]
+}

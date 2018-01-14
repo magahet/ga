@@ -1,0 +1,608 @@
+{
+  "status": "active", 
+  "unique_views": 185, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-12T01:40:50Z", 
+      "data": "j8nsscplcab6q9", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "to": "j8nsscphhxf6q8", 
+      "anon": "no", 
+      "when": "2017-10-12T02:26:31Z", 
+      "type": "followup", 
+      "uid": "i4g1simdqek6ey"
+    }, 
+    {
+      "uid": "iebwjhg152x642", 
+      "type": "s_answer", 
+      "when": "2017-10-12T02:54:47Z", 
+      "to": "j8nsscphhxf6q8", 
+      "anon": "no", 
+      "data": "j8nvfg6st497bz"
+    }, 
+    {
+      "to": "j8nsscphhxf6q8", 
+      "anon": "no", 
+      "when": "2017-10-12T03:06:06Z", 
+      "type": "feedback", 
+      "uid": "i18w67avy8e1uk"
+    }, 
+    {
+      "to": "j8nsscphhxf6q8", 
+      "anon": "no", 
+      "when": "2017-10-12T06:50:46Z", 
+      "type": "feedback", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "to": "j8nsscphhxf6q8", 
+      "anon": "no", 
+      "when": "2017-10-12T12:10:35Z", 
+      "type": "followup", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j8nsscphhxf6q8", 
+      "anon": "no", 
+      "when": "2017-10-12T13:33:54Z", 
+      "type": "feedback", 
+      "uid": "hvfeyx7qglF"
+    }, 
+    {
+      "to": "j8nsscphhxf6q8", 
+      "anon": "no", 
+      "when": "2017-10-12T13:34:02Z", 
+      "type": "followup", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j8nsscphhxf6q8", 
+      "anon": "no", 
+      "when": "2017-10-12T13:35:47Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j8nsscphhxf6q8", 
+      "anon": "no", 
+      "when": "2017-10-12T13:36:25Z", 
+      "type": "feedback", 
+      "uid": "hvfeyx7qglF"
+    }, 
+    {
+      "to": "j8nsscphhxf6q8", 
+      "anon": "no", 
+      "when": "2017-10-12T13:42:17Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j8nsscphhxf6q8", 
+      "anon": "no", 
+      "when": "2017-10-12T13:48:00Z", 
+      "type": "feedback", 
+      "uid": "hvfeyx7qglF"
+    }, 
+    {
+      "to": "j8nsscphhxf6q8", 
+      "anon": "no", 
+      "when": "2017-10-12T13:51:48Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j8nsscphhxf6q8", 
+      "anon": "no", 
+      "when": "2017-10-12T14:15:02Z", 
+      "type": "feedback", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "to": "j8nsscphhxf6q8", 
+      "anon": "no", 
+      "when": "2017-10-12T14:16:40Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j8nsscphhxf6q8", 
+      "anon": "no", 
+      "when": "2017-10-12T14:22:19Z", 
+      "type": "feedback", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "to": "j8nsscphhxf6q8", 
+      "anon": "no", 
+      "when": "2017-10-12T14:29:49Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j8nsscphhxf6q8", 
+      "anon": "no", 
+      "when": "2017-10-12T14:32:35Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j8nsscphhxf6q8", 
+      "anon": "no", 
+      "when": "2017-10-12T15:42:41Z", 
+      "type": "feedback", 
+      "uid": "ij7kfnstlbv3oq"
+    }, 
+    {
+      "to": "j8nsscphhxf6q8", 
+      "anon": "no", 
+      "when": "2017-10-12T16:02:39Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j8nsscphhxf6q8", 
+      "anon": "no", 
+      "when": "2017-10-12T16:09:52Z", 
+      "type": "feedback", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "to": "j8nsscphhxf6q8", 
+      "anon": "no", 
+      "when": "2017-10-13T04:03:30Z", 
+      "type": "feedback", 
+      "uid": "hzetpo9z5sK"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-10-13T07:57:11Z", 
+      "data": "j8plo6p97c26xs", 
+      "uid": "hqj2wfy7NUZ"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8nsscphhxf6q8", 
+  "bookmarked": 12, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-10-12T02:26:31Z", 
+      "no_upvotes": 0, 
+      "uid": "i4g1simdqek6ey", 
+      "created": "2017-10-12T02:26:31Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8nuf3p16zb3dj", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-12T03:06:06Z", 
+          "uid": "i18w67avy8e1uk", 
+          "created": "2017-10-12T03:06:06Z", 
+          "type": "feedback", 
+          "id": "j8nvu00iibc41m", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&gt; I took it as you can only increase the capacity of 1 edge at a time</p>\n<p>That is my understanding as well. I worked out the max-flow for the graph in the problem and realized I can increase max-flow by increasing one edge at a time\u00a0for a couple edges.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-12T06:50:45Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-10-12T06:50:45Z", 
+          "type": "feedback", 
+          "id": "j8o3uwz2g8y4xw", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "The question as a whole only really makes sense when it means you may only consider 1 edge at a time to have its capacity increased; then the test is, does that automatically, of itself, without making additional changes, increase the max-flow?"
+        }
+      ], 
+      "subject": "<p>I took it as you can only increase the capacity of 1 edge at a time (but that doesn&#39;t mean there is only one bottleneck in more complex graph than you suggested). In other words, is there 1 edge you can increase that will &#34;instantly&#34; allow more flow. In a way, I guess this works out as the earlier bottlenecks. Otherwise you can just make all the capacities infinite and have no bottlenecks. So for your example, I assume there is no bottleneck? I would love some feedback for clarification though.</p>"
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-12T02:54:47Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [
+        "i4t8eakz3ex6lk"
+      ], 
+      "id": "j8nvfg6nf147by", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "abarysevich", 
+          "admin": false, 
+          "photo": null, 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i4t8eakz3ex6lk"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>I asked a similar question in a private post. I&#39;d made the post private b/c it had some details in it that I felt I couldn&#39;t share publicly. The response I got from Tiancheng Gong was, &#34;An edge is called a bottleneck if and only if the maximal flow will increase if the capacity of that edge increases.&#34; This response was helpful to me, so I&#39;m sharing it.</p>\n<p></p>\n<p>In your example,\u00a0A -5-&gt; B -3-&gt; C-3-&gt; D. \u00a0 BC is not a bottleneck because increasing capacity of BC will not increase the maximal flow. \u00a0I see no bottleneck according to the definition. \u00a0- Mike</p>", 
+          "anon": "no", 
+          "created": "2017-10-13T07:57:11Z", 
+          "uid": "hqj2wfy7NUZ", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>I asked a similar question in a private post. I&#39;d made the post private b/c it had some details in it that I felt I couldn&#39;t share publicly. The response I got from Tiancheng Gong was, &#34;An edge is called a bottleneck if and only if the maximal flow will increase if the capacity of that edge increases.&#34; This response was helpful to me, so I&#39;m sharing it.</p>", 
+          "anon": "no", 
+          "created": "2017-10-12T02:54:47Z", 
+          "uid": "iebwjhg152x642", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-12T12:10:35Z", 
+      "no_upvotes": 0, 
+      "uid": "i4nkipeofrkrz", 
+      "created": "2017-10-12T12:10:35Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8ofa7m8lu33em", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-12T13:33:54Z", 
+          "uid": "hvfeyx7qglF", 
+          "created": "2017-10-12T13:33:54Z", 
+          "type": "feedback", 
+          "id": "j8oi9cq8n0l476", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>What if it were\u00a0A -5-&gt; B -3-&gt; C -3-&gt; D\u00a0-5-&gt; E?\u00a0 Would B -&gt; C and C-&gt; D both be bottleneck edges (since increasing both together increases the capacity) or not (since increasing one or the other doesn&#39;t increase the\u00a0 capacity).\u00a0 </p>\n<p></p>\n<p>Now this has me wondering: Can a bottleneck edge can be defined as B -&gt; D?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-12T13:35:47Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-10-12T13:35:47Z", 
+          "type": "feedback", 
+          "id": "j8oibrs4t0q7j", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>None of them\u00a0are bottleneck edges: increasing BC doesn&#39;t increase the flow, and increasing CD doesn&#39;t increase the flow either.</p>\n<p></p>\n<p>BD is not an edge, but a path, so you can&#39;t say that BD is a bottleneck edge.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-12T13:48:00Z", 
+          "uid": "hvfeyx7qglF", 
+          "created": "2017-10-12T13:48:00Z", 
+          "type": "feedback", 
+          "id": "j8oirhijdt865h", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thanks!</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-12T14:15:02Z", 
+          "uid": "ijbr5ddtwyt6pa", 
+          "created": "2017-10-12T14:15:02Z", 
+          "type": "feedback", 
+          "id": "j8ojq92hf3t4si", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thanks Santiago. That makes a lot of sense</p>"
+        }
+      ], 
+      "subject": "<p>&#64;Jason, there&#39;s actually not bottleneck edges on the toy problem that you presented.</p>\n<p></p>\n<p>The definition of a bottleneck edge was stated by &#64;Hugh in the Student&#39;s Answer: &#34;An edge is called a bottleneck if and only if the maximal flow will increase if the capacity of that edge increases.&#34;</p>\n<p></p>\n<p>Using that test, you can realize that BC is not a bottleneck because if you increase its capacity, the flow will not increase (you still have CD preventing the flow from increasing).</p>\n<p></p>\n<p>So in your toy problem, none of the edges satisfy the condition of bottleneck edges, so the answer is that none of them is a bottleneck.</p>\n<p></p>\n<p>Here is a modification to your toy example where BC is indeed a bottleneck edge:</p>\n<p></p>\n<p>A -5-&gt; B -3-&gt; C -5-&gt; D</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-12T13:34:02Z", 
+      "no_upvotes": 0, 
+      "uid": "hvil6y6khgk2ri", 
+      "created": "2017-10-12T13:34:02Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8oi9is54mvl5", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-12T13:36:25Z", 
+          "uid": "hvfeyx7qglF", 
+          "created": "2017-10-12T13:36:25Z", 
+          "type": "feedback", 
+          "id": "j8oicle5awb5w4", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Me too.\u00a0 I tried looking for youtube videos on this and couldn&#39;t find anything good.\u00a0 If anyone has found a good resource for this please post.\u00a0\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-12T13:42:17Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-10-12T13:42:17Z", 
+          "type": "feedback", 
+          "id": "j8oik4s9d5u6gt", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I think these are the answers to your questions:</p>\n<p></p>\n<ol><li>Here is the definition: &#34;An edge is called a bottleneck if and only if the maximal flow will increase if the capacity of that edge increases.&#34; This means that this is a simple test: does increasing the capacity of edge $$(x, y)$$ increases the flow? If yes, then $$(x, y)$$ is a bottleneck edge. If no, then $$(x, y)$$ is not a bottleneck edge. If you need to increase the capacity of more than one edge at the same time to increase the flow, then none of these edges will be a bottleneck edge (and instead, you have a bottleneck path).<br /><br /></li><li>If you increase the capacity of a bottleneck edge in at least 1, you&#39;ll be augmenting the flow of the graph. This doesn&#39;t mean that you can&#39;t increase the capacity in more units to keep augmenting the flow.<br /><br /></li><li>A property of a bottleneck edge is that it doesn&#39;t allow more flow to pass through (because it is at max capacity). Increasing the capacity of a bottleneck edge will augment the flow of the graph overall.</li></ol>\n<p></p>\n<p>Does these answers make sense?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-12T13:51:48Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-10-12T13:51:48Z", 
+          "type": "feedback", 
+          "id": "j8oiwdly8uu17t", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I get that we cannot rely on updating multiple edges in a single path, but my question was moreso around a single edge in multiple paths (so multiple edges, but for different paths).</p>\n<p></p>\n<p>So with the associated example in the book, there exists multiple sets where if you increase 2 edges (one on two different paths) the entirety of the flow from s can be accommodated (and each of these paths, which are separate, are inhibited by exactly one unit on exactly one segment on the path, so both have a bottleneck that have equivalent unit deficiencies); are you saying that we are limited to one and only one edge increase (so\u00a0 for the example, are we picking ONLY AC, ONLY BC, or can we pick both; and if we can pick both, what is stopping us from picking other pairs that will need more units added but are still no more than 2 pairs updated)?</p>\n<p></p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-12T14:16:40Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-10-12T14:16:40Z", 
+          "type": "feedback", 
+          "id": "j8ojsd2hu7r6qm", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>No, sorry. I didn&#39;t mean that.</p>\n<p></p>\n<p>There can definitively be multiple edges in a graph that need to be adjusted (their capacity) in order to augment the flow. That&#39;s independent of the concept of a bottleneck edge.</p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-12T14:22:19Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-10-12T14:22:19Z", 
+          "type": "feedback", 
+          "id": "j8ojzmqxa5f5dh", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Santiago, what definition? That&#39;s not the definition in DPV.\n\nBrent,\n\n1. [increasing the capacity of the] One [edge] <b>at a time</b> [results in an] <strong>immediate</strong> [increase in the maximum flow] is the additional wording that should be in the over-concise definition in DPV, for the sake of increased clarity\n\nAn alternative way of putting it would be to say [an edge is a bottleneck edge when] <b>it is the only edge along a particular <i>st</i>-path such that</b> [increasing] <b>only</b> [its capacity results in an] <b>immediate</b> [increase in the maximum flow]\n\nThough even there, some ambiguity may arise in that you need to define &#34;a particular&#34; <i>st</i>-path somewhat circularly as a least constrained path that you are looking at in relation to a particular potential bottleneck edge, containing that potential bottleneck edge :-)\n\nBasically spoiler alert: the answer to 7.17(c) is AC &amp; BC; AD, BD &amp; DT aren&#39;t bottleneck edges, as it would need a capacity increase for 2 edges at a time to produce an immediate larger maximum flow\n\nYour question is a perfectly valid question, it&#39;s the definition that is ambiguous. The only way of satisfactorily resolving it is that the whole of question 7.17 would be pretty much meaningless unless the definition is as I describe it [that of course agrees with what we mostly seem to agree it is trying to say]"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-12T14:29:49Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-10-12T14:29:49Z", 
+          "type": "feedback", 
+          "id": "j8ok99yfh4a52u", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>We are saying exactly the same thing :)</p>\n<p></p>\n<p>The definition I was referring to was the one provided in a private post to the instructors (see Student&#39;s Answer). It says exactly what you mentioned in your comment.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-12T14:32:35Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-10-12T14:32:35Z", 
+          "type": "feedback", 
+          "id": "j8okctijv5k6t4", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>DPV 6.3: <em>&#34;An edge of a network is called a bottleneck edge if increasing its capacity results in an increase\u00a0in the maximum flow.&#34;</em></p>\n<p></p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-12T15:42:41Z", 
+          "uid": "ij7kfnstlbv3oq", 
+          "created": "2017-10-12T15:42:41Z", 
+          "type": "feedback", 
+          "id": "j8omuyru5yq7mr", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Is it true that the bottleneck edge will always have fully exhausted its capacity (saturated) in the max flow graph?\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-12T16:02:39Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-10-12T16:02:39Z", 
+          "type": "feedback", 
+          "id": "j8onknk0ros638", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Not sure I understand, but I think the answer is no: a max flow graph can have bottleneck edges.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-12T16:09:52Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-10-12T16:09:52Z", 
+          "type": "feedback", 
+          "id": "j8ontxnxgd33pa", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "I agree we agree what the result of it all is, Santiago :-)\n\nIt was the definition that I was trying to get a reference for, I may have been distracted with a few false starts trying to prove HW5p3, luckily it&#39;s resolved now :-D"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-13T04:03:30Z", 
+          "uid": "hzetpo9z5sK", 
+          "created": "2017-10-13T04:03:30Z", 
+          "type": "feedback", 
+          "id": "j8pdbnyxxc96a7", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I think the deal here is how you identify bottlenecks, and here I look\u00a0 both graphs (flow graph and residual graph), after\u00a0I have run max flow algorithm. The flow graph will tell you which edges are being used in the final flow, and the residual graph which of those edges are exhausted.</p>"
+        }
+      ], 
+      "subject": "<p>I am still confused by a &#39;bottleneck&#39;. My questions I still have regarding the term:</p>\n<p></p>\n<p>Does the term &#39;bottleneck&#39; imply that we </p>\n<p>1. ...are strictly limited to increasing ONE AND ONLY ONE edge only (so this would mean the book&#39;s usage of the term &#39;all&#39; is misleading)?</p>\n<p>2. ...are strictly limited to increasing edges by one unit only?</p>\n<p>3. ...wish to minimize the overall number of units added to the edges (so if this is true, its better to increase an edge by one than another edge by 2)?</p>\n<p></p>"
+    }
+  ], 
+  "nr": 704, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw5", 
+    "graph_algorithms"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 5, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "graph_algorithms", 
+    "hw5", 
+    "student"
+  ], 
+  "created": "2017-10-12T01:40:50Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145154365, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>I am wondering, how &#34;deep&#34; do we need to go for bottlenecks? Take this toy problem for example:</p>\n<p></p>\n<p>A -5-&gt; B -3-&gt; C-3-&gt; D</p>\n<p></p>\n<p>So, in this case, B-C is a bottle neck, but what about C-D? Since the flow would be stopped from A if we removed B, could it also be seen as a bottleneck, since increasing increasing the flow from B-C will still not resolve the bottleneck? Or do we not go that far?</p>", 
+      "anon": "no", 
+      "created": "2017-10-12T01:40:50Z", 
+      "uid": "ijbr5ddtwyt6pa", 
+      "subject": "Bottlenecks"
+    }
+  ]
+}

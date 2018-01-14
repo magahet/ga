@@ -1,0 +1,173 @@
+{
+  "status": "active", 
+  "unique_views": 173, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-08-26T05:49:42Z", 
+      "data": "j6svzcktmuq1fh", 
+      "uid": "ij7kfple3jy3px"
+    }, 
+    {
+      "uid": "idej2kl6hh1", 
+      "type": "s_answer", 
+      "when": "2017-08-26T06:27:55Z", 
+      "to": "j6svzckqk2l1fg", 
+      "anon": "no", 
+      "data": "j6sxcicm29u16z"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-08-26T06:29:27Z", 
+      "data": "j6sxeh3u2ll1lp", 
+      "uid": "ij7kfple3jy3px"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-08-26T06:29:32Z", 
+      "data": "j6sxelci8tp1mc", 
+      "uid": "idej2kl6hh1"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-08-26T06:52:57Z", 
+      "data": "j6sy8pb5usr3hm", 
+      "uid": "ij7kfple3jy3px"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-08-26T06:58:50Z", 
+      "data": "j6syg9ag2b4305", 
+      "uid": "ij7kfple3jy3px"
+    }, 
+    {
+      "to": "j6svzckqk2l1fg", 
+      "anon": "no", 
+      "when": "2017-08-26T08:44:20Z", 
+      "type": "followup", 
+      "uid": "hqa65fnalg83fr"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j6svzckqk2l1fg", 
+  "bookmarked": 3, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-08-26T06:27:55Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j6sxcicjckb16y", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>This seems like a DP problem, because it is similar to the knapsack problem: Each item has a &#34;cost&#34; of including in the knapsack, a &#34;benefit&#34; associated with including it, and a constraint that it can&#39;t exceed a certain &#34;cost&#34;. The problem is that the constraint is not an integer, so there are an infinite number of possibilities in the solution space.</p>\n<p></p>\n<p><a href=\"https://stackoverflow.com/questions/8953331/limitations-of-dynamic-programming-algorithm\">https://stackoverflow.com/questions/8953331/limitations-of-dynamic-programming-algorithm</a>\u00a0</p>\n<p></p>\n<p>I wonder if the solution isn&#39;t just the greedy approach of putting in one ball at a time, starting with the smallest balls, until you get to the theoretical maximum you could include. Then shake the box until they arrange themselves properly.</p>", 
+          "anon": "no", 
+          "created": "2017-08-26T06:29:32Z", 
+          "uid": "idej2kl6hh1", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>This seems like a DP problem, because it is similar to the knapsack problem: Each item has a &#34;cost&#34; of including in the knapsack, a &#34;benefit&#34; associated with including it, and a constraint that it can&#39;t exceed a certain &#34;cost&#34;. The problem is that the constraint is not an integer, so there are an infinite number of possibilities in the solution space.</p>\n<p></p>\n<p><a href=\"https://stackoverflow.com/questions/8953331/limitations-of-dynamic-programming-algorithm\">https://stackoverflow.com/questions/8953331/limitations-of-dynamic-programming-algorithm</a>\u00a0</p>", 
+          "anon": "no", 
+          "created": "2017-08-26T06:27:55Z", 
+          "uid": "idej2kl6hh1", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-26T08:44:20Z", 
+      "no_upvotes": 0, 
+      "uid": "hqa65fnalg83fr", 
+      "created": "2017-08-26T08:44:20Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6t27xm3wu530o", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>these seems to me to be a version of the knapsack problem. Except here the &#34;value&#34; is the same as the &#34;weight&#34; and instead of &#34;weight&#34; you have volume (and a corresponding volume limit).</p>"
+    }
+  ], 
+  "nr": 79, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw1"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 0, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw1", 
+    "student"
+  ], 
+  "created": "2017-08-26T05:49:42Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145312506, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p><em>I feel this is a DP problem, but I am not sure how to solve it.</em></p>\n<p></p>\n<p>[redefine the problem as integer problem, according to feedback below].</p>\n<p></p>\n<p>There are n rigid balls with radius 1 .. n, and there is a cubic box with edge length of 2*n.\u00a0The task is to use those balls to fill the box\u00a0as full\u00a0as possible. Each ball can be used only once.</p>\n<p></p>\n<p><span style=\"text-decoration:line-through\">The task is to\u00a0dump rigid balls to\u00a0a cubic box, whose total volume is L^3. \u00a0(L is the edge length of the cubic).\u00a0</span></p>\n<p></p>\n<p><span style=\"text-decoration:line-through\">R = [r1, r2, .., rn] stores the radius of each ball,\u00a0and there are more than enough balls to make the box full.\u00a0</span></p>\n<p></p>\n<p></p>\n<p></p>\n<p>(a) Determine the minimum empty space/volume of the cubic, after filling all possible balls.</p>\n<p>(b) Which balls are used?</p>\n<p>(c) What if each ball can be used m times ?</p>\n<p></p>\n<p></p>\n<p>*Implicit spatial constraint: all rigid balls are stacked together, and they will not go beyond the box boundary as shown below.</p>\n<p>\u00a0<img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/ij7kfple3jy3px/j6sviq8ijoap/0htbk.jpg\" alt=\"\" /></p>", 
+      "anon": "no", 
+      "created": "2017-08-26T06:58:50Z", 
+      "uid": "ij7kfple3jy3px", 
+      "subject": "Fill a box with balls -Dynamic Programming"
+    }, 
+    {
+      "content": "<p><em>I feel this is a DP problem, but I am not sure how to solve it.</em></p>\n<p></p>\n<p>[redefine the problem as integer problem, according to feedback below].</p>\n<p></p>\n<p>There are n rigid balls with radius 1 .. n, and there is a cubic box with edge length of 2*n.\u00a0The task is to use those balls to fill the box\u00a0as full\u00a0as possible. Each ball can be used only once.</p>\n<p></p>\n<p><span style=\"text-decoration:line-through\">The task is to\u00a0dump rigid balls to\u00a0a cubic box, whose total volume is L^3. \u00a0(L is the edge length of the cubic).\u00a0</span></p>\n<p></p>\n<p><span style=\"text-decoration:line-through\">R = [r1, r2, .., rn] stores the radius of each ball,\u00a0and there are more than enough balls to make the box full.\u00a0</span></p>\n<p></p>\n<p></p>\n<p></p>\n<p>(a) Determine the minimum empty space/volume of the cubic, after filling all possible balls.</p>\n<p>(b) Which balls are used?</p>\n<p>(c) What if each ball can be used m times ?</p>\n<p></p>\n<p></p>\n<p>*Focus on question (a)</p>\n<p>\u00a0<img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/ij7kfple3jy3px/j6sviq8ijoap/0htbk.jpg\" alt=\"\" /></p>", 
+      "anon": "no", 
+      "created": "2017-08-26T06:52:57Z", 
+      "uid": "ij7kfple3jy3px", 
+      "subject": "Fill a box with balls -Dynamic Programming"
+    }, 
+    {
+      "content": "<p><em>I feel this is a DP problem, but I am not sure how to solve it.</em></p>\n<p></p>\n<p>The task is to\u00a0dump rigid balls to\u00a0a cubic box, whose total volume is L^3. \u00a0(L is the edge length of the cubic).\u00a0</p>\n<p></p>\n<p>R = [r1, r2, .., rn] stores the radius of each ball. Each ball can be used only once,\u00a0and there are more than enough balls to make the box full.\u00a0</p>\n<p></p>\n<p>(a) Determine the minimum empty space/volume of the cubic, after filling all possible balls.</p>\n<p>(b) Which balls are used?</p>\n<p>(c) Is it possible to determine the center coordinates of each ball (assume box center is (0,0,0))?</p>\n<p></p>\n<p>*Focus on question (a)</p>\n<p>\u00a0<img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/ij7kfple3jy3px/j6sviq8ijoap/0htbk.jpg\" alt=\"\" /></p>", 
+      "anon": "no", 
+      "created": "2017-08-26T06:29:27Z", 
+      "uid": "ij7kfple3jy3px", 
+      "subject": "Fill a box with balls -Dynamic Programming"
+    }, 
+    {
+      "content": "<p><em>I feel this is a DP problem, but I am not sure how to solve it.</em></p>\n<p></p>\n<p>The task is to use balls to fill in a cubic, and its total volume is L^3. \u00a0(L is the edge length of the cubic).</p>\n<p></p>\n<p>R = [r1, r2, .., rn] stores the radius of each ball. Each ball can be used only once,\u00a0and there are more than enough balls to make the box full.</p>\n<p></p>\n<p>(a) Determine the minimum empty space/volume of the cubic, after filling all possible balls.</p>\n<p>(b) Which balls are used?</p>\n<p>(c) Is it possible to determine the center coordinates of each ball (assume box center is (0,0,0))?</p>\n<p></p>\n<p>*Focus on question (a)</p>\n<p>\u00a0<img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/ij7kfple3jy3px/j6sviq8ijoap/0htbk.jpg\" alt=\"\" /></p>", 
+      "anon": "no", 
+      "created": "2017-08-26T05:49:42Z", 
+      "uid": "ij7kfple3jy3px", 
+      "subject": "Fill a box with balls -Dynamic Programming"
+    }
+  ]
+}

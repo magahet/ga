@@ -1,0 +1,651 @@
+{
+  "status": "active", 
+  "unique_views": 190, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-13T19:06:47Z", 
+      "data": "j7jedqhku3s34g", 
+      "uid": "i4g1slpjbgk6g0"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-13T19:07:44Z", 
+      "data": "j7jeeykp8ld3yz", 
+      "uid": "i4g1slpjbgk6g0"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-13T19:08:54Z", 
+      "data": "j7jegguf1dy5up", 
+      "uid": "i4g1slpjbgk6g0"
+    }, 
+    {
+      "uid": "i4nkipeofrkrz", 
+      "type": "s_answer", 
+      "when": "2017-09-13T19:11:47Z", 
+      "to": "j7jedqhjwdl34f", 
+      "anon": "no", 
+      "data": "j7jek6ao7scgo"
+    }, 
+    {
+      "to": "j7jedqhjwdl34f", 
+      "anon": "no", 
+      "when": "2017-09-13T19:12:05Z", 
+      "type": "followup", 
+      "uid": "i9kjiv3m6aq3pz"
+    }, 
+    {
+      "to": "j7jedqhjwdl34f", 
+      "anon": "no", 
+      "when": "2017-09-13T19:20:00Z", 
+      "type": "followup", 
+      "uid": "i4g1slpjbgk6g0"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-09-13T19:20:57Z", 
+      "data": "j7jevykzjjn600", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j7jedqhjwdl34f", 
+      "anon": "no", 
+      "when": "2017-09-13T19:25:15Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j7jedqhjwdl34f", 
+      "anon": "no", 
+      "when": "2017-09-13T19:33:20Z", 
+      "type": "feedback", 
+      "uid": "i4g1slpjbgk6g0"
+    }, 
+    {
+      "to": "j7jedqhjwdl34f", 
+      "anon": "no", 
+      "when": "2017-09-13T20:07:11Z", 
+      "type": "followup", 
+      "uid": "hz03lfq2z6r446"
+    }, 
+    {
+      "to": "j7jedqhjwdl34f", 
+      "anon": "no", 
+      "when": "2017-09-13T20:15:28Z", 
+      "type": "feedback", 
+      "uid": "i9kjiv3m6aq3pz"
+    }, 
+    {
+      "to": "j7jedqhjwdl34f", 
+      "anon": "no", 
+      "when": "2017-09-13T20:34:23Z", 
+      "type": "feedback", 
+      "uid": "i4iys7m3lpq2ij"
+    }, 
+    {
+      "to": "j7jedqhjwdl34f", 
+      "anon": "no", 
+      "when": "2017-09-13T20:54:42Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j7jedqhjwdl34f", 
+      "anon": "stud", 
+      "when": "2017-09-15T05:09:40Z", 
+      "type": "followup"
+    }, 
+    {
+      "to": "j7jedqhjwdl34f", 
+      "anon": "stud", 
+      "when": "2017-09-15T05:59:45Z", 
+      "type": "feedback"
+    }, 
+    {
+      "to": "j7jedqhjwdl34f", 
+      "anon": "no", 
+      "when": "2017-09-16T17:06:16Z", 
+      "type": "followup", 
+      "uid": "iddrzsd4r7kfm"
+    }, 
+    {
+      "to": "j7jedqhjwdl34f", 
+      "anon": "no", 
+      "when": "2017-09-16T17:19:04Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j7jedqhjwdl34f", 
+      "anon": "no", 
+      "when": "2017-09-16T20:39:28Z", 
+      "type": "feedback", 
+      "uid": "iddoxdl8kz72oc"
+    }, 
+    {
+      "to": "j7jedqhjwdl34f", 
+      "anon": "no", 
+      "when": "2017-09-16T20:51:32Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j7jedqhjwdl34f", 
+      "anon": "no", 
+      "when": "2017-09-16T21:39:00Z", 
+      "type": "feedback", 
+      "uid": "hyxoabem4493kl"
+    }, 
+    {
+      "to": "j7jedqhjwdl34f", 
+      "anon": "no", 
+      "when": "2017-09-16T23:55:44Z", 
+      "type": "feedback", 
+      "uid": "hq9zldq5n9mvn"
+    }, 
+    {
+      "to": "j7jedqhjwdl34f", 
+      "anon": "no", 
+      "when": "2017-09-17T05:10:08Z", 
+      "type": "feedback", 
+      "uid": "iddrzsd4r7kfm"
+    }, 
+    {
+      "to": "j7jedqhjwdl34f", 
+      "anon": "no", 
+      "when": "2017-09-17T05:27:27Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j7jedqhjwdl34f", 
+      "anon": "no", 
+      "when": "2017-09-17T10:02:10Z", 
+      "type": "feedback", 
+      "uid": "idej2kl6hh1"
+    }, 
+    {
+      "to": "j7jedqhjwdl34f", 
+      "anon": "no", 
+      "when": "2017-09-17T10:06:55Z", 
+      "type": "feedback", 
+      "uid": "idej2kl6hh1"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j7jedqhjwdl34f", 
+  "bookmarked": 12, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-13T19:11:47Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [
+        "hkkbz4bujtv5dn"
+      ], 
+      "id": "j7jek69a2q2gm", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Jeremy Stephens", 
+          "admin": true, 
+          "photo": null, 
+          "us": false, 
+          "role": "ta", 
+          "facebook_id": null, 
+          "id": "hkkbz4bujtv5dn"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>Let $$a = 101100$$,</p>\n<p></p>\n<p>Then:</p>\n<p></p>\n<p>$$a_0 = 1$$</p>\n<p>$$a_1 = 0$$</p>\n<p>$$a_2 = 1$$</p>\n<p>$$a_3 = 1$$</p>\n<p>$$a_4 = 0$$</p>\n<p>$$a_5 = 0$$</p>", 
+          "anon": "no", 
+          "created": "2017-09-13T19:20:57Z", 
+          "uid": "i4nkipeofrkrz", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>Let $$a = 101101$$,</p>\n<p></p>\n<p>Then:</p>\n<p></p>\n<p>$$a_0 = 1$$</p>\n<p>$$a_1 = 0$$</p>\n<p>$$a_2 = 1$$</p>\n<p>$$a_3 = 1$$</p>\n<p>$$a_4 = 0$$</p>\n<p>$$a_5 = 1$$</p>", 
+          "anon": "no", 
+          "created": "2017-09-13T19:11:47Z", 
+          "uid": "i4nkipeofrkrz", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-13T19:12:05Z", 
+      "no_upvotes": 0, 
+      "uid": "i9kjiv3m6aq3pz", 
+      "created": "2017-09-13T19:12:05Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7jekkdxuaopg", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>this is how I understand it...</p>\n<p></p>\n<p>a<sub>0</sub> is one bit, a<sub>1</sub> is another bit, and so on, up to a<sub>n-1</sub>.\u00a0 So that &#34;<strong>a</strong>&#34; has a total of n bits.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-13T19:20:00Z", 
+      "no_upvotes": 0, 
+      "uid": "i4g1slpjbgk6g0", 
+      "created": "2017-09-13T19:20:00Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7jeuqkx2kg20", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-13T19:25:15Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-09-13T19:25:15Z", 
+          "type": "feedback", 
+          "id": "j7jf1hhmzjz39y", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Just revised it to avoid the number to be symmetrical. Sorry about that, I didn&#39;t realize it was :)</p>\n<p></p>\n<p>The problem is talking about an n-bit integer number\u00a0a with $$a = a_0a_1a_2 \\dots a_{n\u22121}$$, so I&#39;m assuming every $$a_i$$ is one of the bits of this number.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-13T19:33:20Z", 
+          "uid": "i4g1slpjbgk6g0", 
+          "created": "2017-09-13T19:33:20Z", 
+          "type": "feedback", 
+          "id": "j7jfbwcnx3r2oe", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thanks.</p>"
+        }
+      ], 
+      "subject": "<p>Hi Santiago,</p>\n<p></p>\n<p>Can you revise it so that it isn&#39;t symmetrical (can&#39;t tell what position $$a_0$$ and $$a_5$$ are).\u00a0 Also, how certain are you that it doesn&#39;t mean something else? \u00a0Why not the problem just say that $$a_0$$ and onward are the related bit representation or something like that.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-13T20:07:11Z", 
+      "no_upvotes": 0, 
+      "uid": "hz03lfq2z6r446", 
+      "created": "2017-09-13T20:07:11Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7jgjf3xfnu5pc", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-13T20:15:28Z", 
+          "uid": "i9kjiv3m6aq3pz", 
+          "created": "2017-09-13T20:15:28Z", 
+          "type": "feedback", 
+          "id": "j7jgu2hjwkv55q", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>4B, use FFT.</p>\n<p>4A, don&#39;t use FFT</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-13T20:34:23Z", 
+          "uid": "i4iys7m3lpq2ij", 
+          "created": "2017-09-13T20:34:23Z", 
+          "type": "feedback", 
+          "id": "j7jhie7iili4jj", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>How would you use FFT to solve 4A? You don&#39;t have polynomial coefficients (this is your goal), and you don&#39;t\u00a0have the values of a polynomial evaluated at the nth roots of unity.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-13T20:54:42Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-09-13T20:54:42Z", 
+          "type": "feedback", 
+          "id": "j7ji8irh2spnh", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Like Kate said, there&#39;s nothing on 4A for you to use FFT.\u00a0</p>\n<p></p>\n<p>FFT is to evaluate a polynomial at specific points. Here you don&#39;t have to evaluate anything, you just need to define the structure of that polynomial so A(2) returns the number back.</p>"
+        }
+      ], 
+      "subject": "<p>We can solve this without using FFT but does the HW requires us to solve using FFT?\u00a0</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-15T05:09:40Z", 
+      "no_upvotes": 0, 
+      "created": "2017-09-15T05:09:40Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7lfcwijnqe7mz", 
+      "anon": "stud", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-15T05:59:45Z", 
+          "created": "2017-09-15T05:59:45Z", 
+          "type": "feedback", 
+          "id": "j7lh5bfb8om3k0", 
+          "anon": "stud", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Scratch that question. I understand it now.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-16T21:39:00Z", 
+          "uid": "hyxoabem4493kl", 
+          "created": "2017-09-16T21:39:00Z", 
+          "type": "feedback", 
+          "id": "j7nu51malur5hx", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>This was my question also. I still don&#39;t understand. Which representation is it?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-16T23:55:44Z", 
+          "uid": "hq9zldq5n9mvn", 
+          "created": "2017-09-16T23:55:44Z", 
+          "type": "feedback", 
+          "id": "j7nz0w68b61uz", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>You want to get back the decimal representation: A(2) = 44.\u00a0A hint is that you will be utilizing the binary representation of &#39;a&#39; in the process of defining polynomial A(x).</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-17T10:02:10Z", 
+          "uid": "idej2kl6hh1", 
+          "created": "2017-09-17T10:02:10Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j7okorv26xg65a", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>What does &#39;2&#39; have to do with 44? What should the polynomial return if x is not 2? This homework problem is very unclear to me.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-17T10:06:55Z", 
+          "uid": "idej2kl6hh1", 
+          "created": "2017-09-17T10:06:55Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j7okuvu3dw76mp", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I understand now, after reading the first paragraph of the sidebar on page 69 of DPV titled &#34;Why multiply polynomials?&#34;</p>"
+        }
+      ], 
+      "subject": "<p>Just to verify, using Santiago&#39;s example of a = 101100, we&#39;re defining\u00a0polynomial A(x) such that A(2) = 101100? Or are we defining A(x) such that we get back the decimal representation of a, which would be A(2) = 44.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-16T17:06:16Z", 
+      "no_upvotes": 0, 
+      "uid": "iddrzsd4r7kfm", 
+      "created": "2017-09-16T17:06:16Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7nkebcb274dv", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-16T17:19:04Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-09-16T17:19:04Z", 
+          "type": "feedback", 
+          "id": "j7nkurm9o63ny", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>You don&#39;t need to calculate anything.\u00a0You just need to define the structure of a\u00a0polynomial so A(2) returns the number back.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-16T20:39:28Z", 
+          "uid": "iddoxdl8kz72oc", 
+          "created": "2017-09-16T20:39:28Z", 
+          "type": "feedback", 
+          "id": "j7ns0hy7hnx2q7", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>So do we need to find a pattern for the polynomial or just list an example of a?</p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-16T20:51:32Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-09-16T20:51:32Z", 
+          "type": "feedback", 
+          "id": "j7nsg0oqo1r438", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Just say something like &#34;<strong>a</strong> = a<sub>0</sub>a<sub>1</sub>a<sub>2</sub>...a<sub>n-1</sub>&#34; to define <strong>a</strong> as the concatenation of the bits a<sub>0</sub> through a<sub>n-1</sub>. In other words, you&#39;re just labeling the bits of <strong>a</strong>. After you do that, then you can use the names a<sub>0</sub> and such, and the instructors will know what you mean.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-17T05:10:08Z", 
+          "uid": "iddrzsd4r7kfm", 
+          "created": "2017-09-17T05:10:08Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j7oa97le53w7ns", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>it already defines that in the problem description, why would we have to restate it?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-17T05:27:27Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-09-17T05:27:27Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j7oavh3sjei59w", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Sorry, &#64;Tyler, you&#39;re right. I forgot which question we were discussing. I was thinking of Problem 4B where it wasn&#39;t already stated.<br /><br />&#64;Lei, I think you need to write down what the polynomial is. In your definition of the polynomial, you&#39;ll probably want to use a<sub>0,\u00a0</sub>a<sub>1, etc.</sub></p>"
+        }
+      ], 
+      "subject": "<p>are we expecting that we are given a0, a1, a2, ... or we should calculate those from a?</p>"
+    }
+  ], 
+  "nr": 290, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw3"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 3, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw3", 
+    "student"
+  ], 
+  "created": "2017-09-13T19:06:46Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145249425, 
+  "tag_good": [
+    {
+      "name": "William Miller", 
+      "admin": false, 
+      "photo": "1408322716_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hv1gl7gmpkj41y"
+    }
+  ], 
+  "tag_good_arr": [
+    "hv1gl7gmpkj41y"
+  ], 
+  "history": [
+    {
+      "content": "<p>For HW3, Problem 4A, can someone clearly explain what $$a=a_0a_1a_2...a_{n-1}$$ mean? \u00a0I know that a is an n-bit number, as the problem states, but this clause is confusing. \u00a0What is $$a_1$$ and what operation is that, a product?</p>", 
+      "anon": "no", 
+      "created": "2017-09-13T19:08:54Z", 
+      "uid": "i4g1slpjbgk6g0", 
+      "subject": "Problem 4, what does a = a_0a_1...a_(n-1) mean?"
+    }, 
+    {
+      "content": "<p>Can someone clearly explain what $$a=a_0a_1a_2...a_{n-1}$$ mean? \u00a0I know that a is an n-bit number, as the problem states, but this clause is confusing. \u00a0What is $$a_1$$ and what operation is that, a product?</p>", 
+      "anon": "no", 
+      "created": "2017-09-13T19:07:44Z", 
+      "uid": "i4g1slpjbgk6g0", 
+      "subject": "Problem 4, what does a = a_0a_1...a_(n-1) mean?"
+    }, 
+    {
+      "content": "<p>Can someone clearly explain what $$a=a_0a_1a_2...a_{n-1}$$ mean? \u00a0I know that a is an n-bit number, as the problem states, but this clause is confusing.</p>", 
+      "anon": "no", 
+      "created": "2017-09-13T19:06:47Z", 
+      "uid": "i4g1slpjbgk6g0", 
+      "subject": "Problem 4, what does a = a_0a_1...a_(n-1) mean?"
+    }
+  ]
+}

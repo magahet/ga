@@ -1,0 +1,181 @@
+{
+  "status": "active", 
+  "unique_views": 129, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-06T00:31:37Z", 
+      "data": "j78ago7fa3r6gl", 
+      "uid": "hqa65fnalg83fr"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-06T00:32:57Z", 
+      "data": "j78aie0ies0rp", 
+      "uid": "hqa65fnalg83fr"
+    }, 
+    {
+      "uid": "gy4twfv45cg5o6", 
+      "type": "i_answer", 
+      "when": "2017-09-06T07:55:50Z", 
+      "to": "j78ago7d8om6gk", 
+      "anon": "no", 
+      "data": "j78qby05hi15n9"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-06T07:55:58Z", 
+      "data": "j78qc3sokmd5ou", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j78ago7d8om6gk", 
+      "anon": "no", 
+      "when": "2017-09-06T13:31:49Z", 
+      "type": "followup", 
+      "uid": "hqa65fnalg83fr"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j78ago7d8om6gk", 
+  "bookmarked": 3, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-06T07:55:50Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "hqa65fnalg83fr"
+      ], 
+      "id": "j78qby01l9u5n8", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Amin Mansuri", 
+          "admin": false, 
+          "photo": "1400911910_35.png", 
+          "us": false, 
+          "role": "", 
+          "facebook_id": null, 
+          "id": "hqa65fnalg83fr"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p></p>\n<p>Thanks for the comments, and sorry for the confusion. \u00a0I&#39;ll try to re-do that slide, but probably not in time for you guys. \u00a0</p>\n<p></p>\n<p>The point of logn is that is what the max load will be for this simple scheme which corresponds to standard hashing. \u00a0The load of a bin is the # of balls assigned to it. \u00a0And the max load is the max over bins of the load, so it&#39;s the maximum # of balls in any bin. \u00a0</p>", 
+          "anon": "no", 
+          "created": "2017-09-06T07:55:50Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-06T13:31:49Z", 
+      "no_upvotes": 0, 
+      "uid": "hqa65fnalg83fr", 
+      "created": "2017-09-06T13:31:49Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j792c0q95dj3fw", 
+      "anon": "no", 
+      "bucket_name": "Week 9/3 - 9/9", 
+      "config": {}, 
+      "bucket_order": 9, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>You could maybe add some clarifying notes in the short term (since re-recording would be more involved).</p>"
+    }
+  ], 
+  "nr": 200, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "random_algorithms", 
+    "udacity"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 3, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "random_algorithms", 
+    "student", 
+    "udacity"
+  ], 
+  "created": "2017-09-06T00:31:37Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145277593, 
+  "tag_good": [
+    {
+      "name": "Rich Owen", 
+      "admin": false, 
+      "photo": "1470659298_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "idg61g3ot1qp6"
+    }, 
+    {
+      "name": "Travis Loncar", 
+      "admin": false, 
+      "photo": "1409193297_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hz298xruotg"
+    }
+  ], 
+  "tag_good_arr": [
+    "idg61g3ot1qp6", 
+    "hz298xruotg"
+  ], 
+  "history": [
+    {
+      "content": "<p>The probabilities are confusing.</p>\n<p></p>\n<p>First is asks the probability of putting all balls in a particular bin. That is: 1/N</p>\n<p></p>\n<p>Then it asks what the probability that logN balls end up in a particular bin. That is (1/N)^logN</p>\n<p></p>\n<p>Then it asks the probability that a particular bin gets at least LogN load. (Not sure what motivates this.. seems arbitrary)<br /><br /></p>\n<p>Then it asks the probability that the Max load in at least LogN.<br />(I&#39;m not really sure what that means.. )<br /><br />I&#39;m confused by all these probabilities.<br /><br />Also, why LogN? Whats the magic of the LogN threshold?</p>", 
+      "anon": "no", 
+      "created": "2017-09-06T07:55:58Z", 
+      "uid": "gy4twfv45cg5o6", 
+      "subject": "Balls into Bins: Probabilities"
+    }, 
+    {
+      "content": "<p>The probabilities are confusing.</p>\n<p></p>\n<p>First is asks the probability of putting all balls in a particular bin. That is: 1/N</p>\n<p></p>\n<p>Then it asks what the probability that logN balls end up in a particular bin. That is (1/N)^logN</p>\n<p></p>\n<p>Then it asks the probability that a particular bin gets at least LogN load. (Not sure what motivates this.. seems arbitrary)<br /><br /></p>\n<p>Then it asks the probability that the Max load in at least LogN.<br />(I&#39;m not really sure what that means.. )<br /><br />I&#39;m confused by all these probabilities.<br /><br />Also, why LogN? Whats the magic of the LogN threshold?</p>", 
+      "anon": "no", 
+      "created": "2017-09-06T00:32:57Z", 
+      "uid": "hqa65fnalg83fr", 
+      "subject": "Balls into Bins: Probabilities"
+    }, 
+    {
+      "content": "<p>The probabilities are confusing.</p>\n<p></p>\n<p>First is asks the probability of putting all balls in a particular bin. That is: 1/N</p>\n<p></p>\n<p>Then it asks what the probability that logN balls end up in a particular bin. That is (1/N)^logN</p>\n<p></p>\n<p>Then it asks the probability that a particular bin gets at least LogN load. (Not sure what motivates this.. seems arbitrary)<br /><br /></p>\n<p>Then it asks the probability that the Max load in at least LogN.<br />(I&#39;m not really sure what that means.. )<br /><br />I&#39;m confused by all these probabilities.</p>", 
+      "anon": "no", 
+      "created": "2017-09-06T00:31:37Z", 
+      "uid": "hqa65fnalg83fr", 
+      "subject": "Balls into Bins: Probabilities"
+    }
+  ]
+}

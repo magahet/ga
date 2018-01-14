@@ -1,0 +1,461 @@
+{
+  "status": "active", 
+  "unique_views": 124, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-08T18:08:21Z", 
+      "data": "j7c73cmguz027r", 
+      "uid": "idg5nm2lC96"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-08T18:08:41Z", 
+      "data": "j7c73rgj7qd2ib", 
+      "uid": "idg5nm2lC96"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-08T18:10:39Z", 
+      "data": "j7c76ar8uwp3t0", 
+      "uid": "idg5nm2lC96"
+    }, 
+    {
+      "to": "j7c73cmbrmx27q", 
+      "anon": "no", 
+      "when": "2017-09-08T19:43:27Z", 
+      "type": "followup", 
+      "uid": "i4iys7m3lpq2ij"
+    }, 
+    {
+      "to": "j7c73cmbrmx27q", 
+      "anon": "no", 
+      "when": "2017-09-08T20:00:31Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j7c73cmbrmx27q", 
+      "anon": "no", 
+      "when": "2017-09-08T20:06:59Z", 
+      "type": "feedback", 
+      "uid": "idg5nm2lC96"
+    }, 
+    {
+      "to": "j7c73cmbrmx27q", 
+      "anon": "no", 
+      "when": "2017-09-08T20:09:19Z", 
+      "type": "feedback", 
+      "uid": "i4iys7m3lpq2ij"
+    }, 
+    {
+      "to": "j7c73cmbrmx27q", 
+      "anon": "no", 
+      "when": "2017-09-08T20:15:19Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j7c73cmbrmx27q", 
+      "anon": "no", 
+      "when": "2017-09-08T20:18:38Z", 
+      "type": "feedback", 
+      "uid": "i4iys7m3lpq2ij"
+    }, 
+    {
+      "to": "j7c73cmbrmx27q", 
+      "anon": "no", 
+      "when": "2017-09-08T20:27:48Z", 
+      "type": "feedback", 
+      "uid": "idg5nm2lC96"
+    }, 
+    {
+      "to": "j7c73cmbrmx27q", 
+      "anon": "no", 
+      "when": "2017-09-08T20:32:36Z", 
+      "type": "feedback", 
+      "uid": "i4iys7m3lpq2ij"
+    }, 
+    {
+      "to": "j7c73cmbrmx27q", 
+      "anon": "no", 
+      "when": "2017-09-08T20:59:23Z", 
+      "type": "feedback", 
+      "uid": "idg5nm2lC96"
+    }, 
+    {
+      "to": "j7c73cmbrmx27q", 
+      "anon": "no", 
+      "when": "2017-09-08T21:24:28Z", 
+      "type": "feedback", 
+      "uid": "i4iys7m3lpq2ij"
+    }, 
+    {
+      "to": "j7c73cmbrmx27q", 
+      "anon": "no", 
+      "when": "2017-09-08T21:29:34Z", 
+      "type": "feedback", 
+      "uid": "idg5nm2lC96"
+    }, 
+    {
+      "to": "j7c73cmbrmx27q", 
+      "anon": "no", 
+      "when": "2017-09-08T21:37:50Z", 
+      "type": "feedback", 
+      "uid": "i4iys7m3lpq2ij"
+    }, 
+    {
+      "to": "j7c73cmbrmx27q", 
+      "anon": "no", 
+      "when": "2017-09-08T21:55:48Z", 
+      "type": "feedback", 
+      "uid": "idg5nm2lC96"
+    }, 
+    {
+      "to": "j7c73cmbrmx27q", 
+      "anon": "no", 
+      "when": "2017-09-10T00:26:47Z", 
+      "type": "feedback", 
+      "uid": "i18w67avy8e1uk"
+    }, 
+    {
+      "uid": "i4iys7m3lpq2ij", 
+      "type": "s_answer", 
+      "when": "2017-09-10T21:00:33Z", 
+      "to": "j7c73cmbrmx27q", 
+      "anon": "no", 
+      "data": "j7f84i3dooiko"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j7c73cmbrmx27q", 
+  "bookmarked": 5, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-09-08T19:43:27Z", 
+      "no_upvotes": 0, 
+      "uid": "i4iys7m3lpq2ij", 
+      "created": "2017-09-08T19:43:27Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7cahn1xlcl4nl", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-08T20:00:31Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-09-08T20:00:31Z", 
+          "type": "feedback", 
+          "id": "j7cb3l321dw1hl", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p></p>\n<p>Yes, I think you&#39;re right. \u00a0As the slide is written I should&#39;ve said $$y_1=x^2_1=x^2_{n&#43;1}$$\u00a0and $$y_n=x^2_n=x^2_{2n}$$. \u00a0</p>\n<p>But, as you point out, to be consistent with how I presented it earlier</p>\n<p>I should&#39;ve just discussed evaluating $$A$$ at n points.</p>\n<p></p>\n<p>Either way, I guess I messed up the indices...that sucks, I&#39;ll have to re-record that. \u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-08T20:06:59Z", 
+          "uid": "idg5nm2lC96", 
+          "created": "2017-09-08T20:06:59Z", 
+          "type": "feedback", 
+          "id": "j7cbbw9067c3ui", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>If I understand\u00a0you correctly, then, yes, we both have the same confusion. I thought the same as you initially, but then the next video mentions the need for complex numbers, and so I figured that, in this video, we&#39;re already thinking about the recursion (i.e. evaluating $$A_\\text{even}$$ and $$A_\\text{odd}$$ at $$\\frac{n}{2}$$ points). So yes, it should be either\u00a0</p>\n<p></p>\n<p style=\"text-align:center\">$$y_1 = x_1^2 = x_{n&#43;1}^2, \\dots, y_n = x_n^2 = x_{2n}^2$$\u00a0</p>\n<p></p>\n<p>or\u00a0this:</p>\n<p></p>\n<p style=\"text-align:center\">$$y_1 = x_1^2 = x_{\\frac{n}{2} &#43; 1}^2, \\dots, y_n = x_{\\frac{n}{2}}^2 = x_{n}^2$$</p>\n<p></p>\n<p>But, in either case, I think there&#39;s an error.\u00a0</p>\n<p></p>\n<p>EDIT: Didn&#39;t see Prof. Vigoda&#39;s comment above. It&#39;s a confirmed error.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-08T20:09:19Z", 
+          "uid": "i4iys7m3lpq2ij", 
+          "created": "2017-09-08T20:09:19Z", 
+          "type": "feedback", 
+          "id": "j7cbewf4v7ybv", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>In a lot of other OMS classes, the professor just adds &#34;notes&#34; at the bottom of the slide with errata comments like these. A re-record is obviously ideal, but in the short-term, or for cases where it&#39;s just a little typo (like &#64;228), a note at the bottom is probably sufficient.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-08T20:15:19Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-09-08T20:15:19Z", 
+          "type": "feedback", 
+          "id": "j7cbmm6owzk1kx", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p></p>\n<p>OK, thanks, will do.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-08T20:18:38Z", 
+          "uid": "i4iys7m3lpq2ij", 
+          "created": "2017-09-08T20:18:38Z", 
+          "type": "feedback", 
+          "id": "j7cbqw2oiii2hu", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Dennis, I think having $$n$$ represent two different values (one for the top-level and one in the recursion) is confusing, which is what I think you&#39;re doing when you say $$y_1=x_1^2=x_{\\frac{n}{2}&#43;1}^2, \\dots, y_n=x_{\\frac{n}{2}}^2=x_{n}^2$$ since the set of $$y$$&#39;s contains $$n/2$$ elements if $$n$$ is the size of the set of $$x$$&#39;s.</p>\n<p></p>\n<p>If we just keep $$n$$ defined as the number of coefficients\u00a0of $$A$$ then\u00a0$$y_1=x_1^2=x_{\\frac{n}{2}&#43;1}^2, \\dots, y_{\\frac{n}{2}}=x_{\\frac{n}{2}}^2=x_{n}^2$$</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-08T20:27:48Z", 
+          "uid": "idg5nm2lC96", 
+          "created": "2017-09-08T20:27:48Z", 
+          "type": "feedback", 
+          "id": "j7cc2ooptqj377", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Kate, I think you meant\u00a0$$y_1 = x_1^2 = x_{n&#43;1}^2, \\dots, y_n = x_n^2 = x_{2n}^2$$ \u00a0in your last sentence? But, I concur.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-08T20:32:36Z", 
+          "uid": "i4iys7m3lpq2ij", 
+          "created": "2017-09-08T20:32:36Z", 
+          "type": "feedback", 
+          "id": "j7cc8ulz7cj5na", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>haha, well, that&#39;s the case we agree on (when $$|X| = 2n$$).\u00a0</p>\n<p></p>\n<p>I am arguing\u00a0that when\u00a0\u00a0$$|X| = n$$ then $$|Y| = \\frac{n}{2}$$ so the last element of $$Y$$ is $$y_{\\frac{n}{2}}$$, not $$y_n$$ as in your second eqn.\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-08T20:59:23Z", 
+          "uid": "idg5nm2lC96", 
+          "created": "2017-09-08T20:59:23Z", 
+          "type": "feedback", 
+          "id": "j7cd7attc076nj", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I think I see where you&#39;re going. I&#39;m describing $$y_i$$&#39;s in terms of the first-level chosen $$x_i$$&#39;s. In which case, $$y_n = x_{\\frac{n}{2}}^2$$, where $$n$$ here is still the degree of the original $$A(x)$$. The lectures seem to be doing the same as well. For example, in the next video, titled &#34;FFT: Recursive Problem,&#34; we see $$x_1^2 = - x_{\\frac{n}{2} &#43; 1}^2$$ when talking about $$y_1 = -y_{\\frac{n}{2} &#43; 1}$$. But, defining the subscripts in truly recursive manner as you said, would be good. I hope I understood you correctly.</p>\n<p></p>\n<p>That&#39;s how I surmised what the correct subscript should be, given other examples; but I might be wrong :).</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-08T21:24:28Z", 
+          "uid": "i4iys7m3lpq2ij", 
+          "created": "2017-09-08T21:24:28Z", 
+          "type": "feedback", 
+          "id": "j7ce3jr0ous1dd", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>The lectures are using $$2n$$ coefficients, so $$y_n$$ exists. All I&#39;m trying to say is that when you have $$n$$ coefficients, there is no $$n^{th}$$ element of $$y$$. The second eqn in my original followup was meant for this case (when you have $$n$$ coefficients).</p>\n<p></p>\n<p>When you have $$2n$$ coefficients, you can go on to say:</p>\n<p>$$y_1=y_{\\frac{n}{2}&#43;1}=x_1^2=x_{\\frac{n}{2}&#43;1}^2=x_{n&#43;1}^2$$<br />.<br />.<br />.<br />$$y_{\\frac{n}{2}}=y_n=x_{\\frac{n}{2}}^2=x_{n}^2=x_{2n}^2$$\u00a0</p>\n<p></p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-08T21:29:34Z", 
+          "uid": "idg5nm2lC96", 
+          "created": "2017-09-08T21:29:34Z", 
+          "type": "feedback", 
+          "id": "j7cea3yviem16t", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>All of the $$x_i$$&#39;s and $$y_i$$&#39;s are <em>points</em>, not coefficients. So, the original $$A(x)$$ has $$n$$ coefficients, and is\u00a0using $$2n$$ points. The $$A_\\text{even}$$ and $$A_\\text{odd}$$ has $$\\frac{n}{2}$$ coefficients, and are using $$n$$ points.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-08T21:37:50Z", 
+          "uid": "i4iys7m3lpq2ij", 
+          "created": "2017-09-08T21:37:50Z", 
+          "type": "feedback", 
+          "id": "j7cekqq5bz1vf", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I&#39;m not sure\u00a0I understand what you&#39;re trying to say. You will need one point per coefficient, so that&#39;s why I&#39;m talking about the number of coefficients.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-08T21:55:48Z", 
+          "uid": "idg5nm2lC96", 
+          "created": "2017-09-08T21:55:48Z", 
+          "type": "feedback", 
+          "id": "j7cf7ug213s1bu", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>(Continued offline. Looks like there&#39;s more to learn in FFT part 2. Thanks, Kate!)</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-10T00:26:47Z", 
+          "uid": "i18w67avy8e1uk", 
+          "created": "2017-09-10T00:26:47Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j7e01uqq8rd1yq", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thank you for the question and discussion! It confused me too.\u00a0Like Kate, I was under the impression that we were talking about poly A evaluation but then poly multiplication was mentioned. It is good that I know what is going on now and I can move forward :)</p>"
+        }
+      ], 
+      "subject": "<p>Interesting. I was thinking it should be $$y_1=x_1^2=x_{n&#43;1}^2$$ and\u00a0$$y_n=x_n^2=x_{2n}^2$$ since we want to evaluate $$A_{even}$$ and $$A_{odd}$$ at $$n$$ points if our goal is to evaluate $$A$$ at $$2n$$ points.</p>\n<p></p>\n<p>I find this slide very confusing since it seems to be talking about polynomial multiplication, in that we&#39;re evaluating a polynomial $$A$$ of degree $$n-1$$ at $$2n$$ points. If we were just running FFT to evaluate $$A$$, we&#39;d use $$n$$ points, right? And in that case, we&#39;d evaluate\u00a0$$A_{even}$$ and $$A_{odd}$$ at $$\\frac{n}{2}$$ points and we&#39;d have $$y_1=x_1^2=x_{\\frac{n}{2}&#43;1}^2$$ and\u00a0$$y_{\\frac{n}{2}}=x_{\\frac{n}{2}}^2=x_{n}^2$$.</p>\n<p></p>\n<p>Or maybe I&#39;m missing something...</p>"
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-10T21:00:33Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j7f84i3a7lkn", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>resolved, below.</p>", 
+          "anon": "no", 
+          "created": "2017-09-10T21:00:33Z", 
+          "uid": "i4iys7m3lpq2ij", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 230, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "divide_and_conquer", 
+    "udacity"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 2, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "divide_and_conquer", 
+    "student", 
+    "udacity"
+  ], 
+  "created": "2017-09-08T18:08:21Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145267749, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>I think there&#39;s an error in the &#34;FFT: Summary&#34; video, <a href=\"https://classroom.udacity.com/courses/ud401/lessons/2d55fc07-31ed-4ce5-90c7-eaf6ebd1ce70/concepts/64707ca0-3248-441d-963f-fc1e86b35ce3\" target=\"_blank\">here</a>. It\u00a0shows the following\u00a0</p>\n<p></p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/idg5nm2lC96/j7c72n9fsq1d/pic_edit.png\" alt=\"\" /></p>\n<p></p>\n<p>I think $$y_n$$\u00a0should have been $$y_n = x_{\\frac{n}{2}}^2 = x_n^2$$.</p>", 
+      "anon": "no", 
+      "created": "2017-09-08T18:10:39Z", 
+      "uid": "idg5nm2lC96", 
+      "subject": "Errata: FFT: Summary"
+    }, 
+    {
+      "content": "<p>I think there&#39;s an error in the &#34;FFT: Summary&#34; video, <a href=\"https://classroom.udacity.com/courses/ud401/lessons/2d55fc07-31ed-4ce5-90c7-eaf6ebd1ce70/concepts/64707ca0-3248-441d-963f-fc1e86b35ce3\" target=\"_blank\">here</a>. It\u00a0shows the following\u00a0</p>\n<p></p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/idg5nm2lC96/j7c72n9fsq1d/pic_edit.png\" alt=\"\" /></p>\n<p></p>\n<p>I think it should have been $$y_1 = x_1^2 = x_{\\frac{n}{2} &#43; 1}, \\dots, y_n = x_{\\frac{n}{2}}^2 = x_n^2$$.</p>", 
+      "anon": "no", 
+      "created": "2017-09-08T18:08:41Z", 
+      "uid": "idg5nm2lC96", 
+      "subject": "Errata: FFT: Summary"
+    }, 
+    {
+      "content": "<p>I think there&#39;s an error in the &#34;FFT: Summary&#34; video, <a href=\"https://classroom.udacity.com/courses/ud401/lessons/2d55fc07-31ed-4ce5-90c7-eaf6ebd1ce70/concepts/64707ca0-3248-441d-963f-fc1e86b35ce3\" target=\"_blank\">here</a>. It\u00a0shows the following\u00a0</p>\n<p></p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/idg5nm2lC96/j7c72n9fsq1d/pic_edit.png\" alt=\"\" /></p>\n<p></p>\n<p>I think it should have been</p>\n<p></p>\n<p style=\"text-align:center\">$$y_1 = x_1^2 = x_{\\frac{n}{2} &#43; 1}, \\dots, y_n = x_{\\frac{n}{2}}^2 = x_n^2$$</p>", 
+      "anon": "no", 
+      "created": "2017-09-08T18:08:21Z", 
+      "uid": "idg5nm2lC96", 
+      "subject": "Errata: FFT: Summary"
+    }
+  ]
+}

@@ -1,0 +1,1241 @@
+{
+  "status": "active", 
+  "unique_views": 213, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-08-24T01:09:09Z", 
+      "data": "j6pr2vd4cbh5lw", 
+      "uid": "hvduxyr7r4s6q7"
+    }, 
+    {
+      "to": "j6pr2vd2bvs5lv", 
+      "anon": "no", 
+      "when": "2017-08-24T01:11:46Z", 
+      "type": "followup", 
+      "uid": "hvduxyr7r4s6q7"
+    }, 
+    {
+      "to": "j6pr2vd2bvs5lv", 
+      "anon": "no", 
+      "when": "2017-08-24T01:19:43Z", 
+      "type": "followup", 
+      "uid": "ijbpipio0mQ"
+    }, 
+    {
+      "to": "j6pr2vd2bvs5lv", 
+      "anon": "no", 
+      "when": "2017-08-24T01:29:52Z", 
+      "type": "followup", 
+      "uid": "i4j6wvmu7he6v1"
+    }, 
+    {
+      "to": "j6pr2vd2bvs5lv", 
+      "anon": "no", 
+      "when": "2017-08-24T01:34:07Z", 
+      "type": "followup", 
+      "uid": "hyzstl4vv2t"
+    }, 
+    {
+      "to": "j6pr2vd2bvs5lv", 
+      "anon": "no", 
+      "when": "2017-08-24T01:37:56Z", 
+      "type": "followup", 
+      "uid": "i4j6wtt31ts6tl"
+    }, 
+    {
+      "to": "j6pr2vd2bvs5lv", 
+      "anon": "no", 
+      "when": "2017-08-24T01:50:41Z", 
+      "type": "followup", 
+      "uid": "hv1gl7gmpkj41y"
+    }, 
+    {
+      "to": "j6pr2vd2bvs5lv", 
+      "anon": "no", 
+      "when": "2017-08-24T01:56:51Z", 
+      "type": "feedback", 
+      "uid": "i4je07nkEjF"
+    }, 
+    {
+      "to": "j6pr2vd2bvs5lv", 
+      "anon": "no", 
+      "when": "2017-08-24T01:57:33Z", 
+      "type": "feedback", 
+      "uid": "i4j6x8uvfv6743"
+    }, 
+    {
+      "to": "j6pr2vd2bvs5lv", 
+      "anon": "no", 
+      "when": "2017-08-24T02:05:20Z", 
+      "type": "feedback", 
+      "uid": "grmp0khbn71"
+    }, 
+    {
+      "to": "j6pr2vd2bvs5lv", 
+      "anon": "no", 
+      "when": "2017-08-24T03:06:44Z", 
+      "type": "feedback", 
+      "uid": "i4j6wtt31ts6tl"
+    }, 
+    {
+      "to": "j6pr2vd2bvs5lv", 
+      "anon": "no", 
+      "when": "2017-08-24T03:25:24Z", 
+      "type": "feedback", 
+      "uid": "grmp0khbn71"
+    }, 
+    {
+      "to": "j6pr2vd2bvs5lv", 
+      "anon": "no", 
+      "when": "2017-08-24T04:14:50Z", 
+      "type": "feedback", 
+      "uid": "hvduxyr7r4s6q7"
+    }, 
+    {
+      "to": "j6pr2vd2bvs5lv", 
+      "anon": "no", 
+      "when": "2017-08-24T04:37:16Z", 
+      "type": "followup", 
+      "uid": "iddoy2bdneb2tv"
+    }, 
+    {
+      "to": "j6pr2vd2bvs5lv", 
+      "anon": "no", 
+      "when": "2017-08-24T05:11:38Z", 
+      "type": "feedback", 
+      "uid": "ig9fx44bzwr74x"
+    }, 
+    {
+      "to": "j6pr2vd2bvs5lv", 
+      "anon": "no", 
+      "when": "2017-08-24T12:15:59Z", 
+      "type": "followup", 
+      "uid": "iej41k6jtiz3dc"
+    }, 
+    {
+      "to": "j6pr2vd2bvs5lv", 
+      "anon": "no", 
+      "when": "2017-08-24T12:33:18Z", 
+      "type": "feedback", 
+      "uid": "i4j6wvmu7he6v1"
+    }, 
+    {
+      "to": "j6pr2vd2bvs5lv", 
+      "anon": "no", 
+      "when": "2017-08-24T12:48:04Z", 
+      "type": "followup", 
+      "uid": "i4jridi579yhq"
+    }, 
+    {
+      "to": "j6pr2vd2bvs5lv", 
+      "anon": "no", 
+      "when": "2017-08-24T13:23:51Z", 
+      "type": "feedback", 
+      "uid": "iddoy2bdneb2tv"
+    }, 
+    {
+      "to": "j6pr2vd2bvs5lv", 
+      "anon": "no", 
+      "when": "2017-08-24T15:50:52Z", 
+      "type": "followup", 
+      "uid": "i4no5h494jw7ha"
+    }, 
+    {
+      "to": "j6pr2vd2bvs5lv", 
+      "anon": "no", 
+      "when": "2017-08-24T17:18:35Z", 
+      "type": "feedback", 
+      "uid": "iddox7abejr2mj"
+    }, 
+    {
+      "to": "j6pr2vd2bvs5lv", 
+      "anon": "no", 
+      "when": "2017-08-24T20:17:01Z", 
+      "type": "followup", 
+      "uid": "ijjd1u5dbTq"
+    }, 
+    {
+      "to": "j6pr2vd2bvs5lv", 
+      "anon": "no", 
+      "when": "2017-08-24T21:41:14Z", 
+      "type": "followup", 
+      "uid": "iddrzsmg4mgfr"
+    }, 
+    {
+      "to": "j6pr2vd2bvs5lv", 
+      "anon": "no", 
+      "when": "2017-08-25T00:10:35Z", 
+      "type": "feedback", 
+      "uid": "hve4k9bj2u4qu"
+    }, 
+    {
+      "to": "j6pr2vd2bvs5lv", 
+      "anon": "no", 
+      "when": "2017-08-25T00:57:14Z", 
+      "type": "feedback", 
+      "uid": "iddoy2bdneb2tv"
+    }, 
+    {
+      "to": "j6pr2vd2bvs5lv", 
+      "anon": "no", 
+      "when": "2017-08-25T01:03:07Z", 
+      "type": "feedback", 
+      "uid": "ijjd1u5dbTq"
+    }, 
+    {
+      "to": "j6pr2vd2bvs5lv", 
+      "anon": "no", 
+      "when": "2017-08-25T05:23:00Z", 
+      "type": "feedback", 
+      "uid": "iddoy2bdneb2tv"
+    }, 
+    {
+      "to": "j6pr2vd2bvs5lv", 
+      "anon": "no", 
+      "when": "2017-08-25T15:22:43Z", 
+      "type": "feedback", 
+      "uid": "hvduxyr7r4s6q7"
+    }, 
+    {
+      "to": "j6pr2vd2bvs5lv", 
+      "anon": "no", 
+      "when": "2017-08-25T19:40:27Z", 
+      "type": "followup", 
+      "uid": "hyywem7iw0v1jj"
+    }, 
+    {
+      "to": "j6pr2vd2bvs5lv", 
+      "anon": "no", 
+      "when": "2017-08-25T23:44:30Z", 
+      "type": "feedback", 
+      "uid": "hve4kbcvx7l4t3"
+    }, 
+    {
+      "to": "j6pr2vd2bvs5lv", 
+      "anon": "no", 
+      "when": "2017-08-26T03:44:09Z", 
+      "type": "feedback", 
+      "uid": "i4jb1z0rGta"
+    }, 
+    {
+      "to": "j6pr2vd2bvs5lv", 
+      "anon": "no", 
+      "when": "2017-08-26T15:32:57Z", 
+      "type": "feedback", 
+      "uid": "i4j6wvmu7he6v1"
+    }, 
+    {
+      "to": "j6pr2vd2bvs5lv", 
+      "anon": "no", 
+      "when": "2017-08-26T16:35:39Z", 
+      "type": "feedback", 
+      "uid": "i4jb1z0rGta"
+    }, 
+    {
+      "to": "j6pr2vd2bvs5lv", 
+      "anon": "no", 
+      "when": "2017-08-26T18:33:07Z", 
+      "type": "followup", 
+      "uid": "hz1q5mlxiv47my"
+    }, 
+    {
+      "to": "j6pr2vd2bvs5lv", 
+      "anon": "no", 
+      "when": "2017-08-27T11:44:39Z", 
+      "type": "followup", 
+      "uid": "i9jo0dmat4G"
+    }, 
+    {
+      "to": "j6pr2vd2bvs5lv", 
+      "anon": "no", 
+      "when": "2017-08-27T22:45:01Z", 
+      "type": "feedback", 
+      "uid": "ijd70v3g5jd5e9"
+    }, 
+    {
+      "to": "j6pr2vd2bvs5lv", 
+      "anon": "no", 
+      "when": "2017-08-28T04:12:50Z", 
+      "type": "followup", 
+      "uid": "hyxsfez7m632oo"
+    }, 
+    {
+      "to": "j6pr2vd2bvs5lv", 
+      "anon": "no", 
+      "when": "2017-08-28T17:57:48Z", 
+      "type": "feedback", 
+      "uid": "hv8z1ta1w1b6nm"
+    }, 
+    {
+      "to": "j6pr2vd2bvs5lv", 
+      "anon": "no", 
+      "when": "2017-08-29T00:29:54Z", 
+      "type": "feedback", 
+      "uid": "i4t8e49dftt6h8"
+    }, 
+    {
+      "to": "j6pr2vd2bvs5lv", 
+      "anon": "no", 
+      "when": "2017-08-29T03:09:32Z", 
+      "type": "feedback", 
+      "uid": "hyxoa72iyun3gy"
+    }, 
+    {
+      "to": "j6pr2vd2bvs5lv", 
+      "anon": "no", 
+      "when": "2017-08-29T03:41:57Z", 
+      "type": "feedback", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "to": "j6pr2vd2bvs5lv", 
+      "anon": "no", 
+      "when": "2017-08-29T22:16:11Z", 
+      "type": "feedback", 
+      "uid": "idj18b4cw027p9"
+    }, 
+    {
+      "to": "j6pr2vd2bvs5lv", 
+      "anon": "no", 
+      "when": "2017-08-30T16:03:57Z", 
+      "type": "followup", 
+      "uid": "i4jbu18kld03sy"
+    }, 
+    {
+      "to": "j6pr2vd2bvs5lv", 
+      "anon": "no", 
+      "when": "2017-08-31T00:15:23Z", 
+      "type": "feedback", 
+      "uid": "i4t8e49dftt6h8"
+    }, 
+    {
+      "to": "j6pr2vd2bvs5lv", 
+      "anon": "no", 
+      "when": "2017-09-01T00:02:11Z", 
+      "type": "feedback", 
+      "uid": "i4t8e49dftt6h8"
+    }, 
+    {
+      "to": "j6pr2vd2bvs5lv", 
+      "anon": "no", 
+      "when": "2017-09-02T00:25:48Z", 
+      "type": "feedback", 
+      "uid": "ij7curo6tdo360"
+    }, 
+    {
+      "to": "j6pr2vd2bvs5lv", 
+      "anon": "no", 
+      "when": "2017-09-03T08:14:44Z", 
+      "type": "feedback", 
+      "uid": "ixqbkrwyoq429j"
+    }, 
+    {
+      "to": "j6pr2vd2bvs5lv", 
+      "anon": "no", 
+      "when": "2017-09-03T19:08:13Z", 
+      "type": "followup", 
+      "uid": "hve4kb0lopy4sl"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j6pr2vd2bvs5lv", 
+  "bookmarked": 32, 
+  "tags": [
+    "course", 
+    "logistics", 
+    "student"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-08-24T01:11:46Z", 
+      "no_upvotes": 0, 
+      "uid": "hvduxyr7r4s6q7", 
+      "created": "2017-08-24T01:11:46Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6pr67xt3a25xr", 
+      "anon": "no", 
+      "bucket_name": "Week 8/20 - 8/26", 
+      "config": {}, 
+      "bucket_order": 8, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-08-24T01:56:51Z", 
+          "uid": "i4je07nkEjF", 
+          "created": "2017-08-24T01:56:51Z", 
+          "type": "feedback", 
+          "id": "j6pss74cu793k7", 
+          "anon": "no", 
+          "bucket_name": "Week 8/20 - 8/26", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Hi Scott, I am in Branford, CT. Let me know if you want to form a study group - ashevchenko3&#64;gatech.edu</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-24T05:11:38Z", 
+          "uid": "ig9fx44bzwr74x", 
+          "created": "2017-08-24T05:11:38Z", 
+          "type": "feedback", 
+          "id": "j6pzqpe2rhz51e", 
+          "anon": "no", 
+          "bucket_name": "Week 8/20 - 8/26", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Hey Scott! \u00a0I remember you back from the ML days! \u00a0Manhattan works for me!</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-24T13:23:51Z", 
+          "uid": "iddoy2bdneb2tv", 
+          "created": "2017-08-24T13:23:51Z", 
+          "type": "feedback", 
+          "id": "j6qhboxgeti63r", 
+          "anon": "no", 
+          "bucket_name": "Week 8/20 - 8/26", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Hey Scott Im open for a study group. Im also available those days you mentioned but for virtual study group since I am in Orlando fl. My email is jpein001&#64;fiu.edu</p>"
+        }
+      ], 
+      "subject": "<p>I am in Greenwich, CT but could easily meet in Manhattan. Saturdays work best for me although I could do weekday evenings. I&#39;m also open to trying to set up a virtual study group with a dedicated group of individuals, but my first choice would be to meet with others here locally.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-24T01:19:43Z", 
+      "no_upvotes": 0, 
+      "uid": "ijbpipio0mQ", 
+      "created": "2017-08-24T01:19:43Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6prgg2srke3m", 
+      "anon": "no", 
+      "bucket_name": "Week 8/20 - 8/26", 
+      "config": {}, 
+      "bucket_order": 8, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-08-24T01:57:33Z", 
+          "uid": "i4j6x8uvfv6743", 
+          "created": "2017-08-24T01:57:33Z", 
+          "type": "feedback", 
+          "id": "j6pst4559t45hr", 
+          "anon": "no", 
+          "bucket_name": "Week 8/20 - 8/26", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I agree. I am in North Jersey, but would go for an online group.</p>"
+        }
+      ], 
+      "subject": "<p>I&#39;m in Manhattan; online groups are probably easier for me in general overall.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-24T01:29:52Z", 
+      "no_upvotes": 0, 
+      "uid": "i4j6wvmu7he6v1", 
+      "created": "2017-08-24T01:29:52Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6prtijngs65ac", 
+      "anon": "no", 
+      "bucket_name": "Week 8/20 - 8/26", 
+      "config": {}, 
+      "bucket_order": 8, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-08-24T04:14:50Z", 
+          "uid": "hvduxyr7r4s6q7", 
+          "created": "2017-08-24T04:14:50Z", 
+          "type": "feedback", 
+          "id": "j6pxpnjqa9f3d2", 
+          "anon": "no", 
+          "bucket_name": "Week 8/20 - 8/26", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Laremy, I just added you on LinkedIn. Did you grow up in St Anthony? I have family there. I actually just got back from watching the eclipse in Swan Valley.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-24T12:33:18Z", 
+          "uid": "i4j6wvmu7he6v1", 
+          "created": "2017-08-24T12:33:18Z", 
+          "type": "feedback", 
+          "id": "j6qfiodxlsh334", 
+          "anon": "no", 
+          "bucket_name": "Week 8/20 - 8/26", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Yes, I went to high school in St. Anthony! Crazy, now I am interested to know who in St. A?"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-25T00:10:35Z", 
+          "uid": "hve4k9bj2u4qu", 
+          "created": "2017-08-25T00:10:35Z", 
+          "type": "feedback", 
+          "id": "j6r4fejyps850n", 
+          "anon": "no", 
+          "bucket_name": "Week 8/20 - 8/26", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Salt Lake, can&#39;t believe there are people in Utah. I&#39;m totally up for 7PM. Let me know when you guys want to start.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-25T15:22:43Z", 
+          "uid": "hvduxyr7r4s6q7", 
+          "created": "2017-08-25T15:22:43Z", 
+          "type": "feedback", 
+          "id": "j6s10ek5oog6wv", 
+          "anon": "no", 
+          "bucket_name": "Week 8/20 - 8/26", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Unfortunately not in Utah, just from Utah.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-26T03:44:09Z", 
+          "uid": "i4jb1z0rGta", 
+          "created": "2017-08-26T03:44:09Z", 
+          "type": "feedback", 
+          "id": "j6srhwjcx9wal", 
+          "anon": "no", 
+          "bucket_name": "Week 8/20 - 8/26", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I&#39;m in AZ but 7pm MDT works for me if you guys can add another person. \u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-26T15:32:57Z", 
+          "uid": "i4j6wvmu7he6v1", 
+          "created": "2017-08-26T15:32:57Z", 
+          "type": "feedback", 
+          "id": "j6tgteyvq4c2xh", 
+          "anon": "no", 
+          "bucket_name": "Week 8/20 - 8/26", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Kevin,</p>\n<p></p>\n<p>We are using hangouts, do you have a gmail address that I can use to add you?</p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-26T16:35:39Z", 
+          "uid": "i4jb1z0rGta", 
+          "created": "2017-08-26T16:35:39Z", 
+          "type": "feedback", 
+          "id": "j6tj21qg9gx5qh", 
+          "anon": "no", 
+          "bucket_name": "Week 8/20 - 8/26", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Yup, it&#39;s kweed91&#64;gmail.com</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-29T03:09:32Z", 
+          "uid": "hyxoa72iyun3gy", 
+          "created": "2017-08-29T03:09:32Z", 
+          "type": "feedback", 
+          "id": "j6x0kxrgfcw7jy", 
+          "anon": "no", 
+          "bucket_name": "Week 8/27 - 9/2", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>If you don&#39;t mind another Utahn, I&#39;d love to join.</p>\n<p></p>\n<p>dcfinlinson&#64;gmail.com</p>"
+        }
+      ], 
+      "subject": "<p>I&#39;m in Utah, I am open to an online study group. \u00a0I am open to any study group that would start at 7 PM MDT or later.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-24T01:34:07Z", 
+      "no_upvotes": 0, 
+      "uid": "hyzstl4vv2t", 
+      "created": "2017-08-24T01:34:07Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6pryyt2y8rdx", 
+      "anon": "no", 
+      "bucket_name": "Week 8/20 - 8/26", 
+      "config": {}, 
+      "bucket_order": 8, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>I&#39;d be interested in setting something up in the Boston area or online,\u00a0sun-thurs\u00a0evenings are best for me.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-24T01:37:56Z", 
+      "no_upvotes": 0, 
+      "uid": "i4j6wtt31ts6tl", 
+      "created": "2017-08-24T01:37:56Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6ps3vafzlh2ks", 
+      "anon": "no", 
+      "bucket_name": "Week 8/20 - 8/26", 
+      "config": {}, 
+      "bucket_order": 8, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-08-24T02:05:20Z", 
+          "uid": "grmp0khbn71", 
+          "created": "2017-08-24T02:05:20Z", 
+          "type": "feedback", 
+          "id": "j6pt34b8ys355h", 
+          "anon": "no", 
+          "bucket_name": "Week 8/20 - 8/26", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Hi Thomas. I live in Marietta. I&#39;m fine with online study group or in-person(depending on how far lol)</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-24T03:06:44Z", 
+          "uid": "i4j6wtt31ts6tl", 
+          "created": "2017-08-24T03:06:44Z", 
+          "type": "feedback", 
+          "id": "j6pva2t9wdz6d6", 
+          "anon": "no", 
+          "bucket_name": "Week 8/20 - 8/26", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Hi Daynell. I&#39;m in Woodstock so it wouldn&#39;t be too awful far if we want to go the in-person route. I&#39;m fine either way.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-24T03:25:24Z", 
+          "uid": "grmp0khbn71", 
+          "created": "2017-08-24T03:25:24Z", 
+          "type": "feedback", 
+          "id": "j6pvy35ju4b2qc", 
+          "anon": "no", 
+          "bucket_name": "Week 8/20 - 8/26", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Great, here&#39;s my email - daynelloconor&#64;gmail.com</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-24T17:18:35Z", 
+          "uid": "iddox7abejr2mj", 
+          "created": "2017-08-24T17:18:35Z", 
+          "type": "feedback", 
+          "id": "j6qppk95t68712", 
+          "anon": "no", 
+          "bucket_name": "Week 8/20 - 8/26", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I am in Mid-town Atlanta and interested in joining the group. My email is amitg.akg&#64;gmail.com.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-25T23:44:30Z", 
+          "uid": "hve4kbcvx7l4t3", 
+          "created": "2017-08-25T23:44:30Z", 
+          "type": "feedback", 
+          "id": "j6sixpub7nnv5", 
+          "anon": "no", 
+          "bucket_name": "Week 8/20 - 8/26", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "I live in Atl area too. Could you please include me for any google hangouts/study groups - lpillai3&#64;gatech.edu"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-27T22:45:01Z", 
+          "uid": "ijd70v3g5jd5e9", 
+          "created": "2017-08-27T22:45:01Z", 
+          "type": "feedback", 
+          "id": "j6vbown1ofy5i1", 
+          "anon": "no", 
+          "bucket_name": "Week 8/27 - 9/2", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>hey guys .... i wanna join the hangouts group too. email&#34; caa5042&#64;gmail.com</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-28T17:57:48Z", 
+          "uid": "hv8z1ta1w1b6nm", 
+          "created": "2017-08-28T17:57:48Z", 
+          "type": "feedback", 
+          "id": "j6wgve8a4g36nl", 
+          "anon": "no", 
+          "bucket_name": "Week 8/27 - 9/2", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Weekends work for me.</p>\n<p></p>\n<p>my email is sthomps&#64;gmail.com</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-29T00:29:54Z", 
+          "uid": "i4t8e49dftt6h8", 
+          "created": "2017-08-29T00:29:54Z", 
+          "type": "feedback", 
+          "id": "j6wuvnf39e35z6", 
+          "anon": "no", 
+          "bucket_name": "Week 8/27 - 9/2", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Hi, I&#39;d like to join this as well (if there&#39;s one formed yet). email is <a href=\"mailto:varquisola&#64;gmail.com\">varquisola&#64;gmail.com</a>. I&#39;m in Chamblee, so I could do in-person as well.\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-29T03:41:57Z", 
+          "uid": "ijbr5ddtwyt6pa", 
+          "created": "2017-08-29T03:41:57Z", 
+          "type": "feedback", 
+          "id": "j6x1qm5anik5sl", 
+          "anon": "no", 
+          "bucket_name": "Week 8/27 - 9/2", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Midtown Atlanta. <a href=\"mailto:ssride360&#64;gmail.com\">ssride360&#64;gmail.com</a>. I can do a in person. Saturdays are best for me, or most weekdays</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-29T22:16:11Z", 
+          "uid": "idj18b4cw027p9", 
+          "created": "2017-08-29T22:16:11Z", 
+          "type": "feedback", 
+          "id": "j6y5jjpw6lb62", 
+          "anon": "no", 
+          "bucket_name": "Week 8/27 - 9/2", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Hi, I live in Dunwoody. <a href=\"mailto:jinaths&#64;gmail.com\">jinaths&#64;gmail.com</a></p>\n<p>I can do in person if i&#39;m in town or online.</p>\n<p>Weekends are best for me too.</p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-31T00:15:23Z", 
+          "uid": "i4t8e49dftt6h8", 
+          "created": "2017-08-31T00:15:23Z", 
+          "type": "feedback", 
+          "id": "j6zp8oxtk085x3", 
+          "anon": "no", 
+          "bucket_name": "Week 8/27 - 9/2", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Has anything been formed for this yet? If not, I&#39;ll make a hangout.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-01T00:02:11Z", 
+          "uid": "i4t8e49dftt6h8", 
+          "created": "2017-09-01T00:02:11Z", 
+          "type": "feedback", 
+          "id": "j7147jvjyt42du", 
+          "anon": "no", 
+          "bucket_name": "Week 8/27 - 9/2", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#64;Thomas Davis, what&#39;s your email? I set up the hangout.\u00a0</p>"
+        }
+      ], 
+      "subject": "<p>Is anyone in the Atlanta area? I am mostly available on the weekends. Would anyone in the area want to form an in-person or online study group?</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-24T01:50:41Z", 
+      "no_upvotes": 0, 
+      "uid": "hv1gl7gmpkj41y", 
+      "created": "2017-08-24T01:50:41Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6psk9y6w26792", 
+      "anon": "no", 
+      "bucket_name": "Week 8/20 - 8/26", 
+      "config": {}, 
+      "bucket_order": 8, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "East coast here, online would work best for me."
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-24T04:37:16Z", 
+      "no_upvotes": 0, 
+      "uid": "iddoy2bdneb2tv", 
+      "created": "2017-08-24T04:37:16Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6pyiigcqu3626", 
+      "anon": "no", 
+      "bucket_name": "Week 8/20 - 8/26", 
+      "config": {}, 
+      "bucket_order": 8, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>East coast here as well. My email is <a href=\"mailto:jpein001&#64;fiu.edu\">jpein001&#64;fiu.edu</a>\u00a0</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-24T12:15:59Z", 
+      "no_upvotes": 0, 
+      "uid": "iej41k6jtiz3dc", 
+      "created": "2017-08-24T12:15:59Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6qewf6bimi399", 
+      "anon": "no", 
+      "bucket_name": "Week 8/20 - 8/26", 
+      "config": {}, 
+      "bucket_order": 8, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>East coaster as well. Toronto, specifically. Happy to do online or in person!</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-24T12:48:04Z", 
+      "no_upvotes": 0, 
+      "uid": "i4jridi579yhq", 
+      "created": "2017-08-24T12:48:04Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6qg1odfcqx6lo", 
+      "anon": "no", 
+      "bucket_name": "Week 8/20 - 8/26", 
+      "config": {}, 
+      "bucket_order": 8, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>I&#39;m on the east coast, my email address is mjs2600&#64;gmail.com.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-24T15:50:52Z", 
+      "no_upvotes": 0, 
+      "uid": "i4no5h494jw7ha", 
+      "created": "2017-08-24T15:50:52Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6qmkreufwr4ps", 
+      "anon": "no", 
+      "bucket_name": "Week 8/20 - 8/26", 
+      "config": {}, 
+      "bucket_order": 8, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>Chicago, Central time here! my email address is tanmayakg&#64;gmail.com.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-24T20:17:01Z", 
+      "no_upvotes": 0, 
+      "uid": "ijjd1u5dbTq", 
+      "created": "2017-08-24T20:17:01Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6qw31eaehxl6", 
+      "anon": "no", 
+      "bucket_name": "Week 8/20 - 8/26", 
+      "config": {}, 
+      "bucket_order": 8, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-08-25T00:57:14Z", 
+          "uid": "iddoy2bdneb2tv", 
+          "created": "2017-08-25T00:57:14Z", 
+          "type": "feedback", 
+          "id": "j6r63ef3klc56y", 
+          "anon": "no", 
+          "bucket_name": "Week 8/20 - 8/26", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Hello JC. Where in Florida? I am in Orlando</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-25T01:03:07Z", 
+          "uid": "ijjd1u5dbTq", 
+          "created": "2017-08-25T01:03:07Z", 
+          "type": "feedback", 
+          "id": "j6r6ay4ywyaq3", 
+          "anon": "no", 
+          "bucket_name": "Week 8/20 - 8/26", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I&#39;m about 20 minutes north of Orlando near Lake Mary. My email is my full name. jamescarltonconnell&#64;gmail.com</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-25T05:23:00Z", 
+          "uid": "iddoy2bdneb2tv", 
+          "created": "2017-08-25T05:23:00Z", 
+          "type": "feedback", 
+          "id": "j6rfl600rva5yt", 
+          "anon": "no", 
+          "bucket_name": "Week 8/20 - 8/26", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Sent you an email!</p>"
+        }
+      ], 
+      "subject": "<p>Anyone doing anything with the east coast emails? I&#39;m in Florida. Count me in for a study group.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-24T21:41:14Z", 
+      "no_upvotes": 0, 
+      "uid": "iddrzsmg4mgfr", 
+      "created": "2017-08-24T21:41:14Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6qz3c3oibn3u3", 
+      "anon": "no", 
+      "bucket_name": "Week 8/20 - 8/26", 
+      "config": {}, 
+      "bucket_order": 8, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>GMT &#43;3 but can meet online via Hangouts\u00a0</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-25T19:40:27Z", 
+      "no_upvotes": 0, 
+      "uid": "hyywem7iw0v1jj", 
+      "created": "2017-08-25T19:40:27Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6sa7v4shd47b1", 
+      "anon": "no", 
+      "bucket_name": "Week 8/20 - 8/26", 
+      "config": {}, 
+      "bucket_order": 8, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>I&#39;m on EST too and online meetings works well for me too.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-26T18:33:07Z", 
+      "no_upvotes": 0, 
+      "uid": "hz1q5mlxiv47my", 
+      "created": "2017-08-26T18:33:07Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6tn94dtr3q6j1", 
+      "anon": "no", 
+      "bucket_name": "Week 8/20 - 8/26", 
+      "config": {}, 
+      "bucket_order": 8, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>I&#39;m in Pittsburgh, EST looking for an online study group.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-27T11:44:39Z", 
+      "no_upvotes": 0, 
+      "uid": "i9jo0dmat4G", 
+      "created": "2017-08-27T11:44:39Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6uo3okgkbc5py", 
+      "anon": "no", 
+      "bucket_name": "Week 8/27 - 9/2", 
+      "config": {}, 
+      "bucket_order": 7, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>GMT &#43;5</p>\n<p>But i can meet when the group is meeting.</p>\n<p></p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-28T04:12:50Z", 
+      "no_upvotes": 0, 
+      "uid": "hyxsfez7m632oo", 
+      "created": "2017-08-28T04:12:50Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6vnehdl3l34a8", 
+      "anon": "no", 
+      "bucket_name": "Week 8/27 - 9/2", 
+      "config": {}, 
+      "bucket_order": 7, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "I&#39;m in AZ, and also would like to be included in the study group. my email - w.zalisz&#64;gatech.edu"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-30T16:03:57Z", 
+      "no_upvotes": 0, 
+      "uid": "i4jbu18kld03sy", 
+      "created": "2017-08-30T16:03:57Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6z7op9u3qasy", 
+      "anon": "no", 
+      "bucket_name": "Week 8/27 - 9/2", 
+      "config": {}, 
+      "bucket_order": 7, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-02T00:25:48Z", 
+          "uid": "ij7curo6tdo360", 
+          "created": "2017-09-02T00:25:48Z", 
+          "type": "feedback", 
+          "id": "j72khsbg9va777", 
+          "anon": "no", 
+          "bucket_name": "Week 8/27 - 9/2", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Hello Vina,</p>\n<p></p>\n<p>I&#39;m in Los Angeles, CA. I would be interested in taking part of the study group, if it&#39;s still available.</p>\n<p></p>\n<p>My email is <a href=\"mailto:Diego.Perilla&#64;gatech.edu\">Diego.Perilla&#64;gatech.edu</a></p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-03T08:14:44Z", 
+          "uid": "ixqbkrwyoq429j", 
+          "created": "2017-09-03T08:14:44Z", 
+          "type": "feedback", 
+          "id": "j74goocbm331ao", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I&#39;m in LA as well. Can I get in on this? jjang&#64;gatech.edu</p>"
+        }
+      ], 
+      "subject": "Anyone else on the west coast? I can meet online or in the San Diego (North County) area."
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-03T19:08:13Z", 
+      "no_upvotes": 0, 
+      "uid": "hve4kb0lopy4sl", 
+      "created": "2017-09-03T19:08:13Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j75412w48h12xy", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>I&#39;m in Tampa Florida if anyone would be interested in forming a study group.\u00a0 Email me at dkrinos3&#64;gatech.edu</p>"
+    }
+  ], 
+  "nr": 61, 
+  "bucket_order": 2, 
+  "type": "note", 
+  "folders": [
+    "course", 
+    "logistics"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 2, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-08-24T01:09:09Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145317962, 
+  "tag_good": [
+    {
+      "name": "Eddie Spencer", 
+      "admin": false, 
+      "photo": "1432002672_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4j6x8uvfv6743"
+    }
+  ], 
+  "tag_good_arr": [
+    "i4j6x8uvfv6743"
+  ], 
+  "history": [
+    {
+      "content": "<p>I&#39;m starting a thread\u00a0for coordinating study groups. If you&#39;d like to try and connect with people taking the class, do so below.</p>", 
+      "anon": "no", 
+      "created": "2017-08-24T01:09:09Z", 
+      "uid": "hvduxyr7r4s6q7", 
+      "subject": "Study Group Thread"
+    }
+  ]
+}

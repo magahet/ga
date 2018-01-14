@@ -1,0 +1,136 @@
+{
+  "status": "active", 
+  "unique_views": 134, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-06T05:31:43Z", 
+      "data": "j8fge60bprw2ly", 
+      "uid": "iddoxdh5wry2oa"
+    }, 
+    {
+      "uid": "i4hdvab632i522", 
+      "type": "s_answer", 
+      "when": "2017-10-06T06:49:12Z", 
+      "to": "j8fge6081ni2lx", 
+      "anon": "no", 
+      "data": "j8fj5t4mpg7co"
+    }, 
+    {
+      "uid": "gns9oa0pgsO", 
+      "type": "i_answer", 
+      "when": "2017-10-06T07:02:16Z", 
+      "to": "j8fge6081ni2lx", 
+      "anon": "no", 
+      "data": "j8fjmm2oy44n0"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8fge6081ni2lx", 
+  "bookmarked": 4, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-06T06:49:12Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j8fj5t4h2o2cn", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "You may try implementing / testing a 3rd type of hash function, although it is not necessary", 
+          "anon": "no", 
+          "created": "2017-10-06T06:49:12Z", 
+          "uid": "i4hdvab632i522", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-06T07:02:16Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j8fjmm2nben4mz", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>you can ignore it, or use it to experiment with other hashing techniques.</p>", 
+          "anon": "no", 
+          "created": "2017-10-06T07:02:16Z", 
+          "uid": "gns9oa0pgsO", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 630, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "project"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "project", 
+    "student"
+  ], 
+  "created": "2017-10-06T05:31:43Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145172024, 
+  "tag_good": [
+    {
+      "name": "Hamel", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hkvdb9dig3v511"
+    }
+  ], 
+  "tag_good_arr": [
+    "hkvdb9dig3v511"
+  ], 
+  "history": [
+    {
+      "content": "<p>In the constructor of BloomFilter, there is a commented line &#34;</p>\n<pre>#elif(self.type == 3): #add your own hashes</pre>\n<p>&#34;\u00a0</p>\n<p>We should ignore this, right?</p>\n<p>I just want to make sure that we are not asked to define another type of hash function.</p>", 
+      "anon": "no", 
+      "created": "2017-10-06T05:31:43Z", 
+      "uid": "iddoxdh5wry2oa", 
+      "subject": "&#34;type 3&#34; hash_function in BloomFilter constructor"
+    }
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "status": "active", 
+  "unique_views": 163, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-11T19:00:09Z", 
+      "data": "j8neh2e2qp22k4", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-11T19:01:28Z", 
+      "data": "j8neirpljro44o", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-11T19:03:50Z", 
+      "data": "j8nelsy3fu36hb", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-11T19:05:46Z", 
+      "data": "j8neoaerbp65r0", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-11T19:17:34Z", 
+      "data": "j8nf3gohpxm2oa", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-11T19:17:47Z", 
+      "data": "j8nf3r53qx92wl", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-11T19:24:41Z", 
+      "data": "j8nfclv1rcc4o6", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j8neh2dz70s2k3", 
+      "anon": "no", 
+      "when": "2017-10-11T20:59:37Z", 
+      "type": "followup", 
+      "uid": "hvvxmpxfuyb2eo"
+    }, 
+    {
+      "to": "j8neh2dz70s2k3", 
+      "anon": "no", 
+      "when": "2017-10-15T01:02:48Z", 
+      "type": "followup", 
+      "uid": "hq8hn0qyfuvyr"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8neh2dz70s2k3", 
+  "bookmarked": 4, 
+  "tags": [
+    "graph_algorithms", 
+    "student"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-10-11T20:59:37Z", 
+      "no_upvotes": 0, 
+      "uid": "hvvxmpxfuyb2eo", 
+      "created": "2017-10-11T20:59:37Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8niqp7oa1f25x", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "thanks Brent!"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-15T01:02:48Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "hq8hn0qyfuvyr", 
+      "created": "2017-10-15T01:02:48Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8s1qzj62sl6a5", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "Thanks. Very good explanation."
+    }
+  ], 
+  "nr": 701, 
+  "bucket_order": 2, 
+  "type": "note", 
+  "folders": [
+    "graph_algorithms"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 8, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-10-11T19:00:09Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145155378, 
+  "tag_good": [
+    {
+      "name": "Erik Turk", 
+      "admin": false, 
+      "photo": "1432606567_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4iqvrxeAWr"
+    }, 
+    {
+      "name": "Michael Buss", 
+      "admin": false, 
+      "photo": "1435529089_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hz0pn3deX7A"
+    }, 
+    {
+      "name": "Gautam Venkataramanan", 
+      "admin": false, 
+      "photo": "1447185933_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hvvxmpxfuyb2eo"
+    }, 
+    {
+      "name": "Chris Anderson", 
+      "admin": false, 
+      "photo": "1408759905_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hz07uekkjnrpb"
+    }, 
+    {
+      "name": "Bhavani Subramanian", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "ijawb89brbO"
+    }, 
+    {
+      "name": "Estelle Yeh", 
+      "admin": false, 
+      "photo": "1421544945_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4fxg6tfzh211n"
+    }
+  ], 
+  "tag_good_arr": [
+    "i4iqvrxeAWr", 
+    "hz0pn3deX7A", 
+    "hvvxmpxfuyb2eo", 
+    "hz07uekkjnrpb", 
+    "ijawb89brbO", 
+    "i4fxg6tfzh211n"
+  ], 
+  "history": [
+    {
+      "content": "<p>Hi All,</p>\n<p></p>\n<p>I initially described this in our class Slack channel; I was asked by a student to pin this in Slack, but figured it would be better here as I would have to pin a bunch of things there. Here is my description of how a residual network works.</p>\n<p></p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/hvil6y6khgk2ri/j8neln4iz794/residualEx.jpg\" alt=\"\" /></p>\n<p><br />The blue number = capacity, red number = flow, green number = residual. The red and green numbers represent both edges, the red the original edge and green the available residual in the opposite direction.<br /><br />Figure A represents the initial pristine graph, untouched. Between Figure A and B, the first flow (purple) comes in on the top line, down the middle, and then terminates in t using the bottom line. It completely fills all pipes it touches, so 0/10 capacity is left on each. <br /><br />Figure B represents the aftermath of that; note the new green 10, which represents &#34;hey, this is the max we could push BACK if need be&#34;; this is the residual.<br /><br />In figure C, a new flow comes in the bottom (green flow)....it notices that it can &#39;repel&#39; as much as 10 units of the green number, but it checks the ENTIRE path to t and it finds out that its only possible to use 7 units; so it repels 7 units of the purple flow, which are re-directed to the top termination. The top purple flow had 7 units re-routed to the top termination; the bottom termination is actually using 3 units from the purple flow and 7 from the green bottom flow. Since the top flow was established first, we must accommodate the entirety of that flow; the bottom flow gets screwed and can only output 7 <br /><br />Note the residual graph - with all of its edges - is built after EVERY iteration. The above graph was built 3 additional times after the initial build; on the first re-build, the line from the top vertex to the bottom vertex was completely eliminated BUT one was built in the opposite direction as there was residual...aka &#39; I can repel 10 units&#34;.\u00a0 This edge did not exist in the initial but exists now. Edges are constantly re-bult, deleted, and modified for every iteration.\u00a0 The final graph - not shown - basically is unsolvable, and as such the max-flow algorithm knows its done.</p>", 
+      "anon": "no", 
+      "created": "2017-10-11T19:24:41Z", 
+      "uid": "hvil6y6khgk2ri", 
+      "subject": "My Interpretation of A Residual Network"
+    }, 
+    {
+      "content": "<p>Hi All,</p>\n<p></p>\n<p>I initially described this in our class Slack channel; I was asked by a student to pin this in Slack, but figured it would be better here as I would have to pin a bunch of things there. Here is my description of how a residual network works.</p>\n<p></p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/hvil6y6khgk2ri/j8neln4iz794/residualEx.jpg\" alt=\"\" /></p>\n<p><br />The blue number = capacity, red number = flow load, green number = residual. The red and green numbers represent both edges, the red the original edge and green the available residual in the opposite direction.<br /><br />Figure A represents the initial pristine graph, untouched. Between Figure A and B, the first flow (purple) comes in on the top line, down the middle, and then terminates in t using the bottom line. It completely fills all pipes it touches, so 0/10 capacity is left on each. <br /><br />Figure B represents the aftermath of that; note the new green 10, which represents &#34;hey, this is the max we could push BACK if need be&#34;; this is the residual.<br /><br />In figure C, a new flow comes in the bottom (green flow)....it notices that it can &#39;repel&#39; as much as 10 units of the green number, but it checks the ENTIRE path to t and it finds out that its only possible to use 7 units; so it repels 7 units of the purple flow, which are re-directed to the top termination. The top purple flow had 7 units re-routed to the top termination; the bottom termination is actually using 3 units from the purple flow and 7 from the green bottom flow. Since the top flow was established first, we must accommodate the entirety of that flow; the bottom flow gets screwed and can only output 7 <br /><br />Note the residual graph - with all of its edges - is built after EVERY iteration. The above graph was built 3 additional times after the initial build; on the first re-build, the line from the top vertex to the bottom vertex was completely eliminated BUT one was built in the opposite direction as there was residual...aka &#39; I can repel 10 units&#34;.\u00a0 This edge did not exist in the initial but exists now. Edges are constantly re-bult, deleted, and modified for every iteration.\u00a0 The final graph - not shown - basically is unsolvable, and as such the max-flow algorithm knows its done.</p>", 
+      "anon": "no", 
+      "created": "2017-10-11T19:17:47Z", 
+      "uid": "hvil6y6khgk2ri", 
+      "subject": "My Interpretation of A Residual Network"
+    }, 
+    {
+      "content": "<p>Hi All,</p>\n<p></p>\n<p>I was initially described this in our class Slack channel; I was asked by a student to pin this in Slack, but figured it would be better here as I would have to pin a bunch of things there. Here is my description of how a residual network works.</p>\n<p></p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/hvil6y6khgk2ri/j8neln4iz794/residualEx.jpg\" alt=\"\" /></p>\n<p><br />The blue number = capacity, red number = flow load, green number = residual. The red and green numbers represent both edges, the red the original edge and green the available residual in the opposite direction.<br /><br />Figure A represents the initial pristine graph, untouched. Between Figure A and B, the first flow (purple) comes in on the top line, down the middle, and then terminates in t using the bottom line. It completely fills all pipes it touches, so 0/10 capacity is left on each. <br /><br />Figure B represents the aftermath of that; note the new green 10, which represents &#34;hey, this is the max we could push BACK if need be&#34;; this is the residual.<br /><br />In figure C, a new flow comes in the bottom (green flow)....it notices that it can &#39;repel&#39; as much as 10 units of the green number, but it checks the ENTIRE path to t and it finds out that its only possible to use 7 units; so it repels 7 units of the purple flow, which are re-directed to the top termination. The top purple flow had 7 units re-routed to the top termination; the bottom termination is actually using 3 units from the purple flow and 7 from the green bottom flow. Since the top flow was established first, we must accommodate the entirety of that flow; the bottom flow gets screwed and can only output 7 <br /><br />Note the residual graph - with all of its edges - is built after EVERY iteration. The above graph was built 3 additional times after the initial build; on the first re-build, the line from the top vertex to the bottom vertex was completely eliminated BUT one was built in the opposite direction as there was residual...aka &#39; I can repel 10 units&#34;.\u00a0 This edge did not exist in the initial but exists now. Edges are constantly re-bult, deleted, and modified for every iteration.\u00a0 The final graph - not shown - basically is unsolvable, and as such the max-flow algorithm knows its done.</p>", 
+      "anon": "no", 
+      "created": "2017-10-11T19:17:34Z", 
+      "uid": "hvil6y6khgk2ri", 
+      "subject": "My Interpretation of A Residual Network"
+    }, 
+    {
+      "content": "<p>Hi All,</p>\n<p></p>\n<p>I was asked on Slack to save this, so here is my description of how a residual network works.</p>\n<p></p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/hvil6y6khgk2ri/j8neln4iz794/residualEx.jpg\" alt=\"\" /></p>\n<p><br />The blue number = capacity, red number = flow load, green number = residual. The red and green numbers represent both edges, the red the original edge and green the available residual in the opposite direction.<br /><br />Figure A represents the initial pristine graph, untouched. Between Figure A and B, the first flow (purple) comes in on the top line, down the middle, and then terminates in t using the bottom line. It completely fills all pipes it touches, so 0/10 capacity is left on each. <br /><br />Figure B represents the aftermath of that; note the new green 10, which represents &#34;hey, this is the max we could push BACK if need be&#34;; this is the residual.<br /><br />In figure C, a new flow comes in the bottom (green flow)....it notices that it can &#39;repel&#39; as much as 10 units of the green number, but it checks the ENTIRE path to t and it finds out that its only possible to use 7 units; so it repels 7 units of the purple flow, which are re-directed to the top termination. The top purple flow had 7 units re-routed to the top termination; the bottom termination is actually using 3 units from the purple flow and 7 from the green bottom flow. Since the top flow was established first, we must accommodate the entirety of that flow; the bottom flow gets screwed and can only output 7 <br /><br />Note the residual graph - with all of its edges - is built after EVERY iteration. The above graph was built 3 additional times after the initial build; on the first re-build, the line from the top vertex to the bottom vertex was completely eliminated BUT one was built in the opposite direction as there was residual...aka &#39; I can repel 10 units&#34;.\u00a0 This edge did not exist in the initial but exists now. Edges are constantly re-bult, deleted, and modified for every iteration.\u00a0 The final graph - not shown - basically is unsolvable, and as such the max-flow algorithm knows its done.</p>", 
+      "anon": "no", 
+      "created": "2017-10-11T19:05:46Z", 
+      "uid": "hvil6y6khgk2ri", 
+      "subject": "My Interpretation of A Residual Network"
+    }, 
+    {
+      "content": "<p>Hi All,</p>\n<p></p>\n<p>I was asked on Slack to save this, so here is my description of how a residual network works.</p>\n<p></p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/hvil6y6khgk2ri/j8neln4iz794/residualEx.jpg\" alt=\"\" /></p>\n<p><br />The blue number = capacity, red number = flow load, green number = residual. The red and green numbers represent both edges, the red the original edge and green the available residual in the opposite direction.<br /><br />In figure A, the first flow (purple) comes in on the top line, down the middle, and then terminates in t using the bottom line. It completely fills all pipes it touches, so 0/10 capacity is left on each. <br /><br />Figure B represents the aftermath of that; note the new green 10, which represents &#34;hey, this is the max we could push BACK if need be&#34;; this is the residual.<br /><br />In figure C, a new flow comes in the bottom (green flow)....it notices that it can &#39;repel&#39; as much as 10 units of the green number, but it checks the ENTIRE path to t and it finds out that its only possible to use 7 units; so it repels 7 units of the purple flow, which are re-directed to the top termination. The top purple flow had 7 units re-routed to the top termination; the bottom termination is actually using 3 units from the purple flow and 7 from the green bottom flow. Since the top flow was established first, we must accommodate the entirety of that flow; the bottom flow gets screwed and can only output 7 <br /><br />Note the residual graph - with all of its edges - is built after EVERY iteration. The above graph was built 3 additional times after the initial build; on the first re-build, the line from the top vertex to the bottom vertex was completely eliminated BUT one was built in the opposite direction as there was residual...aka &#39; I can repel 10 units&#34;.\u00a0 This edge did not exist in the initial but exists now. Edges are constantly re-bult, deleted, and modified for every iteration.\u00a0 The final graph - not shown - basically is unsolvable, and as such the max-flow algorithm knows its done.</p>", 
+      "anon": "no", 
+      "created": "2017-10-11T19:03:50Z", 
+      "uid": "hvil6y6khgk2ri", 
+      "subject": "My Interpretation of A Residual Network"
+    }, 
+    {
+      "content": "<p>Hi All,</p>\n<p></p>\n<p>I was asked on Slack to save this, so here is my description of how a residual network works.</p>\n<p></p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/hvil6y6khgk2ri/j8neg70d11ye/residualEx.jpg\" alt=\"\" /></p>\n<p><br />The blue number = capacity, red number = flow load, green number = residual. The red and green numbers represent both edges, the red the original edge and green the available residual in the opposite direction.<br /><br />In figure A, the first flow (purple) comes in on the top line, down the middle, and then terminates in t using the bottom line. It completely fills all pipes it touches, so 0/10 capacity is left on each. <br /><br />Figure B represents the aftermath of that; note the new green 10, which represents &#34;hey, this is the max we could push BACK if need be&#34;; this is the residual.<br /><br />In figure C, a new flow comes in the bottom (green flow)....it notices that it can &#39;repel&#39; as much as 10 units of the green number, but it checks the ENTIRE path to t and it finds out that its only possible to use 7 units; so it repels 7 units of the purple flow, which are re-directed to the top termination. The top purple flow had 7 units re-routed to the top termination; the bottom termination is actually using 3 units from the purple flow and 7 from the green bottom flow. Since the top flow was established first, we must accommodate the entirety of that flow; the bottom flow gets screwed and can only output 7 <br /><br />Note the residual graph - with all of its edges - is built after EVERY iteration. The above graph was built 3 additional times after the initial build; on the first re-build, the line from the top vertex to the bottom vertex was completely eliminated BUT one was built in the opposite direction as there was residual...aka &#39; I can repel 10 units&#34;.\u00a0 This edge did not exist in the initial but exists now. Edges are constantly re-bult, deleted, and modified for every iteration.\u00a0 The final graph - not shown - basically is unsolvable, and as such the max-flow algorithm knows its done.</p>", 
+      "anon": "no", 
+      "created": "2017-10-11T19:01:28Z", 
+      "uid": "hvil6y6khgk2ri", 
+      "subject": "My Interpretation of A Residual Network"
+    }, 
+    {
+      "content": "<p>Hi All,</p>\n<p></p>\n<p>I was asked on Slack to save this, so here is my description of how a residual network works.</p>\n<p></p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/hvil6y6khgk2ri/j8neg70d11ye/residualEx.jpg\" alt=\"\" /></p>\n<p><br />The blue number = capacity, red number = flow load, green number = residual.<br /><br />In figure A, the first flow (purple) comes in on the top line, down the middle, and then terminates in t using the bottom line. It completely fills all pipes it touches, so 0/10 capacity is left on each. <br /><br />Figure B represents the aftermath of that; note the new green 10, which represents &#34;hey, this is the max we could push BACK if need be&#34;; this is the residual.<br /><br />In figure C, a new flow comes in the bottom (green flow)....it notices that it can &#39;repel&#39; as much as 10 units of the green number, but it checks the ENTIRE path to t and it finds out that its only possible to use 7 units; so it repels 7 units of the purple flow, which are re-directed to the top termination. The top purple flow had 7 units re-routed to the top termination; the bottom termination is actually using 3 units from the purple flow and 7 from the green bottom flow. Since the top flow was established first, we must accommodate the entirety of that flow; the bottom flow gets screwed and can only output 7 <br /><br />Note the residual graph - with all of its edges - is built after EVERY iteration. The above graph was built 3 additional times after the initial build; on the first re-build, the line from the top vertex to the bottom vertex was completely eliminated BUT one was built in the opposite direction as there was residual...aka &#39; I can repel 10 units&#34;.\u00a0 This edge did not exist in the initial but exists now. Edges are constantly re-bult, deleted, and modified for every iteration.\u00a0 The final graph - not shown - basically is unsolvable, and as such the max-flow algorithm knows its done.</p>", 
+      "anon": "no", 
+      "created": "2017-10-11T19:00:09Z", 
+      "uid": "hvil6y6khgk2ri", 
+      "subject": "My Interpretation of A Residual Network"
+    }
+  ]
+}

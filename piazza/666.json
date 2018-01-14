@@ -1,0 +1,258 @@
+{
+  "status": "active", 
+  "unique_views": 143, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-08T01:37:02Z", 
+      "data": "j8i2w1vylhq6vw", 
+      "uid": "i4pmksfnape"
+    }, 
+    {
+      "uid": "hqa46xpsbzd2aj", 
+      "type": "s_answer", 
+      "when": "2017-10-08T01:41:44Z", 
+      "to": "j8i2w1vxgiu6vv", 
+      "anon": "no", 
+      "data": "j8i323tkvt67f2"
+    }, 
+    {
+      "to": "j8i2w1vxgiu6vv", 
+      "anon": "no", 
+      "when": "2017-10-08T01:48:43Z", 
+      "type": "followup", 
+      "uid": "hvvxmpxfuyb2eo"
+    }, 
+    {
+      "to": "j8i2w1vxgiu6vv", 
+      "anon": "no", 
+      "when": "2017-10-08T02:44:15Z", 
+      "type": "followup", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j8i2w1vxgiu6vv", 
+      "anon": "no", 
+      "when": "2017-10-08T03:04:34Z", 
+      "type": "feedback", 
+      "uid": "i4pmksfnape"
+    }, 
+    {
+      "to": "j8i2w1vxgiu6vv", 
+      "anon": "no", 
+      "when": "2017-10-08T04:02:43Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-10-08T07:22:39Z", 
+      "data": "j8if8isjge32wq", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "to": "j8i2w1vxgiu6vv", 
+      "anon": "no", 
+      "when": "2017-10-08T12:24:43Z", 
+      "type": "feedback", 
+      "uid": "hve4kb0lopy4sl"
+    }, 
+    {
+      "to": "j8i2w1vxgiu6vv", 
+      "anon": "no", 
+      "when": "2017-10-08T21:02:26Z", 
+      "type": "feedback", 
+      "uid": "i4ket0u1z5q31a"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8i2w1vxgiu6vv", 
+  "bookmarked": 7, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-08T01:41:44Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j8i323thlb67f1", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "1) Try using a smaller m.\n\n2) Try adding the args <tt>marker=&#39;.&#39;, s=1</tt> to your pyplot <tt>scatter()</tt> command", 
+          "anon": "no", 
+          "created": "2017-10-08T07:22:39Z", 
+          "uid": "i4hdvab632i522", 
+          "subject": ""
+        }, 
+        {
+          "content": "Try using a smaller m.", 
+          "anon": "no", 
+          "created": "2017-10-08T01:41:44Z", 
+          "uid": "hqa46xpsbzd2aj", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-08T01:48:43Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "hvvxmpxfuyb2eo", 
+      "created": "2017-10-08T01:48:43Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8i3b2ixd9048x", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "just plot 1000 or whatever number of points to make it clear and also capable of showing difference."
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-08T02:44:15Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "hq8hn0qyfuvyr", 
+      "created": "2017-10-08T02:44:15Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8i5ai9hv604g4", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-08T03:04:34Z", 
+          "uid": "i4pmksfnape", 
+          "created": "2017-10-08T03:04:34Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j8i60mrfk6q38c", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>as the value for m?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-08T04:02:43Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-10-08T04:02:43Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j8i83efm404w0", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Yes, as the number of test values and hash value pairs to plot on the scatter plot."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-08T12:24:43Z", 
+          "uid": "hve4kb0lopy4sl", 
+          "created": "2017-10-08T12:24:43Z", 
+          "type": "feedback", 
+          "id": "j8iq0z9mt606ok", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I used 100,000 points and the scatter plots are still very fast (like a couple seconds) even with that much data...bar and line plots not as fast and they do take several minutes to generate...I&#39;m using a pretty strong laptop though. \u00a0 I thought the charts look cool with a lot of data too..</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-08T21:02:26Z", 
+          "uid": "i4ket0u1z5q31a", 
+          "created": "2017-10-08T21:02:26Z", 
+          "type": "feedback", 
+          "id": "j8j8irwan5c6gb", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>You can use 100K data points and then only plot 10K (or less) of them to show the patterns you want.</p>\n<p>You can also set the figsize in the plot call to something bigger like 12 inches x 12 inches to space things out.</p>\n<p>And as already mentioned change the dot size and turn off the dot border in the scatter plot formatting.</p>\n<p></p>\n<p></p>"
+        }
+      ], 
+      "subject": "John Turner recommended using 10000."
+    }
+  ], 
+  "nr": 666, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "project"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 0, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "project", 
+    "student"
+  ], 
+  "created": "2017-10-08T01:37:02Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145164752, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>For Task 1, I have followed the suggestions given in the pdf and office hours, and ran both hashes on two data sets- random from the universe, and a correlated dataset (first 2m even #s).\u00a0</p>\n<p></p>\n<p>I am trying to plot the mapping of the inserted element to the hash value (X axis is hash value, Y axis is original value- as mentioned in the office hours) for both hashes using the two datasets mentioned above. However, because the universe size is so big,\u00a0the number of elements inserted and\u00a0the hash table size is relatively big as well, I am getting a scatter plot that looks like the following, which I feel isn&#39;t very helpful in my analysis.</p>\n<p></p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/i4pmksfnape/j8i2n7hy7n4n/Screen_Shot_20171007_at_9.29.12_PM.png\" alt=\"\" width=\"558\" height=\"261\" /></p>\n<p></p>\n<p>What can I do to produce a better/more useful scatter plot for Task 1? I am currently using default values for n(1917017), m (200000) and N(2147483647) for Task 1. Do you suggest I reduce any of those variables to a smaller number? Should I only plot part of the data to get a clearer picture of the scatters?\u00a0 Or is the scatter plot above acceptable even though I can barely draw any conclusions from it?</p>\n<p></p>\n<p>Any input is appreciated if anyone is having the same question as me, or had a similar question answered by an instructor already. Thanks!.</p>", 
+      "anon": "no", 
+      "created": "2017-10-08T01:37:02Z", 
+      "uid": "i4pmksfnape", 
+      "subject": "Question regarding Task 1 plot"
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+{
+  "status": "active", 
+  "unique_views": 168, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-14T20:35:51Z", 
+      "data": "j8rs7or6m5fu", 
+      "uid": "i4m8xop4ndthr"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-14T20:36:34Z", 
+      "data": "j8rs8mebl751bb", 
+      "uid": "i4m8xop4ndthr"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-14T20:36:53Z", 
+      "data": "j8rs90mia3n1lk", 
+      "uid": "i4m8xop4ndthr"
+    }, 
+    {
+      "uid": "hkvdb9dig3v511", 
+      "type": "s_answer", 
+      "when": "2017-10-14T22:17:12Z", 
+      "to": "j8rs7or4ybdft", 
+      "anon": "no", 
+      "data": "j8rvu1cpkvucv"
+    }, 
+    {
+      "to": "j8rs7or4ybdft", 
+      "anon": "no", 
+      "when": "2017-10-15T03:36:17Z", 
+      "type": "followup", 
+      "uid": "i4m8xop4ndthr"
+    }, 
+    {
+      "to": "j8rs7or4ybdft", 
+      "anon": "no", 
+      "when": "2017-10-15T06:56:25Z", 
+      "type": "feedback", 
+      "uid": "hkvdb9dig3v511"
+    }, 
+    {
+      "to": "j8rs7or4ybdft", 
+      "anon": "no", 
+      "when": "2017-10-15T06:58:23Z", 
+      "type": "feedback", 
+      "uid": "hkvdb9dig3v511"
+    }, 
+    {
+      "to": "j8rs7or4ybdft", 
+      "anon": "no", 
+      "when": "2017-10-15T07:47:01Z", 
+      "type": "feedback", 
+      "uid": "i4m8xop4ndthr"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8rs7or4ybdft", 
+  "bookmarked": 4, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-14T22:17:12Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [
+        "idej2kl6hh1"
+      ], 
+      "id": "j8rvu1ck312cu", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Chris Noyes", 
+          "admin": false, 
+          "photo": null, 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "idej2kl6hh1"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>Max flow doesn&#39;t find the min cut as a side effect.\u00a0 You have to perform DFS / BFS again on the residual graph to find the min cut.\u00a0 It doesn&#39;t come completely for &#34;free&#34;:</p>\n<p></p>\n<p>1.\u00a0 Do max flow -&gt; O(mC) time, if you use Ford Fulkerson</p>\n<p>2.\u00a0 Do DFS on residual graph -&gt; O(n &#43; m) to find all nodes reachable from s</p>\n<p></p>\n<p>Total running time will be O(mC) because that term dominates.</p>\n<p></p>\n<p></p>", 
+          "anon": "no", 
+          "created": "2017-10-14T22:17:12Z", 
+          "uid": "hkvdb9dig3v511", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-15T03:36:17Z", 
+      "no_upvotes": 0, 
+      "uid": "i4m8xop4ndthr", 
+      "created": "2017-10-15T03:36:17Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8s78d80rp14g7", 
+      "anon": "no", 
+      "bucket_name": "Week 10/8 - 10/14", 
+      "config": {}, 
+      "bucket_order": 7, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-15T06:56:25Z", 
+          "uid": "hkvdb9dig3v511", 
+          "created": "2017-10-15T06:56:25Z", 
+          "type": "feedback", 
+          "id": "j8sedr143ef795", 
+          "anon": "no", 
+          "bucket_name": "Week 10/8 - 10/14", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Once max flow is finished do you really know min cut right away? \u00a0You have to do DFS to figure out what nodes are inside each partition.</p>\n<p></p>\n<p>You asked asked if there is a specific min cut algorithm-&gt; isn\u2019t this omen we are talking about pretty specific? \u00a0Maybe I\u2019m misunderstanding your question</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-15T06:58:23Z", 
+          "uid": "hkvdb9dig3v511", 
+          "created": "2017-10-15T06:58:23Z", 
+          "type": "feedback", 
+          "id": "j8seg9vpb732n7", 
+          "anon": "no", 
+          "bucket_name": "Week 10/8 - 10/14", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>*Algorithm not omen my phone has autocorrect sorry</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-15T07:47:01Z", 
+          "uid": "i4m8xop4ndthr", 
+          "created": "2017-10-15T07:47:01Z", 
+          "type": "feedback", 
+          "id": "j8sg6tple955bw", 
+          "anon": "no", 
+          "bucket_name": "Week 10/8 - 10/14", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>We don&#39;t know min cut, but we know that its value is equal to the value of max flow. That&#39;s correct that we have to perform extra DFS/BFS to find the min cut itself but,\u00a0this step will be based\u00a0on the\u00a0 residual graph constructed\u00a0by our max flow algorithm. The point is, that without finding max flow, we cannot find min cut using max flow algorithm.</p>\n<p></p>\n<p>However, in the HW problem\u00a0with multiple sources and sinks we cannot use max flow (Ford Fulkerson) algorithm\u00a0on the original graph.</p>\n<p></p>\n<p>I see here 2 approaches:</p>\n<p></p>\n<p>1. To alter our original graph in a certain way and perform Ford Fulkerson on it</p>\n<p></p>\n<p>2. To find min cut where all\u00a0$$ s\\in S $$ and all\u00a0 $$t \\in \\bar{S}$$ and its value should be the same as max flow from all sources to all sinks... Assuming that we are just looking for the value of max flow.</p>\n<p></p>\n<p></p>\n<p>So my question is whether 2nd approach would give a valid result on max flow value, and whether there is an algorithm, which finds the value of min cut independently from max flow, and possibly faster.</p>"
+        }
+      ], 
+      "subject": "Hamel, I realize, that finding min cut is not for free. By \u201cside effect\u201d I meant that Ford Fulkerson finds max flow first, and, once it\u2019s done, we know the value of min cut right away. So we find min cut _based_ on max flow.<div><br /></div><div>However, my question was about finding max flow _based_ on min cut.<br /><div><br /></div><div><br /></div></div>"
+    }
+  ], 
+  "nr": 720, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw5"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 3, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw5", 
+    "student"
+  ], 
+  "created": "2017-10-14T20:35:51Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145149115, 
+  "tag_good": [
+    {
+      "name": "William Miller", 
+      "admin": false, 
+      "photo": "1408322716_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hv1gl7gmpkj41y"
+    }
+  ], 
+  "tag_good_arr": [
+    "hv1gl7gmpkj41y"
+  ], 
+  "history": [
+    {
+      "content": "<p>I realize, that for HW5 problem 2<em>a we are supposed</em> to use max flow algorithm, but just out of curiosity, is there efficient min-cut-specific algorithm? (Because max flow algo finds the min cut value as a side effect). Suppose there is such an algorithm, then, if we find min cut for our flow network, such that all source vertices belong to $$S$$\u00a0and all the sink vertices belong to\u00a0$$\\bar{S}$$, would that be a valid solution?</p>", 
+      "anon": "no", 
+      "created": "2017-10-14T20:36:53Z", 
+      "uid": "i4m8xop4ndthr", 
+      "subject": "Multiple sources/sinks min cut"
+    }, 
+    {
+      "content": "<p>I realize, that for HW5 problem 2<em>a we are supposed</em> to use max flow algorithm, but just out of curiosity, is there efficient min-cut-specific algorithm? (Because max flow algo finds the min cut value as a side effect). Suppose there is such an algorithm, then, if we find min cut for our flow network, such that all source vertices belong to <em>S</em> and all the sink vertices belong to\u00a0$$\\bar{S}$$, would that be a valid solution?</p>", 
+      "anon": "no", 
+      "created": "2017-10-14T20:36:34Z", 
+      "uid": "i4m8xop4ndthr", 
+      "subject": "Multiple sources/sinks min cut"
+    }, 
+    {
+      "content": "<p>I realize, that for HW5 problem 2<em>a we are supposed</em> to use max flow algorithm, but just out of curiosity, is there efficient min-cut-specific algorithm? (Because max flow algo finds the min cut value as a side effect). Suppose there is such algorithm, then, if we find min cut for our flow network, such that all source vertices belong to <em>S</em> and all the sink vertices belong to\u00a0$$\\bar{S}$$, would that be a valid solution?</p>", 
+      "anon": "no", 
+      "created": "2017-10-14T20:35:51Z", 
+      "uid": "i4m8xop4ndthr", 
+      "subject": "Multiple sources/sinks min cut"
+    }
+  ]
+}

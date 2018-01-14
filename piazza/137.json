@@ -1,0 +1,148 @@
+{
+  "status": "active", 
+  "unique_views": 198, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-01T12:56:58Z", 
+      "data": "j71vvxdd9932uj", 
+      "uid": "isgwdf47kb42f"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-01T12:57:16Z", 
+      "data": "j71vwboh6sr3d1", 
+      "uid": "isgwdf47kb42f"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-01T12:58:49Z", 
+      "data": "j71vyb91xza479", 
+      "uid": "isgwdf47kb42f"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-01T17:03:14Z", 
+      "data": "j724on97q1w4k9", 
+      "uid": "isgwdf47kb42f"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-02T02:08:37Z", 
+      "data": "j72o5zt83p659", 
+      "uid": "isgwdf47kb42f"
+    }, 
+    {
+      "to": "j71vvxdcdiu2ui", 
+      "anon": "no", 
+      "when": "2017-09-03T00:04:37Z", 
+      "type": "followup", 
+      "uid": "i4j6wygy4l46wq"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j71vvxdcdiu2ui", 
+  "bookmarked": 2, 
+  "tags": [
+    "course", 
+    "hw1", 
+    "hw2", 
+    "instructor-note", 
+    "logistics"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-09-03T00:04:37Z", 
+      "no_upvotes": 0, 
+      "uid": "i4j6wygy4l46wq", 
+      "created": "2017-09-03T00:04:37Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j73z6e2up1q5ay", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>I hope everything is well with your family!</p>"
+    }
+  ], 
+  "nr": 137, 
+  "bucket_order": 2, 
+  "type": "note", 
+  "folders": [
+    "hw1", 
+    "hw2", 
+    "logistics", 
+    "course"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-09-01T12:56:58Z", 
+  "is_tag_good": false, 
+  "config": {
+    "is_announcement": 1, 
+    "bypass_email": 1
+  }, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145293955, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>Hi all,</p>\n<p></p>\n<p>I had moved my office hours to Friday this weekend because I was going to be visiting family (in Houston) but mother nature has informed me this probably wouldn&#39;t be the best weekend for that.</p>\n<p></p>\n<p>Office hours will still be tonight (Friday, 9PM EST). The slido event code is #CS8803-Sat.\u00a0You can view the office hours here:\u00a0<a href=\"https://www.youtube.com/watch?v=fo64_gkpLcc\">https://www.youtube.com/watch?v=fo64_gkpLcc</a></p>\n<p></p>\n<p>Since my weekend plans have changed I will also be available tomorrow via email and will be closely watching Piazza as well.</p>\n<p></p>\n<p>Best (and happy Labor Day),</p>\n<p>Michael\u00a0</p>", 
+      "anon": "no", 
+      "created": "2017-09-02T02:08:37Z", 
+      "uid": "isgwdf47kb42f", 
+      "subject": "This Weekend&#39;s Office Hours"
+    }, 
+    {
+      "content": "<p>Hi all,</p>\n<p></p>\n<p>I had moved my office hours to Friday this weekend because I was going to be visiting family (in Houston) but mother nature has informed me this probably wouldn&#39;t be the best weekend for that.</p>\n<p></p>\n<p>Office hours will still be tonight (Friday, 9PM EST). The slido event code is #CS8803-Sat.\u00a0You can view the office hours here:\u00a0<a href=\"https://www.youtube.com/watch?v=fo64_gkpLcc\">https://www.youtube.com/watch?v=fo64_gkpLcc</a></p>\n<p></p>\n<p>Since my weekend plans have changed I will also be available tomorrow via email and will be closely watching Piazza as well.</p>\n<p></p>\n<p>Best (and happy Labor Day),</p>\n<p>Michael\u00a0</p>\n<p>#pin</p>", 
+      "anon": "no", 
+      "created": "2017-09-01T17:03:14Z", 
+      "uid": "isgwdf47kb42f", 
+      "subject": "This Weekend&#39;s Office Hours"
+    }, 
+    {
+      "content": "<p>Hi all,</p>\n<p></p>\n<p>I had moved my office hours to Friday this weekend because I was going to be visiting family (in Houston) but mother nature has informed me this probably wouldn&#39;t be the best weekend for that.</p>\n<p></p>\n<p>Office hours will still be tonight (Friday, 9PM EST). The slido event code is #CS8803-Sat. I will post the YouTube Live link here (and in the spreadsheet) by 3PM EST today.</p>\n<p></p>\n<p>Since my weekend plans have changed I will also be available tomorrow via email and will be closely watching Piazza as well.</p>\n<p></p>\n<p>Best (and happy Labor Day),</p>\n<p>Michael\u00a0</p>\n<p>#pin</p>", 
+      "anon": "no", 
+      "created": "2017-09-01T12:58:49Z", 
+      "uid": "isgwdf47kb42f", 
+      "subject": "This Weekend&#39;s Office Hours"
+    }, 
+    {
+      "content": "<p>Hi all,</p>\n<p></p>\n<p>I had moved my office hours to Friday this weekend because I was going to be visiting family (in Houston) but mother nature has informed me this probably wouldn&#39;t be the best weekend for that.</p>\n<p></p>\n<p>Office hours will still be tonight (Friday, 9PM EST). The slido event code is #CS8803-Sat. I will post the YouTube Live link here (and in the spreadsheet) by 3PM EST today.</p>\n<p></p>\n<p>Since my weekend plans have changed I will also be available tomorrow via email and will be closely watching Piazza as well.</p>\n<p></p>\n<p>Best (and happy Labor Day),</p>\n<p>Michael</p>", 
+      "anon": "no", 
+      "created": "2017-09-01T12:57:16Z", 
+      "uid": "isgwdf47kb42f", 
+      "subject": "This Weekend&#39;s Office Hours"
+    }, 
+    {
+      "content": "<p>Hi all,</p>\n<p></p>\n<p>I had moved my office hours to Friday this weekend because I was going to be visiting family (in Houston) but mother nature has informed me this probably wouldn&#39;t be the best weekend for that.</p>\n<p></p>\n<p>Office hours will still be tonight (Friday, 9PM EST). The slido event code is #CS8803-Sat. I will post the YouTube Live link here (and in the spreadsheet) by 3PM EST today.</p>\n<p></p>\n<p>Since my weekend plans have changed I will also be available tomorrow via email and will be closely watching Piazza as well.</p>\n<p></p>\n<p>Best (and happy Labor Day),</p>\n<p>Michael</p>", 
+      "anon": "no", 
+      "created": "2017-09-01T12:56:58Z", 
+      "uid": "isgwdf47kb42f", 
+      "subject": "This Weekend&#39;s Office Hours"
+    }
+  ]
+}

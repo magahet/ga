@@ -1,0 +1,540 @@
+{
+  "status": "active", 
+  "unique_views": 180, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "stud", 
+      "when": "2017-10-27T11:39:47Z", 
+      "data": "j99tsdn61en70r"
+    }, 
+    {
+      "to": "j99tsdn49ut70q", 
+      "anon": "stud", 
+      "when": "2017-10-27T12:30:49Z", 
+      "type": "followup"
+    }, 
+    {
+      "to": "j99tsdn49ut70q", 
+      "anon": "no", 
+      "when": "2017-10-27T12:34:06Z", 
+      "type": "feedback", 
+      "uid": "hyzorpzxos76lk"
+    }, 
+    {
+      "to": "j99tsdn49ut70q", 
+      "anon": "stud", 
+      "when": "2017-10-27T12:48:16Z", 
+      "type": "followup"
+    }, 
+    {
+      "to": "j99tsdn49ut70q", 
+      "anon": "stud", 
+      "when": "2017-10-27T12:51:06Z", 
+      "type": "feedback"
+    }, 
+    {
+      "to": "j99tsdn49ut70q", 
+      "anon": "no", 
+      "when": "2017-10-27T12:52:30Z", 
+      "type": "feedback", 
+      "uid": "hz4ug66rg6o26j"
+    }, 
+    {
+      "to": "j99tsdn49ut70q", 
+      "anon": "no", 
+      "when": "2017-10-27T15:12:46Z", 
+      "type": "followup", 
+      "uid": "ija2ufzr6l0f7"
+    }, 
+    {
+      "to": "j99tsdn49ut70q", 
+      "anon": "no", 
+      "when": "2017-10-27T15:44:42Z", 
+      "type": "followup", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j99tsdn49ut70q", 
+      "anon": "no", 
+      "when": "2017-10-27T17:15:18Z", 
+      "type": "feedback", 
+      "uid": "i4gzn4buf4Q"
+    }, 
+    {
+      "to": "j99tsdn49ut70q", 
+      "anon": "stud", 
+      "when": "2017-10-27T17:22:44Z", 
+      "type": "feedback"
+    }, 
+    {
+      "to": "j99tsdn49ut70q", 
+      "anon": "stud", 
+      "when": "2017-10-27T17:24:03Z", 
+      "type": "followup"
+    }, 
+    {
+      "to": "j99tsdn49ut70q", 
+      "anon": "no", 
+      "when": "2017-10-27T17:39:05Z", 
+      "type": "feedback", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j99tsdn49ut70q", 
+      "anon": "no", 
+      "when": "2017-10-27T18:04:32Z", 
+      "type": "feedback", 
+      "uid": "hvvxmpxfuyb2eo"
+    }, 
+    {
+      "to": "j99tsdn49ut70q", 
+      "anon": "no", 
+      "when": "2017-10-27T18:24:38Z", 
+      "type": "feedback", 
+      "uid": "iddrzsd4r7kfm"
+    }, 
+    {
+      "to": "j99tsdn49ut70q", 
+      "anon": "no", 
+      "when": "2017-10-27T18:25:07Z", 
+      "type": "feedback", 
+      "uid": "iddrzsd4r7kfm"
+    }, 
+    {
+      "to": "j99tsdn49ut70q", 
+      "anon": "no", 
+      "when": "2017-10-27T18:25:50Z", 
+      "type": "feedback", 
+      "uid": "iddrzsd4r7kfm"
+    }, 
+    {
+      "to": "j99tsdn49ut70q", 
+      "anon": "stud", 
+      "when": "2017-10-27T18:39:44Z", 
+      "type": "feedback"
+    }, 
+    {
+      "to": "j99tsdn49ut70q", 
+      "anon": "no", 
+      "when": "2017-10-27T18:52:50Z", 
+      "type": "feedback", 
+      "uid": "ija2ufzr6l0f7"
+    }, 
+    {
+      "to": "j99tsdn49ut70q", 
+      "anon": "no", 
+      "when": "2017-10-27T19:01:53Z", 
+      "type": "feedback", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "to": "j99tsdn49ut70q", 
+      "anon": "stud", 
+      "when": "2017-10-27T19:45:48Z", 
+      "type": "feedback"
+    }
+  ], 
+  "id": "j99tsdn49ut70q", 
+  "bookmarked": 12, 
+  "tags": [
+    "exam", 
+    "polls", 
+    "student"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-10-27T12:30:49Z", 
+      "no_upvotes": 0, 
+      "created": "2017-10-27T12:30:49Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j99vm05ha2u5zd", 
+      "anon": "stud", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-27T12:34:06Z", 
+          "uid": "hyzorpzxos76lk", 
+          "created": "2017-10-27T12:34:06Z", 
+          "type": "feedback", 
+          "id": "j99vq8bjygs6oe", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I agree.\u00a0 Some type of indication as to the course median or cutoff would be helpful for those of us on the cusp of earning a B.\u00a0 Thanks!</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-27T18:24:38Z", 
+          "uid": "iddrzsd4r7kfm", 
+          "created": "2017-10-27T18:24:38Z", 
+          "type": "feedback", 
+          "id": "j9a890vou072x0", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>see &#64;839</p>"
+        }
+      ], 
+      "subject": "<p>Is there any indication what the B cutoff would be in the course right now? That would really inform my decision to drop.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-27T12:48:16Z", 
+      "no_upvotes": 0, 
+      "created": "2017-10-27T12:48:16Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j99w8g94qq23wh", 
+      "anon": "stud", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-27T12:51:06Z", 
+          "created": "2017-10-27T12:51:06Z", 
+          "type": "feedback", 
+          "id": "j99wc373fyd6ms", 
+          "anon": "stud", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Exam one was [0,95]"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-27T12:52:30Z", 
+          "uid": "hz4ug66rg6o26j", 
+          "created": "2017-10-27T12:52:30Z", 
+          "type": "feedback", 
+          "id": "j99wdw31lc07fq", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Not speaking for the professors obviously, but on T-Square, the Gradebook section has placeholders for all the grades...and the midterm\u00a0exams are listed as being worth 18.3, 18.3,\u00a0and\u00a018.4.\u00a0 \u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-27T18:25:07Z", 
+          "uid": "iddrzsd4r7kfm", 
+          "created": "2017-10-27T18:25:07Z", 
+          "type": "feedback", 
+          "id": "j9a89n3rq3g39l", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>all tests are weighted equally from my understanding</p>"
+        }
+      ], 
+      "subject": "<p>The syllabus states all 3 midterm exams are a combined 55% of the final grade.</p>\n<p>Exam 1 was on a (0,115) scale while exam 2 was on a (0,85). Are these two exam still weighted equally towards the final grade?</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-27T15:12:46Z", 
+      "no_upvotes": 0, 
+      "uid": "ija2ufzr6l0f7", 
+      "created": "2017-10-27T15:12:46Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j9a1ea6e10j7ks", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-27T18:25:50Z", 
+          "uid": "iddrzsd4r7kfm", 
+          "created": "2017-10-27T18:25:50Z", 
+          "type": "feedback", 
+          "id": "j9a8akhxw9j3x7", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>piazza self-reporting is certainly not to be considered accurate or gaussian</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-27T18:39:44Z", 
+          "created": "2017-10-27T18:39:44Z", 
+          "type": "feedback", 
+          "id": "j9a8sfk5euh572", 
+          "anon": "stud", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Lol don\u2019t say Gaussian on a Friday like that"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-27T18:52:50Z", 
+          "uid": "ija2ufzr6l0f7", 
+          "created": "2017-10-27T18:52:50Z", 
+          "type": "feedback", 
+          "id": "j9a99a8xhi42le", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Why no Gaussian on Friday?</p>"
+        }
+      ], 
+      "subject": "<p>For exam I\u00a0we have a normal distribution, and this time the curve is a <strong>bimodal distribution</strong>.</p>\n<p></p>\n<p>If you figured out problem 1 before the last minute, you will appear in the first peak, or you will be in the second peak. =)</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-27T15:44:42Z", 
+      "no_upvotes": 0, 
+      "uid": "hvil6y6khgk2ri", 
+      "created": "2017-10-27T15:44:42Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j9a2jcr2zbp3c6", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-27T17:15:18Z", 
+          "uid": "i4gzn4buf4Q", 
+          "created": "2017-10-27T17:15:18Z", 
+          "type": "feedback", 
+          "id": "j9a5rv056zr799", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Always pick the higher bucket :-)</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-27T17:22:44Z", 
+          "created": "2017-10-27T17:22:44Z", 
+          "type": "feedback", 
+          "id": "j9a61eqwes1103", 
+          "anon": "stud", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Yah the lower bucket isn\u2019t inclusive of its upper bound"
+        }
+      ], 
+      "subject": "<p>One thing thats difficult about the distribution above is numbers are mentioned twice; 50/60/70 depending on your mood you could have been in 1 of 2 buckets.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-27T17:24:03Z", 
+      "no_upvotes": 0, 
+      "created": "2017-10-27T17:24:03Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j9a634edf4o1xb", 
+      "anon": "stud", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-27T17:39:05Z", 
+          "uid": "i4ket0u1z5q31a", 
+          "created": "2017-10-27T17:39:05Z", 
+          "type": "feedback", 
+          "id": "j9a6mgbgy8b3gg", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Ha ha, I need another exam 1.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-27T18:04:32Z", 
+          "uid": "hvvxmpxfuyb2eo", 
+          "created": "2017-10-27T18:04:32Z", 
+          "type": "feedback", 
+          "id": "j9a7j6key8f7ja", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>lol</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-27T19:01:53Z", 
+          "uid": "ijbr5ddtwyt6pa", 
+          "created": "2017-10-27T19:01:53Z", 
+          "type": "feedback", 
+          "id": "j9a9kx693gc471", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Better give everyone an A. Just to be safe</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-27T19:45:48Z", 
+          "created": "2017-10-27T19:45:48Z", 
+          "type": "feedback", 
+          "id": "j9ab5et513o1me", 
+          "anon": "stud", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "that sounds right"
+        }
+      ], 
+      "subject": "This exam has a weird distribution. Is there any chance of us calling a mistrial and taking another exam 2?"
+    }
+  ], 
+  "nr": 838, 
+  "bucket_order": 2, 
+  "type": "poll", 
+  "folders": [
+    "exam", 
+    "polls"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 0, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "answer": "", 
+    "admin": "", 
+    "has_voted": [], 
+    "result": {}, 
+    "total_votes": 0
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-10-27T11:39:47Z", 
+  "is_tag_good": false, 
+  "config": {
+    "show_results": "av", 
+    "anonymous": "yes", 
+    "multiple_selections": 0, 
+    "unpublished": 0, 
+    "toggle_visibility_on": 1, 
+    "revote": 0, 
+    "allow_followups": "yes", 
+    "always_open": 0, 
+    "close_after": "48", 
+    "publish_later": 0
+  }, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145121405, 
+  "tag_good": [
+    {
+      "name": "Michael Buss", 
+      "admin": false, 
+      "photo": "1435529089_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hz0pn3deX7A"
+    }
+  ], 
+  "tag_good_arr": [
+    "hz0pn3deX7A"
+  ], 
+  "history": [
+    {
+      "content": "Some exam two scores are out. How did you do?\n<br/> [o] &gt;80\n[o] 70-80\n[o] 60-70\n[o] 50-60\n[o] 40-50\n[o] &lt;40", 
+      "anon": "stud", 
+      "created": "2017-10-27T11:39:47Z", 
+      "subject": "Exam Two Scores"
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "status": "active", 
+  "unique_views": 160, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-30T21:49:50Z", 
+      "data": "j87uox18tx5zs", 
+      "uid": "hklp7yk0n6o2j8"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-30T22:26:15Z", 
+      "data": "j87vzr37baz25h", 
+      "uid": "hklp7yk0n6o2j8"
+    }, 
+    {
+      "to": "j87uox143j5zr", 
+      "anon": "stud", 
+      "when": "2017-09-30T22:59:23Z", 
+      "data": "j87x6cyp44s2hr", 
+      "type": "s_answer"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "stud", 
+      "when": "2017-09-30T23:00:44Z", 
+      "data": "j87x83az2fp3l5"
+    }, 
+    {
+      "to": "j87uox143j5zr", 
+      "anon": "no", 
+      "when": "2017-10-01T00:09:11Z", 
+      "type": "followup", 
+      "uid": "hklp7yk0n6o2j8"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "stud", 
+      "when": "2017-10-01T03:11:20Z", 
+      "data": "j8866cym7ll55q"
+    }, 
+    {
+      "to": "j87uox143j5zr", 
+      "anon": "no", 
+      "when": "2017-10-01T03:42:38Z", 
+      "type": "followup", 
+      "uid": "hklp7yk0n6o2j8"
+    }, 
+    {
+      "to": "j87uox143j5zr", 
+      "anon": "no", 
+      "when": "2017-10-07T20:49:43Z", 
+      "type": "feedback", 
+      "uid": "idgjs16yZ4K"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j87uox143j5zr", 
+  "bookmarked": 4, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-30T22:59:23Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j87x6cymm6i2hq", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>You don&#39;t need it for task 2 (the only part that is autograded).\u00a0 The easiest way to eliminate ambiguity/uncertainty is to remove any code related to task 1 or 3 when you submit.\u00a0 Note that only hash type 2 is autograded, which doesn&#39;t require any numpy.random calls.</p>", 
+          "anon": "stud", 
+          "created": "2017-10-01T03:11:20Z", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p></p>", 
+          "anon": "stud", 
+          "created": "2017-09-30T23:00:44Z", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>I recommend you don&#39;t worry about it and turn in the code with only task 2 sans any numpy calls (numpy.random or otherwise). \u00a0It&#39;s not needed for task 2 and we won&#39;t be autograded on anything else.</p>", 
+          "anon": "stud", 
+          "created": "2017-09-30T22:59:23Z", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-01T00:09:11Z", 
+      "no_upvotes": 0, 
+      "uid": "hklp7yk0n6o2j8", 
+      "created": "2017-10-01T00:09:11Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j87zo48nj9l4kh", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>Marking this question as unresolved due to the blank student answer.\u00a0</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-01T03:42:38Z", 
+      "no_upvotes": 0, 
+      "uid": "hklp7yk0n6o2j8", 
+      "created": "2017-10-01T03:42:38Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j887am0j1j06rm", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-07T20:49:43Z", 
+          "uid": "idgjs16yZ4K", 
+          "created": "2017-10-07T20:49:43Z", 
+          "type": "feedback", 
+          "id": "j8hsmkhd6oo6ly", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "You can always do an import inside the task1 or task3 function, too. \n\nIt ain&#39;t up to PEP but in this case it makes sense to me."
+        }
+      ], 
+      "subject": "<p>Oh, I didn&#39;t realize they were only going to autograde\u00a0type 2! I&#39;ll probably end up just commenting out all my extra imports for part 1 and 3. But yeah, should be good for task 2 as student answer suggested.\u00a0</p>"
+    }
+  ], 
+  "nr": 498, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "project"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "project", 
+    "student"
+  ], 
+  "created": "2017-09-30T21:49:50Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145202158, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>Could we get a heads up on the version of Numpy the autograder will use to import random? I&#39;m noticing some differing behavior between Numpy versions 1.11.0 and 1.13.3 in regards to random.seed() and random.randint() and want to make sure my environment is set up like the autograder&#39;s will be.</p>\n<p></p>\n<p>Thanks!</p>", 
+      "anon": "no", 
+      "created": "2017-09-30T22:26:15Z", 
+      "uid": "hklp7yk0n6o2j8", 
+      "subject": "Autograder Numpy Version?"
+    }, 
+    {
+      "content": "<p>Could we get a heads up on the version of Numpy the autograder will use to import random? I&#39;m noticing some differing behavior between Numpy versions 1.11.0 and 1.13.3 in regards to random.seed() and want to make sure my environment is set up like the autograder&#39;s will be.</p>\n<p></p>\n<p>Thanks!</p>", 
+      "anon": "no", 
+      "created": "2017-09-30T21:49:50Z", 
+      "uid": "hklp7yk0n6o2j8", 
+      "subject": "Autograder Numpy Version?"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "status": "active", 
+  "unique_views": 131, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-08T14:11:54Z", 
+      "data": "j7byn9jij2d7k7", 
+      "uid": "hz0pec4uduL"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j7byn9jenbd7k6", 
+  "bookmarked": 3, 
+  "tags": [
+    "divide_and_conquer", 
+    "student"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [], 
+  "nr": 224, 
+  "bucket_order": 2, 
+  "type": "note", 
+  "folders": [
+    "divide_and_conquer"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 4, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-09-08T14:11:54Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145269038, 
+  "tag_good": [
+    {
+      "name": "Murali Raghu Babu B", 
+      "admin": true, 
+      "photo": "1503448397_35.png", 
+      "us": false, 
+      "role": "ta", 
+      "facebook_id": null, 
+      "id": "hju4w9odatf30"
+    }, 
+    {
+      "name": "Joe Munoz", 
+      "admin": false, 
+      "photo": "1420754121_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4ocg4bx2t93x9"
+    }
+  ], 
+  "tag_good_arr": [
+    "hju4w9odatf30", 
+    "i4ocg4bx2t93x9"
+  ], 
+  "history": [
+    {
+      "content": "This is a short blog on the roots of unity that might be helpful:\u00a0<a href=\"https://blogs.scientificamerican.com/roots-of-unity/what-are-roots-of-unity/\">https://blogs.scientificamerican.com/roots-of-unity/what-are-roots-of-unity/</a>", 
+      "anon": "no", 
+      "created": "2017-09-08T14:11:54Z", 
+      "uid": "hz0pec4uduL", 
+      "subject": "Roots of Unity Blog"
+    }
+  ]
+}

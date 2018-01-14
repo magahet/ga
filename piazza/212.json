@@ -1,0 +1,221 @@
+{
+  "status": "active", 
+  "unique_views": 171, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-07T03:44:06Z", 
+      "data": "j79ws20tcrd15b", 
+      "uid": "hv5exp71kfz754"
+    }, 
+    {
+      "uid": "hkkbz4bujtv5dn", 
+      "type": "i_answer", 
+      "when": "2017-09-07T03:58:21Z", 
+      "to": "j79ws20szjx15a", 
+      "anon": "no", 
+      "data": "j79xadzemts3jx"
+    }, 
+    {
+      "type": "update", 
+      "anon": "stud", 
+      "when": "2017-09-07T04:01:34Z", 
+      "data": "j79xeilewgx6h2"
+    }, 
+    {
+      "uid": "i4hdvab632i522", 
+      "type": "s_answer", 
+      "when": "2017-09-07T06:11:47Z", 
+      "to": "j79ws20szjx15a", 
+      "anon": "no", 
+      "data": "j7a21zkd8dd1lt"
+    }, 
+    {
+      "to": "j79ws20szjx15a", 
+      "anon": "no", 
+      "when": "2017-09-07T13:13:48Z", 
+      "type": "followup", 
+      "uid": "hv5exp71kfz754"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j79ws20szjx15a", 
+  "bookmarked": 6, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-07T03:58:21Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "hv5exp71kfz754"
+      ], 
+      "id": "j79xadz8u2h3jv", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Kris Peterson", 
+          "admin": false, 
+          "photo": null, 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hv5exp71kfz754"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>You might have a slightly different version of the book. The textbook version I am using has it on page 178 at the end of section 6.3\u00a0and\u00a0before section 6.4.</p>", 
+          "anon": "no", 
+          "created": "2017-09-07T03:58:21Z", 
+          "uid": "hkkbz4bujtv5dn", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-07T06:11:47Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [
+        "hv5exp71kfz754", 
+        "hqa65fnalg83fr"
+      ], 
+      "id": "j7a21zkch4z1ls", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Kris Peterson", 
+          "admin": false, 
+          "photo": null, 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hv5exp71kfz754"
+        }, 
+        {
+          "name": "Amin Mansuri", 
+          "admin": false, 
+          "photo": "1400911910_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hqa65fnalg83fr"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "I think the TAs are working from an electronic edition that may differ from the standard, although as my edition is the Indian Edition it could be that too; it&#39;s p.165 of the 1st Edition Indian Edition [18th reprint, 2016] that I have.", 
+          "anon": "no", 
+          "created": "2017-09-07T06:11:47Z", 
+          "uid": "i4hdvab632i522", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-07T13:13:48Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "hv5exp71kfz754", 
+      "created": "2017-09-07T13:13:48Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7ah4pasg0937a", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>Thanks, I found it in Section 6.4 on page 165 as mentioned above. \u00a0I guess I skimmed over it last night while searching. \u00a0I have the 1st edition.</p>"
+    }
+  ], 
+  "nr": 212, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw1", 
+    "dynamic_programming"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 4, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "dynamic_programming", 
+    "hw1", 
+    "student"
+  ], 
+  "created": "2017-09-07T03:44:06Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145273783, 
+  "tag_good": [
+    {
+      "name": "Estelle Yeh", 
+      "admin": false, 
+      "photo": "1421544945_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4fxg6tfzh211n"
+    }, 
+    {
+      "name": "Amin Mansuri", 
+      "admin": false, 
+      "photo": "1400911910_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hqa65fnalg83fr"
+    }
+  ], 
+  "tag_good_arr": [
+    "i4fxg6tfzh211n", 
+    "hqa65fnalg83fr"
+  ], 
+  "history": [
+    {
+      "content": "<p>On Saturday&#39;s office hours (2:15) , it references the\u00a0book that has some details on common patterns in dynamic programming. \u00a0If I&#39;m understanding properly, the book has details on prefix, 2 prefix, substring, and subtree.</p>\n<p></p>\n<p>It says on page 178. \u00a0I have the Dasgupta \u00a0book and there are no details on page 178 for me.</p>\n<p></p>\n<p>Am I understanding that right?</p>", 
+      "anon": "stud", 
+      "created": "2017-09-07T04:01:34Z", 
+      "subject": "Dynamic Programming  - Common Patterns Book Reference in Office Hours"
+    }, 
+    {
+      "content": "<p>On Saturday&#39;s office hours (2:15) , it references the\u00a0book that has some details on common patterns in dynamic programming. \u00a0If I&#39;m understanding properly, the book has details on prefix, 2 prefix, substring, and subtree.</p>\n<p></p>\n<p>It says on page 178. \u00a0I have the Dasgupta \u00a0book and there are no details on page 178 for me.</p>\n<p></p>\n<p>Am I understanding that right?</p>", 
+      "anon": "no", 
+      "created": "2017-09-07T03:44:06Z", 
+      "uid": "hv5exp71kfz754", 
+      "subject": "Dynamic Programming  - Common Patterns Book Reference in Office Hours"
+    }
+  ]
+}

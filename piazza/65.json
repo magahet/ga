@@ -1,0 +1,148 @@
+{
+  "status": "active", 
+  "unique_views": 160, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-08-24T05:19:56Z", 
+      "data": "j6q01dn0ebmlz", 
+      "uid": "i8597qyse9c1v2"
+    }, 
+    {
+      "uid": "i4nkipeofrkrz", 
+      "type": "s_answer", 
+      "when": "2017-08-24T12:26:58Z", 
+      "to": "j6q01dmwkaily", 
+      "anon": "no", 
+      "data": "j6qfajr3r7km4"
+    }, 
+    {
+      "uid": "gy4twfv45cg5o6", 
+      "type": "i_answer", 
+      "when": "2017-08-24T12:28:44Z", 
+      "to": "j6q01dmwkaily", 
+      "anon": "no", 
+      "data": "j6qfct82rmz1az"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j6q01dmwkaily", 
+  "bookmarked": 3, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-08-24T12:26:58Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [
+        "i8597qyse9c1v2"
+      ], 
+      "id": "j6qfajqzt0rm3", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Pedro Henrique Rocha Moy", 
+          "admin": false, 
+          "photo": "1452626521_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i8597qyse9c1v2"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>Yes, the problem is asking for the largest common subsequence, which is different than the largest common substring.</p>\n<p></p>\n<p>The largest common subsequence between the following\u00a02 strings is <strong>ABC</strong>: <strong>A</strong>C<strong>B</strong>G<strong>C</strong>D - A<strong>ABC</strong>EF. Notice how the characters aren&#39;t consecutive.</p>\n<p></p>\n<p>The largest common substring between the following\u00a02 strings is also <strong>ABC</strong>: BC<strong>ABC</strong> - A<strong>ABC</strong>EF. Notice how the characters are consecutive.</p>", 
+          "anon": "no", 
+          "created": "2017-08-24T12:26:58Z", 
+          "uid": "i4nkipeofrkrz", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-08-24T12:28:44Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "i8597qyse9c1v2"
+      ], 
+      "id": "j6qfct803hb1ay", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Pedro Henrique Rocha Moy", 
+          "admin": false, 
+          "photo": "1452626521_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i8597qyse9c1v2"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p></p>\n<p>Doesn&#39;t the video suggest you do 6.11 but for substrings instead of subsequences? \u00a0</p>\n<p>This is in fact 6.8.</p>\n<p>You can do both, it&#39;s just practice. \u00a0We did subsequence, that&#39;s LCS.</p>", 
+          "anon": "no", 
+          "created": "2017-08-24T12:28:44Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 65, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "dynamic_programming"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "dynamic_programming", 
+    "student"
+  ], 
+  "created": "2017-08-24T05:19:56Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145316264, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>So here we are asked to find the largest common subsequence. On the Udacity\u00a0video slide, Prof. Eric wrote substrings. Now I guess I could attempt both but I am also interested in understanding that I know what I am being asked.</p>", 
+      "anon": "no", 
+      "created": "2017-08-24T05:19:56Z", 
+      "uid": "i8597qyse9c1v2", 
+      "subject": "Question on 6.11"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "status": "active", 
+  "unique_views": 74, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-27T03:19:16Z", 
+      "data": "j99bwpt68dy72a", 
+      "uid": "iebwjhg152x642"
+    }, 
+    {
+      "uid": "i4hdvab632i522", 
+      "type": "s_answer", 
+      "when": "2017-10-27T10:24:47Z", 
+      "to": "j99bwpt5m3g729", 
+      "anon": "no", 
+      "data": "j99r3xvyjtq5i0"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-10-27T10:28:38Z", 
+      "data": "j99r8vg1c316uz", 
+      "uid": "i4hdvab632i522"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j99bwpt5m3g729", 
+  "bookmarked": 4, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-27T10:24:47Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [
+        "gy4twfv45cg5o6", 
+        "hq9zldq5n9mvn"
+      ], 
+      "id": "j99r3xvu9m05hz", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Eric Vigoda", 
+          "admin": true, 
+          "photo": null, 
+          "us": false, 
+          "role": "instructor", 
+          "facebook_id": null, 
+          "id": "gy4twfv45cg5o6"
+        }, 
+        {
+          "name": "Brian Trinh", 
+          "admin": false, 
+          "photo": null, 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hq9zldq5n9mvn"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "Pretty much correct; you should possibly include the fact that NP-Hard <b>includes</b> all of NP-complete as well, as either of\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/P_np_np-complete_np-hard.svg/300px-P_np_np-complete_np-hard.svg.png\" />\n[from <a href=\"https://en.wikipedia.org/wiki/NP-hardness\">Wikipedia</a>]\nSee <a href=\"https://stackoverflow.com/a/1857342/437948\">Much-upvoted SO answer</a> with the standard warning to distinguish decision from search\n\nSo it is possibly more precise to substitute &#34;NP-Hard though not NP-complete&#34; for &#34;NP-Hard&#34; in your phrase", 
+          "anon": "no", 
+          "created": "2017-10-27T10:28:38Z", 
+          "uid": "i4hdvab632i522", 
+          "subject": ""
+        }, 
+        {
+          "content": "Pretty much correct; you should possibly include the fact that NP-Hard <b>includes</b> all of NP-complete as well, as either of\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/P_np_np-complete_np-hard.svg/300px-P_np_np-complete_np-hard.svg.png\" />\n[from <a href=\"https://en.wikipedia.org/wiki/NP-hardness\">Wikipedia</a>]\nSee <a href=\"https://stackoverflow.com/a/1857342/437948\">Much-upvoted SO answer</a> with the standard warning to distinguish decision from search", 
+          "anon": "no", 
+          "created": "2017-10-27T10:24:47Z", 
+          "uid": "i4hdvab632i522", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 830, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "graph_algorithms"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 2, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "graph_algorithms", 
+    "student"
+  ], 
+  "created": "2017-10-27T03:19:16Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145123467, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>The graph problems lecture states the max independent (max-IS) is not in NP. Is this because if someone provides a solution S that is claimed to be the max independent set, then it cannot be verified in polynomial time? Is it correct to state that the main difference between an NP-Complete and NP-Hard problem is that the solution a problem that is NP-Hard cannot be checked in polynomial time?</p>", 
+      "anon": "no", 
+      "created": "2017-10-27T03:19:16Z", 
+      "uid": "iebwjhg152x642", 
+      "subject": "NP Hard"
+    }
+  ]
+}

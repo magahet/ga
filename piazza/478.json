@@ -1,0 +1,103 @@
+{
+  "status": "active", 
+  "unique_views": 156, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-28T22:45:48Z", 
+      "data": "j851t6iaohw6dg", 
+      "uid": "i4ptxbxq30m358"
+    }, 
+    {
+      "uid": "gy4twfv45cg5o6", 
+      "type": "i_answer", 
+      "when": "2017-09-28T23:14:57Z", 
+      "to": "j851t6h57el6dd", 
+      "anon": "no", 
+      "data": "j852uo83ev41bd"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j851t6h57el6dd", 
+  "bookmarked": 4, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-28T23:14:57Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "i18w67avy8e1uk"
+      ], 
+      "id": "j852uo81kmu1bc", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Shihgian Lee", 
+          "admin": false, 
+          "photo": "1420394909_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i18w67avy8e1uk"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "Yes, but it&#39;s more complicated.  The expected load is easy to calculate, but the max load with high probability is difficult. Honestly I don&#39;t know it off the top of my head.  Even the bound O(loglogn) for 2 hash functions with n=m is difficult to prove (I have to re-learn it every time I teach it).  The book [Mitzenmacher-Upfal] is a good one to check out if you like this sort of stuff.", 
+          "anon": "no", 
+          "created": "2017-09-28T23:14:57Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 478, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "project"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "project", 
+    "student"
+  ], 
+  "created": "2017-09-28T22:45:48Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145206404, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>The lectures indicate that max load can be calculated as O((log log n) / log d) where &#39;n&#39; is the input size and &#39;d&#39; is the number of hash functions or bins and the one with the lowest load is chosen.<br /><br />Is there a way to factor in the size of the hash table when attempting to calculate the max load probability?</p>", 
+      "anon": "no", 
+      "created": "2017-09-28T22:45:48Z", 
+      "uid": "i4ptxbxq30m358", 
+      "subject": "Max Load Pr Calculation..."
+    }
+  ]
+}

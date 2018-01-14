@@ -1,0 +1,168 @@
+{
+  "status": "active", 
+  "unique_views": 190, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-01T00:56:55Z", 
+      "data": "j881di1xda74jw", 
+      "uid": "i4t8eakz3ex6lk"
+    }, 
+    {
+      "uid": "hklp7yk0n6o2j8", 
+      "type": "s_answer", 
+      "when": "2017-10-01T01:09:35Z", 
+      "to": "j881di1vj524jv", 
+      "anon": "no", 
+      "data": "j881ts62d44w5"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-10-01T01:09:59Z", 
+      "data": "j881ubaouq3541", 
+      "uid": "hklp7yk0n6o2j8"
+    }, 
+    {
+      "to": "j881di1vj524jv", 
+      "anon": "no", 
+      "when": "2017-10-01T16:55:46Z", 
+      "type": "followup", 
+      "uid": "idfwgv9b5br"
+    }, 
+    {
+      "to": "j881di1vj524jv", 
+      "anon": "no", 
+      "when": "2017-10-03T20:19:45Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j881di1vj524jv", 
+  "bookmarked": 5, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-01T01:09:35Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [
+        "i4t8eakz3ex6lk"
+      ], 
+      "id": "j881ts5zpod4w4", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "abarysevich", 
+          "admin": false, 
+          "photo": null, 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i4t8eakz3ex6lk"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>For that hash function, you&#39;re actually setting the seed of Numpy&#39;s random. Setting the seed will &#34;fix&#34; the randint() function (and other random functions) so they will consistently return the same random numbers. So in the equation you cited above, the &#39;r&#39; is not the randint() function...but the random.seed() function. Once the seed is set, you can get the hash by using the randint() function.\u00a0</p>\n<p></p>\n<p>More great explanations about this here: &#64;443</p>", 
+          "anon": "no", 
+          "created": "2017-10-01T01:09:59Z", 
+          "uid": "hklp7yk0n6o2j8", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>For that hash function, you&#39;re actually setting the seed of Numpy&#39;s random. Setting the seed will &#34;fix&#34; the randint() function (and other random functions) so they will consistently return the same random numbers. So in the equation you cited above, the &#39;r&#39; is not the randint() function...but the random.seed() function. Once the seed is set, you can get the hash byusing the randint() function.\u00a0</p>\n<p></p>\n<p>More great explanations about this here: &#64;443</p>", 
+          "anon": "no", 
+          "created": "2017-10-01T01:09:35Z", 
+          "uid": "hklp7yk0n6o2j8", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-01T16:55:46Z", 
+      "no_upvotes": 0, 
+      "uid": "idfwgv9b5br", 
+      "created": "2017-10-01T16:55:46Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j88zmlafoeg3b7", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-03T20:19:45Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-10-03T20:19:45Z", 
+          "type": "feedback", 
+          "id": "j8c1sm5s80q238", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "To clarify, the seed is usually based on time, but you can override that by setting the seed to a particular value."
+        }
+      ], 
+      "subject": "The important thing to understand is the random function isn&#39;t actually random. It is a defined function based on a seed value (usually time)."
+    }
+  ], 
+  "nr": 503, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "project"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 2, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "project", 
+    "student"
+  ], 
+  "created": "2017-10-01T00:56:55Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145200408, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>One thing confuses me about the hash function definition/requirements. For the first type of function:</p>\n<p></p>\n<p>\u00a0\u00a0 h(x) = r(s &#43; x)</p>\n<p></p>\n<p>Since the random is used the repeat execution will give a different result from the first run for the same x. The question is, what is the point to have it like that? There is no way to check whether the element was seen\u00a0 before is to use its hash value (which must be the same). Did I get it wrong? Can please anyone explain this to me.</p>", 
+      "anon": "no", 
+      "created": "2017-10-01T00:56:55Z", 
+      "uid": "i4t8eakz3ex6lk", 
+      "subject": "Task1. Hash function randomness."
+    }
+  ]
+}

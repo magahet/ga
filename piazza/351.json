@@ -1,0 +1,201 @@
+{
+  "status": "active", 
+  "unique_views": 151, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-19T07:51:12Z", 
+      "data": "j7raw273vtu5o2", 
+      "uid": "hq9zldq5n9mvn"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-19T07:51:55Z", 
+      "data": "j7rawyondft64a", 
+      "uid": "hq9zldq5n9mvn"
+    }, 
+    {
+      "uid": "i4hdvab632i522", 
+      "type": "s_answer", 
+      "when": "2017-09-19T08:58:07Z", 
+      "to": "j7raw272xcy5o1", 
+      "anon": "no", 
+      "data": "j7rda3qqafl7ie"
+    }, 
+    {
+      "uid": "gy4twfv45cg5o6", 
+      "type": "i_answer", 
+      "when": "2017-09-19T12:32:25Z", 
+      "to": "j7raw272xcy5o1", 
+      "anon": "no", 
+      "data": "j7rkxp0waiy574"
+    }, 
+    {
+      "to": "j7raw272xcy5o1", 
+      "anon": "no", 
+      "when": "2017-09-19T13:07:14Z", 
+      "type": "followup", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "to": "j7raw272xcy5o1", 
+      "anon": "no", 
+      "when": "2017-09-19T13:18:42Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j7raw272xcy5o1", 
+  "bookmarked": 4, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-19T08:58:07Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [
+        "hq9zldq5n9mvn"
+      ], 
+      "id": "j7rda3qowh17id", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Brian Trinh", 
+          "admin": false, 
+          "photo": null, 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hq9zldq5n9mvn"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "$$k=-2$$ would be a correct answer too; the trouble is there&#39;s no radio button to select $$k=-2$$, the options are $$k=0, k=1, k=2, k=n/2, k=n-2, k=n-1$$; so $$k=n-2$$ is the workable answer", 
+          "anon": "no", 
+          "created": "2017-09-19T08:58:07Z", 
+          "uid": "i4hdvab632i522", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-19T12:32:25Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j7rkxp0vptj573", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "k=-2 is nonsense.  It&#39;s like if I ask what&#39;s the inverse of 5 modulo 7, and you say it&#39;s $$5^{-1}$$.  Is that correct?  You&#39;re not conveying any knowledge.  You should say 3.  And in this problem you said you should say k=n-2.  k=-2 is not one of the options for a reason.", 
+          "anon": "no", 
+          "created": "2017-09-19T12:32:25Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-19T13:07:14Z", 
+      "no_upvotes": 0, 
+      "uid": "i4hdvab632i522", 
+      "created": "2017-09-19T13:07:14Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7rm6hd57a249v", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-19T13:18:42Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-09-19T13:18:42Z", 
+          "type": "feedback", 
+          "id": "j7rml7yeq706wi", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Fair point."
+        }
+      ], 
+      "subject": "It&#39;s funny, to me $$(\\omega_n)^{-2} = \\left(e^{i 2 \\pi / n}\\right)^{-2} = e^{- i 4 \\pi / n}$$ is an obvious number that conveys as much knowledge as (possibly doing so more simply than) $$(\\omega_n)^{n - 2} = \\left(e^{i 2 \\pi / n}\\right)^{n - 2} = e^{i 2 \\pi (n - 2) / n} = e^{i (2 \\pi - 4 \\pi / n)} = e^{i 2 \\pi} \\cdot e^{- i 4 \\pi / n} = 1 \\cdot e^{- i 4 \\pi / n}$$ , although that may be a function of a relatively intuitive reading of the symbols involved."
+    }
+  ], 
+  "nr": 351, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "divide_and_conquer"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "divide_and_conquer", 
+    "student"
+  ], 
+  "created": "2017-09-19T07:51:12Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145232362, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>Quiz question\u00a0is:\u00a0what is $$(w_{n}^{2})^{-1}$$? More precisely, for what k is\u00a0$$(w_{n})^{k} * (w_{n})^{2} = 1$$</p>\n<p></p>\n<p>We know that $$(w_{n})^{n} = (w_{n})^{0} = 1$$</p>\n<p></p>\n<p>Solving using polar coordinates,</p>\n<p>$$(w_{n})^{2} * (w_{n})^{k} = (w_{n})^{n}$$</p>\n<p>$$(1, \\frac{2*2*pi}{n})*(1, \\frac{k*2*pi}{n}) = (1, \\frac{2*n*pi}{n})$$</p>\n<p>$$\\frac{4*pi}{n}&#43;\\frac{2k*pi}{n} = \\frac{2n*pi}{n}$$</p>\n<p>$$4*pi&#43;2k*pi = 2n*pi$$</p>\n<p>$$k = n - 2$$</p>\n<p></p>\n<p>If I use $$(w_{n})^{0}$$ instead, I get</p>\n<p>$$(w_{n})^{2} * (w_{n})^{k} = (w_{n})^{0}$$</p>\n<p>$$(1, \\frac{2*2*pi}{n})*(1, \\frac{k*2*pi}{n}) = (1, \\frac{2*0*pi}{n})$$</p>\n<p>$$\\frac{4*pi}{n}&#43;\\frac{2k*pi}{n} = 0$$</p>\n<p>$$4*pi = -2k*pi$$</p>\n<p>$$k = -2$$, which\u00a0makes sense to me since\u00a0$$(w_{n})^{2} * (w_{n})^{-2} = 1$$</p>\n<p></p>\n<p>My question is: is\u00a0$$k = -2$$ also an acceptable answer? Or am I making an incorrect assumption somewhere.</p>", 
+      "anon": "no", 
+      "created": "2017-09-19T07:51:55Z", 
+      "uid": "hq9zldq5n9mvn", 
+      "subject": "[FFT - Part 2] Quiz: Inverses"
+    }, 
+    {
+      "content": "<p>Quiz question\u00a0is:\u00a0what is $$(w_{n}^{2})^{-1}$$? More precisely, for what k is\u00a0$$(w_{n})^{k} * (w_{n})^{2} = 1$$</p>\n<p></p>\n<p>We know that $$(w_{n})^{n} = (w_{n})^{0} = 1$$</p>\n<p></p>\n<p>Solving using polar coordinates,</p>\n<p>$$(w_{n})^{2} * (w_{n})^{k} = (w_{n})^{n}$$</p>\n<p>$$(1, \\frac{2*2*pi}{n})*(1, \\frac{k*2*pi}{n}) = (1, \\frac{2*n*pi}{n})$$</p>\n<p>$$\\frac{4*pi}{n}&#43;\\frac{2k*pi}{n} = \\frac{2n*pi}{n}$$</p>\n<p>$$4*pi&#43;2k*pi = 2n*pi$$</p>\n<p>$$k = n - 2$$</p>\n<p></p>\n<p>If I use $$(w_{n})^{0}$$ instead, I get</p>\n<p>$$(w_{n})^{2} * (w_{n})^{k} = (w_{n})^{0}$$</p>\n<p>$$(1, \\frac{2*2*pi}{n})*(1, \\frac{k*2*pi}{n}) = (1, \\frac{2*0*pi}{n})$$</p>\n<p>$$\\frac{4*pi}{n}&#43;\\frac{2k*pi}{n} = 0$$</p>\n<p>$$4*pi = -2k*pi$$</p>\n<p>$$k = -2$$, which\u00a0makes sense to me since\u00a0$$(w_{n})^{2} * (w_{n})^{-2} = 1$$</p>\n<p></p>\n<p>My question is: is\u00a0$$k = -2$$ also an acceptable answer? Or am I making in incorrect assumption somewhere.</p>", 
+      "anon": "no", 
+      "created": "2017-09-19T07:51:12Z", 
+      "uid": "hq9zldq5n9mvn", 
+      "subject": "[FFT - Part 2] Quiz: Inverses"
+    }
+  ]
+}

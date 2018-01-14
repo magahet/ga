@@ -1,0 +1,229 @@
+{
+  "status": "active", 
+  "unique_views": 195, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-08-23T19:14:17Z", 
+      "data": "j6peeigpppq4r8", 
+      "uid": "i4m49pmqc4h14p"
+    }, 
+    {
+      "to": "j6peeigo4424r7", 
+      "anon": "no", 
+      "when": "2017-08-24T20:54:16Z", 
+      "type": "followup", 
+      "uid": "hqa65fnalg83fr"
+    }, 
+    {
+      "to": "j6peeigo4424r7", 
+      "anon": "no", 
+      "when": "2017-08-25T19:03:18Z", 
+      "type": "followup", 
+      "uid": "hyzzr9z7x6a1mz"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-08-25T19:12:42Z", 
+      "data": "j6s9864nfve74p", 
+      "uid": "i4m49pmqc4h14p"
+    }, 
+    {
+      "to": "j6peeigo4424r7", 
+      "anon": "no", 
+      "when": "2017-08-30T01:32:59Z", 
+      "type": "followup", 
+      "uid": "hyzzr9z7x6a1mz"
+    }, 
+    {
+      "to": "j6peeigo4424r7", 
+      "anon": "no", 
+      "when": "2017-08-30T12:49:50Z", 
+      "type": "feedback", 
+      "uid": "i4m49pmqc4h14p"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j6peeigo4424r7", 
+  "bookmarked": 3, 
+  "tags": [
+    "course", 
+    "logistics", 
+    "student"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-08-24T20:54:16Z", 
+      "no_upvotes": 0, 
+      "uid": "hqa65fnalg83fr", 
+      "created": "2017-08-24T20:54:16Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6qxexiw1rm4ol", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>you may wish to add Office hours.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-25T19:03:18Z", 
+      "no_upvotes": 0, 
+      "uid": "hyzzr9z7x6a1mz", 
+      "created": "2017-08-25T19:03:18Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6s8w39hbk3671", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>Thank you for sharing this.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-30T01:32:59Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "hyzzr9z7x6a1mz", 
+      "created": "2017-08-30T01:32:59Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6yckmlxru33", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-08-30T12:49:50Z", 
+          "uid": "i4m49pmqc4h14p", 
+          "created": "2017-08-30T12:49:50Z", 
+          "type": "feedback", 
+          "id": "j6z0r24a8x3ys", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>How can I make a google calendar editable by all? Give me your gmail address and I can add you as a contributor</p>"
+        }
+      ], 
+      "subject": "<p>Gautam Salhotra: Can you make this editable by others? We have new office hours, I can put them on the calendar.</p>"
+    }
+  ], 
+  "nr": 53, 
+  "bucket_order": 2, 
+  "type": "note", 
+  "folders": [
+    "logistics", 
+    "course"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 3, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-08-23T19:14:17Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145321190, 
+  "tag_good": [
+    {
+      "name": "Samantha Campo", 
+      "admin": false, 
+      "photo": "1452452625_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "ij7kfkx61zz365"
+    }, 
+    {
+      "name": "Ronny A. Pena", 
+      "admin": false, 
+      "photo": "1439924476_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hyzzr9z7x6a1mz"
+    }, 
+    {
+      "name": "abarysevich", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4t8eakz3ex6lk"
+    }, 
+    {
+      "name": "Jinath Gamage", 
+      "admin": false, 
+      "photo": "1440361255_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "idj18b4cw027p9"
+    }, 
+    {
+      "name": "Jonathan", 
+      "admin": false, 
+      "photo": "1476494263_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "ij7cut79cxk36j"
+    }
+  ], 
+  "tag_good_arr": [
+    "ij7kfkx61zz365", 
+    "hyzzr9z7x6a1mz", 
+    "i4t8eakz3ex6lk", 
+    "idj18b4cw027p9", 
+    "ij7cut79cxk36j"
+  ], 
+  "history": [
+    {
+      "content": "<p>I have started this calendar.</p>\n<p></p>\n<p><a href=\"https://calendar.google.com/calendar/embed?src=v4tab07nf9f3va1boib77a4jqk%40group.calendar.google.com&amp;ctz=America/New_York\">https://calendar.google.com/calendar/embed?src=v4tab07nf9f3va1boib77a4jqk%40group.calendar.google.com&amp;ctz=America/New_York</a></p>\n<p></p>\n<p>If anyone would like to contribute to this and add more details, please Slack or email me. I have only added deadlines for HW1,2,3 and exam1</p>", 
+      "anon": "no", 
+      "created": "2017-08-25T19:12:42Z", 
+      "uid": "i4m49pmqc4h14p", 
+      "subject": "[Unofficial] Public google calendar for the course"
+    }, 
+    {
+      "content": "<p>I have started this calendar.</p>\n<p></p>\n<p><a href=\"https://calendar.google.com/calendar/embed?src=v4tab07nf9f3va1boib77a4jqk%40group.calendar.google.com&amp;ctz=America/New_York\">https://calendar.google.com/calendar/embed?src=v4tab07nf9f3va1boib77a4jqk%40group.calendar.google.com&amp;ctz=America/New_York</a></p>\n<p></p>\n<p>If anyone would like to contribute to this and add more details, please Slack or email me. I have only added deadlines for HW1,2,3 and exam1</p>", 
+      "anon": "no", 
+      "created": "2017-08-23T19:14:17Z", 
+      "uid": "i4m49pmqc4h14p", 
+      "subject": "Public google calendar for the course"
+    }
+  ]
+}

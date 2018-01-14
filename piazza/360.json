@@ -1,0 +1,115 @@
+{
+  "status": "active", 
+  "unique_views": 138, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-20T04:51:55Z", 
+      "data": "j7sjxco7q1661v", 
+      "uid": "i4iufvhm2nj4s1"
+    }, 
+    {
+      "uid": "i4iys7m3lpq2ij", 
+      "type": "s_answer", 
+      "when": "2017-09-20T14:18:08Z", 
+      "to": "j7sjxcny98361u", 
+      "anon": "no", 
+      "data": "j7t45hz9fer5en"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j7sjxcny98361u", 
+  "bookmarked": 4, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-20T14:18:08Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [
+        "hkvhtvraa6x6cg"
+      ], 
+      "id": "j7t45hwywe25el", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Jeffrey Skonhovd", 
+          "admin": false, 
+          "photo": "1433190638_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hkvhtvraa6x6cg"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>See &#64;98</p>", 
+          "anon": "no", 
+          "created": "2017-09-20T14:18:08Z", 
+          "uid": "i4iys7m3lpq2ij", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 360, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "dynamic_programming"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 0, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "dynamic_programming", 
+    "student"
+  ], 
+  "created": "2017-09-20T04:51:55Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145228768, 
+  "tag_good": [
+    {
+      "name": "Joe Munoz", 
+      "admin": false, 
+      "photo": "1420754121_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4ocg4bx2t93x9"
+    }
+  ], 
+  "tag_good_arr": [
+    "i4ocg4bx2t93x9"
+  ], 
+  "history": [
+    {
+      "content": "<p>This problem seems to be similar to the palindrome problem in that we need to examine the start and stop of the parentheses. \u00a0But I don&#39;t think I am quite nailing the subproblem. \u00a0Does anyone have any suggestions?</p>", 
+      "anon": "no", 
+      "created": "2017-09-20T04:51:55Z", 
+      "uid": "i4iufvhm2nj4s1", 
+      "subject": "6.6 Parenthesize a String"
+    }
+  ]
+}

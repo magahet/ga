@@ -1,0 +1,467 @@
+{
+  "status": "active", 
+  "unique_views": 172, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-03T12:45:20Z", 
+      "data": "j8blk8s04cv356", 
+      "uid": "ijjd1u5dbTq"
+    }, 
+    {
+      "uid": "hvil6y6khgk2ri", 
+      "type": "s_answer", 
+      "when": "2017-10-03T12:46:37Z", 
+      "to": "j8blk8rxxyk355", 
+      "anon": "no", 
+      "data": "j8bllvp1yp26k0"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-10-03T12:47:46Z", 
+      "data": "j8blndb3ua178g", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j8blk8rxxyk355", 
+      "anon": "no", 
+      "when": "2017-10-03T14:54:41Z", 
+      "type": "followup", 
+      "uid": "ijjd1u5dbTq"
+    }, 
+    {
+      "to": "j8blk8rxxyk355", 
+      "anon": "no", 
+      "when": "2017-10-03T15:00:37Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j8blk8rxxyk355", 
+      "anon": "no", 
+      "when": "2017-10-03T15:10:39Z", 
+      "type": "feedback", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "uid": "gns9oa0pgsO", 
+      "type": "i_answer", 
+      "when": "2017-10-03T15:35:35Z", 
+      "to": "j8blk8rxxyk355", 
+      "anon": "no", 
+      "data": "j8brn6okj7r466"
+    }, 
+    {
+      "to": "j8blk8rxxyk355", 
+      "anon": "no", 
+      "when": "2017-10-03T15:39:00Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j8blk8rxxyk355", 
+      "anon": "no", 
+      "when": "2017-10-03T15:48:33Z", 
+      "type": "feedback", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j8blk8rxxyk355", 
+      "anon": "no", 
+      "when": "2017-10-03T15:50:55Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j8blk8rxxyk355", 
+      "anon": "no", 
+      "when": "2017-10-03T16:09:31Z", 
+      "type": "feedback", 
+      "uid": "hve4kb0lopy4sl"
+    }, 
+    {
+      "to": "j8blk8rxxyk355", 
+      "anon": "no", 
+      "when": "2017-10-03T16:12:22Z", 
+      "type": "feedback", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j8blk8rxxyk355", 
+      "anon": "no", 
+      "when": "2017-10-03T18:08:27Z", 
+      "type": "feedback", 
+      "uid": "hve4kb0lopy4sl"
+    }, 
+    {
+      "to": "j8blk8rxxyk355", 
+      "anon": "no", 
+      "when": "2017-10-03T18:19:39Z", 
+      "type": "feedback", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-10-03T18:20:07Z", 
+      "data": "j8bxirrty8t2sw", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j8blk8rxxyk355", 
+      "anon": "no", 
+      "when": "2017-10-03T18:25:42Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j8blk8rxxyk355", 
+      "anon": "no", 
+      "when": "2017-10-03T18:35:08Z", 
+      "type": "feedback", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j8blk8rxxyk355", 
+      "anon": "no", 
+      "when": "2017-10-03T21:43:48Z", 
+      "type": "feedback", 
+      "uid": "idi5567wFgu"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8blk8rxxyk355", 
+  "bookmarked": 7, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-03T12:46:37Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j8bllvoy5sg6jz", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "If you are talking about how to actually store the bloom filter internally, just use a regular old python list. You are not allowed to use anything fancy (like numpy arrays), and if you do and it doesn&#39;t work it will be on you.", 
+          "anon": "no", 
+          "created": "2017-10-03T18:20:07Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>If you are talking about how to actually store the bloom filter internally, just use a regular old python list. You are not allowed to use anything fancy (like numpy arrays), as if you do and it doesnt work it will be on you.</p>", 
+          "anon": "no", 
+          "created": "2017-10-03T12:47:46Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>If you are unsure, just use a regular old python list.</p>", 
+          "anon": "no", 
+          "created": "2017-10-03T12:46:37Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-03T14:54:41Z", 
+      "no_upvotes": 0, 
+      "uid": "ijjd1u5dbTq", 
+      "created": "2017-10-03T14:54:41Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8bq6l55em518i", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-03T15:00:37Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-10-03T15:00:37Z", 
+          "type": "feedback", 
+          "id": "j8bqe7r9yml7o5", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>No, its not, and you can use it if you wish from what the instructor said. It may be a bit more complicated though, so if you are inexperienced with Python or you are running out of time, a list is easier (albeit slower operationally).</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-03T15:10:39Z", 
+          "uid": "gns9oa0pgsO", 
+          "created": "2017-10-03T15:10:39Z", 
+          "type": "feedback", 
+          "id": "j8bqr3rv4kj79t", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>depends on what kind of bit array you want to use.\u00a0 if you mean a python list that holds ints, which you then mask and &#39;or&#39; the appropriate bit for each index, then yes, that is fine.\u00a0 If you mean a bitarray import from some library, then no.\u00a0 that&#39;s not fine.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-03T15:39:00Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-10-03T15:39:00Z", 
+          "type": "feedback", 
+          "id": "j8brrkzai7w780", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Ah, sorry John. I saw people talking about bitarrays and assumed they were going to use the native implementation and not some fancy one from a library (I just used a list).</p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-03T15:48:33Z", 
+          "uid": "gns9oa0pgsO", 
+          "created": "2017-10-03T15:48:33Z", 
+          "type": "feedback", 
+          "id": "j8bs3ulbnfo7im", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>no problem, ty for helping students out.\u00a0 i just want to be very specific in describing the constraints, so there&#39;s no confusion.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-03T15:50:55Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-10-03T15:50:55Z", 
+          "type": "feedback", 
+          "id": "j8bs6w1skhw23y", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "You have done a wonderful job in designing this project!"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-03T16:09:31Z", 
+          "uid": "hve4kb0lopy4sl", 
+          "created": "2017-10-03T16:09:31Z", 
+          "type": "feedback", 
+          "id": "j8bsuteq6rl2st", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#43;1</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-03T16:12:22Z", 
+          "uid": "gns9oa0pgsO", 
+          "created": "2017-10-03T16:12:22Z", 
+          "type": "feedback", 
+          "id": "j8bsygzbon21q7", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thanks - i&#39;d love to take all the credit, but i inherited an existing project that Eric put together for the students on campus, and added the template code,\u00a0 formalized the constraints and the structure of some of the tasks (found an error in the original project :) ).\u00a0 </p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-03T18:08:27Z", 
+          "uid": "hve4kb0lopy4sl", 
+          "created": "2017-10-03T18:08:27Z", 
+          "type": "feedback", 
+          "id": "j8bx3recbsy615", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Appreciate all the time you are spending to keep us on track with this project.\u00a0 It seems quite the challenge with such a large class.\u00a0 I presume a basic python list of booleans should work fine (and be a bit more efficient than ints) but I&#39;m still debugging mine.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-03T18:19:39Z", 
+          "uid": "i4ket0u1z5q31a", 
+          "created": "2017-10-03T18:19:39Z", 
+          "type": "feedback", 
+          "id": "j8bxi5wrgbh3r3", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I really appreciate the great engagement and fast response times on Piazza!</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-03T18:25:42Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-10-03T18:25:42Z", 
+          "type": "feedback", 
+          "id": "j8bxpyh4iys1zl", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Probably a lot of people underestimate how difficult it is to design a project for a class like this. It needs to reinforce the important concepts while minimizing tedious work. The requirements must not present opportunities for misunderstandings. And it needs to be gradeable with a reasonable effort. It&#39;s tough to do all that. Thank you, John, for doing an excellent job with this project."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-03T18:35:08Z", 
+          "uid": "gns9oa0pgsO", 
+          "created": "2017-10-03T18:35:08Z", 
+          "type": "feedback", 
+          "id": "j8by2307cdt63u", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p></p><div> \n <div>\n   Aw\u00a0shucks, fellas. Just trying to help :) \n </div> \n <div> \n  <br /> \n </div> \n <div> \n </div> \n</div> \n<br /> \n<div>\n  ----- Reply message ----- \n</div>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-03T21:43:48Z", 
+          "uid": "idi5567wFgu", 
+          "created": "2017-10-03T21:43:48Z", 
+          "type": "feedback", 
+          "id": "j8c4sprg16sd5", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Agree with all the above posts. John has been of great help on this project. Thank you so\u00a0 much, John.\u00a0</p>\n<p></p>\n<p></p>"
+        }
+      ], 
+      "subject": "<p>So is a bitarray a poor choice?\u00a0</p>"
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-03T15:35:35Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j8brn6oj1vt465", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>list is fine.\u00a0 don&#39;t get fancy, this can be tricky to regrade.\u00a0 a basic list implementation of the filter runs in ~4 seconds for type 2 hash functions, which is what it will be graded for.</p>", 
+          "anon": "no", 
+          "created": "2017-10-03T15:35:35Z", 
+          "uid": "gns9oa0pgsO", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 567, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "project"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 0, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "project", 
+    "student"
+  ], 
+  "created": "2017-10-03T12:45:20Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145188813, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>I saw a few notes in the office hours but I&#39;m still a little unclear. What type of data structure is a good choice for task 2?</p>", 
+      "anon": "no", 
+      "created": "2017-10-03T12:45:20Z", 
+      "uid": "ijjd1u5dbTq", 
+      "subject": "What type of data structure for task 2?"
+    }
+  ]
+}

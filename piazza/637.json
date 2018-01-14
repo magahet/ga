@@ -1,0 +1,70 @@
+{
+  "status": "active", 
+  "unique_views": 161, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-06T19:38:23Z", 
+      "data": "j8gamz49cfz2kr", 
+      "uid": "isgwdf47kb42f"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-10T19:55:53Z", 
+      "data": "j8m10vsd5he7lz", 
+      "uid": "gy4twfv45cg5o6"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8gamz45j1t2kq", 
+  "bookmarked": 3, 
+  "tags": [
+    "course", 
+    "instructor-note"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [], 
+  "nr": 637, 
+  "bucket_order": 2, 
+  "type": "note", 
+  "folders": [
+    "course"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 2, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-10-06T19:38:23Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145170625, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "I will be holding office hours tomorrow, 7 Oct, at 2PM EST. The YouTube URL is below and you can submit questions ahead of time via sli.do with code #CS8803Sat\n\n<a href=\"https://youtu.be/SdQmFX_6kL4\">https://youtu.be/SdQmFX_6kL4</a>", 
+      "anon": "no", 
+      "created": "2017-10-10T19:55:53Z", 
+      "uid": "gy4twfv45cg5o6", 
+      "subject": "Office Hours Tomorrow"
+    }, 
+    {
+      "content": "<p>I will be holding office hours tomorrow, 7 Oct, at 2PM EST. The YouTube URL is below and you can submit questions ahead of time via sli.do with code #CS8803Sat</p>\n<p></p>\n<p><a href=\"https://youtu.be/SdQmFX_6kL4\">https://youtu.be/SdQmFX_6kL4</a></p>\n<p></p>\n<p>#pin</p>", 
+      "anon": "no", 
+      "created": "2017-10-06T19:38:23Z", 
+      "uid": "isgwdf47kb42f", 
+      "subject": "Office Hours Tomorrow"
+    }
+  ]
+}

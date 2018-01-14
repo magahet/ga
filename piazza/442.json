@@ -1,0 +1,533 @@
+{
+  "status": "active", 
+  "unique_views": 216, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-26T02:12:59Z", 
+      "data": "j80yw25fnzk1c1", 
+      "uid": "hz0jkj9dnctqp"
+    }, 
+    {
+      "to": "j80yw25cedt1c0", 
+      "anon": "no", 
+      "when": "2017-09-26T02:37:14Z", 
+      "type": "followup", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j80yw25cedt1c0", 
+      "anon": "no", 
+      "when": "2017-09-26T03:58:03Z", 
+      "type": "feedback", 
+      "uid": "idgjs16yZ4K"
+    }, 
+    {
+      "to": "j80yw25cedt1c0", 
+      "anon": "no", 
+      "when": "2017-09-26T10:08:30Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j80yw25cedt1c0", 
+      "anon": "no", 
+      "when": "2017-09-26T10:14:58Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j80yw25cedt1c0", 
+      "anon": "no", 
+      "when": "2017-09-26T11:38:12Z", 
+      "type": "followup", 
+      "uid": "idg61g3ot1qp6"
+    }, 
+    {
+      "to": "j80yw25cedt1c0", 
+      "anon": "no", 
+      "when": "2017-09-26T13:49:18Z", 
+      "type": "feedback", 
+      "uid": "hvvxmpxfuyb2eo"
+    }, 
+    {
+      "to": "j80yw25cedt1c0", 
+      "anon": "no", 
+      "when": "2017-09-26T14:26:14Z", 
+      "type": "feedback", 
+      "uid": "hvduxyr7r4s6q7"
+    }, 
+    {
+      "to": "j80yw25cedt1c0", 
+      "anon": "no", 
+      "when": "2017-09-26T15:02:11Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j80yw25cedt1c0", 
+      "anon": "no", 
+      "when": "2017-09-27T16:12:58Z", 
+      "type": "followup", 
+      "uid": "hqa65fnalg83fr"
+    }, 
+    {
+      "to": "j80yw25cedt1c0", 
+      "anon": "no", 
+      "when": "2017-09-27T16:17:34Z", 
+      "type": "followup", 
+      "uid": "hzetpo9z5sK"
+    }, 
+    {
+      "to": "j80yw25cedt1c0", 
+      "anon": "no", 
+      "when": "2017-10-03T05:02:02Z", 
+      "type": "feedback", 
+      "uid": "i4mub6lmaxh"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j80yw25cedt1c0", 
+  "bookmarked": 9, 
+  "tags": [
+    "course", 
+    "student"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-09-26T02:37:14Z", 
+      "no_upvotes": 0, 
+      "uid": "hvil6y6khgk2ri", 
+      "created": "2017-09-26T02:37:14Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j80zr9bp4ec2sk", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-26T03:58:03Z", 
+          "uid": "idgjs16yZ4K", 
+          "created": "2017-09-26T03:58:03Z", 
+          "type": "feedback", 
+          "id": "j812n6i86x1752", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "You also get a Piazza badge for the class if the instructors endorse enough of your answers. You know, to show off to all the Piazza recruiters (I am assured that they do exist but I have never met one)."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-26T10:08:30Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-09-26T10:08:30Z", 
+          "type": "feedback", 
+          "id": "j81fvlbridikv", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "This is my last class and I had no idea about that!"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-26T10:14:58Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-09-26T10:14:58Z", 
+          "type": "feedback", 
+          "id": "j81g3whrk9u2po", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "As an aside,  there are some students who are absolute beasts when it comes to answering questions. There is one particular guy I have been in two classes with who had almost 2k posts in each class.  He would answer some questions within minutes of being asked.  If you ever have that guy in class (Alex), he is super helpful. I am convinced Alex has been personally responsible for increasing the class average by several points purely from his piazza help alone."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-26T13:49:18Z", 
+          "uid": "hvvxmpxfuyb2eo", 
+          "created": "2017-09-26T13:49:18Z", 
+          "type": "feedback", 
+          "id": "j81nrj6vli74zc", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Alex used to be faster than Google search :)"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-26T14:26:14Z", 
+          "uid": "hvduxyr7r4s6q7", 
+          "created": "2017-09-26T14:26:14Z", 
+          "type": "feedback", 
+          "id": "j81p30xk11g19z", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Alex Y. Yeah, it&#39;s great to be in a class with him. I&#39;ve been in several with you too Brent. You&#39;re no slouch when it comes to helping out on Piazza.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-26T15:02:11Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-09-26T15:02:11Z", 
+          "type": "feedback", 
+          "id": "j81qd9lv67h2df", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Ha, thanks Scott :)</p>"
+        }
+      ], 
+      "subject": "The best thing that another student (one who didn&#39;t ask the question) can do is answer the question officially in the student answer, if they know it.  This way all an instructor would have to do is fly by and &#39;like &#39; the answer.\n\nFor those that don&#39;t know,  if a TA or instructor &#39;likes &#39; a post or student answer it shows up differently - it specially marks the post and the student comment.  If I see a liked student answer by a TA or professor I consider it &#39;blessed&#39; by the instructor. This is one way where A) students can help and B) the instructors can save time having to answer the question with a simple like."
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-26T11:38:12Z", 
+      "no_upvotes": 0, 
+      "uid": "idg61g3ot1qp6", 
+      "created": "2017-09-26T11:38:12Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j81j2xtr3wa5ea", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>An FAQ broken down by Project or Subject or Problem type would go a very long way after just a\u00a0semester or two.</p>\n<p>If done well in each course, it would greatly reduce the load of both the Prof. and TAs in future iterations of the course.</p>\n<p>In our case, I agree that putting more &#34;search&#34; in the little &#34;Search or add a post...&#34; input goes far too. \u00a0For me anyway. \u00a0</p>\n<p>Well that, and proper &#34;folder&#34; tagging of posts.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-27T16:12:58Z", 
+      "no_upvotes": 0, 
+      "uid": "hqa65fnalg83fr", 
+      "created": "2017-09-27T16:12:58Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j838c5cps177d", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-03T05:02:02Z", 
+          "uid": "i4mub6lmaxh", 
+          "created": "2017-10-03T05:02:02Z", 
+          "type": "feedback", 
+          "id": "j8b50fkw2hw5io", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#43;1</p>"
+        }
+      ], 
+      "subject": "<p>I don&#39;t agree.. I don&#39;t like slack. Its hard to find answers in Slack for previous questions. Piazza is the place to ask and the place to search.</p>\n<p>If something is a dupe it can be marked so (though yes.. its important to search before posting).</p>\n<p></p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-27T16:17:34Z", 
+      "no_upvotes": 0, 
+      "uid": "hzetpo9z5sK", 
+      "created": "2017-09-27T16:17:34Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j838i1z9kzqe9", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>I don&#39;t know if there is a way to rank answers in piazza the way it is done in stack exchange, here the\u00a0posts with actual helpful information are buried in a lot of not useful comments, it gets very cumbersome at times and limits the usefulness of the platform.</p>"
+    }
+  ], 
+  "nr": 442, 
+  "bucket_order": 2, 
+  "type": "note", 
+  "folders": [
+    "course"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-09-26T02:12:59Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145216568, 
+  "tag_good": [
+    {
+      "name": "Zach Levin", 
+      "admin": false, 
+      "photo": "1409108374_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hyxoa9hzfad3is"
+    }, 
+    {
+      "name": "Tomonori Tsuji", 
+      "admin": false, 
+      "photo": "1452414734_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "ij7kfqwwm9s3qt"
+    }, 
+    {
+      "name": "Dennis Sidharta", 
+      "admin": false, 
+      "photo": "1463366773_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "idg5nm2lC96"
+    }, 
+    {
+      "name": "Chris Noyes", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "", 
+      "facebook_id": null, 
+      "id": "idej2kl6hh1"
+    }, 
+    {
+      "name": "Eddie Spencer", 
+      "admin": false, 
+      "photo": "1432002672_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4j6x8uvfv6743"
+    }, 
+    {
+      "name": "Jesse Peinado", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "iddoy2bdneb2tv"
+    }, 
+    {
+      "name": "Shihgian Lee", 
+      "admin": false, 
+      "photo": "1420394909_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i18w67avy8e1uk"
+    }, 
+    {
+      "name": "abarysevich", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4t8eakz3ex6lk"
+    }, 
+    {
+      "name": "Gautam Venkataramanan", 
+      "admin": false, 
+      "photo": "1447185933_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hvvxmpxfuyb2eo"
+    }, 
+    {
+      "name": "Rishikesh Kulkarni", 
+      "admin": false, 
+      "photo": "1422222032_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4kd2g0n8rw3f6"
+    }, 
+    {
+      "name": "Jason Buoni", 
+      "admin": false, 
+      "photo": "1463440659_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "name": "Brian Trinh", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hq9zldq5n9mvn"
+    }, 
+    {
+      "name": "Balaji Sundaresan", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hz03lfq2z6r446"
+    }, 
+    {
+      "name": "MarkBenjamin1@gatech.edu", 
+      "admin": false, 
+      "photo": "1420465436_35.png", 
+      "us": false, 
+      "role": "", 
+      "facebook_id": null, 
+      "id": "i4hdvab632i522"
+    }, 
+    {
+      "name": "David Ogor", 
+      "admin": false, 
+      "photo": "1476567276_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "iddoxmqfc2e2qh"
+    }, 
+    {
+      "name": "Kris Peterson", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hv5exp71kfz754"
+    }, 
+    {
+      "name": "Josh Clum", 
+      "admin": false, 
+      "photo": "1431566311_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hve4k9bj2u4qu"
+    }, 
+    {
+      "name": "Isaac Gutierrez", 
+      "admin": false, 
+      "photo": "1420658091_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hzetpo9z5sK"
+    }, 
+    {
+      "name": "Blaine Spear", 
+      "admin": false, 
+      "photo": "1494887789_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "idfwkujs17e3ky"
+    }, 
+    {
+      "name": "Nelson Cheng", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4kxfs7hlxngu"
+    }
+  ], 
+  "tag_good_arr": [
+    "hyxoa9hzfad3is", 
+    "ij7kfqwwm9s3qt", 
+    "idg5nm2lC96", 
+    "idej2kl6hh1", 
+    "i4j6x8uvfv6743", 
+    "iddoy2bdneb2tv", 
+    "i18w67avy8e1uk", 
+    "i4t8eakz3ex6lk", 
+    "hvvxmpxfuyb2eo", 
+    "i4kd2g0n8rw3f6", 
+    "ijbr5ddtwyt6pa", 
+    "hq9zldq5n9mvn", 
+    "hz03lfq2z6r446", 
+    "i4hdvab632i522", 
+    "iddoxmqfc2e2qh", 
+    "hv5exp71kfz754", 
+    "hve4k9bj2u4qu", 
+    "hzetpo9z5sK", 
+    "idfwkujs17e3ky", 
+    "i4kxfs7hlxngu"
+  ], 
+  "history": [
+    {
+      "content": "<p>I know it is sometimes difficult to face uncertainties in a new situation. However, keep in mind that this is a new course in a program meant to scale. Let&#39;s do our part in trying to scale it. Try to find your answer elsewhere on the board, ask in office hours or ask in slack. Please don&#39;t overwhelm the professor and TAs with minor questions and complaints on Piazza. It&#39;s hard enough to follow it as a student (and I admit that I don&#39;t read everything). Can you imagine having to actually respond to all of these posts?</p>", 
+      "anon": "no", 
+      "created": "2017-09-26T02:12:59Z", 
+      "uid": "hz0jkj9dnctqp", 
+      "subject": "Fellow students...."
+    }
+  ]
+}

@@ -1,0 +1,539 @@
+{
+  "status": "active", 
+  "unique_views": 373, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-08-21T03:08:59Z", 
+      "data": "j6ll1ekqxyf2qe", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j6ll1ekm6xy2qd", 
+      "anon": "no", 
+      "when": "2017-08-21T04:18:43Z", 
+      "type": "followup", 
+      "uid": "hqa65fnalg83fr"
+    }, 
+    {
+      "to": "j6ll1ekm6xy2qd", 
+      "anon": "no", 
+      "when": "2017-08-21T12:45:47Z", 
+      "type": "followup", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j6ll1ekm6xy2qd", 
+      "anon": "no", 
+      "when": "2017-08-21T12:53:13Z", 
+      "type": "feedback", 
+      "uid": "hq9zldgr4t7vb"
+    }, 
+    {
+      "to": "j6ll1ekm6xy2qd", 
+      "anon": "no", 
+      "when": "2017-08-21T13:06:52Z", 
+      "type": "feedback", 
+      "uid": "i18w67avy8e1uk"
+    }, 
+    {
+      "to": "j6ll1ekm6xy2qd", 
+      "anon": "no", 
+      "when": "2017-08-21T13:15:06Z", 
+      "type": "followup", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j6ll1ekm6xy2qd", 
+      "anon": "no", 
+      "when": "2017-08-21T13:47:21Z", 
+      "type": "followup", 
+      "uid": "hv5exp71kfz754"
+    }, 
+    {
+      "to": "j6ll1ekm6xy2qd", 
+      "anon": "no", 
+      "when": "2017-08-21T13:48:48Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j6ll1ekm6xy2qd", 
+      "anon": "no", 
+      "when": "2017-08-21T14:12:02Z", 
+      "type": "feedback", 
+      "uid": "hv5exp71kfz754"
+    }, 
+    {
+      "to": "j6ll1ekm6xy2qd", 
+      "anon": "no", 
+      "when": "2017-08-21T16:27:02Z", 
+      "type": "feedback", 
+      "uid": "hvvxmpxfuyb2eo"
+    }, 
+    {
+      "to": "j6ll1ekm6xy2qd", 
+      "anon": "no", 
+      "when": "2017-08-21T16:32:21Z", 
+      "type": "feedback", 
+      "uid": "i18w67avy8e1uk"
+    }, 
+    {
+      "to": "j6ll1ekm6xy2qd", 
+      "anon": "no", 
+      "when": "2017-08-21T16:34:49Z", 
+      "type": "feedback", 
+      "uid": "hvvxmpxfuyb2eo"
+    }, 
+    {
+      "to": "j6ll1ekm6xy2qd", 
+      "anon": "no", 
+      "when": "2017-08-22T12:12:37Z", 
+      "type": "followup", 
+      "uid": "hv8z1ryhi6h6mi"
+    }, 
+    {
+      "to": "j6ll1ekm6xy2qd", 
+      "anon": "no", 
+      "when": "2017-08-22T17:19:42Z", 
+      "type": "feedback", 
+      "uid": "hju4w9odatf30"
+    }, 
+    {
+      "to": "j6ll1ekm6xy2qd", 
+      "anon": "no", 
+      "when": "2017-08-22T20:44:33Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j6ll1ekm6xy2qd", 
+      "anon": "no", 
+      "when": "2017-08-23T01:07:28Z", 
+      "type": "feedback", 
+      "uid": "hv8z1ryhi6h6mi"
+    }, 
+    {
+      "to": "j6ll1ekm6xy2qd", 
+      "anon": "no", 
+      "when": "2017-08-23T13:16:28Z", 
+      "type": "followup", 
+      "uid": "idfwkf5jgsm3gg"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-08-23T13:19:40Z", 
+      "data": "j6p1qgu75rk6ne", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j6ll1ekm6xy2qd", 
+      "anon": "no", 
+      "when": "2017-08-23T15:16:02Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j6ll1ekm6xy2qd", 
+      "anon": "no", 
+      "when": "2017-08-24T23:00:18Z", 
+      "type": "feedback", 
+      "uid": "i4j6x8uvfv6743"
+    }, 
+    {
+      "to": "j6ll1ekm6xy2qd", 
+      "anon": "no", 
+      "when": "2017-08-25T03:54:00Z", 
+      "type": "feedback", 
+      "uid": "hvegstfnkcc5uc"
+    }, 
+    {
+      "to": "j6ll1ekm6xy2qd", 
+      "anon": "no", 
+      "when": "2017-08-25T13:35:52Z", 
+      "type": "followup", 
+      "uid": "idju56eg7dC"
+    }, 
+    {
+      "to": "j6ll1ekm6xy2qd", 
+      "anon": "no", 
+      "when": "2017-08-25T18:54:53Z", 
+      "type": "feedback", 
+      "uid": "isgwdf47kb42f"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-15T06:03:41Z", 
+      "data": "j7lhad9k2p33d2", 
+      "uid": "hju4w9odatf30"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j6ll1ekm6xy2qd", 
+  "bookmarked": 15, 
+  "tags": [
+    "dynamic_programming", 
+    "instructor-note"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-08-21T13:15:06Z", 
+      "no_upvotes": 0, 
+      "uid": "gy4twfv45cg5o6", 
+      "created": "2017-08-21T13:15:06Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6m6ow2hbpm63g", 
+      "anon": "no", 
+      "bucket_name": "Week 8/20 - 8/26", 
+      "config": {}, 
+      "bucket_order": 8, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-08-24T23:00:18Z", 
+          "uid": "i4j6x8uvfv6743", 
+          "created": "2017-08-24T23:00:18Z", 
+          "type": "feedback", 
+          "id": "j6r1x09teo655q", 
+          "anon": "no", 
+          "bucket_name": "Week 8/20 - 8/26", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Is the exam closed book?"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-25T03:54:00Z", 
+          "uid": "hvegstfnkcc5uc", 
+          "created": "2017-08-25T03:54:00Z", 
+          "type": "feedback", 
+          "id": "j6rcepdkuut4bz", 
+          "anon": "no", 
+          "bucket_name": "Week 8/20 - 8/26", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>See &#64;13</p>"
+        }
+      ], 
+      "subject": "<p></p>\n<p>We are using Gradescope for homeworks and also for the exams.</p>\n<p>We are also using Proctortrack for the exams. \u00a0 Gradescope is not\u00a0</p>\n<p>a big deal, you just upload your document (hw or exam) there, as</p>\n<p>opposed to TSquare, and this helps us with the grading. \u00a0The</p>\n<p>exams will look like the homeworks. \u00a0Look at the DP homework</p>\n<p>and you&#39;ll see the format I&#39;ll use on the exam for the DP problems.</p>\n<p></p>\n<p>It is not a big deal. \u00a0We&#39;ll talk more about the exam (format, length etc.)</p>\n<p>closer to the exam.</p>\n<p></p>\n<p>The exams will go out on Fridays and there will be a couple days window.</p>\n<p></p>\n<p>This is my first time doing an OMS class so I don&#39;t have all of the fine details</p>\n<p>at this point. \u00a0If that bothers you, then you probably shouldn&#39;t register for</p>\n<p>this course in its first offering, you should wait for a future semester.</p>\n<p></p>\n<p>--Eric</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-21T13:47:21Z", 
+      "no_upvotes": 0, 
+      "uid": "hv5exp71kfz754", 
+      "created": "2017-08-21T13:47:21Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6m7ud6wvs944m", 
+      "anon": "no", 
+      "bucket_name": "Week 8/20 - 8/26", 
+      "config": {}, 
+      "bucket_order": 8, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-08-21T13:48:48Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-08-21T13:48:48Z", 
+          "type": "feedback", 
+          "id": "j6m7w8dz95s36o", 
+          "anon": "no", 
+          "bucket_name": "Week 8/20 - 8/26", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p></p>\n<p>Can you reload the page and try again? \u00a0OK now?</p>\n<p>I changed the links a few minutes ago. \u00a0--Eric</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-21T14:12:02Z", 
+          "uid": "hv5exp71kfz754", 
+          "created": "2017-08-21T14:12:02Z", 
+          "type": "feedback", 
+          "id": "j6m8q3xfa2u4mv", 
+          "anon": "no", 
+          "bucket_name": "Week 8/20 - 8/26", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thank you. \u00a0Working fine now.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-21T16:27:02Z", 
+          "uid": "hvvxmpxfuyb2eo", 
+          "created": "2017-08-21T16:27:02Z", 
+          "type": "feedback", 
+          "id": "j6mdjplg1b3445", 
+          "anon": "no", 
+          "bucket_name": "Week 8/20 - 8/26", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I am unable to access homeword still. When I click &#34;Homework 1&#34;, I only see a dialog box to submit a pdf or image. But I dont see the question as such.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-21T16:32:21Z", 
+          "uid": "i18w67avy8e1uk", 
+          "created": "2017-08-21T16:32:21Z", 
+          "type": "feedback", 
+          "id": "j6mdqjqjn1w3i6", 
+          "anon": "no", 
+          "bucket_name": "Week 8/20 - 8/26", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>The homework is posted on word press:\u00a0<a href=\"https://8803ga.wordpress.com/hw1/\">https://8803ga.wordpress.com/hw1/</a>\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-21T16:34:49Z", 
+          "uid": "hvvxmpxfuyb2eo", 
+          "created": "2017-08-21T16:34:49Z", 
+          "type": "feedback", 
+          "id": "j6mdtpokykc76t", 
+          "anon": "no", 
+          "bucket_name": "Week 8/20 - 8/26", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thanks!</p>"
+        }
+      ], 
+      "subject": "<p>I cannot access the homework pdf files.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-22T12:12:37Z", 
+      "no_upvotes": 0, 
+      "uid": "hv8z1ryhi6h6mi", 
+      "created": "2017-08-22T12:12:37Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6njwe5imf41zj", 
+      "anon": "no", 
+      "bucket_name": "Week 8/20 - 8/26", 
+      "config": {}, 
+      "bucket_order": 8, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-08-22T17:19:42Z", 
+          "uid": "hju4w9odatf30", 
+          "created": "2017-08-22T17:19:42Z", 
+          "type": "feedback", 
+          "id": "j6nuvav3ajd158", 
+          "anon": "no", 
+          "bucket_name": "Week 8/20 - 8/26", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Please use your GT email address.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-22T20:44:33Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-08-22T20:44:33Z", 
+          "type": "feedback", 
+          "id": "j6o26qcz5yw2vm", 
+          "anon": "no", 
+          "bucket_name": "Week 8/20 - 8/26", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p></p>\n<p>According to Gradescope:</p>\n<p></p>\n<p>Gradescope is FERPA compliant: students must log in to see their work.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-23T01:07:28Z", 
+          "uid": "hv8z1ryhi6h6mi", 
+          "created": "2017-08-23T01:07:28Z", 
+          "type": "feedback", 
+          "id": "j6obku9ama64zh", 
+          "anon": "no", 
+          "bucket_name": "Week 8/20 - 8/26", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thanks for confirming!\u00a0 My concerns are allayed.</p>"
+        }
+      ], 
+      "subject": "<p>Hi.\u00a0 I received an email saying I&#39;ve been signed up for Gradescope.\u00a0 Should we be using our gatech email for that?</p>\n<p></p>\n<p>Last semester the teaching staff for Artificial Intelligence strenuously insisted we should use throwaway emails to create Gradescope accounts, out of concerns about <a href=\"http://www.colorado.edu/registrar/students/records/ferpa\" target=\"_blank\">FERPA</a> regulations:</p>\n<blockquote>\n<p><strong>Since we have to comply with FERPA regulations</strong>, we encourage you <strong>not</strong> to use your real name and e-mail address in Gradescope. \u00a0Instead, you will use a pseudonym and e-mail address of your choice and submit your T-Square / Gradescope mapping to us through this Google Form [link removed].</p>\n</blockquote>\n<p></p>\n<p>On the other hand, this UMich page seems to say Gradescope is OK:\u00a0 <a href=\"https://www.safecomputing.umich.edu/dataguide/?q=node/62\">https://www.safecomputing.umich.edu/dataguide/?q=node/62</a></p>\n<p></p>\n<p>So, which is it?</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-23T13:16:28Z", 
+      "no_upvotes": 0, 
+      "uid": "idfwkf5jgsm3gg", 
+      "created": "2017-08-23T13:16:28Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6p1mcq1i155dy", 
+      "anon": "no", 
+      "bucket_name": "Week 8/20 - 8/26", 
+      "config": {}, 
+      "bucket_order": 8, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-08-23T15:16:02Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-08-23T15:16:02Z", 
+          "type": "feedback", 
+          "id": "j6p5w465od2g8", 
+          "anon": "no", 
+          "bucket_name": "Week 8/20 - 8/26", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Done. \u00a0--Eric</p>"
+        }
+      ], 
+      "subject": "<p>Professor,</p>\n<p></p>\n<p>Please pin this post as well.</p>\n<p></p>\n<p>Thank you!</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-25T13:35:52Z", 
+      "no_upvotes": 0, 
+      "uid": "idju56eg7dC", 
+      "created": "2017-08-25T13:35:52Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6rx70cq49x4l1", 
+      "anon": "no", 
+      "bucket_name": "Week 8/20 - 8/26", 
+      "config": {}, 
+      "bucket_order": 8, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-08-25T18:54:53Z", 
+          "uid": "isgwdf47kb42f", 
+          "created": "2017-08-25T18:54:53Z", 
+          "type": "feedback", 
+          "id": "j6s8l9hu8qi5lq", 
+          "anon": "no", 
+          "bucket_name": "Week 8/20 - 8/26", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Zhen,</p>\n<p></p>\n<p>Between here (Piazza), the course website (<a href=\"https://8803ga.wordpress.com/\">https://8803ga.wordpress.com/</a>), and Gradescope you should have all the resources you need for this course.</p>\n<p></p>\n<p>-Michael</p>"
+        }
+      ], 
+      "subject": "<p>Hello everyone,</p>\n<p></p>\n<p>I just registered this course since the waitlist just got removed and the open registration window started. However, this course has not shown up in my t-square. But if everything is on gradescope, I don&#39;t really need t-square for this course, right?</p>\n<p></p>\n<p>Thanks for any advice.</p>"
+    }
+  ], 
+  "nr": 12, 
+  "bucket_order": 2, 
+  "type": "note", 
+  "folders": [
+    "dynamic_programming"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 11, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-08-21T03:08:59Z", 
+  "is_tag_good": false, 
+  "config": {
+    "is_announcement": 1, 
+    "bypass_email": 1
+  }, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145336969, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p></p>\n<p>Welcome to Introduction to Graduate Algorithms. \u00a0<br />This class is an algorithmic-focused version of 6505.<br /><br />The class webpage is here: \u00a0\u00a0<a href=\"https://8803ga.wordpress.com/\" target=\"_blank\">https://8803ga.wordpress.com</a><br />There you can find the class schedule, and the homeworks<br />will be posted there as well.\u00a0 HW 1 is up there now, see:<br />\u00a0 \u00a0\u00a0<a href=\"https://8803ga.wordpress.com/hws/\" target=\"_blank\">https://8803ga.wordpress.com/hws/</a><br />We will use Gradescope for hw and exam submissions.\u00a0<br />You&#39;ll receive a link soon to register on Gradescope. \u00a0<br /><br />Please use Piazza to communicate with the TA&#39;s and I.<br /><br />The first set of lectures are on dynamic programming (DP).<br />I&#39;ve done my best to show you how I approach DP problems,<br />but it&#39;s the sort of thing you can only learn by doing lots of<br />practice problems.\u00a0 So try some practice DP problems, and<br />post a question on Piazza if you get stuck or you want to\u00a0<br />check your solution (try not to give a spoiler for others).<br /><br />The homeworks are worth relatively little so that you don&#39;t have<br />to stress if you can&#39;t solve some or finish it on-time, etc., and also<br />to minimize any incentive to cheat.\u00a0 They are a great practice for\u00a0<br />the exams, so the value of your hw effort will show up, hopefully, on<br />your exam score.<br /><br />We are excited to be working with you this semester.<br />This is our first time running an OMS course, so bear with us<br />as we&#39;ll surely have some bumps along the way as we\u00a0<br />figure things out.</p>\n<p></p>\n<p>--Eric</p>", 
+      "anon": "no", 
+      "created": "2017-09-15T06:03:41Z", 
+      "uid": "hju4w9odatf30", 
+      "subject": "Welcome and DP lectures"
+    }, 
+    {
+      "content": "<p></p>\n<p>Welcome to Introduction to Graduate Algorithms. \u00a0<br />This class is an algorithmic-focused version of 6505.<br /><br />The class webpage is here: \u00a0\u00a0<a href=\"https://8803ga.wordpress.com/\" target=\"_blank\">https://8803ga.wordpress.com</a><br />There you can find the class schedule, and the homeworks<br />will be posted there as well.\u00a0 HW 1 is up there now, see:<br />\u00a0 \u00a0\u00a0<a href=\"https://8803ga.wordpress.com/hws/\" target=\"_blank\">https://8803ga.wordpress.com/hws/</a><br />We will use Gradescope for hw and exam submissions.\u00a0<br />You&#39;ll receive a link soon to register on Gradescope. \u00a0<br /><br />Please use Piazza to communicate with the TA&#39;s and I.<br /><br />The first set of lectures are on dynamic programming (DP).<br />I&#39;ve done my best to show you how I approach DP problems,<br />but it&#39;s the sort of thing you can only learn by doing lots of<br />practice problems.\u00a0 So try some practice DP problems, and<br />post a question on Piazza if you get stuck or you want to\u00a0<br />check your solution (try not to give a spoiler for others).<br /><br />The homeworks are worth relatively little so that you don&#39;t have<br />to stress if you can&#39;t solve some or finish it on-time, etc., and also<br />to minimize any incentive to cheat.\u00a0 They are a great practice for\u00a0<br />the exams, so the value of your hw effort will show up, hopefully, on<br />your exam score.<br /><br />We are excited to be working with you this semester.<br />This is our first time running an OMS course, so bear with us<br />as we&#39;ll surely have some bumps along the way as we\u00a0<br />figure things out.</p>\n<p></p>\n<p>--Eric</p>\n#pin", 
+      "anon": "no", 
+      "created": "2017-08-23T13:19:40Z", 
+      "uid": "gy4twfv45cg5o6", 
+      "subject": "Welcome and DP lectures"
+    }, 
+    {
+      "content": "<p></p>\n<p>Welcome to Introduction to Graduate Algorithms. \u00a0<br />This class is an algorithmic-focused version of 6505.<br /><br />The class webpage is here: \u00a0\u00a0<a href=\"https://8803ga.wordpress.com/\" target=\"_blank\">https://8803ga.wordpress.com</a><br />There you can find the class schedule, and the homeworks<br />will be posted there as well.\u00a0 HW 1 is up there now, see:<br />\u00a0 \u00a0\u00a0<a href=\"https://8803ga.wordpress.com/hws/\" target=\"_blank\">https://8803ga.wordpress.com/hws/</a><br />We will use Gradescope for hw and exam submissions.\u00a0<br />You&#39;ll receive a link soon to register on Gradescope. \u00a0<br /><br />Please use Piazza to communicate with the TA&#39;s and I.<br /><br />The first set of lectures are on dynamic programming (DP).<br />I&#39;ve done my best to show you how I approach DP problems,<br />but it&#39;s the sort of thing you can only learn by doing lots of<br />practice problems.\u00a0 So try some practice DP problems, and<br />post a question on Piazza if you get stuck or you want to\u00a0<br />check your solution (try not to give a spoiler for others).<br /><br />The homeworks are worth relatively little so that you don&#39;t have<br />to stress if you can&#39;t solve some or finish it on-time, etc., and also<br />to minimize any incentive to cheat.\u00a0 They are a great practice for\u00a0<br />the exams, so the value of your hw effort will show up, hopefully, on<br />your exam score.<br /><br />We are excited to be working with you this semester.<br />This is our first time running an OMS course, so bear with us<br />as we&#39;ll surely have some bumps along the way as we\u00a0<br />figure things out.</p>\n<p></p>\n<p>--Eric</p>", 
+      "anon": "no", 
+      "created": "2017-08-21T03:08:59Z", 
+      "uid": "gy4twfv45cg5o6", 
+      "subject": "Welcome and DP lectures"
+    }
+  ]
+}

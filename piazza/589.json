@@ -1,0 +1,240 @@
+{
+  "status": "active", 
+  "unique_views": 178, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-04T06:01:00Z", 
+      "data": "j8cmk3qfvcc3xl", 
+      "uid": "ijawb89brbO"
+    }, 
+    {
+      "uid": "i4hdvab632i522", 
+      "type": "s_answer", 
+      "when": "2017-10-04T06:36:46Z", 
+      "to": "j8cmk3qdmw93xk", 
+      "anon": "no", 
+      "data": "j8cnu3youtk669"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-10-04T06:41:12Z", 
+      "data": "j8cnztc95brqj", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-10-04T06:55:44Z", 
+      "data": "j8coihmfczl39", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "to": "j8cmk3qdmw93xk", 
+      "anon": "no", 
+      "when": "2017-10-04T12:36:39Z", 
+      "type": "followup", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j8cmk3qdmw93xk", 
+      "anon": "no", 
+      "when": "2017-10-04T16:33:42Z", 
+      "type": "feedback", 
+      "uid": "hq9zldy4rr4w1"
+    }, 
+    {
+      "to": "j8cmk3qdmw93xk", 
+      "anon": "no", 
+      "when": "2017-10-04T16:35:48Z", 
+      "type": "feedback", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j8cmk3qdmw93xk", 
+      "anon": "no", 
+      "when": "2017-10-04T16:54:08Z", 
+      "type": "feedback", 
+      "uid": "hq9zldy4rr4w1"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8cmk3qdmw93xk", 
+  "bookmarked": 7, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-04T06:36:46Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [
+        "i8597yy2i2f1z6", 
+        "gns9oa0pgsO"
+      ], 
+      "id": "j8cnu3yiq9d668", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Patrick Miller", 
+          "admin": false, 
+          "photo": "1463931616_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i8597yy2i2f1z6"
+        }, 
+        {
+          "name": "john turner", 
+          "admin": true, 
+          "photo": null, 
+          "us": false, 
+          "role": "ta", 
+          "facebook_id": null, 
+          "id": "gns9oa0pgsO"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/i4hdvab632i522/j8cntzjjzffr/search.png\" alt=\"\" />\nThe fact that you may see multiple results, is a sign that most of your questions have already been asked as well as answered multiple times, there&#39;s no real substitute for keeping up with the piazza conversation\n\nAs for how you test your input for task 1, <tt>testInput.txt</tt> &amp; <tt>testOutput.txt</tt> are defaults, there&#39;s no need to specify the default input, while the output is not strictly necessary aside from debugging; beyond that, you kind of need to read the code to confirm that your own implementation for task 1 would &#39;just work&#39; with the default config, although it is quite feasible that it should as long as you code it properly.", 
+          "anon": "no", 
+          "created": "2017-10-04T06:55:44Z", 
+          "uid": "i4hdvab632i522", 
+          "subject": ""
+        }, 
+        {
+          "content": "<img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/i4hdvab632i522/j8cntzjjzffr/search.png\" alt=\"\" />\nThe fact that you may see multiple results, is a sign that most of your questions have already been asked as well as answered multiple times, there&#39;s no real substitute for keeping up with the piazza conversation", 
+          "anon": "no", 
+          "created": "2017-10-04T06:41:12Z", 
+          "uid": "i4hdvab632i522", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/i4hdvab632i522/j8cntzjjzffr/search.png\" alt=\"\" /></p>", 
+          "anon": "no", 
+          "created": "2017-10-04T06:36:46Z", 
+          "uid": "i4hdvab632i522", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-04T12:36:39Z", 
+      "no_upvotes": 0, 
+      "uid": "hvil6y6khgk2ri", 
+      "created": "2017-10-04T12:36:39Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8d0oxad6ow5p8", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-04T16:33:42Z", 
+          "uid": "hq9zldy4rr4w1", 
+          "created": "2017-10-04T16:33:42Z", 
+          "type": "feedback", 
+          "id": "j8d95rtc6we4yv", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Isn&#39;t genhashes just\u00a0 a random hash generator we code for task 1 and task 3 and it runs when genHashes is to &#34;True&#34; and generate random hash values.\u00a0</p>\n<p></p>\n<p>testInput.txt contains a set of 200000 test values ( x&#39;s )\u00a0 we could use ( at least I thought we could )\u00a0 for Task 1 and Task 3 to generate the graphs. Or are we supposed to generate our own set of test inputs ( Xs ) for Task 1 and Task 3 and<strong> not use</strong> testInput.txt??.\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-04T16:35:48Z", 
+          "uid": "gns9oa0pgsO", 
+          "created": "2017-10-04T16:35:48Z", 
+          "type": "feedback", 
+          "id": "j8d98gkgs9w4jt", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>yes you may use the given input data for tasks 1 and 3.\u00a0 however, you also need to generate data for task 1 that is correlated in some way.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-04T16:54:08Z", 
+          "uid": "hq9zldy4rr4w1", 
+          "created": "2017-10-04T16:54:08Z", 
+          "type": "feedback", 
+          "id": "j8d9w1cshvk6r8", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>John,</p>\n<p></p>\n<p>Thanks for the quick feedback Also. the instructions say -\u00a0Compare how they perform using data drawn randomly from the universe to how well they perform with data having some correlation (for example, data in a sequence, like \u201cfirst 2m even numbers entered\u201d).</p>\n<p></p>\n<p>so 1.\u00a0<em>data drawn randomly from the universe\u00a0</em> - Would the testInput.txt qualify for this criteria?</p>\n<p></p>\n<p>2.\u00a0<em>data having some correlation (for example, data in a sequence, like \u201cfirst 2m even numbers entered\u201d)</em> - We generate this or something similar.</p>\n<p></p>\n<p>Also what data do you suggest we use for testing task 3.\u00a0</p>\n<p></p>\n<p>Thanks!!</p>"
+        }
+      ], 
+      "subject": "<p>1) &#39;k&#39; should be = 1 for task 1, =13 for task 2 (although you will not have to set this, as the import function john wrote will do this for you), and k varies between .4*c and c for task 3.</p>\n<p>\u00a0</p>\n<p>2) (a, b) should be calculated at random for task 1 (although feel free to manually test specific values - its not required but I did to see how I could break one of the hashes)</p>\n<p>\u00a0</p>\n<p>3) For task 1 and 3, you can set n to be whatever you wish (JUST MAKE SURE ITS A PRIME NUMBER); for task 2, this is set for you automatically.</p>\n<p>\u00a0</p>\n<p>4) For me, I found it best to actually write the hashes, complete task 2, and then go back to task 1 to finish the remainder of task 1.</p>\n<p>\u00a0</p>\n<p>5) testInput.txt is not used for task 1 or task 3; you should be generating random numbers on your own for this (that is to say, genHashes = True when you initialize your hashes for tasks 1 and 3).</p>\n<p></p>\n<p>To test task 2, you can run both of these commands:</p>\n<p></p>\n<pre>./bloom.py -c testConfigHashType1.txt -i testInput.txt -o testOutput.txt -v validResHashType1.txt<br />./bloom.py -c testConfigHashType2.txt -i testInput.txt -o testOutput.txt -v validResHashType2.txt</pre>\n<p></p>\n<p>That will test both hashes for task 2, and you should get a message saying they work as expected.<br /><br />For tasks 1 and 3, there is no test per se but you can run them a la (after you write them, that is):</p>\n<p></p>\n<pre>./bloom.py -t 1 &lt;leave everything else the same&gt;<br />./bloom.py -t 3 &lt;leave everything else the same&gt;</pre>\n<p></p>\n<p></p>\n<p></p>"
+    }
+  ], 
+  "nr": 589, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "project"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 7, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "project", 
+    "student"
+  ], 
+  "created": "2017-10-04T06:01:00Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145182523, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>I am just starting this project and have several questions in Task 1 itself.</p>\n<p></p>\n<p>1) What should &#39;k&#39; be? i.e. how many hash functions should I have?</p>\n<p></p>\n<p>2) What should &#39;a&#39; and &#39;b&#39; be in random.randint(a, b) for Task 1?</p>\n<p></p>\n<p>3) What should &#39;n&#39; be?</p>\n<p></p>\n<p>4) How should I test my implementation for Task1?</p>\n<p></p>\n<p>5) <span style=\"text-decoration:underline\"><strong>My assumption</strong></span>: I would be using the testInput.txt file for testing Task 1 and that the command would be</p>\n<p></p>\n<p>./bloom.py -i testInput.txt -o myoutput.txt -t 1</p>\n<p></p>\n<p>Is the above right? myoutput.txt would contain hash outputs for each hash function for each number read from the file. Is this right?</p>\n<p></p>\n<p>I really wish all these were clearly specified in the PDF document.</p>", 
+      "anon": "no", 
+      "created": "2017-10-04T06:01:00Z", 
+      "uid": "ijawb89brbO", 
+      "subject": "Task1 questions"
+    }
+  ]
+}

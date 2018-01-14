@@ -1,0 +1,4256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/gar/ga/videos/1%20-%20Course%20overview%2C%20see%20course%20webpage%20for%20details..mp4</location>
+			<duration>58373</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/2%20-%20Overview%20of%20Dynamic%20Programming%20Lectures.mp4</location>
+			<duration>54101</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/3%20-%20Toy%20example%3A%20computing%20Fibonacci%20numbers.mp4</location>
+			<duration>69055</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/4%20-%20Fibonacci%20Numbers%3A%20Recursive%20Algorithm.mp4</location>
+			<duration>179768</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/5%20-%20Fib%3A%20Exponential%20running%20time%20of%20simple%20recursive%20approach.mp4</location>
+			<duration>103560</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/6%20-%20Fib%3A%20DP%20approach%20for%20computing%20Fibonacci%20numbers.mp4</location>
+			<duration>80201</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/7%20-%20Fib%3A%20Dynamic%20Programming%3A%20Short%20Recap.mp4</location>
+			<duration>118885</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/8%20-%20Longest%20Increasing%20Subsequence%20%28LIS%29%20Problem.mp4</location>
+			<duration>173916</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/9%20-%20LIS%3A%20DP%20subproblem%20definition%3A%20attempt%201.mp4</location>
+			<duration>106856</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/10%20-%20LIS%3A%20DP%20recursive%20relation%3A%20attempt%201.mp4</location>
+			<duration>354150</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/11%20-%20LIS%3A%20DP%20subproblem%20definition%3A%20attempt%202.mp4</location>
+			<duration>172151</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/12%20-%20LIS%3A%20DP%20recursive%20relation%3A%20attempt%202.mp4</location>
+			<duration>146703</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/13%20-%20LIS%3A%20DP%20Algorithm%3A%20Pseudocode.mp4</location>
+			<duration>168018</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/14%20-%2012%20L%20DP%20Algorithm%20%20SOLUTION%20VIDEO.mp4</location>
+			<duration>33203</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/15%20-%20LIS%3A%20DP%20Algorithm%3A%20Recap.mp4</location>
+			<duration>132353</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/16%20-%20Longest%20Common%20Subsequence%20%28LCS%29%20Problem%20Definition.mp4</location>
+			<duration>39473</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/17%20-%20Longest%20Common%20Subsequence%20Example.mp4</location>
+			<duration>19643</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/18%20-%20Longest%20Common%20Subsequence%20Example%20Solution.mp4</location>
+			<duration>40541</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/19%20-%20LCS%3A%20DP%20subproblem%20definition%3A%20attempt%201.mp4</location>
+			<duration>82476</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/20%20-%20LCS%3A%20DP%20recursive%20relation%3A%20attempt%201.mp4</location>
+			<duration>183623</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/21%20-%20LCS%3A%20DP%20recursive%20relation%3A%20problem%20in%20attempt%201.mp4</location>
+			<duration>195000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/22%20-%20LCS%3A%20DP%20subproblem%20definition%3A%20attempt%202.mp4</location>
+			<duration>110711</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/23%20-%20LCS%3A%20DP%20recursive%20relation%3A%20last%20characters%20are%20unequal%20.mp4</location>
+			<duration>199040</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/24%20-%20LCS%3A%20DP%20recursive%20relation%3A%20last%20characters%20match.mp4</location>
+			<duration>129195</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/25%20-%20LCS%3A%20DP%20recursive%20relation%3A%20last%20characters%20match%20summary.mp4</location>
+			<duration>112105</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/26%20-%20LCS%3A%20DP%20recursive%20relation%20summary.mp4</location>
+			<duration>106393</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/27%20-%2023%20L%20LCS-%20DP%20Algorithm%201.mp4</location>
+			<duration>101006</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/28%20-%2023%20L%20LCS-%20DP%20Algorithm%20Part%202.mp4</location>
+			<duration>52661</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/29%20-%20DP1%3A%20Suggested%20practice%20problems%20from%20the%20textbook%20%5BDPV%5D.mp4</location>
+			<duration>202151</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/30%20-%20DP1%3A%20Attempted%20Solution%20to%20Problem%206.1.mp4</location>
+			<duration>115356</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/31%20-%20DP1%3A%20Solution%20to%20Practice%20Problem%20%5BDPV%5D%206.1.mp4</location>
+			<duration>137600</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>30</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/32%20-%20Knapsack%3A%20Problem%20Formulation.mp4</location>
+			<duration>139411</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>31</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/33%20-%20Knapsack%3A%20Problem%20Variants.mp4</location>
+			<duration>54333</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>32</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/34%20-%20Knapsack%3A%20Example%3B%20does%20the%20greedy%20approach%20work%3F.mp4</location>
+			<duration>42306</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>33</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/35%20-%20Knapsack%3A%20Example%3B%20does%20the%20greedy%20approach%20work%3F%20Solution.mp4</location>
+			<duration>154690</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>34</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/36%20-%20Knapsack%20without%20repetition%3A%20subproblem%20definition%20attempt%201.mp4</location>
+			<duration>46996</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>35</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/37%20-%20Knapsack%20without%20repetition%3A%20Recursive%20relation%20attempt%201.mp4</location>
+			<duration>289226</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>36</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/38%20-%20Knapsack%20without%20repetition%3A%20Subproblem%20definition%20attempt%202.mp4</location>
+			<duration>131053</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>37</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/39%20-%20Knapsack%20without%20repetition%3A%20Recursive%20relation%20attempt%202.mp4</location>
+			<duration>164350</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>38</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/40%20-%20Knapsack%20without%20repetition%3A%20DP%20Pseudocode.mp4</location>
+			<duration>221053</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>39</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/41%20-%20Poly%20Time.mp4</location>
+			<duration>43373</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>40</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/42%20-%20Poly%20Time.mp4</location>
+			<duration>166811</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>41</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/43%20-%20Knapsack%20with%20repetition%20allowed%3A%20Subproblem%20definition.mp4</location>
+			<duration>65851</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>42</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/44%20-%20Knapsack%20with%20repetition%20allowed%3A%20Recursive%20relation.mp4</location>
+			<duration>237028</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>43</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/45%20-%20Knapsack%20with%20repetition%20allowed%3A%20Recap%20of%20the%20DP%20algorithm.mp4</location>
+			<duration>70448</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>44</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/46%20-%20Knapsack%20with%20repetition%20allowed%3A%20Simpler%20Subproblem.mp4</location>
+			<duration>159148</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>45</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/47%20-%20Knapsack%20with%20repetition%20allowed%3A%20DP%20pseudocode.mp4</location>
+			<duration>111733</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>46</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/48%20-%20Knapsack%20with%20repetition%20allowed%3A%20DP%20Running%20Time.mp4</location>
+			<duration>30463</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>47</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/49%20-%20Knapsack%20with%20repetition%20allowed%3A%20Extract%20Optimal%20multiset.mp4</location>
+			<duration>59070</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>48</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/50%20-%20Chain%20Matrix%20Multiplication%20Problem%3A%20Example.mp4</location>
+			<duration>96780</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>49</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/51%20-%20Chain%20Matrix%20Multiplication%3A%20Which%20Parenthesization%3F.mp4</location>
+			<duration>62878</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>50</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/52%20-%20Chain%20Matrix%20Multiplication%3A%20Definition%20of%20Cost.mp4</location>
+			<duration>127988</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>51</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/53%20-%20Chain%20Matrix%20Multiplication%3A%20General%20Problem%20Formulation.mp4</location>
+			<duration>72026</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>52</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/54%20-%20Graphical%20View%20of%20a%20Parenthesization.mp4</location>
+			<duration>118606</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>53</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/55%20-%20Chain%20Matrix%20Multiplication%3A%20DP%20Solution%20Attempt%201.mp4</location>
+			<duration>154876</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>54</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/56%20-%20Chain%20Matrix%20Multiplication%3A%20DP%20Subproblem%20Definition.mp4</location>
+			<duration>63715</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>55</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/57%20-%20Chain%20Matrix%20Multiplication%3A%20Recursive%20Relation.mp4</location>
+			<duration>99241</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>56</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/58%20-%20Chain%20Matrix%20Multiplication%3A%20Summary%20of%20Recursive%20Relation.mp4</location>
+			<duration>93575</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>57</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/59%20-%20Chain%20Matrix%20Multiplication%3A%20How%20to%20fill%20the%20DP%20table%3F.mp4</location>
+			<duration>146238</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>58</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/60%20-%20Chain%20Matrix%20Multiplication%3A%20DP%20Pseudocode.mp4</location>
+			<duration>209490</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>59</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/61%20-%20DP2%3A%20Suggested%20practice%20problems%20from%20the%20textbook%20%5BDPV%5D.mp4</location>
+			<duration>131053</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>60</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/62%20-%20Single-Source%20Shortest%20Path%20Problem%20in%20Directed%20Graphs.mp4</location>
+			<duration>265450</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>61</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/63%20-%20What%20Is%20A%20Negative%20Weight%20Cycle%3F.mp4</location>
+			<duration>209581</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>62</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/64%20-%20Single%20Source%20Shortest%20Paths%3A%20Subproblem%20Definition.mp4</location>
+			<duration>179118</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>63</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/65%20-%20Single%20Source%20Shortest%20Paths%3A%20DP%20Recursive%20Relation.mp4</location>
+			<duration>267400</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>64</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/66%20-%20Single%20Source%20Shortest%20Paths%3A%20Recursive%20Relation%20Summary.mp4</location>
+			<duration>71935</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>65</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/67%20-%20Single%20Source%20Shortest%20Paths%3A%20DP%20Pseudocode%20.mp4</location>
+			<duration>252818</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>66</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/68%20-%20Single%20Source%20Shortest%20Paths%3A%20Finding%20Negative%20Weight%20Cycles.mp4</location>
+			<duration>354335</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>67</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/69%20-%20All%20Pairs%20Shortest%20Path.mp4</location>
+			<duration>94086</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>68</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/70%20-%20What%20is%20the%20running%20time%20for%20n%20runs%20of%20Bellman-Ford%3F.mp4</location>
+			<duration>16300</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>69</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/71%20-%20What%20is%20the%20running%20time%20for%20n%20runs%20of%20Bellman-Ford%3F%20Solution.mp4</location>
+			<duration>130123</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>70</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/72%20-%20All%20Pairs%20Shortest%20Path%3A%20Subproblem%20Definition.mp4</location>
+			<duration>226718</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>71</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/73%20-%20All%20Pairs%20Shortest%20Path%3A%20Base%20Case.mp4</location>
+			<duration>46206</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>72</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/74%20-%20All%20Pairs%20Shortest%20Path%3A%20Base%20Case%20Solution.mp4</location>
+			<duration>13560</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>73</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/75%20-%20All%20Pairs%20Shortest%20Path%3A%20Recursive%20Relation.mp4</location>
+			<duration>91068</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>74</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/76%20-%20All%20Pairs%20SP%3A%20Recurrence%20when%20vertex_i%20is%20not%20on%20path.mp4</location>
+			<duration>13931</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>75</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/77%20-%20All%20Pairs%20SP%3A%20Recurrence%20when%20vertex_i%20is%20not%20on%20path%20Solution.mp4</location>
+			<duration>33715</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>76</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/78%20-%20All%20Pairs%20SP%3A%20Recurrence%20when%20vertex_i%20is%20on%20path.mp4</location>
+			<duration>145541</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>77</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/79%20-%20All%20Pairs%20SP%3A%20Case%20when%20vertex_i%20is%20on%20the%20path%3A%20Quiz.mp4</location>
+			<duration>7521</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>78</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/80%20-%2038%20S%20Recurrence-%20I%20Is%20On%20Path%20Quiz%20Solution.mp4</location>
+			<duration>92043</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>79</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/81%20-%20Recurrence%20Summary.mp4</location>
+			<duration>63900</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>80</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/82%20-%20All%20Pairs%20Shortest%20Path%3A%20DP%20Pseudocode.mp4</location>
+			<duration>154643</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>81</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/83%20-%20Running%20Time%20Quiz.mp4</location>
+			<duration>3853</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>82</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/84%20-%20Running%20Time%20Quiz%20Solution.mp4</location>
+			<duration>30975</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>83</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/85%20-%20Detecting%20Whether%20a%20Graph%20Contains%20a%20Negative%20Weight%20Cycle%20.mp4</location>
+			<duration>193700</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>84</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/86%20-%20Comparing%20Algorithms%20for%20Detecting%20a%20Negative%20Weight%20Cycle.mp4</location>
+			<duration>80990</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>85</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/87%20-%20DP3%3A%20Practice%20Problem%3A%20Arbitrage%20%20--%3E%20Negative%20Weight%20Cycle.mp4</location>
+			<duration>167693</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>86</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/88%20-%20Randomized%20Algorithms%20Lecture%20Overview.mp4</location>
+			<duration>50525</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>87</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/89%20-%20RSA%20Algorithm%3A%20Lecture%20Overview.mp4</location>
+			<duration>69891</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>88</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/90%20-%20RSA%20Algorithm%3A%20Input%20involves%20huge%20integers.mp4</location>
+			<duration>35246</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>89</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/91%20-%20RSA%20Algorithm%3A%20Modular%20Arithmetic%20Review.mp4</location>
+			<duration>98916</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>90</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/92%20-%20RSA%20Algorithm%3A%20Modular%20arithmetic%20example%3A%20Mod%203.mp4</location>
+			<duration>145728</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>91</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/93%20-%20RSA%20Algorithm%3A%20Modular%20arithmetic%20elementary%20fact.mp4</location>
+			<duration>54008</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>92</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/94%20-%20RSA%20Algorithm%3A%20Modular%20exponentiation%3A%20Naive%20approach.mp4</location>
+			<duration>230758</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>93</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/95%20-%20RSA%20Algorithm%3A%20Modular%20exponentiation%20via%20repeated%20squaring.mp4</location>
+			<duration>70263</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>94</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/96%20-%20Fast%20Modular%20Exponentiation%20Algorithm%3A%20Pseudocode.mp4</location>
+			<duration>148375</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>95</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/97%20-%20RSA%20Algorithm%3A%20Multiplicative%20Inverses%3A%20Definition.mp4</location>
+			<duration>95155</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>96</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/98%20-%20RSA%20Algorithm%3A%20Multiplicative%20Inverses%3A%20Examples%20for%20N%3D14..mp4</location>
+			<duration>154598</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>97</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/99%20-%20RSA%20Algorithm%3A%20Multiplicative%20Inverses%3A%20When%20do%20they%20exist%3F.mp4</location>
+			<duration>147491</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>98</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/100%20-%20RSA%20Algorithm%3A%20When%20is%20there%20no%20multiplicative%20inverse%3F.mp4</location>
+			<duration>187291</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>99</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/101%20-%20RSA%20Algorithm%3A%20GCD%3A%20Proof%20of%20Euclid%27s%20rule.mp4</location>
+			<duration>203591</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>100</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/102%20-%20RSA%20Algorithm%3A%20GCD%3A%20Euclid%27s%20Algorithm.mp4</location>
+			<duration>79086</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>101</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/103%20-%20RSA%20Algorithm%3A%20GCD%3A%20Euclid%27s%20Algorithm%3A%20Base%20Case.mp4</location>
+			<duration>48156</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>102</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/104%20-%20RSA%20Algorithm%3A%20GCD%3A%20Euclid%27s%20Algorithm%3A%20Running%20Time.mp4</location>
+			<duration>191563</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>103</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/105%20-%20Computing%20Inverses.mp4</location>
+			<duration>186408</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>104</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/106%20-%20RSA%20Algorithm%3A%20Computing%20the%20Inverse%3A%20Extended%20Euclid%20Alg..mp4</location>
+			<duration>146006</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>105</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/107%20-%20Key%20concepts%20we%27ve%20seen%3A%20Modular%20exponentiation%20and%20Inverses.mp4</location>
+			<duration>89210</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>106</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/108%20-%20RSA%20Algorithm%3A%20Fermat%27s%20Little%20Theorem.mp4</location>
+			<duration>115635</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>107</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/109%20-%20RSA%20Algorithm%3A%20Proof%20of%20Fermat%27s%20Little%20Theorem.mp4</location>
+			<duration>124226</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>108</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/110%20-%20RSA%20Algorithm%3A%20Fermat%27s%20Little%20Theorem%3A%20Proof%20of%20Key%20Lemma.mp4</location>
+			<duration>246595</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>109</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/111%20-%20RSA%20Algorithm%3A%20Fermat%27s%20Little%20Thm.%3A%20Finishing%20up%20the%20proof.mp4</location>
+			<duration>161516</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>110</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/112%20-%20RSA%20Algorithm%3A%20Euler%27s%20Theorem.mp4</location>
+			<duration>144660</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>111</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/113%20-%20Euler%27s%20Totient%20Function%20Quiz.mp4</location>
+			<duration>42770</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>112</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/114%20-%20Euler%27s%20Totient%20Function%20Solution.mp4</location>
+			<duration>70960</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>113</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/115%20-%20RSA%20Algorithm%3A%20Euler%27s%20Theorem%20for%20the%20case%20N%3Dpq.mp4</location>
+			<duration>53730</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>114</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/116%20-%20The%20idea%20behind%20the%20RSA%20Algorithm%20from%20Euler%27s%20Theorem.mp4</location>
+			<duration>351550</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>115</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/117%20-%20RSA%20Algorithm%3A%20Public-key%20Cryptography%20Setting.mp4</location>
+			<duration>189148</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>116</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/119%20-%20RSA%20Algorithm%3A%20Protocol%20for%20sending%20a%20message.mp4</location>
+			<duration>257740</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>117</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/120%20-%20RSA%20Algorithm%3A%20Potential%20Pitfalls.mp4</location>
+			<duration>211996</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>118</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/121%20-%20RSA%20Algorithm%3A%20Recap%20of%20the%20algorithm.mp4</location>
+			<duration>123901</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>119</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/122%20-%20RSA%20Algorithm%3A%20Recap%20of%20the%20algorithm%20part%202.mp4</location>
+			<duration>318020</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>120</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/123%20-%20RSA%20Algorithm%3A%20Generating%20Random%20Primes.mp4</location>
+			<duration>165325</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>121</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/124%20-%20RSA%20Algorithm%3A%20Primality%20Testing%3A%20Fermat%27s%20Test.mp4</location>
+			<duration>111733</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>122</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/125%20-%20Primality%20Testing%3A%20Existence%20of%20Trivial%20Fermat%20Witnesses.mp4</location>
+			<duration>209815</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>123</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/126%20-%20Primality%20Testing%3A%20Non-Trivial%20Fermat%20Witnesses.mp4</location>
+			<duration>93343</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>124</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/127%20-%20Primality%20Testing%3A%20Carmichael%20%23%27s%20%3D%20No%20Nontrivial%20Witnesses.mp4</location>
+			<duration>113683</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>125</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/128%20-%20Primality%20Testing%3A%20Frequency%20of%20Non-Trivial%20Witnesses.mp4</location>
+			<duration>100216</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>126</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/129%20-%20RSA%20Algorithm%3A%20Primality%20Testing%3A%20Simple%20Algorithm.mp4</location>
+			<duration>77415</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>127</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/130%20-%20RSA%20Algorithm%3A%20Primality%20Testing%3A%20Probability%20of%20correctness.mp4</location>
+			<duration>101191</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>128</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/131%20-%20RSA%20Algorithm%3A%20Primality%20Testing%3A%20Boosting%20success%20prob..mp4</location>
+			<duration>240093</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>129</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/132%20-%20RSA%20Algorithm%3A%20Primality%20Testing%3A%20Handling%20Carmichael%20%23%27s.mp4</location>
+			<duration>324381</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>130</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/133%20-%20Hashing%20Lecture%20Outline.mp4</location>
+			<duration>43095</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>131</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/134%20-%20Toy%20Problem%3A%20Throwing%20Balls%20Into%20Random%20Bins.mp4</location>
+			<duration>98683</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>132</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/135%20-%20Probability%20Quiz.mp4</location>
+			<duration>19921</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>133</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/136%20-%20Probability%20Quiz%20Solution.mp4</location>
+			<duration>43885</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>134</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/137%20-%20Balls%20Into%20Bins%3A%20Analysis%20Setup.mp4</location>
+			<duration>350666</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>135</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/138%20-%20Max%20Load%20Quiz.mp4</location>
+			<duration>21455</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>136</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/139%20-%20Max%20Load%20Quiz%20Solution.mp4</location>
+			<duration>9286</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>137</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/140%20-%20Balls%20Into%20Bins%3A%20Analysis%20of%20Maximum%20Load%20.mp4</location>
+			<duration>127430</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>138</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/141%20-%20Balls%20Into%20Bins%3A%20Best%20of%20Two%20Scheme.mp4</location>
+			<duration>97151</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>139</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/142%20-%20Balls%20Into%20Bins%3A%20Best%20of%20Two%20Scheme%3A%20Maximum%20Load.mp4</location>
+			<duration>92415</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>140</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/143%20-%20Hashing%20Setup.mp4</location>
+			<duration>214876</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>141</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/144%20-%20Traditional%20Chain%20Hashing%20Scheme.mp4</location>
+			<duration>174010</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>142</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/145%20-%2011%20Q%202%20Choice%20Hashing%20Quiz.mp4</location>
+			<duration>70310</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>143</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/146%20-%2011%20S%202%20Choice%20Hashing%20Quiz%20Solution.mp4</location>
+			<duration>204056</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>144</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/147%20-%20Lecture%20Outline%20Revisited.mp4</location>
+			<duration>6593</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>145</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/148%20-%20Motivation%20for%20Bloom%20Filters%20.mp4</location>
+			<duration>176656</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>146</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/149%20-%20Basic%20Operations%20for%20a%20Bloom%20Filter.mp4</location>
+			<duration>61950</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>147</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/150%20-%20Bloom%20Filter%20for%20One%20Hash%20Function.mp4</location>
+			<duration>230433</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>148</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/151%20-%20Bloom%20Filter%3A%20Robost%20Scheme%20with%20Multiple%20Hash%20Functions.mp4</location>
+			<duration>95711</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>149</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/152%20-%20Bloom%20Filter%3A%20Correctness.mp4</location>
+			<duration>203823</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>150</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/153%20-%20Bloom%20Filter%3A%20Analysis%20Setup.mp4</location>
+			<duration>219103</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>151</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/154%20-%20Bloom%20Filter%3A%20Analysis%20of%20the%20False%20Positive%20Probability.mp4</location>
+			<duration>201176</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>152</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/155%20-%20Optimal%20%23%20of%20Hash%20Functions%20to%20Minimize%20False%20Positive%20Rate.mp4</location>
+			<duration>199923</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>153</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/156%20-%20Exploring%20the%20False%20Positive%20Rate%20for%20Various%20Settings.mp4</location>
+			<duration>156826</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>154</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/157%20-%20RA3-%20Bloom%20Filter%20%28Add%20To%20End%20Of%20Lesson%29.mp4</location>
+			<duration>175866</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>155</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/158%20-%20Overview%20of%20Divide%20and%20Conquer%20Lectures.mp4</location>
+			<duration>82708</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>156</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/159%20-%20Overview%20of%20Lecture%20on%20Multiplying%20Large%20integers.mp4</location>
+			<duration>121206</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>157</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/160%20-%20Multiplying%20complex%20numbers.mp4</location>
+			<duration>170758</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>158</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/161%20-%20Multiplying%20complex%20numbers%20with%20only%203%20multiplications.mp4</location>
+			<duration>245063</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>159</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/162%20-%20Naive%20D%26C%20for%20Multiplication%3A%20Basic%20Approach.mp4</location>
+			<duration>180140</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>160</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/163%20-%20Naive%20D%26C%20for%20Multiplication%3A%20Algorithm%20details.mp4</location>
+			<duration>125945</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>161</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/164%20-%20Naive%20D%26C%20for%20Multiplication%3A%20Pseudocode.mp4</location>
+			<duration>133838</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>162</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/165%20-%20Naive%20D%26C%20for%20Multiplication%3A%20Running%20Time.mp4</location>
+			<duration>158035</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>163</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/166%20-%20Improved%20D%26C%20for%20Multiplication%3A%20Basic%20Approach.mp4</location>
+			<duration>161610</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>164</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/167%20-%20Improved%20D%26C%20for%20Multiplication%3A%20Pseudocode.mp4</location>
+			<duration>99241</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>165</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/168%20-%20Improved%20D%26C%20for%20Multiplication%3A%20Running%20Time.mp4</location>
+			<duration>210465</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>166</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/169%20-%20Summary%20of%20Divide-and-Conquer%20algorithm%20for%20Multiplication.mp4</location>
+			<duration>131750</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>167</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/170%20-%20Finding%20the%20Median%3A%20Problem%20Statement.mp4</location>
+			<duration>132956</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>168</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/171%20-%20Review%20of%20QuickSort%20to%20get%20high-level%20D%26C%20algorithm%20idea.mp4</location>
+			<duration>102445</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>169</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/172%20-%20Example%20Input%20and%20Pivot%3A%20Recursive%20Search.mp4</location>
+			<duration>114055</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>170</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/173%20-%20QuickSelect%3A%20D%26C%20approach%20for%20the%20median%20finding%20algorithm.mp4</location>
+			<duration>118746</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>171</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/174%20-%20What%27s%20a%20good%20pivot%20--%20yields%20linear%20run-time%3F.mp4</location>
+			<duration>247848</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>172</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/175%20-%20Definition%20of%20a%20Good%20Pivot.mp4</location>
+			<duration>48203</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>173</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/176%20-%20Randomized%20scheme%3A%20Choose%20the%20pivot%20randomly.mp4</location>
+			<duration>182461</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>174</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/177%20-%20D%26C%20Approach%3A%20Recursively%20find%20a%20good%20pivot%20.mp4</location>
+			<duration>148700</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>175</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/178%20-%20Representative%20Sample%20S%20for%20the%20pivot%3A%20Naive%20approach%20.mp4</location>
+			<duration>105000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>176</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/179%20-%20Representative%20Sample%20S%20for%20the%20pivot%3A%20Recursive%20approach.mp4</location>
+			<duration>239258</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>177</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/180%20-%20D%26C%20Median%20Algorithm%3A%20Pseudocode.mp4</location>
+			<duration>175541</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>178</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/181%20-%20D%26C%20Median%20Algorithm%3A%20Running%20Time.mp4</location>
+			<duration>107275</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>179</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/182%20-%20D%26C%20Median%20Algorithm%3A%20Proof%20of%20Correctness.mp4</location>
+			<duration>268421</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>180</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/183%20-%20HW%3A%20Linear%20run-time%20if%20we%20did%20groups%20of%203%20or%207%20elements%3F.mp4</location>
+			<duration>39055</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>181</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/184%20-%20Refresher%20Lecture%20on%20Solving%20Recurrences.mp4</location>
+			<duration>97198</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>182</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/185%20-%20Example%20Recurrence%20from%20the%20Naive%20Multiplication%20Algorithm.mp4</location>
+			<duration>135418</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>183</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/186%20-%20Expanding%20Out%20the%20Recurrence.mp4</location>
+			<duration>165046</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>184</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/187%20-%20Analysis%20of%20a%20Geometric%20Series.mp4</location>
+			<duration>103653</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>185</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/188%20-%20Practice%20Manipulating%20Polynomials.mp4</location>
+			<duration>90696</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>186</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/189%20-%20Example%20Recurrence%20from%20the%20Improved%20Multiplication%20Alg.mp4</location>
+			<duration>153530</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>187</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/190%20-%20Solving%20a%20General%20Recurrence.mp4</location>
+			<duration>156873</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>188</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/191%20-%20Polynomial%20Multiplication%20Setting.mp4</location>
+			<duration>112198</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>189</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/192%20-%20Example%20of%20Polynomial%20Multiplication.mp4</location>
+			<duration>23683</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>190</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/193%20-%2002%20S%20PM-%20Example.mp4</location>
+			<duration>22336</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>191</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/194%20-%20Polynomial%20Multiplication%3A%20General%20Problem%20Statement.mp4</location>
+			<duration>46763</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>192</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/195%20-%20Applications%20of%20Convolutions%20to%20Filtering%20for%20Smoothing%20Data.mp4</location>
+			<duration>93203</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>193</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/196%20-%20Representations%20of%20a%20Polynomial%3A%20Coefficients%20or%20Values.mp4</location>
+			<duration>120465</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>194</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/197%20-%20Multiplying%20Polynomials%20in%20Values%20Representation.mp4</location>
+			<duration>100866</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>195</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/200%20-%20FFT%20High-Level%20Approach%3A%20Even%20and%20Odd%20Polynomials.mp4</location>
+			<duration>145960</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>196</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/201%20-%20FFT%20High-Level%20Approach%3A%20Recursive%20Idea.mp4</location>
+			<duration>118791</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>197</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/202%20-%20FFT%20High-Level%20Approach%3A%20Summary.mp4</location>
+			<duration>139318</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>198</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/203%20-%20FFT%20High-Level%20Approach%3A%20Problem%20in%20Recursive%20Approach.mp4</location>
+			<duration>74163</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>199</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/204%20-%20FFT%20High-Level%20Approach%3A%20Review%20of%20Complex%20Numbers.mp4</location>
+			<duration>156686</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>200</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/205%20-%20Complex%20Numbers%3A%20Multiplying%20In%20Polar%20Coordinates.mp4</location>
+			<duration>87956</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>201</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/206%20-%20Complex%20Numbers%3A%20Complex%20Roots%20of%20Unity.mp4</location>
+			<duration>79921</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>202</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/207%20-%20Complex%20Roots%20of%20Unity%3A%20Graphical%20View.mp4</location>
+			<duration>144566</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>203</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/208%20-%20Complex%20Roots%20of%20Unity%3A%20Notation.mp4</location>
+			<duration>103885</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>204</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/209%20-%20Complex%20Roots%20of%20Unity%3A%20Examples.mp4</location>
+			<duration>121021</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>205</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/211%20-%20Complex%20Roots%20of%20Unity%3A%20Key%20Property%3A%20Squares.mp4</location>
+			<duration>100773</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>206</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/212%20-%20FFT%20Algorithm%3A%20High-Level%20Description.mp4</location>
+			<duration>209815</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>207</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/213%20-%20FFT%20Algorithm%3A%20Pseudocode%20Setup.mp4</location>
+			<duration>83823</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>208</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/214%20-%20FFT%20Algorithm%3A%20Core%20of%20the%20Algorithm.mp4</location>
+			<duration>176750</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>209</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/215%20-%20FFT%20Algorithm%3A%20Concise%20Representation%20of%20the%20Pseudocode.mp4</location>
+			<duration>78250</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>210</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/216%20-%20FFT%20Algorithm%3A%20Running%20Time.mp4</location>
+			<duration>30741</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>211</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/217%20-%20Polynomial%20Multiplication%20Algorithm%20using%20FFT.mp4</location>
+			<duration>158545</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>212</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/218%20-%20Linear%20Algebraic%20View%20of%20Polynomial%20Evaluation.mp4</location>
+			<duration>81083</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>213</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/219%20-%20Linear%20Algebraic%20View%20of%20FFT.mp4</location>
+			<duration>105000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>214</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/220%20-%20Linear%20Algebraic%20View%20of%20Inverse%20FFT.mp4</location>
+			<duration>98498</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>215</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/221%20-%20Inverse%20FFT%20Matrix.mp4</location>
+			<duration>135418</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>216</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/222%20-%20Computing%20Inverse%20FFT%20Via%20FFT.mp4</location>
+			<duration>191100</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>217</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/223%20-%2007%20Q%20Quiz-%20Inverses.mp4</location>
+			<duration>25030</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>218</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/224%20-%2007%20S%20Quiz-%20Inverses-.mp4</location>
+			<duration>43373</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>219</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/225%20-%2008%20Q%20Quiz-%20Sum%20Of%20Roots.mp4</location>
+			<duration>19271</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>220</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/226%20-%2008%20S%20Quiz-%20Sum%20Of%20Roots.mp4</location>
+			<duration>45000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>221</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/227%20-%20Inverse%20FFT%3A%20Proof%20of%20Key%20Claim.mp4</location>
+			<duration>142383</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>222</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/228%20-%20Inverse%20FFT%3A%20Proof%20Of%20Lemma.mp4</location>
+			<duration>87863</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>223</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/229%20-%20Inverse%20FFT%3A%20Analysis%20of%20Diagonal%20Entries.mp4</location>
+			<duration>96733</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>224</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/230%20-%20Inverse%20FFT%3A%20Analysis%20Of%20Off-Diagonal%20Entries%20.mp4</location>
+			<duration>96176</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>225</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/231%20-%20Completing%20the%20Polynomial%20Multiplication%20Algorithm.mp4</location>
+			<duration>40960</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>226</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/232%20-%20Overview%20of%20Lectures%20on%20Graph%20Algorithms.mp4</location>
+			<duration>69705</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>227</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/233%20-%20Outline%20of%20Lecture%20on%20Connectivity%20Algorithms.mp4</location>
+			<duration>90418</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>228</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/234%20-%20DFS%20in%20Undirected%20Graphs%3A%20Connected%20Components.mp4</location>
+			<duration>70495</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>229</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/235%20-%20DFS%20in%20Undirected%20Graphs%3A%20Explore%20Procedure.mp4</location>
+			<duration>56470</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>230</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/236%20-%20DFS%20on%20Directed%20Graphs%3A%20Preorder%20and%20Postorder%20Numbers.mp4</location>
+			<duration>122461</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>231</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/237%20-%20DFS%20on%20Directed%20Graphs%3A%20Example.mp4</location>
+			<duration>149071</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>232</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/238%20-%20DFS%20on%20Directed%20Graphs%3A%20Types%20of%20Edges.mp4</location>
+			<duration>205356</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>233</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/239%20-%20DFS%20on%20Directed%20Graphs%3A%20Detecting%20a%20Cycle%20using%20Back%20Edges.mp4</location>
+			<duration>158126</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>234</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/240%20-%20DFS%20on%20Directed%20Graphs%3A%20Toplogically%20Sorting%20a%20DAG.mp4</location>
+			<duration>162260</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>235</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/241%20-%20Topological%20Ordering.mp4</location>
+			<duration>24751</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>236</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/242%20-%20Topological%20Ordering.mp4</location>
+			<duration>25030</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>237</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/243%20-%20Properties%20of%20a%20DAG%3A%20Sources%20and%20Sinks.mp4</location>
+			<duration>171130</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>238</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/244%20-%20Outline%20of%20Connectivity%20Lecture%3A%20Recap.mp4</location>
+			<duration>36871</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>239</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/245%20-%20Connectivity%20in%20Directed%20Graphs.mp4</location>
+			<duration>71098</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>240</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/246%20-%20SCC.mp4</location>
+			<duration>23451</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>241</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/247%20-%20Examples%20of%20SCC.mp4</location>
+			<duration>105975</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>242</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/248%20-%20Meta-graph%20on%20SCC%27s%20is%20a%20DAG.mp4</location>
+			<duration>230016</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>243</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/249%20-%20SCC%20Algorithm%3A%20High-level%20Idea%3A%20Find%20a%20vertex%20in%20a%20sink%20SCC.mp4</location>
+			<duration>268283</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>244</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/250%20-%20How%20to%20find%20a%20vertex%20in%20a%20sink%20SCC%3F.mp4</location>
+			<duration>193281</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>245</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/251%20-%20Reverse%20graph%3A%20Finding%20a%20vertex%20in%20a%20%2Asource%2A%20SCC.mp4</location>
+			<duration>260945</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>246</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/252%20-%20SCC%20Algorithm%20Example.mp4</location>
+			<duration>402818</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>247</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/253%20-%20SCC%20Algorithm%3A%20Pseudocode.mp4</location>
+			<duration>127245</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>248</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/254%20-%20SCC%20Algorithm%3A%20Proof%20of%20Correctness.mp4</location>
+			<duration>135556</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>249</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/255%20-%20SCC%20Algorithm%3A%20Proof%20Of%20Correctness%3A%20Proof%20of%20Claim.mp4</location>
+			<duration>303948</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>250</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/256%20-%20SAT%20%20Notation.mp4</location>
+			<duration>157338</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>251</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/257%20-%20SAT%20Problem.mp4</location>
+			<duration>27538</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>252</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/258%20-%2003%20Q%20SAT%20Problem.mp4</location>
+			<duration>26005</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>253</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/259%20-%20_k-SAT%20Problem%20Formulation.mp4</location>
+			<duration>79736</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>254</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/260%20-%20Simplifying%20Input.mp4</location>
+			<duration>228345</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>255</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/261%20-%20Graph%20of%20Implications.mp4</location>
+			<duration>162771</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>256</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/262%20-%20Properties%20of%20the%20associated%20Graph%20of%20Implications.mp4</location>
+			<duration>178421</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>257</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/263%20-%20SCC%27s.mp4</location>
+			<duration>90463</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>258</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/264%20-%20Algorithm%20Idea.mp4</location>
+			<duration>211208</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>259</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/265%20-%20Algorithm%20Idea%202.mp4</location>
+			<duration>182275</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>260</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/266%20-%202SAT%20Algorithm.mp4</location>
+			<duration>120140</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>261</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/267%20-%20Proof%20of%20Key%20Fact.mp4</location>
+			<duration>172755</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>262</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/268%20-%20Rest%20of%20Proof.mp4</location>
+			<duration>88606</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>263</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/269%20-%20Proof%20of%20Claim.mp4</location>
+			<duration>107553</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>264</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/270%20-%20Greedy%20Approach%3A%20When%20does%20it%20work%3F.mp4</location>
+			<duration>98080</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>265</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/271%20-%20MST%20Problem%20Statement.mp4</location>
+			<duration>39241</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>266</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/272%20-%20Basic%20Properties%20of%20Trees.mp4</location>
+			<duration>102956</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>267</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/273%20-%20Greedy%20Approach%20For%20MST%20Problem%3A%20Kruskal%27s%20Algorithm.mp4</location>
+			<duration>152136</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>268</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/274%20-%20Kruskal%27s%20Algorithm%3A%20Pseudocode.mp4</location>
+			<duration>70588</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>269</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/275%20-%20Kruskal%27s%20Algorithm%3A%20Implementation%20and%20Running%20Time.mp4</location>
+			<duration>168436</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>270</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/276%20-%20Kruskal%27s%20Algorithm%3A%20Proof%20of%20Correctness.mp4</location>
+			<duration>244505</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>271</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/277%20-%20Graph%20Cuts%3A%20Definition.mp4</location>
+			<duration>74441</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>272</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/278%20-%20Cut%20Property%3A%20Statement%20of%20Lemma.mp4</location>
+			<duration>231130</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>273</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/279%20-%20Cut%20Property%3A%20Application%20to%20Kruskal%27s%20Alg.%20and%20Intuition.mp4</location>
+			<duration>161470</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>274</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/280%20-%20Cut%20Property%20Lemma%3A%20Proof%20Outline.mp4</location>
+			<duration>162910</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>275</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/281%20-%20Proof%20of%20Cut%20Property%3A%20Constructing%20new%20tree%20T%27.mp4</location>
+			<duration>286440</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>276</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/282%20-%20Proof%20of%20Cut%20Property%3A%20T%27%20is%20a%20Tree.mp4</location>
+			<duration>229736</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>277</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/283%20-%20Proof%20of%20Cut%20Property%3A%20T%27%20is%20a%20MST.mp4</location>
+			<duration>136115</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>278</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/284%20-%20Prim%27s%20Algorithm%20for%20MST.mp4</location>
+			<duration>22615</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>279</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/285%20-%20Page%20Rank%20Lecture%20Outline.mp4</location>
+			<duration>98358</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>280</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/286%20-%20Example%20of%20a%20Markov%20Chain.mp4</location>
+			<duration>172105</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>281</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/287%20-%20General%20Definition%20of%20a%20Markov%20Chain.mp4</location>
+			<duration>94271</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>282</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/288%20-%202-Step%20Transitions.mp4</location>
+			<duration>160495</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>283</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/289%20-%20k-step%20Transitions.mp4</location>
+			<duration>43513</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>284</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/290%20-%20Behavior%20for%20large%20%23%20of%20steps%20for%206210%20Markov%20Chain%20Example.mp4</location>
+			<duration>153343</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>285</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/291%20-%20Infinite%20Time%3A%20Stationary%20Distribution.mp4</location>
+			<duration>181996</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>286</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/292%20-%20Linear%20Algebra%20View%20of%20Stationary%20Distribution.mp4</location>
+			<duration>185155</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>287</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/293%20-%20Stationary%20Distribution%3A%20Properties.mp4</location>
+			<duration>125805</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>288</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/294%20-%20Bipartite%20Markov%20Chain%3A%20Problems.mp4</location>
+			<duration>111036</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>289</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/295%20-%20Multiple%20SCC%27s%3A%20Problems.mp4</location>
+			<duration>70076</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>290</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/296%20-%20Ergodic%20Markov%20Chain%20has%20a%20Unique%20Stationary%20Distribution.mp4</location>
+			<duration>150231</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>291</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/297%20-%20What%20is%20the%20Stationary%20Distribution%3F.mp4</location>
+			<duration>96408</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>292</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/298%20-%20PageRank%3A%20Setting.mp4</location>
+			<duration>132213</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>293</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/299%20-%20PageRank%3A%20Webgraph%3A%20Define%20%22Importance%22%20of%20webpages.mp4</location>
+			<duration>139598</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>294</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/300%20-%20PageRank%3A%20Approach%201%3A%20Citation%20Counts.mp4</location>
+			<duration>42026</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>295</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/301%20-%20PageRank%3A%20Approach%201%3A%20Problems.mp4</location>
+			<duration>94876</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>296</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/302%20-%20PageRank%3A%20Approach%202%3A%20Weighted%20Citation%20Counts.mp4</location>
+			<duration>48946</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>297</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/303%20-%20PageRank%3A%20Approach%202%3A%20Problems.mp4</location>
+			<duration>110108</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>298</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/304%20-%20PageRank%3A%20Recursive%20Definition.mp4</location>
+			<duration>99473</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>299</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/305%20-%20PageRank%3A%20Random%20Walk%20Perspective.mp4</location>
+			<duration>100866</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>300</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/306%20-%20PageRank%3A%20Stationary%20Distribution%20of%20Random%20Walk.mp4</location>
+			<duration>278500</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>301</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/307%20-%20PageRank%3A%20Problems.mp4</location>
+			<duration>162585</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>302</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/308%20-%20PageRank%3A%20Random%20Surfer%20Model.mp4</location>
+			<duration>137600</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>303</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/309%20-%20PageRank%3A%20Random%20Surfer%3A%20Transition%20Matrix.mp4</location>
+			<duration>142755</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>304</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/310%20-%20PageRank%3A%20Finding%20the%20Stationary%20Distribution.mp4</location>
+			<duration>159148</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>305</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/311%20-%20Overview%20of%20Lectures%20on%20the%20Max-Flow%20Problem.mp4</location>
+			<duration>41610</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>306</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/312%20-%20Outline%20of%20Lectures%20on%20the%20Max-Flow%20Problem.mp4</location>
+			<duration>50618</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>307</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/313%20-%20Max-flow%20Problem%3A%20Setting.mp4</location>
+			<duration>55355</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>308</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/314%20-%20Max-flow%20Problem%3A%20Rough%20Formulation.mp4</location>
+			<duration>52198</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>309</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/315%20-%20Max-flow%20Problem%3A%20Formal%20Problem%20Statement.mp4</location>
+			<duration>97523</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>310</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/316%20-%20Max-flow%20Problem%3A%20Objective%3A%20Find%20Flow%20With%20Maximum%20Size.mp4</location>
+			<duration>24566</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>311</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/317%20-%2006%20Q%20Quiz%20Max-Flow%20Example.mp4</location>
+			<duration>34550</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>312</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/318%20-%2006%20S%20Quiz%20Max-Flow%20Example.mp4</location>
+			<duration>62135</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>313</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/319%20-%20Max-flow%20Problem%3A%20Cycles%20in%20the%20flow%20network%20are%20allowed.mp4</location>
+			<duration>83126</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>314</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/320%20-%20Max-flow%20Problem%3A%20Removing%20Anti-Parallel%20Edges.mp4</location>
+			<duration>86331</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>315</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/321%20-%20Max-flow%20Problem%3A%20Toy%20Example.mp4</location>
+			<duration>27863</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>316</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/322%20-%20Max-Flow%20Problem%3A%20Simple%20Algorithm.mp4</location>
+			<duration>155108</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>317</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/323%20-%20Max-Flow%20Problem%3A%20Augment%20along%20Backward%20Edges.mp4</location>
+			<duration>133421</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>318</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/324%20-%20Max-Flow%20Problem%3A%20Definition%20of%20Resisdual%20Network.mp4</location>
+			<duration>143033</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>319</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/325%20-%20Max-Flow%20Problem%3A%20Ford-Fulkerson%20Algorithm.mp4</location>
+			<duration>97336</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>320</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/326%20-%20Max-Flow%20Problem%3A%20Running%20Time%20of%20Ford-Fulkerson%20Algorithm.mp4</location>
+			<duration>94458</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>321</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/327%20-%20Max-Flow%20Problem%3A%20Ford-Fulkerson%3A%20Running%20Time%20Analysis.mp4</location>
+			<duration>101376</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>322</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/328%20-%20Max-Flow%20Problem%3A%20Discussion%20of%20Ford-Fulkerson%20Algorithm.mp4</location>
+			<duration>118606</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>323</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/329%20-%20Outline%20of%20Lecture%20on%20the%20Max-Flow%20Min-Cut%20Theorem.mp4</location>
+			<duration>27306</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>324</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/330%20-%20Recap%20of%20the%20Ford-Fulkerson%20Algorithm%20from%20Lecture%20MF1.mp4</location>
+			<duration>108575</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>325</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/331%20-%20Quiz%3A%20How%20to%20verify%20that%20a%20given%20flow%20is%20of%20maximum%20size%3F.mp4</location>
+			<duration>24658</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>326</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/332%20-%2003%20S%20Quiz-%20Verifying%20Max-Flow-.mp4</location>
+			<duration>75185</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>327</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/333%20-%20Min-Cut%20Problem.mp4</location>
+			<duration>88328</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>328</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/334%20-%20Min-Cut%20Problem%3A%20Formal%20Problem%20Statement.mp4</location>
+			<duration>89906</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>329</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/335%20-%20Max-Flow%20Min-Cut%20Theorem%20Statement.mp4</location>
+			<duration>143776</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>330</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/336%20-%20Max-Flow%20Min-Cut%20Theorem%3A%20Proof%20of%20Forward%20Direction.mp4</location>
+			<duration>97801</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>331</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/337%20-%20Max-Flow%20Min-Cut%20Theorem%3A%20Forward%20Direction%3A%20Proof%20Of%20Claim.mp4</location>
+			<duration>188776</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>332</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/338%20-%20Max-Flow%20Min-Cut%20Theorem%3A%20Finishing%20Off%20Forward%20Direction.mp4</location>
+			<duration>102585</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>333</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/339%20-%20Max-Flow%20Min-Cut%20Theorem%3A%20Proof%20of%20Reverse%20Inequality.mp4</location>
+			<duration>117028</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>334</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/340%20-%20Max-Flow%20Min-Cut%20Theorem%3A%20Reverse%20Inequality%3A%20Proof%20Of%20Claim.mp4</location>
+			<duration>66408</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>335</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/341%20-%20Max-Flow%20Min-Cut%20Theorem%3A%20Properties%20Of%20Cut%20%28L%2CR%29.mp4</location>
+			<duration>270465</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>336</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/342%20-%20Max-Flow%20Min-Cut%20Theorem%3A%20Completing%20The%20Proof.mp4</location>
+			<duration>161378</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>337</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/343%20-%20Image%20Segmentation.mp4</location>
+			<duration>20850</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>338</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/344%20-%20Image%20Segmentation%3A%20Problem%20Setting.mp4</location>
+			<duration>24566</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>339</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/345%20-%20Image%20Segmentation%3A%20Input%20Parameters.mp4</location>
+			<duration>39566</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>340</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/346%20-%20Image%20Segmentation%3A%20Simple%20Example.mp4</location>
+			<duration>37151</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>341</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/347%20-%20Image%20Segmentation%3A%20Weight%20of%20a%20%28F%2CB%29%20Partition.mp4</location>
+			<duration>62090</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>342</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/348%20-%20Image%20Segmentation%3A%20Objective%3A%20Find%20Partition%20of%20Min%20Weight.mp4</location>
+			<duration>34503</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>343</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/349%20-%20Image%20Segmentation%3A%20Reformation%20of%20Partition%20Weight.mp4</location>
+			<duration>101610</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>344</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/350%20-%20Image%20Segmentation%3A%20New%20Weights%20for%20Partition.mp4</location>
+			<duration>99798</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>345</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/351%20-%20Image%20Segmentation%3A%20Equivalent%20Problem%20Formulation.mp4</location>
+			<duration>45185</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>346</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/352%20-%20Image%20Segmentation%3A%20Reduction%20to%20a%20Max-Flow%20Problem.mp4</location>
+			<duration>76485</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>347</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/353%20-%20Image%20Segmentation%3A%20Max-Flow%20Reduction%3A%20Foreground.mp4</location>
+			<duration>40123</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>348</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/354%20-%20Image%20Segmentation%3A%20Max-Flow%20Reduction%3A%20Background.mp4</location>
+			<duration>35711</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>349</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/355%20-%20Image%20Segmentation%3A%20Min-Cut%20Solution.mp4</location>
+			<duration>138390</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>350</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/356%20-%20Image%20Segmentation%20Solution%20using%20Min-Cut%20Problem.mp4</location>
+			<duration>95898</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>351</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/357%20-%20Overview%20of%20Augmenting%20Paths%20Algorithms.mp4</location>
+			<duration>76578</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>352</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/358%20-%20Review%20of%20Ford-Fulkerson%20Algorithm.mp4</location>
+			<duration>98638</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>353</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/359%20-%20Edmonds-Karp%20Algorithm%3A%20Pseudocode.mp4</location>
+			<duration>75278</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>354</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/360%20-%20Edmonds-Karp%20Algorithm%3A%20Running%20Time.mp4</location>
+			<duration>97245</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>355</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/361%20-%20Edmonds-Karp%20Algorithm%3A%20Properties%20of%20BFS%20Paths.mp4</location>
+			<duration>67615</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>356</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/362%20-%20Edmonds-Karp%20Algorithm%3A%20Illustration%20of%20BFS%20algorithm.mp4</location>
+			<duration>146285</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>357</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/363%20-%20Edmonds-Karp%20Alg.%3A%20Analyzing%20the%20level%20of%20vertices%20over%20time.mp4</location>
+			<duration>84241</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>358</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/364%20-%20Edmonds-Karp%20Alg.%3A%20Changes%20in%20the%20Residual%20Network.mp4</location>
+			<duration>130495</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>359</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/365%20-%20Edmonds-Karp%20Algorithm%3A%20Key%20Conclusions%20for%20Residual%20Network.mp4</location>
+			<duration>81826</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>360</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/366%20-%20Edmonds-Karp%20Alg.%3A%20Level%20of%20a%20vertex%20is%20non-decreasing.mp4</location>
+			<duration>119210</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>361</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/367%20-%20Edmonds-Karp%20Algorithm%3A%20Effect%20of%20Removing%20then%20Adding%20Edge.mp4</location>
+			<duration>122321</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>362</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/368%20-%20Edmonds-Karp%20Algorithm%3A%20Conclusion%20of%20Running%20Time%20Analysis.mp4</location>
+			<duration>50896</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>363</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/369%20-%20Generalization%20of%20Max-Flow%20with%20Demand%20Constraints.mp4</location>
+			<duration>96130</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>364</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/370%20-%20Feasible%20Flow%3A%20Example%20.mp4</location>
+			<duration>35061</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>365</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/371%20-%20Feasible%20Flow%3A%20Reduction%20Overview.mp4</location>
+			<duration>185155</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>366</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/372%20-%20Feasible%20Flow%3A%20Reduction%3A%20Vertices.mp4</location>
+			<duration>96036</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>367</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/373%20-%20Feasible%20Flow%3A%20Reduction%3A%20Capturing%20Edge%20Constraints.mp4</location>
+			<duration>77368</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>368</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/374%20-%20Feasible%20Flow%3A%20Reduction%3A%20New%20Edges.mp4</location>
+			<duration>222631</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>369</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/375%20-%20Feasible%20Flow%3A%20Reduction%3A%20One%20Additional%20Edge.mp4</location>
+			<duration>72723</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>370</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/376%20-%20Saturating%20Flow%20Definition.mp4</location>
+			<duration>189195</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>371</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/377%20-%20Saturating%20Flow%20Yields%20a%20Feasible%20Flow.mp4</location>
+			<duration>141315</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>372</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/378%20-%20Saturating%20Flow%20-%3E%20Feasible%20Flow%3A%20Proof%20flow%20is%20valid.mp4</location>
+			<duration>197740</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>373</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/379%20-%20Feasible%20Flow%20-%3E%20Saturating%20Flow.mp4</location>
+			<duration>74766</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>374</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/380%20-%20Feasible%20Flow%20-%3E%20Saturating%20Flow%3A%20Edge%20constraints.mp4</location>
+			<duration>44953</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>375</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/381%20-%20Feasible%20Flow%20-%3E%20Saturating%20Flow%3A%20Flow%20is%20valid.mp4</location>
+			<duration>87028</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>376</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/382%20-%20Feasible%20Flow%20Algorithm.mp4</location>
+			<duration>194768</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>377</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/383%20-%20Linear%20Programming%20Lectures%20Overview.mp4</location>
+			<duration>52568</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>378</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/384%20-%20Linear%20Programming%20Introduction%20.mp4</location>
+			<duration>30650</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>379</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/385%20-%20Max-Flow%20Problem%20Expressed%20as%20a%20Linear%20Program%20%28LP%29.mp4</location>
+			<duration>92553</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>380</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/386%20-%20Simple%20Example%20of%20LP.mp4</location>
+			<duration>48065</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>381</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/387%20-%20Simple%202-Dimensional%20Example%3A%20Formulating%20the%20LP.mp4</location>
+			<duration>64875</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>382</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/388%20-%20Simple%202-Dimensional%20Example%3A%20LP%20recap.mp4</location>
+			<duration>67011</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>383</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/389%20-%20Simple%202-Dimensional%20Example%3A%20Geometric%20View.mp4</location>
+			<duration>56563</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>384</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/390%20-%20Simple%202-Dimensional%20Example%3A%20Optimal%20point.mp4</location>
+			<duration>87398</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>385</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/391%20-%20Key%20Issues%20for%20LP.mp4</location>
+			<duration>300883</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>386</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/392%20-%20Simple%203-Dimensional%20Example%20of%20LP.mp4</location>
+			<duration>62135</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>387</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/393%20-%203-Dimensional%20Example%3A%20Formulating%20the%20LP.mp4</location>
+			<duration>50758</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>388</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/394%20-%203-Dimensional%20Example%3A%20Geometric%20View.mp4</location>
+			<duration>64505</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>389</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/395%20-%20LP%20Standard%20Form.mp4</location>
+			<duration>63715</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>390</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/396%20-%20LP%20Linear%20Algebraic%20View.mp4</location>
+			<duration>65480</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>391</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/397%20-%20LP%20Converting%20into%20Standard%20Form.mp4</location>
+			<duration>159473</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>392</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/398%20-%20Geometric%20View%20of%20General%20LP.mp4</location>
+			<duration>46625</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>393</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/399%20-%20Vertices%20of%20Feasible%20Region.mp4</location>
+			<duration>87445</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>394</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/400%20-%20Algorithms%20for%20Solving%20LP%27s.mp4</location>
+			<duration>58466</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>395</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/401%20-%20Simplex%20Algorithm%20Overview.mp4</location>
+			<duration>136115</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>396</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/402%20-%20Simplex%20Algorithm%20on%20Earlier%203-Dimensional%20Example.mp4</location>
+			<duration>158916</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>397</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/403%20-%20LP%20Geometry%20of%20the%20Feasible%20Region.mp4</location>
+			<duration>59303</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>398</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/404%20-%20LP%20Optimum%3A%20Infeasible%20and%20Unbounded%20LP.mp4</location>
+			<duration>42770</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>399</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/405%20-%20Example%20of%20Infeasible%20LP.mp4</location>
+			<duration>52986</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>400</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/406%20-%20Example%20of%20Unbounded%20LP.mp4</location>
+			<duration>115913</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>401</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/407%20-%20Example%20of%20Unbounded%20LP%20changed%20into%20LP%20with%20bounded%20optima.mp4</location>
+			<duration>52058</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>402</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/408%20-%20Further%20Discussion%20on%20LP%20Optima%20Cases.mp4</location>
+			<duration>25820</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>403</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/409%20-%20How%20to%20check%20if%20an%20LP%20is%20infeasible.mp4</location>
+			<duration>179118</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>404</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/410%20-%20LP%20Duality.mp4</location>
+			<duration>16438</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>405</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/411%20-%20Example.mp4</location>
+			<duration>61068</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>406</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/412%20-%20Upper%20Bound.mp4</location>
+			<duration>215108</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>407</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/413%20-%20Dual%20LP.mp4</location>
+			<duration>268143</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>408</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/414%20-%20Dual%20LP%20Example.mp4</location>
+			<duration>80896</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>409</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/415%20-%20General%20Form.mp4</location>
+			<duration>149025</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>410</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/416%20-%20Dual%20of%20Dual.mp4</location>
+			<duration>133003</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>411</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/417%20-%20Quiz%3A%20Dual%20LP.mp4</location>
+			<duration>38683</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>412</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/418%20-%20Quiz%3A%20Dual%20LP%20Constraints.mp4</location>
+			<duration>105650</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>413</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/419%20-%20Quiz%3A%20Dual%20LP%20Constraints%20-%20Solution.mp4</location>
+			<duration>64040</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>414</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/420%20-%20Weak%20Duality.mp4</location>
+			<duration>77506</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>415</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/421%20-%20Matching%20Values.mp4</location>
+			<duration>110758</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>416</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/422%20-%20Unbounded%20LP.mp4</location>
+			<duration>71656</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>417</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/423%20-%20Check%20Unbounded.mp4</location>
+			<duration>118560</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>418</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/424%20-%20Weak%20Duality%20-%20Part%202.mp4</location>
+			<duration>77553</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>419</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/425%20-%20Strong%20Duality.mp4</location>
+			<duration>113963</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>420</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/426%20-%20Max-SAT.mp4</location>
+			<duration>94643</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>421</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/427%20-%20Approximate%20Max-SAT.mp4</location>
+			<duration>94968</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>422</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/428%20-%20Outline.mp4</location>
+			<duration>30138</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>423</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/429%20-%20Simple%20Scheme.mp4</location>
+			<duration>137600</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>424</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/430%20-%20Expectation.mp4</location>
+			<duration>106856</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>425</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/431%20-%20Analysis.mp4</location>
+			<duration>129010</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>426</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/432%20-%20Finishing%20Off.mp4</location>
+			<duration>153668</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>427</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/433%20-%20Ek-%20SAT.mp4</location>
+			<duration>124551</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>428</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/434%20-%20Integer%20Programming.mp4</location>
+			<duration>166068</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>429</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/435%20-%20NP%20Hard.mp4</location>
+			<duration>78343</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>430</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/436%20-%20Clauses.mp4</location>
+			<duration>97708</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>431</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/437%20-%20Another%20Clause.mp4</location>
+			<duration>89441</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>432</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/438%20-%20Reduction.mp4</location>
+			<duration>136950</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>433</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/439%20-%20LP%20Relaxation.mp4</location>
+			<duration>187848</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>434</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/440%20-%20Rounding.mp4</location>
+			<duration>143870</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>435</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/441%20-%20Expectation.mp4</location>
+			<duration>200433</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>436</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/442%20-%20Lemma.mp4</location>
+			<duration>133328</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>437</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/443%20-%20AM-GM.mp4</location>
+			<duration>66780</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>438</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/444%20-%20Analysis.mp4</location>
+			<duration>148281</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>439</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/445%20-%20Calculus.mp4</location>
+			<duration>135556</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>440</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/446%20-%20Finishing%20Up.mp4</location>
+			<duration>101191</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>441</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/447%20-%20Summary.mp4</location>
+			<duration>46856</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>442</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/448%20-%20Comparison.mp4</location>
+			<duration>121625</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>443</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/449%20-%20Best%20of%202.mp4</location>
+			<duration>103003</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>444</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/450%20-%20Computational%20Complexity.mp4</location>
+			<duration>59256</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>445</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/451%20-%20Complexity%20Classes.mp4</location>
+			<duration>143776</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>446</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/452%20-%20P%20vs%20NP.mp4</location>
+			<duration>119953</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>447</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/453%20-%20Search%20Problems.mp4</location>
+			<duration>158080</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>448</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/454%20-%20Satisfiability%20Problem.mp4</location>
+			<duration>56701</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>449</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/455%20-%20SAT%20%20Quiz%201.mp4</location>
+			<duration>16810</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>450</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/456%20-%20SAT%20%20Quiz%201%20Solution.mp4</location>
+			<duration>31625</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>451</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/457%20-%20SAT%20%20Quiz%202.mp4</location>
+			<duration>42398</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>452</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/458%20-%20SAT%20%20Quiz%202%20Solution.mp4</location>
+			<duration>88700</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>453</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/459%20-%20Colorings%20eNP.mp4</location>
+			<duration>123530</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>454</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/460%20-%20MST.mp4</location>
+			<duration>28048</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>455</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/461%20-%20MST%20Solution.mp4</location>
+			<duration>11795</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>456</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/462%20-%20MST%20eNP.mp4</location>
+			<duration>121625</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>457</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/463%20-%20MST%20eP.mp4</location>
+			<duration>32600</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>458</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/464%20-%20Knapsack%20Problem.mp4</location>
+			<duration>101656</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>459</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/465%20-%20Quiz%3A%20Knapsack%20Complexity.mp4</location>
+			<duration>14675</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>460</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/466%20-%20Knapsack%20is%20NP%3F.mp4</location>
+			<duration>249800</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>461</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/467%20-%20Knapsack%20%20Search.mp4</location>
+			<duration>168715</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>462</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/468%20-%20Knapsack%20Search%20ENP.mp4</location>
+			<duration>102956</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>463</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/469%20-%20Terminology.mp4</location>
+			<duration>103375</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>464</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/470%20-%20P%20vs%20NP.mp4</location>
+			<duration>80155</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>465</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/471%20-%20SAT%20is%20NP-Complete.mp4</location>
+			<duration>229923</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>466</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/472%20-%20Reductions.mp4</location>
+			<duration>103791</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>467</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/473%20-%20How%20to%20do%20a%20Reduction.mp4</location>
+			<duration>139923</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>468</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/474%20-%20More%20on%20Reductions.mp4</location>
+			<duration>99241</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>469</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/475%20-%20NP-Completeness%20Proof.mp4</location>
+			<duration>82011</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>470</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/476%20-%20NP-Completeness%20Proof%20Simplified.mp4</location>
+			<duration>181765</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>471</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/477%20-%2008%20NP%20Completeness%201.mp4</location>
+			<duration>59070</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>472</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/478%20-%20NP-Completeness%20Proofs.mp4</location>
+			<duration>47878</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>473</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/479%20-%203SAT.mp4</location>
+			<duration>39891</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>474</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/480%20-%20Proof%20Outline.mp4</location>
+			<duration>60835</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>475</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/481%20-%203SAT%20eNP.mp4</location>
+			<duration>59303</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>476</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/482%20-%20SAT%20%20%203SAT.mp4</location>
+			<duration>155711</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>477</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/483%20-%20Example.mp4</location>
+			<duration>80990</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>478</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/484%20-%20Proof%20of%20Claim.mp4</location>
+			<duration>113313</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>479</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/485%20-%20Proof%20of%20Claim%3A%20Reverse.mp4</location>
+			<duration>104396</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>480</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/486%20-%20Quiz%3A%205-3.mp4</location>
+			<duration>117910</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>481</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/487%20-%20Quiz%3A%205-3%20Solution.mp4</location>
+			<duration>168621</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>482</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/488%20-%20Big%20Clauses.mp4</location>
+			<duration>170108</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>483</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/489%20-%20Proof%20of%20Claim.mp4</location>
+			<duration>156733</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>484</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/490%20-%20Proof%20of%20Claim%20%20Reverse.mp4</location>
+			<duration>134025</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>485</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/491%20-%20SAT%20-3SAT.mp4</location>
+			<duration>97755</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>486</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/492%20-%20Correctness.mp4</location>
+			<duration>140155</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>487</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/493%20-%20SAT%20-3SAT%20%20Satisfying%20Assignment.mp4</location>
+			<duration>115541</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>488</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/494%20-%20Lecture%20Outline.mp4</location>
+			<duration>23173</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>489</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/495%20-%20Independent%20Set.mp4</location>
+			<duration>43560</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>490</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/496%20-%20Max%20Independent%20Set%20Problem.mp4</location>
+			<duration>35246</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>491</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/497%20-%20Max%20Independent%20Set%20Problem%20Solution.mp4</location>
+			<duration>76671</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>492</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/498%20-%20Proof%20Outline.mp4</location>
+			<duration>105046</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>493</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/499%20-%203SAT%20%20%20IS.mp4</location>
+			<duration>72538</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>494</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/500%20-%20Clause%20Edges.mp4</location>
+			<duration>182508</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>495</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/501%20-%20Variable%20Edges.mp4</location>
+			<duration>47135</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>496</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/502%20-%20Example.mp4</location>
+			<duration>107368</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>497</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/503%20-%20Proof%20Outline.mp4</location>
+			<duration>114705</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>498</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/504%20-%20IS%20%20%20Clique%20Idea.mp4</location>
+			<duration>150836</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>499</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/505%20-%20IS%20%20%20Clique.mp4</location>
+			<duration>92368</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>500</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/506%20-%20Lecture%20Outline.mp4</location>
+			<duration>5478</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>501</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/507%20-%20Vertex%20Cover.mp4</location>
+			<duration>60696</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>502</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/508%20-%20Vertex%20Cover%20Problem.mp4</location>
+			<duration>34411</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>503</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/509%20-%20Proof%20Outline.mp4</location>
+			<duration>91206</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>504</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/510%20-%20Reduction%20Idea.mp4</location>
+			<duration>45185</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>505</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/511%20-%20Forward%20Implication.mp4</location>
+			<duration>61068</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>506</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/512%20-%20Reverse%20Implication.mp4</location>
+			<duration>60185</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>507</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/513%20-%20IS%20VC.mp4</location>
+			<duration>63993</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>508</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/514%20-%20Reduction%20Details.mp4</location>
+			<duration>63296</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>509</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/515%20-%20Lecture%20Outline.mp4</location>
+			<duration>134815</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>510</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/516%20-%20Subset%20Sum.mp4</location>
+			<duration>35990</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>511</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/517%20-%20Quiz%3A%20Subset-Sum.mp4</location>
+			<duration>12538</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>512</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/518%20-%20Quiz%3A%20Subset-Sum%20Solution.mp4</location>
+			<duration>12491</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>513</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/519%20-%20Subset-Sum%20%20NP%20Complete.mp4</location>
+			<duration>71331</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>514</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/520%20-%20Reduction%3A%20Subset%20Sum%20Input.mp4</location>
+			<duration>60463</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>515</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/521%20-%20Reduction%3A%20Variables.mp4</location>
+			<duration>98080</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>516</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/522%20-%20Example%20Reduction.mp4</location>
+			<duration>132585</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>517</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/523%20-%20Reduction%3A%20Clauses.mp4</location>
+			<duration>199923</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>518</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/524%20-%20Reduction%3A%20Clauses%202.mp4</location>
+			<duration>65015</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>519</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/525%20-%20Proof%20of%20Correctness.mp4</location>
+			<duration>75231</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>520</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/526%20-%20Proof%3A%20Satisfying%20Assignment.mp4</location>
+			<duration>132725</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>521</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/527%20-%20Reverse%20Implication.mp4</location>
+			<duration>89303</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>522</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/528%20-%20Knapsack.mp4</location>
+			<duration>130076</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>523</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/529%20-%2001%20L%20Undecidability.mp4</location>
+			<duration>110480</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>524</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/530%20-%2002%20L%20Halting%20Problem.mp4</location>
+			<duration>77321</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>525</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/531%20-%2003%20L%20HP-%20Example.mp4</location>
+			<duration>76160</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>526</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/532%20-%2004%20L%20HP-%20Undecidable.mp4</location>
+			<duration>143685</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>527</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/533%20-%2005%20L%20HP-%20Paradox.mp4</location>
+			<duration>118560</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>528</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/534%20-%2006%20L%20HP-%20What%27S%20Harmful.mp4</location>
+			<duration>67940</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>529</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/gar/ga/videos/535%20-%2007%20L%20HP-Paradox-.mp4</location>
+			<duration>141361</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>530</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:item tid="0"/>
+			<vlc:item tid="1"/>
+			<vlc:item tid="2"/>
+			<vlc:item tid="3"/>
+			<vlc:item tid="4"/>
+			<vlc:item tid="5"/>
+			<vlc:item tid="6"/>
+			<vlc:item tid="7"/>
+			<vlc:item tid="8"/>
+			<vlc:item tid="9"/>
+			<vlc:item tid="10"/>
+			<vlc:item tid="11"/>
+			<vlc:item tid="12"/>
+			<vlc:item tid="13"/>
+			<vlc:item tid="14"/>
+			<vlc:item tid="15"/>
+			<vlc:item tid="16"/>
+			<vlc:item tid="17"/>
+			<vlc:item tid="18"/>
+			<vlc:item tid="19"/>
+			<vlc:item tid="20"/>
+			<vlc:item tid="21"/>
+			<vlc:item tid="22"/>
+			<vlc:item tid="23"/>
+			<vlc:item tid="24"/>
+			<vlc:item tid="25"/>
+			<vlc:item tid="26"/>
+			<vlc:item tid="27"/>
+			<vlc:item tid="28"/>
+			<vlc:item tid="29"/>
+			<vlc:item tid="30"/>
+			<vlc:item tid="31"/>
+			<vlc:item tid="32"/>
+			<vlc:item tid="33"/>
+			<vlc:item tid="34"/>
+			<vlc:item tid="35"/>
+			<vlc:item tid="36"/>
+			<vlc:item tid="37"/>
+			<vlc:item tid="38"/>
+			<vlc:item tid="39"/>
+			<vlc:item tid="40"/>
+			<vlc:item tid="41"/>
+			<vlc:item tid="42"/>
+			<vlc:item tid="43"/>
+			<vlc:item tid="44"/>
+			<vlc:item tid="45"/>
+			<vlc:item tid="46"/>
+			<vlc:item tid="47"/>
+			<vlc:item tid="48"/>
+			<vlc:item tid="49"/>
+			<vlc:item tid="50"/>
+			<vlc:item tid="51"/>
+			<vlc:item tid="52"/>
+			<vlc:item tid="53"/>
+			<vlc:item tid="54"/>
+			<vlc:item tid="55"/>
+			<vlc:item tid="56"/>
+			<vlc:item tid="57"/>
+			<vlc:item tid="58"/>
+			<vlc:item tid="59"/>
+			<vlc:item tid="60"/>
+			<vlc:item tid="61"/>
+			<vlc:item tid="62"/>
+			<vlc:item tid="63"/>
+			<vlc:item tid="64"/>
+			<vlc:item tid="65"/>
+			<vlc:item tid="66"/>
+			<vlc:item tid="67"/>
+			<vlc:item tid="68"/>
+			<vlc:item tid="69"/>
+			<vlc:item tid="70"/>
+			<vlc:item tid="71"/>
+			<vlc:item tid="72"/>
+			<vlc:item tid="73"/>
+			<vlc:item tid="74"/>
+			<vlc:item tid="75"/>
+			<vlc:item tid="76"/>
+			<vlc:item tid="77"/>
+			<vlc:item tid="78"/>
+			<vlc:item tid="79"/>
+			<vlc:item tid="80"/>
+			<vlc:item tid="81"/>
+			<vlc:item tid="82"/>
+			<vlc:item tid="83"/>
+			<vlc:item tid="84"/>
+			<vlc:item tid="85"/>
+			<vlc:item tid="86"/>
+			<vlc:item tid="87"/>
+			<vlc:item tid="88"/>
+			<vlc:item tid="89"/>
+			<vlc:item tid="90"/>
+			<vlc:item tid="91"/>
+			<vlc:item tid="92"/>
+			<vlc:item tid="93"/>
+			<vlc:item tid="94"/>
+			<vlc:item tid="95"/>
+			<vlc:item tid="96"/>
+			<vlc:item tid="97"/>
+			<vlc:item tid="98"/>
+			<vlc:item tid="99"/>
+			<vlc:item tid="100"/>
+			<vlc:item tid="101"/>
+			<vlc:item tid="102"/>
+			<vlc:item tid="103"/>
+			<vlc:item tid="104"/>
+			<vlc:item tid="105"/>
+			<vlc:item tid="106"/>
+			<vlc:item tid="107"/>
+			<vlc:item tid="108"/>
+			<vlc:item tid="109"/>
+			<vlc:item tid="110"/>
+			<vlc:item tid="111"/>
+			<vlc:item tid="112"/>
+			<vlc:item tid="113"/>
+			<vlc:item tid="114"/>
+			<vlc:item tid="115"/>
+			<vlc:item tid="116"/>
+			<vlc:item tid="117"/>
+			<vlc:item tid="118"/>
+			<vlc:item tid="119"/>
+			<vlc:item tid="120"/>
+			<vlc:item tid="121"/>
+			<vlc:item tid="122"/>
+			<vlc:item tid="123"/>
+			<vlc:item tid="124"/>
+			<vlc:item tid="125"/>
+			<vlc:item tid="126"/>
+			<vlc:item tid="127"/>
+			<vlc:item tid="128"/>
+			<vlc:item tid="129"/>
+			<vlc:item tid="130"/>
+			<vlc:item tid="131"/>
+			<vlc:item tid="132"/>
+			<vlc:item tid="133"/>
+			<vlc:item tid="134"/>
+			<vlc:item tid="135"/>
+			<vlc:item tid="136"/>
+			<vlc:item tid="137"/>
+			<vlc:item tid="138"/>
+			<vlc:item tid="139"/>
+			<vlc:item tid="140"/>
+			<vlc:item tid="141"/>
+			<vlc:item tid="142"/>
+			<vlc:item tid="143"/>
+			<vlc:item tid="144"/>
+			<vlc:item tid="145"/>
+			<vlc:item tid="146"/>
+			<vlc:item tid="147"/>
+			<vlc:item tid="148"/>
+			<vlc:item tid="149"/>
+			<vlc:item tid="150"/>
+			<vlc:item tid="151"/>
+			<vlc:item tid="152"/>
+			<vlc:item tid="153"/>
+			<vlc:item tid="154"/>
+			<vlc:item tid="155"/>
+			<vlc:item tid="156"/>
+			<vlc:item tid="157"/>
+			<vlc:item tid="158"/>
+			<vlc:item tid="159"/>
+			<vlc:item tid="160"/>
+			<vlc:item tid="161"/>
+			<vlc:item tid="162"/>
+			<vlc:item tid="163"/>
+			<vlc:item tid="164"/>
+			<vlc:item tid="165"/>
+			<vlc:item tid="166"/>
+			<vlc:item tid="167"/>
+			<vlc:item tid="168"/>
+			<vlc:item tid="169"/>
+			<vlc:item tid="170"/>
+			<vlc:item tid="171"/>
+			<vlc:item tid="172"/>
+			<vlc:item tid="173"/>
+			<vlc:item tid="174"/>
+			<vlc:item tid="175"/>
+			<vlc:item tid="176"/>
+			<vlc:item tid="177"/>
+			<vlc:item tid="178"/>
+			<vlc:item tid="179"/>
+			<vlc:item tid="180"/>
+			<vlc:item tid="181"/>
+			<vlc:item tid="182"/>
+			<vlc:item tid="183"/>
+			<vlc:item tid="184"/>
+			<vlc:item tid="185"/>
+			<vlc:item tid="186"/>
+			<vlc:item tid="187"/>
+			<vlc:item tid="188"/>
+			<vlc:item tid="189"/>
+			<vlc:item tid="190"/>
+			<vlc:item tid="191"/>
+			<vlc:item tid="192"/>
+			<vlc:item tid="193"/>
+			<vlc:item tid="194"/>
+			<vlc:item tid="195"/>
+			<vlc:item tid="196"/>
+			<vlc:item tid="197"/>
+			<vlc:item tid="198"/>
+			<vlc:item tid="199"/>
+			<vlc:item tid="200"/>
+			<vlc:item tid="201"/>
+			<vlc:item tid="202"/>
+			<vlc:item tid="203"/>
+			<vlc:item tid="204"/>
+			<vlc:item tid="205"/>
+			<vlc:item tid="206"/>
+			<vlc:item tid="207"/>
+			<vlc:item tid="208"/>
+			<vlc:item tid="209"/>
+			<vlc:item tid="210"/>
+			<vlc:item tid="211"/>
+			<vlc:item tid="212"/>
+			<vlc:item tid="213"/>
+			<vlc:item tid="214"/>
+			<vlc:item tid="215"/>
+			<vlc:item tid="216"/>
+			<vlc:item tid="217"/>
+			<vlc:item tid="218"/>
+			<vlc:item tid="219"/>
+			<vlc:item tid="220"/>
+			<vlc:item tid="221"/>
+			<vlc:item tid="222"/>
+			<vlc:item tid="223"/>
+			<vlc:item tid="224"/>
+			<vlc:item tid="225"/>
+			<vlc:item tid="226"/>
+			<vlc:item tid="227"/>
+			<vlc:item tid="228"/>
+			<vlc:item tid="229"/>
+			<vlc:item tid="230"/>
+			<vlc:item tid="231"/>
+			<vlc:item tid="232"/>
+			<vlc:item tid="233"/>
+			<vlc:item tid="234"/>
+			<vlc:item tid="235"/>
+			<vlc:item tid="236"/>
+			<vlc:item tid="237"/>
+			<vlc:item tid="238"/>
+			<vlc:item tid="239"/>
+			<vlc:item tid="240"/>
+			<vlc:item tid="241"/>
+			<vlc:item tid="242"/>
+			<vlc:item tid="243"/>
+			<vlc:item tid="244"/>
+			<vlc:item tid="245"/>
+			<vlc:item tid="246"/>
+			<vlc:item tid="247"/>
+			<vlc:item tid="248"/>
+			<vlc:item tid="249"/>
+			<vlc:item tid="250"/>
+			<vlc:item tid="251"/>
+			<vlc:item tid="252"/>
+			<vlc:item tid="253"/>
+			<vlc:item tid="254"/>
+			<vlc:item tid="255"/>
+			<vlc:item tid="256"/>
+			<vlc:item tid="257"/>
+			<vlc:item tid="258"/>
+			<vlc:item tid="259"/>
+			<vlc:item tid="260"/>
+			<vlc:item tid="261"/>
+			<vlc:item tid="262"/>
+			<vlc:item tid="263"/>
+			<vlc:item tid="264"/>
+			<vlc:item tid="265"/>
+			<vlc:item tid="266"/>
+			<vlc:item tid="267"/>
+			<vlc:item tid="268"/>
+			<vlc:item tid="269"/>
+			<vlc:item tid="270"/>
+			<vlc:item tid="271"/>
+			<vlc:item tid="272"/>
+			<vlc:item tid="273"/>
+			<vlc:item tid="274"/>
+			<vlc:item tid="275"/>
+			<vlc:item tid="276"/>
+			<vlc:item tid="277"/>
+			<vlc:item tid="278"/>
+			<vlc:item tid="279"/>
+			<vlc:item tid="280"/>
+			<vlc:item tid="281"/>
+			<vlc:item tid="282"/>
+			<vlc:item tid="283"/>
+			<vlc:item tid="284"/>
+			<vlc:item tid="285"/>
+			<vlc:item tid="286"/>
+			<vlc:item tid="287"/>
+			<vlc:item tid="288"/>
+			<vlc:item tid="289"/>
+			<vlc:item tid="290"/>
+			<vlc:item tid="291"/>
+			<vlc:item tid="292"/>
+			<vlc:item tid="293"/>
+			<vlc:item tid="294"/>
+			<vlc:item tid="295"/>
+			<vlc:item tid="296"/>
+			<vlc:item tid="297"/>
+			<vlc:item tid="298"/>
+			<vlc:item tid="299"/>
+			<vlc:item tid="300"/>
+			<vlc:item tid="301"/>
+			<vlc:item tid="302"/>
+			<vlc:item tid="303"/>
+			<vlc:item tid="304"/>
+			<vlc:item tid="305"/>
+			<vlc:item tid="306"/>
+			<vlc:item tid="307"/>
+			<vlc:item tid="308"/>
+			<vlc:item tid="309"/>
+			<vlc:item tid="310"/>
+			<vlc:item tid="311"/>
+			<vlc:item tid="312"/>
+			<vlc:item tid="313"/>
+			<vlc:item tid="314"/>
+			<vlc:item tid="315"/>
+			<vlc:item tid="316"/>
+			<vlc:item tid="317"/>
+			<vlc:item tid="318"/>
+			<vlc:item tid="319"/>
+			<vlc:item tid="320"/>
+			<vlc:item tid="321"/>
+			<vlc:item tid="322"/>
+			<vlc:item tid="323"/>
+			<vlc:item tid="324"/>
+			<vlc:item tid="325"/>
+			<vlc:item tid="326"/>
+			<vlc:item tid="327"/>
+			<vlc:item tid="328"/>
+			<vlc:item tid="329"/>
+			<vlc:item tid="330"/>
+			<vlc:item tid="331"/>
+			<vlc:item tid="332"/>
+			<vlc:item tid="333"/>
+			<vlc:item tid="334"/>
+			<vlc:item tid="335"/>
+			<vlc:item tid="336"/>
+			<vlc:item tid="337"/>
+			<vlc:item tid="338"/>
+			<vlc:item tid="339"/>
+			<vlc:item tid="340"/>
+			<vlc:item tid="341"/>
+			<vlc:item tid="342"/>
+			<vlc:item tid="343"/>
+			<vlc:item tid="344"/>
+			<vlc:item tid="345"/>
+			<vlc:item tid="346"/>
+			<vlc:item tid="347"/>
+			<vlc:item tid="348"/>
+			<vlc:item tid="349"/>
+			<vlc:item tid="350"/>
+			<vlc:item tid="351"/>
+			<vlc:item tid="352"/>
+			<vlc:item tid="353"/>
+			<vlc:item tid="354"/>
+			<vlc:item tid="355"/>
+			<vlc:item tid="356"/>
+			<vlc:item tid="357"/>
+			<vlc:item tid="358"/>
+			<vlc:item tid="359"/>
+			<vlc:item tid="360"/>
+			<vlc:item tid="361"/>
+			<vlc:item tid="362"/>
+			<vlc:item tid="363"/>
+			<vlc:item tid="364"/>
+			<vlc:item tid="365"/>
+			<vlc:item tid="366"/>
+			<vlc:item tid="367"/>
+			<vlc:item tid="368"/>
+			<vlc:item tid="369"/>
+			<vlc:item tid="370"/>
+			<vlc:item tid="371"/>
+			<vlc:item tid="372"/>
+			<vlc:item tid="373"/>
+			<vlc:item tid="374"/>
+			<vlc:item tid="375"/>
+			<vlc:item tid="376"/>
+			<vlc:item tid="377"/>
+			<vlc:item tid="378"/>
+			<vlc:item tid="379"/>
+			<vlc:item tid="380"/>
+			<vlc:item tid="381"/>
+			<vlc:item tid="382"/>
+			<vlc:item tid="383"/>
+			<vlc:item tid="384"/>
+			<vlc:item tid="385"/>
+			<vlc:item tid="386"/>
+			<vlc:item tid="387"/>
+			<vlc:item tid="388"/>
+			<vlc:item tid="389"/>
+			<vlc:item tid="390"/>
+			<vlc:item tid="391"/>
+			<vlc:item tid="392"/>
+			<vlc:item tid="393"/>
+			<vlc:item tid="394"/>
+			<vlc:item tid="395"/>
+			<vlc:item tid="396"/>
+			<vlc:item tid="397"/>
+			<vlc:item tid="398"/>
+			<vlc:item tid="399"/>
+			<vlc:item tid="400"/>
+			<vlc:item tid="401"/>
+			<vlc:item tid="402"/>
+			<vlc:item tid="403"/>
+			<vlc:item tid="404"/>
+			<vlc:item tid="405"/>
+			<vlc:item tid="406"/>
+			<vlc:item tid="407"/>
+			<vlc:item tid="408"/>
+			<vlc:item tid="409"/>
+			<vlc:item tid="410"/>
+			<vlc:item tid="411"/>
+			<vlc:item tid="412"/>
+			<vlc:item tid="413"/>
+			<vlc:item tid="414"/>
+			<vlc:item tid="415"/>
+			<vlc:item tid="416"/>
+			<vlc:item tid="417"/>
+			<vlc:item tid="418"/>
+			<vlc:item tid="419"/>
+			<vlc:item tid="420"/>
+			<vlc:item tid="421"/>
+			<vlc:item tid="422"/>
+			<vlc:item tid="423"/>
+			<vlc:item tid="424"/>
+			<vlc:item tid="425"/>
+			<vlc:item tid="426"/>
+			<vlc:item tid="427"/>
+			<vlc:item tid="428"/>
+			<vlc:item tid="429"/>
+			<vlc:item tid="430"/>
+			<vlc:item tid="431"/>
+			<vlc:item tid="432"/>
+			<vlc:item tid="433"/>
+			<vlc:item tid="434"/>
+			<vlc:item tid="435"/>
+			<vlc:item tid="436"/>
+			<vlc:item tid="437"/>
+			<vlc:item tid="438"/>
+			<vlc:item tid="439"/>
+			<vlc:item tid="440"/>
+			<vlc:item tid="441"/>
+			<vlc:item tid="442"/>
+			<vlc:item tid="443"/>
+			<vlc:item tid="444"/>
+			<vlc:item tid="445"/>
+			<vlc:item tid="446"/>
+			<vlc:item tid="447"/>
+			<vlc:item tid="448"/>
+			<vlc:item tid="449"/>
+			<vlc:item tid="450"/>
+			<vlc:item tid="451"/>
+			<vlc:item tid="452"/>
+			<vlc:item tid="453"/>
+			<vlc:item tid="454"/>
+			<vlc:item tid="455"/>
+			<vlc:item tid="456"/>
+			<vlc:item tid="457"/>
+			<vlc:item tid="458"/>
+			<vlc:item tid="459"/>
+			<vlc:item tid="460"/>
+			<vlc:item tid="461"/>
+			<vlc:item tid="462"/>
+			<vlc:item tid="463"/>
+			<vlc:item tid="464"/>
+			<vlc:item tid="465"/>
+			<vlc:item tid="466"/>
+			<vlc:item tid="467"/>
+			<vlc:item tid="468"/>
+			<vlc:item tid="469"/>
+			<vlc:item tid="470"/>
+			<vlc:item tid="471"/>
+			<vlc:item tid="472"/>
+			<vlc:item tid="473"/>
+			<vlc:item tid="474"/>
+			<vlc:item tid="475"/>
+			<vlc:item tid="476"/>
+			<vlc:item tid="477"/>
+			<vlc:item tid="478"/>
+			<vlc:item tid="479"/>
+			<vlc:item tid="480"/>
+			<vlc:item tid="481"/>
+			<vlc:item tid="482"/>
+			<vlc:item tid="483"/>
+			<vlc:item tid="484"/>
+			<vlc:item tid="485"/>
+			<vlc:item tid="486"/>
+			<vlc:item tid="487"/>
+			<vlc:item tid="488"/>
+			<vlc:item tid="489"/>
+			<vlc:item tid="490"/>
+			<vlc:item tid="491"/>
+			<vlc:item tid="492"/>
+			<vlc:item tid="493"/>
+			<vlc:item tid="494"/>
+			<vlc:item tid="495"/>
+			<vlc:item tid="496"/>
+			<vlc:item tid="497"/>
+			<vlc:item tid="498"/>
+			<vlc:item tid="499"/>
+			<vlc:item tid="500"/>
+			<vlc:item tid="501"/>
+			<vlc:item tid="502"/>
+			<vlc:item tid="503"/>
+			<vlc:item tid="504"/>
+			<vlc:item tid="505"/>
+			<vlc:item tid="506"/>
+			<vlc:item tid="507"/>
+			<vlc:item tid="508"/>
+			<vlc:item tid="509"/>
+			<vlc:item tid="510"/>
+			<vlc:item tid="511"/>
+			<vlc:item tid="512"/>
+			<vlc:item tid="513"/>
+			<vlc:item tid="514"/>
+			<vlc:item tid="515"/>
+			<vlc:item tid="516"/>
+			<vlc:item tid="517"/>
+			<vlc:item tid="518"/>
+			<vlc:item tid="519"/>
+			<vlc:item tid="520"/>
+			<vlc:item tid="521"/>
+			<vlc:item tid="522"/>
+			<vlc:item tid="523"/>
+			<vlc:item tid="524"/>
+			<vlc:item tid="525"/>
+			<vlc:item tid="526"/>
+			<vlc:item tid="527"/>
+			<vlc:item tid="528"/>
+			<vlc:item tid="529"/>
+			<vlc:item tid="530"/>
+	</extension>
+</playlist>

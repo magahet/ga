@@ -1,0 +1,93 @@
+{
+  "status": "active", 
+  "unique_views": 110, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-13T02:22:59Z", 
+      "data": "j7ieiuepmwx15w", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "uid": "gy4twfv45cg5o6", 
+      "type": "i_answer", 
+      "when": "2017-09-13T13:38:59Z", 
+      "to": "j7ieiuen63u15v", 
+      "anon": "no", 
+      "data": "j7j2o6qf1he18y"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j7ieiuen63u15v", 
+  "bookmarked": 3, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-13T13:38:59Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j7j2o6ppptg18x", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p></p>\n<p>The comments are OK, but I don&#39;t understand what this means: \u00a0x = min(myfunc(x,y))\u00a0</p>\n<p>so probably the TA&#39;s won&#39;t either.\u00a0</p>", 
+          "anon": "no", 
+          "created": "2017-09-13T13:38:59Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 283, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "dp-solutions", 
+    "dynamic_programming"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "dp-solutions", 
+    "dynamic_programming", 
+    "student"
+  ], 
+  "created": "2017-09-13T02:22:59Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145252363, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>How do you want us to define items such as tuples, and explinations?</p>\n<p></p>\n<p>For some of the homework I have been denoting &#34;comments&#34; with //</p>\n<p></p>\n<p>//This is why I do this</p>\n<p></p>\n<p>and tuples by stating them</p>\n<p></p>\n<p>let x = min(myfunc(x,y)) //x is a tuple of (index, val)</p>\n<p></p>\n<p>Is this sufficient? I am assuming so but wanted to make sure there was not a preferred way</p>", 
+      "anon": "no", 
+      "created": "2017-09-13T02:22:59Z", 
+      "uid": "ijbr5ddtwyt6pa", 
+      "subject": "Defining items such as Tuples, etc."
+    }
+  ]
+}

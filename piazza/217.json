@@ -1,0 +1,266 @@
+{
+  "status": "active", 
+  "unique_views": 166, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-07T23:46:19Z", 
+      "data": "j7b3q3x7zs7ir", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "uid": "hju4w9odatf30", 
+      "type": "i_answer", 
+      "when": "2017-09-08T00:40:00Z", 
+      "to": "j7b3q3x6d8biq", 
+      "anon": "no", 
+      "data": "j7b5n5xiupf59o"
+    }, 
+    {
+      "to": "j7b3q3x6d8biq", 
+      "anon": "no", 
+      "when": "2017-09-08T01:46:56Z", 
+      "type": "followup", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "to": "j7b3q3x6d8biq", 
+      "anon": "no", 
+      "when": "2017-09-08T02:03:39Z", 
+      "type": "feedback", 
+      "uid": "hju4w9odatf30"
+    }, 
+    {
+      "to": "j7b3q3x6d8biq", 
+      "anon": "no", 
+      "when": "2017-09-08T02:04:37Z", 
+      "type": "feedback", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "to": "j7b3q3x6d8biq", 
+      "anon": "stud", 
+      "when": "2017-09-08T20:12:45Z", 
+      "type": "followup"
+    }, 
+    {
+      "to": "j7b3q3x6d8biq", 
+      "anon": "no", 
+      "when": "2017-09-09T19:07:48Z", 
+      "type": "followup", 
+      "uid": "isgwdf47kb42f"
+    }, 
+    {
+      "to": "j7b3q3x6d8biq", 
+      "anon": "no", 
+      "when": "2017-09-10T00:06:39Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j7b3q3x6d8biq", 
+  "bookmarked": 7, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-08T00:40:00Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "hyrxottyw7o7a4"
+      ], 
+      "id": "j7b5n5xgcph59n", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Tiago Prado Lone", 
+          "admin": false, 
+          "photo": "1420544761_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hyrxottyw7o7a4"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>Think along the lines of how to use Fermat&#39;s Little theorem.</p>", 
+          "anon": "no", 
+          "created": "2017-09-08T00:40:00Z", 
+          "uid": "hju4w9odatf30", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-08T01:46:56Z", 
+      "no_upvotes": 0, 
+      "uid": "ijbr5ddtwyt6pa", 
+      "created": "2017-09-08T01:46:56Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7b8183u4at4lo", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-08T02:03:39Z", 
+          "uid": "hju4w9odatf30", 
+          "created": "2017-09-08T02:03:39Z", 
+          "type": "feedback", 
+          "id": "j7b8mqdddz162r", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Yes, I would suggest to always think along the lines of Fermat&#39;s little theorem and Euler&#39;s theorem.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-08T02:04:37Z", 
+          "uid": "ijbr5ddtwyt6pa", 
+          "created": "2017-09-08T02:04:37Z", 
+          "type": "feedback", 
+          "id": "j7b8nzaq4np7j3", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Ok. I see, so we use Fermat&#39;s, then if it does not work, we go back to Euler&#39;s (the method I have above). That makes sense. I was trying to figure out how to use Fermat&#39;s to get the correct answer w/o Euler&#39;s so that was probably what confused me.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-10T00:06:39Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-09-10T00:06:39Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j7dzbyr260g3oy", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "&#64;Jason, I managed to solve it using Fermat&#39;s theorem without using Euler&#39;s theorem. (Cool!)\n\nI don&#39;t see the connection between the method you used above and Euler&#39;s theorem. I thought you were just using the repeated squaring method. (I&#39;m not sure that&#39;s the proper name for it.)"
+        }
+      ], 
+      "subject": "<p>So, should the thinking always be first try to use that? I guess that makes sense, but I thought Fermat&#39;s little theorem was only useful when we were using two relatively prime numbers (to each other)</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-08T20:12:45Z", 
+      "no_upvotes": 0, 
+      "created": "2017-09-08T20:12:45Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7cbjbp0fyw723", 
+      "anon": "stud", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "I have article, from a reputable website, that go overs a way to do this problem using Fermat&#39;s Little theorem. Is it OK that I post a link to it? It&#39;s a different problem from the homework."
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-09T19:07:48Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "isgwdf47kb42f", 
+      "created": "2017-09-09T19:07:48Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7donn645hm4ka", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>You may want to look at problem 1.16 in the textbook. I went over it in the 9 September office hours as well.</p>"
+    }
+  ], 
+  "nr": 217, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw2"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 5, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw2", 
+    "student"
+  ], 
+  "created": "2017-09-07T23:46:19Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145272514, 
+  "tag_good": [
+    {
+      "name": "Shihgian Lee", 
+      "admin": false, 
+      "photo": "1420394909_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i18w67avy8e1uk"
+    }
+  ], 
+  "tag_good_arr": [
+    "i18w67avy8e1uk"
+  ], 
+  "history": [
+    {
+      "content": "<p>I have been using the approach to repeated squaring noted <a href=\"https://math.stackexchange.com/questions/2204627/repeated-squaring-techniques\" target=\"_blank\">here</a>, where we first calculate all the squares up to a point where we then can determine the value of the exponent (i.e. we have enough to break it up)</p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/ijbr5ddtwyt6pa/j7b3n2117k6e/Screen_Shot_20170907_at_7.42.54_PM.png\" alt=\"\" /></p>\n<p></p>\n<p>Then multiply them together so that we could determine the correct x (answer)</p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/ijbr5ddtwyt6pa/j7b3oficebwu/Screen_Shot_20170907_at_7.44.24_PM.png\" alt=\"\" /></p>\n<p></p>\n<p>The &#34;problem&#34; with this issue is that it can be time consuming, and there is a larger potential for errors. I was wondering if anyone has been able to find a different method of doing this that could be more simplistic, or quicker?</p>\n<p></p>", 
+      "anon": "no", 
+      "created": "2017-09-07T23:46:19Z", 
+      "uid": "ijbr5ddtwyt6pa", 
+      "subject": "Repeated Squaring: Faster Methods"
+    }
+  ]
+}

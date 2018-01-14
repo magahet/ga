@@ -1,0 +1,103 @@
+{
+  "status": "active", 
+  "unique_views": 133, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-14T02:50:16Z", 
+      "data": "j7juxs2tiy2b5", 
+      "uid": "i4iufvhm2nj4s1"
+    }, 
+    {
+      "uid": "i4nkipeofrkrz", 
+      "type": "s_answer", 
+      "when": "2017-09-14T03:31:27Z", 
+      "to": "j7juxs2qojqb4", 
+      "anon": "no", 
+      "data": "j7jweqp2isd3od"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j7juxs2qojqb4", 
+  "bookmarked": 3, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-14T03:31:26Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [
+        "hju4w9odatf30"
+      ], 
+      "id": "j7jweqnsml23ob", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Murali Raghu Babu B", 
+          "admin": true, 
+          "photo": "1503448397_35.png", 
+          "us": false, 
+          "role": "ta", 
+          "facebook_id": null, 
+          "id": "hju4w9odatf30"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>To split $$a$$ into two different equations you need to cycle through every single element of $$a$$ to decide whether that term is even or odd and put it in the corresponding bucket. This gives you $$O(n)$$ time.</p>\n<p></p>\n<p>Then you are looping from $$0$$ to $$n/2 - 1$$, which represents $$O(n)$$ time as well. Take a look at Big-O properties to understand why $$n/2 - 1$$ iterations are simplified as $$O(n)$$.</p>", 
+          "anon": "no", 
+          "created": "2017-09-14T03:31:27Z", 
+          "uid": "i4nkipeofrkrz", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 300, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "divide_and_conquer"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 2, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "divide_and_conquer", 
+    "student"
+  ], 
+  "created": "2017-09-14T02:50:16Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145246880, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/i4iufvhm2nj4s1/j7jurhcnh72e/Capture.PNG\" alt=\"\" /></p>\n<p></p>\n<p>Can you go into more detail of how splitting\u00a0a into two equations and solving for r both takes n time? \u00a0It felt very &#34;hand-wavy&#34; in lecture.</p>", 
+      "anon": "no", 
+      "created": "2017-09-14T02:50:16Z", 
+      "uid": "i4iufvhm2nj4s1", 
+      "subject": "Explanation of running time for FFT"
+    }
+  ]
+}

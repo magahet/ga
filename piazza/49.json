@@ -1,0 +1,916 @@
+{
+  "status": "active", 
+  "unique_views": 219, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-08-23T08:16:44Z", 
+      "data": "j6oqww0zec65u4", 
+      "uid": "hqa65fnalg83fr"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-08-23T09:12:44Z", 
+      "data": "j6oswwtoe755c3", 
+      "uid": "hqa65fnalg83fr"
+    }, 
+    {
+      "to": "j6oqww0x7515u3", 
+      "anon": "no", 
+      "when": "2017-08-23T09:14:22Z", 
+      "type": "followup", 
+      "uid": "hqa65fnalg83fr"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-08-23T09:17:56Z", 
+      "data": "j6ot3l8ayt268s", 
+      "uid": "hqa65fnalg83fr"
+    }, 
+    {
+      "to": "j6oqww0x7515u3", 
+      "anon": "no", 
+      "when": "2017-08-23T11:53:40Z", 
+      "type": "followup", 
+      "uid": "hv1gl7gmpkj41y"
+    }, 
+    {
+      "uid": "gns9oa0pgsO", 
+      "type": "i_answer", 
+      "when": "2017-08-23T12:10:27Z", 
+      "to": "j6oqww0x7515u3", 
+      "anon": "no", 
+      "data": "j6oz9gfk6pxrs"
+    }, 
+    {
+      "to": "j6oqww0x7515u3", 
+      "anon": "no", 
+      "when": "2017-08-23T15:25:25Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j6oqww0x7515u3", 
+      "anon": "no", 
+      "when": "2017-08-23T18:54:02Z", 
+      "type": "followup", 
+      "uid": "ij7kfkx61zz365"
+    }, 
+    {
+      "to": "j6oqww0x7515u3", 
+      "anon": "no", 
+      "when": "2017-08-23T19:19:59Z", 
+      "type": "feedback", 
+      "uid": "i18w67avy8e1uk"
+    }, 
+    {
+      "to": "j6oqww0x7515u3", 
+      "anon": "no", 
+      "when": "2017-08-23T19:25:31Z", 
+      "type": "feedback", 
+      "uid": "ij7kfkx61zz365"
+    }, 
+    {
+      "to": "j6oqww0x7515u3", 
+      "anon": "no", 
+      "when": "2017-08-23T19:32:19Z", 
+      "type": "feedback", 
+      "uid": "i18w67avy8e1uk"
+    }, 
+    {
+      "to": "j6oqww0x7515u3", 
+      "anon": "no", 
+      "when": "2017-08-23T19:35:46Z", 
+      "type": "feedback", 
+      "uid": "idgauptz2ou3po"
+    }, 
+    {
+      "to": "j6oqww0x7515u3", 
+      "anon": "no", 
+      "when": "2017-08-23T19:41:55Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j6oqww0x7515u3", 
+      "anon": "no", 
+      "when": "2017-08-23T20:29:25Z", 
+      "type": "feedback", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j6oqww0x7515u3", 
+      "anon": "no", 
+      "when": "2017-08-24T16:38:13Z", 
+      "type": "feedback", 
+      "uid": "hqa65fnalg83fr"
+    }, 
+    {
+      "to": "j6oqww0x7515u3", 
+      "anon": "no", 
+      "when": "2017-08-24T16:39:52Z", 
+      "type": "feedback", 
+      "uid": "hqa65fnalg83fr"
+    }, 
+    {
+      "to": "j6oqww0x7515u3", 
+      "anon": "no", 
+      "when": "2017-08-24T17:06:18Z", 
+      "type": "feedback", 
+      "uid": "ij7kfkx61zz365"
+    }, 
+    {
+      "to": "j6oqww0x7515u3", 
+      "anon": "no", 
+      "when": "2017-08-24T17:16:46Z", 
+      "type": "feedback", 
+      "uid": "hqa65fnalg83fr"
+    }, 
+    {
+      "to": "j6oqww0x7515u3", 
+      "anon": "no", 
+      "when": "2017-08-24T17:16:49Z", 
+      "type": "feedback", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j6oqww0x7515u3", 
+      "anon": "no", 
+      "when": "2017-08-24T17:22:26Z", 
+      "type": "feedback", 
+      "uid": "hqa65fnalg83fr"
+    }, 
+    {
+      "to": "j6oqww0x7515u3", 
+      "anon": "no", 
+      "when": "2017-08-24T17:37:27Z", 
+      "type": "feedback", 
+      "uid": "ij7kfkx61zz365"
+    }, 
+    {
+      "to": "j6oqww0x7515u3", 
+      "anon": "no", 
+      "when": "2017-08-24T17:48:45Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j6oqww0x7515u3", 
+      "anon": "no", 
+      "when": "2017-08-24T20:28:31Z", 
+      "type": "feedback", 
+      "uid": "idfwkf5jgsm3gg"
+    }, 
+    {
+      "to": "j6oqww0x7515u3", 
+      "anon": "no", 
+      "when": "2017-08-24T20:47:09Z", 
+      "type": "feedback", 
+      "uid": "hqa65fnalg83fr"
+    }, 
+    {
+      "to": "j6oqww0x7515u3", 
+      "anon": "no", 
+      "when": "2017-08-24T21:48:17Z", 
+      "type": "feedback", 
+      "uid": "i18w67avy8e1uk"
+    }, 
+    {
+      "to": "j6oqww0x7515u3", 
+      "anon": "no", 
+      "when": "2017-08-25T00:33:39Z", 
+      "type": "feedback", 
+      "uid": "hqa65fnalg83fr"
+    }, 
+    {
+      "to": "j6oqww0x7515u3", 
+      "anon": "no", 
+      "when": "2017-08-25T04:09:56Z", 
+      "type": "feedback", 
+      "uid": "i18w67avy8e1uk"
+    }, 
+    {
+      "to": "j6oqww0x7515u3", 
+      "anon": "no", 
+      "when": "2017-08-25T05:43:18Z", 
+      "type": "feedback", 
+      "uid": "idej2kl6hh1"
+    }, 
+    {
+      "to": "j6oqww0x7515u3", 
+      "anon": "no", 
+      "when": "2017-08-25T06:32:36Z", 
+      "type": "feedback", 
+      "uid": "hqa65fnalg83fr"
+    }, 
+    {
+      "to": "j6oqww0x7515u3", 
+      "anon": "no", 
+      "when": "2017-08-25T11:53:36Z", 
+      "type": "feedback", 
+      "uid": "idej2kl6hh1"
+    }, 
+    {
+      "to": "j6oqww0x7515u3", 
+      "anon": "no", 
+      "when": "2017-08-25T22:40:01Z", 
+      "type": "feedback", 
+      "uid": "idg5nm2lC96"
+    }, 
+    {
+      "to": "j6oqww0x7515u3", 
+      "anon": "no", 
+      "when": "2017-08-25T22:56:00Z", 
+      "type": "feedback", 
+      "uid": "hqa65fnalg83fr"
+    }, 
+    {
+      "to": "j6oqww0x7515u3", 
+      "anon": "no", 
+      "when": "2017-08-26T10:18:05Z", 
+      "type": "feedback", 
+      "uid": "i8597qyse9c1v2"
+    }, 
+    {
+      "uid": "i4hdvab632i522", 
+      "type": "s_answer", 
+      "when": "2017-09-01T09:41:24Z", 
+      "to": "j6oqww0x7515u3", 
+      "anon": "no", 
+      "data": "j71owfpezp18i"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-09-01T09:46:39Z", 
+      "data": "j71p36ycfor1xu", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-09-01T09:50:29Z", 
+      "data": "j71p83x3tvc2yp", 
+      "uid": "i4hdvab632i522"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j6oqww0x7515u3", 
+  "bookmarked": 14, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-08-23T09:14:22Z", 
+      "no_upvotes": 0, 
+      "uid": "hqa65fnalg83fr", 
+      "created": "2017-08-23T09:14:22Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6osz0k3d665t0", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>Another unrelated point that DP seems to be ignoring is the Space complexity of the algorithms. Clearly the Knapsack problem is going to need a lot of space. At least $$\\Omega (B)$$ extra space, unless there were some smart way to discard values for B.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-23T11:53:40Z", 
+      "no_upvotes": 0, 
+      "uid": "hv1gl7gmpkj41y", 
+      "created": "2017-08-23T11:53:40Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6oynvhwwkf1gr", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-08-23T15:25:25Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-08-23T15:25:25Z", 
+          "type": "feedback", 
+          "id": "j6p686gc54l752", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p></p>\n<p>We won&#39;t pay attention to space in this class but it&#39;s of course an</p>\n<p>important aspect. \u00a0For many DP algorithms one can save space</p>\n<p>by noticing that you only need to remember the last row of the table.</p>\n<p>For knapsack this reduces the space from O(nB) to O(B), which is</p>\n<p>still huge. \u00a0For huge values of B, there are other more complicated</p>\n<p>approaches to reduce the space, though it&#39;s still exponential, for example</p>\n<p>on the Wikipedia page check out the &#34;Meet-in-the-middle&#34; algorithm:</p>\n<p>\u00a0 \u00a0<a href=\"https://en.wikipedia.org/wiki/Knapsack_problem\">https://en.wikipedia.org/wiki/Knapsack_problem</a></p>\n<p>I&#39;m not familiar with this algorithm but apparently it requires space</p>\n<p>O(2^{n/2}), which might be better than O(B) in some cases.</p>\n<p></p>\n<p>--Eric</p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-24T17:16:46Z", 
+          "uid": "hqa65fnalg83fr", 
+          "created": "2017-08-24T17:16:46Z", 
+          "type": "feedback", 
+          "id": "j6qpn827p5t59a", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>i can see how space is a big problem because any fraction of the weight B would potentially be necessary (unless there&#39;s a smart way to avoid having to compute all from 1 to B.. (maybe all possible wi sums?)<br /><br />Maybe memoization can give us a more optimal solution in this case because we don&#39;t need to fill the table with a bunch of data we don&#39;t actually need?</p>"
+        }
+      ], 
+      "subject": "Funny, I literally scribbled the title of this post on a pad of paper last night to remind myself I needed to revisit this topic."
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-08-23T12:10:27Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j6oz9gfi8uprr", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>The DP algorithm is O(nB).\u00a0 This comes from its structure - a nested loop :</p>\n<p></p>\n<p>for i = 1 to n</p>\n<p>\u00a0\u00a0\u00a0 for j =\u00a01 to B<br />&lt;etc&gt;</p>\n<p></p>\n<p>As n increases linearly (more elements), the loop count increases linearly, but as B increases linearly\u00a0(more bits), the loop count increases exponentially.\u00a0 Remember, &#34;increasing the input&#34; doesn&#39;t mean just increasing a value, but rather it means increasing the size of the input -&gt; B going\u00a0from 16 (4 bits)\u00a0to 32 (5 bits), for example.\u00a0 \u00a0\u00a0</p>", 
+          "anon": "no", 
+          "created": "2017-08-23T12:10:27Z", 
+          "uid": "gns9oa0pgsO", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-23T18:54:02Z", 
+      "no_upvotes": 0, 
+      "uid": "ij7kfkx61zz365", 
+      "created": "2017-08-23T18:54:02Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6pdogrr9bf1g2", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-08-23T19:19:59Z", 
+          "uid": "i18w67avy8e1uk", 
+          "created": "2017-08-23T19:19:59Z", 
+          "type": "feedback", 
+          "id": "j6peltrnx395al", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>My understanding is the number of objects, n,\u00a0increases linearly but not the weight, B. We use the increase of 4\u00a0to 5\u00a0bits to illustrate the value of B can increase dramatically to make the runtime exponential.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-23T19:25:31Z", 
+          "uid": "ij7kfkx61zz365", 
+          "created": "2017-08-23T19:25:31Z", 
+          "type": "feedback", 
+          "id": "j6pesxyaber5x4", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I get that that&#39;s the argument but I don&#39;t see how that&#39;s true. What&#39;s different about the weight than the number of objects? If the number of objects goes up, that increases the number of bits needed to hold n. So why would B be considered exponential but not n?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-23T19:32:19Z", 
+          "uid": "i18w67avy8e1uk", 
+          "created": "2017-08-23T19:32:19Z", 
+          "type": "feedback", 
+          "id": "j6pf1opfdvd5mh", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I was looking at the loops in the pseudocode. If n increases linearly, O(n), but B can double, O(n^2), from 4 to 5 bits, then the total runtime is exponential suddenly. Try to imagine if B triple, etc. That is how I look at it. I apologize if I am not understanding your question.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-23T19:35:46Z", 
+          "uid": "idgauptz2ou3po", 
+          "created": "2017-08-23T19:35:46Z", 
+          "type": "feedback", 
+          "id": "j6pf64nbsji6q0", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "There is a bit of a dirty trick when using n in big-O for NP problems. For those, the n is not the size of the input but is some other value like &#34;the number of symbols&#34; in SAT (and not, say, the number of clauses or number of terms in all the clauses, which is really the size of the input)."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-23T19:41:55Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-08-23T19:41:55Z", 
+          "type": "feedback", 
+          "id": "j6pfe1nd6sz3oy", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Let&#39;s be precise. \u00a0When we look at an algorithm like Dijkstra&#39;s algorithm we say the running time is O((n&#43;m)logn). \u00a0But say the edge weights are positive integers and the max weight is w*. \u00a0Then the input size is actually poly(n,logw*). \u00a0 However the only operations in Dijkstra&#39;s that depend on the weights are arithmetic operations (such as adding two weights) or memory operations (e.g., put this weight in memory). \u00a0We say these operations are O(1). \u00a0Why is that reasonable? \u00a0Well, computers are 64-bit processors these days (but even with 32-bit processors), so for w*\\leq 2^64 we can do these arithmetic operations in hardware, so O(1) time. \u00a0Hence that seems reasonable. \u00a0There are some settings where that is not reasonable, for example for cryptography we work with numbers that are thousands of bits long, so in that setting we&#39;ll account for the time to multiply in terms of the # of bits. \u00a0That is called the bit complexity. \u00a0But note that even if we did the bit complexity for Dijkstra&#39;s algorithm, well we are just adding (or even if we multiply) 2 n-bit numbers it takes O(logw*) time (or O((logw*)^2 time to multiply), which is still polynomial in the # of bits of input. \u00a0So even if you count carefully the running time in terms of the # of bits in the edge weights it is still polynomial in the # of bits, and hence polynomial in the input size.</p>\n<p></p>\n<p>Suppose instead of Dijkstra&#39;s algorithm we tried to solve the shortest path problem by doing a loop: for i=1--&gt; nw*: \u00a0check is there a path of length =i. \u00a0Then we output the min i for which there is a path. \u00a0This algorithm takes O(nw*) time. \u00a0It doesn&#39;t matter whether or not the edge weights fit in 64-bits, the running time depends on w*, and this is exponential in the # of bits for the edge weights. \u00a0So this would not be a polynomial-time algorithm, it is not polynomial in the input size. \u00a0It is called a pseudo-polynomial algorithm. \u00a0This is analogous to the situation for our DP algorithm for Knapsack.</p>\n<p></p>\n<p>Later (near the end of the class) we&#39;re going to prove that Knapsack is NP-complete. \u00a0We&#39;re going to take an NP-complete graph problem (such as clique) with an input of n vertices and we&#39;re going to reduce it to a knapsack instance with O(n) objects but the weights will be on the order of 10^n. \u00a0So our DP algorithm for knapsack will give an O(n10^n) time algorithm to solve the clique problem, which is a crappy algorithm because we can trivially solve it in O(2^n) time by trying all subsets of vertices.</p>\n<p></p>\n<p>Does that help?</p>\n<p></p>\n<p>--Eric</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-23T20:29:25Z", 
+          "uid": "gns9oa0pgsO", 
+          "created": "2017-08-23T20:29:25Z", 
+          "type": "feedback", 
+          "id": "j6ph34tigf3bx", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#34;If the number of objects goes up, that increases the number of bits needed to hold n. So why would B be considered exponential but not n?&#34;</p>\n<p></p>\n<p>Except n is not an input to the system, the list of objects is the input.\u00a0 as we add an element to the input (another element in the list) then the algorithm run time increases linearly.\u00a0 B (the bag capacity) is also an input to the system, and so as it grows in input size (adding bits to the value storing it), the run time increases exponentially.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-24T16:38:13Z", 
+          "uid": "hqa65fnalg83fr", 
+          "created": "2017-08-24T16:38:13Z", 
+          "type": "feedback", 
+          "id": "j6qo9ninqeh3ry", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I still don&#39;t see it.<br /><br />In graph algorithms you have edges and nodes, each is an independent variable. And the number of edges or the number of nodes could similarly give you and algorithm that is O(|E| |N|).<br /><br /></p>\n<p>So if you have:</p>\n<p></p>\n<p>for i to N</p>\n<p>\u00a0 \u00a0for i to B</p>\n<p>\u00a0 \u00a0 \u00a0 do something<br /><br /></p>\n<p>You&#39;re just doing things N*B times. I don&#39;t see the exponential argument here. Going to bits you could also argue that N is expressed in logN bits as well. So I guess I&#39;m think headed and don&#39;t get this.<br /><br />Something is done here exactly N*B times. No exponents required.</p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-24T16:39:52Z", 
+          "uid": "hqa65fnalg83fr", 
+          "created": "2017-08-24T16:39:52Z", 
+          "type": "feedback", 
+          "id": "j6qobrot6tv4y0", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>the fact that the CLIQUE problem can be reduced to Knapsack using some exponential mapping doesn&#39;t convince me either. To me it proves my point. ;)<br />CLIQUE is exponential whereas knapsack is polynomial.<br /><br />I know I&#39;m being thick headed here.. but I just don&#39;t get the argument.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-24T17:06:18Z", 
+          "uid": "ij7kfkx61zz365", 
+          "created": "2017-08-24T17:06:18Z", 
+          "type": "feedback", 
+          "id": "j6qp9rbhwyc7ej", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#64;john turner, by that argument,\u00a0every function that takes a number as a parameter (AKA as input) must be exponential because as you increase the number you pass to the function, that would increase the number of bits storing it. But clearly not all functions that take a number as a parameter are exponential, so there is a fault in that logic.\u00a0<br /><br />Additionally, if it were as simple as that, why would we be including storage considerations in the runtime complexity rather than the\u00a0space complexity?<br /><br /></p>\n<p>Thanks for your detailed response, Prof Vigoda! Still thinking your answer through. I&#39;ll let you know if I have follow-up questions.\u00a0</p>\n<p></p>\n<p>Best,</p>\n<p>Samantha</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-24T17:16:49Z", 
+          "uid": "gns9oa0pgsO", 
+          "created": "2017-08-24T17:16:49Z", 
+          "type": "feedback", 
+          "id": "j6qpnavau9l4m0", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>we want to examine how an algorithm increases in complexity as we increase the size of the input.</p>\n<p></p>\n<p>Amin, in the algorithm you listed, neither &#39;|E|&#39; nor &#39;|N|&#34; are inputs to the algorithm, but rather the lists of edges E and vertices V are the inputs.\u00a0 As you increase the _size_ of the input (add an element to the list of verts/edges) you increase the algorithm&#39;s complexity linearly.<br /><br />In knapsack, the _value_ B is an input to the algorithm - think of it as a bitstring.\u00a0 To increase the _size_ of B in a manner that interests us in order to determine complexity, you must increase its &#34;physical&#34; footprint (add bits).\u00a0 In the knapsack algorithm, adding a bit to B will double the number of iterations of the algorithm.<br /><br />&#64;Samantha Campo : I&#39;m going to assume you mean functions that take &#34;a number as a parameter (AKA as input)&#34; _and use that number to govern iterations_ (please correct me if i am wrong).\u00a0\u00a0In that case, it seems to me that you&#39;re still confusing increasing\u00a0&#34;value&#34; and increasing &#34;size&#34;.\u00a0 Increasing the value is only very rarely going to increase the size of the variable representing that value - there&#39;s only 31 increases going from\u00a00 to 2^32-1, right?\u00a0</p>\n<p></p>\n<p>In order to determine complexity, we want to see how an algorithm changes with regard to increasing the size of the input.\u00a0 When I increase the _size_ of the input, how does the algorithm act?\u00a0 If that means increasing the number parameter you mentioned by another bit, how does the algorithm behave?</p>\n<p></p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-24T17:22:26Z", 
+          "uid": "hqa65fnalg83fr", 
+          "created": "2017-08-24T17:22:26Z", 
+          "type": "feedback", 
+          "id": "j6qpui9rhgu2hq", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Well, I&#39;ll grant that when looking at the complexity of multiplication</p>\n<p></p>\n<p>multiply(A, B)</p>\n<p></p>\n<p>We have to look at the bit size of A and B as well if considering huge numbers.</p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-24T17:37:27Z", 
+          "uid": "ij7kfkx61zz365", 
+          "created": "2017-08-24T17:37:27Z", 
+          "type": "feedback", 
+          "id": "j6qqdtkj3iu1am", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>You know what would make this all make sense to me (and possibly many others)? A concrete example.<br /><br />Would someone please be kind enough to\u00a0provide me with a concrete example with actual input that will clearly\u00a0illustrate the argument about B? I love concrete examples.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-24T17:48:45Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-08-24T17:48:45Z", 
+          "type": "feedback", 
+          "id": "j6qqscy8xv22zg", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p></p>\n<p>Suppose I have 100 objects with some weights and values and B = 2^{1000}. \u00a0Note to input B I give 10000000000...0 with 1000 0&#39;s after the 1, so the input B is of size 1000 bits. \u00a0 \u00a0Our Knapsack algorithm takes time O(100\\times 2^{1000}) -- I can&#39;t run that.\u00a0</p>\n<p></p>\n<p>Amin, the analog for a graph algorithm is a graph with let&#39;s say 1000 vertices, 50,000 edges and edge weights but the edge weights are HUGE, e.g., they are about 1000 bits long each so on the order of 2^1000. \u00a0Maybe they are each some huge prime # for each pair of vertices. \u00a0If I run Dijkstra&#39;s algorithm on this graph and I count carefully how long each addition/multiplication takes, then the running time is O((n&#43;m)log^2n) which is great as it&#39;s polynomial in 1000 -- so no problem to run. \u00a0But my stupid proposed approach where I have a for loop over i=1--&gt;2^{1000}=MAX WEIGHT, then the running time is polynomial in 2^{1000} -- I can&#39;t use that.</p>\n<p></p>\n<p>Does that help?</p>\n<p></p>\n<p>--Eric</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-24T20:28:31Z", 
+          "uid": "idfwkf5jgsm3gg", 
+          "created": "2017-08-24T20:28:31Z", 
+          "type": "feedback", 
+          "id": "j6qwhtivrt84ts", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thank you Professor. The above example was really\u00a0helpful.</p>\n<p>I am trying to explain what I understood so far from this. Please correct me if I am wrong.</p>\n<p></p>\n<p>Computation complexity of an algorithm is to understand the impact of variation of variable values\u00a0in the algorithm, on the resources used.</p>\n<p>Now the question is,</p>\n<p><em>&#39;Is the running time polynomial in &#39;input size&#39;?&#39;</em></p>\n<p>And in case of Knapsack problem, the inputs are n and B.</p>\n<p></p>\n<p>When we compute the complexity for set of objects or count of objects, then the running time is polynomial as the granularity is linear. So the variation in input size for n\u00a0is going to have a linear impact. Here &#39;input size&#39; is count or length of set or objects.</p>\n<p></p>\n<p>But when we are considering the complexity introduced by the amount or weight which is represented as a number. The &#39;input size&#39;\u00a0of a number is measured in bits. So\u00a0the complexity is computed,\u00a0by introducing variation in number of bits required to represent the amount as that is the input size which is in terms of &#39;p&#39; where p is number of bits used to represent B which is 2^p.</p>\n<p></p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-24T20:47:09Z", 
+          "uid": "hqa65fnalg83fr", 
+          "created": "2017-08-24T20:47:09Z", 
+          "type": "feedback", 
+          "id": "j6qx5sh8ki6336", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Ok.. I guess I&#39;m convinced.<br /><br />I guess my confusion was from looking at simple algorithms like Fibonacci(X) and Factorial(X) where most text books take the number X and call it N. When in fact, by the above argument, the complexity analysis should be made on N = log X, not on N = X. Because X&#39;s input size is the number of bits, not the number itself.<br /><br />I don&#39;t think most books bother in making this distinction.\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-24T21:48:17Z", 
+          "uid": "i18w67avy8e1uk", 
+          "created": "2017-08-24T21:48:17Z", 
+          "type": "feedback", 
+          "id": "j6qzce44w322p6", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#64;Amin I think of\u00a0the given maximum capacity, <strong>B</strong>, can be arbitrarily LARGE. In Professor Eric&#39;s example, that LARGE number is represented by $$2^{1000}$$. The key is O(n *\u00a0<strong>B</strong>), where <strong>B</strong>\u00a0can be LARGE.\u00a0In the pseudocode, we will have to loop\u00a0over <strong>B</strong>\u00a0iterations. So, regardless if you pass in number of bits\u00a0to represent the LARGE value\u00a0or pass in the actual LARGE value itself, the argument still holds. I don&#39;t see a distinction there.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-25T00:33:39Z", 
+          "uid": "hqa65fnalg83fr", 
+          "created": "2017-08-25T00:33:39Z", 
+          "type": "feedback", 
+          "id": "j6r592m7mfh7kt", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#64;shihgian so what? N can be arbitrarily large as well. The argument is not on the largeness but on the relation between N and the growth rate of the time. If you pass \u00a0$$2^{1000}$$ items in an O(N) function, its going to take a HUGE amount of time as well.\u00a0<br /><br />But that&#39;s not the beef. The argument is whether you consider B to be the basis of comparison. Ie. T(N,B) is\u00a0O(N*B) \u00a0or if you consider Log B to be your basis, Ie. T(N,logB) is O(N*B). In the later case, it would be more common to write it as T(N, b) in O(N*$$2^{b}$$). In that case its exponential for sure. Because as the number of bits b changes, the problem grows exponentially with regard to the bits. (And that is, as I understand it the argument the professor is making)<br /><br /><br /></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-25T04:09:56Z", 
+          "uid": "i18w67avy8e1uk", 
+          "created": "2017-08-25T04:09:56Z", 
+          "type": "feedback", 
+          "id": "j6rcz74onsy2jn", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#64;Amin Yes, faster growth rate is a more appropriate term. All these times we have been talking about N grows linearly and I thought that was clear.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-25T05:43:18Z", 
+          "uid": "idej2kl6hh1", 
+          "created": "2017-08-25T05:43:18Z", 
+          "type": "feedback", 
+          "id": "j6rgb9xe9iuz", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>This issue is confusing me too.\u00a0I figured that &#34;input size&#34; would mean the number of rows and the number of columns in our table, since we have to do O(1) calculations for each cell. So if B goes from $$2^{32}$$ to\u00a0$$2^{32} &#43; 1$$ that would be another n calculations. I might need 33\u00a0bits to represent all the possible values of B now, but I don&#39;t need to do $$2^{33} \\times n$$ calculations.</p>\n<p></p>\n<p>If &#34;input size&#34;\u00a0just means the number of bits used to represent a particular variable, I think it should be specified as such so it&#39;s clear.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-25T06:32:36Z", 
+          "uid": "hqa65fnalg83fr", 
+          "created": "2017-08-25T06:32:36Z", 
+          "type": "feedback", 
+          "id": "j6ri2o8itbw5ft", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#64;Chris for knapsack the &#34;input size&#34; N refers to the number of items available for the knapsack. The table is just a side effect of the algorithm, not an input.<br /><br /><br /></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-25T11:53:36Z", 
+          "uid": "idej2kl6hh1", 
+          "created": "2017-08-25T11:53:36Z", 
+          "type": "feedback", 
+          "id": "j6rtjhjdpo31fy", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#64;Amin I was just using the table as a visual tool to count the number of calculations.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-25T22:40:01Z", 
+          "uid": "idg5nm2lC96", 
+          "created": "2017-08-25T22:40:01Z", 
+          "type": "feedback", 
+          "id": "j6sgmrygbj7et", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I may be beating a dead horse, but here&#39;s how I understood it (I skimmed some of the posts above, and so if I\u00a0miss some details, my apology):</p>\n<p></p>\n<p>Typically B is very large otherwise the problem becomes trivial (but this aspect is not important, as we&#39;ll see soon). Although\u00a0$$v_i$$ and $$w_i$$ can be very large, they are typically \u00a0$$\\leq$$\u00a064 bits (or $$\\leq$$ 32 bits) and so, although each is technically $$O(log\\ n)$$, we can safely say that each is $$O(1)$$. There are $$2n$$ of them, and so they&#39;re $$O(n)$$ (and thus, it really doesn&#39;t matter if there are $$2^{1000}$$ of $$v_i$$s or $$w_i$$s, it&#39;s still $$O(n)$$). The problem is centered around B. Because B tends to be very large, we can&#39;t fairly say that it&#39;s $$O(1)$$, and so, instead, we measure it by how many bits B may occupy, and thus B is $$O(log\\ n)$$. Putting it together, the input size is $$O(n)$$ and $$O(log\\ n)$$. However, as we have seen, the knapsack algorithm takes $$O(nB)$$, which is exponential in\u00a0the input size.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-25T22:56:00Z", 
+          "uid": "hqa65fnalg83fr", 
+          "created": "2017-08-25T22:56:00Z", 
+          "type": "feedback", 
+          "id": "j6sh7cbsxrvnz", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>.</p>\n<p></p>\n<p>What you have to do is define &#34;input&#34;.</p>\n<p></p>\n<p>So given an algorithm:</p>\n<p></p>\n<p>knapsack( v[1..n], w[1..n], B)</p>\n<p></p>\n<p>The inputs are:</p>\n<p></p>\n<p>an array v of values</p>\n<p>an array w of weights</p>\n<p>a maximum weight B</p>\n<p></p>\n<p>There is a function T that characterizes its performance. That function looks like this:</p>\n<p></p>\n<p>T(N, b) = ....\u00a0</p>\n<p></p>\n<p>Where N is the number of items in v and w. And b is the number of bits in B.</p>\n<p></p>\n<p>Then we say that\u00a0<br /><br />\u00a0$$T(N,b) \\epsilon O(N * 2^{b})$$</p>\n<p></p>\n<p>So if\u00a0$$2^{b}$$ is B then:<br /><br /></p>\n<p>\u00a0$$T(N,b) \\epsilon O(N * B)$$</p>\n<p></p>\n<p>Before you can define Big-O you need to define what you are quantifying. We&#39;re quantifying the function T() that characterizes the performance of the knapsack() algorithm.<br /><br />In fact T() is probably something like this:<br /><br />$$T(N,b) = c_{1} &#43; c_{2}*N &#43; c_{3}*N*2^{b}$$</p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-26T10:18:05Z", 
+          "uid": "i8597qyse9c1v2", 
+          "created": "2017-08-26T10:18:05Z", 
+          "type": "feedback", 
+          "id": "j6t5ki6ahe58j", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>if we have input sizes S1=O(n)\u00a0and S2=O(log2\u00a0B), and our algorithm has time complexity O(nB)</p>\n<p></p>\n<p>this same complexity can be written as a relationship to the input size:</p>\n<p></p>\n<p>O(nB) = O( (c1*S1&#43;c0) * (k1*2^S2&#43;k0) )</p>\n<p></p>\n<p>which holds for c1 = 1, c0 = 0, k1 = 1, and k0 = 0. I think setting\u00a0these constants this way shows how we are representing both a linear model and an exponential model.</p>\n<p></p>\n<p>Specifically, S2 is the number of bits. As the number of bits gets linearly larger, the number of instructions needed to process these bits become exponentially larger.</p>\n<p></p>\n<p>Notice that while the sequence of values (say the weights) gets linearly larger,\u00a0the number of instructions needed to process these values remains constant.</p>\n<p></p>\n<p>Now I beat this to death.</p>\n<p></p>\n<p>Pedro</p>"
+        }
+      ], 
+      "subject": "<p>I am not following the argument about B in the runtime complexity. Why all of a sudden are we discussing bits for B but not for any other input to this algo or any other algo? If we are discussing bits for B couldn&#39;t the same argument be made for n in this problem or any other problem and then claim that a simple loop that runs n times is exponential?</p>\n<p></p>\n<p>I am definitely missing something here. Thanks in advance for your help.</p>"
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-01T09:41:24Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j71owfpd3518h", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "To add an additional perspective; in Sipser (3rd Ed, p.287) he says\n\n&#34;One point that requires attention is the encoding method used for problems. We continue to use the angle-bracket notation $$\\langle \\cdot \\rangle$$ to indicate a reasonable encoding of one or more objects into a string, without specifying any particular encoding method. Now, a reasonable method is one that allows for polynomial time encoding and decoding of objects into natural internal representations or into other reasonable encodings [ ] But note that unary notation for encoding numbers (as in the number 17 encoded by the unary string <tt>11111111111111111</tt>) isn&#39;t reasonable because it is exponentially larger than truly reasonable encodings, such as base $$k$$ notation for any $$k \\ge 2$$.&#34;\n\nSo basically according to that perspective it is part of the (small print of the) definition of P that the encoding must be reasonable.\n\nIterating over B while considering the iteration linear, would be treating B as though it had been encoded in unary.\n\nNormally, the parameter we frequently label as $$n$$ or $$N$$ could not be encoded in binary as it is the <b>size</b> of a set, when the actual input to the algorithm is the <b>content</b> of the set.", 
+          "anon": "no", 
+          "created": "2017-09-01T09:50:29Z", 
+          "uid": "i4hdvab632i522", 
+          "subject": ""
+        }, 
+        {
+          "content": "To add an additional perspective; in Sipser (3rd Ed, p.287) he says &#34;One point that requires attention is the encoding method used for problems. We continue to use the angle-bracket notation $$\\langle \\cdot \\rangle$$ to indicate a reasonable encoding of one or more objects into a string, without specifying any particular encoding method. Now, a reasonable method is one that allows for polynomial time encoding and decoding of objects into natural internal representations or into other reasonable encodings [ ] But note that unary notation for encoding numbers (as in the number 17 encoded by the unary string <tt>11111111111111111</tt>) isn&#39;t reasonable because it is exponentially larger than truly reasonable encodings, such as base $$k$$ notation for any $$k \\ge 2$$.&#34;\nSo basically according to that perspective it is part of the (small print of the) definition of P that the encoding must be reasonable. Iterating over B while considering the iteration linear, would be treating B as though it had been encoded in unary.", 
+          "anon": "no", 
+          "created": "2017-09-01T09:46:39Z", 
+          "uid": "i4hdvab632i522", 
+          "subject": ""
+        }, 
+        {
+          "content": "To add an additional perspective; in Sipser (3rd Ed, p.287) he says &#34;One point that requires attention is the encoding method used for problems. We continue to use the angle-bracket notation $$\\langle \\cdot \\rangle$$ to indicate a reasonable encoding of one or more objects into a string, without specifying any particular encoding method. Now, a reasonable method is one that allows for polynomial time encoding and decoding of objects into natural internal representations or into other reasonable encodings [ ] But note that unary notation for encoding numbers (as in the number 17 encoded by the unary string <tt>11111111111111111</tt>) isn&#39;t reasonable because it is exponentially larger than truly reasonable encodings, such as base $$k$$ notation for any $$k \\ge 2$$.&#34;\nSo basically according to that perspective it is part of the (small print of the) definition of P that the encoding must be reasonable.", 
+          "anon": "no", 
+          "created": "2017-09-01T09:41:24Z", 
+          "uid": "i4hdvab632i522", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 49, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "dynamic_programming"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 7, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "dynamic_programming", 
+    "student"
+  ], 
+  "created": "2017-08-23T08:16:44Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145322882, 
+  "tag_good": [
+    {
+      "name": "Dennis Sidharta", 
+      "admin": false, 
+      "photo": "1463366773_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "idg5nm2lC96"
+    }, 
+    {
+      "name": "Samantha Campo", 
+      "admin": false, 
+      "photo": "1452452625_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "ij7kfkx61zz365"
+    }, 
+    {
+      "name": "Nelson Cheng", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4kxfs7hlxngu"
+    }
+  ], 
+  "tag_good_arr": [
+    "idg5nm2lC96", 
+    "ij7kfkx61zz365", 
+    "i4kxfs7hlxngu"
+  ], 
+  "history": [
+    {
+      "content": "<p>If its O(nB) then why is B &#34;exponential&#34;?<br /><br />I suppose it could be arbitrarily huge. But can&#39;t N be arbitrarily huge as well?<br /><br />I don&#39;t understand that argument.<br /><br />In fact, why does it need to be polynomial in logB. That makes no sense.. It doesn&#39;t need to be polynomial in logN. So why treat B differently?<br /><br />Also for some real life problem like packing boxes into an airplane. B is going to be some finite number of tons, and packages are going to be finite weights (of course, we&#39;re ignoring volume here which is also important). I don&#39;t see how this becomes exponential in a real life problem such as this.</p>", 
+      "anon": "no", 
+      "created": "2017-08-23T09:17:56Z", 
+      "uid": "hqa65fnalg83fr", 
+      "subject": "Why is knapsack NP-complete"
+    }, 
+    {
+      "content": "<p>If its O(nB) then why is B &#34;exponential&#34;?<br /><br />I suppose it could be arbitrarily huge. But can&#39;t N be arbitrarily huge as well?<br /><br />I don&#39;t understand that argument.<br /><br />In fact, why does it need to be polynomial in logB. That makes no sense.. It doesn&#39;t need to be polynomial in logN. So why treat B differently?<br /><br /><br /></p>", 
+      "anon": "no", 
+      "created": "2017-08-23T09:12:44Z", 
+      "uid": "hqa65fnalg83fr", 
+      "subject": "Why is knapsack NP-complete"
+    }, 
+    {
+      "content": "<p>If its O(nB) then why is B &#34;exponential&#34;?<br /><br />I suppose it could be arbitrarily huge. But can&#39;t N be arbitrarily huge?<br /><br />I don&#39;t understand that argument.</p>", 
+      "anon": "no", 
+      "created": "2017-08-23T08:16:44Z", 
+      "uid": "hqa65fnalg83fr", 
+      "subject": "Why is knapsack NP-complete"
+    }
+  ]
+}

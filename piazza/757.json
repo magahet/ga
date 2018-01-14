@@ -1,0 +1,105 @@
+{
+  "status": "active", 
+  "unique_views": 143, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-19T02:54:07Z", 
+      "data": "j8xvhjqk3l91mc", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "uid": "iygbb36jk6v32l", 
+      "type": "s_answer", 
+      "when": "2017-10-19T03:01:22Z", 
+      "to": "j8xvhjqig311mb", 
+      "anon": "no", 
+      "data": "j8xvqw0m55q2n2"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-10-19T03:06:45Z", 
+      "data": "j8xvxsy84p44k4", 
+      "uid": "iygbb36jk6v32l"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8xvhjqig311mb", 
+  "bookmarked": 4, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-19T03:01:22Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j8xvqvz4wq12mz", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "Technically you can use the capacity itself, but it is difficult to eyeball it out.<div>With residual graph, once flow is maximum, it gives a min-cut by construction. Of course, it is a min-cut, not necessarily the only such cut.</div><div>We need residual graph to find the vertices reachable from s, need the capacity to find the cut size, need max flow to verify.</div><div>The short answer is all of them.</div><div><br /></div><p></p>", 
+          "anon": "no", 
+          "created": "2017-10-19T03:06:45Z", 
+          "uid": "iygbb36jk6v32l", 
+          "subject": ""
+        }, 
+        {
+          "content": "Technically you can use the capacity itself, but it is difficult to eyeball it out.<div>With residual graph, once flow is maximum, it give a min-cut by construction. Of course, it is a min-cut, not necessarily the only such cut.</div><div><br /></div>", 
+          "anon": "no", 
+          "created": "2017-10-19T03:01:22Z", 
+          "uid": "iygbb36jk6v32l", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 757, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "graph_algorithms"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 2, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "graph_algorithms", 
+    "student"
+  ], 
+  "created": "2017-10-19T02:54:07Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145137588, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>What are the criteria for cutting a residual graph?</p>\n<p>Do you use the original capacity or the max flow or both or ...?</p>", 
+      "anon": "no", 
+      "created": "2017-10-19T02:54:07Z", 
+      "uid": "i4ket0u1z5q31a", 
+      "subject": "min-cut on residual graph"
+    }
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "status": "active", 
+  "unique_views": 154, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-16T23:32:54Z", 
+      "data": "j8utf2un1synq", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j8utf2ui9hvnp", 
+      "anon": "no", 
+      "when": "2017-10-16T23:33:14Z", 
+      "type": "followup", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-16T23:34:44Z", 
+      "data": "j8uthfz6xwf2x7", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j8utf2ui9hvnp", 
+      "anon": "no", 
+      "when": "2017-10-17T00:25:29Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j8utf2ui9hvnp", 
+      "anon": "no", 
+      "when": "2017-10-17T00:59:25Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j8utf2ui9hvnp", 
+      "anon": "no", 
+      "when": "2017-10-17T07:52:08Z", 
+      "type": "feedback", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "to": "j8utf2ui9hvnp", 
+      "anon": "no", 
+      "when": "2017-10-17T13:45:21Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j8utf2ui9hvnp", 
+      "anon": "no", 
+      "when": "2017-10-17T15:04:15Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "uid": "i4hdvab632i522", 
+      "type": "s_answer", 
+      "when": "2017-10-26T14:49:35Z", 
+      "to": "j8utf2ui9hvnp", 
+      "anon": "no", 
+      "data": "j98l4ltau1l4gq"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8utf2ui9hvnp", 
+  "bookmarked": 6, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-10-16T23:33:14Z", 
+      "no_upvotes": 0, 
+      "uid": "hvil6y6khgk2ri", 
+      "created": "2017-10-16T23:33:14Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8utfii79ch16m", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-17T00:25:29Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-10-17T00:25:29Z", 
+          "type": "feedback", 
+          "id": "j8uvap8qhht368", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I know this is nit-picky, but I&#39;d either say that the runtime is $$O(m \\log n)$$ or $$O(|E| \\log |V|)$$. Basically, I&#39;d make sure to specify &#34;length of V&#34; and &#34;length of E&#34;.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-17T00:59:25Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-10-17T00:59:25Z", 
+          "type": "feedback", 
+          "id": "j8uwico7rc0144", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>ahhhhh ok then, thanks!</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-17T07:52:08Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-10-17T07:52:08Z", 
+          "type": "feedback", 
+          "id": "j8vb93o4bae3k1", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "CLRS say they use O(E) / O(V) etcetera only in the graph chapters as meaning O(|E|), O(|V|) etcetera, so it&#39;s understandable"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-17T13:45:21Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-10-17T13:45:21Z", 
+          "type": "feedback", 
+          "id": "j8vnvc8zx5i4wb", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "As Santiago said, use O(|E|log|V|) since |E| is the size of the set -- it&#39;s a number.\nWhereas E is the whole set so saying O(ElogV) doesn&#39;t make sense.\nUsing O(mlogn) is good too.\n\nThe other thing to remember is that Dijkstra&#39;s outputs the length of the shortest paths from s to every other vertex.\nIt doesn&#39;t do all-pairs shortest paths."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-17T15:04:15Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-10-17T15:04:15Z", 
+          "type": "feedback", 
+          "id": "j8vqosxb2bc1j9", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thanks Dr. Vigoda!</p>"
+        }
+      ], 
+      "subject": "<p>My Answer:</p>\n<p></p>\n<p>A)\u00a0\u00a0\u00a0\u00a0\u00a0 The input to Dijkstra\u2019s algorithm is a graph G(E, V), positive edge lengths for every edge (which we will use to minimize) and a source vertex s.</p>\n<p>B)\u00a0\u00a0\u00a0\u00a0\u00a0 The runtime of Dijkstra\u2019s algorithm is O(E log (v))</p>\n<p>C:</p>\n<p>The main idea of Dijkstra\u2019s algorithm is to find the shortest path of each vertex to the source vertex s. How it specifically works is it maintains a list of all vertices and their distance from the source (source initialized to 0, all others infinity) (list A), a list of parent-child relationships (list B), and a list of final vertex distances to the source (list C). A vertex (starting with the source) is popped off list A (according to the smallest distance in list A) and then has its neighbors scanned and lengths checked (which will be the checked vertex\u2019s known distance to the source plus the distance from this vertex to the neighbor); if this length is less than the current length (in list A), that length is recorded in list A (replacing what is there) and the parent-child in list B is updated. This repeats until there are no more vertices in list A.</p>\n<p></p>"
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-26T14:49:35Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j98l4lt5bz14gp", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "Marking as resolved", 
+          "anon": "no", 
+          "created": "2017-10-26T14:49:35Z", 
+          "uid": "i4hdvab632i522", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 739, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "exam", 
+    "graph_algorithms"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 8, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "exam", 
+    "graph_algorithms", 
+    "student"
+  ], 
+  "created": "2017-10-16T23:32:54Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145144427, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>Hi All,</p>\n<p>\u00a0</p>\n<p>I wanted to start a post for each practice problem. This one is for the first practice problem on hw4 (no official book problem #).\u00a0 I will include the question here and then my solution in the comments - I would appreciate if a few people could validate it.\u00a0 If we can come to a consensus, we can indicate its solved in the students (or instructors?) section.</p>\n<p>\u00a0</p>\n<p>Problem 1 (From HW4, Practice Problems):</p>\n<p></p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/hvil6y6khgk2ri/j8utet1fh1s1/hw4.1.jpg\" alt=\"\" /></p>", 
+      "anon": "no", 
+      "created": "2017-10-16T23:34:44Z", 
+      "uid": "hvil6y6khgk2ri", 
+      "subject": "Practice Problem (HW4) #1 (Dijkstra&#39;s Algorithm)"
+    }, 
+    {
+      "content": "<p>Hi All,</p>\n<p>\u00a0</p>\n<p>I wanted to start a post for each practice problem. This one is for 3.8.\u00a0 I will include the question here and then my solution in the comments - I would appreciate if a few people could validate it.\u00a0 If we can come to a consensus, we can indicate its solved in the students (or instructors?) section.</p>\n<p>\u00a0</p>\n<p>Problem 1 (From HW4, Practice Problems):</p>\n<p></p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/hvil6y6khgk2ri/j8utet1fh1s1/hw4.1.jpg\" alt=\"\" /></p>", 
+      "anon": "no", 
+      "created": "2017-10-16T23:32:54Z", 
+      "uid": "hvil6y6khgk2ri", 
+      "subject": "Practice Problem (HW4) #1 (Dijkstra&#39;s Algorithm)"
+    }
+  ]
+}

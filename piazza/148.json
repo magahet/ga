@@ -1,0 +1,123 @@
+{
+  "status": "active", 
+  "unique_views": 197, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "stud", 
+      "when": "2017-09-02T11:58:58Z", 
+      "data": "j73997kojkga8"
+    }, 
+    {
+      "type": "update", 
+      "anon": "stud", 
+      "when": "2017-09-02T11:59:15Z", 
+      "data": "j7399khtbt5nt"
+    }, 
+    {
+      "uid": "i4mub6lmaxh", 
+      "type": "s_answer", 
+      "when": "2017-09-02T12:09:24Z", 
+      "to": "j73997km3u8a7", 
+      "anon": "no", 
+      "data": "j739mm3yu5b2mt"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j73997km3u8a7", 
+  "bookmarked": 2, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-02T12:09:24Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [
+        "ijaqo3bm4133g3", 
+        "i4j6wygy4l46wq"
+      ], 
+      "id": "j739mlzkfsp2mq", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Xinyu Wang", 
+          "admin": true, 
+          "photo": null, 
+          "us": false, 
+          "role": "ta", 
+          "facebook_id": null, 
+          "id": "ijaqo3bm4133g3"
+        }, 
+        {
+          "name": "Russell McDiffett", 
+          "admin": false, 
+          "photo": null, 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i4j6wygy4l46wq"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>The questions are in the template on that page:</p>\n<p><a href=\"https://www.cc.gatech.edu/~vigoda/6505/DP-hw-template.pdf\">https://www.cc.gatech.edu/~vigoda/6505/DP-hw-template.pdf</a></p>\n<p></p>\n<p></p>", 
+          "anon": "no", 
+          "created": "2017-09-02T12:09:24Z", 
+          "uid": "i4mub6lmaxh", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 148, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw1"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 0, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw1", 
+    "student"
+  ], 
+  "created": "2017-09-02T11:58:58Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145291454, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>All, I am a bit confused where to see the HW1 problems, beside the simple description on <a href=\"https://8803ga.wordpress.com/hw1/\">https://8803ga.wordpress.com/hw1/</a></p>\n<p><tt>Homework problems to turn in (PDF is below):</tt></p>\n<ol><li>\n<p><tt>Palindrome\u00a0substring\u00a0.</tt></p>\n</li><li>\n<p><tt>Max-product.</tt></p>\n</li><li>\n<p><tt>Change making variant.</tt></p>\n</li></ol>\n<p></p>\n<p></p>\n<p></p>", 
+      "anon": "stud", 
+      "created": "2017-09-02T11:59:15Z", 
+      "subject": "Where to see the questions for HW1"
+    }, 
+    {
+      "content": "<p>All, I am a bit confused where to see the HW1 problems, beside the simple description on <a href=\"https://8803ga.wordpress.com/hw1/\">https://8803ga.wordpress.com/hw1/</a></p>\n<pre>Homework problems to turn in (PDF is below):</pre>\n<ol><li>\n<pre>Palindrome\u00a0substring\u00a0.</pre>\n</li><li>\n<pre>Max-product.</pre>\n</li><li>\n<pre>Change making variant.</pre>\n</li></ol>\n<p></p>\n<p></p>\n<p></p>", 
+      "anon": "stud", 
+      "created": "2017-09-02T11:58:58Z", 
+      "subject": "Where to see the questions for HW1"
+    }
+  ]
+}

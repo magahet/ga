@@ -1,0 +1,721 @@
+{
+  "status": "active", 
+  "unique_views": 151, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-27T15:01:19Z", 
+      "data": "j9a0zjx0jog1vb", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j9a0zjwxc11va", 
+      "anon": "no", 
+      "when": "2017-10-27T15:13:31Z", 
+      "type": "followup", 
+      "uid": "i4iqvrxeAWr"
+    }, 
+    {
+      "to": "j9a0zjwxc11va", 
+      "anon": "no", 
+      "when": "2017-10-27T15:13:43Z", 
+      "type": "feedback", 
+      "uid": "i4g1slpjbgk6g0"
+    }, 
+    {
+      "to": "j9a0zjwxc11va", 
+      "anon": "no", 
+      "when": "2017-10-27T15:15:21Z", 
+      "type": "feedback", 
+      "uid": "hve4k9bj2u4qu"
+    }, 
+    {
+      "to": "j9a0zjwxc11va", 
+      "anon": "no", 
+      "when": "2017-10-27T15:20:55Z", 
+      "type": "followup", 
+      "uid": "hv5exp71kfz754"
+    }, 
+    {
+      "to": "j9a0zjwxc11va", 
+      "anon": "no", 
+      "when": "2017-10-27T15:29:10Z", 
+      "type": "followup", 
+      "uid": "hvvxmpxfuyb2eo"
+    }, 
+    {
+      "to": "j9a0zjwxc11va", 
+      "anon": "no", 
+      "when": "2017-10-27T15:31:01Z", 
+      "type": "followup", 
+      "uid": "hz46706oA2e"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-27T15:33:50Z", 
+      "data": "j9a25dc3g7t7h4", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j9a0zjwxc11va", 
+      "anon": "no", 
+      "when": "2017-10-27T15:40:21Z", 
+      "type": "followup", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j9a0zjwxc11va", 
+      "anon": "no", 
+      "when": "2017-10-27T15:54:45Z", 
+      "type": "followup", 
+      "uid": "hvduxyr7r4s6q7"
+    }, 
+    {
+      "to": "j9a0zjwxc11va", 
+      "anon": "no", 
+      "when": "2017-10-27T16:01:17Z", 
+      "type": "followup", 
+      "uid": "idi5567wFgu"
+    }, 
+    {
+      "to": "j9a0zjwxc11va", 
+      "anon": "no", 
+      "when": "2017-10-27T16:17:33Z", 
+      "type": "followup", 
+      "uid": "hqa9hei3ww2gk"
+    }, 
+    {
+      "to": "j9a0zjwxc11va", 
+      "anon": "no", 
+      "when": "2017-10-27T17:19:41Z", 
+      "type": "feedback", 
+      "uid": "ija2ufzr6l0f7"
+    }, 
+    {
+      "to": "j9a0zjwxc11va", 
+      "anon": "no", 
+      "when": "2017-10-27T17:31:54Z", 
+      "type": "followup", 
+      "uid": "i4ket0u1z5q31a"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j9a0zjwxc11va", 
+  "bookmarked": 14, 
+  "tags": [
+    "logistics", 
+    "student"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-10-27T15:13:31Z", 
+      "no_upvotes": 0, 
+      "uid": "i4iqvrxeAWr", 
+      "created": "2017-10-27T15:13:31Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j9a1f8qbsjw3kv", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-27T15:13:43Z", 
+          "uid": "i4g1slpjbgk6g0", 
+          "created": "2017-10-27T15:13:43Z", 
+          "type": "feedback", 
+          "id": "j9a1fi19vp95t5", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Agreed, very impressive.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-27T15:15:21Z", 
+          "uid": "hve4k9bj2u4qu", 
+          "created": "2017-10-27T15:15:21Z", 
+          "type": "feedback", 
+          "id": "j9a1hlri60q6q8", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Yes, thank you.\u00a0</p>"
+        }
+      ], 
+      "subject": "Yes. Thanks to the TAs who had to grind through those exams. I really appreciated the effort and will benefit from it. \u00a0See you in the spring semester!"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-27T15:20:55Z", 
+      "no_upvotes": 0, 
+      "uid": "hv5exp71kfz754", 
+      "created": "2017-10-27T15:20:55Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j9a1or6186d5er", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>Thanks TAs and prof for going above and beyond.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-27T15:29:10Z", 
+      "no_upvotes": 0, 
+      "uid": "hvvxmpxfuyb2eo", 
+      "created": "2017-10-27T15:29:10Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j9a1zddr9gy4r5", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>Thanks prof and TAs for tirelessly working to release the grades. Much appreciated.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-27T15:31:01Z", 
+      "no_upvotes": 0, 
+      "uid": "hz46706oA2e", 
+      "created": "2017-10-27T15:31:01Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j9a21r9zf8t4uk", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>Agreed - the prompt grading is much appreciated!\u00a0 Thanks for all of the hard work!</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-27T15:40:21Z", 
+      "no_upvotes": 0, 
+      "uid": "hq8hn0qyfuvyr", 
+      "created": "2017-10-27T15:40:21Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j9a2dr0j5dt15s", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>Thank you!</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-27T15:54:45Z", 
+      "no_upvotes": 0, 
+      "uid": "hvduxyr7r4s6q7", 
+      "created": "2017-10-27T15:54:45Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j9a2w9k06cd5q2", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>Thanks! This has been an extremely well run course. Nothing else has compared.\u00a0</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-27T16:01:17Z", 
+      "no_upvotes": 0, 
+      "uid": "idi5567wFgu", 
+      "created": "2017-10-27T16:01:17Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j9a34o2hgba35h", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-27T17:19:41Z", 
+          "uid": "ija2ufzr6l0f7", 
+          "created": "2017-10-27T17:19:41Z", 
+          "type": "feedback", 
+          "id": "j9a5xho4snd4a7", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#43;1</p>"
+        }
+      ], 
+      "subject": "<p>Very much appreciated. Thank you so much for returning grades so quickly.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-27T16:17:33Z", 
+      "no_upvotes": 0, 
+      "uid": "hqa9hei3ww2gk", 
+      "created": "2017-10-27T16:17:33Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j9a3plfk1qx6rh", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>Concur with all the others here that the prof and TAs have been top notch so far in this class and really put in a lot of effort. I&#39;ve taken 9 classes so far and this has been one of the most challenging but also one of best supported classes so far. \u00a0</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-27T17:31:54Z", 
+      "no_upvotes": 0, 
+      "uid": "i4ket0u1z5q31a", 
+      "created": "2017-10-27T17:31:54Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j9a6d7tz6ol58h", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>&#43;1, Thank-you professor and TA&#39;s for your hard work.</p>"
+    }
+  ], 
+  "nr": 841, 
+  "bucket_order": 2, 
+  "type": "note", 
+  "folders": [
+    "logistics"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 0, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-10-27T15:01:19Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145120138, 
+  "tag_good": [
+    {
+      "name": "Brian Xia", 
+      "admin": false, 
+      "photo": "1442808197_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "idjrfx2fR1Z"
+    }, 
+    {
+      "name": "Marco Nogueira", 
+      "admin": false, 
+      "photo": "1447386526_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "idfg8h1szdc1lu"
+    }, 
+    {
+      "name": "Santiago L. Valdarrama", 
+      "admin": false, 
+      "photo": "1453997258_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4nkipeofrkrz"
+    }, 
+    {
+      "name": "Michael Buss", 
+      "admin": false, 
+      "photo": "1435529089_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hz0pn3deX7A"
+    }, 
+    {
+      "name": "Salman Faiz Cheema", 
+      "admin": false, 
+      "photo": "1480944135_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i9jo0dmat4G"
+    }, 
+    {
+      "name": "Ronny A. Pe\u00f1a", 
+      "admin": false, 
+      "photo": "1439924476_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hyzzr9z7x6a1mz"
+    }, 
+    {
+      "name": "Chris Anderson", 
+      "admin": false, 
+      "photo": "1408759905_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hz07uekkjnrpb"
+    }, 
+    {
+      "name": "Jason Buoni", 
+      "admin": false, 
+      "photo": "1463440659_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "name": "Di Wang", 
+      "admin": false, 
+      "photo": "1453179229_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "ija2ufzr6l0f7"
+    }, 
+    {
+      "name": "Soe Naing", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4pmksfnape"
+    }, 
+    {
+      "name": "Mike Fullen", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "idgk9rl6Wdv"
+    }, 
+    {
+      "name": "Josh Clum", 
+      "admin": false, 
+      "photo": "1431566311_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hve4k9bj2u4qu"
+    }, 
+    {
+      "name": "Geoffrey Sizemore", 
+      "admin": false, 
+      "photo": "1431901103_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hq73eu599lv"
+    }, 
+    {
+      "name": "Gregory Bell", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hq9zldzvy63w7"
+    }, 
+    {
+      "name": "Gautam Venkataramanan", 
+      "admin": false, 
+      "photo": "1447185933_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hvvxmpxfuyb2eo"
+    }, 
+    {
+      "name": "Dennis Sidharta", 
+      "admin": false, 
+      "photo": "1463366773_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "idg5nm2lC96"
+    }, 
+    {
+      "name": "MarkBenjamin1@gatech.edu", 
+      "admin": false, 
+      "photo": "1420465436_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4hdvab632i522"
+    }, 
+    {
+      "name": "abarysevich", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4t8eakz3ex6lk"
+    }, 
+    {
+      "name": "Michael Simpson", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4jridi579yhq"
+    }, 
+    {
+      "name": "Greg", 
+      "admin": false, 
+      "photo": "1464416700_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "ij832p58ncG"
+    }, 
+    {
+      "name": "Bhavani Subramanian", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "ijawb89brbO"
+    }, 
+    {
+      "name": "Jesse Peinado", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "iddoy2bdneb2tv"
+    }, 
+    {
+      "name": "Patrick Miller", 
+      "admin": false, 
+      "photo": "1463931616_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i8597yy2i2f1z6"
+    }, 
+    {
+      "name": "Nate Craun", 
+      "admin": false, 
+      "photo": "1471974882_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "is6gi1lcscq4yp"
+    }, 
+    {
+      "name": "Conor Cahill", 
+      "admin": false, 
+      "photo": "1420377819_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4gzn4buf4Q"
+    }, 
+    {
+      "name": "Ed Pimentel", 
+      "admin": false, 
+      "photo": "1421987771_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hyv35odtttv79h"
+    }, 
+    {
+      "name": "Justin Hsu", 
+      "admin": false, 
+      "photo": "1424709212_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hgrznypri5h"
+    }, 
+    {
+      "name": "Zack Gow", 
+      "admin": false, 
+      "photo": "1476241357_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hyzyc8nwswo6z5"
+    }, 
+    {
+      "name": "Rishikesh Kulkarni", 
+      "admin": false, 
+      "photo": "1422222032_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4kd2g0n8rw3f6"
+    }, 
+    {
+      "name": "Brandon Odegard", 
+      "admin": false, 
+      "photo": "1472181622_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hva99lc8rtt5zp"
+    }, 
+    {
+      "name": "Daniel Morris", 
+      "admin": false, 
+      "photo": "1471813923_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "is52ojuybmv5er"
+    }, 
+    {
+      "name": "Blaine Spear", 
+      "admin": false, 
+      "photo": "1494887789_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "idfwkujs17e3ky"
+    }, 
+    {
+      "name": "vennela kodali", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": "100001272977115", 
+      "id": "i4jbtxqavqb3r0"
+    }, 
+    {
+      "name": "Chris Curran", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hz3xzg3uwdmpt"
+    }
+  ], 
+  "tag_good_arr": [
+    "idjrfx2fR1Z", 
+    "idfg8h1szdc1lu", 
+    "i4nkipeofrkrz", 
+    "hz0pn3deX7A", 
+    "i9jo0dmat4G", 
+    "hyzzr9z7x6a1mz", 
+    "hz07uekkjnrpb", 
+    "ijbr5ddtwyt6pa", 
+    "ija2ufzr6l0f7", 
+    "i4pmksfnape", 
+    "idgk9rl6Wdv", 
+    "hve4k9bj2u4qu", 
+    "hq73eu599lv", 
+    "hq9zldzvy63w7", 
+    "hvvxmpxfuyb2eo", 
+    "idg5nm2lC96", 
+    "i4hdvab632i522", 
+    "i4t8eakz3ex6lk", 
+    "i4jridi579yhq", 
+    "ij832p58ncG", 
+    "ijawb89brbO", 
+    "iddoy2bdneb2tv", 
+    "i8597yy2i2f1z6", 
+    "is6gi1lcscq4yp", 
+    "i4gzn4buf4Q", 
+    "hyv35odtttv79h", 
+    "hgrznypri5h", 
+    "hyzyc8nwswo6z5", 
+    "i4kd2g0n8rw3f6", 
+    "hva99lc8rtt5zp", 
+    "is52ojuybmv5er", 
+    "idfwkujs17e3ky", 
+    "i4jbtxqavqb3r0", 
+    "hz3xzg3uwdmpt"
+  ], 
+  "history": [
+    {
+      "content": "<p>Hi All,</p>\n<p></p>\n<p>Just wanted to say &#39;thanks&#39; to Dr. Vigoda and the TAs who got this exam graded before the W deadline.\u00a0 It took considerable effort, and we are grateful for putting aside time to do this within 5 days.</p>\n<p></p>\n<p>Thanks,</p>\n<p>Brent</p>", 
+      "anon": "no", 
+      "created": "2017-10-27T15:33:50Z", 
+      "uid": "hvil6y6khgk2ri", 
+      "subject": "Thanks For Getting Grades Before the Withdraw Deadline!"
+    }, 
+    {
+      "content": "<p>Hi All,</p>\n<p></p>\n<p>Just wanted to say &#39;thanks&#39; to Dr. Vigoda and the TAs who got this exam graded before the W deadline.\u00a0 It took considerable effort, and we are grateful for putting aside tiem to do this within 5 days.</p>\n<p></p>\n<p>Thanks,</p>\n<p>Brent</p>", 
+      "anon": "no", 
+      "created": "2017-10-27T15:01:19Z", 
+      "uid": "hvil6y6khgk2ri", 
+      "subject": "Thanks For Getting Grades Before the Withdraw Deadline!"
+    }
+  ]
+}

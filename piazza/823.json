@@ -1,0 +1,588 @@
+{
+  "status": "active", 
+  "unique_views": 216, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-26T16:24:00Z", 
+      "data": "j98oi1818ey75d", 
+      "uid": "ij7curo6tdo360"
+    }, 
+    {
+      "to": "j98oi17y86v75c", 
+      "anon": "no", 
+      "when": "2017-10-26T16:29:17Z", 
+      "type": "followup", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j98oi17y86v75c", 
+      "anon": "no", 
+      "when": "2017-10-26T16:29:59Z", 
+      "type": "followup", 
+      "uid": "hve4kb0lopy4sl"
+    }, 
+    {
+      "to": "j98oi17y86v75c", 
+      "anon": "no", 
+      "when": "2017-10-26T16:30:52Z", 
+      "type": "feedback", 
+      "uid": "ij7curo6tdo360"
+    }, 
+    {
+      "to": "j98oi17y86v75c", 
+      "anon": "no", 
+      "when": "2017-10-26T16:54:56Z", 
+      "type": "feedback", 
+      "uid": "hve4kb0lopy4sl"
+    }, 
+    {
+      "to": "j98oi17y86v75c", 
+      "anon": "no", 
+      "when": "2017-10-26T16:55:43Z", 
+      "type": "feedback", 
+      "uid": "ijjd1u5dbTq"
+    }, 
+    {
+      "to": "j98oi17y86v75c", 
+      "anon": "no", 
+      "when": "2017-10-26T17:03:46Z", 
+      "type": "feedback", 
+      "uid": "hve4kb0lopy4sl"
+    }, 
+    {
+      "to": "j98oi17y86v75c", 
+      "anon": "no", 
+      "when": "2017-10-26T17:06:56Z", 
+      "type": "feedback", 
+      "uid": "ij7curo6tdo360"
+    }, 
+    {
+      "to": "j98oi17y86v75c", 
+      "anon": "no", 
+      "when": "2017-10-26T17:08:58Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j98oi17y86v75c", 
+      "anon": "no", 
+      "when": "2017-10-26T17:12:38Z", 
+      "type": "feedback", 
+      "uid": "ijjd1u5dbTq"
+    }, 
+    {
+      "to": "j98oi17y86v75c", 
+      "anon": "no", 
+      "when": "2017-10-26T17:17:32Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j98oi17y86v75c", 
+      "anon": "no", 
+      "when": "2017-10-26T17:18:05Z", 
+      "type": "feedback", 
+      "uid": "idgauptz2ou3po"
+    }, 
+    {
+      "to": "j98oi17y86v75c", 
+      "anon": "no", 
+      "when": "2017-10-26T17:18:13Z", 
+      "type": "feedback", 
+      "uid": "ij7curo6tdo360"
+    }, 
+    {
+      "to": "j98oi17y86v75c", 
+      "anon": "no", 
+      "when": "2017-10-26T17:19:42Z", 
+      "type": "followup", 
+      "uid": "hz0f837zrvz4rn"
+    }, 
+    {
+      "to": "j98oi17y86v75c", 
+      "anon": "no", 
+      "when": "2017-10-26T17:19:48Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j98oi17y86v75c", 
+      "anon": "no", 
+      "when": "2017-10-26T17:20:17Z", 
+      "type": "feedback", 
+      "uid": "ij7curo6tdo360"
+    }, 
+    {
+      "to": "j98oi17y86v75c", 
+      "anon": "no", 
+      "when": "2017-10-26T17:25:36Z", 
+      "type": "feedback", 
+      "uid": "ijjd1u5dbTq"
+    }, 
+    {
+      "to": "j98oi17y86v75c", 
+      "anon": "no", 
+      "when": "2017-10-26T17:49:41Z", 
+      "type": "feedback", 
+      "uid": "hv8z1thijfq6ns"
+    }, 
+    {
+      "to": "j98oi17y86v75c", 
+      "anon": "no", 
+      "when": "2017-10-26T17:56:20Z", 
+      "type": "feedback", 
+      "uid": "hz0f837zrvz4rn"
+    }, 
+    {
+      "to": "j98oi17y86v75c", 
+      "anon": "no", 
+      "when": "2017-10-27T07:54:21Z", 
+      "type": "feedback", 
+      "uid": "hqj2wfy7NUZ"
+    }
+  ], 
+  "id": "j98oi17y86v75c", 
+  "bookmarked": 10, 
+  "tags": [
+    "logistics", 
+    "polls", 
+    "student"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-10-26T16:29:17Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "hvil6y6khgk2ri", 
+      "created": "2017-10-26T16:29:17Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j98oottzjds1zo", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-26T16:55:43Z", 
+          "uid": "ijjd1u5dbTq", 
+          "created": "2017-10-26T16:55:43Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j98pmtiiek6io", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>10/10 here as well Brent! In the home stretch. Definitely not going to stop but I am concerned that I&#39;m right on the threshold.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-26T17:03:46Z", 
+          "uid": "hve4kb0lopy4sl", 
+          "created": "2017-10-26T17:03:46Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j98px62ty1b2d9", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>yup, me too about threshold concern, never been so close before.\u00a0 Although I really wonder if prof V wants to see half of us back again next semester :)\u00a0 I would definitely not take the decision to withdraw too lightly as prof has already said that grades will be curved, he just can&#39;t say how much yet.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-26T17:06:56Z", 
+          "uid": "ij7curo6tdo360", 
+          "created": "2017-10-26T17:06:56Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j98q18o3ff6m1", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>That&#39;s what I&#39;m thinking...I&#39;m just stressing because this is my last class, and my GPA is at 3.0.</p>\n<p></p>\n<p>If I get a grade lower than a &#39;B&#39;. I&#39;m screwed.\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-26T17:08:58Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-10-26T17:08:58Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j98q3vb9gv6601", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Hmmmm that is a pickle, Diego.\u00a0 I can probably eat one or maybe even two Cs, but if I was in your position...eh would be harder.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-26T17:12:38Z", 
+          "uid": "ijjd1u5dbTq", 
+          "created": "2017-10-26T17:12:38Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j98q8ktm47y6ex", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Isn&#39;t this a core course so a B is required?"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-26T17:17:32Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-10-26T17:17:32Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j98qevhbuj965g", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>TBH I withdrew from CCA because I didnt want to get a C and then go to a new class. Withdrawing in your situation is a bit different, IMO, and I would consider it myself.</p>\n<p></p>\n<p>This is a core so you do need a B here; that said, some may be in the position to take a C here, come back next semester, and get a B.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-26T17:18:05Z", 
+          "uid": "idgauptz2ou3po", 
+          "created": "2017-10-26T17:18:05Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j98qflaxh6s31e", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "&#64;JC With a 3.0 GPA, getting a C would mean he&#39;d need to take two classes to bring his GPA back up to the minimum 3.0 requirement.<p></p><div><br /></div><div>Well maybe not. Depends.\u00a0</div>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-26T17:18:13Z", 
+          "uid": "ij7curo6tdo360", 
+          "created": "2017-10-26T17:18:13Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j98qfrfv5uq6gq", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Yes it is JC. However, I cannot afford to get a &#39;C&#39;. Otherwise my will GPA fall below 3.0.</p>\n<p></p>\n<p>Since there is &#39;no-repeat and delete&#39; rule, the &#39;C&#39; will be include in my GPA. So let&#39;s say I risk it and stay enrolled in Fall 2017, but I get a &#39;C&#39;. I take the class again in Spring 2018 and pass. My GPA may be under 3.0 still, thus forcing me to take more classes to improve my GPA so I can meet the GPA requirement.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-26T17:19:48Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-10-26T17:19:48Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j98qhsazqetn7", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Well Diego look at it this way....if you W, you have the project done, and you are familiar with 2/3 of the material. You can come back and A) will not need to put further work on the project (and if there is a second project, all the better) and B) you will not struggle with the material as much.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-26T17:20:17Z", 
+          "uid": "ij7curo6tdo360", 
+          "created": "2017-10-26T17:20:17Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j98qierhuxwb0", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Very True Brent.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-26T17:25:36Z", 
+          "uid": "ijjd1u5dbTq", 
+          "created": "2017-10-26T17:25:36Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j98qp92kxw91qo", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "I see now, thanks for your explanations."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-26T17:49:41Z", 
+          "uid": "hv8z1thijfq6ns", 
+          "created": "2017-10-26T17:49:41Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j98rk82nrmw4xi", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>10/10 for me as well.. I hope I can even finish, would be nice to have exam 2 and a sense of were the grading will be in terms of cutoffs before this sat&#39;s deadline.</p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-26T17:56:20Z", 
+          "uid": "hz0f837zrvz4rn", 
+          "created": "2017-10-26T17:56:20Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j98rsrqvo4d4k9", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>This is my last class as well.\u00a0 Does anyone know if someone were to drop if they could still get access to the material (lectures, homeworks, etc)?\u00a0 Everyone pretty much needs this class so I would be good to continue to learn the material.\u00a0 \u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-27T07:54:21Z", 
+          "uid": "hqj2wfy7NUZ", 
+          "created": "2017-10-27T07:54:21Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j99lqgxfdz02lt", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>10/10 for me also. \u00a0I really tried for the second exam but the odd wording on question 1 caused problems for me. \u00a0I will stay in the class and likely will have to take it again next semester. \u00a0My time ticket is November 8 for registration. \u00a0I have to keep trying though to make sure it is not D or F.</p>"
+        }
+      ], 
+      "subject": "<p>I am not withdrawing as this is 10/10 and I am riding this out (plus I dont think I did terrible on exam 2); that said...</p>\n<p></p>\n<p>I wanted to let everyone know there is no shame in withdrawing and coming back later.\u00a0 I have done it.\u00a0 It sucks, but its not the end of the world and you are not going to die; work the material and come back swinging next semester. <br /><br />The important thing is that you do NOT ultimately give up at GA Tech.\u00a0 Take the hit and get back on the mat.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-26T16:29:59Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "hve4kb0lopy4sl", 
+      "created": "2017-10-26T16:29:59Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j98oppxls4e3cy", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-26T16:30:52Z", 
+          "uid": "ij7curo6tdo360", 
+          "created": "2017-10-26T16:30:52Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j98oqv1k37n6mr", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Touche...</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-26T16:54:56Z", 
+          "uid": "hve4kb0lopy4sl", 
+          "created": "2017-10-26T16:54:56Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j98plt7pga774t", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Good poll though....because even knowing the percentage that will definitely not withdraw is valuable info.\u00a0 And as the grade percentages have not been pushed into t-square yet, don&#39;t forget to calculate the first exam out of 95 points (I think that was what was said) because that does make a big difference versus the 110 in seeing where you stand.</p>"
+        }
+      ], 
+      "subject": "<p>only problem with the accuracy of this poll is I suspect most people that have decided to withdraw or have already withdrawn are not following piazza and participating in polls any longer. ;)</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-26T17:19:42Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "hz0f837zrvz4rn", 
+      "created": "2017-10-26T17:19:42Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j98qhnwbyuj6yg", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>Edit: Removed.\u00a0</p>"
+    }
+  ], 
+  "nr": 823, 
+  "bucket_order": 2, 
+  "type": "poll", 
+  "folders": [
+    "logistics", 
+    "polls"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "answer": "", 
+    "admin": "", 
+    "has_voted": [], 
+    "result": {}, 
+    "total_votes": 0
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-10-26T16:24:00Z", 
+  "is_tag_good": false, 
+  "config": {
+    "show_results": "av", 
+    "anonymous": "yes", 
+    "multiple_selections": 0, 
+    "unpublished": 0, 
+    "toggle_visibility_on": 1, 
+    "revote": 0, 
+    "allow_followups": "yes", 
+    "always_open": 0, 
+    "close_after": "48", 
+    "publish_later": 0
+  }, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145125989, 
+  "tag_good": [
+    {
+      "name": "Jinath Gamage", 
+      "admin": false, 
+      "photo": "1440361255_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "idj18b4cw027p9"
+    }, 
+    {
+      "name": "Kyle P Davis", 
+      "admin": false, 
+      "photo": "1484080691_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "idiy4usuxxs"
+    }, 
+    {
+      "name": "Ronny A. Pe\u00f1a", 
+      "admin": false, 
+      "photo": "1439924476_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hyzzr9z7x6a1mz"
+    }
+  ], 
+  "tag_good_arr": [
+    "idj18b4cw027p9", 
+    "idiy4usuxxs", 
+    "hyzzr9z7x6a1mz"
+  ], 
+  "history": [
+    {
+      "content": "<p>This class has been extremely challenging and I have thinking about withdrawing.</p>\n<p></p>\n<p>I was curious, how many student are in the same situation?</p>\n<br/> [o] I will withdraw and take it next semseter\n[o] I will not withdraw\n[o] Exam 2 will be the deciding factor if I withdraw or not", 
+      "anon": "no", 
+      "created": "2017-10-26T16:24:00Z", 
+      "uid": "ij7curo6tdo360", 
+      "subject": "Withdrawing from class"
+    }
+  ]
+}

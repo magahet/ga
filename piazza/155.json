@@ -1,0 +1,166 @@
+{
+  "status": "active", 
+  "unique_views": 154, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-02T21:18:00Z", 
+      "data": "j73t84azfgh2cg", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "to": "j73t84ax34w2cf", 
+      "anon": "no", 
+      "when": "2017-09-03T00:19:36Z", 
+      "type": "followup", 
+      "uid": "isgwdf47kb42f"
+    }, 
+    {
+      "to": "j73t84ax34w2cf", 
+      "anon": "no", 
+      "when": "2017-09-03T01:50:28Z", 
+      "type": "feedback", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "to": "j73t84ax34w2cf", 
+      "anon": "no", 
+      "when": "2017-09-03T03:47:09Z", 
+      "type": "feedback", 
+      "uid": "isgwdf47kb42f"
+    }, 
+    {
+      "uid": "hkkbz4bujtv5dn", 
+      "type": "i_answer", 
+      "when": "2017-09-07T15:57:10Z", 
+      "to": "j73t84ax34w2cf", 
+      "anon": "no", 
+      "data": "j7amysiz2mtf0"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j73t84ax34w2cf", 
+  "bookmarked": 3, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-09-03T00:19:36Z", 
+      "no_upvotes": 0, 
+      "uid": "isgwdf47kb42f", 
+      "created": "2017-09-03T00:19:36Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j73zpnx5xp8q5", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-03T01:50:28Z", 
+          "uid": "ijbr5ddtwyt6pa", 
+          "created": "2017-09-03T01:50:28Z", 
+          "type": "feedback", 
+          "id": "j742yiyq7d559i", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Let me try to get a more discrete example. Say I have string z=401235, and I want to know the length of an instance in that string where we have a series of numbers where s[i] is greater than the previous character (i - 1). Would a possible solution be something like</p>\n<p></p>\n<p>S(i) = 1\u00a0&#43; S(i - 1) where z[i] &gt; z[i - 1] else S(i - 1)\u00a0</p>\n<p></p>\n<p>Something like that. There are probably better examples, but I don&#39;t want to go into more concrete examples because it may be giving away some answers to other problems. I know that it is not valid to bring along side values (such as the k in the number of coins), but since this is not a side value and is a value of a previously calculated answer, I would assume it is valid, because no additional calculations are required that you do not already have (i.e. you have to know what z[i - 1] is to determine what S(i - 1) is. Does that example make sense?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-03T03:47:09Z", 
+          "uid": "isgwdf47kb42f", 
+          "created": "2017-09-03T03:47:09Z", 
+          "type": "feedback", 
+          "id": "j7474k9rfh040h", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>So is z[i] meaning a character in your string? And then s(i) is the subproblem? Essentially, &#34;the answer to the ith subproblem is 1 more than the answer to the previous subproblem if the ith character is greater than the preceding character&#34;?</p>\n<p></p>\n<p>If I&#39;m understanding correctly, z is the input so any element of z is defined before the recursion and you can access any element of z during your subproblem.</p>"
+        }
+      ], 
+      "subject": "<p>What is z in your example?</p>"
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-07T15:57:10Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j7amysip4vdex", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>Marking this question as answered.</p>", 
+          "anon": "no", 
+          "created": "2017-09-07T15:57:10Z", 
+          "uid": "hkkbz4bujtv5dn", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 155, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "dynamic_programming"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "dynamic_programming", 
+    "student"
+  ], 
+  "created": "2017-09-02T21:18:00Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145288013, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>This is valid right:</p>\n<p></p>\n<p>S(i) = 1 &#43; S(i -1) : z[i] &gt; 0 and z[i - 1] &gt; 0</p>\n<p></p>\n<p>I don&#39;t see why it wouldn&#39;t be, because we are already calculating z[i - 1] so it would make sense that we have access to the solution of that sub problem.</p>", 
+      "anon": "no", 
+      "created": "2017-09-02T21:18:00Z", 
+      "uid": "ijbr5ddtwyt6pa", 
+      "subject": "Checking the previous recurrence"
+    }
+  ]
+}

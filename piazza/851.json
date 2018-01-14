@@ -1,0 +1,62 @@
+{
+  "status": "active", 
+  "unique_views": 41, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-27T20:03:56Z", 
+      "data": "j9abspwbnap5ed", 
+      "uid": "isgwdf47kb42f"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j9abspw6nnm5ec", 
+  "bookmarked": 3, 
+  "tags": [
+    "course", 
+    "exam", 
+    "instructor-note", 
+    "pin"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [], 
+  "nr": 851, 
+  "bucket_order": 0, 
+  "type": "note", 
+  "folders": [
+    "course", 
+    "exam"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 0, 
+  "bucket_name": "Pinned", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-10-27T20:03:56Z", 
+  "is_tag_good": false, 
+  "config": {
+    "is_announcement": 1, 
+    "bypass_email": 1
+  }, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145114013, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>I will be holding office hours tomorrow, 28 Oct, at 7 PM EST. I plan to work through the exam problems but you can submit other questions as well via sli.do.</p>\n<p></p>\n<p>Live stream URL:\u00a0<a href=\"https://youtu.be/jydLYPNEecQ\">https://youtu.be/jydLYPNEecQ</a></p>\n<p>Sli.do code: #CS8803-Sat</p>\n<p></p>\n<p>-Michael</p>\n<p></p>\n<p>#pin</p>", 
+      "anon": "no", 
+      "created": "2017-10-27T20:03:56Z", 
+      "uid": "isgwdf47kb42f", 
+      "subject": "Weekend Office Hours"
+    }
+  ]
+}

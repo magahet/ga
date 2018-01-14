@@ -1,0 +1,379 @@
+{
+  "status": "active", 
+  "unique_views": 198, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-24T09:40:15Z", 
+      "data": "j95f73iiwzt4tw", 
+      "uid": "hq9zldybngyw2"
+    }, 
+    {
+      "uid": "gy4twfv45cg5o6", 
+      "type": "i_answer", 
+      "when": "2017-10-24T12:32:49Z", 
+      "to": "j95f73ifi5s4tv", 
+      "anon": "no", 
+      "data": "j95ld0ttf3w1gu"
+    }, 
+    {
+      "to": "j95f73ifi5s4tv", 
+      "anon": "no", 
+      "when": "2017-10-24T12:45:16Z", 
+      "type": "followup", 
+      "uid": "ij9fd7ecOTV"
+    }, 
+    {
+      "to": "j95f73ifi5s4tv", 
+      "anon": "no", 
+      "when": "2017-10-24T12:45:27Z", 
+      "type": "followup", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j95f73ifi5s4tv", 
+      "anon": "no", 
+      "when": "2017-10-24T13:03:24Z", 
+      "type": "feedback", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "to": "j95f73ifi5s4tv", 
+      "anon": "no", 
+      "when": "2017-10-24T14:51:13Z", 
+      "type": "followup", 
+      "uid": "hve4kb0lopy4sl"
+    }, 
+    {
+      "to": "j95f73ifi5s4tv", 
+      "anon": "no", 
+      "when": "2017-10-24T14:57:09Z", 
+      "type": "feedback", 
+      "uid": "i4omjkc5OQ8"
+    }, 
+    {
+      "to": "j95f73ifi5s4tv", 
+      "anon": "no", 
+      "when": "2017-10-24T19:48:32Z", 
+      "type": "followup", 
+      "uid": "hq73eu599lv"
+    }, 
+    {
+      "to": "j95f73ifi5s4tv", 
+      "anon": "no", 
+      "when": "2017-10-25T00:07:55Z", 
+      "type": "feedback", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j95f73ifi5s4tv", 
+      "anon": "no", 
+      "when": "2017-10-25T00:16:03Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j95f73ifi5s4tv", 
+      "anon": "no", 
+      "when": "2017-10-25T00:45:37Z", 
+      "type": "followup", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j95f73ifi5s4tv", 
+      "anon": "no", 
+      "when": "2017-10-25T00:47:17Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j95f73ifi5s4tv", 
+  "bookmarked": 11, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-24T12:32:49Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "ijbr5ddtwyt6pa"
+      ], 
+      "id": "j95ld0tqlms1gt", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Jason Buoni", 
+          "admin": false, 
+          "photo": "1463440659_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "ijbr5ddtwyt6pa"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "Posted now on TSquare.  The TA&#39;s will go over the solutions in office hours.\n\nWhen exactly is the withdraw deadline?  Friday 4pm?\n\n--Eric", 
+          "anon": "no", 
+          "created": "2017-10-24T12:32:49Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-24T12:45:16Z", 
+      "no_upvotes": 0, 
+      "uid": "ij9fd7ecOTV", 
+      "created": "2017-10-24T12:45:16Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j95lt1nmm3o2a", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>10/28 Saturday 4pm</p>\n<p>http://www.registrar.gatech.edu/calendar/</p>\n<p></p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/ij9fd7ecOTV/j95lsqszem1p/Capture.PNG\" alt=\"\" /></p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-24T12:45:27Z", 
+      "no_upvotes": 0, 
+      "uid": "hvil6y6khgk2ri", 
+      "created": "2017-10-24T12:45:27Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j95lt9t5qkl5bf", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-24T13:03:24Z", 
+          "uid": "ijbr5ddtwyt6pa", 
+          "created": "2017-10-24T13:03:24Z", 
+          "type": "feedback", 
+          "id": "j95mgd4wuno276", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I&#39;m in the same boat as Todd. I felt like I did really well when I finished, but after some time I start questioning myself more and more. Hopefully having the questions will give me something to reflect on</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-25T00:07:55Z", 
+          "uid": "i4ket0u1z5q31a", 
+          "created": "2017-10-25T00:07:55Z", 
+          "type": "feedback", 
+          "id": "j96a6xbwmvg5eu", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I really need to know if I aced midterm 2 or not because I bombed midterm 1 and need to know before the drop date if I have any hope of pulling up my grade or not.</p>"
+        }
+      ], 
+      "subject": "<p>According to <a href=\"http://www.registrar.gatech.edu/calendar/\" target=\"_blank\">GA Tech&#39;s academic calendar</a> its Saturday, 10/28 &#64; 4:00 PM ET.<br /><br />I know its most likely not be possible to get these graded by then, but if they could that would be a gift. Personally, I thought this exam was actually harder than exam 1, and even though I think I did at least OK, if I was not in that position it would be great to use the ex2 grade as a deciding factor on if I should pull the ripcord.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-24T14:51:13Z", 
+      "no_upvotes": 0, 
+      "uid": "hve4kb0lopy4sl", 
+      "created": "2017-10-24T14:51:13Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j95qb0i0ws13jl", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-24T14:57:09Z", 
+          "uid": "i4omjkc5OQ8", 
+          "created": "2017-10-24T14:57:09Z", 
+          "type": "feedback", 
+          "id": "j95qimvxkxykf", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>No. Only on undergrad.</p>"
+        }
+      ], 
+      "subject": "<p>Is grade substitution possible in OMSCS or is that an undergrad type thing?</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-24T19:48:32Z", 
+      "no_upvotes": 0, 
+      "uid": "hq73eu599lv", 
+      "created": "2017-10-24T19:48:32Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j960xd8aceydk", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-25T00:16:03Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-10-25T00:16:03Z", 
+          "type": "feedback", 
+          "id": "j96ahe96lh31gw", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Thursday.  And if you ask Michael, he can probably discuss it on Saturday as well if need be."
+        }
+      ], 
+      "subject": "<p>Are there office hours tonight?\u00a0 The Office Hours post &#64;691 says there will only be 2 sessions moving forward (Thursday/Saturday).\u00a0 Does that mean the solutions will be covered Thursday or Saturday?</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-25T00:45:37Z", 
+      "no_upvotes": 0, 
+      "uid": "i4ket0u1z5q31a", 
+      "created": "2017-10-25T00:45:37Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j96bjepv2uv35u", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-25T00:47:17Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-10-25T00:47:17Z", 
+          "type": "feedback", 
+          "id": "j96blkfsqfs2ps", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "The TA&#39;s are trying, but no promises."
+        }
+      ], 
+      "subject": "<p>Will it be possible to have midterm 2 grades Friday?</p>\n<p></p>"
+    }
+  ], 
+  "nr": 801, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "exam"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 2, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "exam", 
+    "student"
+  ], 
+  "created": "2017-10-24T09:40:15Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145131050, 
+  "tag_good": [
+    {
+      "name": "MarkBenjamin1@gatech.edu", 
+      "admin": false, 
+      "photo": "1420465436_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4hdvab632i522"
+    }, 
+    {
+      "name": "Brent Wagenseller", 
+      "admin": false, 
+      "photo": "1408396390_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hvil6y6khgk2ri"
+    }
+  ], 
+  "tag_good_arr": [
+    "i4hdvab632i522", 
+    "hvil6y6khgk2ri"
+  ], 
+  "history": [
+    {
+      "content": "Hi folks,\n\nWould it be possible to have the exam 2 questions posted to the resources section of t-square like we did for exam1? Was great to be able to review against our answers after exam1.\n\nThere is an October 28 deadline and having the exam questions to review would be very helpful as a gauge. Generally, a half hour after a test is when I start second quessing answers so having the details of the questions puts any concerns to rest (one way or another :)", 
+      "anon": "no", 
+      "created": "2017-10-24T09:40:15Z", 
+      "uid": "hq9zldybngyw2", 
+      "subject": "Questions for Exam 2"
+    }
+  ]
+}

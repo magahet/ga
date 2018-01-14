@@ -1,0 +1,84 @@
+{
+  "status": "active", 
+  "unique_views": 162, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-19T05:07:53Z", 
+      "data": "j7r520u8dxitf", 
+      "uid": "hkjzzued3ef4xh"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-19T18:24:00Z", 
+      "data": "j7rxhu95uxx3p0", 
+      "uid": "hkjzzued3ef4xh"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-20T15:25:28Z", 
+      "data": "j7t6k3mz3q25l0", 
+      "uid": "hkjzzued3ef4xh"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j7r520u5ci4te", 
+  "bookmarked": 2, 
+  "tags": [
+    "course", 
+    "instructor-note"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [], 
+  "nr": 350, 
+  "bucket_order": 2, 
+  "type": "note", 
+  "folders": [
+    "course"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 0, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-09-19T05:07:53Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145232945, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>I will hold office hour today 9-10 p.m. (EST)</p>\n<p>Slido event code: CS8803-Tues</p>\n<p>Youtube:\u00a0<a href=\"https://www.youtube.com/watch?v=UbNl3tSjpLs\">https://www.youtube.com/watch?v=UbNl3tSjpLs</a></p>\n<p></p>", 
+      "anon": "no", 
+      "created": "2017-09-20T15:25:28Z", 
+      "uid": "hkjzzued3ef4xh", 
+      "subject": "Office hour on Sep. 19th"
+    }, 
+    {
+      "content": "<p>I will hold office hour today 9-10 p.m. (EST)</p>\n<p>Slido event code: CS8803-Tues</p>\n<p>Youtube:\u00a0<a href=\"https://www.youtube.com/watch?v=UbNl3tSjpLs\">https://www.youtube.com/watch?v=UbNl3tSjpLs</a></p>\n<p></p>\n#pin", 
+      "anon": "no", 
+      "created": "2017-09-19T18:24:00Z", 
+      "uid": "hkjzzued3ef4xh", 
+      "subject": "Office hour on Sep. 19th"
+    }, 
+    {
+      "content": "<p>I will hold office hour today 9-10 p.m. (EST)</p>\n<p>Slido event code: CS8803-Tues</p>\n<p>Youtube:\u00a0<a href=\"https://www.youtube.com/watch?v=UbNl3tSjpLs\">https://www.youtube.com/watch?v=UbNl3tSjpLs</a></p>\n<p></p>", 
+      "anon": "no", 
+      "created": "2017-09-19T05:07:53Z", 
+      "uid": "hkjzzued3ef4xh", 
+      "subject": "Office hour on Sep. 19th"
+    }
+  ]
+}

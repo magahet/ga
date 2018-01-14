@@ -1,0 +1,188 @@
+{
+  "status": "active", 
+  "unique_views": 148, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "stud", 
+      "when": "2017-10-07T10:40:24Z", 
+      "data": "j8h6uz3gavq6lu"
+    }, 
+    {
+      "uid": "hqj2wfy7NUZ", 
+      "type": "s_answer", 
+      "when": "2017-10-07T13:36:36Z", 
+      "to": "j8h6uz3euxp6lt", 
+      "anon": "no", 
+      "data": "j8hd5ks5imf2mf"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-10-07T13:38:09Z", 
+      "data": "j8hd7kel8ib3bo", 
+      "uid": "hqj2wfy7NUZ"
+    }, 
+    {
+      "to": "j8h6uz3euxp6lt", 
+      "anon": "no", 
+      "when": "2017-10-07T13:39:54Z", 
+      "type": "followup", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "uid": "gns9oa0pgsO", 
+      "type": "i_answer", 
+      "when": "2017-10-07T16:19:41Z", 
+      "to": "j8h6uz3euxp6lt", 
+      "anon": "no", 
+      "data": "j8hizasbt124vc"
+    }, 
+    {
+      "to": "j8h6uz3euxp6lt", 
+      "anon": "no", 
+      "when": "2017-10-07T16:58:37Z", 
+      "type": "followup", 
+      "uid": "hz6fs7qs6ps161"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8h6uz3euxp6lt", 
+  "bookmarked": 6, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-07T13:36:36Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j8hd5ks3vcq2me", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>I am getting 100%</p>\n<p></p>\n<p>python bloom.py -c testConfigHashType1.txt -i testInput.txt -o testOutput.txt -v validResHashType1.txt</p>\n<p></p>\n<p>compareResults : Your bloom filter performs as expected Task 2 complete</p>\n<p>Task 2 complete</p>\n<p></p>", 
+          "anon": "no", 
+          "created": "2017-10-07T13:38:09Z", 
+          "uid": "hqj2wfy7NUZ", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>I am getting 100%</p>\n<p></p>\n<p></p>", 
+          "anon": "no", 
+          "created": "2017-10-07T13:36:36Z", 
+          "uid": "hqj2wfy7NUZ", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-07T13:39:54Z", 
+      "no_upvotes": 0, 
+      "uid": "hq8hn0qyfuvyr", 
+      "created": "2017-10-07T13:39:54Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8hd9tistov5wx", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "I&#39;m also getting 100%."
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-07T16:19:41Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j8hizas94g94vb", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>yes.\u00a0 that is why it is provided, so you can make sure your type 1 hash function is working properly.</p>", 
+          "anon": "no", 
+          "created": "2017-10-07T16:19:41Z", 
+          "uid": "gns9oa0pgsO", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-07T16:58:37Z", 
+      "no_upvotes": 0, 
+      "uid": "hz6fs7qs6ps161", 
+      "created": "2017-10-07T16:58:37Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8hkdddhuwl5gc", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>Make sure you are using the right validation file for hashtype 1 !!</p>"
+    }
+  ], 
+  "nr": 651, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "project"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "project", 
+    "student"
+  ], 
+  "created": "2017-10-07T10:40:24Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145167282, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "Although it is not graded, is the type 1 hash function supposed to get 100% match like the type 2 hash function when we run it through task 2? I am getting only 21 mismatches for the type 1 hash function, but not 100%.", 
+      "anon": "stud", 
+      "created": "2017-10-07T10:40:24Z", 
+      "subject": "Number of mismatches in bloom filter for type 1 hash function."
+    }
+  ]
+}

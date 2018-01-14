@@ -1,0 +1,203 @@
+{
+  "status": "active", 
+  "unique_views": 126, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-13T05:36:40Z", 
+      "data": "j7ilfx8hh2p38j", 
+      "uid": "i4iufvhm2nj4s1"
+    }, 
+    {
+      "uid": "hqa65fnalg83fr", 
+      "type": "s_answer", 
+      "when": "2017-09-13T05:40:23Z", 
+      "to": "j7ilfx8frix38i", 
+      "anon": "no", 
+      "data": "j7ilkpsf9ssyf"
+    }, 
+    {
+      "uid": "hkkbz4bujtv5dn", 
+      "type": "i_answer", 
+      "when": "2017-09-13T18:53:23Z", 
+      "to": "j7ilfx8frix38i", 
+      "anon": "no", 
+      "data": "j7jdwingdii65j"
+    }, 
+    {
+      "to": "j7ilfx8frix38i", 
+      "anon": "no", 
+      "when": "2017-09-14T01:00:08Z", 
+      "type": "followup", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-09-14T01:28:25Z", 
+      "data": "j7js0jfibng65n", 
+      "uid": "i4jbtxqavqb3r0"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-09-14T01:28:34Z", 
+      "data": "j7js0q9911r69x", 
+      "uid": "i4jbtxqavqb3r0"
+    }, 
+    {
+      "to": "j7ilfx8frix38i", 
+      "anon": "no", 
+      "when": "2017-09-14T01:29:52Z", 
+      "type": "feedback", 
+      "uid": "hkkbz4bujtv5dn"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j7ilfx8frix38i", 
+  "bookmarked": 6, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-13T05:40:23Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j7ilkpsbcmuye", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>I like this:</p>\n<p></p>\n<p><a href=\"https://courses.cs.washington.edu/courses/cse326/03wi/lectures/RaoLect3.pdf\">https://courses.cs.washington.edu/courses/cse326/03wi/lectures/RaoLect3.pdf<br /><br /></a></p>\n<p>But I&#39;m not sure its better than what you&#39;ve found.</p>\n<p></p>\n<p>Edit: \u00a0This is\u00a0a briliant resource-\u00a0<a href=\"https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/video-lectures/lecture-2-asymptotic-notation-recurrences-substitution-master-method/\">https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/video-lectures/lecture-2-asymptotic-notation-recurrences-substitution-master-method/</a>\u00a0</p>\n<p>- Vennela\u00a0</p>", 
+          "anon": "no", 
+          "created": "2017-09-14T01:28:34Z", 
+          "uid": "i4jbtxqavqb3r0", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>I like this:</p>\n<p></p>\n<p><a href=\"https://courses.cs.washington.edu/courses/cse326/03wi/lectures/RaoLect3.pdf\">https://courses.cs.washington.edu/courses/cse326/03wi/lectures/RaoLect3.pdf<br /><br /></a></p>\n<p>But I&#39;m not sure its better than what you&#39;ve found.</p>\n<p></p>\n<p>Edit: \u00a0This is\u00a0a briliant resource-\u00a0<a href=\"https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/video-lectures/lecture-2-asymptotic-notation-recurrences-substitution-master-method/\">https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/video-lectures/lecture-2-asymptotic-notation-recurrences-substitution-master-method/</a>\u00a0</p>\n<p></p>\n<p>- Vennela\u00a0</p>", 
+          "anon": "no", 
+          "created": "2017-09-14T01:28:25Z", 
+          "uid": "i4jbtxqavqb3r0", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>I like this:</p>\n<p></p>\n<p><a href=\"https://courses.cs.washington.edu/courses/cse326/03wi/lectures/RaoLect3.pdf\">https://courses.cs.washington.edu/courses/cse326/03wi/lectures/RaoLect3.pdf<br /><br /></a></p>\n<p></p>\n<p>But I&#39;m not sure its better than what you&#39;ve found.</p>", 
+          "anon": "no", 
+          "created": "2017-09-13T05:40:23Z", 
+          "uid": "hqa65fnalg83fr", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-13T18:53:23Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j7jdwine8jz65i", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>HW0 posted under\u00a0T-square &#34;Resources&#34; has\u00a0several Big-O exercises that you can try, if you haven&#39;t already.</p>\n<p></p>\n<p>If there was a specific runtime calculation that you didn&#39;t get,\u00a0feel free to post a followup about it.</p>", 
+          "anon": "no", 
+          "created": "2017-09-13T18:53:23Z", 
+          "uid": "hkkbz4bujtv5dn", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-14T01:00:08Z", 
+      "no_upvotes": 0, 
+      "uid": "i4ket0u1z5q31a", 
+      "created": "2017-09-14T01:00:08Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7jr05npfdl5am", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-14T01:29:52Z", 
+          "uid": "hkkbz4bujtv5dn", 
+          "created": "2017-09-14T01:29:52Z", 
+          "type": "feedback", 
+          "id": "j7js2dvzlu7121", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>You can usually use properties of exponents\u00a0/ properties of\u00a0logarithms\u00a0to solve\u00a0those types runtimes.\u00a0Homework 0 posted on T-square has some examples of runtimes involving\u00a0exponents\u00a0/ logs.\u00a0I would\u00a0try solving the problems\u00a0on your\u00a0own before looking at the solution.</p>"
+        }
+      ], 
+      "subject": "<p>O(n), O(mn), O(n^2), etc. are all pretty straightforward.</p>\n<p>But for those of us without math education it gets really confusing for things like O(n^log2b).</p>"
+    }
+  ], 
+  "nr": 286, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "course"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 3, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "course", 
+    "student"
+  ], 
+  "created": "2017-09-13T05:36:40Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145251316, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>I am still trying to understand some of the running time calculations done in lecture. \u00a0The basics I get, but every now and then Prof. pulls out a calculation that I can&#39;t quite wrap my head around.</p>\n<p></p>\n<p>Does anyone know of a good resource or reference for picking up the more advanced Big (O) notations? \u00a0I&#39;ve googled it, obviously, not I&#39;m hoping for something better than what I have found.</p>", 
+      "anon": "no", 
+      "created": "2017-09-13T05:36:40Z", 
+      "uid": "i4iufvhm2nj4s1", 
+      "subject": "Good resources for determining Big (O)"
+    }
+  ]
+}

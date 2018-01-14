@@ -1,0 +1,129 @@
+{
+  "status": "active", 
+  "unique_views": 173, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-14T00:50:36Z", 
+      "data": "j7jqnvyer1l3un", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "uid": "i4jbtxqavqb3r0", 
+      "type": "s_answer", 
+      "when": "2017-09-14T01:31:25Z", 
+      "to": "j7jqnvy9a643um", 
+      "anon": "no", 
+      "data": "j7js4e70us02uj"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-09-14T01:31:54Z", 
+      "data": "j7js50246ct37q", 
+      "uid": "i4jbtxqavqb3r0"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j7jqnvy9a643um", 
+  "bookmarked": 3, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-14T01:31:25Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [
+        "hklp7yk0n6o2j8"
+      ], 
+      "id": "j7js4e6v79l2ui", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Gene Hynson", 
+          "admin": false, 
+          "photo": "1456026706_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hklp7yk0n6o2j8"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>If you look at this page - <a href=\"https://8803ga.wordpress.com/hw-2/\">https://8803ga.wordpress.com/hw-2/</a> , there are 2 additional practice problems - 1.20 and 1.22 for which solutions are included</p>", 
+          "anon": "no", 
+          "created": "2017-09-14T01:31:54Z", 
+          "uid": "i4jbtxqavqb3r0", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>If you look at this page, there are 2 additional practice problems - 1.20 and 1.22 for which solutions are included</p>", 
+          "anon": "no", 
+          "created": "2017-09-14T01:31:25Z", 
+          "uid": "i4jbtxqavqb3r0", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 298, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw_solutions2"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 2, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw_solutions2", 
+    "student"
+  ], 
+  "created": "2017-09-14T00:50:36Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145247290, 
+  "tag_good": [
+    {
+      "name": "Eddie Spencer", 
+      "admin": false, 
+      "photo": "1432002672_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4j6x8uvfv6743"
+    }
+  ], 
+  "tag_good_arr": [
+    "i4j6x8uvfv6743"
+  ], 
+  "history": [
+    {
+      "content": "<p>In the posted solutions for HW2 there appear to be two more problems than what were on the template I worked on.</p>\n<p>Did I used the wrong template?</p>\n<p>I don&#39;t recall seeing 6 questions in GradeScope either so where did the extra questions come from?</p>", 
+      "anon": "no", 
+      "created": "2017-09-14T00:50:36Z", 
+      "uid": "i4ket0u1z5q31a", 
+      "subject": "HW2 solutions, extra questions"
+    }
+  ]
+}

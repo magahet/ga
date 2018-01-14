@@ -1,0 +1,281 @@
+{
+  "status": "active", 
+  "unique_views": 162, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "stud", 
+      "when": "2017-10-16T01:01:41Z", 
+      "data": "j8th5en6vto72j"
+    }, 
+    {
+      "to": "j8th5emup6i72i", 
+      "anon": "stud", 
+      "when": "2017-10-16T01:04:12Z", 
+      "type": "followup"
+    }, 
+    {
+      "type": "update", 
+      "anon": "stud", 
+      "when": "2017-10-16T01:04:22Z", 
+      "data": "j8th8un59ee1nn"
+    }, 
+    {
+      "type": "update", 
+      "anon": "stud", 
+      "when": "2017-10-16T01:05:33Z", 
+      "data": "j8thaduocvo2rx"
+    }, 
+    {
+      "type": "update", 
+      "anon": "stud", 
+      "when": "2017-10-16T01:06:02Z", 
+      "data": "j8thb0492zr37a"
+    }, 
+    {
+      "type": "update", 
+      "anon": "stud", 
+      "when": "2017-10-16T01:21:28Z", 
+      "data": "j8thuufz3q82ql"
+    }, 
+    {
+      "uid": "hkjzzued3ef4xh", 
+      "type": "i_answer", 
+      "when": "2017-10-16T07:06:05Z", 
+      "to": "j8th5emup6i72i", 
+      "anon": "no", 
+      "data": "j8tu61gs6md4j"
+    }, 
+    {
+      "type": "update", 
+      "anon": "stud", 
+      "when": "2017-10-16T17:43:36Z", 
+      "data": "j8ugxvqpk3q6ey"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-16T17:43:44Z", 
+      "data": "j8ugy22x7db6jm", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-16T17:44:14Z", 
+      "data": "j8ugypc7ty5711", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j8th5emup6i72i", 
+      "anon": "no", 
+      "when": "2017-10-16T17:45:18Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j8th5emup6i72i", 
+      "anon": "no", 
+      "when": "2017-10-16T18:19:52Z", 
+      "type": "feedback", 
+      "uid": "i4ogin8rDC4"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8th5emup6i72i", 
+  "bookmarked": 4, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-10-16T01:04:12Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "created": "2017-10-16T01:04:12Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8th8ng51ja1iv", 
+      "anon": "stud", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-16T17:45:18Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-10-16T17:45:18Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j8uh0259jkzc9", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>odd, I posted this above and it registered as anon.<br /><br />Anyhoo, I did this last night and flipped it to instructor only; re-flipping back now!</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-16T18:19:52Z", 
+          "uid": "i4ogin8rDC4", 
+          "created": "2017-10-16T18:19:52Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j8ui8iwlk3a2bv", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thanks for posting these practice problem solutions Brent, it&#39;s an excellent idea. I got the same results as above and had a very similar answer for (d).</p>"
+        }
+      ], 
+      "subject": "<p>A)</p>\n<p></p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/hvil6y6khgk2ri/j8th5ykfc74m/7.17asolution.jpg\" alt=\"\" /></p>\n<p></p>\n<p>Max Flow = 11; Min cut has L(S, A, B) and R(C, D, T) (L is in blue above, R remains white)</p>\n<p></p>\n<p></p>\n<p>B)</p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/hvil6y6khgk2ri/j8th78dxfw49/7.17b.jpeg\" alt=\"\" /></p>\n<p></p>\n<p>Above are the remaining capacities on G<sub>f</sub>; The vertices colored in green are reachable by S, and the vertices colored in orange are reachable by T.</p>\n<p></p>\n<p></p>\n<p>C) Edges AC and BC.</p>\n<p></p>\n<p>D)</p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/hvil6y6khgk2ri/j8th8i3zuenj/7.17csolution.jpg\" alt=\"\" /></p>\n<p></p>"
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-16T07:06:05Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "hvil6y6khgk2ri"
+      ], 
+      "id": "j8tu61gqq7l4i", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Brent Wagenseller", 
+          "admin": false, 
+          "photo": "1408396390_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hvil6y6khgk2ri"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>Good work!</p>\n<p></p>\n<p>For D, another simple example would be a-&gt;b-&gt;c where e(a,b) = e(b,c) = 1.</p>", 
+          "anon": "no", 
+          "created": "2017-10-16T07:06:05Z", 
+          "uid": "hkjzzued3ef4xh", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 730, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "exam", 
+    "graph_algorithms"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 9, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "exam", 
+    "graph_algorithms", 
+    "student"
+  ], 
+  "created": "2017-10-16T01:01:41Z", 
+  "is_tag_good": false, 
+  "config": {
+    "anon_group": 1
+  }, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145146969, 
+  "tag_good": [
+    {
+      "name": "Hugh Woltzen", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "iebwjhg152x642"
+    }
+  ], 
+  "tag_good_arr": [
+    "iebwjhg152x642"
+  ], 
+  "history": [
+    {
+      "content": "<p>Hi All,</p>\n<p>\u00a0</p>\n<p>I wanted to start a post for each practice problem. This one is for 7.10.\u00a0 I will include the question here and then my solution in the comments - I would appreciate if a few people could validate it.\u00a0 If we can come to a consensus, we can indicate its solved in the students (or instructors?) section.</p>\n<p>\u00a0</p>\n<p>Problem 7.17:</p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/hvil6y6khgk2ri/j8th36fhoqee/7.17question.jpg\" alt=\"\" /></p>\n<p></p>\n<p>A)\u00a0\u00a0\u00a0\u00a0\u00a0 Find the maximum flow f and minimum cut.</p>\n<p>B)\u00a0\u00a0\u00a0\u00a0\u00a0 Draw the residual graph G<sub>f</sub> (along with its edge capacities). In this residual network, mark the vertices reachable from S and the vertices from which T is reachable.</p>\n<p>C)\u00a0\u00a0\u00a0\u00a0\u00a0 An edge of a network is called a bottleneck edge if increasing its capacity results in an increase in the maximum flow. List all bottleneck edges in the above network.</p>\n<p>D)\u00a0\u00a0\u00a0\u00a0\u00a0 Give a very simple example (containing at most four nodes) of which a network has no bottleneck edges.</p>\n<p>E) \u00a0\u00a0\u00a0\u00a0 &lt;Not shown - part of official homework&gt;</p>\n<p></p>", 
+      "anon": "no", 
+      "created": "2017-10-16T17:44:14Z", 
+      "uid": "hvil6y6khgk2ri", 
+      "subject": "Practice Problems 7.17(a-d)"
+    }, 
+    {
+      "content": "<p>Hi All,</p>\n<p>\u00a0</p>\n<p>I wanted to start a post for each practice problem. This one is for 7.10.\u00a0 I will include the question here and then my solution in the comments - I would appreciate if a few people could validate it.\u00a0 If we can come to a consensus, we can indicate its solved in the students (or instructors?) section.</p>\n<p>\u00a0</p>\n<p>Problem 7.17:</p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/hvil6y6khgk2ri/j8th36fhoqee/7.17question.jpg\" alt=\"\" /></p>\n<p></p>\n<p>A)\u00a0\u00a0\u00a0\u00a0\u00a0 Find the maximum flow f and minimum cut.</p>\n<p>B)\u00a0\u00a0\u00a0\u00a0\u00a0 Draw the residual graph G<sub>f</sub> (along with its edge capacities). In this residual network, mark the vertices reachable from S and the vertices from which T is reachable.</p>\n<p>C)\u00a0\u00a0\u00a0\u00a0\u00a0 An edge of a network is called a bottleneck edge if increasing its capacity results in an increase in the maximum flow. List all bottleneck edges in the above network.</p>\n<p>D)\u00a0\u00a0\u00a0\u00a0\u00a0 Give a very simple example (containing at most four nodes) of which a network has no bottleneck edges.</p>\n<p>E) \u00a0\u00a0\u00a0\u00a0 &lt;Not shown - part of official homework&gt;</p>\n<p></p>", 
+      "anon": "no", 
+      "created": "2017-10-16T17:43:44Z", 
+      "uid": "hvil6y6khgk2ri", 
+      "subject": "Practice Problems 7.17(a-d)"
+    }, 
+    {
+      "content": "<p>Hi All,</p>\n<p>\u00a0</p>\n<p>I wanted to start a post for each practice problem. This one is for 7.10.\u00a0 I will include the question here and then my solution in the comments - I would appreciate if a few people could validate it.\u00a0 If we can come to a consensus, we can indicate its solved in the students (or instructors?) section.</p>\n<p>\u00a0</p>\n<p>Problem 7.17:</p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/hvil6y6khgk2ri/j8th36fhoqee/7.17question.jpg\" alt=\"\" /></p>\n<p></p>\n<p>A)\u00a0\u00a0\u00a0\u00a0\u00a0 Find the maximum flow f and minimum cut.</p>\n<p>B)\u00a0\u00a0\u00a0\u00a0\u00a0 Draw the residual graph G<sub>f</sub> (along with its edge capacities). In this residual network, mark the vertices reachable from S and the vertices from which T is reachable.</p>\n<p>C)\u00a0\u00a0\u00a0\u00a0\u00a0 An edge of a network is called a bottleneck edge if increasing its capacity results in an increase in the maximum flow. List all bottleneck edges in the above network.</p>\n<p>D)\u00a0\u00a0\u00a0\u00a0\u00a0 Give a very simple example (containing at most four nodes) of which a network has no bottleneck edges.</p>\n<p>E) \u00a0\u00a0\u00a0\u00a0 &lt;Not shown - part of official homework&gt;</p>\n<p></p>", 
+      "anon": "stud", 
+      "created": "2017-10-16T17:43:36Z", 
+      "subject": "Practice Problems 7.17(a-d)"
+    }, 
+    {
+      "content": "<p>NOTE: This is not an instructor question; I am not asking for any action to be taken..\u00a0 After I posted I wasnt sure if it gave too much of the hw away (although I dont actually answer 7.17e), so I will flip this to public tomorrow after the hw deadline is up (I had the q up and was thinking about it as I was putting the images in, and immediately after posting my response I flipped the question).</p>\n<p></p>\n<p></p>\n<p></p>\n<p>Hi All,</p>\n<p>\u00a0</p>\n<p>I wanted to start a post for each practice problem. This one is for 7.10.\u00a0 I will include the question here and then my solution in the comments - I would appreciate if a few people could validate it.\u00a0 If we can come to a consensus, we can indicate its solved in the students (or instructors?) section.</p>\n<p>\u00a0</p>\n<p>Problem 7.17:</p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/hvil6y6khgk2ri/j8th36fhoqee/7.17question.jpg\" alt=\"\" /></p>\n<p></p>\n<p>A)\u00a0\u00a0\u00a0\u00a0\u00a0 Find the maximum flow f and minimum cut.</p>\n<p>B)\u00a0\u00a0\u00a0\u00a0\u00a0 Draw the residual graph G<sub>f</sub> (along with its edge capacities). In this residual network, mark the vertices reachable from S and the vertices from which T is reachable.</p>\n<p>C)\u00a0\u00a0\u00a0\u00a0\u00a0 An edge of a network is called a bottleneck edge if increasing its capacity results in an increase in the maximum flow. List all bottleneck edges in the above network.</p>\n<p>D)\u00a0\u00a0\u00a0\u00a0\u00a0 Give a very simple example (containing at most four nodes) of which a network has no bottleneck edges.</p>\n<p>E) \u00a0\u00a0\u00a0\u00a0 &lt;Not shown - part of official homework&gt;</p>\n<p></p>", 
+      "anon": "stud", 
+      "created": "2017-10-16T01:21:28Z", 
+      "subject": "Practice Problems 7.17(a-d)"
+    }, 
+    {
+      "content": "<p>NOTE: This is not an instructor question; I am not asking for any action to be taken..\u00a0 After I posted I wasnt sure if it gave too much of the hw away (although I dont actually answer 7.17e), so I will flip this to public tomorrow after the hw deadline is up.</p>\n<p></p>\n<p></p>\n<p></p>\n<p>Hi All,</p>\n<p>\u00a0</p>\n<p>I wanted to start a post for each practice problem. This one is for 7.10.\u00a0 I will include the question here and then my solution in the comments - I would appreciate if a few people could validate it.\u00a0 If we can come to a consensus, we can indicate its solved in the students (or instructors?) section.</p>\n<p>\u00a0</p>\n<p>Problem 7.17:</p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/hvil6y6khgk2ri/j8th36fhoqee/7.17question.jpg\" alt=\"\" /></p>\n<p></p>\n<p>A)\u00a0\u00a0\u00a0\u00a0\u00a0 Find the maximum flow f and minimum cut.</p>\n<p>B)\u00a0\u00a0\u00a0\u00a0\u00a0 Draw the residual graph G<sub>f</sub> (along with its edge capacities). In this residual network, mark the vertices reachable from S and the vertices from which T is reachable.</p>\n<p>C)\u00a0\u00a0\u00a0\u00a0\u00a0 An edge of a network is called a bottleneck edge if increasing its capacity results in an increase in the maximum flow. List all bottleneck edges in the above network.</p>\n<p>D)\u00a0\u00a0\u00a0\u00a0\u00a0 Give a very simple example (containing at most four nodes) of which a network has no bottleneck edges.</p>\n<p>E) \u00a0\u00a0\u00a0\u00a0 &lt;Not shown - part of official homework&gt;</p>\n<p></p>", 
+      "anon": "stud", 
+      "created": "2017-10-16T01:06:02Z", 
+      "subject": "Practice Problems 7.17(a-d)"
+    }, 
+    {
+      "content": "<p>NOTE: This is not an instructor question.\u00a0 After I posted I wasnt sure if it gave too much of the hw away (although I dont actually answer 7.17e), so I will flip this to public tomorrow after the hw deadline is up.</p>\n<p></p>\n<p></p>\n<p></p>\n<p>Hi All,</p>\n<p>\u00a0</p>\n<p>I wanted to start a post for each practice problem. This one is for 7.10.\u00a0 I will include the question here and then my solution in the comments - I would appreciate if a few people could validate it.\u00a0 If we can come to a consensus, we can indicate its solved in the students (or instructors?) section.</p>\n<p>\u00a0</p>\n<p>Problem 7.17:</p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/hvil6y6khgk2ri/j8th36fhoqee/7.17question.jpg\" alt=\"\" /></p>\n<p></p>\n<p>A)\u00a0\u00a0\u00a0\u00a0\u00a0 Find the maximum flow f and minimum cut.</p>\n<p>B)\u00a0\u00a0\u00a0\u00a0\u00a0 Draw the residual graph G<sub>f</sub> (along with its edge capacities). In this residual network, mark the vertices reachable from S and the vertices from which T is reachable.</p>\n<p>C)\u00a0\u00a0\u00a0\u00a0\u00a0 An edge of a network is called a bottleneck edge if increasing its capacity results in an increase in the maximum flow. List all bottleneck edges in the above network.</p>\n<p>D)\u00a0\u00a0\u00a0\u00a0\u00a0 Give a very simple example (containing at most four nodes) of which a network has no bottleneck edges.</p>\n<p>E) \u00a0\u00a0\u00a0\u00a0 &lt;Not shown - part of official homework&gt;</p>\n<p></p>", 
+      "anon": "stud", 
+      "created": "2017-10-16T01:05:33Z", 
+      "subject": "Practice Problems 7.17(a-d)"
+    }, 
+    {
+      "content": "<p>Hi All,</p>\n<p>\u00a0</p>\n<p>I wanted to start a post for each practice problem. This one is for 7.10.\u00a0 I will include the question here and then my solution in the comments - I would appreciate if a few people could validate it.\u00a0 If we can come to a consensus, we can indicate its solved in the students (or instructors?) section.</p>\n<p>\u00a0</p>\n<p>Problem 7.17:</p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/hvil6y6khgk2ri/j8th36fhoqee/7.17question.jpg\" alt=\"\" /></p>\n<p></p>\n<p>A)\u00a0\u00a0\u00a0\u00a0\u00a0 Find the maximum flow f and minimum cut.</p>\n<p>B)\u00a0\u00a0\u00a0\u00a0\u00a0 Draw the residual graph G<sub>f</sub> (along with its edge capacities). In this residual network, mark the vertices reachable from S and the vertices from which T is reachable.</p>\n<p>C)\u00a0\u00a0\u00a0\u00a0\u00a0 An edge of a network is called a bottleneck edge if increasing its capacity results in an increase in the maximum flow. List all bottleneck edges in the above network.</p>\n<p>D)\u00a0\u00a0\u00a0\u00a0\u00a0 Give a very simple example (containing at most four nodes) of which a network has no bottleneck edges.</p>\n<p>E) \u00a0\u00a0\u00a0\u00a0 &lt;Not shown - part of official homework&gt;</p>\n<p></p>", 
+      "anon": "stud", 
+      "created": "2017-10-16T01:04:22Z", 
+      "subject": "Practice Problems 7.17(a-d)"
+    }, 
+    {
+      "content": "<p>Hi All,</p>\n<p>\u00a0</p>\n<p>I wanted to start a post for each practice problem. This one is for 7.10.\u00a0 I will include the question here and then my solution in the comments - I would appreciate if a few people could validate it.\u00a0 If we can come to a consensus, we can indicate its solved in the students (or instructors?) section.</p>\n<p>\u00a0</p>\n<p>Problem 7.17:</p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/hvil6y6khgk2ri/j8th36fhoqee/7.17question.jpg\" alt=\"\" /></p>\n<p></p>\n<p>A)\u00a0\u00a0\u00a0\u00a0\u00a0 Find the maximum flow f and minimum cut.</p>\n<p>B)\u00a0\u00a0\u00a0\u00a0\u00a0 Draw the residual graph G<sub>f</sub> (along with its edge capacities). In this residual network, mark the vertices reachable from S and the vertices from which T is reachable.</p>\n<p>C)\u00a0\u00a0\u00a0\u00a0\u00a0 An edge of a network is called a bottleneck edge if increasing its capacity results in an increase in the maximum flow. List all bottleneck edges in the above network.</p>\n<p>D)\u00a0\u00a0\u00a0\u00a0\u00a0 Give a very simple example (containing at most four nodes) of which a network has no bottleneck edges.</p>\n<p>E) \u00a0\u00a0\u00a0\u00a0 &lt;Not shown - part of official homework&gt;</p>\n<p></p>", 
+      "anon": "stud", 
+      "created": "2017-10-16T01:01:41Z", 
+      "subject": "Practice Problems 7.17(a-d)"
+    }
+  ]
+}

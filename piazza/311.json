@@ -1,0 +1,158 @@
+{
+  "status": "active", 
+  "unique_views": 149, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-15T11:27:48Z", 
+      "data": "j7lsv754m11be", 
+      "uid": "hviwm6agQCk"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-15T11:49:26Z", 
+      "data": "j7ltn0qo1swsd", 
+      "uid": "hviwm6agQCk"
+    }, 
+    {
+      "uid": "gy4twfv45cg5o6", 
+      "type": "i_answer", 
+      "when": "2017-09-15T12:46:22Z", 
+      "to": "j7lsv75377w1bd", 
+      "anon": "no", 
+      "data": "j7lvo8ie58a1v7"
+    }, 
+    {
+      "to": "j7lsv75377w1bd", 
+      "anon": "no", 
+      "when": "2017-09-15T12:54:41Z", 
+      "type": "followup", 
+      "uid": "hviwm6agQCk"
+    }, 
+    {
+      "to": "j7lsv75377w1bd", 
+      "anon": "no", 
+      "when": "2017-09-15T14:46:24Z", 
+      "type": "feedback", 
+      "uid": "is653ar0mae7ei"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j7lsv75377w1bd", 
+  "bookmarked": 4, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-15T12:46:22Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j7lvo8ibbym1v6", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>Did you watch the videos before it? \u00a0Doesn&#39;t the video just before explain why this step is there?</p>\n<p></p>", 
+          "anon": "no", 
+          "created": "2017-09-15T12:46:22Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-15T12:54:41Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "hviwm6agQCk", 
+      "created": "2017-09-15T12:54:41Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7lvyx0n8no4yk", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-15T14:46:24Z", 
+          "uid": "is653ar0mae7ei", 
+          "created": "2017-09-15T14:46:24Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j7lzyl54lww4hw", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>X \u00a0 = \u00a0 2^(n/2)*X_L \u00a0 &#43; \u00a0 X_R</p>\n<p>Y \u00a0 = \u00a0 2^(n/2)*Y_L \u00a0 &#43; \u00a0 Y_R</p>\n<p>so:</p>\n<p>Z \u00a0 = \u00a0 XY \u00a0 = \u00a0 2^n*(X_L*Y_L) \u00a0 &#43; \u00a0 2^(n/2)*(X_L*Y_R &#43; Y_L*X_R) \u00a0 &#43; \u00a0 X_R*Y_R</p>"
+        }
+      ], 
+      "subject": "<p>Yes, but I can&#39;t tell why you&#39;re shifting it. \u00a0You decided to break it into 2 bits and 2 bits, so you got Xr = with an n/2 term in it (where that 2 is because you split it into 2). So does that mean if you split it into more to multiply that you&#39;d get n/3 (for instance) and then end up with a term that is 3^(n/3) as one of the terms? Did you split it into two parts because you have two variables x and y?</p>"
+    }
+  ], 
+  "nr": 311, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw3"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw3", 
+    "student"
+  ], 
+  "created": "2017-09-15T11:27:48Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145243203, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>In the lecture assessing the runtime for the EasyMultiply solution I was with the voice over all the way through the explanation of why one of the terms was 4T(n/2). Then suddenly we started discussing 2^nA &#43; 2^(n/2)(C&#43;D) &#43; B. \u00a0Where did each of these terms come from? Why would A be multiplied by 2^n and not B? It seems like that D&amp;C approach itself has the 2^n &#43; 2^(n/2) &#43; some constant because later on in the multiplication example where you multiply 182 x 154 in binary form, the lecture created that same progression of 2^8A &#43; (C&#43;D)2^4 &#43; B.</p>\n<p></p>\n<p>From where are those progressions originating?</p>\n<p></p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/hviwm6agQCk/j7lsutnfig00/easymultiply.png\" alt=\"\" /></p>", 
+      "anon": "no", 
+      "created": "2017-09-15T11:49:26Z", 
+      "uid": "hviwm6agQCk", 
+      "subject": "Fast(er) Multiplication Question"
+    }, 
+    {
+      "content": "<p>In the lecture assessing the runtime for the EasyMultiply solution I was with the voice over all the way through the explanation of why one of the terms was 4T(n/2). Then suddenly we started discussing 2^nA &#43; 2^(n/2)(C&#43;D) &#43; B. \u00a0Where did each of these terms come from? Why would A be multiplied by 2^n and not B?</p>\n<p></p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/hviwm6agQCk/j7lsutnfig00/easymultiply.png\" alt=\"\" /></p>", 
+      "anon": "no", 
+      "created": "2017-09-15T11:27:48Z", 
+      "uid": "hviwm6agQCk", 
+      "subject": "Fast(er) Multiplication Question"
+    }
+  ]
+}

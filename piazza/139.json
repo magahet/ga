@@ -1,0 +1,125 @@
+{
+  "status": "active", 
+  "unique_views": 218, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-01T16:08:54Z", 
+      "data": "j722qrofsed370", 
+      "uid": "hqa65fnalg83fr"
+    }, 
+    {
+      "uid": "hkjzzued3ef4xh", 
+      "type": "i_answer", 
+      "when": "2017-09-01T17:01:07Z", 
+      "to": "j722qrodrbz36z", 
+      "anon": "no", 
+      "data": "j724lxc1jpy3dl"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j722qrodrbz36z", 
+  "bookmarked": 2, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-01T17:01:07Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "hqa65fnalg83fr", 
+        "hz9y0742TXb"
+      ], 
+      "id": "j724lxbwhyl3dk", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Amin Mansuri", 
+          "admin": false, 
+          "photo": "1400911910_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hqa65fnalg83fr"
+        }, 
+        {
+          "name": "Vinh Nguyen", 
+          "admin": false, 
+          "photo": null, 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hz9y0742TXb"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>You can resubmit any times before the deadline.</p>", 
+          "anon": "no", 
+          "created": "2017-09-01T17:01:07Z", 
+          "uid": "hkjzzued3ef4xh", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 139, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw1"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 0, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw1", 
+    "student"
+  ], 
+  "created": "2017-09-01T16:08:54Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145293561, 
+  "tag_good": [
+    {
+      "name": "Jon Erickson", 
+      "admin": false, 
+      "photo": "1503255168_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "ijalzed08k3wp"
+    }
+  ], 
+  "tag_good_arr": [
+    "ijalzed08k3wp"
+  ], 
+  "history": [
+    {
+      "content": "<p>Are resubmissions ok in Gradescope?</p>\n<p></p>\n<p>(I don&#39;t want to get into a bind... and like submitting as I make progress)</p>", 
+      "anon": "no", 
+      "created": "2017-09-01T16:08:54Z", 
+      "uid": "hqa65fnalg83fr", 
+      "subject": "Resubmissions"
+    }
+  ]
+}

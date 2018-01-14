@@ -1,0 +1,313 @@
+{
+  "status": "active", 
+  "unique_views": 153, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-27T09:48:51Z", 
+      "data": "j99ptq9s9hq6f8", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j99ptq9q7f36f7", 
+      "anon": "no", 
+      "when": "2017-10-27T12:42:01Z", 
+      "type": "followup", 
+      "uid": "hyzzr9z7x6a1mz"
+    }, 
+    {
+      "to": "j99ptq9q7f36f7", 
+      "anon": "no", 
+      "when": "2017-10-27T13:34:27Z", 
+      "type": "feedback", 
+      "uid": "ija2ufzr6l0f7"
+    }, 
+    {
+      "to": "j99ptq9q7f36f7", 
+      "anon": "no", 
+      "when": "2017-10-27T13:58:27Z", 
+      "type": "followup", 
+      "uid": "hvvxmpxfuyb2eo"
+    }, 
+    {
+      "to": "j99ptq9q7f36f7", 
+      "anon": "no", 
+      "when": "2017-10-27T15:30:10Z", 
+      "type": "feedback", 
+      "uid": "i4k05w06D2B"
+    }, 
+    {
+      "to": "j99ptq9q7f36f7", 
+      "anon": "no", 
+      "when": "2017-10-27T17:56:49Z", 
+      "type": "followup", 
+      "uid": "i4j6x5bv5ua71n"
+    }, 
+    {
+      "to": "j99ptq9q7f36f7", 
+      "anon": "no", 
+      "when": "2017-10-27T18:07:01Z", 
+      "type": "feedback", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "to": "j99ptq9q7f36f7", 
+      "anon": "no", 
+      "when": "2017-10-27T18:53:37Z", 
+      "type": "feedback", 
+      "uid": "idfwgv9b5br"
+    }, 
+    {
+      "to": "j99ptq9q7f36f7", 
+      "anon": "no", 
+      "when": "2017-10-27T18:55:10Z", 
+      "type": "followup", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j99ptq9q7f36f7", 
+      "anon": "no", 
+      "when": "2017-10-27T19:38:23Z", 
+      "type": "feedback", 
+      "uid": "hz2wlft5i565vr"
+    }
+  ], 
+  "id": "j99ptq9q7f36f7", 
+  "bookmarked": 12, 
+  "tags": [
+    "instructor-poll", 
+    "polls", 
+    "project"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-10-27T12:42:01Z", 
+      "no_upvotes": 0, 
+      "uid": "hyzzr9z7x6a1mz", 
+      "created": "2017-10-27T12:42:01Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j99w0f732f81vz", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-27T13:34:27Z", 
+          "uid": "ija2ufzr6l0f7", 
+          "created": "2017-10-27T13:34:27Z", 
+          "type": "feedback", 
+          "id": "j99xvu8w1vu36o", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Yeah, I have even participated in an online training for DP, so the exam problem seems easy. However, I am not able to pass the resume screen of FB and Google this year as a new grad, no place to use it...</p>\n<p>Although DP did not help me in the interview, this is still my favorite topic and I do enjoy.</p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-27T18:07:01Z", 
+          "uid": "ijbr5ddtwyt6pa", 
+          "created": "2017-10-27T18:07:01Z", 
+          "type": "feedback", 
+          "id": "j9a7md5d8fk544", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Yeah, that why I voted for DP project. I have a ton of those scripts in my bitbucket repo just for that reason. They look great for job applications</p>"
+        }
+      ], 
+      "subject": "<p>FYI, To the students in this program looking\u00a0for a career change. Dynamic programming interview questions are very common\u00a0with large tech companies such as Google, Facebook, etc. I know this is not the purpose of this class. Just sharing information.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-27T13:58:27Z", 
+      "no_upvotes": 0, 
+      "uid": "hvvxmpxfuyb2eo", 
+      "created": "2017-10-27T13:58:27Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j99yqppz586791", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-27T15:30:10Z", 
+          "uid": "i4k05w06D2B", 
+          "created": "2017-10-27T15:30:10Z", 
+          "type": "feedback", 
+          "id": "j9a20nfljy143i", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>FFT is used heavily in signal analysis and electrical engineering. The insights it provides aren&#39;t as applicable to computer science IMO as the other options.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-27T18:53:37Z", 
+          "uid": "idfwgv9b5br", 
+          "created": "2017-10-27T18:53:37Z", 
+          "type": "feedback", 
+          "id": "j9a9aantrz73ts", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "I did plenty applications of FFT while doing my BSEE...you are correct. :)"
+        }
+      ], 
+      "subject": "<p>Difficult to choose one among the 4 given. I wanted to go deeper into FFT to understand more, especially roots of unity. Same can be said about all the 4. Graph/page rank would have been cool too. Giving preference to DP.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-27T17:56:49Z", 
+      "no_upvotes": 0, 
+      "uid": "i4j6x5bv5ua71n", 
+      "created": "2017-10-27T17:56:49Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j9a798y8let36m", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "FFT was the hardest concept to really grasp in the class for me, probably because I don&#39;t have a strong math background. A project there would be useful!"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-27T18:55:10Z", 
+      "no_upvotes": 0, 
+      "uid": "i4ket0u1z5q31a", 
+      "created": "2017-10-27T18:55:10Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j9a9ca1viw94h5", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-27T19:38:23Z", 
+          "uid": "hz2wlft5i565vr", 
+          "created": "2017-10-27T19:38:23Z", 
+          "type": "feedback", 
+          "id": "j9aavuw7sfb39p", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Same here. Too bad it&#39;s such a pain for them to grade.</p>"
+        }
+      ], 
+      "subject": "<p>I want all of them, how can I vote for all of them? :)</p>"
+    }
+  ], 
+  "nr": 837, 
+  "bucket_order": 2, 
+  "type": "poll", 
+  "folders": [
+    "project", 
+    "polls"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "answer": "", 
+    "admin": "", 
+    "has_voted": [], 
+    "result": {}, 
+    "total_votes": 0
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-10-27T09:48:51Z", 
+  "is_tag_good": false, 
+  "config": {
+    "show_results": "av", 
+    "anonymous": "yes", 
+    "multiple_selections": 0, 
+    "unpublished": 0, 
+    "toggle_visibility_on": 1, 
+    "revote": 0, 
+    "allow_followups": "yes", 
+    "bypass_email": 0, 
+    "always_open": 1, 
+    "close_after": "168", 
+    "publish_later": 0
+  }, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145121797, 
+  "tag_good": [
+    {
+      "name": "Kyle P Davis", 
+      "admin": false, 
+      "photo": "1484080691_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "idiy4usuxxs"
+    }
+  ], 
+  "tag_good_arr": [
+    "idiy4usuxxs"
+  ], 
+  "history": [
+    {
+      "content": "<p>In the spirit of the recent polls on the programming projects offered in this class, and in response to a large majority of folks sharing the view that coding a concept helps them understand it, I would like to ask you folks what kind of project you&#39;d like to see, if we were to add a 2nd project to this class?</p>\n<br/> [o] Dynamic Programming Project\n[o] FFT Project\n[o] Graph-Based Project\n[o] Divide And Conquer-Based Project", 
+      "anon": "no", 
+      "created": "2017-10-27T09:48:51Z", 
+      "uid": "gns9oa0pgsO", 
+      "subject": "Type of programming project you&#39;d like to see"
+    }
+  ]
+}

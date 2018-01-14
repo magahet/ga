@@ -1,0 +1,112 @@
+{
+  "status": "active", 
+  "unique_views": 158, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-17T00:55:14Z", 
+      "data": "j8uwcyyivup77c", 
+      "uid": "hkjzzued3ef4xh"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-17T00:55:20Z", 
+      "data": "j8uwd34g2d07c4", 
+      "uid": "hkjzzued3ef4xh"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-17T00:56:07Z", 
+      "data": "j8uwe3m7lcydn", 
+      "uid": "hkjzzued3ef4xh"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-17T00:56:31Z", 
+      "data": "j8uwelyfe38oy", 
+      "uid": "hkjzzued3ef4xh"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-18T17:32:57Z", 
+      "data": "j8xbfvra68l3op", 
+      "uid": "hkjzzued3ef4xh"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8uwcyygeq677b", 
+  "bookmarked": 5, 
+  "tags": [
+    "exam", 
+    "instructor-note"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [], 
+  "nr": 742, 
+  "bucket_order": 2, 
+  "type": "note", 
+  "folders": [
+    "exam"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 3, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-10-17T00:55:14Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145143140, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>I will hold an office hour on Tuesday (tomorrow) 9-10 p.m. ET.</p>\n<p></p>\n<p>Youtube Link:\u00a0<a href=\"https://www.youtube.com/watch?v=KBGoo-Rtv8s\">https://www.youtube.com/watch?v=KBGoo-Rtv8s</a></p>\n<p></p>\n<p>Slido Code:\u00a0CS8803-Tues</p>\n<p></p>", 
+      "anon": "no", 
+      "created": "2017-10-18T17:32:57Z", 
+      "uid": "hkjzzued3ef4xh", 
+      "subject": "Office Hour on Tuesday 10/17"
+    }, 
+    {
+      "content": "<p>I will hold an office hour on Tuesday (tomorrow) 9-10 p.m. ET.</p>\n<p></p>\n<p>Youtube Link:\u00a0<a href=\"https://www.youtube.com/watch?v=KBGoo-Rtv8s\">https://www.youtube.com/watch?v=KBGoo-Rtv8s</a></p>\n<p></p>\n<p>Slido Code:\u00a0CS8803-Tues</p>\n<p>#pin</p>", 
+      "anon": "no", 
+      "created": "2017-10-17T00:56:31Z", 
+      "uid": "hkjzzued3ef4xh", 
+      "subject": "Office Hour on Tuesday 10/17"
+    }, 
+    {
+      "content": "<p>I will hold an office hour tomorrow 9-10 p.m. ET.</p>\n<p></p>\n<p>Youtube Link:\u00a0<a href=\"https://www.youtube.com/watch?v=KBGoo-Rtv8s\">https://www.youtube.com/watch?v=KBGoo-Rtv8s</a></p>\n<p></p>\n<p>Slido Code:\u00a0CS8803-Tues</p>\n<p>#pin</p>", 
+      "anon": "no", 
+      "created": "2017-10-17T00:56:07Z", 
+      "uid": "hkjzzued3ef4xh", 
+      "subject": "Office Hour on Tuesday 10/17"
+    }, 
+    {
+      "content": "<p>I will hold an office hour tomorrow 9-10 p.m. ET.</p>\n<p></p>\n<p>Youtube Link:\u00a0<a href=\"https://www.youtube.com/watch?v=KBGoo-Rtv8s\">https://www.youtube.com/watch?v=KBGoo-Rtv8s</a></p>\n<p></p>\n<p>Slido Code:\u00a0CS8803-Tues</p>\n#pin", 
+      "anon": "no", 
+      "created": "2017-10-17T00:55:20Z", 
+      "uid": "hkjzzued3ef4xh", 
+      "subject": "Office Hour tomorrow"
+    }, 
+    {
+      "content": "<p>I will hold an office hour tomorrow 9-10 p.m. ET.</p>\n<p></p>\n<p>Youtube Link:\u00a0<a href=\"https://www.youtube.com/watch?v=KBGoo-Rtv8s\">https://www.youtube.com/watch?v=KBGoo-Rtv8s</a></p>\n<p></p>\n<p>Slido Code:\u00a0CS8803-Tues</p>", 
+      "anon": "no", 
+      "created": "2017-10-17T00:55:14Z", 
+      "uid": "hkjzzued3ef4xh", 
+      "subject": "Office Hour tomorrow"
+    }
+  ]
+}

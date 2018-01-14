@@ -1,0 +1,1762 @@
+{
+  "status": "active", 
+  "unique_views": 232, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-25T21:50:43Z", 
+      "data": "j80pisc44ox2qd", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-25T21:50:55Z", 
+      "data": "j80pj1l0d0d31q", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j80pisc3wpg2qc", 
+      "anon": "no", 
+      "when": "2017-09-25T22:10:43Z", 
+      "type": "followup", 
+      "uid": "hyvx0owj4ot1a0"
+    }, 
+    {
+      "to": "j80pisc3wpg2qc", 
+      "anon": "no", 
+      "when": "2017-09-25T22:11:47Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j80pisc3wpg2qc", 
+      "anon": "no", 
+      "when": "2017-09-25T22:29:58Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j80pisc3wpg2qc", 
+      "anon": "no", 
+      "when": "2017-09-25T22:35:57Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j80pisc3wpg2qc", 
+      "anon": "no", 
+      "when": "2017-09-25T22:41:48Z", 
+      "type": "followup", 
+      "uid": "ij9b2ekdTWF"
+    }, 
+    {
+      "to": "j80pisc3wpg2qc", 
+      "anon": "no", 
+      "when": "2017-09-25T22:45:41Z", 
+      "type": "followup", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j80pisc3wpg2qc", 
+      "anon": "no", 
+      "when": "2017-09-25T22:45:52Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j80pisc3wpg2qc", 
+      "anon": "no", 
+      "when": "2017-09-25T22:48:19Z", 
+      "type": "feedback", 
+      "uid": "ija2ufzr6l0f7"
+    }, 
+    {
+      "to": "j80pisc3wpg2qc", 
+      "anon": "no", 
+      "when": "2017-09-25T22:50:55Z", 
+      "type": "followup", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j80pisc3wpg2qc", 
+      "anon": "no", 
+      "when": "2017-09-25T22:52:20Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j80pisc3wpg2qc", 
+      "anon": "no", 
+      "when": "2017-09-25T22:52:44Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j80pisc3wpg2qc", 
+      "anon": "no", 
+      "when": "2017-09-25T22:54:53Z", 
+      "type": "feedback", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j80pisc3wpg2qc", 
+      "anon": "no", 
+      "when": "2017-09-25T22:55:27Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j80pisc3wpg2qc", 
+      "anon": "no", 
+      "when": "2017-09-25T22:56:26Z", 
+      "type": "feedback", 
+      "uid": "hv1gl7gmpkj41y"
+    }, 
+    {
+      "to": "j80pisc3wpg2qc", 
+      "anon": "no", 
+      "when": "2017-09-25T22:59:32Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j80pisc3wpg2qc", 
+      "anon": "no", 
+      "when": "2017-09-25T23:02:37Z", 
+      "type": "followup", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j80pisc3wpg2qc", 
+      "anon": "no", 
+      "when": "2017-09-25T23:03:10Z", 
+      "type": "feedback", 
+      "uid": "hyzyc8nwswo6z5"
+    }, 
+    {
+      "to": "j80pisc3wpg2qc", 
+      "anon": "no", 
+      "when": "2017-09-25T23:05:09Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j80pisc3wpg2qc", 
+      "anon": "no", 
+      "when": "2017-09-25T23:07:23Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j80pisc3wpg2qc", 
+      "anon": "no", 
+      "when": "2017-09-25T23:10:32Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j80pisc3wpg2qc", 
+      "anon": "no", 
+      "when": "2017-09-25T23:13:59Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j80pisc3wpg2qc", 
+      "anon": "no", 
+      "when": "2017-09-25T23:17:40Z", 
+      "type": "feedback", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j80pisc3wpg2qc", 
+      "anon": "no", 
+      "when": "2017-09-25T23:18:44Z", 
+      "type": "feedback", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j80pisc3wpg2qc", 
+      "anon": "no", 
+      "when": "2017-09-25T23:19:09Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j80pisc3wpg2qc", 
+      "anon": "no", 
+      "when": "2017-09-25T23:21:40Z", 
+      "type": "feedback", 
+      "uid": "i4ijgkcwkz15lx"
+    }, 
+    {
+      "to": "j80pisc3wpg2qc", 
+      "anon": "no", 
+      "when": "2017-09-25T23:24:42Z", 
+      "type": "followup", 
+      "uid": "ija2uf6e3vger"
+    }, 
+    {
+      "to": "j80pisc3wpg2qc", 
+      "anon": "no", 
+      "when": "2017-09-25T23:26:15Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j80pisc3wpg2qc", 
+      "anon": "no", 
+      "when": "2017-09-25T23:26:45Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j80pisc3wpg2qc", 
+      "anon": "no", 
+      "when": "2017-09-25T23:27:11Z", 
+      "type": "feedback", 
+      "uid": "hyzyc8nwswo6z5"
+    }, 
+    {
+      "to": "j80pisc3wpg2qc", 
+      "anon": "no", 
+      "when": "2017-09-25T23:30:12Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j80pisc3wpg2qc", 
+      "anon": "no", 
+      "when": "2017-09-25T23:31:17Z", 
+      "type": "feedback", 
+      "uid": "hvvxmpxfuyb2eo"
+    }, 
+    {
+      "to": "j80pisc3wpg2qc", 
+      "anon": "no", 
+      "when": "2017-09-25T23:33:15Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j80pisc3wpg2qc", 
+      "anon": "no", 
+      "when": "2017-09-25T23:33:48Z", 
+      "type": "feedback", 
+      "uid": "hvvxmpxfuyb2eo"
+    }, 
+    {
+      "to": "j80pisc3wpg2qc", 
+      "anon": "no", 
+      "when": "2017-09-25T23:36:57Z", 
+      "type": "feedback", 
+      "uid": "hvvxmpxfuyb2eo"
+    }, 
+    {
+      "to": "j80pisc3wpg2qc", 
+      "anon": "no", 
+      "when": "2017-09-25T23:37:57Z", 
+      "type": "feedback", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j80pisc3wpg2qc", 
+      "anon": "no", 
+      "when": "2017-09-25T23:38:10Z", 
+      "type": "feedback", 
+      "uid": "ija2uf6e3vger"
+    }, 
+    {
+      "to": "j80pisc3wpg2qc", 
+      "anon": "no", 
+      "when": "2017-09-25T23:38:22Z", 
+      "type": "feedback", 
+      "uid": "hv8z1sxi8u36nb"
+    }, 
+    {
+      "to": "j80pisc3wpg2qc", 
+      "anon": "no", 
+      "when": "2017-09-25T23:39:11Z", 
+      "type": "feedback", 
+      "uid": "ija2uf6e3vger"
+    }, 
+    {
+      "to": "j80pisc3wpg2qc", 
+      "anon": "no", 
+      "when": "2017-09-25T23:41:25Z", 
+      "type": "feedback", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j80pisc3wpg2qc", 
+      "anon": "no", 
+      "when": "2017-09-25T23:45:45Z", 
+      "type": "feedback", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j80pisc3wpg2qc", 
+      "anon": "no", 
+      "when": "2017-09-25T23:51:25Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j80pisc3wpg2qc", 
+      "anon": "no", 
+      "when": "2017-09-25T23:57:29Z", 
+      "type": "feedback", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j80pisc3wpg2qc", 
+      "anon": "no", 
+      "when": "2017-09-26T00:01:31Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j80pisc3wpg2qc", 
+      "anon": "no", 
+      "when": "2017-09-26T00:26:43Z", 
+      "type": "followup", 
+      "uid": "hv5exp71kfz754"
+    }, 
+    {
+      "to": "j80pisc3wpg2qc", 
+      "anon": "no", 
+      "when": "2017-09-26T00:44:46Z", 
+      "type": "feedback", 
+      "uid": "hvvxmpxfuyb2eo"
+    }, 
+    {
+      "to": "j80pisc3wpg2qc", 
+      "anon": "no", 
+      "when": "2017-09-26T00:46:30Z", 
+      "type": "followup", 
+      "uid": "hz0pn3deX7A"
+    }, 
+    {
+      "to": "j80pisc3wpg2qc", 
+      "anon": "no", 
+      "when": "2017-09-26T02:03:45Z", 
+      "type": "followup", 
+      "uid": "hq9zldzvy63w7"
+    }, 
+    {
+      "to": "j80pisc3wpg2qc", 
+      "anon": "no", 
+      "when": "2017-09-26T02:38:48Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j80pisc3wpg2qc", 
+      "anon": "no", 
+      "when": "2017-09-26T03:49:25Z", 
+      "type": "feedback", 
+      "uid": "i4hpncv9fUf"
+    }, 
+    {
+      "to": "j80pisc3wpg2qc", 
+      "anon": "no", 
+      "when": "2017-09-26T03:51:39Z", 
+      "type": "feedback", 
+      "uid": "i4hpncv9fUf"
+    }, 
+    {
+      "to": "j80pisc3wpg2qc", 
+      "anon": "no", 
+      "when": "2017-09-26T03:52:01Z", 
+      "type": "feedback", 
+      "uid": "idgjs16yZ4K"
+    }, 
+    {
+      "to": "j80pisc3wpg2qc", 
+      "anon": "no", 
+      "when": "2017-09-26T03:53:14Z", 
+      "type": "feedback", 
+      "uid": "i4hpncv9fUf"
+    }, 
+    {
+      "to": "j80pisc3wpg2qc", 
+      "anon": "no", 
+      "when": "2017-09-26T05:33:45Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j80pisc3wpg2qc", 
+      "anon": "no", 
+      "when": "2017-09-26T07:01:55Z", 
+      "type": "feedback", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "to": "j80pisc3wpg2qc", 
+      "anon": "no", 
+      "when": "2017-09-26T07:05:29Z", 
+      "type": "feedback", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j80pisc3wpg2qc", 
+      "anon": "no", 
+      "when": "2017-09-26T07:06:56Z", 
+      "type": "feedback", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j80pisc3wpg2qc", 
+      "anon": "no", 
+      "when": "2017-09-26T07:13:04Z", 
+      "type": "feedback", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "to": "j80pisc3wpg2qc", 
+      "anon": "no", 
+      "when": "2017-09-26T07:24:58Z", 
+      "type": "feedback", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "to": "j80pisc3wpg2qc", 
+      "anon": "no", 
+      "when": "2017-09-26T12:47:59Z", 
+      "type": "feedback", 
+      "uid": "iddoy2bdneb2tv"
+    }, 
+    {
+      "to": "j80pisc3wpg2qc", 
+      "anon": "no", 
+      "when": "2017-09-26T13:27:16Z", 
+      "type": "feedback", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "to": "j80pisc3wpg2qc", 
+      "anon": "no", 
+      "when": "2017-09-26T13:29:33Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j80pisc3wpg2qc", 
+      "anon": "no", 
+      "when": "2017-09-26T13:30:04Z", 
+      "type": "feedback", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "to": "j80pisc3wpg2qc", 
+      "anon": "no", 
+      "when": "2017-09-26T14:15:39Z", 
+      "type": "feedback", 
+      "uid": "hvvxmpxfuyb2eo"
+    }, 
+    {
+      "to": "j80pisc3wpg2qc", 
+      "anon": "no", 
+      "when": "2017-09-26T17:30:48Z", 
+      "type": "feedback", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j80pisc3wpg2qc", 
+      "anon": "no", 
+      "when": "2017-09-26T18:29:15Z", 
+      "type": "followup", 
+      "uid": "ise1ksobB2z"
+    }, 
+    {
+      "to": "j80pisc3wpg2qc", 
+      "anon": "no", 
+      "when": "2017-09-26T19:14:58Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j80pisc3wpg2qc", 
+      "anon": "no", 
+      "when": "2017-09-27T13:56:18Z", 
+      "type": "feedback", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "to": "j80pisc3wpg2qc", 
+      "anon": "no", 
+      "when": "2017-09-27T19:56:42Z", 
+      "type": "feedback", 
+      "uid": "i4ket0u1z5q31a"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j80pisc3wpg2qc", 
+  "bookmarked": 19, 
+  "tags": [
+    "exam", 
+    "student", 
+    "unanswered"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-09-25T22:10:43Z", 
+      "no_upvotes": 0, 
+      "uid": "hyvx0owj4ot1a0", 
+      "created": "2017-09-25T22:10:43Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j80q8hxj24r6ks", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-25T22:11:47Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-09-25T22:11:47Z", 
+          "type": "feedback", 
+          "id": "j80q9vyq4bl2by", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>ah yes, #4.\u00a0 That one was a troubling one for sure.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-25T22:29:58Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-09-25T22:29:58Z", 
+          "type": "feedback", 
+          "id": "j80qx978u52q8", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Answering (p-1)(q-1) is OK.\n\nSorry about #4.  I tried to help you out by breaking it into parts (a) and (b) and by problem 4 in the last homework.  \n\nThe solution is fairly easy after you see it.  E.g., for sets A=[3,4] and B=[0,2,3,4], I make the polynomials:\n  $$A(x) = x^3 &#43; x^4$$ and $$B(x) = 1 &#43; x^2 &#43; x^3 &#43; x^4$$.\nIn general if the number i is in set A then we add the term $$x^i$$ to the polynomial A(x) and similarly B(x) is defined based on the set B.\nThen we compute C(x) = A(x)B(x) using polynomial multiplication.  \nFor the above example, $$C(x) = x^3 &#43; x^4 &#43; x^5 &#43; 2x^6 &#43; 2x^7 &#43; x^8$$.\nThe coefficient 2 for the term $$x^6$$ means that there are 2 ways to add up to 6, namely 3&#43;3 and 4&#43;2.  In general, we read off the coefficients for the polynomial C(x) and that tells us the Cartesian sum of A and B.\n\n--Eric"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-25T22:35:57Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-09-25T22:35:57Z", 
+          "type": "feedback", 
+          "id": "j80r4yhyrxs6rm", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I got #4 right, but it took me some time to figure out what to do. The breakthrough came from reverse-engineering the problem (I need <strong>this</strong>. How do I organize the input so I get it?)</p>\n<p></p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-25T22:48:19Z", 
+          "uid": "ija2ufzr6l0f7", 
+          "created": "2017-09-25T22:48:19Z", 
+          "type": "feedback", 
+          "id": "j80rkv56qk984", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thanks. I am glad that I understood the problem correctly, yeah, it took me a while to figure it out....just worried about my mathematical expressions are\u00a0not good enough for this problem...</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-25T22:52:44Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-09-25T22:52:44Z", 
+          "type": "feedback", 
+          "id": "j80rqjjki2m1gq", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thanks, Dr Vigoda! That softens the blow of my foolishness a bit :)</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-25T22:54:53Z", 
+          "uid": "i4ket0u1z5q31a", 
+          "created": "2017-09-25T22:54:53Z", 
+          "type": "feedback", 
+          "id": "j80rtapoz0z6ls", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Someone posted this on Slack to explain #4:</p>\n<p><a href=\"https://stuffsrandom.wordpress.com/2015/12/04/cartesian-sum-of-two-sets/\">https://stuffsrandom.wordpress.com/2015/12/04/cartesian-sum-of-two-sets/</a></p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-25T22:56:26Z", 
+          "uid": "hv1gl7gmpkj41y", 
+          "created": "2017-09-25T22:56:26Z", 
+          "type": "feedback", 
+          "id": "j80rvaqoeke1ny", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>#4 really through my brain a curveball. I didn&#39;t really understand it.</p>\n<p></p>\n<p>Also...I made a very bad mental math error multiplying p &amp; q for the short answer RSA question....that one I am more upset about than #4.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-25T23:36:57Z", 
+          "uid": "hvvxmpxfuyb2eo", 
+          "created": "2017-09-25T23:36:57Z", 
+          "type": "feedback", 
+          "id": "j80tbehsnbu7ja", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Looking at the solution here, I feel very dumb; I spent around 40 mins trying to reverse engineer this, almost thought I had it, and finally rushed to extra credit since I was too greedy to attempt that.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-25T23:38:22Z", 
+          "uid": "hv8z1sxi8u36nb", 
+          "created": "2017-09-25T23:38:22Z", 
+          "type": "feedback", 
+          "id": "j80td82854i5so", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Dang.\u00a0 After seeing the solution it seems so simple.\u00a0 I spent way too much time looking at this and ended up leaving it blank...</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-26T03:52:01Z", 
+          "uid": "idgjs16yZ4K", 
+          "created": "2017-09-26T03:52:01Z", 
+          "type": "feedback", 
+          "id": "j812ff1ev661m6", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "I loved #4. I wish I could buy a book of problems as creative as that to do like Sudoku for the mental enjoyment."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-26T03:53:14Z", 
+          "uid": "i4hpncv9fUf", 
+          "created": "2017-09-26T03:53:14Z", 
+          "type": "feedback", 
+          "id": "j812gzu19z8797", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Dang! Cannot believe #4 was so simple. I tried my best to reverse engineer based on where we want to go... but alas never got the inspiration needed to crack it! Prof. Vigoda&#39;s solution makes it looks so simple :(</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-26T05:33:45Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-09-26T05:33:45Z", 
+          "type": "feedback", 
+          "id": "j81629en88136e", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Likewise, I can&#39;t believe #1 was so simple! You probably wouldn&#39;t believe how complicated I made it."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-26T07:24:58Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-09-26T07:24:58Z", 
+          "type": "feedback", 
+          "id": "j81a19wdz0j154", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Brent, when you say (p-1)(q-1), wasn&#39;t the question for 3g &#34;when you calculate $$m^e \\!\\!\\!\\mod \\mathrm{??}$$, what is $$\\mathrm{??}$$&#34;? That would be $$pq = n = 341$$, not $$(p-1)(q-1) = 300$$, wouldn&#39;t it?"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-26T12:47:59Z", 
+          "uid": "iddoy2bdneb2tv", 
+          "created": "2017-09-26T12:47:59Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j81lkopke2o4cj", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Mark, M^e mod ??. That would be (P-1)(Q-1). PQ is N not X.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-26T13:27:16Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-09-26T13:27:16Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j81mz7jh3wd2mo", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "No, it&#39;s $$pq$$ else how could anybody encrypt a message, the public key is $$(e, n)$$ then you calculate $$m^e \\!\\!\\!\\mod n$$ as the encrypted message that you send; no-one should know $$(p-1)(q-1)$$ aside from the holder of the secret key. Anybody with $$(p-1)(q-1)$$ could calculate $$e^{-1}\\!\\!\\!\\mod (p-1)(q-1)$$"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-26T13:29:33Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-09-26T13:29:33Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j81n2569d5g30", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "The question was d=e^{-1} mod ??"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-26T13:30:04Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-09-26T13:30:04Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j81n2sv6lpy6h9", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Alright, was it? I must have misread it\nThanks Professor :-)"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-26T14:15:39Z", 
+          "uid": "hvvxmpxfuyb2eo", 
+          "created": "2017-09-26T14:15:39Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j81opfbcbym77z", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>That scared me:)</p>"
+        }
+      ], 
+      "subject": "<p>I spent too long working on the #3 short answer questions.\u00a0 I probably checked and re-checked each answer multiple times.\u00a0 I should have moved on to working on #4 sooner because I felt very rushed towards the end.</p>\n<p></p>\n<p>#4 really threw me for a loop.\u00a0 I kept reading that question over and over again, but I never got the sense that I fully comprehended what we were being asked to provide for a solution.\u00a0 From reading some of my fellow classmates reactions, I&#39;m not alone regarding #4.</p>\n<p></p>\n<p></p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-25T22:41:48Z", 
+      "no_upvotes": 0, 
+      "uid": "ij9b2ekdTWF", 
+      "created": "2017-09-25T22:41:48Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j80rch0ibb764x", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-25T22:45:52Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-09-25T22:45:52Z", 
+          "type": "feedback", 
+          "id": "j80rhpau8p61x2", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Fortunately, that was a small thing, right? Only one part of question #3.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-25T23:18:44Z", 
+          "uid": "i4ket0u1z5q31a", 
+          "created": "2017-09-25T23:18:44Z", 
+          "type": "feedback", 
+          "id": "j80snz4y51b6mr", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>5 points each though right?</p>"
+        }
+      ], 
+      "subject": "<p>Roots of unity :(</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-25T22:45:41Z", 
+      "no_upvotes": 0, 
+      "uid": "hvil6y6khgk2ri", 
+      "created": "2017-09-25T22:45:41Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j80rhgufd2b5ko", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-25T22:59:32Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-09-25T22:59:32Z", 
+          "type": "feedback", 
+          "id": "j80rzal51tv3az", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Sage advice...--Eric"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-26T03:49:25Z", 
+          "uid": "i4hpncv9fUf", 
+          "created": "2017-09-26T03:49:25Z", 
+          "type": "feedback", 
+          "id": "j812c32fj0v43a", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Nice one, Brent! &#43;1 with you.</p>"
+        }
+      ], 
+      "subject": "<p>Just wanted to point something out too....from my time at GA Tech, I have realized that more often than not the exam questions are going to be a variation on a homework problem (if I recall, almost every question was); this is a gift from professors.<br /><br />Think of it this way.\u00a0 These algorithms, in some cases, took CENTURIES to be developed.\u00a0 Most likely, whatever professor you have is not evil and will not expect you to come up with - in 30 minutes, on a test - what took some string of geniuses centuries to develop; the questions asked will be things you have seen before. Use that to your advantage (and dont make dumb mistakes like me!)</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-25T22:50:55Z", 
+      "no_upvotes": 0, 
+      "uid": "hq8hn0qyfuvyr", 
+      "created": "2017-09-25T22:50:55Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j80ro7314lj5ds", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-25T22:52:20Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-09-25T22:52:20Z", 
+          "type": "feedback", 
+          "id": "j80rq0waxf6z2", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Ah, I freaked out a bit when I saw question #1, but then I realized it was a version of value iteration from Reinforcement Learning (just very, very limited); once I had that in mind it was easy.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-25T22:55:27Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-09-25T22:55:27Z", 
+          "type": "feedback", 
+          "id": "j80ru11tx7q1z2", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>The description of the problem was long and intimidating (with a matrix as an input). A lot of text for what was supposed to be a simple problem.</p>\n<p></p>\n<p>It was very intimidating, but it wasn&#39;t hard. What got me over the fear was that I said: &#34;Ok, the professor said that this was the easy one, so let&#39;s look at it from that angle&#34;.</p>\n<p></p>\n<p>&#64;Nolan, you just ruined HPC for me. Now I&#39;m questioning whether to even take the class at all :)</p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-25T23:03:10Z", 
+          "uid": "hyzyc8nwswo6z5", 
+          "created": "2017-09-25T23:03:10Z", 
+          "type": "feedback", 
+          "id": "j80s3yrdk6xfy", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "I came up with a solution to 1 without that much trouble.<div><br /></div><div>About 2 hours after the exam when I went out for dinner it suddenly dawned on me that I didn&#39;t consider some edge cases and had designed the solution too dependent on the matrix that was given. Once I realized that, it took me about ten seconds to come up with a more general solution (that was without a doubt the correct approach to the problem).</div>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-25T23:05:09Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-09-25T23:05:09Z", 
+          "type": "feedback", 
+          "id": "j80s6i2m84t3fu", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "&#64;Santiago, I&#39;m sorry! It really is a good class, and I&#39;m glad I took it.\n\nI definitely don&#39;t want to say &#34;I would have done fine if it weren&#39;t for {something that was someone else&#39;s fault}&#34;, but there were a couple of contributing factors. There was the scrolling issue that someone else mentioned, where it&#39;s difficult to see the whole problem at once. \n\nIn addition, by the time I started working on #1 in earnest, ProctorTrack had started freaking out. Every couple of minutes it would popup a dialog asking whether I wanted to kill it and restart it, and I was concerned about whether it was working at all, and what the right answer should be to it&#39;s question, and whether I was going to accidentally click on the answer I didn&#39;t mean to choose. I know that doesn&#39;t sound that serious, but I have trouble concentrating sometimes anyway, so it didn&#39;t help.\n\nWhat I eventually realized about #1 was how it relates to the pattern of filling in of the table for the non-repetition knapsack problem."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-25T23:19:09Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-09-25T23:19:09Z", 
+          "type": "feedback", 
+          "id": "j80soi90f086u4", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#64;Nolan, I read on the other post that you got an A so that means that there was a good curve. The HPC topic fascinates me, so that will be my next one for sure.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-25T23:21:40Z", 
+          "uid": "i4ijgkcwkz15lx", 
+          "created": "2017-09-25T23:21:40Z", 
+          "type": "feedback", 
+          "id": "j80srqptp124aa", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>HPC is an amazing class.\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-25T23:33:15Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-09-25T23:33:15Z", 
+          "type": "feedback", 
+          "id": "j80t6n5ez845j", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "See? That&#39;s what I mean. Almost everyone who has taken HPC says 1) It was very difficult. 2) It was a great class.\n\nIt&#39;s also true that projects make up the bulk of the grade. But they are tough. You have to allow plenty of time."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-26T03:51:39Z", 
+          "uid": "i4hpncv9fUf", 
+          "created": "2017-09-26T03:51:39Z", 
+          "type": "feedback", 
+          "id": "j812ey6zl075vl", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#43;1 Enjoyed HPC!</p>"
+        }
+      ], 
+      "subject": "Man, I hate to even talk about this. But, as you said, it&#39;s a cathartic thread, so I probably should.\n\nThe strange thing is that I found problem #4 very easy and did it in perhaps 5 minutes. \n\nBut the one that I just couldn&#39;t get is the one that hardly anyone is talking about, and that&#39;s #1. I saved it for last (except I never got to the extra credit), and then spent literally an hour on it and just couldn&#39;t get it. I finally decided it was very complicated, and attempted to write a complicated answer that I didn&#39;t finish in time. Hours later, I was at a concert with my daughter and was obsessively reviewing the problem, and I suddenly realized how ridiculously simple it is. It was like being kicked in the stomach.\n\nWhat I should have done is: 1) Realized that #1 had to have a simple answer. 2) Given up on #1 and done the extra credit. I almost surely could have done the extra credit problem in the hour that I wasted on #1, but I kept digging a hole, and I was dissuaded by the all-or-nothing grading for the extra credit and the fact that I wasn&#39;t really sure how many points it would be worth.\n\nWell, I&#39;m sure I did better than the score of 27 I got on my first HPC exam. (Although the class average was about 31, so that wasn&#39;t as horrible as it sounds.)"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-25T23:02:37Z", 
+      "no_upvotes": 0, 
+      "uid": "i4ket0u1z5q31a", 
+      "created": "2017-09-25T23:02:37Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j80s39fcuzq6pt", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-25T23:07:23Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-09-25T23:07:23Z", 
+          "type": "feedback", 
+          "id": "j80s9dpyhwb5r5", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>The dumb/careless mistakes sting far harder than the questions you did not know.\u00a0 That said, I still have a feeling you are more or less fine.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-25T23:10:32Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-09-25T23:10:32Z", 
+          "type": "feedback", 
+          "id": "j80sdfp2htd344", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Well, it&#39;s easy to compare one&#39;s self against the imaginary students who do everything perfectly. The fact is that there just aren&#39;t that many who do. So, while I&#39;m regretting messing up #1, I think I did #4 correctly. My neurotic thought is that everyone but me did #1, #4, and all the others correctly."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-25T23:13:59Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-09-25T23:13:59Z", 
+          "type": "feedback", 
+          "id": "j80shvaxdlu642", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thats true too, Nolan.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-25T23:17:40Z", 
+          "uid": "i4ket0u1z5q31a", 
+          "created": "2017-09-25T23:17:40Z", 
+          "type": "feedback", 
+          "id": "j80smlwub4j5oc", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Well, my only problem with this class is I still haven&#39;t recovered emotionally from ML this spring where the grading and feedback were inconsistent and mind numbingly frustrating.</p>\n<p>This class has been good so far, a bit of a fire hose for me after burning out physically a couple weeks ago, but still a well done course.\u00a0 My mind just isn&#39;t ready after being so ticked off at ML a few months ago so I&#39;m struggling to get into working so hard again for fear it won&#39;t pay off or I&#39;ll get sick again.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-25T23:33:48Z", 
+          "uid": "hvvxmpxfuyb2eo", 
+          "created": "2017-09-25T23:33:48Z", 
+          "type": "feedback", 
+          "id": "j80t7d1cmpkru", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Ah damn, I thought I nailed extra credit. And I thought\u00a0the question was asking X as subsequence and Y as substring. Looking at David&#39;s post, I think I might have overlooked:(. But I dont think TAs will be cruel if we have done the solution correctly (and if we have explicitly mentioned what we treated as subsequence vs substring).</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-25T23:37:57Z", 
+          "uid": "i4ket0u1z5q31a", 
+          "created": "2017-09-25T23:37:57Z", 
+          "type": "feedback", 
+          "id": "j80tcojhsjq2y5", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Except I explicitly stated the expected assignment of substring and subsequence and then reversed them in the indexing in all cases in the recurrence and pseudo-code.\u00a0 So technically it will work correctly if you pass the parameters as (Y, X) instead of (X, Y) but I&#39;m worried about that &#34;all or nothing&#34; comment if that is enough to give me 0. :(</p>\n<p>One of my co-workers told me some good advice: the exam is over, move on.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-26T00:44:46Z", 
+          "uid": "hvvxmpxfuyb2eo", 
+          "created": "2017-09-26T00:44:46Z", 
+          "type": "feedback", 
+          "id": "j80vqmm3b7m5lu", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#34;One of my co-workers told me some good advice: the exam is over, move on.&#34; &lt;-- Lol. True, there is too much\u00a0hangover.</p>"
+        }
+      ], 
+      "subject": "<p>I made lots of stupid mistakes that I only realized after I submitted the test and the pressure was off. :(</p>\n<p>The ones I know of for sure:</p>\n<ul><li>Lots of #3, accidentally writing down the GCD instead of the inverse (which didn&#39;t exist), forgetting how to do the inverse for roots of unity (I only remember the circle movement and flipping on the X axis for a simple base 2 case but not the generic case math), accidentally using N instead of phi(N), etc.</li><li>#4, I got the idea of the goal but had no idea how to write it up correctly because I don&#39;t have math education.</li><li>Extra credit, I totally nailed it (I think) but in my crazy hurry to finish on time I wrote it down sloppy and, worse, I inverted my indexes so that X was subsequence and Y was substring instead of the other way around. :(</li><li>Probably didn&#39;t write my base cases down or in the right place (I still haven&#39;t figured out where those are supposed to go but I got in trouble on the homework for mentioning them in the recurrence\u00a0sections)</li></ul>\n<p>I&#39;m sure I messed up lots of other stuff I didn&#39;t realize.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-25T23:24:42Z", 
+      "no_upvotes": 0, 
+      "uid": "ija2uf6e3vger", 
+      "created": "2017-09-25T23:24:42Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j80svnjxwn9ju", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-25T23:26:15Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-09-25T23:26:15Z", 
+          "type": "feedback", 
+          "id": "j80sxn9zzvn1y2", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thats awesome!!!!!!!!</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-25T23:26:45Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-09-25T23:26:45Z", 
+          "type": "feedback", 
+          "id": "j80syaoxugnpq", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I love this story!</p>\n<p></p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-25T23:27:11Z", 
+          "uid": "hyzyc8nwswo6z5", 
+          "created": "2017-09-25T23:27:11Z", 
+          "type": "feedback", 
+          "id": "j80syuc6que6kk", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Very cool.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-25T23:30:12Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-09-25T23:30:12Z", 
+          "type": "feedback", 
+          "id": "j80t2ptozvs303", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "I&#39;ve imagined this sort of scenario, where the question the interviewer asks just happens to be one I already know. And in my imagination, I&#39;m thinking something like &#34;OK, be cool. Don&#39;t make it obvious that you already know the answer.&#34;"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-25T23:31:17Z", 
+          "uid": "hvvxmpxfuyb2eo", 
+          "created": "2017-09-25T23:31:17Z", 
+          "type": "feedback", 
+          "id": "j80t43zl7125px", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Nice:), one of my friends who is also taking this class said the same D&amp;C problem came to him - though it was a different flavor:\u00a0max difference between elements in the array.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-25T23:38:10Z", 
+          "uid": "ija2uf6e3vger", 
+          "created": "2017-09-25T23:38:10Z", 
+          "type": "feedback", 
+          "id": "j80tcyw6b9q5pd", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#64;nolan -\u00a0Normally would have played it cool too, but I just laughed out loud and told the interviewer that I had just literally submitted my algos homework last week with this exact problem. can&#39;t not give props to the class. :)\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-25T23:39:11Z", 
+          "uid": "ija2uf6e3vger", 
+          "created": "2017-09-25T23:39:11Z", 
+          "type": "feedback", 
+          "id": "j80te9u1ja26nv", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>(also was really ambivalent about the interview after their recruiter called me three times at midnight before leaving a message to schedule it.)\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-25T23:41:25Z", 
+          "uid": "i4ket0u1z5q31a", 
+          "created": "2017-09-25T23:41:25Z", 
+          "type": "feedback", 
+          "id": "j80th5kpthq61h", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#64;Nolan Capehart, if you find yourself in an interview with the situation where you know the algorithm, make sure you DO TELL them you know it.</p>\n<p>Here is why:</p>\n<ol><li>If you tell them you know the problem they may just ask you to show them the solution anyway and then you are laughing\u00a0plus you were honest as well.</li><li>They should appreciate the honesty;\u00a0but if you don&#39;t tell them and they suspect or figure it out, then you will have blown the interview for being dishonest.</li><li>Some interviewers fail to prepare more than one question so if you tell them you already know their question then you might get a &#34;free pass&#34; so to speak for that interview.</li></ol>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-25T23:45:45Z", 
+          "uid": "i4ket0u1z5q31a", 
+          "created": "2017-09-25T23:45:45Z", 
+          "type": "feedback", 
+          "id": "j80tmq7plid4wj", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#64;Julie Chua, good thing you told them. :)</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-25T23:51:25Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-09-25T23:51:25Z", 
+          "type": "feedback", 
+          "id": "j80tu099wmi34c", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "&#64;David, I agree about being honest about it. I wasn&#39;t seriously saying that I would try to do that. Besides the morality of it, I, like Julia, would think that it was such a great coincidence that I&#39;d have to tell them."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-25T23:57:29Z", 
+          "uid": "i4ket0u1z5q31a", 
+          "created": "2017-09-25T23:57:29Z", 
+          "type": "feedback", 
+          "id": "j80u1sywvot4pu", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>After learning a bunch of dynamic programming algorithms I&#39;ve dreamt one night that I was being interviewed. ;)</p>\n<p>Hopefully they will be very helpful to know in the future.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-26T00:01:31Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-09-26T00:01:31Z", 
+          "type": "feedback", 
+          "id": "j80u6zzrnj61ub", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "After I realized how simple Problem #1 from the exam is to solve, THAT&#39;S the one that I dream about being asked in an interview. It even seems like an interview question somehow."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-26T07:01:55Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-09-26T07:01:55Z", 
+          "type": "feedback", 
+          "id": "j8197miqxwt5q2", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "For the max profit stock trading question, isn&#39;t the DP answer O(n) while the basic D&amp;C answer is O(n log n) ?"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-26T07:05:29Z", 
+          "uid": "i4ket0u1z5q31a", 
+          "created": "2017-09-26T07:05:29Z", 
+          "type": "feedback", 
+          "id": "j819c8508cx7kr", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>D&amp;C of trading is O(n).</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-26T07:13:04Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-09-26T07:13:04Z", 
+          "type": "feedback", 
+          "id": "j819lysr6yr3iy", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "That&#39;s not the straightforward / easy-to-remember D&amp;C answer though. The O(n) DP answer is relatively straightforward / trivial to remember."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-26T17:30:48Z", 
+          "uid": "i4ket0u1z5q31a", 
+          "created": "2017-09-26T17:30:48Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j81vodztl0z2rx", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>For part a) it was divide into left and right halves, scan the left half for min = O(n/2), scan the right half for max = O(n/2), so combined it is O(n).</p>\n<p>For part b), if you did it inefficiently and repeated comparisons at each split you would get O(n log(n)) but I did part c for part b without realizing it and then had to explain how to make b be inefficient as expected.</p>\n<p>For part c) you can pass up the min, max, delta, best min, and best max from each split layer and merge such that you really only do n-1 merge comparisons and since you only visit each element once it&#39;s still O(n).</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-27T13:56:18Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-09-27T13:56:18Z", 
+          "type": "feedback", 
+          "id": "j833gdw11oj5ag", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "I think you&#39;ll discover that the DP $$O(n)$$ algorithm is more efficient than the D&amp;C $$O(n)$$ in practice, as it could be implemented without recursion"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-27T19:56:42Z", 
+          "uid": "i4ket0u1z5q31a", 
+          "created": "2017-09-27T19:56:42Z", 
+          "type": "feedback", 
+          "id": "j83gbvfgqw96az", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Absolutely, the fact we &#34;ignore&#34; the overhead of pushing and popping things on the stack for function calls and other real world performance considerations is one of the things that bugs me about big O(.) notation.</p>"
+        }
+      ], 
+      "subject": "<p>I appreciate this post. Thanks for sharing Brent.\u00a0<br />Personally blanked out on #4 and Extra Credit. Missed a question or two in #3. Ran into some timing issues too. It&#39;s refreshing to hear from people who didn&#39;t do as well as they would have hoped either.\u00a0</p>\n<p></p>\n<p>I do appreciate the pedagogy of the class so far. I&#39;m genuinely learning a lot -- and Fun Fact: I had an impromptu algos interview with a big bank last Friday, and the question was the max profit trading problem from our homework. I whipped out my D&amp;C solution and managed to confuse my interviewer because it was the first solution he&#39;d seen without iterations. One of the myriad reasons I won&#39;t be pursuing employment there -- but it&#39;s great that I&#39;m already reaping the benefits of this class.\u00a0</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-26T00:26:43Z", 
+      "no_upvotes": 0, 
+      "uid": "hv5exp71kfz754", 
+      "created": "2017-09-26T00:26:43Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j80v3e89mgp2qw", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>I made a bonehead mistake on knapsack pseudocode.\u00a0 When iterating the k value i\u00a0wrote\u00a0$$k&#39; = 1 \\to n$$ instead of\u00a0$$k&#39; = 1 \\to k$$\u00a0 I worked knapsack so many times and can&#39;t believe i wrote that.\u00a0 And as a result, i messed up my run time.\u00a0 A matter of trying to go through the test too fast i guess.</p>\n<p></p>\n<p>Also, on the bonus question.\u00a0 \u00a0My solution was correct but not the most efficient.\u00a0 \u00a0For the subsequence, I looped back through the second string instead of just checking the previous.\u00a0 The result is the same but the run time is worse.\u00a0 After I submitted and thought about it more, I realized it.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-26T00:46:30Z", 
+      "no_upvotes": 0, 
+      "uid": "hz0pn3deX7A", 
+      "created": "2017-09-26T00:46:30Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j80vsus0cx1nl", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>Just realized I messed up the Q2 runtime. Same mistake as you O(n^2) instead of O(nk). Doh!</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-26T02:03:45Z", 
+      "no_upvotes": 0, 
+      "uid": "hq9zldzvy63w7", 
+      "created": "2017-09-26T02:03:45Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j80yk6js71yzy", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-26T02:38:48Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-09-26T02:38:48Z", 
+          "type": "feedback", 
+          "id": "j80zt9own4j1qm", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "This is a true story. \n\nI took an exam and was very confident I had made 100% on it. Before the exam was returned, I had a dream, and in my dream I took that exam, turned it in, and then realized I had given a wrong answer on a question. After I woke up, I thought about the dream, and I realized that I had indeed answered that question wrong.\n\nBefore the exams were returned, I was talking to the the professor (my advisor), and I told him that sometimes I would solve problems in my sleep. I mentioned the dream and my realization that I gave the wrong answer on the real exam. He looked puzzled by that, and told me that no, I didn&#39;t answer the question wrong (he had graded but not returned the exam). But that confused me, because I really believed I&#39;d answered it wrong, and more than that, I was disturbed that I was wrong about being wrong.\n\nIn the next class session, exams were returned. I immediately turned to that problem and saw that I put the wrong answer. I was ecstatic. I took it up to the professor after class and pointed out that I was right about being wrong. I of course assumed he&#39;d want to lower my grade, but he said that if I could correct my mistakes in my sleep, I deserved the points."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-26T07:06:56Z", 
+          "uid": "i4ket0u1z5q31a", 
+          "created": "2017-09-26T07:06:56Z", 
+          "type": "feedback", 
+          "id": "j819e33hzsuh1", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Ha ha! That is an awesome story!</p>"
+        }
+      ], 
+      "subject": "I found that I woke up the next morning and thought of all the solutions I should have answered on the exam. \u00a0 This morning, without looking at any additional information, I could answer all the Extra credit and the DP. I am pretty sure I made the mistake in the extra credit and at least Q2. \u00a0 The conditions for taking the exam where not the best. \u00a0I am 300 miles from my house and had to wait for the noise to stop (which meant late at night instead of first thing in the morning).\u00a0<div><br /></div><div>When I returned from a business trip the prior week, I found out my wife was being relocated. \u00a0We had to immediately leave for her work and to try to find a home for the next move. \u00a0Life is always fun. \u00a0</div>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-26T18:29:15Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "ise1ksobB2z", 
+      "created": "2017-09-26T18:29:15Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j81xrk7jiaj3i3", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-26T19:14:58Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-09-26T19:14:58Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j81zecghiur1et", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>What I did was saw the countdown timer and just thought to myself &#39;once this hits 25:00 I gotta put my pen down&#39;</p>"
+        }
+      ], 
+      "subject": "<p>I was scared about not finishing before the\u00a02 hrs ended and kept checking the time every now and then. I wish proctortrack showed the break up for 2hr&#43;25mins.</p>"
+    }
+  ], 
+  "nr": 429, 
+  "bucket_order": 2, 
+  "type": "note", 
+  "folders": [
+    "exam"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 3, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-09-25T21:50:43Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145219943, 
+  "tag_good": [
+    {
+      "name": "Julie Chua", 
+      "admin": false, 
+      "photo": "1466029351_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "ija2uf6e3vger"
+    }, 
+    {
+      "name": "abarysevich", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4t8eakz3ex6lk"
+    }
+  ], 
+  "tag_good_arr": [
+    "ija2uf6e3vger", 
+    "i4t8eakz3ex6lk"
+  ], 
+  "history": [
+    {
+      "content": "<p>Hi All,</p>\n<p></p>\n<p>So I am starting a cathartic thread.\u00a0 Where did you go wrong on the exam?<br /><br />For me I really screwed up Q3.\u00a0 There were some that I just couldnt figure out, but I am particularly embarrassed that for 3.f and 3.g it was actually referencing a given pair of (p,q); for whatever reason I did not see (p,q) so I thought the questions were pertaining to the general and not to the specific (p, q) given (so that means for 3.g I answered &#39;(p-1)(q-1)&#39;).<br /><br />Also, for Q2, I put the runtime as O(n^2) instead of the correct O(nk) as I was just not thinking.<br /><br />So, why are you kicking yourself tonight? :)</p>", 
+      "anon": "no", 
+      "created": "2017-09-25T21:50:55Z", 
+      "uid": "hvil6y6khgk2ri", 
+      "subject": "So Where Did You Mess Up?"
+    }, 
+    {
+      "content": "<p>Hi All,</p>\n<p></p>\n<p>So I am starting a cathartic thread.\u00a0 Where did you go wrong on the exam?<br /><br />For me I really screwed up Q3.\u00a0 There were some that I just couldnt figure out, but I am particularly embarrassed that for 3.f and 3.g it was actually referencing a given pair of (p,q); for whatever reason I did not see (p,q) so I thought the questions were pertaining to the general and not to the specific (p, q) given (so that means for 3.g I answered &#39;(p-1)(q-1)&#39;).<br /><br />Also, for Q2, I put the runtime as O(n^2) instead of the correct O(nk) as I was just not thinking.<br /><br />So, why are you kicking yourself tonight? :)</p>", 
+      "anon": "no", 
+      "created": "2017-09-25T21:50:43Z", 
+      "uid": "hvil6y6khgk2ri", 
+      "subject": "So Where Did You Mess Up?"
+    }
+  ]
+}

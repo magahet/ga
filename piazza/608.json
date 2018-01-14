@@ -1,0 +1,243 @@
+{
+  "status": "active", 
+  "unique_views": 157, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-05T15:48:17Z", 
+      "data": "j8emz7v6nzh3hj", 
+      "uid": "hz6fs7qs6ps161"
+    }, 
+    {
+      "to": "j8emz7v5g563hi", 
+      "anon": "no", 
+      "when": "2017-10-05T16:51:07Z", 
+      "type": "followup", 
+      "uid": "iddoy2bdneb2tv"
+    }, 
+    {
+      "uid": "gy4twfv45cg5o6", 
+      "type": "i_answer", 
+      "when": "2017-10-05T18:15:09Z", 
+      "to": "j8emz7v5g563hi", 
+      "anon": "no", 
+      "data": "j8es82zwvsb26w"
+    }, 
+    {
+      "to": "j8emz7v5g563hi", 
+      "anon": "no", 
+      "when": "2017-10-06T04:38:37Z", 
+      "type": "feedback", 
+      "uid": "hz6fs7qs6ps161"
+    }, 
+    {
+      "to": "j8emz7v5g563hi", 
+      "anon": "no", 
+      "when": "2017-10-10T20:55:36Z", 
+      "type": "followup", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j8emz7v5g563hi", 
+      "anon": "no", 
+      "when": "2017-10-10T21:00:07Z", 
+      "type": "feedback", 
+      "uid": "iddoy2bdneb2tv"
+    }, 
+    {
+      "to": "j8emz7v5g563hi", 
+      "anon": "no", 
+      "when": "2017-10-11T01:24:09Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j8emz7v5g563hi", 
+      "anon": "no", 
+      "when": "2017-10-11T02:01:50Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8emz7v5g563hi", 
+  "bookmarked": 5, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-10-05T16:51:07Z", 
+      "no_upvotes": 0, 
+      "uid": "iddoy2bdneb2tv", 
+      "created": "2017-10-05T16:51:07Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8ep80h5mu44r2", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-06T04:38:37Z", 
+          "uid": "hz6fs7qs6ps161", 
+          "created": "2017-10-06T04:38:37Z", 
+          "type": "feedback", 
+          "id": "j8fehvni5t84vz", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>oh, good. I have not gone through 2-SAT and was not aware that it&#39;s an application of SCC.\u00a0</p>"
+        }
+      ], 
+      "subject": "<p>I think the main point of the lecture is to show how you can use SCC algorithm to solve a problem. In this case the 2SAT problem</p>"
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-05T18:15:09Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j8es82ztlmh26v", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "As Jesse said below, and in addition to get you used to the SAT problem.  Later we&#39;ll prove that 3SAT is NP-complete.", 
+          "anon": "no", 
+          "created": "2017-10-05T18:15:09Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-10T20:55:36Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "hvil6y6khgk2ri", 
+      "created": "2017-10-10T20:55:36Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8m35p1r3s916l", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-10T21:00:07Z", 
+          "uid": "iddoy2bdneb2tv", 
+          "created": "2017-10-10T21:00:07Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j8m3bhrqxxj2xn", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I think we should understand how the SCC algorithm help us figure out how to solve 2 SAT. I dont think there is a 2SAT question on the exam.. but more like how would we use SCC to solve a problem, in this 2SAT. I&#39;ll try to understand how SCC helps us solve 2-SAT. Does that make sense?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-11T01:24:09Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-10-11T01:24:09Z", 
+          "type": "feedback", 
+          "id": "j8mcr1r1fy22e8", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "As Jesse said.  The 2SAT algorithm illustrates an application of the SCC algorithm, much like the homework problems.  It is also important to get you comfortable with the SAT problem, which plays a key role in NP-completeness."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-11T02:01:50Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-10-11T02:01:50Z", 
+          "type": "feedback", 
+          "id": "j8me3i4bzs42ha", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Ah, ok. In that case, I will try to wrap my head around it for exam 2, but will certainly know it for exam 3. Thanks!</p>"
+        }
+      ], 
+      "subject": "<p>Should we really understand the 2SAT problem well for Exam 2?<br /><br />I ask because I understood most of the graph algorithms, but some things about those 2SAT videos still vex me. Our time for prepping on this exam was shortened by the project - so we REALLY have to use our time efficiently, and since 2SAT was difficult for me... would it make more sense to try to figure this out after exam 2 when we have a bit more time (meaning: this will be on exam 3), or should we work through it and understand 2SAT really well for exam 2?</p>"
+    }
+  ], 
+  "nr": 608, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw4"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 2, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw4", 
+    "student"
+  ], 
+  "created": "2017-10-05T15:48:17Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145178354, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>Are we supposed to go through\u00a02-SAT videos also for this course? I can see it as part of Lecture\u00a0schedule but not included in the homework though</p>", 
+      "anon": "no", 
+      "created": "2017-10-05T15:48:17Z", 
+      "uid": "hz6fs7qs6ps161", 
+      "subject": "why is 2-SAT not part of homework 4?"
+    }
+  ]
+}

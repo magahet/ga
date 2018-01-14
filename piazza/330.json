@@ -1,0 +1,285 @@
+{
+  "status": "active", 
+  "unique_views": 212, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-17T00:40:08Z", 
+      "data": "j7o0lzo9mw92ea", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-17T01:21:05Z", 
+      "data": "j7o22nvebkg6py", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "uid": "iddrzsd4r7kfm", 
+      "type": "s_answer", 
+      "when": "2017-09-17T08:11:49Z", 
+      "to": "j7o0lzo6qxc2e9", 
+      "anon": "no", 
+      "data": "j7ogquphn576re"
+    }, 
+    {
+      "to": "j7o0lzo6qxc2e9", 
+      "anon": "no", 
+      "when": "2017-09-17T08:24:34Z", 
+      "type": "followup", 
+      "uid": "idej2kl6hh1"
+    }, 
+    {
+      "to": "j7o0lzo6qxc2e9", 
+      "anon": "no", 
+      "when": "2017-09-17T14:10:32Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j7o0lzo6qxc2e9", 
+      "anon": "no", 
+      "when": "2017-09-17T14:11:28Z", 
+      "type": "followup", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j7o0lzo6qxc2e9", 
+      "anon": "no", 
+      "when": "2017-09-17T16:50:55Z", 
+      "type": "followup", 
+      "uid": "hveop63kovn61t"
+    }, 
+    {
+      "to": "j7o0lzo6qxc2e9", 
+      "anon": "no", 
+      "when": "2017-09-17T17:11:07Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j7o0lzo6qxc2e9", 
+      "anon": "no", 
+      "when": "2017-09-17T17:53:01Z", 
+      "type": "followup", 
+      "uid": "hkvhtvraa6x6cg"
+    }, 
+    {
+      "to": "j7o0lzo6qxc2e9", 
+      "anon": "no", 
+      "when": "2017-09-17T19:05:58Z", 
+      "type": "feedback", 
+      "uid": "j6m1j9wkzk46tu"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j7o0lzo6qxc2e9", 
+  "bookmarked": 9, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-17T08:11:49Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j7ogqupet7m6rd", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>Yes, your understanding seems correct. Interestingly I think this problem can easily be solved in O(n) time without D&amp;C.</p>", 
+          "anon": "no", 
+          "created": "2017-09-17T08:11:49Z", 
+          "uid": "iddrzsd4r7kfm", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-17T08:24:34Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "idej2kl6hh1", 
+      "created": "2017-09-17T08:24:34Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7oh792szw47ds", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-17T14:10:32Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-09-17T14:10:32Z", 
+          "type": "feedback", 
+          "id": "j7otk5x9n53md", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>There is a way to do it.\u00a0You have\u00a0to design B so that it does everything that it needs to do except what A will do for it.</p>\n<p></p>\n<p>The big problem with this homework question is that what you end up with is basically kind of goofy. No one would ever design software to work this way, so it&#39;s hard to turn off our thinking about what makes sense in order to do what this problem requires. As Tyler mentions, there is a simple O(n) way to solve the problem which doesn&#39;t use D&amp;C, and part of my brain wouldn&#39;t let that go long enough for me to do it the way that&#39;s required.</p>"
+        }
+      ], 
+      "subject": "<p>I think the hint for part B is throwing me off. I&#39;ve been trying to think of a way to use my naive algorithm from part A for a long time...</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-17T14:11:28Z", 
+      "no_upvotes": 0, 
+      "uid": "hq8hn0qyfuvyr", 
+      "created": "2017-09-17T14:11:28Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7otld9psyg10e", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>Thanks, Tyler. I had concluded the same thing about a non-D&amp;C solution, and that was part of my hang-up when I was trying to do the homework.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-17T16:50:55Z", 
+      "no_upvotes": 0, 
+      "uid": "hveop63kovn61t", 
+      "created": "2017-09-17T16:50:55Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7ozaf5rlz027p", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-17T17:11:07Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-09-17T17:11:07Z", 
+          "type": "feedback", 
+          "id": "j7p00e9yc712mh", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I confirmed with the professor that &#34;profit&#34; is all we need to return.</p>"
+        }
+      ], 
+      "subject": "<p>The wording of part b makes it seem like we should be returning the optimal buy/sell pair. But the main description of part B says we should return the profit. Which is it?\u00a0</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-17T17:53:01Z", 
+      "no_upvotes": 0, 
+      "uid": "hkvhtvraa6x6cg", 
+      "created": "2017-09-17T17:53:01Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7p1iagyh37ce", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-17T19:05:58Z", 
+          "uid": "j6m1j9wkzk46tu", 
+          "created": "2017-09-17T19:05:58Z", 
+          "type": "feedback", 
+          "id": "j7p443rf6kx7n9", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Merging means use results of previous sub-problems in addition to some computation for current problem for finding correct answer. Another good hint is that in part A we didn&#39;t use recursion which we need to use in part B."
+        }
+      ], 
+      "subject": "My issue is that it&#39;s very easy to come out with a solution to part A. \n\nBut for part B, I have no idea on how to formula a &#34;merge&#34; step by using the difference obtained from part A."
+    }
+  ], 
+  "nr": 330, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw3"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 4, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw3", 
+    "student"
+  ], 
+  "created": "2017-09-17T00:40:08Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145238176, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "I&#39;m completely stumped by this problem. The only thing I can imagine is that I&#39;m interpreting the requirements differently than they were intended. So, I&#39;m going to restate the requirements, and if anyone notices a discrepancy, I&#39;d appreciate knowing about it.\n\nPart A asks me to write an algorithm that takes an array of prices, then returns the maximum increase from a price in the first half of the array to a price in the second half of the array.\n\nPart B asks me to write an algorithm that takes an array of prices, then returns the maximum increase from one price to a later price. The algorithm has to somehow use D&amp;C, it must be in O(n log n), and it should use the algorithm from Part A.\n\nPart C (Extra Credit) is the same as Part B, except it must be in O(n), and there&#39;s no mention of using Part A, but there is a different hint.\n\nDoes anyone understand the requirements differently?\n\nUpdate: I think I&#39;ve found a way to do this according to my understand of the requirements as I mention above.", 
+      "anon": "no", 
+      "created": "2017-09-17T01:21:05Z", 
+      "uid": "hq8hn0qyfuvyr", 
+      "subject": "HW3, Problem 3 - What am I missing?"
+    }, 
+    {
+      "content": "I&#39;m completely stumped by this problem. The only thing I can imagine is that I&#39;m interpreting the requirements differently than they were intended. So, I&#39;m going to restate the requirements, and if anyone notices a discrepancy, I&#39;d appreciate knowing about it.\n\nPart A asks me to write an algorithm that takes an array of prices, then returns the maximum increase from a price in the first half of the array to a price in the second half of the array.\n\nPart B asks me to write an algorithm that takes an array of prices, then returns the maximum increase from one price to a later price. The algorithm has to somehow use D&amp;C, it must be in O(n log n), and it should use the algorithm from Part A.\n\nPart C (Extra Credit) is the same as Part B, except it must be in O(n), and there&#39;s no mention of using Part A, but there is a different hint.\n\nDoes anyone understand the requirements differently?", 
+      "anon": "no", 
+      "created": "2017-09-17T00:40:08Z", 
+      "uid": "hq8hn0qyfuvyr", 
+      "subject": "HW3, Problem 3 - What am I missing?"
+    }
+  ]
+}

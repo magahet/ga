@@ -1,0 +1,138 @@
+{
+  "status": "active", 
+  "unique_views": 189, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-28T03:19:24Z", 
+      "data": "j83w56p2p792ac", 
+      "uid": "i4omjkc5OQ8"
+    }, 
+    {
+      "uid": "i4ptxbxq30m358", 
+      "type": "s_answer", 
+      "when": "2017-09-28T08:11:24Z", 
+      "to": "j83w56p1bxf2ab", 
+      "anon": "no", 
+      "data": "j846kpc9dn97bg"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-09-28T08:11:42Z", 
+      "data": "j846l2tihyp7hy", 
+      "uid": "i4ptxbxq30m358"
+    }, 
+    {
+      "uid": "gns9oa0pgsO", 
+      "type": "i_answer", 
+      "when": "2017-09-28T12:43:59Z", 
+      "to": "j83w56p1bxf2ab", 
+      "anon": "no", 
+      "data": "j84gb910ulm4jg"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j83w56p1bxf2ab", 
+  "bookmarked": 6, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-28T08:11:24Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j846kpc6xha7bf", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>I want to say &#39;c&#39; simply denotes a constant. There is some &#39;c&#39; which when multiplied by &#39;m&#39; should equal &#39;n&#39;.</p>\n<p></p>\n<p>Unfortunately, the testConfig file indicates that m*c != n ... so I don&#39;t know that this is true.</p>", 
+          "anon": "no", 
+          "created": "2017-09-28T08:11:42Z", 
+          "uid": "i4ptxbxq30m358", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>I want to say &#39;c&#39; simply denotes a constant. There is some &#39;c&#39; which when multiplied by &#39;m&#39; should equal &#39;n&#39;.</p>\n<p></p>\n<p>Unfortunately, the testConfig file indicates that m*c != n .</p>", 
+          "anon": "no", 
+          "created": "2017-09-28T08:11:24Z", 
+          "uid": "i4ptxbxq30m358", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-28T12:43:59Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j84gb90zcrz4jf", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>the values that you need c to derive are already given to you in the config files.\u00a0 you can ignore c for task 2.</p>\n<p></p>\n<p>m*c != n because n had to be increased in size to be a prime number.</p>", 
+          "anon": "no", 
+          "created": "2017-09-28T12:43:59Z", 
+          "uid": "gns9oa0pgsO", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 466, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "project"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 2, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "project", 
+    "student"
+  ], 
+  "created": "2017-09-28T03:19:24Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145209588, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p><br />On Task 2 its says &#34;\u00a0Let n = cm denote the size of your hash table.&#34; where is \u00a0&#39;c&#39; coming from?</p>", 
+      "anon": "no", 
+      "created": "2017-09-28T03:19:24Z", 
+      "uid": "i4omjkc5OQ8", 
+      "subject": "Cant find &#39;c&#39; in Task 2."
+    }
+  ]
+}

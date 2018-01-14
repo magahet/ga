@@ -1,0 +1,340 @@
+{
+  "status": "active", 
+  "unique_views": 337, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-10T02:56:02Z", 
+      "data": "j7e5dt0xgy72zr", 
+      "uid": "hkjzzued3ef4xh"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-10T02:56:07Z", 
+      "data": "j7e5dwiwji634n", 
+      "uid": "hkjzzued3ef4xh"
+    }, 
+    {
+      "to": "j7e5dt0v1zd2zq", 
+      "anon": "no", 
+      "when": "2017-09-10T05:36:41Z", 
+      "type": "followup", 
+      "uid": "hqa65fnalg83fr"
+    }, 
+    {
+      "to": "j7e5dt0v1zd2zq", 
+      "anon": "no", 
+      "when": "2017-09-10T17:55:03Z", 
+      "type": "feedback", 
+      "uid": "hkjzzued3ef4xh"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-10T17:57:15Z", 
+      "data": "j7f1krmgljl1i2", 
+      "uid": "hkjzzued3ef4xh"
+    }, 
+    {
+      "to": "j7e5dt0v1zd2zq", 
+      "anon": "no", 
+      "when": "2017-09-10T19:50:04Z", 
+      "type": "followup", 
+      "uid": "i4g1simdqek6ey"
+    }, 
+    {
+      "to": "j7e5dt0v1zd2zq", 
+      "anon": "no", 
+      "when": "2017-09-10T20:43:16Z", 
+      "type": "feedback", 
+      "uid": "i4iys7m3lpq2ij"
+    }, 
+    {
+      "to": "j7e5dt0v1zd2zq", 
+      "anon": "no", 
+      "when": "2017-09-10T22:26:28Z", 
+      "type": "followup", 
+      "uid": "i4j6x5bv5ua71n"
+    }, 
+    {
+      "to": "j7e5dt0v1zd2zq", 
+      "anon": "no", 
+      "when": "2017-09-10T22:28:31Z", 
+      "type": "feedback", 
+      "uid": "i4j6x5bv5ua71n"
+    }, 
+    {
+      "to": "j7e5dt0v1zd2zq", 
+      "anon": "no", 
+      "when": "2017-09-10T22:31:26Z", 
+      "type": "followup", 
+      "uid": "i4j6x5bv5ua71n"
+    }, 
+    {
+      "to": "j7e5dt0v1zd2zq", 
+      "anon": "no", 
+      "when": "2017-09-11T00:17:00Z", 
+      "type": "feedback", 
+      "uid": "hkjzzued3ef4xh"
+    }, 
+    {
+      "to": "j7e5dt0v1zd2zq", 
+      "anon": "no", 
+      "when": "2017-09-13T01:27:53Z", 
+      "type": "followup", 
+      "uid": "hv8z1ryhi6h6mi"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j7e5dt0v1zd2zq", 
+  "bookmarked": 8, 
+  "tags": [
+    "exam", 
+    "hw1", 
+    "instructor-note", 
+    "pin"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-09-10T05:36:41Z", 
+      "no_upvotes": 0, 
+      "uid": "hqa65fnalg83fr", 
+      "created": "2017-09-10T05:36:41Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7eb4e8loq35qm", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-10T17:55:03Z", 
+          "uid": "hkjzzued3ef4xh", 
+          "created": "2017-09-10T17:55:03Z", 
+          "type": "feedback", 
+          "id": "j7f1hxpneqm7a5", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>It&#39;s on Gradescope now. We will upload it to T-sq at the end of the semester.</p>"
+        }
+      ], 
+      "subject": "<p>where will the grades be? t-square or gradescope?</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-10T19:50:04Z", 
+      "no_upvotes": 0, 
+      "uid": "i4g1simdqek6ey", 
+      "created": "2017-09-10T19:50:04Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7f5lusng7e55r", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-10T20:43:16Z", 
+          "uid": "i4iys7m3lpq2ij", 
+          "created": "2017-09-10T20:43:16Z", 
+          "type": "feedback", 
+          "id": "j7f7i9ejuv76ge", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I think the T-square solution, modified to add the base case T(i,0)=0 for all i would handle the case you describe. See\u00a0&#64;248</p>"
+        }
+      ], 
+      "subject": "<p>Is there a way to get more feedback on any of the problems we missed?</p>\n<p></p>\n<p>For problem 3, Gradescope tells me to look at the solution in T-Square. The T-Square solution, from the best I can tell, does not handle the case where the domination $$X_i$$\u00a0must replace the dominations used in\u00a0$$X_{i-1}$$ to minimize T(x, b). For example if X = {2, 3, 5}, k = 1, and B=5, the T-Square solution (I may be mistaken) will return false because the recurrence is defined to take either the answer\u00a0$$T[i-1, n]$$, which is 2, or\u00a0$$T[i-1, b-X_i]$$, which is infinity.</p>\n<p></p>\n<p>Mine\u00a0solution is similar, to the T-Square solution but shoving the above case in there made it kind of weird. I&#39;m not sure my solution its completely right since it kind of loses track of which coins have been used.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-10T22:26:28Z", 
+      "no_upvotes": 0, 
+      "uid": "i4j6x5bv5ua71n", 
+      "created": "2017-09-10T22:26:28Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7fb6zh423763h", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-10T22:28:31Z", 
+          "uid": "i4j6x5bv5ua71n", 
+          "created": "2017-09-10T22:28:31Z", 
+          "type": "feedback", 
+          "id": "j7fb9mo88gi25i", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "e"
+        }
+      ], 
+      "subject": "I submitted homework 1 on gradescope, and verified that it showed it was submitted (went through and assigned each page to the appropriate problem). But when I go into gradescope now, it says &#34;No submission&#34;. Is anyone else having this issue?\n\nI can&#39;t see a score or anything like that\n\nEDIT: Woops, I seem to have two separate gradescope accounts attached to this class... hope that doesn&#39;t present an issue"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-10T22:31:26Z", 
+      "no_upvotes": 0, 
+      "uid": "i4j6x5bv5ua71n", 
+      "created": "2017-09-10T22:31:26Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7fbddgsm7u4bg", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-11T00:17:00Z", 
+          "uid": "hkjzzued3ef4xh", 
+          "created": "2017-09-11T00:17:00Z", 
+          "type": "feedback", 
+          "id": "j7ff54o2sdo7ni", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Given the definition and recurrence, it&#39;s good enough if we can understand your code in 30-60 sec.</p>"
+        }
+      ], 
+      "subject": "On pseudo code, I think you&#39;ll get a much more consistent submission if you provide some guidelines for the granularity of pseudo code you&#39;re looking for. Pseudo code is not at all standardized and all code is a form of &#34;pseudo code&#34; (we aren&#39;t listing out the instructions to the processor, are we?). The important question is what level of abstraction are we expected to use in writing our algorithms?\n\nFor example, should I just write english sentences for each step, or use mathematical set notation to indicate iterating over a set of numbers? I did the latter on my homework, but it takes a long time to format that way in latex"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-13T01:27:53Z", 
+      "no_upvotes": 0, 
+      "uid": "hv8z1ryhi6h6mi", 
+      "created": "2017-09-13T01:27:53Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7icjzcik531e", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>Also, don&#39;t forget to identify which pages in your submission are for which problem.\u00a0 After uploading a pdf, Gradescope will ask you to match pages to problems.\u00a0 I overlooked this step with homework 1.\u00a0 Apologies, TAs.</p>"
+    }
+  ], 
+  "nr": 238, 
+  "bucket_order": 0, 
+  "type": "note", 
+  "folders": [
+    "hw1", 
+    "exam"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 18, 
+  "bucket_name": "Pinned", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-09-10T02:56:02Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145116295, 
+  "tag_good": [
+    {
+      "name": "Murali Raghu Babu B", 
+      "admin": true, 
+      "photo": "1503448397_35.png", 
+      "us": false, 
+      "role": "ta", 
+      "facebook_id": null, 
+      "id": "hju4w9odatf30"
+    }, 
+    {
+      "name": "Xinyu Wang", 
+      "admin": true, 
+      "photo": null, 
+      "us": false, 
+      "role": "ta", 
+      "facebook_id": null, 
+      "id": "isce58miop454k"
+    }
+  ], 
+  "tag_good_arr": [
+    "hju4w9odatf30", 
+    "isce58miop454k"
+  ], 
+  "history": [
+    {
+      "content": "<p>Here is the feedback on the homework 1, please check list and make some modification on your further homework/exam if necessary.</p>\n<p></p>\n<p>Some general feedback:</p>\n<ol><li><strong>Match your homework/exam problem with the outlines</strong> we provided otherwise we cannot grade your work.</li><li>Make sure your pseudo code is <strong>clean and concise</strong>, which means, <strong>a real code is not a pseudo code</strong>. We need to read your pseudo code if we cannot understand your definition or recurrence, and we won&#39;t be able to spend a long time on your code. So make it <strong>abstract and clean,</strong> <strong>and make sure it matches what you defined before</strong>, otherwise it doesn&#39;t help and we will deduct points for that.</li><li>Make sure your logic is<strong> consistent</strong>. If you defined something at first, make it clear and understandable. And the answers following it (such as recurrence, pseudo code or analysis) need to be consistent to your definition.</li><li>Late homework won&#39;t be accepted. But don&#39;t be worry, it&#39;s only 5% total. It&#39;s more like a practice for you to understand the materials and prepare for the exams.</li><li>Make sure you only provide <strong>exactly one answer instead of multiple choices</strong> for us. If there are multiple answers, we will pick the worst one to assign grade.</li></ol>\n<p></p>\n<p>Feedback on HW1:</p>\n<ol><li>Solve your DP problems in a <strong>DP WAY,\u00a0</strong>that is, you will need your results of the subproblems you calculated before to solve the current problem. If you use non-DP algorithm to solve the problem, we won&#39;t give you points even if you are correct.</li><li>Define your table entry <strong>IN A CLEAR WAY</strong>: if you use any index like i or j, please explain what they means and how they related to your table entries. It there is some norm you invented, you will also need to explain it.</li><li>Check your recurrence, and we suggest you prove the correctness before you write it down by trying your best to find counterexamples to your recurrence. Some recurrence doesn&#39;t make any sense, and the part c and d cannot be correct in this case. But don&#39;t worry, once you&#39;ve done enough practice and reflection (very important), you will make it!</li><li>Make sure your definition, recurrence, pseudo code and analysis are consistent.</li><li>Please consider the <strong>BASE CASE</strong>. DP algorithm won&#39;t work without define your base case correctly. You will need that in your recurrence and your pseudo code.</li></ol>\n<p></p>\n<p>Thanks and good luck!</p>\n<p></p>\n<p>#pin</p>", 
+      "anon": "no", 
+      "created": "2017-09-10T17:57:15Z", 
+      "uid": "hkjzzued3ef4xh", 
+      "subject": "Homework Feedback (also useful for exam)"
+    }, 
+    {
+      "content": "<p>Here is the feedback on the homework 1, please check list and make some modification on your further homework/exam if necessary.</p>\n<p></p>\n<p>Some general feedback:</p>\n<ol><li><strong>Match your homework/exam problem with the outlines</strong> we provided otherwise we cannot grade your work.</li><li>Make sure your pseudo code is <strong>clean and concise</strong>, which means, <strong>a real code is not a pseudo code</strong>. We need to read your pseudo code if we cannot understand your definition or recurrence, and we won&#39;t be able to spend a long time on your code. So make it <strong>abstract and clean,</strong> <strong>and make sure it matches what you defined before</strong>, otherwise it doesn&#39;t help and we will deduct points for that.</li><li>Make sure your logic is<strong> consistent</strong>. If you defined something at first, make it clear and understandable. And the answers following it (such as recurrence, pseudo code or analysis) need to be consistent to your definition.</li><li>Late homework won&#39;t be accepted. But don&#39;t be worry, it&#39;s only 5% total. It&#39;s more like a practice for you to understand the materials and prepare for the exams.</li></ol>\n<p></p>\n<p>Feedback on HW1:</p>\n<ol><li>Solve your DP problems in a <strong>DP WAY,\u00a0</strong>that is, you will need your results of the subproblems you calculated before to solve the current problem. If you use non-DP algorithm to solve the problem, we won&#39;t give you points even if you are correct.</li><li>Define your table entry <strong>IN A CLEAR WAY</strong>: if you use any index like i or j, please explain what they means and how they related to your table entries. It there is some norm you invented, you will also need to explain it.</li><li>Check your recurrence, and we suggest you prove the correctness before you write it down by trying your best to find counterexamples to your recurrence. Some recurrence doesn&#39;t make any sense, and the part c and d cannot be correct in this case. But don&#39;t worry, once you&#39;ve done enough practice and reflection (very important), you will make it!</li><li>Make sure your definition, recurrence, pseudo code and analysis are consistent.</li><li>Please consider the <strong>BASE CASE</strong>. DP algorithm won&#39;t work without define your base case correctly. You will need that in your recurrence and your pseudo code.</li></ol>\n<p></p>\n<p>Thanks and good luck!</p>\n<p></p>\n#pin", 
+      "anon": "no", 
+      "created": "2017-09-10T02:56:07Z", 
+      "uid": "hkjzzued3ef4xh", 
+      "subject": "Homework Feedback (also useful for exam)"
+    }, 
+    {
+      "content": "<p>Here is the feedback on the homework 1, please check list and make some modification on your further homework/exam if necessary.</p>\n<p></p>\n<p>Some general feedback:</p>\n<ol><li><strong>Match your homework/exam problem with the outlines</strong> we provided otherwise we cannot grade your work.</li><li>Make sure your pseudo code is <strong>clean and concise</strong>, which means, <strong>a real code is not a pseudo code</strong>. We need to read your pseudo code if we cannot understand your definition or recurrence, and we won&#39;t be able to spend a long time on your code. So make it <strong>abstract and clean,</strong> <strong>and make sure it matches what you defined before</strong>, otherwise it doesn&#39;t help and we will deduct points for that.</li><li>Make sure your logic is<strong> consistent</strong>. If you defined something at first, make it clear and understandable. And the answers following it (such as recurrence, pseudo code or analysis) need to be consistent to your definition.</li><li>Late homework won&#39;t be accepted. But don&#39;t be worry, it&#39;s only 5% total. It&#39;s more like a practice for you to understand the materials and prepare for the exams.</li></ol>\n<p></p>\n<p>Feedback on HW1:</p>\n<ol><li>Solve your DP problems in a <strong>DP WAY,\u00a0</strong>that is, you will need your results of the subproblems you calculated before to solve the current problem. If you use non-DP algorithm to solve the problem, we won&#39;t give you points even if you are correct.</li><li>Define your table entry <strong>IN A CLEAR WAY</strong>: if you use any index like i or j, please explain what they means and how they related to your table entries. It there is some norm you invented, you will also need to explain it.</li><li>Check your recurrence, and we suggest you prove the correctness before you write it down by trying your best to find counterexamples to your recurrence. Some recurrence doesn&#39;t make any sense, and the part c and d cannot be correct in this case. But don&#39;t worry, once you&#39;ve done enough practice and reflection (very important), you will make it!</li><li>Make sure your definition, recurrence, pseudo code and analysis are consistent.</li><li>Please consider the <strong>BASE CASE</strong>. DP algorithm won&#39;t work without define your base case correctly. You will need that in your recurrence and your pseudo code.</li></ol>\n<p></p>\n<p>Thanks and good luck!</p>\n<p></p>", 
+      "anon": "no", 
+      "created": "2017-09-10T02:56:02Z", 
+      "uid": "hkjzzued3ef4xh", 
+      "subject": "Homework Feedback (also useful for exam)"
+    }
+  ]
+}

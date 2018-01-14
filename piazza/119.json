@@ -1,0 +1,218 @@
+{
+  "status": "active", 
+  "unique_views": 158, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-08-30T20:39:50Z", 
+      "data": "j6zhjhmnvpn74l", 
+      "uid": "ig9fx44bzwr74x"
+    }, 
+    {
+      "uid": "idg5nm2lC96", 
+      "type": "s_answer", 
+      "when": "2017-08-30T20:46:50Z", 
+      "to": "j6zhjhmlp0674k", 
+      "anon": "no", 
+      "data": "j6zhshb7ekvco"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-08-30T20:51:46Z", 
+      "data": "j6zhytwyeo65f7", 
+      "uid": "idg5nm2lC96"
+    }, 
+    {
+      "uid": "isgwdf47kb42f", 
+      "type": "i_answer", 
+      "when": "2017-08-30T22:32:25Z", 
+      "to": "j6zhjhmlp0674k", 
+      "anon": "no", 
+      "data": "j6zlk9dqyc77f0"
+    }, 
+    {
+      "to": "j6zhjhmlp0674k", 
+      "anon": "no", 
+      "when": "2017-08-30T22:43:06Z", 
+      "type": "followup", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "type": "i_answer_update", 
+      "anon": "no", 
+      "when": "2017-08-30T22:44:22Z", 
+      "data": "j6zlzn3wlyq4ni", 
+      "uid": "isgwdf47kb42f"
+    }, 
+    {
+      "type": "i_answer_update", 
+      "anon": "no", 
+      "when": "2017-08-30T22:48:38Z", 
+      "data": "j6zm54dr9nv27a", 
+      "uid": "isgwdf47kb42f"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-08-30T22:53:40Z", 
+      "data": "j6zmbld8qop41r", 
+      "uid": "idg5nm2lC96"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j6zhjhmlp0674k", 
+  "bookmarked": 5, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-08-30T20:46:50Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j6zhshb4sotcn", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>We don&#39;t need rounding to find $$r = 1$$ (at least I didn&#39;t understand it that way). It&#39;s just that to have\u00a0$$r \\geq 0$$, we need $$q = -1$$ to be plugged into $$x = qN &#43; r$$. Thus, -2 is in that the same equivalence class as 1 mod 3.</p>", 
+          "anon": "no", 
+          "created": "2017-08-30T22:53:40Z", 
+          "uid": "idg5nm2lC96", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>We don&#39;t need rounding to find $$r = 1$$ (at least I didn&#39;t understand it that way). It&#39;s just that to have\u00a0$$r &gt; 0$$, we need $$q = -1$$ to be plugged into $$x = qN &#43; r$$. Thus, -2 is in that the same equivalence class as 1 mod 3.</p>", 
+          "anon": "no", 
+          "created": "2017-08-30T20:51:46Z", 
+          "uid": "idg5nm2lC96", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>We&#39;re not rounding; it&#39;s just that to have\u00a0$$r &gt; 0$$, we need $$q = -1$$. Thus, -2 is in that the same equivalence class as 1 mod 3.</p>", 
+          "anon": "no", 
+          "created": "2017-08-30T20:46:50Z", 
+          "uid": "idg5nm2lC96", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-08-30T22:32:25Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j6zlk9dpcbs7ez", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>Building on Dennis&#39;s response, the equivalence classes mod N can be expressed formally as\u00a0$$\\left [ a \\right ] = \\left \\{ mN&#43;a \\mid m \\in \\mathbb{Z} \\right \\}$$ where\u00a0$$0 \\leq a \\leq N-1$$. In the case from the video, negative 2 is in\u00a0the same equivalence class as 1 because\u00a0$$-2 = (-1)(3)&#43;(1)$$. This is what is being showed with\u00a0$$x = qN&#43;r$$ with\u00a0$$x=-2$$ and\u00a0$$N=3$$. There is only one integer q that can be put in the equation such that r is between 0 and 2. (To see this, try substituting in different integers for q and see what r would be.)</p>\n<p></p>\n<p>This is the &#34;formal&#34; definition, but yes, to solve for q we are calculating\u00a0$$\\left \\lfloor \\frac{x}{N} \\right \\rfloor$$. Additionally,\u00a0$$r = x - \\left \\lfloor \\frac{x}{N} \\right \\rfloor N$$.</p>\n<p></p>\n<p>(Side note on notation: I used\u00a0$$\\left [ a \\right ]$$ which is commonly used to say (generally) &#34;an equivalence class of a in some set&#34; but in the class of modular equivalence classes (also called congruence classes) the notation\u00a0$$\\overline{a}_N$$ is frequently used.)</p>", 
+          "anon": "no", 
+          "created": "2017-08-30T22:48:38Z", 
+          "uid": "isgwdf47kb42f", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>Building on Dennis&#39;s response, the equivalence classes mod N can be expressed formally as\u00a0$$\\left [ a \\right ] = \\left \\{ mN&#43;a \\mid m \\in \\mathbb{Z} \\right \\}$$ where\u00a0$$0 \\leq a \\leq N-1$$. In the case from the video, negative 2 is in\u00a0the same equivalence class as 1 because\u00a0$$-2 = (-1)(3)&#43;(1)$$. This is what is being showed with\u00a0$$x = qN&#43;r$$ with\u00a0$$x=-2$$ and\u00a0$$N=3$$. There is only one integer q that can be put in the equation such that r is between 0 and 2. (To see this, try substituting in different integers for q and see what r would be.)</p>\n<p></p>\n<p>This is the &#34;formal&#34; definition, but yes, to solve for q we are calculating\u00a0$$\\left \\lfloor \\frac{x}{N} \\right \\rfloor$$. Additionally,\u00a0$$r = x - \\left \\lfloor \\frac{x}{N} \\right \\rfloor N$$.</p>", 
+          "anon": "no", 
+          "created": "2017-08-30T22:44:22Z", 
+          "uid": "isgwdf47kb42f", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>Building on Dennis&#39;s response, the equivalence classes mod N can be expressed formally as\u00a0$$\\left [ a \\right ] = \\left \\{ mN&#43;a \\mid m \\in \\mathbb{Z} \\right \\}$$ where\u00a0$$0 \\leq a \\leq N-1$$. In the case from the video, negative 2 is in\u00a0the same equivalence as 1 because\u00a0$$-2 = (-1)(3)&#43;(1)$$. This is what is being showed with\u00a0$$x = qN&#43;r$$ with\u00a0$$x=-2$$ and\u00a0$$N=3$$. There is only one integer q that can be put in the equation such that r is between 0 and 2. (To see this, try substituting in different integers for q and see what r would be.)</p>\n<p></p>\n<p>This is the &#34;formal&#34; definition, but yes, to solve for q we are calculating\u00a0$$\\left \\lfloor \\frac{x}{N} \\right \\rfloor$$. Additionally,\u00a0$$r = x - \\left \\lfloor \\frac{x}{N} \\right \\rfloor N$$.</p>", 
+          "anon": "no", 
+          "created": "2017-08-30T22:32:25Z", 
+          "uid": "isgwdf47kb42f", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-30T22:43:06Z", 
+      "no_upvotes": 0, 
+      "uid": "gy4twfv45cg5o6", 
+      "created": "2017-08-30T22:43:06Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6zly04fz5a1m1", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p></p>\n<p>You might check the wikipedia page for some help with modular arithmetic:</p>\n<p>\u00a0\u00a0https://en.wikipedia.org/wiki/Modular_arithmetic</p>"
+    }
+  ], 
+  "nr": 119, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "divide_and_conquer"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "divide_and_conquer", 
+    "student"
+  ], 
+  "created": "2017-08-30T20:39:50Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145299426, 
+  "tag_good": [
+    {
+      "name": "Shihgian Lee", 
+      "admin": false, 
+      "photo": "1420394909_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i18w67avy8e1uk"
+    }
+  ], 
+  "tag_good_arr": [
+    "i18w67avy8e1uk"
+  ], 
+  "history": [
+    {
+      "content": "<p>Why is it that in the video where</p>\n<p></p>\n<p>X=qN &#43; r</p>\n<p>X = -2</p>\n<p>N = 3</p>\n<p></p>\n<p>That X / N = -2 / 3 = -1</p>\n<p></p>\n<p>Are you just supposed to know that the -1 value fits into the equation or you just know to round up somehow?</p>\n<p></p>\n<p>http://www.youtube.com/watch?v=8hI1YHmTUtk&amp;t=1m30s</p>", 
+      "anon": "no", 
+      "created": "2017-08-30T20:39:50Z", 
+      "uid": "ig9fx44bzwr74x", 
+      "subject": "-2 / 3 = -1 ?"
+    }
+  ]
+}

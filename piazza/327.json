@@ -1,0 +1,56 @@
+{
+  "status": "active", 
+  "unique_views": 191, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-16T21:18:07Z", 
+      "data": "j7nte6vauik10v", 
+      "uid": "isgwdf47kb42f"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j7nte6v8ltk10u", 
+  "bookmarked": 2, 
+  "tags": [
+    "hw3", 
+    "instructor-note"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [], 
+  "nr": 327, 
+  "bucket_order": 2, 
+  "type": "note", 
+  "folders": [
+    "hw3"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 2, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-09-16T21:18:07Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145238598, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>Hi all,</p>\n<p></p>\n<p>Today in office hours we worked through an example FFT problem, 2.9a), a sort of prequel to the homework problem, 2.9b). I sort of glossed over the inverse FFT transform because I was having a bit of difficulty finding the best way to explain it so I wanted to post a follow-up here to clarify any lingering questions.</p>\n<p></p>\n<p>For the inverse FFT, we&#39;re doing the same process but taking the roots in reverse order. So we use that same relation\u00a0$$A(\\omega_n)=A_e(\\omega_n^2)&#43;\\omega_nA_o(\\omega_n^2)$$ where\u00a0$$\\omega_n=e^{i\\frac{2\\pi k}{n}}$$ except instead\u00a0of\u00a0$$k:0 \\to n-1$$, we have the reverse order:\u00a0$$k:n-1 \\to 0$$. This corresponds to doing the four equations I wrote out from bottom to top when taking the inverse. After you get the result of this inverse FFT, you divide all the coefficients by n to complete the inverse. With that I hope you&#39;ll be able to see how to do the computation in conjunction with what was discussed in office hours today.</p>", 
+      "anon": "no", 
+      "created": "2017-09-16T21:18:07Z", 
+      "uid": "isgwdf47kb42f", 
+      "subject": "Follow-up from today&#39;s office hours"
+    }
+  ]
+}

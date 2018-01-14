@@ -1,0 +1,238 @@
+{
+  "status": "active", 
+  "unique_views": 172, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-11T06:32:02Z", 
+      "data": "j7fsjf592b06yx", 
+      "uid": "idiy4usuxxs"
+    }, 
+    {
+      "uid": "i4hdvab632i522", 
+      "type": "s_answer", 
+      "when": "2017-09-11T06:40:14Z", 
+      "to": "j7fsjf57m1u6yw", 
+      "anon": "no", 
+      "data": "j7fstyniztu7a0"
+    }, 
+    {
+      "to": "j7fsjf57m1u6yw", 
+      "anon": "no", 
+      "when": "2017-09-11T06:42:42Z", 
+      "type": "followup", 
+      "uid": "idiy4usuxxs"
+    }, 
+    {
+      "to": "j7fsjf57m1u6yw", 
+      "anon": "no", 
+      "when": "2017-09-11T12:32:31Z", 
+      "type": "followup", 
+      "uid": "hv8z1ryhi6h6mi"
+    }, 
+    {
+      "to": "j7fsjf57m1u6yw", 
+      "anon": "no", 
+      "when": "2017-09-11T12:49:44Z", 
+      "type": "feedback", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "uid": "gy4twfv45cg5o6", 
+      "type": "i_answer", 
+      "when": "2017-09-11T13:15:49Z", 
+      "to": "j7fsjf57m1u6yw", 
+      "anon": "no", 
+      "data": "j7g6yp4dpm4288"
+    }, 
+    {
+      "to": "j7fsjf57m1u6yw", 
+      "anon": "no", 
+      "when": "2017-09-11T16:03:49Z", 
+      "type": "feedback", 
+      "uid": "hz0jkj9dnctqp"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j7fsjf57m1u6yw", 
+  "bookmarked": 6, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-11T06:40:13Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [
+        "idiy4usuxxs"
+      ], 
+      "id": "j7fstynevb679z", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Kyle P Davis", 
+          "admin": false, 
+          "photo": "1484080691_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "idiy4usuxxs"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "bananas", 
+          "anon": "no", 
+          "created": "2017-09-11T06:40:13Z", 
+          "uid": "i4hdvab632i522", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-11T06:42:42Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "idiy4usuxxs", 
+      "created": "2017-09-11T06:42:42Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7fsx5lw4z04dw", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-11T12:49:44Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-09-11T12:49:44Z", 
+          "type": "feedback", 
+          "id": "j7g615lp8fyz1", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "You mean &#34;AAAAAAAAAAAAAAA&#34; now you see :-)"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-11T16:03:49Z", 
+          "uid": "hz0jkj9dnctqp", 
+          "created": "2017-09-11T16:03:49Z", 
+          "type": "feedback", 
+          "id": "j7gcyqq9hlh3go", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Or maybe GA-AAAA! ;-)</p>"
+        }
+      ], 
+      "subject": "<p>AH HA!! Now I see. Thank you!</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-11T12:32:31Z", 
+      "no_upvotes": 0, 
+      "uid": "hv8z1ryhi6h6mi", 
+      "created": "2017-09-11T12:32:31Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7g5f0apgmn128", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>Thanks for sharing, Kyle!\u00a0 The tricky part is recognizing when a character is the middle of a *new* palindrome when it is also the end of a longer prior palindrome (for example the second &#39;a&#39; in &#39;bananas&#39;).</p>\n<p></p>\n<p>I still suspect this general approach could yield a correct solution.</p>"
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-11T13:15:49Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j7g6yp4ck50287", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p></p>\n<p>It&#39;s not a DP solution. \u00a0The point of the homework is to learn dynamic programming. \u00a0--Eric</p>", 
+          "anon": "no", 
+          "created": "2017-09-11T13:15:49Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 265, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw_solutions1"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw_solutions1", 
+    "student"
+  ], 
+  "created": "2017-09-11T06:32:02Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145258262, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>I came up with a similar solution to the one that had been mentioned in &#64;262 (python implementation below).</p>\n<p>My table basically tracks the number of hops to the left to find the longest matching character.</p>\n<p>My implementation passes\u00a0the test mentioned over there (the &#34;yabbadabba&#34; test) and everything else that I can think of.</p>\n<p>I got 0\u00a0points on the homework for it but I can&#39;t seem to find anything wrong with it.</p>\n<p>Can somebody help point out the error?</p>\n<p></p>\n<pre>#!/usr/bin/env python<br /><br />def get_largest_palindromic_substr(X):<br />    n = len(X)<br />    if n == 0:<br />        return 0<br />    T = [0] * n<br />    for i in range(n):<br />        if i &gt; 1 and X[i] == X[i - T[i - 1] - 2]:<br />            T[i] = T[i - 1] &#43; 2<br />        elif i &gt; 0 and X[i] == X[i - T[i - 1] - 1]:<br />            T[i] = T[i - 1] &#43; 1<br />        else:<br />            T[i] = 0<br />    hi = 0<br />    for i in range(n):<br />        if hi &lt; T[i]:<br />            hi = T[i]<br />    return [hi &#43; 1, T]<br /><br />if __name__ == &#39;__main__&#39;:\n    import sys<br />    test_str = sys.argv[1]\n    print &#34; &#34;.join(str(_) for _ in test_str)<br />    substr_len, T = get_largest_palindromic_substr(test_str)<br />    print &#34; &#34;.join(str(_) for _ in T), &#34;-- len:&#34;, substr_len<br />    print</pre>", 
+      "anon": "no", 
+      "created": "2017-09-11T06:32:02Z", 
+      "uid": "idiy4usuxxs", 
+      "subject": "HW1: Palindrome O(n) incorrect?"
+    }
+  ]
+}

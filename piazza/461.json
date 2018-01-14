@@ -1,0 +1,554 @@
+{
+  "status": "active", 
+  "unique_views": 199, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "stud", 
+      "when": "2017-09-27T23:24:42Z", 
+      "data": "j83nrcs2til3ul"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-27T23:30:16Z", 
+      "data": "j83nyi5t76h4b1", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j83nrcrzsei3uj", 
+      "anon": "no", 
+      "when": "2017-09-27T23:41:09Z", 
+      "type": "followup", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j83nrcrzsei3uj", 
+      "anon": "no", 
+      "when": "2017-09-28T00:22:37Z", 
+      "type": "feedback", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j83nrcrzsei3uj", 
+      "anon": "no", 
+      "when": "2017-09-28T00:53:16Z", 
+      "type": "feedback", 
+      "uid": "iecy8j5dNYG"
+    }, 
+    {
+      "uid": "gns9oa0pgsO", 
+      "type": "i_answer", 
+      "when": "2017-09-28T13:04:06Z", 
+      "to": "j83nrcrzsei3uj", 
+      "anon": "no", 
+      "data": "j84h13xfuj0755"
+    }, 
+    {
+      "to": "j83nrcrzsei3uj", 
+      "anon": "no", 
+      "when": "2017-09-28T13:04:33Z", 
+      "type": "feedback", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j83nrcrzsei3uj", 
+      "anon": "no", 
+      "when": "2017-09-30T15:51:23Z", 
+      "type": "followup", 
+      "uid": "idgk9rl6Wdv"
+    }, 
+    {
+      "to": "j83nrcrzsei3uj", 
+      "anon": "no", 
+      "when": "2017-10-01T00:34:39Z", 
+      "type": "feedback", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j83nrcrzsei3uj", 
+      "anon": "no", 
+      "when": "2017-10-01T19:35:25Z", 
+      "type": "feedback", 
+      "uid": "i4fxg6tfzh211n"
+    }, 
+    {
+      "to": "j83nrcrzsei3uj", 
+      "anon": "no", 
+      "when": "2017-10-01T22:10:20Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j83nrcrzsei3uj", 
+      "anon": "no", 
+      "when": "2017-10-01T23:21:28Z", 
+      "type": "feedback", 
+      "uid": "idg61g3ot1qp6"
+    }, 
+    {
+      "to": "j83nrcrzsei3uj", 
+      "anon": "no", 
+      "when": "2017-10-01T23:23:40Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j83nrcrzsei3uj", 
+      "anon": "no", 
+      "when": "2017-10-01T23:27:49Z", 
+      "type": "feedback", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "to": "j83nrcrzsei3uj", 
+      "anon": "no", 
+      "when": "2017-10-02T00:04:40Z", 
+      "type": "feedback", 
+      "uid": "i4fxg6tfzh211n"
+    }, 
+    {
+      "to": "j83nrcrzsei3uj", 
+      "anon": "no", 
+      "when": "2017-10-02T12:41:11Z", 
+      "type": "feedback", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j83nrcrzsei3uj", 
+      "anon": "no", 
+      "when": "2017-10-02T18:58:52Z", 
+      "type": "feedback", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j83nrcrzsei3uj", 
+      "anon": "no", 
+      "when": "2017-10-02T19:06:41Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j83nrcrzsei3uj", 
+      "anon": "no", 
+      "when": "2017-10-05T09:59:50Z", 
+      "type": "followup", 
+      "uid": "hz3xzg3uwdmpt"
+    }, 
+    {
+      "to": "j83nrcrzsei3uj", 
+      "anon": "no", 
+      "when": "2017-10-05T10:02:45Z", 
+      "type": "feedback", 
+      "uid": "hz3xzg3uwdmpt"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j83nrcrzsei3uj", 
+  "bookmarked": 10, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-09-27T23:41:09Z", 
+      "no_upvotes": 0, 
+      "uid": "i4nkipeofrkrz", 
+      "created": "2017-09-27T23:41:09Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j83ocin3ekh689", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-28T00:22:37Z", 
+          "uid": "i4ket0u1z5q31a", 
+          "created": "2017-09-28T00:22:37Z", 
+          "type": "feedback", 
+          "id": "j83ptue330c1q1", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I&#39;m thinking of using Excel after you mentioned it in office hours.\u00a0 But I always like matplotlib examples for reference, it helps with automation.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-28T00:53:16Z", 
+          "uid": "iecy8j5dNYG", 
+          "created": "2017-09-28T00:53:16Z", 
+          "type": "feedback", 
+          "id": "j83qx8zjz375tl", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>So we can use matplotlib.pyplot to plot figures?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-28T13:04:33Z", 
+          "uid": "gns9oa0pgsO", 
+          "created": "2017-09-28T13:04:33Z", 
+          "type": "feedback", 
+          "id": "j84h1otg1x17dq", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>yes.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-01T00:34:39Z", 
+          "uid": "gns9oa0pgsO", 
+          "created": "2017-10-01T00:34:39Z", 
+          "type": "feedback", 
+          "id": "j880kvhp7fr2h9", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>one thing i noticed about excel plots, the points are super big and sorta obnoxious.\u00a0 you have to plot a lot of values to get a sense of what&#39;s going on, ime, so excel might not actually be a reasonable choice.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-01T19:35:25Z", 
+          "uid": "i4fxg6tfzh211n", 
+          "created": "2017-10-01T19:35:25Z", 
+          "type": "feedback", 
+          "id": "j895bwudini257", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Santiago, how many data points did you use for each plot? I&#39;m trying to use Excel as well, but it keeps crashing (too many data points... e.g. like in the provided input file, even if I use half of it).</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-01T22:10:20Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-10-01T22:10:20Z", 
+          "type": "feedback", 
+          "id": "j89av49wc3h10l", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>For Task 1, I only used 500 data points. You can use more or fewer and it should be enough to illustrate what you need. I was basically comparing the uniformity of the generated hashes.</p>\n<p></p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-01T23:21:28Z", 
+          "uid": "idg61g3ot1qp6", 
+          "created": "2017-10-01T23:21:28Z", 
+          "type": "feedback", 
+          "id": "j89delsol7sdy", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Santiago,</p>\n<p>You&#39;re plotting 500 of the input values vs. the hashed values for Task1 right?</p>\n<p>I thought this would illustrate how well each of the values get hashed and to see if they clump together or not for Hash1 and Hash2.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-01T23:23:40Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-10-01T23:23:40Z", 
+          "type": "feedback", 
+          "id": "j89dhfe191a591", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>That is correct.\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-01T23:27:49Z", 
+          "uid": "ijbr5ddtwyt6pa", 
+          "created": "2017-10-01T23:27:49Z", 
+          "type": "feedback", 
+          "id": "j89dmrogfa5y3", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I used 20000 for task 2, with two different sets of input, though I don&#39;t know how much different my end findings are from what someone who ran less would have gotten</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-02T00:04:40Z", 
+          "uid": "i4fxg6tfzh211n", 
+          "created": "2017-10-02T00:04:40Z", 
+          "type": "feedback", 
+          "id": "j89ey5sb13y11b", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thanks, Santiago. That&#39;s exactly the number of data points that I\u00a0ended up choosing, but was worried it may not be enough. Good to read your input.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-02T18:58:52Z", 
+          "uid": "i4ket0u1z5q31a", 
+          "created": "2017-10-02T18:58:52Z", 
+          "type": "feedback", 
+          "id": "j8ajgr45xfr2tv", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I plotted 10K out of the 100K for task 1 with small dots so they fit.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-02T19:06:41Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-10-02T19:06:41Z", 
+          "type": "feedback", 
+          "id": "j8ajqsot67ulj", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>You can also do that :) I ended up using 500 points only for 2 reasons:</p>\n<p></p>\n<p>1) It was enough.</p>\n<p>2) The charts have to be very small to fit in the report document.</p>\n<p></p>"
+        }
+      ], 
+      "subject": "<p>Not answering this question directly, but I ended up exporting to CSV and using Google Spreadsheets to draw the charts.</p>"
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-28T13:04:06Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "hve4kbcvx7l4t3", 
+        "hz3xzg3uwdmpt"
+      ], 
+      "id": "j84h13xaqat754", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Lekha Pillai", 
+          "admin": false, 
+          "photo": "1427480795_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hve4kbcvx7l4t3"
+        }, 
+        {
+          "name": "Chris Curran", 
+          "admin": false, 
+          "photo": null, 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hz3xzg3uwdmpt"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p></p><pre>import matplotlib.pyplot as plt<br />#resDict_BL and resDict_NoBL are dictionaries of stats from REINFORCE algorithm with and without using baseline<br />def plotRes(resDict_BL, resDict_NoBL):\n    xAxis = range(len(resDict_BL[&#39;res_disp&#39;]))\n    yMaxMu = max(max(resDict_BL[&#39;res_mu&#39;]), max(resDict_NoBL[&#39;res_mu&#39;]))\n    plt.figure(1)\n    plt.subplot(311)\n    plt.plot(xAxis, resDict_BL[&#39;res_mu&#39;],&#39;r&#39;, xAxis, resDict_NoBL[&#39;res_mu&#39;], &#39;b&#39;)\n    plt.axis([0,len(resDict_BL[&#39;res_disp&#39;]),0,yMaxMu])\n    plt.ylabel(&#39;Mu&#39;)\n    #plt.xlabel(&#39;Iteration&#39;)\n\n    plt.subplot(312)\n    plt.plot(xAxis, resDict_BL[&#39;res_var&#39;],&#39;r&#39;, xAxis, resDict_NoBL[&#39;res_var&#39;], &#39;b&#39;)\n    plt.ylabel(&#39;Variance&#39;)\n    #plt.xlabel(&#39;Iteration&#39;)\n\n    plt.subplot(313)\n    plt.plot(xAxis, resDict_BL[&#39;res_disp&#39;],&#39;r&#39;, xAxis, resDict_NoBL[&#39;res_disp&#39;], &#39;b&#39;)\n    plt.ylabel(&#39;Dispersion (Var/Mu)&#39;)\n    plt.xlabel(&#39;Iteration&#39;)\n    plt.show()</pre>\n<p>This function is from some code i&#39;ve been working on - the dictionary holds lists of moments (means, variances, etc) and i am plotting these lists.\u00a0 it&#39;s pretty self explanatory - matplotlib is pretty self explanatory.\u00a0 take for instance consider the following part :</p>\n<pre>\u00a0   plt.subplot(313)<br />    plt.plot(xAxis, resDict_BL[&#39;res_disp&#39;],&#39;r&#39;, xAxis, resDict_NoBL[&#39;res_disp&#39;], &#39;b&#39;)<br />    plt.ylabel(&#39;Dispersion (Var/Mu)&#39;)<br />    plt.xlabel(&#39;Iteration&#39;)<br />    plt.show()</pre>\n<p></p>\n<p>this first specifies that there are 3 plots, and this one is the first column, the third row.\u00a0 next, it sets up the plot for the values given by (xAxis, resDict_BL[&#39;res_disp&#39;]) in red and (xAxis, resDict_NoBL[&#39;res_disp&#39;]) in blue.\u00a0 xAxis\u00a0 is a list of iterations (1,2,3,4...) and each dictionary list is the value of the dispersion (variance over mean) of that particular iteration.\u00a0 the labels of both axes are set, and then the plot is shown.</p>", 
+          "anon": "no", 
+          "created": "2017-09-28T13:04:06Z", 
+          "uid": "gns9oa0pgsO", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-30T15:51:23Z", 
+      "no_upvotes": 0, 
+      "uid": "idgk9rl6Wdv", 
+      "created": "2017-09-30T15:51:23Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j87hvy1u40d18t", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-02T12:41:11Z", 
+          "uid": "gns9oa0pgsO", 
+          "created": "2017-10-02T12:41:11Z", 
+          "type": "feedback", 
+          "id": "j8a5z1tqjoz2jx", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>i don&#39;t think this will fly in this particular case\u00a0because the graphs hold the key to the insights that we&#39;re going after here.\u00a0</p>"
+        }
+      ], 
+      "subject": "<p>In the reinforcement learning course the projects also relied on reproducing graphs and what the instructors allowed were for the students to compare graphs in piazza but required that all graphs have an obvious water mark to avoid any sort of plagiarism. Having a reference point really helps to know if you are on the right track or not. I completely understand if this isn&#39;t allowed this semester but maybe consider it for the future?</p>\n<p></p>\n<p>Thanks!</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-05T09:59:50Z", 
+      "no_upvotes": 0, 
+      "uid": "hz3xzg3uwdmpt", 
+      "created": "2017-10-05T09:59:50Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8eaj3uywnq4hi", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-05T10:02:45Z", 
+          "uid": "hz3xzg3uwdmpt", 
+          "created": "2017-10-05T10:02:45Z", 
+          "type": "feedback", 
+          "id": "j8eamv0r59d5xd", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>That is pandas and matplotlib for anyone trying to reproduce my snippit.</p>"
+        }
+      ], 
+      "subject": "<p>Also, you can directly output images if you aren&#39;t messing around with the data in notebooks. This will let you build all your images at once if you are lazy like me.</p>\n<p></p>\n<pre>ax = df.plot(x=&#34;X&#34;, y=&#34;Y&#34;, kind=&#34;scatter&#34;)<br />fig = ax.get_figure()<br />fig.savefig(&#34;fig1.png&#34;)</pre>"
+    }
+  ], 
+  "nr": 461, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "project"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 6, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "project", 
+    "student"
+  ], 
+  "created": "2017-09-27T23:24:42Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145210443, 
+  "tag_good": [
+    {
+      "name": "Chris Curran", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hz3xzg3uwdmpt"
+    }
+  ], 
+  "tag_good_arr": [
+    "hz3xzg3uwdmpt"
+  ], 
+  "history": [
+    {
+      "content": "<p>Can you provide some matplotlib template code we can use?</p>\n<p>I spend more time &#34;re-learning&#34; matplotlib than working on assignments each time I have to use it. ;)</p>", 
+      "anon": "no", 
+      "created": "2017-09-27T23:30:16Z", 
+      "uid": "i4ket0u1z5q31a", 
+      "subject": "Matplotlib sample code"
+    }, 
+    {
+      "content": "<p>Can you provide some matplotlib template code we can use?</p>\n<p>I spend more time &#34;re-learning&#34; matplotlib than working on assignments each time I have to use it. ;)</p>", 
+      "anon": "stud", 
+      "created": "2017-09-27T23:24:42Z", 
+      "subject": "Matplotlib sample code"
+    }
+  ]
+}

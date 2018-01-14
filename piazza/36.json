@@ -1,0 +1,184 @@
+{
+  "status": "active", 
+  "unique_views": 236, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-08-23T00:12:44Z", 
+      "data": "j6o9mgq5msr5rq", 
+      "uid": "hveop63kovn61t"
+    }, 
+    {
+      "uid": "ij7kfkx61zz365", 
+      "type": "s_answer", 
+      "when": "2017-08-23T01:00:37Z", 
+      "to": "j6o9mgq3m2w5rp", 
+      "anon": "no", 
+      "data": "j6obc1g3v4a141"
+    }, 
+    {
+      "uid": "ijaqo3bm4133g3", 
+      "type": "i_answer", 
+      "when": "2017-08-23T01:41:39Z", 
+      "to": "j6o9mgq3m2w5rp", 
+      "anon": "no", 
+      "data": "j6ocstcv1287al"
+    }, 
+    {
+      "to": "j6o9mgq3m2w5rp", 
+      "anon": "no", 
+      "when": "2017-08-26T19:23:17Z", 
+      "type": "followup", 
+      "uid": "hv8z1ta1w1b6nm"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j6o9mgq3m2w5rp", 
+  "bookmarked": 5, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-08-23T01:00:37Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j6obc1g1gq1140", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>Maybe post on the main G&#43; board to ask students from the last couple semesters&#39; CCA courses if they would tutor you for $x ?</p>", 
+          "anon": "no", 
+          "created": "2017-08-23T01:00:37Z", 
+          "uid": "ij7kfkx61zz365", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-08-23T01:41:39Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "ija2ufzr6l0f7", 
+        "hviwm6agQCk"
+      ], 
+      "id": "j6ocstcu9ga7ak", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Di Wang", 
+          "admin": false, 
+          "photo": "1453179229_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "ija2ufzr6l0f7"
+        }, 
+        {
+          "name": "Jaya Rao", 
+          "admin": false, 
+          "photo": "1503185676_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hviwm6agQCk"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>I think the official tutoring for this class is the office hour. If you would like any kind of extra tutoring, you can try asking some Gatech students to help you put up posters in Klaus building or college of computing.</p>", 
+          "anon": "no", 
+          "created": "2017-08-23T01:41:39Z", 
+          "uid": "ijaqo3bm4133g3", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-26T19:23:17Z", 
+      "no_upvotes": 0, 
+      "uid": "hv8z1ta1w1b6nm", 
+      "created": "2017-08-26T19:23:17Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6tp1n17vjq1gu", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>If anyone finds a good tutoring resource for this class, please post it here.</p>"
+    }
+  ], 
+  "nr": 36, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "course"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 3, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "course", 
+    "student"
+  ], 
+  "created": "2017-08-23T00:12:44Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145327140, 
+  "tag_good": [
+    {
+      "name": "Josh Clum", 
+      "admin": false, 
+      "photo": "1431566311_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hve4k9bj2u4qu"
+    }
+  ], 
+  "tag_good_arr": [
+    "hve4k9bj2u4qu"
+  ], 
+  "history": [
+    {
+      "content": "<p>Been looking at getting some tutoring to help supplement my learning of the subject.\u00a0</p>", 
+      "anon": "no", 
+      "created": "2017-08-23T00:12:44Z", 
+      "uid": "hveop63kovn61t", 
+      "subject": "Does anyone know if GA tech offers remote tutoring for OMSCS?"
+    }
+  ]
+}

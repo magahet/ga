@@ -1,0 +1,538 @@
+{
+  "status": "active", 
+  "unique_views": 267, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-08-23T05:02:38Z", 
+      "data": "j6ojz9i2hxl3m1", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "uid": "gy4twfv45cg5o6", 
+      "type": "i_answer", 
+      "when": "2017-08-23T09:59:40Z", 
+      "to": "j6ojz9hx87z3m0", 
+      "anon": "no", 
+      "data": "j6oul95xdch3rf"
+    }, 
+    {
+      "to": "j6ojz9hx87z3m0", 
+      "anon": "no", 
+      "when": "2017-08-24T17:38:00Z", 
+      "type": "followup", 
+      "uid": "iddoxdh5wry2oa"
+    }, 
+    {
+      "to": "j6ojz9hx87z3m0", 
+      "anon": "no", 
+      "when": "2017-08-24T17:54:00Z", 
+      "type": "feedback", 
+      "uid": "iddoxdh5wry2oa"
+    }, 
+    {
+      "to": "j6ojz9hx87z3m0", 
+      "anon": "no", 
+      "when": "2017-09-02T21:49:12Z", 
+      "type": "feedback", 
+      "uid": "isb30n9eruy4my"
+    }, 
+    {
+      "to": "j6ojz9hx87z3m0", 
+      "anon": "no", 
+      "when": "2017-09-02T22:52:49Z", 
+      "type": "feedback", 
+      "uid": "hvfeyx7qglF"
+    }, 
+    {
+      "to": "j6ojz9hx87z3m0", 
+      "anon": "no", 
+      "when": "2017-09-03T17:37:08Z", 
+      "type": "followup", 
+      "uid": "hve4kb0lopy4sl"
+    }, 
+    {
+      "to": "j6ojz9hx87z3m0", 
+      "anon": "no", 
+      "when": "2017-09-03T21:09:32Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j6ojz9hx87z3m0", 
+      "anon": "no", 
+      "when": "2017-09-03T22:15:42Z", 
+      "type": "feedback", 
+      "uid": "hve4kb0lopy4sl"
+    }, 
+    {
+      "to": "j6ojz9hx87z3m0", 
+      "anon": "no", 
+      "when": "2017-09-04T00:45:47Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j6ojz9hx87z3m0", 
+      "anon": "no", 
+      "when": "2017-09-04T03:03:01Z", 
+      "type": "feedback", 
+      "uid": "hve4kb0lopy4sl"
+    }, 
+    {
+      "to": "j6ojz9hx87z3m0", 
+      "anon": "no", 
+      "when": "2017-09-08T02:06:30Z", 
+      "type": "followup", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "to": "j6ojz9hx87z3m0", 
+      "anon": "no", 
+      "when": "2017-09-08T03:06:20Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j6ojz9hx87z3m0", 
+      "anon": "no", 
+      "when": "2017-09-08T03:08:42Z", 
+      "type": "feedback", 
+      "uid": "ijbr5ddtwyt6pa"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j6ojz9hx87z3m0", 
+  "bookmarked": 6, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-08-23T09:59:40Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "idgjs16yZ4K", 
+        "i18w67avy8e1uk", 
+        "i4j6x8uvfv6743", 
+        "i4knvwlqXZ8", 
+        "hv1gl7gmpkj41y", 
+        "ij7kfkx61zz365", 
+        "idfwkf5jgsm3gg", 
+        "iddoxdh5wry2oa", 
+        "hve4k9bj2u4qu", 
+        "i4fxg6tfzh211n", 
+        "hz9y0742TXb"
+      ], 
+      "id": "j6oul95u8bt3re", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Jonathan McMahon", 
+          "admin": false, 
+          "photo": "1498602698_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "idgjs16yZ4K"
+        }, 
+        {
+          "name": "Shihgian Lee", 
+          "admin": false, 
+          "photo": "1420394909_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i18w67avy8e1uk"
+        }, 
+        {
+          "name": "Eddie Spencer", 
+          "admin": false, 
+          "photo": "1432002672_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i4j6x8uvfv6743"
+        }, 
+        {
+          "name": "Matthew Clarke", 
+          "admin": false, 
+          "photo": "1468354733_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i4knvwlqXZ8"
+        }, 
+        {
+          "name": "William Miller", 
+          "admin": false, 
+          "photo": "1408322716_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hv1gl7gmpkj41y"
+        }, 
+        {
+          "name": "Samantha Campo", 
+          "admin": false, 
+          "photo": "1452452625_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "ij7kfkx61zz365"
+        }, 
+        {
+          "name": "Nikita Nerkar", 
+          "admin": false, 
+          "photo": "1455312357_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "idfwkf5jgsm3gg"
+        }, 
+        {
+          "name": "Shujie Shen", 
+          "admin": false, 
+          "photo": null, 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "iddoxdh5wry2oa"
+        }, 
+        {
+          "name": "Josh Clum", 
+          "admin": false, 
+          "photo": "1431566311_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hve4k9bj2u4qu"
+        }, 
+        {
+          "name": "Estelle Yeh", 
+          "admin": false, 
+          "photo": "1421544945_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i4fxg6tfzh211n"
+        }, 
+        {
+          "name": "Vinh Nguyen", 
+          "admin": false, 
+          "photo": null, 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hz9y0742TXb"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>I&#39;ll post some solutions later today. \u00a0--Eric</p>", 
+          "anon": "no", 
+          "created": "2017-08-23T09:59:40Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-24T17:38:00Z", 
+      "no_upvotes": 0, 
+      "uid": "iddoxdh5wry2oa", 
+      "created": "2017-08-24T17:38:00Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6qqeizo6404ld", 
+      "anon": "no", 
+      "bucket_name": "Week 8/20 - 8/26", 
+      "config": {}, 
+      "bucket_order": 7, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-08-24T17:54:00Z", 
+          "uid": "iddoxdh5wry2oa", 
+          "created": "2017-08-24T17:54:00Z", 
+          "type": "feedback", 
+          "id": "j6qqz3kw2es33g", 
+          "anon": "no", 
+          "bucket_name": "Week 8/20 - 8/26", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>found them!</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-02T21:49:12Z", 
+          "uid": "isb30n9eruy4my", 
+          "created": "2017-09-02T21:49:12Z", 
+          "type": "feedback", 
+          "id": "j73uc8ma7opha", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>where&#39;s problem solutions?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-02T22:52:49Z", 
+          "uid": "hvfeyx7qglF", 
+          "created": "2017-09-02T22:52:49Z", 
+          "type": "feedback", 
+          "id": "j73wm1wcmed4zh", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>They are in the resources section of t-square.</p>"
+        }
+      ], 
+      "subject": "<p>Have problem solutions been posted? I didn&#39;t find it on piazza. I already figured out some of them by myself, do need solutions to verify my thoughts.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-03T17:37:08Z", 
+      "no_upvotes": 0, 
+      "uid": "hve4kb0lopy4sl", 
+      "created": "2017-09-03T17:37:08Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j750rxpxwx22mm", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-03T21:09:32Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-09-03T21:09:32Z", 
+          "type": "feedback", 
+          "id": "j758d30dzxb2bg", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p></p>\n<p>No, I don&#39;t have them. \u00a0Are there specific problems you&#39;re attempting? \u00a0Once again you can post proposed solutions and we&#39;ll post answers, but some of the problems from chapter 2 might be on the next homework so let&#39;s be careful about that.</p>\n<p></p>\n<p>--Eric</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-03T22:15:42Z", 
+          "uid": "hve4kb0lopy4sl", 
+          "created": "2017-09-03T22:15:42Z", 
+          "type": "feedback", 
+          "id": "j75aq6lea8e7c6", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I was referring to the problems in 0.1(a-q) that indicate whether I have the right understanding of big-O notation (whether f=O(g), f=\u03a9(g) or both).</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-04T00:45:47Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-09-04T00:45:47Z", 
+          "type": "feedback", 
+          "id": "j75g36b988e1u5", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p></p>\n<p>I posted solutions for most of the parts. \u00a0--Eric</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-04T03:03:01Z", 
+          "uid": "hve4kb0lopy4sl", 
+          "created": "2017-09-04T03:03:01Z", 
+          "type": "feedback", 
+          "id": "j75kzo2cuwe3t4", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thanks for posting those professor. Unfortunately only one of them lined up with my version of the book (your a was my c) and i got that one wrong so I&#39;ll try to get some better insight from your other examples even though they don&#39;t match my book&#39;s exercises.\u00a0 I&#39;m now starting to wonder if I bought the wrong version of the book (from Amazon) since mine is 1st edition copyright 2008 and I noticed some pages did not line up right with what was mentioned in office hours yesterday either.</p>"
+        }
+      ], 
+      "subject": "<p>Thanks for posting the chapter 6 solutions but is there any place I can find the chap 0 and chap 2 solutions for HW0?\u00a0 I&#39;m having trouble validating whether what I&#39;m doing is correct or not.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-08T02:06:30Z", 
+      "no_upvotes": 0, 
+      "uid": "ijbr5ddtwyt6pa", 
+      "created": "2017-09-08T02:06:30Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7b8qe5msa914g", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-08T03:06:20Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-09-08T03:06:20Z", 
+          "type": "feedback", 
+          "id": "j7bavc6menwek", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p></p>\n<p>I don&#39;t want solutions to be posted here. \u00a0You can figure out some other forum to do that, not the official class forum. \u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-08T03:08:42Z", 
+          "uid": "ijbr5ddtwyt6pa", 
+          "created": "2017-09-08T03:08:42Z", 
+          "type": "feedback", 
+          "id": "j7baydis1wu66r", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Fair enough. Thanks for clarifying that</p>"
+        }
+      ], 
+      "subject": "<p>Is it possible to get the solutions to all the problems (not just ones assigned) in the textbook. Meaning, has anyone found a website that is free and posts them? Everything I see costs money to get the actual answer.</p>"
+    }
+  ], 
+  "nr": 47, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw1", 
+    "hw_solutions1", 
+    "course", 
+    "dp-solutions"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 2, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "course", 
+    "dp-solutions", 
+    "hw1", 
+    "hw_solutions1", 
+    "student"
+  ], 
+  "created": "2017-08-23T05:02:38Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145323719, 
+  "tag_good": [
+    {
+      "name": "Jonathan McMahon", 
+      "admin": false, 
+      "photo": "1498602698_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "idgjs16yZ4K"
+    }, 
+    {
+      "name": "Samantha Campo", 
+      "admin": false, 
+      "photo": "1452452625_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "ij7kfkx61zz365"
+    }, 
+    {
+      "name": "Estelle Yeh", 
+      "admin": false, 
+      "photo": "1421544945_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4fxg6tfzh211n"
+    }
+  ], 
+  "tag_good_arr": [
+    "idgjs16yZ4K", 
+    "ij7kfkx61zz365", 
+    "i4fxg6tfzh211n"
+  ], 
+  "history": [
+    {
+      "content": "<p>Is there anywhere where I can find the solutions to the problems in the <em>Algorithms\u00a0</em>textbook?</p>", 
+      "anon": "no", 
+      "created": "2017-08-23T05:02:38Z", 
+      "uid": "ijbr5ddtwyt6pa", 
+      "subject": "Algorithms Textbook Problem Solutions"
+    }
+  ]
+}

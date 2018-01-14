@@ -1,0 +1,103 @@
+{
+  "status": "active", 
+  "unique_views": 190, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-19T22:38:46Z", 
+      "data": "j8z1t0q45po3qi", 
+      "uid": "hyzqrr6e3u13as"
+    }, 
+    {
+      "uid": "ijarmqggjkc3gz", 
+      "type": "s_answer", 
+      "when": "2017-10-23T14:36:27Z", 
+      "to": "j8z1t0q221e3qh", 
+      "anon": "no", 
+      "data": "j94ac5ykdsc44r"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8z1t0q221e3qh", 
+  "bookmarked": 5, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-23T14:36:27Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j94ac5xytrn44q", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>Correct. If an edge has a capacity of 0 then it gets removed from the graph.</p>", 
+          "anon": "no", 
+          "created": "2017-10-23T14:36:27Z", 
+          "uid": "ijarmqggjkc3gz", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 767, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "exam"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "exam", 
+    "student"
+  ], 
+  "created": "2017-10-19T22:38:46Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145134232, 
+  "tag_good": [
+    {
+      "name": "Michael Buss", 
+      "admin": false, 
+      "photo": "1435529089_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hz0pn3deX7A"
+    }
+  ], 
+  "tag_good_arr": [
+    "hz0pn3deX7A"
+  ], 
+  "history": [
+    {
+      "content": "<p>Is the reverse of a residual graph (G^f) just swapping the capacities on edges?\u00a0</p>\n<p></p>\n<p>i.e. if G^f has edge A-&gt;B with capacity 5 and B-&gt;A with capacity 0, then the reverse graph just swaps the 5 and 0?</p>\n<p></p>\n<p>Does this also imply when you say &#34;run DFS&#34; on a G^f graph, that it will not be able to traverse edges of capacity 0?</p>", 
+      "anon": "no", 
+      "created": "2017-10-19T22:38:46Z", 
+      "uid": "hyzqrr6e3u13as", 
+      "subject": "reverse residiual graph"
+    }
+  ]
+}

@@ -1,0 +1,330 @@
+{
+  "status": "active", 
+  "unique_views": 325, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-08-22T00:45:47Z", 
+      "data": "j6mvd48dssh5ht", 
+      "uid": "idffdmbb26m6lw"
+    }, 
+    {
+      "to": "j6mvd48aa9y5hs", 
+      "anon": "no", 
+      "when": "2017-08-22T00:51:43Z", 
+      "type": "followup", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "uid": "ij7kflqnsgm3av", 
+      "type": "s_answer", 
+      "when": "2017-08-22T01:00:11Z", 
+      "to": "j6mvd48aa9y5hs", 
+      "anon": "no", 
+      "data": "j6mvvmyxhwn280"
+    }, 
+    {
+      "to": "j6mvd48aa9y5hs", 
+      "anon": "no", 
+      "when": "2017-08-22T03:30:02Z", 
+      "type": "feedback", 
+      "uid": "idffdmbb26m6lw"
+    }, 
+    {
+      "to": "j6mvd48aa9y5hs", 
+      "anon": "no", 
+      "when": "2017-08-22T03:36:42Z", 
+      "type": "feedback", 
+      "uid": "i8597qyse9c1v2"
+    }, 
+    {
+      "to": "j6mvd48aa9y5hs", 
+      "anon": "no", 
+      "when": "2017-08-22T03:39:15Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j6mvd48aa9y5hs", 
+      "anon": "no", 
+      "when": "2017-08-22T04:39:35Z", 
+      "type": "feedback", 
+      "uid": "hz0jkj9dnctqp"
+    }, 
+    {
+      "to": "j6mvd48aa9y5hs", 
+      "anon": "no", 
+      "when": "2017-08-22T04:40:29Z", 
+      "type": "feedback", 
+      "uid": "ij7kfkx61zz365"
+    }, 
+    {
+      "to": "j6mvd48aa9y5hs", 
+      "anon": "no", 
+      "when": "2017-08-22T18:53:37Z", 
+      "type": "feedback", 
+      "uid": "idffdmbb26m6lw"
+    }, 
+    {
+      "to": "j6mvd48aa9y5hs", 
+      "anon": "no", 
+      "when": "2017-08-23T21:14:57Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j6mvd48aa9y5hs", 
+  "bookmarked": 7, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-08-22T00:51:43Z", 
+      "no_upvotes": 0, 
+      "uid": "hvil6y6khgk2ri", 
+      "created": "2017-08-22T00:51:43Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6mvkqxc5ts5mx", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-08-22T03:30:02Z", 
+          "uid": "idffdmbb26m6lw", 
+          "created": "2017-08-22T03:30:02Z", 
+          "type": "feedback", 
+          "id": "j6n18cbizyp167", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>It is understandable to focus on exams and projects. However, 10 graded hw with 5% is too few. This means 0.5% for each hw, or 0.013% for each question in a hw. Typing one question in latex probably costs at least 30 mins.\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-22T03:36:42Z", 
+          "uid": "i8597qyse9c1v2", 
+          "created": "2017-08-22T03:36:42Z", 
+          "type": "feedback", 
+          "id": "j6n1gwhhvc6jd", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Don&#39;t type it in Latex then.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-22T03:39:15Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-08-22T03:39:15Z", 
+          "type": "feedback", 
+          "id": "j6n1k6up37167p", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Eh, I am just a student so I can&#39;t speak to that.  What I can say - and what Dr. Vigoda has stressed - is that its imperative that we attempt the homework in order to do well on the exams; so at 5%, 0%, or anything else, its important to do the homework.  It may be helpful to think of it in that light."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-22T04:39:35Z", 
+          "uid": "hz0jkj9dnctqp", 
+          "created": "2017-08-22T04:39:35Z", 
+          "type": "feedback", 
+          "id": "j6n3prvam9e643", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Boji, if the only purpose of homework was to get a grade, this might be true. However, doing the homework will help your exams.</p>\n<p></p>\n<p>Write it and scan it in if you don&#39;t want to use latex.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-22T04:40:29Z", 
+          "uid": "ij7kfkx61zz365", 
+          "created": "2017-08-22T04:40:29Z", 
+          "type": "feedback", 
+          "id": "j6n3qxy4wrb6yp", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I love that the homeworks are worth less (unless I do badly on the exams, then I reverse my opinion, lol!)<br />When practicing, the emphasis should be primarily on learning. Having the hw worth a considerable amount gets in the way of that. I experienced that in a theoretical (proofs) based class in the past. I felt as though I was expected to get everything perfectly without any practice, because the practice itself (hw) was worth so much of our grade. <br /><br />That said, it does put tremendous pressure on the exams. I hope they will test skill rather than speed. It always seems like exams are primarily about speed, which puts deep thinkers at a disadvantage and speed readers at an advantage. I bet you can guess which of those two descriptions applies to me! ;-)</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-22T18:53:37Z", 
+          "uid": "idffdmbb26m6lw", 
+          "created": "2017-08-22T18:53:37Z", 
+          "type": "feedback", 
+          "id": "j6ny82ulmgd3yc", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thanks for the clarification. I am fine with any grading system from the professor. I just want to double check if that 5% is correct on the syllabus.\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-23T21:14:57Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-08-23T21:14:57Z", 
+          "type": "feedback", 
+          "id": "j6pipohke5n10c", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Samantha, I&#39;m the same way. My job is difficult because there is such an emphasis on speed, even though doing something fast but wrong generally takes longer than doing it right in the first place."
+        }
+      ], 
+      "subject": "<p>(EDIT: I was looking at Spring CCA - doh)</p>\n<p></p>\n<p>Dr. Vigoda did say he wanted motivation to do the homework but wanted to place almost no emphasis on it, so one would guess that 5% is probably a good target for that goal (students cant speak to if this is actually correct, but I would believe it is indeed what is intended and seems to fit nicely to the stated goal).</p>"
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-08-22T01:00:11Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [
+        "idgjs16yZ4K", 
+        "ijaqo3bm4133g3", 
+        "i4kxfs7hlxngu"
+      ], 
+      "id": "j6mvvmyfra927z", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Jonathan McMahon", 
+          "admin": false, 
+          "photo": "1498602698_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "idgjs16yZ4K"
+        }, 
+        {
+          "name": "Xinyu Wang", 
+          "admin": true, 
+          "photo": null, 
+          "us": false, 
+          "role": "ta", 
+          "facebook_id": null, 
+          "id": "ijaqo3bm4133g3"
+        }, 
+        {
+          "name": "Nelson Cheng", 
+          "admin": false, 
+          "photo": null, 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i4kxfs7hlxngu"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "It says the project is there. Worth 10%.\u00a0<div><br /></div><div>It was also noted that homeworks count very little and simply serve as practice for the exams. Doing well on HW should show up at exam time.\u00a0</div>", 
+          "anon": "no", 
+          "created": "2017-08-22T01:00:11Z", 
+          "uid": "ij7kflqnsgm3av", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 23, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "course"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 4, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "course", 
+    "student"
+  ], 
+  "created": "2017-08-22T00:45:47Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145332794, 
+  "tag_good": [
+    {
+      "name": "Nelson Cheng", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4kxfs7hlxngu"
+    }
+  ], 
+  "tag_good_arr": [
+    "i4kxfs7hlxngu"
+  ], 
+  "history": [
+    {
+      "content": "<p>The syllabus states:\u00a0</p>\n<p></p>\n<ul><li>HW/quizzes: \u00a05%</li><li>Programming project (on Bloom filters): 10%</li><li>Midterm exams (3): \u00a055%</li><li>Final: \u00a030%</li></ul>\n<p></p>\n<p>Is this correct? 10 graded hw and quizzes count only 5% of the score?\u00a0</p>\n<p></p>\n<p>Are we having any project ?\u00a0</p>", 
+      "anon": "no", 
+      "created": "2017-08-22T00:45:47Z", 
+      "uid": "idffdmbb26m6lw", 
+      "subject": "Grading"
+    }
+  ]
+}

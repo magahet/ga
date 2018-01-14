@@ -1,0 +1,334 @@
+{
+  "status": "active", 
+  "unique_views": 177, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-05T04:30:39Z", 
+      "data": "j8dyrrrk1ls4wt", 
+      "uid": "i4m8xop4ndthr"
+    }, 
+    {
+      "uid": "ido3erby783m0", 
+      "type": "s_answer", 
+      "when": "2017-10-05T08:03:32Z", 
+      "to": "j8dyrrri30m4ws", 
+      "anon": "no", 
+      "data": "j8e6dj4xp6f58i"
+    }, 
+    {
+      "to": "j8dyrrri30m4ws", 
+      "anon": "no", 
+      "when": "2017-10-05T13:06:55Z", 
+      "type": "followup", 
+      "uid": "ijjd1u5dbTq"
+    }, 
+    {
+      "to": "j8dyrrri30m4ws", 
+      "anon": "no", 
+      "when": "2017-10-05T13:37:49Z", 
+      "type": "feedback", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j8dyrrri30m4ws", 
+      "anon": "no", 
+      "when": "2017-10-05T15:23:56Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j8dyrrri30m4ws", 
+      "anon": "no", 
+      "when": "2017-10-05T16:05:33Z", 
+      "type": "feedback", 
+      "uid": "iddox7abejr2mj"
+    }, 
+    {
+      "to": "j8dyrrri30m4ws", 
+      "anon": "no", 
+      "when": "2017-10-05T16:17:03Z", 
+      "type": "feedback", 
+      "uid": "ijjd1u5dbTq"
+    }, 
+    {
+      "to": "j8dyrrri30m4ws", 
+      "anon": "no", 
+      "when": "2017-10-05T16:40:48Z", 
+      "type": "feedback", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j8dyrrri30m4ws", 
+      "anon": "no", 
+      "when": "2017-10-05T16:44:40Z", 
+      "type": "feedback", 
+      "uid": "ijjd1u5dbTq"
+    }, 
+    {
+      "to": "j8dyrrri30m4ws", 
+      "anon": "no", 
+      "when": "2017-10-05T17:44:37Z", 
+      "type": "feedback", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j8dyrrri30m4ws", 
+      "anon": "no", 
+      "when": "2017-10-05T18:27:28Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j8dyrrri30m4ws", 
+      "anon": "no", 
+      "when": "2017-10-05T19:15:19Z", 
+      "type": "feedback", 
+      "uid": "ijjd1u5dbTq"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8dyrrri30m4ws", 
+  "bookmarked": 8, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-05T08:03:31Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j8e6dj4aoec58h", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>see &#64;543</p>", 
+          "anon": "no", 
+          "created": "2017-10-05T08:03:32Z", 
+          "uid": "ido3erby783m0", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-05T13:06:55Z", 
+      "no_upvotes": 0, 
+      "uid": "ijjd1u5dbTq", 
+      "created": "2017-10-05T13:06:55Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8eh7p6e8e15id", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-05T13:37:49Z", 
+          "uid": "gns9oa0pgsO", 
+          "created": "2017-10-05T13:37:49Z", 
+          "type": "feedback", 
+          "id": "j8eibfa4bwm1cl", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>for c = 15, use k = 6-&gt;15</p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-05T15:23:56Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-10-05T15:23:56Z", 
+          "type": "feedback", 
+          "id": "j8em3wkhqce4zi", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "In other words, use every integer value from 6 through 15."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-05T16:05:33Z", 
+          "uid": "iddox7abejr2mj", 
+          "created": "2017-10-05T16:05:33Z", 
+          "type": "feedback", 
+          "id": "j8enlfa2zm6he", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>JC, how much time your program takes to run the task 3 with c=10, a loop of 4 to 10, and 10 trials?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-05T16:17:03Z", 
+          "uid": "ijjd1u5dbTq", 
+          "created": "2017-10-05T16:17:03Z", 
+          "type": "feedback", 
+          "id": "j8eo07e4qkd5sx", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Just an estimation, probably 5-7 minutes. I can get you a more specific time when I get home later.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-05T16:40:48Z", 
+          "uid": "i4ket0u1z5q31a", 
+          "created": "2017-10-05T16:40:48Z", 
+          "type": "feedback", 
+          "id": "j8eour3ymqp3rr", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>int(0.4*c) will give you what you want.</p>\n<p>Then just use basic Python as shown in office hours.</p>\n<pre>for c in [10,15]:<br />    kStart = int(0.4*c)<br />    for k in range(kStart, c&#43;1):<br />        # Do stuff...</pre>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-05T16:44:40Z", 
+          "uid": "ijjd1u5dbTq", 
+          "created": "2017-10-05T16:44:40Z", 
+          "type": "feedback", 
+          "id": "j8eozqdmp492gv", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Clever. Thanks David.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-05T17:44:37Z", 
+          "uid": "i4ket0u1z5q31a", 
+          "created": "2017-10-05T17:44:37Z", 
+          "type": "feedback", 
+          "id": "j8er4tl94l8uv", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I got it from our TA John in office hours.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-05T18:27:28Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-10-05T18:27:28Z", 
+          "type": "feedback", 
+          "id": "j8esnx2wodd5mr", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "If you are discussing time, be sure to specify which hash function you&#39;re talking about. Type 1 is much slower."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-05T19:15:19Z", 
+          "uid": "ijjd1u5dbTq", 
+          "created": "2017-10-05T19:15:19Z", 
+          "type": "feedback", 
+          "id": "j8eudgm67y52p6", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Just ran it again at home. It takes about 8 minutes to run 10 trials each with hash=1, c=10 and k[4-&gt;11].</p>"
+        }
+      ], 
+      "subject": "<p>I fixed a variable c at 10, and then ran a loop from 4 - 10 for k and did 10 trials for each k.\u00a0</p>\n<p></p>\n<p>I&#39;m not sure what I&#39;ll do for c = 15 yet, because some of the values for k will be floats rather than ints. Have others cast them to int? Used floor or ceiling?</p>"
+    }
+  ], 
+  "nr": 604, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "project"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 4, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "project", 
+    "student"
+  ], 
+  "created": "2017-10-05T04:30:39Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145178763, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>How do we fix <em>c</em>?</p>\n<p></p>\n<p>My guess is that c = n/m, so knowing n or m should we solve the equation like 10 = n/m or 15 = n/m and then manipulate n? or we manipulate m?</p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>", 
+      "anon": "no", 
+      "created": "2017-10-05T04:30:39Z", 
+      "uid": "i4m8xop4ndthr", 
+      "subject": "fixing c to 10, 15"
+    }
+  ]
+}

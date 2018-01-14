@@ -1,0 +1,484 @@
+{
+  "status": "active", 
+  "unique_views": 156, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "stud", 
+      "when": "2017-08-28T18:14:44Z", 
+      "data": "j6whh697g2p5kw"
+    }, 
+    {
+      "uid": "gy4twfv45cg5o6", 
+      "type": "i_answer", 
+      "when": "2017-08-28T18:27:38Z", 
+      "to": "j6whh694y7w5kv", 
+      "anon": "no", 
+      "data": "j6whxrltj5u2jh"
+    }, 
+    {
+      "to": "j6whh694y7w5kv", 
+      "anon": "stud", 
+      "when": "2017-08-28T18:49:22Z", 
+      "type": "followup"
+    }, 
+    {
+      "to": "j6whh694y7w5kv", 
+      "anon": "no", 
+      "when": "2017-08-28T19:21:40Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j6whh694y7w5kv", 
+      "anon": "no", 
+      "when": "2017-08-29T17:23:06Z", 
+      "type": "feedback", 
+      "uid": "idgauptz2ou3po"
+    }, 
+    {
+      "to": "j6whh694y7w5kv", 
+      "anon": "no", 
+      "when": "2017-08-29T18:26:34Z", 
+      "type": "feedback", 
+      "uid": "idg5nm2lC96"
+    }, 
+    {
+      "to": "j6whh694y7w5kv", 
+      "anon": "no", 
+      "when": "2017-08-29T19:23:06Z", 
+      "type": "feedback", 
+      "uid": "idgauptz2ou3po"
+    }, 
+    {
+      "to": "j6whh694y7w5kv", 
+      "anon": "no", 
+      "when": "2017-08-29T19:52:19Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-08-29T21:52:46Z", 
+      "data": "j6y4pfo3dqk6ix", 
+      "uid": "i1v7fed8sw85di"
+    }, 
+    {
+      "to": "j6whh694y7w5kv", 
+      "anon": "no", 
+      "when": "2017-08-29T21:55:50Z", 
+      "type": "feedback", 
+      "uid": "i1v7fed8sw85di"
+    }, 
+    {
+      "to": "j6whh694y7w5kv", 
+      "anon": "no", 
+      "when": "2017-08-29T23:51:34Z", 
+      "type": "feedback", 
+      "uid": "i1v7fed8sw85di"
+    }, 
+    {
+      "to": "j6whh694y7w5kv", 
+      "anon": "stud", 
+      "when": "2017-08-30T19:40:12Z", 
+      "type": "feedback"
+    }, 
+    {
+      "to": "j6whh694y7w5kv", 
+      "anon": "no", 
+      "when": "2017-09-01T17:00:46Z", 
+      "type": "feedback", 
+      "uid": "i1v7fed8sw85di"
+    }, 
+    {
+      "to": "j6whh694y7w5kv", 
+      "anon": "no", 
+      "when": "2017-09-05T20:38:11Z", 
+      "type": "feedback", 
+      "uid": "i1v7fed8sw85di"
+    }, 
+    {
+      "to": "j6whh694y7w5kv", 
+      "anon": "stud", 
+      "when": "2017-09-10T04:55:07Z", 
+      "type": "feedback"
+    }, 
+    {
+      "to": "j6whh694y7w5kv", 
+      "anon": "stud", 
+      "when": "2017-09-10T06:34:11Z", 
+      "type": "feedback"
+    }, 
+    {
+      "to": "j6whh694y7w5kv", 
+      "anon": "no", 
+      "when": "2017-09-13T09:18:36Z", 
+      "type": "feedback", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "to": "j6whh694y7w5kv", 
+      "anon": "no", 
+      "when": "2017-09-16T14:15:39Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j6whh694y7w5kv", 
+      "anon": "no", 
+      "when": "2017-09-18T17:59:45Z", 
+      "type": "feedback", 
+      "uid": "hve4kbcvx7l4t3"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j6whh694y7w5kv", 
+  "bookmarked": 7, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-08-28T18:27:38Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j6whxrlomti2jg", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p></p>\n<p>For what lectures? \u00a0I don&#39;t really want to check all of them.</p>\n<p>I&#39;m still reviewing the later ones. \u00a0--Eric</p>", 
+          "anon": "no", 
+          "created": "2017-08-28T18:27:38Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-28T18:49:22Z", 
+      "no_upvotes": 0, 
+      "created": "2017-08-28T18:49:22Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6wippw1h6a3ky", 
+      "anon": "stud", 
+      "bucket_name": "Week 8/27 - 9/2", 
+      "config": {}, 
+      "bucket_order": 8, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-08-28T19:21:40Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-08-28T19:21:40Z", 
+          "type": "feedback", 
+          "id": "j6wjv9cbnkw51q", 
+          "anon": "no", 
+          "bucket_name": "Week 8/27 - 9/2", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p></p>\n<p>Linyuan Shang,</p>\n<p></p>\n<p>I need to do this individually for each node. \u00a0Is this important for some reason?</p>\n<p>Why does it matter if some nodes don&#39;t have subtitles?</p>\n<p>I&#39;ve never looked at the downloads.</p>\n<p></p>\n<p>--Eric</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-29T17:23:06Z", 
+          "uid": "idgauptz2ou3po", 
+          "created": "2017-08-29T17:23:06Z", 
+          "type": "feedback", 
+          "id": "j6xv2mya8l73dg", 
+          "anon": "no", 
+          "bucket_name": "Week 8/27 - 9/2", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "I&#39;m deaf, so for me the subtitles meet an accessibility requirement.\u00a0<div><br /></div><div>If you prefer, I can make a formal request to the accessibility office. But generally almost all videos have been subtitled in all classes, so I haven&#39;t bothered.\u00a0</div>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-29T18:26:34Z", 
+          "uid": "idg5nm2lC96", 
+          "created": "2017-08-29T18:26:34Z", 
+          "type": "feedback", 
+          "id": "j6xxc9d3g245xz", 
+          "anon": "no", 
+          "bucket_name": "Week 8/27 - 9/2", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Anonymous and Eric Eidson: One\u00a0option is to click the &#34;YouTube&#34; icon to open the video on YouTube, and then, once on YouTube, click &#34;More,&#34; and then select &#34;Transcript&#34; to have YouTube generate the transcript for you. That&#39;s what I did when I felt like I needed the transcript.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-29T19:23:06Z", 
+          "uid": "idgauptz2ou3po", 
+          "created": "2017-08-29T19:23:06Z", 
+          "type": "feedback", 
+          "id": "j6xzcy4b7i1vg", 
+          "anon": "no", 
+          "bucket_name": "Week 8/27 - 9/2", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Thank you, Dennis. That option is not always available; and when it is, it frequently produces gibberish. Therefore it is not actually a reasonable accommodation.\u00a0<div><br /></div><div>All lecture videos are supposed to be subtitled. It is not like the instructor has do it though. There is a subtitle service GT pays to do it. They just have to be told which videos to subtitle. (And that&#39;s the course preparers&#39; job.)</div>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-29T19:52:19Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-08-29T19:52:19Z", 
+          "type": "feedback", 
+          "id": "j6y0ej48u4s3fg", 
+          "anon": "no", 
+          "bucket_name": "Week 8/27 - 9/2", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p></p>\n<p>Sorry. \u00a0I completely misunderstood this whole thread. \u00a0My apologies for my reply.</p>\n<p></p>\n<p>I thought the small blurb underneath the video was the subtitle for the node and that was what they were asking for. \u00a0For example:</p>\n<p>\u00a0 LCS: DP Recursive Relation: Problem In Attempt 1.</p>\n<p></p>\n<p>You&#39;re asking for captioning/transcript of the entire video, right? \u00a0I didn&#39;t even realize that some of the videos have been done, or that there is a GT service to do that. \u00a0 I&#39;ll try to investigate. \u00a0Some of the nodes I just recorded, and some I&#39;ll re-do as I review so I&#39;m not sure how quickly these happen. \u00a0Hopefully Arpan can comment on this stuff...</p>\n<p></p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-29T21:55:50Z", 
+          "uid": "i1v7fed8sw85di", 
+          "created": "2017-08-29T21:55:50Z", 
+          "type": "feedback", 
+          "id": "j6y4td2f3rvg", 
+          "anon": "no", 
+          "bucket_name": "Week 8/27 - 9/2", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I looked at the quiz example you pointed out, and it looks like the problem might be with a certain type of quiz. We&#39;ll try to resolve the issue, and respond back here. I apologize for the inconvenience caused!</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-29T23:51:34Z", 
+          "uid": "i1v7fed8sw85di", 
+          "created": "2017-08-29T23:51:34Z", 
+          "type": "feedback", 
+          "id": "j6y8y74c2684vk", 
+          "anon": "no", 
+          "bucket_name": "Week 8/27 - 9/2", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Update: We have identified 5 quizzes in the course (each with a question video and an answer video) that are currently missing subtitles - one of these is in DP1. There are some additional videos that were either recorded/updated recently, or otherwise haven&#39;t received the subtitles yet (these are typically later on in the course).</p>\n<p></p>\n<p>We&#39;re addressing both these issues. If you do notice a non-quiz video that is missing subtitles, do let us know here - that will help us find any other problems.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-30T19:40:12Z", 
+          "created": "2017-08-30T19:40:12Z", 
+          "type": "feedback", 
+          "id": "j6zfesr4a3r3ay", 
+          "anon": "stud", 
+          "bucket_name": "Week 8/27 - 9/2", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Sorry for the confusion. If you download the caption files, the folder name is subtitle, that is why I typed subtitles in this thread.\u00a0</p>\n<p></p>\n<p>Thank you Arpan, the caption is really helpful. If I see other missing caption video, I will let you know.\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-01T17:00:46Z", 
+          "uid": "i1v7fed8sw85di", 
+          "created": "2017-09-01T17:00:46Z", 
+          "type": "feedback", 
+          "id": "j724lgefs1k1g7", 
+          "anon": "no", 
+          "bucket_name": "Week 8/27 - 9/2", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thanks for your cooperation! Subtitles for some of the later chapters (DC &amp; GR) have started coming in, it&#39;s just the quizzes that are stuck because of a technicality. We&#39;ll either have it resolved, or put in a workaround.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-05T20:38:11Z", 
+          "uid": "i1v7fed8sw85di", 
+          "created": "2017-09-05T20:38:11Z", 
+          "type": "feedback", 
+          "id": "j7824gwnw4g4bz", 
+          "anon": "no", 
+          "bucket_name": "Week 9/3 - 9/9", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Update: Subtitles for those quiz videos should be up on YouTube. However, they will not be available in the downloaded set of transcripts for now. Udacity is\u00a0working on updating the mechanism for that.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-10T04:55:07Z", 
+          "created": "2017-09-10T04:55:07Z", 
+          "type": "feedback", 
+          "id": "j7e9my5hgvymu", 
+          "anon": "stud", 
+          "bucket_name": "Week 9/3 - 9/9", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Hi,</p>\n<p></p>\n<p>I found another video without caption.</p>\n<p></p>\n<p>Lesson 7: RA3: Bloom Filters</p>\n<p>11. Power of Two Hashing.\u00a0</p>\n<p></p>\n<p>There are 2 videos in the section, both without caption.\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-10T06:34:11Z", 
+          "created": "2017-09-10T06:34:11Z", 
+          "type": "feedback", 
+          "id": "j7ed6cep2vz5ai", 
+          "anon": "stud", 
+          "bucket_name": "Week 9/3 - 9/9", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>And also\u00a0</p>\n<p>Lesson 7: RA3: Bloom Filters</p>\n<p>22.\u00a0Summary</p>\n<p>\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-13T09:18:36Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-09-13T09:18:36Z", 
+          "type": "feedback", 
+          "id": "j7itdbvr4g01p", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Incidentally, the last RA3 Bloom Filters video <a href=\"https://classroom.udacity.com/courses/ud401/lessons/10040062915/concepts/adc3fb6f-ed52-4c58-8106-c3f4ed9d377c\">https://classroom.udacity.com/courses/ud401/lessons/10040062915/concepts/adc3fb6f-ed52-4c58-8106-c3f4ed9d377c</a> seems to have automatic Russian subtitles only; the auto-translate is of course nonsense, aside from the one word &#39;monster&#39; :-)"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-16T14:15:39Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-09-16T14:15:39Z", 
+          "type": "feedback", 
+          "id": "j7neawij4un451", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p><strong attention=\"i1v7fed8sw85di\">&#64;Arpan Chakraborty</strong> \u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-18T17:59:45Z", 
+          "uid": "hve4kbcvx7l4t3", 
+          "created": "2017-09-18T17:59:45Z", 
+          "type": "feedback", 
+          "id": "j7qh6si2qe76jb", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Some are missing for FFT part 1&amp; 2 as well.</p>"
+        }
+      ], 
+      "subject": "<p>For download, there are two modes: one is courses resources, and the other is lesson resources. Both of the two are not complete.\u00a0</p>\n<p></p>\n<p>For example, I download the &#34;DP1- FIB, LIS, LCS&#34; subtitles, there are only 24 subtitle files, but there are 30 video files.\u00a0</p>\n<p></p>\n<p>For Udacity on line videos, some quiz lecture has no subtitle, e.g. &#34;Lesson 2:&#xff1a;DP1- FIB, LIS, LCS , 16. Quiz: LCS Example&#34;.</p>"
+    }
+  ], 
+  "nr": 105, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "logistics", 
+    "udacity"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 0, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "logistics", 
+    "student", 
+    "udacity"
+  ], 
+  "created": "2017-08-28T18:14:44Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145304041, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>Hi instructors,</p>\n<p></p>\n<p>I found the lecture subtitles are missing\u00a0for some lectures. If you have the all the subtitles, could you upload to udacity?</p>\n<p></p>\n<p>Thanks</p>", 
+      "anon": "no", 
+      "created": "2017-08-29T21:52:46Z", 
+      "uid": "i1v7fed8sw85di", 
+      "subject": "lecture video subtitles"
+    }, 
+    {
+      "content": "<p>Hi instructors,</p>\n<p></p>\n<p>I found the lecture subtitles are missing\u00a0for some lectures. If you have the all the subtitles, could you upload to udacity?</p>\n<p></p>\n<p>Thanks</p>", 
+      "anon": "stud", 
+      "created": "2017-08-28T18:14:44Z", 
+      "subject": "lecture video subtitles"
+    }
+  ]
+}

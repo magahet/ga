@@ -1,0 +1,58 @@
+{
+  "status": "active", 
+  "unique_views": 167, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-19T21:30:53Z", 
+      "data": "j8yzdqb76jpuh", 
+      "uid": "ijbr5ddtwyt6pa"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8yzdqb4wnmug", 
+  "bookmarked": 3, 
+  "no_answer": 1, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [], 
+  "nr": 766, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "graph_algorithms"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 2, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "graph_algorithms", 
+    "student", 
+    "unanswered"
+  ], 
+  "created": "2017-10-19T21:30:53Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145134697, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p><em>Suppose\u00a0you are given a weighted graph G = (V,E) with a distinguished vertex s and where all edge weights are positive and distinct. Is it possible for a tree of shortest paths from s and a minimum spanning tree in G to not share any edges? If so, give an example. If not, give a reason.\u00a0</em></p>\n<p><em></em></p>\n<p>It is not possible to have the shortest path from s not share a single edge with the minimum spanning tree, as both the MST and shortest path will look to minimize the costs of traversal. Let <em>s</em> be one component G1, and G2 be the MST for the rest of G. Since these two components are not connected, there will be some cut C between G1, and G2, which will connect the two components. As we expand out these components, we will have to run through a cut C&#96; where the minimum cut edge e&#96; will be shared between the shortest path and the MST, therefore making a shared edge.</p>\n<p></p>\n<p>Pretty much, even if the immediate edges between s are not shared in the SP and MST, there will eventually have to be some cut C where the minimum edge will be shared between the MST and the shortest path, because it will be impossible to get the true shortest path and MST without sharing one of the minimum cuts.\u00a0</p>\n<p></p>\n<p>Anyone else get a different answer?</p>", 
+      "anon": "no", 
+      "created": "2017-10-19T21:30:53Z", 
+      "uid": "ijbr5ddtwyt6pa", 
+      "subject": "DPV 5.8"
+    }
+  ]
+}

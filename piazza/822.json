@@ -1,0 +1,1280 @@
+{
+  "status": "active", 
+  "unique_views": 214, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-26T15:18:48Z", 
+      "data": "j98m66q6h875h0", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j98m66q3w0v5gz", 
+      "anon": "no", 
+      "when": "2017-10-26T15:28:17Z", 
+      "type": "followup", 
+      "uid": "ij9b2ekdTWF"
+    }, 
+    {
+      "to": "j98m66q3w0v5gz", 
+      "anon": "no", 
+      "when": "2017-10-26T15:29:45Z", 
+      "type": "followup", 
+      "uid": "hz46706oA2e"
+    }, 
+    {
+      "to": "j98m66q3w0v5gz", 
+      "anon": "no", 
+      "when": "2017-10-26T15:30:40Z", 
+      "type": "followup", 
+      "uid": "idgjs16yZ4K"
+    }, 
+    {
+      "to": "j98m66q3w0v5gz", 
+      "anon": "no", 
+      "when": "2017-10-26T15:31:39Z", 
+      "type": "followup", 
+      "uid": "ij7curo6tdo360"
+    }, 
+    {
+      "to": "j98m66q3w0v5gz", 
+      "anon": "no", 
+      "when": "2017-10-26T15:33:28Z", 
+      "type": "followup", 
+      "uid": "i9jej4o7cmx14m"
+    }, 
+    {
+      "to": "j98m66q3w0v5gz", 
+      "anon": "no", 
+      "when": "2017-10-26T15:34:23Z", 
+      "type": "followup", 
+      "uid": "hyvx0owj4ot1a0"
+    }, 
+    {
+      "to": "j98m66q3w0v5gz", 
+      "anon": "no", 
+      "when": "2017-10-26T15:42:19Z", 
+      "type": "followup", 
+      "uid": "idjrfx2fR1Z"
+    }, 
+    {
+      "to": "j98m66q3w0v5gz", 
+      "anon": "no", 
+      "when": "2017-10-26T15:42:37Z", 
+      "type": "feedback", 
+      "uid": "ij7curo6tdo360"
+    }, 
+    {
+      "to": "j98m66q3w0v5gz", 
+      "anon": "no", 
+      "when": "2017-10-26T15:50:15Z", 
+      "type": "feedback", 
+      "uid": "hvvxmpxfuyb2eo"
+    }, 
+    {
+      "to": "j98m66q3w0v5gz", 
+      "anon": "no", 
+      "when": "2017-10-26T15:52:53Z", 
+      "type": "followup", 
+      "uid": "hqa9hej5ny2gl"
+    }, 
+    {
+      "to": "j98m66q3w0v5gz", 
+      "anon": "no", 
+      "when": "2017-10-26T16:11:05Z", 
+      "type": "followup", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j98m66q3w0v5gz", 
+      "anon": "no", 
+      "when": "2017-10-26T16:11:36Z", 
+      "type": "followup", 
+      "uid": "i4m8xop4ndthr"
+    }, 
+    {
+      "to": "j98m66q3w0v5gz", 
+      "anon": "no", 
+      "when": "2017-10-26T16:25:39Z", 
+      "type": "followup", 
+      "uid": "hz07uekkjnrpb"
+    }, 
+    {
+      "to": "j98m66q3w0v5gz", 
+      "anon": "no", 
+      "when": "2017-10-26T16:25:49Z", 
+      "type": "followup", 
+      "uid": "hq73eu599lv"
+    }, 
+    {
+      "to": "j98m66q3w0v5gz", 
+      "anon": "no", 
+      "when": "2017-10-26T16:33:58Z", 
+      "type": "followup", 
+      "uid": "hq9zldzvy63w7"
+    }, 
+    {
+      "to": "j98m66q3w0v5gz", 
+      "anon": "no", 
+      "when": "2017-10-26T16:38:51Z", 
+      "type": "feedback", 
+      "uid": "hve4kb0lopy4sl"
+    }, 
+    {
+      "to": "j98m66q3w0v5gz", 
+      "anon": "no", 
+      "when": "2017-10-26T16:40:00Z", 
+      "type": "followup", 
+      "uid": "ijjd1u5dbTq"
+    }, 
+    {
+      "to": "j98m66q3w0v5gz", 
+      "anon": "no", 
+      "when": "2017-10-26T16:41:20Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j98m66q3w0v5gz", 
+      "anon": "no", 
+      "when": "2017-10-26T16:44:37Z", 
+      "type": "feedback", 
+      "uid": "hve4kb0lopy4sl"
+    }, 
+    {
+      "to": "j98m66q3w0v5gz", 
+      "anon": "no", 
+      "when": "2017-10-26T16:50:54Z", 
+      "type": "followup", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j98m66q3w0v5gz", 
+      "anon": "no", 
+      "when": "2017-10-26T17:05:24Z", 
+      "type": "followup", 
+      "uid": "i4j6x5bv5ua71n"
+    }, 
+    {
+      "to": "j98m66q3w0v5gz", 
+      "anon": "no", 
+      "when": "2017-10-26T17:12:03Z", 
+      "type": "followup", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j98m66q3w0v5gz", 
+      "anon": "no", 
+      "when": "2017-10-26T17:46:47Z", 
+      "type": "feedback", 
+      "uid": "hv8z1thijfq6ns"
+    }, 
+    {
+      "to": "j98m66q3w0v5gz", 
+      "anon": "no", 
+      "when": "2017-10-26T17:50:24Z", 
+      "type": "followup", 
+      "uid": "idis1wz4JLd"
+    }, 
+    {
+      "to": "j98m66q3w0v5gz", 
+      "anon": "no", 
+      "when": "2017-10-26T18:38:39Z", 
+      "type": "followup", 
+      "uid": "hkvhtvraa6x6cg"
+    }, 
+    {
+      "to": "j98m66q3w0v5gz", 
+      "anon": "no", 
+      "when": "2017-10-26T19:00:36Z", 
+      "type": "followup", 
+      "uid": "hvduxyr7r4s6q7"
+    }, 
+    {
+      "to": "j98m66q3w0v5gz", 
+      "anon": "no", 
+      "when": "2017-10-26T19:20:26Z", 
+      "type": "followup", 
+      "uid": "i4ogin8rDC4"
+    }, 
+    {
+      "to": "j98m66q3w0v5gz", 
+      "anon": "no", 
+      "when": "2017-10-26T19:20:29Z", 
+      "type": "followup", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j98m66q3w0v5gz", 
+      "anon": "no", 
+      "when": "2017-10-26T19:23:07Z", 
+      "type": "feedback", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j98m66q3w0v5gz", 
+      "anon": "no", 
+      "when": "2017-10-26T19:29:02Z", 
+      "type": "followup", 
+      "uid": "is6gi1lcscq4yp"
+    }, 
+    {
+      "to": "j98m66q3w0v5gz", 
+      "anon": "no", 
+      "when": "2017-10-26T19:33:16Z", 
+      "type": "feedback", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j98m66q3w0v5gz", 
+      "anon": "no", 
+      "when": "2017-10-26T19:46:27Z", 
+      "type": "feedback", 
+      "uid": "i4m8xop4ndthr"
+    }, 
+    {
+      "to": "j98m66q3w0v5gz", 
+      "anon": "no", 
+      "when": "2017-10-26T20:46:35Z", 
+      "type": "feedback", 
+      "uid": "hve4kb0lopy4sl"
+    }, 
+    {
+      "to": "j98m66q3w0v5gz", 
+      "anon": "no", 
+      "when": "2017-10-26T21:24:59Z", 
+      "type": "feedback", 
+      "uid": "ijjd1u5dbTq"
+    }, 
+    {
+      "to": "j98m66q3w0v5gz", 
+      "anon": "no", 
+      "when": "2017-10-26T22:29:30Z", 
+      "type": "feedback", 
+      "uid": "i4j6x5bv5ua71n"
+    }, 
+    {
+      "to": "j98m66q3w0v5gz", 
+      "anon": "no", 
+      "when": "2017-10-26T22:32:04Z", 
+      "type": "feedback", 
+      "uid": "i4j6x5bv5ua71n"
+    }, 
+    {
+      "to": "j98m66q3w0v5gz", 
+      "anon": "no", 
+      "when": "2017-10-27T00:32:47Z", 
+      "type": "followup", 
+      "uid": "i4g1simdqek6ey"
+    }, 
+    {
+      "to": "j98m66q3w0v5gz", 
+      "anon": "no", 
+      "when": "2017-10-27T00:46:43Z", 
+      "type": "followup", 
+      "uid": "ixwumvx5vv735e"
+    }, 
+    {
+      "to": "j98m66q3w0v5gz", 
+      "anon": "no", 
+      "when": "2017-10-27T01:11:38Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j98m66q3w0v5gz", 
+      "anon": "no", 
+      "when": "2017-10-27T05:49:26Z", 
+      "type": "feedback", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "to": "j98m66q3w0v5gz", 
+      "anon": "no", 
+      "when": "2017-10-27T05:52:29Z", 
+      "type": "feedback", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "to": "j98m66q3w0v5gz", 
+      "anon": "no", 
+      "when": "2017-10-27T07:07:14Z", 
+      "type": "followup", 
+      "uid": "ij7kfryk8783rj"
+    }, 
+    {
+      "to": "j98m66q3w0v5gz", 
+      "anon": "no", 
+      "when": "2017-10-27T09:52:33Z", 
+      "type": "feedback", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "to": "j98m66q3w0v5gz", 
+      "anon": "no", 
+      "when": "2017-10-27T11:54:39Z", 
+      "type": "feedback", 
+      "uid": "hyzne2areoa2ai"
+    }, 
+    {
+      "to": "j98m66q3w0v5gz", 
+      "anon": "no", 
+      "when": "2017-10-27T21:43:09Z", 
+      "type": "followup", 
+      "uid": "ijalzed08k3wp"
+    }
+  ], 
+  "id": "j98m66q3w0v5gz", 
+  "bookmarked": 30, 
+  "tags": [
+    "instructor-poll", 
+    "polls", 
+    "project"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-10-26T15:28:17Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "ij9b2ekdTWF", 
+      "created": "2017-10-26T15:28:17Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j98midwc7c05v4", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-26T15:42:37Z", 
+          "uid": "ij7curo6tdo360", 
+          "created": "2017-10-26T15:42:37Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j98n0t6pj244l3", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I think the placement of exam 2 was perfect. I can only speak for myself, but I am contemplating on the idea of withdrawing from the course pending my performance on exam 2.</p>\n<p></p>\n<p>In the future, if this same opportunity can be given to other students, I think it would be sense of comfort.</p>"
+        }
+      ], 
+      "subject": "<p>I&#39;m not sure how to vote...\u00a0 I thought the Bloom Filter project itself was excellent and I enjoyed it.\u00a0 It wasn&#39;t unreasonably difficult or time consuming and I learned from it.\u00a0 And I think the idea of giving some project grades as &#34;extra credit&#34; to relieve some pressure on the exams is good too.\u00a0 However, I do think that having the project at the beginning of the Exam 2 &#34;Unit&#34; sort of distracted me from focusing more on the material I was going to be tested on for Exam 2 (like HW4).\u00a0 Removing the project might have allowed me to focus more on Exam 2, but then if I messed up anyhow on Exam 2 it would hurt more...\u00a0 Maybe this could be ameliorated with some rescheduling, like pushing Exam 2 back a bit or something?\u00a0 I&#39;m not sure...\u00a0 In any case, I think the way it was done this semester worked out pretty well and if it was done the same way next semester it would probably be fine.\u00a0 And although I don&#39;t yet know how tight the schedule will be for the rest of the class, I think adding one more project would probably be OK too.\u00a0 Removing all the projects would be OK with me too, in terms of my learning and enjoyment of the material, but would make the exams a little more high pressure.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-26T15:29:45Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "hz46706oA2e", 
+      "created": "2017-10-26T15:29:45Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j98mk9dv1b0pt", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>I appreciate the project opportunities - I&#39;m sure they can be a nightmare in online courses.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-26T15:30:40Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "idgjs16yZ4K", 
+      "created": "2017-10-26T15:30:40Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j98mlgb5agx6gr", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "Two would have felt like a lot. It was nice to have one to hedge against poor performance on one or more exams but with a second project we would be working on that and studying for an exam simultaneously and that would feel like... a lot. \n\nThe theoretical material is heavy enough to require a decent time investment to understand."
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-26T15:31:39Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "ij7curo6tdo360", 
+      "created": "2017-10-26T15:31:39Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j98mmpyyvgw4le", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-27T11:54:39Z", 
+          "uid": "hyzne2areoa2ai", 
+          "created": "2017-10-27T11:54:39Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j99ubi9v29v5w5", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#43;1 I couldn&#39;t have said it better.</p>"
+        }
+      ], 
+      "subject": "<p>If the project is an opportunity for extra credit, I strongly advocate for more projects.</p>\n<p></p>\n<p>I personally, am one of those students who struggle with the\u00a0theoretical components of the class. I feel more comfortable completing projects as it allows me to apply the concepts and improve my understanding for a topic.\u00a0</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-26T15:33:28Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "i9jej4o7cmx14m", 
+      "created": "2017-10-26T15:33:28Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j98mp1qlvcqmj", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>I am mainly interested in additional project(s) because I&#39;m a poor test taker and would have been able to use the points</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-26T15:34:23Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "hyvx0owj4ot1a0", 
+      "created": "2017-10-26T15:34:23Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j98mq7zspu2194", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>One of the reasons I took GA (over CCA) was because it had a projects component.\u00a0 The theoretical stuff I find hard to grasp sometimes, but often the projects will go a long way in helping me understand the theoretical.\u00a0 I was really hoping for more than 1 project this semester (even if it was an extra credit project), but I also understand how hard they are to organize.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-26T15:42:19Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "idjrfx2fR1Z", 
+      "created": "2017-10-26T15:42:19Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j98n0fnckz94e9", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-26T15:50:15Z", 
+          "uid": "hvvxmpxfuyb2eo", 
+          "created": "2017-10-26T15:50:15Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j98namohgrw70c", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#43;1. Definitely both page-rank and bloom filter projects\u00a0&#43; little more weightage to projects will be more comforting.</p>"
+        }
+      ], 
+      "subject": "Is there any reason why we are skipping the page rank topic on both theoretical and project component of the course? It would be nice if there is some resources for people who are interested to still do the page rank project on our own."
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-26T15:52:53Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "hqa9hej5ny2gl", 
+      "created": "2017-10-26T15:52:53Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j98ne0fdqjs4nq", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>I enjoyed the project, but I am not sure I have capacity (time) to do well on both projects and study if the additional project is not\u00a0related to the exam material.\u00a0\u00a0</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-26T16:11:05Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "hvil6y6khgk2ri", 
+      "created": "2017-10-26T16:11:05Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j98o1fh95it1de", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-26T16:38:51Z", 
+          "uid": "hve4kb0lopy4sl", 
+          "created": "2017-10-26T16:38:51Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j98p153ak3s2cj", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>And to continue your point, although the start-up load for a project is certainly tremendous, once a good autograder is developed, then that investment can be reused for many future iterations.\u00a0 For example, all the (non-trivial) C projects we did in 6210, they were all autograded so the load on the graders was mostly with the exams and not the projects.\u00a0 Not to mention that the ability to use the autograder as a test suite is extremely valuable for development too.\u00a0 I really like projects and learn a lot from them, which isn&#39;t to say that I don&#39;t need more emphasis on theoretical parts too since that has traditionally been my weaker link.\u00a0 The perfect marriage is when the projects teach the theoretical concepts too (which I believe BF was highly successful in doing).\u00a0 I think this may be the first class I have where those project concepts were not also on an exam though.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-26T16:41:20Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-10-26T16:41:20Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j98p4by21l16ms", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>That is true about the projects; and the theory is the hardest for me as well (truth be told I have been dreading this upcoming exam as its probably the heaviest in theory).</p>"
+        }
+      ], 
+      "subject": "<p>So here&#39;s the thing. This class was tougher for us than it will be for future students because we were the first class through (and we knew this knowingly going into the class).<br /><br />For future students, though?\u00a0 Well, the schedule will be fully mature (or almost, maybe minor changes here and there).\u00a0 The videos will be up on Udacity (and linked from the wordpress site), so students will have ample time over the summer / Christmas break to watch a large portion of the lecture and chew on the material.\u00a0 Future students will know exactly what will be expected of them and they will have a chance to prepare (which is VERY helpful); I am SURE the current students will field a million &#34;HELP HOW DO I PREP FOR GA&#34; statements on Slack and G&#43; from here on out :) .<br /><br />For this iteration, 2 projects were not in the cards as the course path was unclear (1 was appropriate for us).\u00a0 Next semester though, I would say two projects would be preferable.\u00a0 As others pointed out, it can help out if you dont quite understand some of the material, and future students will be able to prep for the course.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-26T16:11:36Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "i4m8xop4ndthr", 
+      "created": "2017-10-26T16:11:36Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j98o22vssv5gj", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "I think, projects are always great, so the more - the better. \u00a0I would also advise to require students to code most of the homework problems , (that\u2019s what I do anyway in addition to all the pencil writing), cause that solidifies greatly the understanding of the theory aspects.\u00a0<div><br /></div><div><br /><div><br /></div><div><br /></div></div>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-26T16:25:39Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "hz07uekkjnrpb", 
+      "created": "2017-10-26T16:25:39Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j98ok5l3ban204", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>I find the bloom filter project was a great reinforcement to the lecture, so I&#39;m a fan of projects anytime they help to reinforce the material we are learning.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-26T16:25:49Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "hq73eu599lv", 
+      "created": "2017-10-26T16:25:49Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j98okd2j5ny7dg", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>The projects in ML were arguably my favorite part about that course.\u00a0 I got to use tools that I may have never touched otherwise, and the emphasis on report writing helps us all in the technical writing department.</p>\n<p></p>\n<p>I like Konstantin&#39;s idea above that required coding of the HW problems might be the way to add more programming to this class.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-26T16:33:58Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "hq9zldzvy63w7", 
+      "created": "2017-10-26T16:33:58Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j98ouutqvsz21s", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "I would rather have projects with write up over exams. \u00a0The write-ups on each project could provide the explanation and link to the theory and the practical implementation of that theory. \u00a04 projects and no exams, would be perfect. \u00a0 \u00a0"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-26T16:40:00Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "ijjd1u5dbTq", 
+      "created": "2017-10-26T16:40:00Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j98p2m1j6jy1vn", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-26T16:44:37Z", 
+          "uid": "hve4kb0lopy4sl", 
+          "created": "2017-10-26T16:44:37Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j98p8jzv66g2w8", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>oh no...not more exams...lol\u00a0 This class already has twice as many as I&#39;ve had in any other class..\u00a0 But I do agree with more weight on the homework and other ways to balance out the exam grades.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-27T05:52:29Z", 
+          "uid": "ijbr5ddtwyt6pa", 
+          "created": "2017-10-27T05:52:29Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j99hdr3avhu2ua", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Yeah, I am in the same boat. I am not good with theoretical math, but I am an awful test taker, especially in cases where each question is more or less a letter grade. Guess that is something I need to work on</p>"
+        }
+      ], 
+      "subject": "<p>In general I do poorly on exams. I prefer courses with more projects because I can take my time, absorb the material, ask questions and take care to make sure I&#39;m doing things correctly. The projects allow my poor exam performance to be somewhat offset.</p>\n<p></p>\n<p>I also believe that I personally learn more from the projects.</p>\n<p></p>\n<p>This thought has crossed my mind regarding this course before. I&#39;d either prefer more projects, a heavier weight assigned to the homeworks or even an additional\u00a0exam or two to distribute the potential grade\u00a0across more opportunities.\u00a0</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-26T16:50:54Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "hvil6y6khgk2ri", 
+      "created": "2017-10-26T16:50:54Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j98pgmkw70u41q", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>Its an unpopular opinion, but I think exam-based classes have their place too.\u00a0 Usually for classes that are heavy on testing theoretical concepts on exams, the class is heavily curved - to the point where a 65 is a B (as an example).\u00a0 For pretty much all project-based classes I have taken, there was either A) no curve or B) a 5% curve, at most.</p>\n<p></p>\n<p>Besides, knowing the theory is important. Even with a heavy curve, well, you were forced to at least attempt the theory. I cant say that about most of my project-based classes.</p>\n<p><br />I have far more anxiety about test-based classes, but that heavy curve usually rights things in the end. Usually my grade would come out to something similar if I am taking a project-based or exam-based class, and the only thing that is different in the long run is my anxiety (which I guess there is an argument there but that is a farrrr larger discussion)</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-26T17:05:24Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "i4j6x5bv5ua71n", 
+      "created": "2017-10-26T17:05:24Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j98pz9lc51p31s", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-26T22:29:30Z", 
+          "uid": "i4j6x5bv5ua71n", 
+          "created": "2017-10-26T22:29:30Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j991k2v8gq43bf", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "I&#39;ll add that one of the ways I prepared for exam 1 was to try to implement the RSA algorithm in python from memory. I had to try a few times to get it right, but after that it fully clicked :)"
+        }
+      ], 
+      "subject": "Generally I very much enjoy projects, and I think they&#39;re useful learning tools. However, since the material covered by this project wasn&#39;t on the exam, it felt like it was taking away time from exam prep. Of course don&#39;t get me wrong, the knowledge itself is rather useful!\n\nMy preference would be for more projects if relevant to the exam material, but less otherwise. I think I&#39;ve only just now calibrated on how to prepare for the exams... a bit late :)\n\nI&#39;d echo the sentiment above that more exams would be nice. At least the first exam I felt covered a very large breadth of material, I would have liked to focus on the individual topics a bit more! The second exam was more thematically consistent. Another idea is to possibly add in short/answer multiple choice (similar to the section on exam 1), so that the exam results are more granular. It would be nice to get some credit for having insights to a problem even if you end up with a poor algorithm. Though I think future classes will benefit from hearing the experiences of prior ones."
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-26T17:12:03Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "hvil6y6khgk2ri", 
+      "created": "2017-10-26T17:12:03Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j98q7to7t3rua", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-26T17:46:47Z", 
+          "uid": "hv8z1thijfq6ns", 
+          "created": "2017-10-26T17:46:47Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j98rghuf1f75np", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#43;1 to this. The final is extremely scary being so heavily weighted and covering everything. I just hope (if I stay in), that the description of the exam (as we get closer) is more in line to what we were given into exam 1 (eg. x questions on topic y) .. I doubt this will be the case but would definitely help to concentrate efforts. On exam 2 I felt I had much more knowledge of the content we covered but weren&#39;t\u00a0even tested on.</p>"
+        }
+      ], 
+      "subject": "<p>I will say the final scares me.\u00a0 Its 30%, and frankly when I prep for theoretical tests (such as these) I print out all my notes and read them 3-4 times, and then I do the practice problems &#43; homework until I basically had the steps down pat.\u00a0 For the final.....I dont think I can go through and retain ~180-200 pages of notes plus all of the hw problems / practice problems.\u00a0</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-26T17:50:24Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "idis1wz4JLd", 
+      "created": "2017-10-26T17:50:24Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j98rl5ap3q71rn", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>I have mixed feelings about the project. I think the project was both interesting and helped solidify the bloom filter concept, which I think would have been hard to adequately test on an exam.\u00a0<br /><br />I like the format of &#34;presenting options to your supervisor&#34;. It seems like the kind of thing you might actually have to produce in a work environment.<br /><br />That said, I found the project pretty time-consuming. I fell way behind in the lectures (I didn&#39;t even attempt HW4 or HW5 until after their due dates had passed) because I was working on the project (and then catching up on lectures).</p>\n<p></p>\n<p>With regards to the time commitment, I think I spent a few days just trying to wrap my head around what the actually coding tasks were. Once I understood what was being asked, the coding wasn&#39;t all that difficult.<br /><br /> I think it would&#39;ve been just as valuable for our understanding to provide\u00a0fully functioning code and instead have us focus solely on tasks 1 and 3.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-26T18:38:39Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "hkvhtvraa6x6cg", 
+      "created": "2017-10-26T18:38:39Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j98tb716a3q4l0", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "Projects take time away from homework and the exams.  Like other students, I didn&#39;t have time to perform homework 4 by the deadline. I did maybe half of homework 5 by the deadline. \n\nFor me, I only can perform well on these type of exams if I put in long periods of studying. I read all the relevant chapters in DPV, outline notes, and perform a lot of practices problems.\n\nThe difference in my understanding of the material of where I was on Monday of the test week and Sunday when I took the exam was quite large.\n\nFor me, I was lucky because my current job is slow right now. Even one additional day taken to work on a project can affect my performance on an exam. \n\nI have been in this program for a long time. You have to be very careful as a student on programming assignments and projects. We don&#39;t always know how long something will take, or how much effort the TA wants for each section. I often over work on projects, because I know in this program you have to be perfect to get full credit. I have noticed that even the most simple assignments can take a lot of time."
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-26T19:00:36Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "hvduxyr7r4s6q7", 
+      "created": "2017-10-26T19:00:36Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j98u3f6whjw158", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>I&#39;m clearly in the minority here, but I really have enjoyed the change of pace with more of an exam based course. I guess part of that is because my background is not CS so the project based approach in other classes was more foreign to me than what we have in this course. I agree with some who said that the project overlapping exam 2 distracted me from studying for exam 2. That&#39;s really on me though. I could have finished the project much faster than I did. I&#39;m glad there&#39;s not another project and that I can really dig in and focus on the material for the rest of the course. I&#39;ve very much enjoyed the format as-is.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-26T19:20:26Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "i4ogin8rDC4", 
+      "created": "2017-10-26T19:20:26Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j98usxpqgcw37r", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>I think the project was beneficial and well scoped. I would have\u00a0preferred\u00a0having one additional project that brought down the overall weight of exams and increased the overall weight of project work, perhaps even taking the place of one of the exams. That said the overall time I have required to attain the necessary level of comfort with the theoretical material is already quite high so I would probably not opt for an additional project without reducing scope elsewhere.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-26T19:20:29Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "i4ket0u1z5q31a", 
+      "created": "2017-10-26T19:20:29Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j98usztaj375fv", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-26T19:23:07Z", 
+          "uid": "i4ket0u1z5q31a", 
+          "created": "2017-10-26T19:23:07Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j98uwdylj1a7mi", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I generally need projects to lift my overall grade to compensate for making dumb mistakes on exams, although is the first class where I&#39;ve done so horribly on a midterm.</p>"
+        }
+      ], 
+      "subject": "<p>I love projects and hate exams.</p>\n<p>With over two decades of professional software development experience it is much easier for me to work hard on perfecting a project over time and get good grades than it is to panic during an exam and make stupid mistakes with no opportunity to fix them.</p>\n<p>Projects for the win!</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-26T19:29:02Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "is6gi1lcscq4yp", 
+      "created": "2017-10-26T19:29:02Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j98v3ztyeax4pc", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-26T19:33:16Z", 
+          "uid": "i4ket0u1z5q31a", 
+          "created": "2017-10-26T19:33:16Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j98v9fs3rdh5ul", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#43;100!</p>\n<p>I learn so much more from coding an algorithm than from talking about the theoretical.</p>\n<p>This is especially true for perfecting dynamic programming because without the ability to run a suite of tests I am prone to make silly edge case mistakes that just destroy me on exams but would never be such a problem with code in real life.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-26T19:46:27Z", 
+          "uid": "i4m8xop4ndthr", 
+          "created": "2017-10-26T19:46:27Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j98vqebjjzw556", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Nate, that&#39;s an excellent idea. Add to that some graph visualization library to see how it &#34;flows&#34;, see residual network, play around with that. Try different algorithms. That would be very helpful.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-26T20:46:35Z", 
+          "uid": "hve4kb0lopy4sl", 
+          "created": "2017-10-26T20:46:35Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j98xvpvvii42fh", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Great idea (I would also learn much better in this kind of environment) but the the opposite side of that is we would likely not be able to get through as many concepts and algorithms in a semester either.\u00a0 Although on second thought, the homeworks are pretty time consuming already so maybe really small programming assignments to go along with them wouldn&#39;t be the dominating factor in their run times.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-26T21:24:59Z", 
+          "uid": "ijjd1u5dbTq", 
+          "created": "2017-10-26T21:24:59Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j98z93tvj1b5bi", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I support this idea as well. The key thing I think is providing enough skeleton code to highlight the concept and minimize the work outside of the intended learning goal.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-26T22:32:04Z", 
+          "uid": "i4j6x5bv5ua71n", 
+          "created": "2017-10-26T22:32:04Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j991ndl0hol5zy", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "I agree, fully automated is the way to go for homeworks. I implemented some of these algorithms in code as prep work (RSA, Djikstra etc) for the exams. It&#39;s easy to look at the high level pseudo code and get a sense of it, but hard to retain the details without actually implementing something."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-27T05:49:26Z", 
+          "uid": "ijbr5ddtwyt6pa", 
+          "created": "2017-10-27T05:49:26Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j99h9tnzp1ayu", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Pretty much all my &#34;practice&#34; outside the homework in some way involved me writing something up in a quick python script. I just cannot get something if I don&#39;t see it implemented. Just me though</p>"
+        }
+      ], 
+      "subject": "<p>I never feel like I fully understand an algorithm until I have implemented it myself.</p>\n<p></p>\n<p>I think adding some implementation projects would be very useful. I&#39;m thinking maybe 1 project per lesson, smaller in scope than the bloom filter project,\u00a0 less point value (more on scale with a homework than a big project),\u00a0 and completely autograded. Each project could be something like implement Edmonds-Karp, or program a DP solution, or FFT or something like that. The student gets a skeleton python file, like in the bloom filter project, with different test cases, so they can check their answer. Some of the test cases could be withheld, and only tested by autograder. The projects would be worth the same order of magnitude of points as homeworks, so missing a few wouldn&#39;t be a big deal.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-27T00:32:47Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "i4g1simdqek6ey", 
+      "created": "2017-10-27T00:32:47Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j995yltjx1e6r4", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>I&#39;ll probably the odd man out because I believe\u00a0there should be zero projects. My opinion is based on the objective of this course, the recognition that Computer Science is at least partly a theoretical field, and the OMSCS program as a whole. Out of the eight courses I have completed so far, I feel like this is my only theoretical course. Even though I am struggling, the\u00a0focus on theory instead of the implementation of and reports that I have\u00a0completed\u00a0the other coursework is a welcomed change of pace. Personally, I feel like\u00a0more projects would detract from theory. The other courses already focus on the application of many these algorithms.</p>\n<p></p>\n<p>So for me, I guess it really boils down to another question. Are we supposed to understand how to implement a\u00a0variety of algorithms or how to\u00a0design and analyze an algorithm? For me,\u00a0implementing an algorithm does not help\u00a0me design and analyze other algorithms; it only helps me verify the performance and output of an algorithm, something that I have done in other courses.</p>\n<p></p>\n<p>Concerning the use of\u00a0projects to raise the grades, I\u00a0believe\u00a0more projects\u00a0will not significantly impact the course letter grades. With consideration to the final curve and\u00a0the apperance most students, including me, seem to be struggle with the theoretical portions of this course, I believe\u00a0increasing the number projects would only increase the workload.\u00a0I&#39;d imagine most\u00a0OMSCS students\u00a0would\u00a0be able complete the projects. They tend to have real-world experience. Therefore most students will raise their grade, negating the purpose of having more projects to increase their grade value, with consideration to a curve.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-27T00:46:43Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "ixwumvx5vv735e", 
+      "created": "2017-10-27T00:46:43Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j996givewyk1y3", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-27T01:11:38Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-10-27T01:11:38Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j997ckmg5yb4g", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "OK, I appreciate all of the comments, but it&#39;s getting a bit out of hand.  I&#39;m not going to decrease any of the theoretical components of the class.  I&#39;m not going to drop any exams or homeworks.  That is the nature of the course, as Ethan points out.    The projects are just additional.  --Eric"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-27T09:52:33Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-10-27T09:52:33Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j99pyhkb74p19j", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Take the comments with a pinch of salt, Professor, it&#39;s a &#34;feature&#34; of OMSCS that the large student group gets noisy &amp; demanding at times"
+        }
+      ], 
+      "subject": "This is tough because I agree that nothing drives a point home better than actual implementation and I enjoyed the project we did. \u00a0However, we\u2019re already at saturating flow with the current course demands (see what I did there). \u00a0I\u2019d vote for sacking the comprehensive final and replacing it with a final project."
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-27T07:07:14Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "ij7kfryk8783rj", 
+      "created": "2017-10-27T07:07:14Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j99k1vrl2x3pk", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>This course is pretty loaded already with homework and tests. It takes more time to read and understand the material. Adding one more project would increase this project load even more and make it very difficult.</p>\n<p></p>\n<p>But homework, project and test score weights can be reconsidered as this is a required course for all but one specialization.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-27T21:43:09Z", 
+      "no_upvotes": 0, 
+      "uid": "ijalzed08k3wp", 
+      "created": "2017-10-27T21:43:09Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j9afcb3zru81nn", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p></p>"
+    }
+  ], 
+  "nr": 822, 
+  "bucket_order": 2, 
+  "type": "poll", 
+  "folders": [
+    "project", 
+    "polls"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 3, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "answer": "", 
+    "admin": "", 
+    "has_voted": [
+      0
+    ], 
+    "result": {
+      "1": 35, 
+      "0": 139, 
+      "2": 6
+    }, 
+    "total_votes": 180
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-10-26T15:18:48Z", 
+  "is_tag_good": false, 
+  "config": {
+    "show_results": "av", 
+    "anonymous": "yes", 
+    "multiple_selections": 0, 
+    "unpublished": 0, 
+    "toggle_visibility_on": 1, 
+    "revote": 0, 
+    "allow_followups": "yes", 
+    "bypass_email": 1, 
+    "always_open": 0, 
+    "close_after": "168", 
+    "publish_later": 0
+  }, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145126407, 
+  "tag_good": [
+    {
+      "name": "Kyle P Davis", 
+      "admin": false, 
+      "photo": "1484080691_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "idiy4usuxxs"
+    }
+  ], 
+  "tag_good_arr": [
+    "idiy4usuxxs"
+  ], 
+  "history": [
+    {
+      "content": "I view the project as a sort of extra credit opportunity (even though it&#39;s required).  I don&#39;t want to reduce any of the theoretical components of the class and I realize they require additional time to do, but I figure for many students who struggle with the theoretical aspects they give you a chance to boost your grade a bit.  In the past, for the on-campus class I did 2 programming projects: Bloom filters and PageRank.  We only did 1 this semester (we are not doing PageRank) because it&#39;s a hassle to organize these things.\n\nIn retrospect, would you have preferred more, less, or the same number of projects?\n<br/> [o] More projects\n[o] Same number (=1)\n[o] No projects", 
+      "anon": "no", 
+      "created": "2017-10-26T15:18:48Z", 
+      "uid": "gy4twfv45cg5o6", 
+      "subject": "Projects in general..."
+    }
+  ]
+}

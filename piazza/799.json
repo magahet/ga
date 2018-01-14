@@ -1,0 +1,91 @@
+{
+  "status": "active", 
+  "unique_views": 141, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-24T04:34:58Z", 
+      "data": "j954aiew7bh4uz", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "uid": "gy4twfv45cg5o6", 
+      "type": "i_answer", 
+      "when": "2017-10-24T12:17:25Z", 
+      "to": "j954aierh394uy", 
+      "anon": "no", 
+      "data": "j95kt898cez7ca"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j954aierh394uy", 
+  "bookmarked": 5, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-24T12:17:25Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j95kt88y2767c9", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "Knapsack and halting problem won&#39;t be on exam 3, but maybe on the final exam.", 
+          "anon": "no", 
+          "created": "2017-10-24T12:17:25Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 799, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "exam"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 4, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "exam", 
+    "student"
+  ], 
+  "created": "2017-10-24T04:34:58Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145131447, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>I noticed that there is a section for NP-Completeness and\u00a0NP-Completeness I, the second of which is after the second exam. I am guessing, that we do not need to cover those topics (NP-Completeness I) before exam 3, correct? Just want to make sure something wasn&#39;t mixed up with the schedule</p>", 
+      "anon": "no", 
+      "created": "2017-10-24T04:34:58Z", 
+      "uid": "ijbr5ddtwyt6pa", 
+      "subject": "NP-Completeness"
+    }
+  ]
+}

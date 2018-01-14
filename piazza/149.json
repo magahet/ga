@@ -1,0 +1,107 @@
+{
+  "status": "active", 
+  "unique_views": 203, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-02T13:09:58Z", 
+      "data": "j73bsi7bwnz2o0", 
+      "uid": "isgwdf47kb42f"
+    }, 
+    {
+      "to": "j73bsi79fuy2nz", 
+      "anon": "no", 
+      "when": "2017-09-03T10:47:08Z", 
+      "type": "followup", 
+      "uid": "hz4ug66rg6o26j"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-03T20:39:06Z", 
+      "data": "j7579y0vc66jz", 
+      "uid": "hju4w9odatf30"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j73bsi79fuy2nz", 
+  "bookmarked": 2, 
+  "tags": [
+    "course", 
+    "hw1", 
+    "hw2", 
+    "instructor-note", 
+    "logistics"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-09-03T10:47:08Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "hz4ug66rg6o26j", 
+      "created": "2017-09-03T10:47:08Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j74m4nyeqo565l", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>Thank\u00a0you for this, Michael. \u00a0Can you please add this to the spreadsheet?\u00a0</p>"
+    }
+  ], 
+  "nr": 149, 
+  "bucket_order": 2, 
+  "type": "note", 
+  "folders": [
+    "hw1", 
+    "hw2", 
+    "course", 
+    "logistics"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-09-02T13:09:58Z", 
+  "is_tag_good": false, 
+  "config": {
+    "is_announcement": 1, 
+    "bypass_email": 1
+  }, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145290916, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>Hi all,</p>\n<p></p>\n<p>I will be holding office hours today during my regular time slot (2PM ET) in order to better address some questions that were asked yesterday that I didn&#39;t have time to fully answer. You are also welcome to submit additional questions via sli.do with the code #CS8803-Sat.</p>\n<p></p>\n<p>The office hours will be viewable at:\u00a0<a href=\"https://youtu.be/rONSUiWpNa0\">https://youtu.be/rONSUiWpNa0</a></p>\n<p></p>\n<p>-Michael</p>\n<p></p>", 
+      "anon": "no", 
+      "created": "2017-09-03T20:39:06Z", 
+      "uid": "hju4w9odatf30", 
+      "subject": "Additional office hours today"
+    }, 
+    {
+      "content": "<p>Hi all,</p>\n<p></p>\n<p>I will be holding office hours today during my regular time slot (2PM ET) in order to better address some questions that were asked yesterday that I didn&#39;t have time to fully answer. You are also welcome to submit additional questions via sli.do with the code #CS8803-Sat.</p>\n<p></p>\n<p>The office hours will be viewable at:\u00a0<a href=\"https://youtu.be/rONSUiWpNa0\">https://youtu.be/rONSUiWpNa0</a></p>\n<p></p>\n<p>-Michael</p>\n<p>#pin</p>", 
+      "anon": "no", 
+      "created": "2017-09-02T13:09:58Z", 
+      "uid": "isgwdf47kb42f", 
+      "subject": "Additional office hours today"
+    }
+  ]
+}

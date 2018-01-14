@@ -1,0 +1,247 @@
+{
+  "status": "active", 
+  "unique_views": 322, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-08-21T04:55:35Z", 
+      "data": "j6louibfbc1tk", 
+      "uid": "iddoy33j6hv2tz"
+    }, 
+    {
+      "to": "j6louibc73qtj", 
+      "anon": "no", 
+      "when": "2017-08-21T05:20:26Z", 
+      "type": "followup", 
+      "uid": "hz3xzg3uwdmpt"
+    }, 
+    {
+      "to": "j6louibc73qtj", 
+      "anon": "no", 
+      "when": "2017-08-21T05:30:24Z", 
+      "type": "feedback", 
+      "uid": "iddoy33j6hv2tz"
+    }, 
+    {
+      "uid": "gy4twfv45cg5o6", 
+      "type": "i_answer", 
+      "when": "2017-08-21T13:22:03Z", 
+      "to": "j6louibc73qtj", 
+      "anon": "no", 
+      "data": "j6m6xtzbtvn9r"
+    }, 
+    {
+      "to": "j6louibc73qtj", 
+      "anon": "no", 
+      "when": "2017-08-26T20:38:23Z", 
+      "type": "followup", 
+      "uid": "hve4kb0lopy4sl"
+    }, 
+    {
+      "to": "j6louibc73qtj", 
+      "anon": "no", 
+      "when": "2017-08-28T12:39:41Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j6louibc73qtj", 
+  "bookmarked": 5, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-08-21T05:20:26Z", 
+      "no_upvotes": 0, 
+      "uid": "hz3xzg3uwdmpt", 
+      "created": "2017-08-21T05:20:26Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6lpqgt45l41ho", 
+      "anon": "no", 
+      "bucket_name": "Week 8/20 - 8/26", 
+      "config": {}, 
+      "bucket_order": 7, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-08-21T05:30:24Z", 
+          "uid": "iddoy33j6hv2tz", 
+          "created": "2017-08-21T05:30:24Z", 
+          "type": "feedback", 
+          "id": "j6lq39wkni0276", 
+          "anon": "no", 
+          "bucket_name": "Week 8/20 - 8/26", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Me too. Want to give the final exam as early as possible so would appreciate if professor can share the exact window for the final exam.</p>"
+        }
+      ], 
+      "subject": "<p>If we are flexible with dates then extending the exam forward to the weekend of the 3rd would be pretty rad too. I am planning to fly to the US for graduation so I&#39;d prefer to do the exam as early as possible.</p>"
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-08-21T13:22:03Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "hqa65fnalg83fr", 
+        "iddoy33j6hv2tz", 
+        "ij7cuo4hbht346"
+      ], 
+      "id": "j6m6xtz9bdj9q", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Amin Mansuri", 
+          "admin": false, 
+          "photo": "1400911910_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hqa65fnalg83fr"
+        }, 
+        {
+          "name": "Parag Kalra", 
+          "admin": false, 
+          "photo": null, 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "iddoy33j6hv2tz"
+        }, 
+        {
+          "name": "Patrick Ward", 
+          "admin": false, 
+          "photo": "1452510909_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "ij7cuo4hbht346"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p></p>\n<p>I fixed it, it&#39;s Friday Dec. 8. \u00a0I will give you a couple of days window from Friday-Sunday.</p>\n<p></p>\n<p>The final exam is required to be during the final exam period which begins Thursday afternoon 12/7.</p>\n<p></p>\n<p>--Eric</p>", 
+          "anon": "no", 
+          "created": "2017-08-21T13:22:03Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-26T20:38:23Z", 
+      "no_upvotes": 0, 
+      "uid": "hve4kb0lopy4sl", 
+      "created": "2017-08-26T20:38:23Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6trq7fq24m5ol", 
+      "anon": "no", 
+      "bucket_name": "Week 8/20 - 8/26", 
+      "config": {}, 
+      "bucket_order": 7, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-08-28T12:39:41Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-08-28T12:39:41Z", 
+          "type": "feedback", 
+          "id": "j6w5iaveczb1nj", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p></p>\n<p>I can&#39;t comment on other classes, but I was told the same rules apply to online classes:</p>\n<p>\u00a0\u00a0<a href=\"http://www.registrar.gatech.edu/students/examguide.php\">http://www.registrar.gatech.edu/students/examguide.php</a></p>\n<p></p>\n<p>So I am following them for this semester. \u00a0--Eric</p>"
+        }
+      ], 
+      "subject": "<p>I wonder if the registrar final exam window applies to online classes.\u00a0 I feel pretty certain that finals in some of my previous online classes have been earlier in December than the posted window.\u00a0 This was particularly true in large classes where the exam must be hand graded.</p>"
+    }
+  ], 
+  "nr": 14, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "exam"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "exam", 
+    "student"
+  ], 
+  "created": "2017-08-21T04:55:35Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145336127, 
+  "tag_good": [
+    {
+      "name": "Chris Curran", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hz3xzg3uwdmpt"
+    }, 
+    {
+      "name": "abarysevich", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4t8eakz3ex6lk"
+    }
+  ], 
+  "tag_good_arr": [
+    "hz3xzg3uwdmpt", 
+    "i4t8eakz3ex6lk"
+  ], 
+  "history": [
+    {
+      "content": "<p>From the schedule <a href=\"https://8803ga.wordpress.com/lecture-schedule/\" target=\"_blank\">page</a>, I see that the final exam is scheduled on Friday, Dec 5 which looks like a typo as Dec 5, 2017 is actually Tuesday.</p>\n<p></p>\n<p>Could professor or TA please confirm the correct date for the final exam?</p>\n<p></p>\n<p>Also would there be a window to take the final exam and if yes\u00a0then is it possible to know the exact slot please?\u00a0Asking this as I might be out of US in month of December and don&#39;t want to collide my trip with the final exam.</p>", 
+      "anon": "no", 
+      "created": "2017-08-21T04:55:35Z", 
+      "uid": "iddoy33j6hv2tz", 
+      "subject": "Final exam date and window"
+    }
+  ]
+}

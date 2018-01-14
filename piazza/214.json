@@ -1,0 +1,128 @@
+{
+  "status": "active", 
+  "unique_views": 121, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-07T16:14:39Z", 
+      "data": "j7anl9epk8l5cb", 
+      "uid": "hju4w9odatf30"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-07T16:15:05Z", 
+      "data": "j7anltuvket5y2", 
+      "uid": "hju4w9odatf30"
+    }, 
+    {
+      "to": "j7anl9enupl5ca", 
+      "anon": "no", 
+      "when": "2017-09-07T23:42:02Z", 
+      "type": "followup", 
+      "uid": "hju4w9odatf30"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-07T23:54:46Z", 
+      "data": "j7b40zcfwfmp4", 
+      "uid": "hju4w9odatf30"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-08T02:03:52Z", 
+      "data": "j7b8mzy36y068a", 
+      "uid": "hju4w9odatf30"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j7anl9enupl5ca", 
+  "bookmarked": 2, 
+  "tags": [
+    "course", 
+    "instructor-note", 
+    "logistics"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-09-07T23:42:02Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "hju4w9odatf30", 
+      "created": "2017-09-07T23:42:02Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7b3klt5yib65g", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "Sorry, for the delay on this.<div>I will hold the office hours from 9pm to 10pm est tonight</div>"
+    }
+  ], 
+  "nr": 214, 
+  "bucket_order": 2, 
+  "type": "note", 
+  "folders": [
+    "logistics", 
+    "course"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 0, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-09-07T16:14:39Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145273361, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>Hi everyone,</p>\n<p></p>\n<p>I will be holding the office hours today from 7:00 - 8:00pm EST.</p>\n<p>Slido event code: CS8803-Thu</p>\n<p>Youtube:\u00a0<a href=\"https://www.youtube.com/watch?v=ZsfWTvP3VEw\">https://www.youtube.com/watch?v=ZsfWTvP3VEw</a></p>\n<p></p>\n<p>Thanks,</p>\n<p>Murali</p>\n<p></p>\n<p><strong>Edit: I had to rush to a meeting and hence could not hold office hours at the specified time. I will be holding office hours from 9pm - 10pm EST today.\u00a0</strong></p>\n<p></p>\n<p></p>", 
+      "anon": "no", 
+      "created": "2017-09-08T02:03:52Z", 
+      "uid": "hju4w9odatf30", 
+      "subject": "Office Hours Today 7:00-8:00pm EST"
+    }, 
+    {
+      "content": "<p>Hi everyone,</p>\n<p></p>\n<p>I will be holding the office hours today from 7:00 - 8:00pm EST.</p>\n<p>Slido event code: CS8803-Thu</p>\n<p>Youtube:\u00a0<a href=\"https://www.youtube.com/watch?v=ZsfWTvP3VEw\">https://www.youtube.com/watch?v=ZsfWTvP3VEw</a></p>\n<p></p>\n<p>Thanks,</p>\n<p>Murali</p>\n<p></p>\n<p><strong>Edit: I had to rush to a meeting and hence could not hold office hours at the specified time. I will be holding office hours from 9pm - 10pm EST today.\u00a0</strong></p>\n<p></p>\n<p>#pin</p>", 
+      "anon": "no", 
+      "created": "2017-09-07T23:54:46Z", 
+      "uid": "hju4w9odatf30", 
+      "subject": "Office Hours Today 7:00-8:00pm EST"
+    }, 
+    {
+      "content": "<p>Hi everyone,</p>\n<p></p>\n<p>I will be holding the office hours today from 7:00 - 8:00pm EST.</p>\n<p>Slido event code: CS8803-Thu</p>\n<p>Youtube:\u00a0<a href=\"https://www.youtube.com/watch?v=ZsfWTvP3VEw\">https://www.youtube.com/watch?v=ZsfWTvP3VEw</a></p>\n<p></p>\n<p>Thanks,</p>\n<p>Murali</p>\n<p></p>\n#pin", 
+      "anon": "no", 
+      "created": "2017-09-07T16:15:05Z", 
+      "uid": "hju4w9odatf30", 
+      "subject": "Office Hours Today 7:00-8:00pm EST"
+    }, 
+    {
+      "content": "<p>Hi everyone,</p>\n<p></p>\n<p>I will be holding the office hours today from 7:00 - 8:00pm EST.</p>\n<p>Slido event code: CS8803-Thu</p>\n<p>Youtube:\u00a0<a href=\"https://www.youtube.com/watch?v=ZsfWTvP3VEw\">https://www.youtube.com/watch?v=ZsfWTvP3VEw</a></p>\n<p></p>\n<p>Thanks,</p>\n<p>Murali</p>\n<p></p>", 
+      "anon": "no", 
+      "created": "2017-09-07T16:14:39Z", 
+      "uid": "hju4w9odatf30", 
+      "subject": "Office Hours Today 7:00-8:00pm EST"
+    }
+  ]
+}

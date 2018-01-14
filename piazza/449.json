@@ -1,0 +1,379 @@
+{
+  "status": "active", 
+  "unique_views": 191, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-26T18:01:32Z", 
+      "data": "j81wrwsxkqk57y", 
+      "uid": "i4m8xop4ndthr"
+    }, 
+    {
+      "to": "j81wrwsulsc57x", 
+      "anon": "no", 
+      "when": "2017-09-26T20:08:53Z", 
+      "type": "followup", 
+      "uid": "i4j6x5bv5ua71n"
+    }, 
+    {
+      "uid": "gns9oa0pgsO", 
+      "type": "i_answer", 
+      "when": "2017-09-26T21:56:28Z", 
+      "to": "j81wrwsulsc57x", 
+      "anon": "no", 
+      "data": "j825614pv7f74u"
+    }, 
+    {
+      "to": "j81wrwsulsc57x", 
+      "anon": "no", 
+      "when": "2017-09-26T23:14:04Z", 
+      "type": "feedback", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j81wrwsulsc57x", 
+      "anon": "no", 
+      "when": "2017-09-26T23:30:06Z", 
+      "type": "feedback", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j81wrwsulsc57x", 
+      "anon": "no", 
+      "when": "2017-09-26T23:51:56Z", 
+      "type": "feedback", 
+      "uid": "i4j6x5bv5ua71n"
+    }, 
+    {
+      "to": "j81wrwsulsc57x", 
+      "anon": "no", 
+      "when": "2017-09-27T00:37:06Z", 
+      "type": "feedback", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j81wrwsulsc57x", 
+      "anon": "no", 
+      "when": "2017-09-27T01:03:09Z", 
+      "type": "followup", 
+      "uid": "i4g1simdqek6ey"
+    }, 
+    {
+      "to": "j81wrwsulsc57x", 
+      "anon": "no", 
+      "when": "2017-09-27T02:00:31Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j81wrwsulsc57x", 
+      "anon": "no", 
+      "when": "2017-09-27T06:53:53Z", 
+      "type": "followup", 
+      "uid": "i4m8xop4ndthr"
+    }, 
+    {
+      "to": "j81wrwsulsc57x", 
+      "anon": "no", 
+      "when": "2017-09-30T15:49:11Z", 
+      "type": "followup", 
+      "uid": "ija2ufzr6l0f7"
+    }, 
+    {
+      "to": "j81wrwsulsc57x", 
+      "anon": "no", 
+      "when": "2017-10-01T11:06:26Z", 
+      "type": "feedback", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j81wrwsulsc57x", 
+      "anon": "no", 
+      "when": "2017-10-02T10:00:22Z", 
+      "type": "feedback", 
+      "uid": "ija2uf6e3vger"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j81wrwsulsc57x", 
+  "bookmarked": 9, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-09-26T20:08:53Z", 
+      "no_upvotes": 0, 
+      "uid": "i4j6x5bv5ua71n", 
+      "created": "2017-09-26T20:08:53Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j821bovmofg6ye", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-26T23:14:04Z", 
+          "uid": "i4ket0u1z5q31a", 
+          "created": "2017-09-26T23:14:04Z", 
+          "type": "feedback", 
+          "id": "j827xtl03552uc", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Explicit loops in Python are painfully slow, you need to use list comprehensions, zipping, library functions (e.g. NumPy), etc. instead.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-26T23:30:06Z", 
+          "uid": "gns9oa0pgsO", 
+          "created": "2017-09-26T23:30:06Z", 
+          "type": "feedback", 
+          "id": "j828ifyexf313", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>i&#39;m not using anything but core python constructs\u00a0for the performance i was getting above.\u00a0 granted, it&#39;s much much slower than my java implementation of the same\u00a0code, but it&#39;s still sufficiently fast for the purposes of this assignment.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-26T23:51:56Z", 
+          "uid": "i4j6x5bv5ua71n", 
+          "created": "2017-09-26T23:51:56Z", 
+          "type": "feedback", 
+          "id": "j829aj4y5bd9o", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Well, I was just speculating based on my experience operating on data around this size :) \n\n20 seconds seems within the realm of reason for native python code!"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-27T00:37:06Z", 
+          "uid": "gns9oa0pgsO", 
+          "created": "2017-09-27T00:37:06Z", 
+          "type": "feedback", 
+          "id": "j82awly78x82rs", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>:) i just wanted to make sure folks knew, there&#39;s no need to use anything fancy-pants (except for numpy&#39;s random - had to use that one for the type 1 hash, the base random was excruciatingly slow).</p>"
+        }
+      ], 
+      "subject": "I haven&#39;t looked at the project yet, but running a few hash functions on 100000 elements should be fairly fast in theory. Probably at most a few seconds.\n\nIf it&#39;s taking a really long time you probably have nested loops somewhere, or one of the utility functions you reference does a loop internally leading to O(n^2) operations"
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-26T21:56:28Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "i4m8xop4ndthr"
+      ], 
+      "id": "j825614mmc574t", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Konstantin Rybakov", 
+          "admin": false, 
+          "photo": "1471889957_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i4m8xop4ndthr"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>for the task 2 requirements : adding and verifying for hash type 2 takes about 5 seconds on my python implementation, which is what was used to build the skeleton code you folks have.\u00a0 the type 1 hashes take a little longer since you have to actually get random values every time - on my implementation it takes about 20 seconds\u00a0to perform the same\u00a0thing.</p>", 
+          "anon": "no", 
+          "created": "2017-09-26T21:56:28Z", 
+          "uid": "gns9oa0pgsO", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-27T01:03:09Z", 
+      "no_upvotes": 0, 
+      "uid": "i4g1simdqek6ey", 
+      "created": "2017-09-27T01:03:09Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j82bu3v1mg84v5", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-27T02:00:31Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-09-27T02:00:31Z", 
+          "type": "feedback", 
+          "id": "j82dvvz0oub23r", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Check &#64;450 for more details, but we don&#39;t really need to compute P at all because the given N is already a prime number, and since P &gt;= N, we can just N instead of P.</p>\n<p></p>\n<p>However, if we are using a universe with a different size than the one given in the config files, we might need to compute P if N is not a prime number.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-02T10:00:22Z", 
+          "uid": "ija2uf6e3vger", 
+          "created": "2017-10-02T10:00:22Z", 
+          "type": "feedback", 
+          "id": "j8a0884ibwe6qs", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#64;Ethan, tip was greatly appreciated!</p>"
+        }
+      ], 
+      "subject": "<p>As a tip, make sure your not calculating p for hash type 2 every time you call getHashList. That&#39;ll slow you down significantly.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-27T06:53:53Z", 
+      "no_upvotes": 0, 
+      "uid": "i4m8xop4ndthr", 
+      "created": "2017-09-27T06:53:53Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j82od5mu7zg25", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>John, thanks! I&#39;ve been mistakenly trying to use random numbers in the hash 2. Once I&#39;ve figured it out -\u00a0the task 2 finished correctly in less than 4 seconds.\u00a0</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-30T15:49:11Z", 
+      "no_upvotes": 0, 
+      "uid": "ija2ufzr6l0f7", 
+      "created": "2017-09-30T15:49:11Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j87ht40rzxm5u3", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-01T11:06:26Z", 
+          "uid": "gns9oa0pgsO", 
+          "created": "2017-10-01T11:06:26Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j88n5co5mkj246", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>for task 2 you don&#39;t need to get next prime at all - the values you are given are prime already.</p>"
+        }
+      ], 
+      "subject": "<p>My program used to run forever, then I found that I just need to move the get next prime into the init part.....</p>"
+    }
+  ], 
+  "nr": 449, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "project"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 2, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "project", 
+    "student"
+  ], 
+  "created": "2017-09-26T18:01:32Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145215249, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>I am wondering, in average, how long it should take to add 100000 elements to a bloom filter using default parameteres for task 2?</p>", 
+      "anon": "no", 
+      "created": "2017-09-26T18:01:32Z", 
+      "uid": "i4m8xop4ndthr", 
+      "subject": "Adding m elements running time"
+    }
+  ]
+}

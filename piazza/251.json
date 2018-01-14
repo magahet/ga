@@ -1,0 +1,190 @@
+{
+  "status": "active", 
+  "unique_views": 331, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-10T21:15:58Z", 
+      "data": "j7f8oba5hee3yh", 
+      "uid": "hkjzzued3ef4xh"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-10T21:16:03Z", 
+      "data": "j7f8off34yu43a", 
+      "uid": "hkjzzued3ef4xh"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-11T02:28:36Z", 
+      "data": "j7fjud1rbyy5p4", 
+      "uid": "hkjzzued3ef4xh"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-11T02:28:49Z", 
+      "data": "j7fjunnjuqr5vu", 
+      "uid": "hkjzzued3ef4xh"
+    }, 
+    {
+      "to": "j7f8oba2erp3yg", 
+      "anon": "no", 
+      "when": "2017-09-11T07:22:09Z", 
+      "type": "followup", 
+      "uid": "iddrzsd4r7kfm"
+    }, 
+    {
+      "to": "j7f8oba2erp3yg", 
+      "anon": "no", 
+      "when": "2017-09-11T12:57:38Z", 
+      "type": "feedback", 
+      "uid": "i4iys7m3lpq2ij"
+    }, 
+    {
+      "to": "j7f8oba2erp3yg", 
+      "anon": "no", 
+      "when": "2017-09-11T13:13:25Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-11T06:44:13Z", 
+      "data": "j8mo6nhc2ax750", 
+      "uid": "hju4w9odatf30"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j7f8oba2erp3yg", 
+  "bookmarked": 6, 
+  "tags": [
+    "course", 
+    "exam", 
+    "instructor-note"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-09-11T07:22:09Z", 
+      "no_upvotes": 0, 
+      "uid": "iddrzsd4r7kfm", 
+      "created": "2017-09-11T07:22:09Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7fubvdtz6y4yx", 
+      "anon": "no", 
+      "bucket_name": "Week 9/10 - 9/16", 
+      "config": {}, 
+      "bucket_order": 9, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-11T12:57:38Z", 
+          "uid": "i4iys7m3lpq2ij", 
+          "created": "2017-09-11T12:57:38Z", 
+          "type": "feedback", 
+          "id": "j7g6bbmu1it546", 
+          "anon": "no", 
+          "bucket_name": "Week 9/10 - 9/16", 
+          "config": {}, 
+          "bucket_order": 9, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Did you see &#64;248? The posted solution was incorrect - the base case should include $$T(i,0)=0$$ $$\\forall i$$ instead of just $$T(0,0)=0$$ and (arguably), $$T(0,b)=\\infty$$ $$\\forall b &gt; 0$$ instead of &#34;initialize whole table to infinity&#34; (although the latter clearly accomplishes the same thing, it&#39;s just not needed).</p>\n<p></p>\n<p>If you were docked points for having those base cases, you can rest easy that this was a mistake.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-11T13:13:25Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-09-11T13:13:25Z", 
+          "type": "feedback", 
+          "id": "j7g6vlxj1jul8", 
+          "anon": "no", 
+          "bucket_name": "Week 9/10 - 9/16", 
+          "config": {}, 
+          "bucket_order": 9, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p></p>\n<p>You can put a Gradescope regrade request and the appropriate TA will respond. \u00a0--Eric</p>"
+        }
+      ], 
+      "subject": "<p>I dont really care about a regrade in terms of the score, I am already at 1.25/1 points so asking a TA to regrade seems frivolous, but I am interested in why my base-case is considered incorrect. Comparing to the t-square solution, it looks fine to me. In this and in similar situations is my best course of action to request a regrade or to make a post on piazza or something else?</p>"
+    }
+  ], 
+  "nr": 251, 
+  "bucket_order": 2, 
+  "type": "note", 
+  "folders": [
+    "exam", 
+    "course"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-09-10T21:15:58Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145263291, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>We list all rubric items for each problems so that you can see what mistakes other students are making. You grade comes from the highlighted ones, so don&#39;t panic when you see all rubric items.</p>\n<p></p>\n<p>If you are looking for a regrade, we strongly recommend you read the solution provided on T-sq and compare with your answers and the comments first. Most of regrade requests can be avoided if these two things are done.</p>\n<p></p>\n<p>If you do feel that you have something need to be regraded, you can use the regrade function provided by Gradescope, and we will receive a message for regrading. Please let us know if you have further questions. Thanks!</p>\n<p></p>\n<p></p>\n<p>-----------------------------------------------------</p>\n<p><strong>update:</strong></p>\n<p><strong>Only the applied rubric is\u00a0shown now. Apologize for the confusion.</strong></p>\n<p></p>\n<p></p>", 
+      "anon": "no", 
+      "created": "2017-10-11T06:44:13Z", 
+      "uid": "hju4w9odatf30", 
+      "subject": "Some clarification of your grades on Gradescope"
+    }, 
+    {
+      "content": "<p>We list all rubric items for each problems so that you can see what mistakes other students are making. You grade comes from the highlighted ones, so don&#39;t panic when you see all rubric items.</p>\n<p></p>\n<p>If you are looking for a regrade, we strongly recommend you read the solution provided on T-sq and compare with your answers and the comments first. Most of regrade requests can be avoided if these two things are done.</p>\n<p></p>\n<p>If you do feel that you have something need to be regraded, you can use the regrade function provided by Gradescope, and we will receive a message for regrading. Please let us know if you have further questions. Thanks!</p>\n<p></p>\n<p></p>\n<p>-----------------------------------------------------</p>\n<p><strong>update:</strong></p>\n<p><strong>Only the applied rubric is\u00a0shown now. Apologize for the confusion.</strong></p>\n<p></p>\n<p>#pin</p>", 
+      "anon": "no", 
+      "created": "2017-09-11T02:28:49Z", 
+      "uid": "hkjzzued3ef4xh", 
+      "subject": "Some clarification of your grades on Gradescope"
+    }, 
+    {
+      "content": "<p>We list all rubric items for each problems so that you can see what mistakes other students are making. You grade comes from the highlighted ones, so don&#39;t panic when you see all rubric items.</p>\n<p></p>\n<p>If you are looking for a regrade, we strongly recommend you read the solution provided on T-sq and compare with your answers and the comments first. Most of regrade requests can be avoided if these two things are done.</p>\n<p></p>\n<p>If you do feel that you have something need to be regraded, you can use the regrade function provided by Gradescope, and we will receive a message for regrading. Please let us know if you have further questions. Thanks!</p>\n<p></p>\n<p></p>\n<p>-----------------------------------------------------</p>\n<p>update:</p>\n<p>Only the applied rubric is\u00a0shown now. Apologize for the confusion.</p>\n<p></p>\n<p>#pin</p>", 
+      "anon": "no", 
+      "created": "2017-09-11T02:28:36Z", 
+      "uid": "hkjzzued3ef4xh", 
+      "subject": "Some clarification of your grades on Gradescope"
+    }, 
+    {
+      "content": "<p>We list all rubric items for each problems so that you can see what mistakes other students are making. You grade comes from the highlighted ones, so don&#39;t panic when you see all rubric items.</p>\n<p></p>\n<p>If you are looking for a regrade, we strongly recommend you read the solution provided on T-sq and compare with your answers and the comments first. Most of regrade requests can be avoided if these two things are done.</p>\n<p></p>\n<p>If you do feel that you have something need to be regraded, you can use the regrade function provided by Gradescope, and we will receive a message for regrading. Please let us know if you have further questions. Thanks!</p>\n#pin", 
+      "anon": "no", 
+      "created": "2017-09-10T21:16:03Z", 
+      "uid": "hkjzzued3ef4xh", 
+      "subject": "Some clarification of your grades on Gradescope"
+    }, 
+    {
+      "content": "<p>We list all rubric items for each problems so that you can see what mistakes other students are making. You grade comes from the highlighted ones, so don&#39;t panic when you see all rubric items.</p>\n<p></p>\n<p>If you are looking for a regrade, we strongly recommend you read the solution provided on T-sq and compare with your answers and the comments first. Most of regrade requests can be avoided if these two things are done.</p>\n<p></p>\n<p>If you do feel that you have something need to be regraded, you can use the regrade function provided by Gradescope, and we will receive a message for regrading. Please let us know if you have further questions. Thanks!</p>", 
+      "anon": "no", 
+      "created": "2017-09-10T21:15:58Z", 
+      "uid": "hkjzzued3ef4xh", 
+      "subject": "Some clarification of your grades on Gradescope"
+    }
+  ]
+}

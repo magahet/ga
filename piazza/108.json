@@ -1,0 +1,448 @@
+{
+  "status": "active", 
+  "unique_views": 150, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-08-29T05:21:18Z", 
+      "data": "j6x5adtgtj666w", 
+      "uid": "idffdmbb26m6lw"
+    }, 
+    {
+      "uid": "gy4twfv45cg5o6", 
+      "type": "i_answer", 
+      "when": "2017-08-29T12:27:58Z", 
+      "to": "j6x5adtexs566v", 
+      "anon": "no", 
+      "data": "j6xkj3i599v16g"
+    }, 
+    {
+      "to": "j6x5adtexs566v", 
+      "anon": "no", 
+      "when": "2017-09-05T07:46:14Z", 
+      "type": "followup", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "to": "j6x5adtexs566v", 
+      "anon": "no", 
+      "when": "2017-09-05T08:53:33Z", 
+      "type": "followup", 
+      "uid": "hqa65fnalg83fr"
+    }, 
+    {
+      "to": "j6x5adtexs566v", 
+      "anon": "no", 
+      "when": "2017-09-05T08:53:34Z", 
+      "type": "dupe", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "to": "j6x5adtexs566v", 
+      "anon": "no", 
+      "when": "2017-09-05T12:15:50Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j6x5adtexs566v", 
+      "anon": "no", 
+      "when": "2017-09-05T12:57:17Z", 
+      "type": "feedback", 
+      "uid": "hqa65fnalg83fr"
+    }, 
+    {
+      "to": "j6x5adtexs566v", 
+      "anon": "no", 
+      "when": "2017-09-07T06:15:58Z", 
+      "type": "followup", 
+      "uid": "i4j6x9zosul74s"
+    }, 
+    {
+      "to": "j6x5adtexs566v", 
+      "anon": "no", 
+      "when": "2017-09-07T06:15:58Z", 
+      "type": "dupe", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "to": "j6x5adtexs566v", 
+      "anon": "no", 
+      "when": "2017-09-07T06:15:58Z", 
+      "type": "feedback", 
+      "uid": "hkvdb9dig3v511"
+    }, 
+    {
+      "to": "j6x5adtexs566v", 
+      "anon": "no", 
+      "when": "2017-09-07T06:15:58Z", 
+      "type": "feedback", 
+      "uid": "i4j6x9zosul74s"
+    }, 
+    {
+      "to": "j6x5adtexs566v", 
+      "anon": "no", 
+      "when": "2017-09-07T06:16:31Z", 
+      "type": "followup", 
+      "uid": "hkvdb9dig3v511"
+    }, 
+    {
+      "to": "j6x5adtexs566v", 
+      "anon": "no", 
+      "when": "2017-09-07T06:16:31Z", 
+      "type": "dupe", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "to": "j6x5adtexs566v", 
+      "anon": "no", 
+      "when": "2017-09-07T06:16:31Z", 
+      "type": "feedback", 
+      "uid": "i4iys7m3lpq2ij"
+    }, 
+    {
+      "to": "j6x5adtexs566v", 
+      "anon": "no", 
+      "when": "2017-09-07T06:16:31Z", 
+      "type": "feedback", 
+      "uid": "hkvdb9dig3v511"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j6x5adtexs566v", 
+  "bookmarked": 4, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-08-29T12:27:58Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "i8597qyse9c1v2"
+      ], 
+      "id": "j6xkj3i27hs16f", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Pedro Henrique Rocha Moy", 
+          "admin": false, 
+          "photo": "1452626521_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i8597qyse9c1v2"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p></p>\n<p>Great questions! Thanks for asking.</p>\n<p></p>\n<p>1. \u00a0It&#39;s true for all m that \u00a0 $$m^{de} \\equiv m mod N$$. \u00a0In the lecture I prove it only for the case when gcd(m,N)=1 because that just uses Euler&#39;s theorem. \u00a0For the case when gcd(m,N)&gt;1 then you need to use the Chinese Remainder Theorem, which I didn&#39;t talk about it so I skipped it. \u00a0The book gives a very succint explanation for that case. \u00a0I did a quick Google search and these notes seem to explain it a bit more in depth if you&#39;re curious:</p>\n<p>\u00a0\u00a0<a href=\"https://math.dartmouth.edu/archive/m19w03/public_html/Section2-3\">https://math.dartmouth.edu/archive/m19w03/public_html/Section2-3</a></p>\n<p></p>\n<p>2. \u00a0Yes, m&lt;N. \u00a0So you have to your long string that you want to encrypt, view it as a number and then break it into n bit long segments (or a little less than n to ensure that m&lt;N, though you may need to pad to also make sure it&#39;s not too small).</p>\n<p></p>\n<p>--Eric</p>", 
+          "anon": "no", 
+          "created": "2017-08-29T12:27:58Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-05T07:46:14Z", 
+      "no_upvotes": 0, 
+      "uid": "i4hdvab632i522", 
+      "created": "2017-09-05T07:46:14Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j77ajqljicxpn", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "It&#39;s possibly worth adding the practical aspect \u2013 although not necessary for the mathematical understanding \u2013 that the &#39;message&#39; in an asymmetric public key system is usually itself in fact a shared symmetric private key, that symmetrically encrypts the subsequent actual content of the communication.\n\nAs a result, it generally suitably matches the modulus for length [$$m &lt; N,~m^{\\mathrm{some~reasonable}~e} &gt; N$$], as well as containing sufficiently random bits to avoid the &#39;corner cases&#39;, prevents reverse engineering resulting from reuse of a message, etcetera"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-05T08:53:33Z", 
+      "no_upvotes": 0, 
+      "uid": "hqa65fnalg83fr", 
+      "created": "2017-09-05T08:53:33Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j77cybhgl7w787", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-05T08:53:33Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-09-05T08:53:33Z", 
+          "type": "dupe", 
+          "id": "j77cybhqcif788", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": ""
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-05T12:15:50Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-09-05T12:15:50Z", 
+          "type": "feedback", 
+          "id": "j77k6gflsxt3a8", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>message m doesn&#39;t have to be relatively prime to N. \u00a0It&#39;s still true that $$m^{de} \\equiv m mod N$$ for all m. \u00a0However, if you find an m that&#39;s not rel. prime to N, then you can factor N so you can crack the system...</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-05T12:57:17Z", 
+          "uid": "hqa65fnalg83fr", 
+          "created": "2017-09-05T12:57:17Z", 
+          "type": "feedback", 
+          "id": "j77lnqy0sxzlj", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>So you&#39;re saying that its improbable that m would be not be relatively prime to N?</p>\n<p></p>\n<p>Maybe to be on the safe side, the algorithm should verify that gcd(m,N) = 1</p>\n<p></p>\n<p>(that&#39;s easy enough actually)</p>"
+        }
+      ], 
+      "subject": "RSA : message relatively prime to N\n<p>Accoding to the 8th RSA lecture it says that the message Z to be encrypted needs to be relatively prime to N.</p>\n<p></p>\n<p>How can we guarantee that a message Z is relatively prime if N is made of 2 prime numbers p and q that could in theory give you a situation where gcd(Z,N) = p or q.\u00a0</p>\n<p></p>\n<p>How is that avoided?</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-07T06:15:58Z", 
+      "no_upvotes": 0, 
+      "uid": "i4j6x9zosul74s", 
+      "created": "2017-09-07T06:15:58Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7a27cnu3de1tg", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-07T06:15:58Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-09-07T06:15:58Z", 
+          "type": "dupe", 
+          "id": "j7a27cp7zh71ti", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": ""
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-07T06:15:58Z", 
+          "uid": "hkvdb9dig3v511", 
+          "created": "2017-09-07T06:15:58Z", 
+          "type": "feedback", 
+          "id": "j7a27cpvgyr1tk", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>see &#64;118</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-07T06:15:58Z", 
+          "uid": "i4j6x9zosul74s", 
+          "created": "2017-09-07T06:15:58Z", 
+          "type": "feedback", 
+          "id": "j7a27cq6rfj1tl", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thanks. I didn&#39;t noticed that N&gt;m.</p>"
+        }
+      ], 
+      "subject": "RA2: 11 decryption\n<p>From the video, I learn that the encrypted message is: y = m^e mod N, and y is decrypted by using</p>\n<p>y^d = (m^e mod N)^d = m^(e*d) mod N = ... = m mod N. So the final decrypted\u00a0message is (m mod N) which is not the original message m. This confuses me a lot. Can anyone explain me this? Thanks!\u00a0</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-07T06:16:31Z", 
+      "no_upvotes": 0, 
+      "uid": "hkvdb9dig3v511", 
+      "created": "2017-09-07T06:16:31Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7a2828opui22i", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-07T06:16:31Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-09-07T06:16:31Z", 
+          "type": "dupe", 
+          "id": "j7a282azvg622j", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": ""
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-07T06:16:31Z", 
+          "uid": "i4iys7m3lpq2ij", 
+          "created": "2017-09-07T06:16:31Z", 
+          "type": "feedback", 
+          "id": "j7a282cjlk422k", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Note that $$m &lt; N$$ (&#64;108).</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-07T06:16:31Z", 
+          "uid": "hkvdb9dig3v511", 
+          "created": "2017-09-07T06:16:31Z", 
+          "type": "feedback", 
+          "id": "j7a282d2xi722l", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>That makes sense. \u00a0when m &lt; N, then its trivial: \u00a0 m mod N = m</p>\n<p></p>\n<p>I somehow missed this in the lectures</p>"
+        }
+      ], 
+      "subject": "RSA Decryption: y^d mod N = m ???\n<p>According to lecture:</p>\n<p></p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/hkvdb9dig3v511/j6zb90us2bbu/1.png\" alt=\"\" /></p>\n<p></p>\n<p>The math behind this is as follows:</p>\n<p></p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/hkvdb9dig3v511/j6zb9wooxupi/2.png\" alt=\"\" /></p>\n<p></p>\n<p></p>\n<p></p>\n<p><strong>The question I have is it is not clear to me how we go from \u00a0m mod N to m ?? \u00a0\u00a0</strong></p>\n<p></p>\n<p>I understand that raising y to the power d results in an expression that is congruent to m mod N, but then how do we go from that to recovering the original message, m? \u00a0It is not clear to me how we go from m mod N to m.</p>\n<p></p>\n<p>I know I might be missing something really basic here. \u00a0Any help is appreciated. \u00a0</p>"
+    }
+  ], 
+  "nr": 108, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "dynamic_programming"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 5, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "dynamic_programming", 
+    "student"
+  ], 
+  "created": "2017-08-29T05:21:18Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145302640, 
+  "tag_good": [
+    {
+      "name": "Dennis Sidharta", 
+      "admin": false, 
+      "photo": "1463366773_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "idg5nm2lC96"
+    }, 
+    {
+      "name": "Pedro Henrique Rocha Moy", 
+      "admin": false, 
+      "photo": "1452626521_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i8597qyse9c1v2"
+    }
+  ], 
+  "tag_good_arr": [
+    "idg5nm2lC96", 
+    "i8597qyse9c1v2"
+  ], 
+  "history": [
+    {
+      "content": "<p>I have two questions for RSA. Per Euler&#39;s theorem:\u00a0</p>\n<p></p>\n<p>1. if gcd (z, N) = 1 then Z<sup>(p-1)(q-1)</sup> = 1 mod N \u00a0</p>\n<p></p>\n<p><sup></sup></p>\n<p>\u00a0 \u00a0 \u00a0 In the dyncrypt \u00a0the m, we use m<sup>(de)</sup>\u00a0= \u00a0m (\u00a0m<sup>(p-1)(q-1)</sup>\u00a0)k = m mode N. Dose it \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 require \u00a0 \u00a0 \u00a0 \u00a0gcd(m, N) = 1?\u00a0</p>\n<p></p>\n<p>2. should m &lt; N? otherwise how should we figure our m from m mod N?\u00a0</p>\n<p></p>\n<p>Thanks,</p>\n<p></p>", 
+      "anon": "no", 
+      "created": "2017-08-29T05:21:18Z", 
+      "uid": "idffdmbb26m6lw", 
+      "subject": "Two questions for RSA, Should gcd(m, N) = 1 and m &lt; N?"
+    }
+  ]
+}

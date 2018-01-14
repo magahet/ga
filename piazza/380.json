@@ -1,0 +1,73 @@
+{
+  "status": "active", 
+  "unique_views": 299, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-22T00:50:13Z", 
+      "data": "j7v6686kplu2ky", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-27T16:16:24Z", 
+      "data": "j838gk2asy51u3", 
+      "uid": "gns9oa0pgsO"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j7v6686ivfj2kx", 
+  "bookmarked": 3, 
+  "tags": [
+    "exam", 
+    "instructor-note"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [], 
+  "nr": 380, 
+  "bucket_order": 2, 
+  "type": "note", 
+  "folders": [
+    "exam"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 0, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-09-22T00:50:13Z", 
+  "is_tag_good": false, 
+  "config": {
+    "is_announcement": 1, 
+    "bypass_email": 1
+  }, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145222557, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "No public posts -- on any topic -- on Piazza from 11:59 pm EST tonight Thursday to noon EST Monday.  No new posts.  No replies/comments.  You can still view Piazza just no new posts during the exam period.  If there&#39;s an emergency with the exam (e.g., we made some sort of error in the setup) then make a private post to the instructors.  If you have issues with Proctortrack you&#39;ll need to contact them.  Thanks and good luck.  --Eric\n", 
+      "anon": "no", 
+      "created": "2017-09-27T16:16:24Z", 
+      "uid": "gns9oa0pgsO", 
+      "subject": "No more public posts from 11:59pm EST tonight to noon Monday"
+    }, 
+    {
+      "content": "No public posts -- on any topic -- on Piazza from 11:59 pm EST tonight Thursday to noon EST Monday.  No new posts.  No replies/comments.  You can still view Piazza just no new posts during the exam period.  If there&#39;s an emergency with the exam (e.g., we made some sort of error in the setup) then make a private post to the instructors.  If you have issues with Proctortrack you&#39;ll need to contact them.  Thanks and good luck.  --Eric\n\n#pin", 
+      "anon": "no", 
+      "created": "2017-09-22T00:50:13Z", 
+      "uid": "gy4twfv45cg5o6", 
+      "subject": "No more public posts from 11:59pm EST tonight to noon Monday"
+    }
+  ]
+}

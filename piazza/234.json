@@ -1,0 +1,614 @@
+{
+  "status": "active", 
+  "unique_views": 182, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-09T19:30:49Z", 
+      "data": "j7dph97j1o243r", 
+      "uid": "hz4ug66rg6o26j"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-09T19:36:11Z", 
+      "data": "j7dpo5d3ysz1c1", 
+      "uid": "hz4ug66rg6o26j"
+    }, 
+    {
+      "uid": "hz03lfq2z6r446", 
+      "type": "s_answer", 
+      "when": "2017-09-09T19:44:30Z", 
+      "to": "j7dph97hc4443p", 
+      "anon": "no", 
+      "data": "j7dpyudzu062ta"
+    }, 
+    {
+      "to": "j7dph97hc4443p", 
+      "anon": "no", 
+      "when": "2017-09-09T19:50:38Z", 
+      "type": "followup", 
+      "uid": "i4m49pmqc4h14p"
+    }, 
+    {
+      "to": "j7dph97hc4443p", 
+      "anon": "no", 
+      "when": "2017-09-09T19:58:23Z", 
+      "type": "followup", 
+      "uid": "hz4ug66rg6o26j"
+    }, 
+    {
+      "to": "j7dph97hc4443p", 
+      "anon": "no", 
+      "when": "2017-09-09T20:03:52Z", 
+      "type": "feedback", 
+      "uid": "ijarmqggjkc3gz"
+    }, 
+    {
+      "to": "j7dph97hc4443p", 
+      "anon": "no", 
+      "when": "2017-09-09T20:15:03Z", 
+      "type": "feedback", 
+      "uid": "i4m49pmqc4h14p"
+    }, 
+    {
+      "to": "j7dph97hc4443p", 
+      "anon": "no", 
+      "when": "2017-09-09T20:16:28Z", 
+      "type": "feedback", 
+      "uid": "i4m49pmqc4h14p"
+    }, 
+    {
+      "to": "j7dph97hc4443p", 
+      "anon": "no", 
+      "when": "2017-09-09T20:23:53Z", 
+      "type": "feedback", 
+      "uid": "i4j6wvmu7he6v1"
+    }, 
+    {
+      "to": "j7dph97hc4443p", 
+      "anon": "no", 
+      "when": "2017-09-09T20:28:35Z", 
+      "type": "feedback", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "to": "j7dph97hc4443p", 
+      "anon": "no", 
+      "when": "2017-09-09T20:29:11Z", 
+      "type": "followup", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "to": "j7dph97hc4443p", 
+      "anon": "no", 
+      "when": "2017-09-09T20:30:43Z", 
+      "type": "feedback", 
+      "uid": "hz4ug66rg6o26j"
+    }, 
+    {
+      "to": "j7dph97hc4443p", 
+      "anon": "no", 
+      "when": "2017-09-09T22:36:06Z", 
+      "type": "feedback", 
+      "uid": "isgwdf47kb42f"
+    }, 
+    {
+      "to": "j7dph97hc4443p", 
+      "anon": "no", 
+      "when": "2017-09-09T23:52:41Z", 
+      "type": "feedback", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "to": "j7dph97hc4443p", 
+      "anon": "no", 
+      "when": "2017-09-10T01:01:03Z", 
+      "type": "feedback", 
+      "uid": "hz4ug66rg6o26j"
+    }, 
+    {
+      "to": "j7dph97hc4443p", 
+      "anon": "no", 
+      "when": "2017-09-10T01:19:41Z", 
+      "type": "feedback", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "to": "j7dph97hc4443p", 
+      "anon": "no", 
+      "when": "2017-09-10T01:38:50Z", 
+      "type": "feedback", 
+      "uid": "hz4ug66rg6o26j"
+    }, 
+    {
+      "to": "j7dph97hc4443p", 
+      "anon": "no", 
+      "when": "2017-09-10T04:24:33Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j7dph97hc4443p", 
+      "anon": "no", 
+      "when": "2017-09-10T04:26:09Z", 
+      "type": "feedback", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "to": "j7dph97hc4443p", 
+      "anon": "no", 
+      "when": "2017-09-10T05:01:20Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j7dph97hc4443p", 
+      "anon": "no", 
+      "when": "2017-09-10T09:50:55Z", 
+      "type": "feedback", 
+      "uid": "hz4ug66rg6o26j"
+    }, 
+    {
+      "to": "j7dph97hc4443p", 
+      "anon": "no", 
+      "when": "2017-09-10T11:56:46Z", 
+      "type": "feedback", 
+      "uid": "i4m49pmqc4h14p"
+    }, 
+    {
+      "to": "j7dph97hc4443p", 
+      "anon": "no", 
+      "when": "2017-09-10T16:19:46Z", 
+      "type": "followup", 
+      "uid": "gy4twfv45cg5o6"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j7dph97hc4443p", 
+  "bookmarked": 10, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-09T19:44:30Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j7dpyudvy432t9", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>If you have picked your\u00a0&#34;e&#34;; you can solve for &#34;d&#34;using\u00a0extended Euclidean algorithm.\u00a0</p>\n<p></p>", 
+          "anon": "no", 
+          "created": "2017-09-09T19:44:30Z", 
+          "uid": "hz03lfq2z6r446", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-09T19:50:38Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "i4m49pmqc4h14p", 
+      "created": "2017-09-09T19:50:38Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7dq6qbrtal6ly", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-09T20:03:52Z", 
+          "uid": "ijarmqggjkc3gz", 
+          "created": "2017-09-09T20:03:52Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j7dqnqxa34h21p", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "I thinks it&#39;s a good idea to practice running through the X-Euclid algorithm by hand so you&#39;re ready to possibly do it on the exam."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-09T20:16:28Z", 
+          "uid": "i4m49pmqc4h14p", 
+          "created": "2017-09-09T20:16:28Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j7dr3xzxx6r7ng", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Good point. I got my multiplicative inverse, but\u00a0it\u00a0is a negative number. I assume that&#39;s OK?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-09T20:28:35Z", 
+          "uid": "ijbr5ddtwyt6pa", 
+          "created": "2017-09-09T20:28:35Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j7drjjlcqb3497", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>For those cases, I put the negative and the positive number (since you can determine the positive by subtracting the negative from N</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-10T11:56:46Z", 
+          "uid": "i4m49pmqc4h14p", 
+          "created": "2017-09-10T11:56:46Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j7eop6i16bk2e0", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>ahh yes!</p>\n<p>-d and N-d are both multiplicative inverses! But I think N-d is valid, since the unique multiplicative inverse is defined as</p>\n<p>1&lt;= MulInverse &lt;N</p>"
+        }
+      ], 
+      "subject": "<p>Do we need to show the steps of the Extended-Euclid algorithm in our submission?</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-09T19:58:23Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "hz4ug66rg6o26j", 
+      "created": "2017-09-09T19:58:23Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7dqgpamfwk4cf", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-09T20:15:03Z", 
+          "uid": "i4m49pmqc4h14p", 
+          "created": "2017-09-09T20:15:03Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j7dr24tbc7n6rr", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>d = alpha*x &#43; beta*y</p>\n<p></p>\n<p>if d = 1, alpha\u00a0= multiplicative inverse of x mod y</p>\n<p>Got it from here:\u00a0https://cs6505.wordpress.com/rsa-1/</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-09T20:23:53Z", 
+          "uid": "i4j6wvmu7he6v1", 
+          "created": "2017-09-09T20:23:53Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j7drdheohh34oo", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>The method presented in the video is slightly different from the way that it is presented in the lecture, but the process described helped me quite a bit.</p>\n<p><a href=\"https://www.youtube.com/watch?v=fz1vxq5ts5I\">https://www.youtube.com/watch?v=fz1vxq5ts5I</a></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-09T20:30:43Z", 
+          "uid": "hz4ug66rg6o26j", 
+          "created": "2017-09-09T20:30:43Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j7drm9u2hmf5rr", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Is there a programmatic way to calculate that inverse?  All I see in videos like these are a long hand way that has me thinking there must be a better way... especially when trying to program these in a language..."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-09T22:36:06Z", 
+          "uid": "isgwdf47kb42f", 
+          "created": "2017-09-09T22:36:06Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j7dw3is99ta2eh", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I&#39;d recommend reading the line in the lecture notes linked above immediately before the section titled\u00a0<strong>Fermat&#39;s Little Theorem and Euler&#39;s Theorem</strong>.\u00a0ExtEuclid <i>is</i> the programmatic way to calculate the inverse.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-09T23:52:41Z", 
+          "uid": "ijbr5ddtwyt6pa", 
+          "created": "2017-09-09T23:52:41Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j7dyu0ju5la3ge", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Well, in theory there is. Python for example has a method called gcd. I think the point of this exercise\u00a0is we have to do that algorithm (i.e. what the gcd method uses)</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-10T01:01:03Z", 
+          "uid": "hz4ug66rg6o26j", 
+          "created": "2017-09-10T01:01:03Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j7e19xshru21mt", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thank you guys for the help! \u00a0So is this an accurate rule (it seems to be but only from limited trials): \u00a0after solving ExtEuclid...\u00a0when beta is positive, decryption d=beta...when beta is negative, decryption\u00a0d= (p-1)(q-1) &#43;\u00a0beta\u00a0 ?\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-10T01:19:41Z", 
+          "uid": "ijbr5ddtwyt6pa", 
+          "created": "2017-09-10T01:19:41Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j7e1xvvx12s15s", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Well, it should be either or, right? Both are the answer to the equation so I don&#39;t see why it would matter, since they both equal the same thing. I just list both as possibilities, though I will let a professor or TA correct me if I am wrong</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-10T01:38:50Z", 
+          "uid": "hz4ug66rg6o26j", 
+          "created": "2017-09-10T01:38:50Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j7e2miivtts72v", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Correct, it is either, or depending on if beta is negative or positive. \u00a0 My problem is that people keep saying to use ExtEuclid to find the decryption key d...but ExtEuclid returns 3 things: (gcd=1,alpha,beta)\u00a0it does not return the decryption key d...so I am assuming there is a missing piece that directly uses alpha or beta to get the decryption key d (not the d that is reference above which is really gcd)</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-10T04:24:33Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-09-10T04:24:33Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j7e8jmddbq2s7", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Nick, your statement &#34;when beta is positive, decryption d=beta...when beta is negative, decryption d= (p-1)(q-1) &#43; beta&#34; is correct. Technically, I think one could use the negative beta as the decryption key, but if I remember what I read, it&#39;s easier to do the math when you convert it to a positive number. In addition, the Professor has stated that when we are asked for a multiplicative inverse, our answer should be within the range 1 to N. (In this case, by &#34;N&#34;, I mean (p-1)(q-1).)"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-10T04:26:09Z", 
+          "uid": "ijbr5ddtwyt6pa", 
+          "created": "2017-09-10T04:26:09Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j7e8low261j4lv", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Nick, look at my video below. That really helped me (I was struggling with the same issue). And Nolan, thanks for the clarification!</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-10T05:01:20Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-09-10T05:01:20Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j7e9uxpidc1216", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "You&#39;re welcome."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-10T09:50:55Z", 
+          "uid": "hz4ug66rg6o26j", 
+          "created": "2017-09-10T09:50:55Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j7ek7cb34di2x4", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thanks everyone for your help...appreciate the good dialog while trying to figure this out! \u00a0I think I have it figured out...just not a fan of the long-hand approach in all the videos.\u00a0</p>"
+        }
+      ], 
+      "subject": "<p>Yes, but I have complete the\u00a0extended Euclidean algorithm and that outputs gcd=1, alpha, beta. \u00a0My question is how to use these values to solve for d. \u00a0I image there is a formula with alpha and\u00a0beta I am not seeing. \u00a0Basically, it is the solution at the bottom of lesson 5.19 but I don&#39;t quite understand the solution.\u00a0</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-09T20:29:11Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "ijbr5ddtwyt6pa", 
+      "created": "2017-09-09T20:29:11Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7drkb09fym4ls", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>I didn&#39;t really get the lecture&#39;s approach, but this video was very helpful for me:\u00a0<a href=\"https://www.youtube.com/watch?v=shaQZg8bqUM\">https://www.youtube.com/watch?v=shaQZg8bqUM</a></p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-10T16:19:46Z", 
+      "no_upvotes": 0, 
+      "uid": "gy4twfv45cg5o6", 
+      "created": "2017-09-10T16:19:46Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7ey3eunz3d26t", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p></p>\n<p>When you run Ext. Euclid (x,y) and you get back (d,\\alpha,\\beta).\u00a0</p>\n<p>If d=1, then \\alpha is the inverse of x modulo y and \\beta is the inverse of y modulo x.</p>\n<p>So do you want $$x^{-1} \\ mod\\  y$$ or $$y^{-1}\\ mod \\ x$$?</p>\n<p>One of them will be negative but you can simplify it to a positive number between 1 and y-1 in the first case or between 1 and x-1 in the later case.</p>"
+    }
+  ], 
+  "nr": 234, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw2"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 3, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw2", 
+    "student"
+  ], 
+  "created": "2017-09-09T19:30:49Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145266518, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>We talked about this at office hours today...still feel like I am so close to the answer but I can&#39;t see it...</p>\n<p></p>\n<p>I have completed extended_euclid((p-1)(q-1),e) such that I get gcd\u00a0= 1 and an alpha and beta.</p>\n<p></p>\n<p>The office hours equation of alpha*(p-1)(q-1) &#43; beta*e = 1 \u00a0 is true in my calculations so far.</p>\n<p>\u00a0</p>\n<p>So I&#39;m at a &#39;now what&#39; point for solving for d. \u00a0</p>", 
+      "anon": "no", 
+      "created": "2017-09-09T19:36:11Z", 
+      "uid": "hz4ug66rg6o26j", 
+      "subject": "HW 2.3 Finding d with knowing all the other variables"
+    }, 
+    {
+      "content": "<p>We talked about this at office hours today...still feel like I am so close to the answer but I can&#39;t see it...</p>\n<p></p>\n<p>I have completed extended_euclid((p-1)(q-1),e) such that I get d = 1 and an alpha and beta.</p>\n<p></p>\n<p>The office hours equation of alpha*(p-1)(q-1) &#43; beta*e = 1 \u00a0 is true in my calculations so far.</p>\n<p>\u00a0</p>\n<p>So I&#39;m at a &#39;now what&#39; point for solving for d. \u00a0</p>", 
+      "anon": "no", 
+      "created": "2017-09-09T19:30:49Z", 
+      "uid": "hz4ug66rg6o26j", 
+      "subject": "HW 2.3 Finding d with knowing all the other variables"
+    }
+  ]
+}

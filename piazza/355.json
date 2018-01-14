@@ -1,0 +1,91 @@
+{
+  "status": "active", 
+  "unique_views": 151, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-19T16:35:06Z", 
+      "data": "j7rtls8gu5h2l", 
+      "uid": "hviwm6agQCk"
+    }, 
+    {
+      "uid": "hkjzzued3ef4xh", 
+      "type": "i_answer", 
+      "when": "2017-09-19T18:27:53Z", 
+      "to": "j7rtls8djk02k", 
+      "anon": "no", 
+      "data": "j7rxmtms1hi73b"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j7rtls8djk02k", 
+  "bookmarked": 3, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-19T18:27:53Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j7rxmtmoi0073a", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>Are you referring &#34;Optimal binary search trees&#34;? If so, this problem is solved in the similar methodology as\u00a0Chain Multiply in the second class lecture.</p>\n<p></p>\n<p>https://cs6505.wordpress.com/schedule/dp-part-ii/</p>", 
+          "anon": "no", 
+          "created": "2017-09-19T18:27:53Z", 
+          "uid": "hkjzzued3ef4xh", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 355, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "dynamic_programming"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 2, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "dynamic_programming", 
+    "student"
+  ], 
+  "created": "2017-09-19T16:35:06Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145230845, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>Hi, could you explain why problem 6.20 in DPV ultimately returns C(1,n)? Could you contrast that against what it would mean when we return\u00a0return C(n,n) or C(n,1)?</p>", 
+      "anon": "no", 
+      "created": "2017-09-19T16:35:06Z", 
+      "uid": "hviwm6agQCk", 
+      "subject": "Problem 6.20 DPV"
+    }
+  ]
+}

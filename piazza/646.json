@@ -1,0 +1,236 @@
+{
+  "status": "active", 
+  "unique_views": 122, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-07T02:30:23Z", 
+      "data": "j8gpctiggn44el", 
+      "uid": "hveop63kovn61t"
+    }, 
+    {
+      "to": "j8gpctidxvh4ek", 
+      "anon": "no", 
+      "when": "2017-10-07T02:55:00Z", 
+      "type": "followup", 
+      "uid": "ixwuhwpik046y6"
+    }, 
+    {
+      "to": "j8gpctidxvh4ek", 
+      "anon": "no", 
+      "when": "2017-10-07T12:17:15Z", 
+      "type": "feedback", 
+      "uid": "is653ar0mae7ei"
+    }, 
+    {
+      "to": "j8gpctidxvh4ek", 
+      "anon": "no", 
+      "when": "2017-10-07T13:23:15Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j8gpctidxvh4ek", 
+      "anon": "no", 
+      "when": "2017-10-07T13:33:23Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j8gpctidxvh4ek", 
+      "anon": "no", 
+      "when": "2017-10-07T13:43:53Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "uid": "i4hdvab632i522", 
+      "type": "s_answer", 
+      "when": "2017-10-08T07:39:41Z", 
+      "to": "j8gpctidxvh4ek", 
+      "anon": "no", 
+      "data": "j8ifuf7zfx4zw"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8gpctidxvh4ek", 
+  "bookmarked": 8, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-10-07T02:55:00Z", 
+      "no_upvotes": 0, 
+      "uid": "ixwuhwpik046y6", 
+      "created": "2017-10-07T02:55:00Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8gq8gwulz959u", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-07T12:17:15Z", 
+          "uid": "is653ar0mae7ei", 
+          "created": "2017-10-07T12:17:15Z", 
+          "type": "feedback", 
+          "id": "j8habj4ault3oz", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>This may be correct for DFS as generally understood, but not correct as it is used in this class.\u00a0</p>\n<p></p>\n<p>&#64;Sterling, I would assume DFS returns a map from\u00a0all nodes in the graph\u00a0to either (a) the CC# (undirected) or (b) their pre/post numbers (directed).</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-07T13:23:15Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-10-07T13:23:15Z", 
+          "type": "feedback", 
+          "id": "j8hcoeln8v264r", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>The DFS algorithm does return all the nodes in the graph, not only those that are reached from the starting node.</p>\n<p></p>\n<p>Remember we saw two things in class: the Explore method that only returns those nodes reached from the start, and the outer DFS algorithm that uses the Explore method but loops through all the nodes.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-07T13:33:23Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-10-07T13:33:23Z", 
+          "type": "feedback", 
+          "id": "j8hd1fu3t7d2mx", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Yes, to be precise, Explore returns the vertices reachable from a given vertex.  And DFS returns all vertices with pre &#43; post order numbers.  Also, the CC version of DFS for undirected graphs (you can call this DFS as well) returns the vertices with their connected component number, so from that it&#39;s immediate to figure out which vertices are connected to which other ones (for undirected graphs).   It&#39;s OK to say things like: &#39;run DFS on graph G and get the postorder numbers in array post[]&#39;, or &#39;run DFS on this undirected graph G and get the vertices labeled with their connected components #&#39; or &#39;run Explore(v) on G to find the vertices reachable from vertex v&#39; or &#39;run the SCC algorithm on this graph G&#39; and get the vertices labeled with their strongly connected components #&#39;.  To avoid confusion, tell us what the input to the algorithm is and what output you&#39;re taking from the DFS (or related) algorithm."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-07T13:43:53Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-10-07T13:43:53Z", 
+          "type": "feedback", 
+          "id": "j8hdextcq6t4fl", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Thank you for that excellent description, Professor."
+        }
+      ], 
+      "subject": "<p>DFS returns the nodes that are reachable from a given start node in order it was reached.\u00a0 In the case of DFS you will go deeper in the tree before you go wider.\u00a0 And since it is directed, not all nodes of the graph may be returned.\u00a0 How exactly that information is returned and in what format depends upon how the developer decides to implement the algorithm.</p>"
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-08T07:39:41Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j8ifuf7x70w4zv", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "Marking as resolved; see followup", 
+          "anon": "no", 
+          "created": "2017-10-08T07:39:41Z", 
+          "uid": "i4hdvab632i522", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 646, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "graph_algorithms"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 4, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "graph_algorithms", 
+    "student"
+  ], 
+  "created": "2017-10-07T02:30:23Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145168129, 
+  "tag_good": [
+    {
+      "name": "Jeff Berry", 
+      "admin": false, 
+      "photo": "1452567269_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "ijarmqggjkc3gz"
+    }, 
+    {
+      "name": "Eddie Spencer", 
+      "admin": false, 
+      "photo": "1432002672_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4j6x8uvfv6743"
+    }
+  ], 
+  "tag_good_arr": [
+    "ijarmqggjkc3gz", 
+    "i4j6x8uvfv6743"
+  ], 
+  "history": [
+    {
+      "content": "<p>I&#39;ve read some different sources around DFS. Some mention it&#39;s an Array \u00a0with each node in the graph and a \u00a0boolean for which a node visited. In our lectures we assign post and pre numbers using DFS and can the infer edge types, but we didn&#39;t talk about the what DFS is returning? Am I thinking about this wrong?\u00a0</p>\n<p></p>\n<p>My question really is what can I assume to be available after I run DFS as a black box on a directed Graph node?\u00a0</p>", 
+      "anon": "no", 
+      "created": "2017-10-07T02:30:23Z", 
+      "uid": "hveop63kovn61t", 
+      "subject": "What does DFS on a directed graph return?"
+    }
+  ]
+}

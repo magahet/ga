@@ -1,0 +1,573 @@
+{
+  "status": "active", 
+  "unique_views": 193, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-12T19:49:23Z", 
+      "data": "j7i0go7a8nz6rd", 
+      "uid": "hkjzzued3ef4xh"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-12T19:51:02Z", 
+      "data": "j7i0ism7rc7118", 
+      "uid": "hkjzzued3ef4xh"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-12T19:55:00Z", 
+      "data": "j7i0nw7jxjh7jk", 
+      "uid": "hkjzzued3ef4xh"
+    }, 
+    {
+      "to": "j7i0go75v7i6rc", 
+      "anon": "no", 
+      "when": "2017-09-12T21:40:07Z", 
+      "type": "followup", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j7i0go75v7i6rc", 
+      "anon": "no", 
+      "when": "2017-09-12T22:30:50Z", 
+      "type": "followup", 
+      "uid": "i4j6x8uvfv6743"
+    }, 
+    {
+      "to": "j7i0go75v7i6rc", 
+      "anon": "no", 
+      "when": "2017-09-12T22:44:49Z", 
+      "type": "feedback", 
+      "uid": "hv5exp71kfz754"
+    }, 
+    {
+      "to": "j7i0go75v7i6rc", 
+      "anon": "no", 
+      "when": "2017-09-12T22:46:21Z", 
+      "type": "followup", 
+      "uid": "hv5exp71kfz754"
+    }, 
+    {
+      "to": "j7i0go75v7i6rc", 
+      "anon": "no", 
+      "when": "2017-09-12T23:04:58Z", 
+      "type": "feedback", 
+      "uid": "i4j6x8uvfv6743"
+    }, 
+    {
+      "to": "j7i0go75v7i6rc", 
+      "anon": "no", 
+      "when": "2017-09-12T23:05:37Z", 
+      "type": "feedback", 
+      "uid": "i4j6x8uvfv6743"
+    }, 
+    {
+      "to": "j7i0go75v7i6rc", 
+      "anon": "no", 
+      "when": "2017-09-13T00:01:52Z", 
+      "type": "feedback", 
+      "uid": "i18w67avy8e1uk"
+    }, 
+    {
+      "to": "j7i0go75v7i6rc", 
+      "anon": "no", 
+      "when": "2017-09-13T00:07:28Z", 
+      "type": "followup", 
+      "uid": "i18w67avy8e1uk"
+    }, 
+    {
+      "to": "j7i0go75v7i6rc", 
+      "anon": "no", 
+      "when": "2017-09-13T00:29:45Z", 
+      "type": "followup", 
+      "uid": "i4j6x8uvfv6743"
+    }, 
+    {
+      "to": "j7i0go75v7i6rc", 
+      "anon": "no", 
+      "when": "2017-09-13T00:47:14Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j7i0go75v7i6rc", 
+      "anon": "no", 
+      "when": "2017-09-13T01:06:22Z", 
+      "type": "feedback", 
+      "uid": "hv5exp71kfz754"
+    }, 
+    {
+      "to": "j7i0go75v7i6rc", 
+      "anon": "no", 
+      "when": "2017-09-13T01:13:36Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j7i0go75v7i6rc", 
+      "anon": "no", 
+      "when": "2017-09-13T01:23:46Z", 
+      "type": "feedback", 
+      "uid": "hv5exp71kfz754"
+    }, 
+    {
+      "to": "j7i0go75v7i6rc", 
+      "anon": "no", 
+      "when": "2017-09-13T02:37:59Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-13T02:50:55Z", 
+      "data": "j7ifirypbjg462", 
+      "uid": "hkjzzued3ef4xh"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-13T02:51:15Z", 
+      "data": "j7ifj7lkxs64l1", 
+      "uid": "hkjzzued3ef4xh"
+    }, 
+    {
+      "to": "j7i0go75v7i6rc", 
+      "anon": "no", 
+      "when": "2017-09-13T02:54:04Z", 
+      "type": "feedback", 
+      "uid": "i18w67avy8e1uk"
+    }, 
+    {
+      "to": "j7i0go75v7i6rc", 
+      "anon": "no", 
+      "when": "2017-09-13T07:04:11Z", 
+      "type": "feedback", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "to": "j7i0go75v7i6rc", 
+      "anon": "no", 
+      "when": "2017-09-14T00:55:25Z", 
+      "type": "feedback", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-14T03:37:56Z", 
+      "data": "j7jwn2x3ap02fa", 
+      "uid": "hkjzzued3ef4xh"
+    }, 
+    {
+      "to": "j7i0go75v7i6rc", 
+      "anon": "no", 
+      "when": "2017-09-14T06:26:20Z", 
+      "type": "feedback", 
+      "uid": "i4hdvab632i522"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j7i0go75v7i6rc", 
+  "bookmarked": 10, 
+  "tags": [
+    "course", 
+    "instructor-note"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-09-12T21:40:07Z", 
+      "no_upvotes": 0, 
+      "uid": "i4ket0u1z5q31a", 
+      "created": "2017-09-12T21:40:07Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7i4f2ntu907bt", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-13T07:04:11Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-09-13T07:04:11Z", 
+          "type": "feedback", 
+          "id": "j7iokgy2krq20y", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "See followup &#64;108; basically the &#39;message&#39; for RSA is normally a shared private symmetric key, such as a key for AES, that then encrypts the chunks of the actual communication. That could/would then be subject to protocol wrappers that allow for identification of start/end points, both at the communications level [&#39;above&#39; the AES encryption] as well as the content level [&#39;below&#39;]"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-14T00:55:25Z", 
+          "uid": "i4ket0u1z5q31a", 
+          "created": "2017-09-14T00:55:25Z", 
+          "type": "feedback", 
+          "id": "j7jqu3bqx7u1q1", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I&#39;m familiar with the fact that RSA is &#34;slow&#34; and typically only used to encrypt a key for a faster algorithm but I was curious about the behavior of when it is used to encrypt something bigger.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-14T06:26:20Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-09-14T06:26:20Z", 
+          "type": "feedback", 
+          "id": "j7k2nnbyqw960j", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "It&#39;s not only about speed"
+        }
+      ], 
+      "subject": "<p>How does RSA segment the message into manageable chunks that are not too large for the key (e.g. encrypting 5GB with a 2KB key)?</p>\n<p>What is the standard and/or what are the rules about key size vs. message segmentation?</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-12T22:30:50Z", 
+      "no_upvotes": 0, 
+      "uid": "i4j6x8uvfv6743", 
+      "created": "2017-09-12T22:30:50Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7i68arbkmh2d7", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-12T22:44:49Z", 
+          "uid": "hv5exp71kfz754", 
+          "created": "2017-09-12T22:44:49Z", 
+          "type": "feedback", 
+          "id": "j7i6qa3gamr1zx", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I aggree with an FFT example. \u00a0It was done in one of the previous office hours but there is no sound.</p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-12T23:05:37Z", 
+          "uid": "i4j6x8uvfv6743", 
+          "created": "2017-09-12T23:05:37Z", 
+          "type": "feedback", 
+          "id": "j7i7h1emj8p6fz", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Yeah this has happened before with a sound issue.\u00a0"
+        }
+      ], 
+      "subject": "<p>FFT Example similar to DPV 2.8 and 2.9</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-12T22:46:21Z", 
+      "no_upvotes": 0, 
+      "uid": "hv5exp71kfz754", 
+      "created": "2017-09-12T22:46:21Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7i6s9dyopf39u", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-12T23:04:58Z", 
+          "uid": "i4j6x8uvfv6743", 
+          "created": "2017-09-12T23:04:58Z", 
+          "type": "feedback", 
+          "id": "j7i7g6xw4zd600", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "&#43;1"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-13T00:01:52Z", 
+          "uid": "i18w67avy8e1uk", 
+          "created": "2017-09-13T00:01:52Z", 
+          "type": "feedback", 
+          "id": "j7i9hdguoi14fl", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#43;1. I asked this in\u00a0&#64;242 but didn&#39;t get a respond.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-13T00:47:14Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-09-13T00:47:14Z", 
+          "type": "feedback", 
+          "id": "j7ib3q2iylg3nm", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p></p>\n<p>What exactly is your question about \\omega? \u00a0Are you wondering why you use 4th or 8th roots? \u00a0It just depends on how many points you need. \u00a0In the hw problem what is the degree of the polynomial you&#39;re finding?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-13T01:06:22Z", 
+          "uid": "hv5exp71kfz754", 
+          "created": "2017-09-13T01:06:22Z", 
+          "type": "feedback", 
+          "id": "j7ibsbpkgkn9p", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I am going to go back and read watch the videos and reread the chapters. \u00a0I&#39;m obviously missing something.</p>\n<p></p>\n<p>One of homeworks is a degree 3 polynomial. \u00a0 So, I&#39;m not 100% sure if when solving for a FFT of a vector, if i just need the amount of points equal to the length of the vector or if i need double the amount for something like a multiplication that can be done later.\u00a0</p>\n<p></p>\n<p>Perhaps, I should just be following the algorithm and use the\u00a0$$\\omega = \\omega_n = (1, 2\\pi/n)$$ \u00a0and return what the output is listed.\u00a0</p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-13T01:13:36Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-09-13T01:13:36Z", 
+          "type": "feedback", 
+          "id": "j7ic1mpxj0a2pk", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>A line is a degree 1 polynomial and it is defined by any 2 points on the line.</p>\n<p>In general a degree d polynomial is defined by d&#43;1 points.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-13T01:23:46Z", 
+          "uid": "hv5exp71kfz754", 
+          "created": "2017-09-13T01:23:46Z", 
+          "type": "feedback", 
+          "id": "j7icepe1a6r76r", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>That answers that question then. \u00a0Thanks for the explanation. \u00a0</p>\n<p></p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-13T02:54:04Z", 
+          "uid": "i18w67avy8e1uk", 
+          "created": "2017-09-13T02:54:04Z", 
+          "type": "feedback", 
+          "id": "j7ifmtu5wpu3ke", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thank you Dr. Vigoda! That answered my omega question.</p>"
+        }
+      ], 
+      "subject": "<p>I would like to hear more about how to determine $$\\omega $$ for the input to the FFT. \u00a0The FFT subproblems are making sense and I understand the complex roots of units and their square but I&#39;m having trouble piecing together how to chose it as the input.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-13T00:07:28Z", 
+      "no_upvotes": 0, 
+      "uid": "i18w67avy8e1uk", 
+      "created": "2017-09-13T00:07:28Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7i9okigezh5bg", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-13T02:37:59Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-09-13T02:37:59Z", 
+          "type": "feedback", 
+          "id": "j7if25gmw4g6e2", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>See &#64;284.</p>"
+        }
+      ], 
+      "subject": "<p>If time permits, can you show the matrix approach as mentioned in &#64;280?</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-13T00:29:45Z", 
+      "no_upvotes": 0, 
+      "uid": "i4j6x8uvfv6743", 
+      "created": "2017-09-13T00:29:45Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7iah8auywj4ba", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>Any hints or other problems in the textbook to help give direction with HW 3 Problem 4?</p>"
+    }
+  ], 
+  "nr": 277, 
+  "bucket_order": 2, 
+  "type": "note", 
+  "folders": [
+    "course"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 7, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-09-12T19:49:23Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145254034, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>Hi,</p>\n<p></p>\n<p>The campus is closed and the the wifi connection at my apartment is unstable. I won&#39;t be able to do a live streaming for today&#39;s office hour. But I will upload a video answering the questions you may have later today or tomorrow.</p>\n<p></p>\n<p>I&#39;ve seen there are folks asking about FFT example. I will cover that in my video</p>\n<p></p>\n<p>Feel free to ask make a comment under this post if you have any questions (before 9 p.m. EST today). I will collect them and answer them within the video.</p>\n<p></p>\n<p>Thanks!\u00a0</p>\n<p>\u00a0------------------------------------</p>\n<p>Update:</p>\n<p>Link for the video:\u00a0<a href=\"https://www.youtube.com/watch?v=xQ2WKBd4EHM\">https://www.youtube.com/watch?v=xQ2WKBd4EHM</a></p>\n<p></p>\n<p></p>", 
+      "anon": "no", 
+      "created": "2017-09-14T03:37:56Z", 
+      "uid": "hkjzzued3ef4xh", 
+      "subject": "Today&#39;s office hour is cancelled (will upload a video answering questions)"
+    }, 
+    {
+      "content": "<p>Hi,</p>\n<p></p>\n<p>The campus is closed and the the wifi connection at my apartment is unstable. I won&#39;t be able to do a live streaming for today&#39;s office hour. But I will upload a video answering the questions you may have later today or tomorrow.</p>\n<p></p>\n<p>I&#39;ve seen there are folks asking about FFT example. I will cover that in my video</p>\n<p></p>\n<p>Feel free to ask make a comment under this post if you have any questions (before 9 p.m. EST today). I will collect them and answer them within the video.</p>\n<p></p>\n<p>Thanks!\u00a0</p>\n<p>\u00a0------------------------------------</p>\n<p>Update:</p>\n<p>Link for the video:\u00a0<a href=\"https://www.youtube.com/watch?v=xQ2WKBd4EHM\">https://www.youtube.com/watch?v=xQ2WKBd4EHM</a></p>\n<p></p>\n<p>#pin</p>", 
+      "anon": "no", 
+      "created": "2017-09-13T02:51:15Z", 
+      "uid": "hkjzzued3ef4xh", 
+      "subject": "Today&#39;s office hour is cancelled (will upload a video answering questions)"
+    }, 
+    {
+      "content": "<p>Hi,</p>\n<p></p>\n<p>The campus is closed and the the wifi connection at my apartment is unstable. I won&#39;t be able to do a live streaming for today&#39;s office hour. But I will upload a video answering the questions you may have later today or tomorrow.</p>\n<p></p>\n<p>I&#39;ve seen there are folks asking about FFT example. I will cover that in my video</p>\n<p></p>\n<p>Feel free to ask make a comment under this post if you have any questions (before 9 p.m. EST today). I will collect them and answer them within the video.</p>\n<p></p>\n<p>Thanks!\u00a0</p>\n<p>\u00a0------------------------------------</p>\n<p>Update:</p>\n<p>Link for the video:\u00a0<a href=\"https://www.youtube.com/watch?v=xQ2WKBd4EHM\">https://www.youtube.com/watch?v=xQ2WKBd4EHM</a></p>\n<p></p>\n<p>#pin</p>", 
+      "anon": "no", 
+      "created": "2017-09-13T02:50:55Z", 
+      "uid": "hkjzzued3ef4xh", 
+      "subject": "Today&#39;s office hour is cancelled (will upload a video answering questions)"
+    }, 
+    {
+      "content": "<p>Hi,</p>\n<p></p>\n<p>The campus is closed and the the wifi connection at my apartment is unstable. I won&#39;t be able to do a live streaming for today&#39;s office hour. But I will upload a video answering the questions you may have later today or tomorrow.</p>\n<p></p>\n<p>I&#39;ve seen there are folks asking about FFT example. I will cover that in my video</p>\n<p></p>\n<p>Feel free to ask make a comment under this post if you have any questions (before 9 p.m. EST today). I will collect them and answer them within the video.</p>\n<p></p>\n<p>Thanks!\u00a0</p>\n<p>#pin</p>", 
+      "anon": "no", 
+      "created": "2017-09-12T19:55:00Z", 
+      "uid": "hkjzzued3ef4xh", 
+      "subject": "Today&#39;s office hour is cancelled (will upload a video answering questions)"
+    }, 
+    {
+      "content": "<p>Hi,</p>\n<p></p>\n<p>The campus is closed and the the wifi connection at my apartment is unstable. I won&#39;t be able to do a live streaming for today&#39;s office hour. But I will upload a video answering the questions you may have later today or tomorrow.</p>\n<p></p>\n<p>I&#39;ve seen there are folks asking about FFT example. I will cover that in my video</p>\n<p></p>\n<p>Feel free to ask make a comment under this post if you have any questions (before 9 p.m.). I will collect them and answer them during the video.</p>\n<p></p>\n<p>Thanks!\u00a0</p>\n#pin", 
+      "anon": "no", 
+      "created": "2017-09-12T19:51:02Z", 
+      "uid": "hkjzzued3ef4xh", 
+      "subject": "Today&#39;s office hour is cancelled (will upload a video answering questions)"
+    }, 
+    {
+      "content": "<p>Hi,</p>\n<p></p>\n<p>The campus is closed and the the wifi connection at my apartment is unstable. I won&#39;t be able to do a live streaming for today&#39;s office hour. But I will upload a video answering the questions you may have later today or tomorrow.</p>\n<p></p>\n<p>I&#39;ve seen there are folks asking about FFT example. I will cover that in my video</p>\n<p></p>\n<p>Feel free to ask make a comment under this post if you have any questions (before 9 p.m.). I will collect them and answer them during the video.</p>\n<p></p>\n<p>Thanks!\u00a0</p>", 
+      "anon": "no", 
+      "created": "2017-09-12T19:49:23Z", 
+      "uid": "hkjzzued3ef4xh", 
+      "subject": "Today&#39;s office hour is cancelled (will upload a video answering questions)"
+    }
+  ]
+}

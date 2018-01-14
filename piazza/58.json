@@ -1,0 +1,91 @@
+{
+  "status": "active", 
+  "unique_views": 167, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-08-23T21:44:02Z", 
+      "data": "j6pjr2pu8bz2pl", 
+      "uid": "i4kbps83eci2ka"
+    }, 
+    {
+      "uid": "gy4twfv45cg5o6", 
+      "type": "i_answer", 
+      "when": "2017-08-24T12:42:08Z", 
+      "to": "j6pjr2prvx42pk", 
+      "anon": "no", 
+      "data": "j6qfu20s7mj45e"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j6pjr2prvx42pk", 
+  "bookmarked": 2, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-08-24T12:42:08Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j6qfu20lhp345d", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>d is the exponent, for example if it&#39;s &#43; O(n^2) then d=2. \u00a0Maybe you can view it as the time to &#34;merge&#34;?</p>\n<p>We&#39;ll cover D&amp;C soon, but it may be best to skip it for now to avoid confusion with DP. \u00a0This is one of the reasons I start with DP. \u00a0--Eric</p>", 
+          "anon": "no", 
+          "created": "2017-08-24T12:42:08Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 58, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "divide_and_conquer"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 2, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "divide_and_conquer", 
+    "student"
+  ], 
+  "created": "2017-08-23T21:44:02Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145319208, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>Hopefully a simple question, but in reading 2.2 in DPV to try to get a better handle on recurrence, the authors derive a standard running time expression based on factors a, b, and d. I understand a (the number of leaves per branch at the bottom of the tree), and b (the divide factor for the divide and conquer approach), but I am not clear on d. Is that the time required for each of the &#39;a&#39; operations?</p>", 
+      "anon": "no", 
+      "created": "2017-08-23T21:44:02Z", 
+      "uid": "i4kbps83eci2ka", 
+      "subject": "DPV 2.2 Recurrence question"
+    }
+  ]
+}

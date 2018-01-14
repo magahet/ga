@@ -1,0 +1,203 @@
+{
+  "status": "active", 
+  "unique_views": 113, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-07T21:22:01Z", 
+      "data": "j8hts3waagqbx", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-07T21:23:00Z", 
+      "data": "j8httdhxtzn1zh", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-07T21:23:19Z", 
+      "data": "j8httrwdflo26o", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-07T21:23:38Z", 
+      "data": "j8htu65yy962hn", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-07T21:24:59Z", 
+      "data": "j8htvwwsblr3bi", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-07T21:32:52Z", 
+      "data": "j8hu61rzs8h31s", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "uid": "i4iys7m3lpq2ij", 
+      "type": "s_answer", 
+      "when": "2017-10-07T23:34:23Z", 
+      "to": "j8hts3w5jh4bw", 
+      "anon": "no", 
+      "data": "j8hyibmuz0c53j"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-10-07T23:34:41Z", 
+      "data": "j8hyipp5z7r5gk", 
+      "uid": "i4iys7m3lpq2ij"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-10-07T23:37:54Z", 
+      "data": "j8hymub6bcc7kg", 
+      "uid": "i4iys7m3lpq2ij"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-10-08T00:00:44Z", 
+      "data": "j8hzg7tye2m1p", 
+      "uid": "i4iys7m3lpq2ij"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8hts3w5jh4bw", 
+  "bookmarked": 3, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-07T23:34:23Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j8hyibmqaxa53i", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>1) Each vertex contains one literal.\u00a0</p>\n<p>2) There are 2n vertices - one per literal, as you list.</p>\n<p>3) I don&#39;t know what meta-vertices are - do you mean connected components? The\u00a0example from lecture is a DAG, so its vertices are also its connected components, but this is not generally true - the CNF formula doesn&#39;t have to form a DAG. For example: $$(x_1 \\vee x_3) \\wedge (\\bar{x_3} \\vee x_2) \\wedge (\\bar{x_1} \\vee \\bar{x_2}) \\wedge (\\bar{x_1} \\vee x_3) $$.</p>\n<p>4) Each vertex must have a complement vertex, this is how you\u00a0end up with 2n vertices. Each sink SCC $$S$$ must have a source SCC $$\\bar{S}$$ such that $$S=T$$ implies $$\\bar{S}=F$$.</p>", 
+          "anon": "no", 
+          "created": "2017-10-08T00:00:44Z", 
+          "uid": "i4iys7m3lpq2ij", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>1) Each vertex contains one literal.\u00a0</p>\n<p>2) There are 2n vertices - one per literal, as you list.</p>\n<p>3) I don&#39;t know what meta-vertices are - do you mean connected components? The\u00a0example from lecture is a DAG, so its vertices are also its connected components, but this is not generally true - the CNF formula doesn&#39;t have to form a DAG.</p>\n<p>4) Each vertex must have a complement vertex, this is how you\u00a0end up with 2n vertices. Each sink SCC $$S$$ must have a source SCC $$\\bar{S}$$ such that $$S=T$$ implies $$\\bar{S}=F$$.</p>", 
+          "anon": "no", 
+          "created": "2017-10-07T23:37:54Z", 
+          "uid": "i4iys7m3lpq2ij", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>1) Each vertex contains one literal.\u00a0</p>\n<p>2) There are 2n vertices - one per literal, as you list.</p>\n<p>3) I don&#39;t know what meta-vertices are - do you mean connected components? The\u00a0example from lecture is a DAG, so its vertices are also its connected components, but this is not generally true - the CNF formula doesn&#39;t have to form a DAG.</p>\n<p>4) Each vertex must have a compliment vertex, this is how you\u00a0end up with 2n vertices. Each sink SCC $$S$$ must have a source SCC $$\\bar{S}$$ such that $$S=T$$ implies $$\\bar{S}=F$$.</p>", 
+          "anon": "no", 
+          "created": "2017-10-07T23:34:41Z", 
+          "uid": "i4iys7m3lpq2ij", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>1) Each vertex contains one literal.\u00a0</p>\n<p>2) There are 2n vertices - one per literal as you list.</p>\n<p>3) I don&#39;t know what meta-vertices are - do you mean connected components? The\u00a0example from lecture is a DAG, so its vertices are also its connected components, but this is not generally true - the CNF formula doesn&#39;t have to form a DAG.</p>\n<p>4) Each vertex must have a compliment vertex, this is how you\u00a0end up with 2n vertices. Each sink SCC $$S$$ must have a source SCC $$\\bar{S}$$ such that $$S=T$$ implies $$\\bar{S}=F$$.</p>", 
+          "anon": "no", 
+          "created": "2017-10-07T23:34:23Z", 
+          "uid": "i4iys7m3lpq2ij", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 662, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "graph_algorithms"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 3, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "graph_algorithms", 
+    "student"
+  ], 
+  "created": "2017-10-07T21:22:01Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145165614, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>Hi All,</p>\n<p></p>\n<p>So I see that in the 2-SAT algorithm there are vertices; in the lecture, it seems each vertex has a few literals in it. My questions:</p>\n<p></p>\n<p></p>\n<ol><li>What determines the literals contained in a vertex? Is there a limit on how many can be in one vertex?</li><li>Is the &#39;universe&#39; of vertices a Cartesian combination of the literals ($$x_1$$, $$\\bar{x_1}$$.... $$x_n$$, $$\\bar{x_n}$$)? OR, are these actually meta-vertices which are the result of running a SCC and then lumping the original, single literal vertices into large meta-vertices? </li><li>Are these vertices (the ones in the lecture) meta-vertices or are they just regular vertices?</li><li>MUST there be a compliment vertex (meta-vertex?) S&#96;, which equals !S?</li></ol>\n<p></p>\n<p>I dont know why SATs are kicking my behind, its like college entrance exams all over again!</p>\n<p></p>\n<p>Thanks,</p>\n<p>Brent</p>", 
+      "anon": "no", 
+      "created": "2017-10-07T21:32:52Z", 
+      "uid": "hvil6y6khgk2ri", 
+      "subject": "Another Question About 2-SAT And Vertices"
+    }, 
+    {
+      "content": "<p>Hi All,</p>\n<p></p>\n<p>So I see that in the 2-SAT algorithm there are vertices; in the lecture, it seems each vertex has a few literals in it. My questions:</p>\n<p></p>\n<p></p>\n<ol><li>What determines the literals contained in a vertex? Is there a limit on how many can be in one vertex?</li><li>Is the &#39;universe&#39; of vertices a Cartesian combination of the literals ($$x_1$$, $$\\bar{x_1}$$.... $$x_n$$, $$\\bar{x_n}$$)?</li><li>Are these vertices (the ones in the lecture) meta-vertices or are they just regular vertices?</li><li>MUST there be a compliment vertex (meta-vertex?) S&#96;, which equals !S?</li></ol>\n<p></p>\n<p>I dont know why SATs are kicking my behind, its like college entrance exams all over again!</p>\n<p></p>\n<p>Thanks,</p>\n<p>Brent</p>", 
+      "anon": "no", 
+      "created": "2017-10-07T21:24:59Z", 
+      "uid": "hvil6y6khgk2ri", 
+      "subject": "Another Question About 2-SAT And Vertices"
+    }, 
+    {
+      "content": "<p>Hi All,</p>\n<p></p>\n<p>So I see that in the 2-SAT algorithm there are vertices; in the lecture, it seems each vertex has a few literals in it. My questions:</p>\n<p></p>\n<p></p>\n<ol><li>What determines the literals contained in a vertex? Is there a limit on how many can be in one vertex?</li><li>Is the &#39;universe&#39; of vertices a Cartesian combination of the literals ($$x_1$$, $$\\bar{x_1}$$.... $$x_n$$, $$\\bar{x_n}$$)?</li><li>Are these vertices (the ones in the lecture) meta-vertices or are they just regular vertices?</li><li>MUST there be a compliment vertex (meta-vertex?) S&#96;, which equals !S?</li></ol>\n<p></p>\n<p>I dont know why SATs are kicking my behind, its like 12th grade entrance exams all over again!</p>\n<p></p>\n<p>Thanks,</p>\n<p>Brent</p>", 
+      "anon": "no", 
+      "created": "2017-10-07T21:23:38Z", 
+      "uid": "hvil6y6khgk2ri", 
+      "subject": "Another Question About 2-SAT And Vertices"
+    }, 
+    {
+      "content": "<p>Hi All,</p>\n<p></p>\n<p>So I see that in the 2-SAT algorithm there are vertices; in the lecture, it seems each vertex has a few literals in it. My questions:</p>\n<p></p>\n<p></p>\n<ol><li>What determines the literals contained in a vertex? Is there a limit on how many can be in one vertex?</li><li>Is the &#39;universe&#39; of vertices a Cartesian combination of the literals ($$x_1$$, $$\\bar(x_1)$$.... $$x_n$$, $$\\bar(x_n)$$)?</li><li>Are these vertices (the ones in the lecture) meta-vertices or are they just regular vertices?</li><li>MUST there be a compliment vertex (meta-vertex?) S&#96;, which equals !S?</li></ol>\n<p></p>\n<p>I dont know why SATs are kicking my behind, its like 12th grade entrance exams all over again!</p>\n<p></p>\n<p>Thanks,</p>\n<p>Brent</p>", 
+      "anon": "no", 
+      "created": "2017-10-07T21:23:19Z", 
+      "uid": "hvil6y6khgk2ri", 
+      "subject": "Another Question About 2-SAT And Vertices"
+    }, 
+    {
+      "content": "<p>Hi All,</p>\n<p></p>\n<p>So I see that in the 2-SAT algorithm there are vertices; in the lecture, it seems each vertex has a few literals in it. My questions:</p>\n<p></p>\n<p></p>\n<ol><li>What determines the literals contained in a vertex? Is there a limit on how many can be in one vertex?</li><li>Is the &#39;universe&#39; of vertices a Cartesian combination of the literals ($$x_1$$, $$\\bar(x_1)$$.... $$x_n$$, $$\\bar(x_n)$$)?</li><li>Are these vertices (the ones in the lecture) meta-vertices or are they just regular vertices?</li><li>MUST there be a compliment vertex (meta-vertex?) S&#96;, which equals !S?</li></ol>\n<p></p>\n<p>I dont know why SATs are kicking my behind, its like 12th grade entrance exams all over again!</p>\n<p></p>\n<p>Thanks,</p>\n<p>Brent</p>", 
+      "anon": "no", 
+      "created": "2017-10-07T21:23:00Z", 
+      "uid": "hvil6y6khgk2ri", 
+      "subject": "Another Question About 2-SAT And Vertices"
+    }, 
+    {
+      "content": "<p>Hi All,</p>\n<p></p>\n<p>So I see that in the 2-SAT algorithm there are vertices; in the lecture, it seems each vertex has a few literals in it. My questions:<br />1. What determines the literals contained in a vertex? Is there a limit on how many can be in one vertex?</p>\n<p>2. Is the &#39;universe&#39; of vertices a Cartesian combination of the literals ($$x_1$$, $$\\bar(x_1)$$.... $$x_n$$, $$\\bar(x_n)$$)?</p>\n<p>3. Are these vertices (the ones in the lecture) meta-vertices or are they just regular vertices?</p>\n<p>4. MUST there be a compliment vertex (meta-vertex?) S&#96;, which equals !S?</p>\n<p></p>\n<p>I dont know why SATs are kicking my behind, its like 12th grade entrance exams all over again!</p>\n<p></p>\n<p>Thanks,</p>\n<p>Brent</p>\n<p></p>\n<p>ff</p>\n<p>fff</p>", 
+      "anon": "no", 
+      "created": "2017-10-07T21:22:01Z", 
+      "uid": "hvil6y6khgk2ri", 
+      "subject": "Another Question About 2-SAT And Vertices"
+    }
+  ]
+}

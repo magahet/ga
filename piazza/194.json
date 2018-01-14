@@ -1,0 +1,274 @@
+{
+  "status": "active", 
+  "unique_views": 162, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-05T16:03:03Z", 
+      "data": "j77san0srvr8z", 
+      "uid": "i4pvwmg5VTb"
+    }, 
+    {
+      "uid": "i4iys7m3lpq2ij", 
+      "type": "s_answer", 
+      "when": "2017-09-05T16:09:40Z", 
+      "to": "j77san0qqk58y", 
+      "anon": "no", 
+      "data": "j77sj5h5ixf5x5"
+    }, 
+    {
+      "to": "j77san0qqk58y", 
+      "anon": "no", 
+      "when": "2017-09-05T16:46:41Z", 
+      "type": "followup", 
+      "uid": "i4pvwmg5VTb"
+    }, 
+    {
+      "to": "j77san0qqk58y", 
+      "anon": "no", 
+      "when": "2017-09-05T17:51:39Z", 
+      "type": "followup", 
+      "uid": "idg5nm2lC96"
+    }, 
+    {
+      "to": "j77san0qqk58y", 
+      "anon": "no", 
+      "when": "2017-09-05T17:58:56Z", 
+      "type": "feedback", 
+      "uid": "idi5567wFgu"
+    }, 
+    {
+      "to": "j77san0qqk58y", 
+      "anon": "no", 
+      "when": "2017-09-05T18:06:32Z", 
+      "type": "feedback", 
+      "uid": "idg5nm2lC96"
+    }, 
+    {
+      "to": "j77san0qqk58y", 
+      "anon": "no", 
+      "when": "2017-09-05T18:21:39Z", 
+      "type": "feedback", 
+      "uid": "i4iys7m3lpq2ij"
+    }, 
+    {
+      "to": "j77san0qqk58y", 
+      "anon": "no", 
+      "when": "2017-09-05T18:22:36Z", 
+      "type": "feedback", 
+      "uid": "i4hdvab632i522"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j77san0qqk58y", 
+  "bookmarked": 6, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-05T16:09:40Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [
+        "hkjzzued3ef4xh", 
+        "i4m49pmqc4h14p"
+      ], 
+      "id": "j77sj5h1i1n5x4", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Tiancheng Gong", 
+          "admin": true, 
+          "photo": null, 
+          "us": false, 
+          "role": "ta", 
+          "facebook_id": null, 
+          "id": "hkjzzued3ef4xh"
+        }, 
+        {
+          "name": "Gautam Salhotra", 
+          "admin": false, 
+          "photo": "1425181695_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i4m49pmqc4h14p"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>Check your computation of $$\\phi(4)$$:</p>\n<p>$$3^{\\phi(4)} \\equiv 1 \\mod 4$$</p>\n<p>$$\\phi(4) = 2$$ (1 and 3 are the only numbers relatively prime to 4, hence totient 4 = 2)</p>\n<p>$$3^2 \\equiv 1 \\mod 4$$</p>", 
+          "anon": "no", 
+          "created": "2017-09-05T16:09:40Z", 
+          "uid": "i4iys7m3lpq2ij", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-05T16:46:41Z", 
+      "no_upvotes": 0, 
+      "uid": "i4pvwmg5VTb", 
+      "created": "2017-09-05T16:46:41Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j77turnpkdx4ix", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>Oh my goodness, thank you. I totally misunderstood. I thought totient was a SET of all numbers prime to N, not the count of numbers in the set.\u00a0</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-05T17:51:39Z", 
+      "no_upvotes": 0, 
+      "uid": "idg5nm2lC96", 
+      "created": "2017-09-05T17:51:39Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j77w6b5lkd37hd", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-05T17:58:56Z", 
+          "uid": "idi5567wFgu", 
+          "created": "2017-09-05T17:58:56Z", 
+          "type": "feedback", 
+          "id": "j77wfoj9t1573o", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Two distinct \u00a0prime numbers are always relatively prime to each other, I think.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-05T18:06:32Z", 
+          "uid": "idg5nm2lC96", 
+          "created": "2017-09-05T18:06:32Z", 
+          "type": "feedback", 
+          "id": "j77wpghtufw3gz", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Yep, I know, and I could have simply used &#34;distinct.&#34; Was just using the same language as that of\u00a0a website I found yesterday, which I can&#39;t seem to find anymore.</p>\n<p></p>\n<p>Edit: Found the link; it&#39;s\u00a0<a href=\"https://www.doc.ic.ac.uk/~mrh/330tutor/ch05s02.html\" target=\"_blank\">here</a>.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-05T18:21:39Z", 
+          "uid": "i4iys7m3lpq2ij", 
+          "created": "2017-09-05T18:21:39Z", 
+          "type": "feedback", 
+          "id": "j77x8w6z5h822f", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Based on the intuition\u00a0for $$\\phi(N)=(p-1)(q-1)$$ for distinct primes $$p$$ and $$q$$ discussed in lecture, I think we can determine that $$\\phi(N)=N-p$$ for $$N=p^2$$ for any prime $$p$$:</p>\n<p>All numbers up to $$p^2$$: $$1,2,3,\\dots,p^2-1,p^2$$</p>\n<p>Which are multiples of $$p$$? $$p,2p,3p,\\dots,p*p$$</p>\n<p>So, $$p$$ of these are multiples of $$p$$.</p>\n<p>Hence of $$p^2=N$$ total numbers, we have $$p$$ multiples of $$p$$, and thus $$N-p$$ that are relatively prime to $$N$$ (since semiprimes have no composite factors other than themselves and primes factorizations are unique).</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-05T18:22:36Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-09-05T18:22:36Z", 
+          "type": "feedback", 
+          "id": "j77xa4bxxb446c", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Those are squares of a prime <a href=\"https://en.wikipedia.org/wiki/Euler%27s_totient_function#Value_for_a_prime_power_argument\">https://en.wikipedia.org/wiki/Euler%27s_totient_function#Value_for_a_prime_power_argument</a> \nFor prime $$p$$, power $$k \\ge 1$$, $$\\phi(p^k) = p^k - p^{k - 1}$$\nProof: since $$p$$ is a prime number the only possible values of $$gcd(p^k, m)$$ are $$1, p, p^2, .., p^k$$; the only way that $$gcd(p^k, m)$$ would not equal 1 is that $$m$$ would be a multiple of $$p$$. The multiples of $$p$$ that are less than or equal to $$p^k$$ are $$p, 2p, 3p, .., p^{k \u2212 1}p = p^k$$, there are $$p^{k \u2212 1}$$ of them. Therefore, the other $$p^k \u2212 p^{k \u2212 1}$$ numbers are all relatively prime to $$p^k$$."
+        }
+      ], 
+      "subject": "<p>An interesting side note: I was fiddling with $$\\phi(N)$$ and found a couple of\u00a0cases where $$\\phi(N) \\neq (p - 1)(q - 1)$$ even though $$N = pq$$, where $$p$$ and $$q$$ are prime numbers. For example, $$\\phi(4) = 2$$. Another example is\u00a0$$\\phi(25) = 20$$. It turns out that\u00a0$$\\phi(N) = (p - 1)(q - 1)$$ is only true if $$p$$ and $$q$$ are relatively prime to each other.</p>"
+    }
+  ], 
+  "nr": 194, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw2"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw2", 
+    "student"
+  ], 
+  "created": "2017-09-05T16:03:03Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145279706, 
+  "tag_good": [
+    {
+      "name": "Rich Owen", 
+      "admin": false, 
+      "photo": "1470659298_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "idg61g3ot1qp6"
+    }
+  ], 
+  "tag_good_arr": [
+    "idg61g3ot1qp6"
+  ], 
+  "history": [
+    {
+      "content": "<p>So according to\u00a0<a href=\"https://en.wikipedia.org/wiki/Euler%27s_theorem\">Euler&#39;s theorem</a>: If\u00a0<i>a</i>\u00a0and\u00a0<i>n</i>\u00a0are coprime, then\u00a0<i>a</i>\u00a0<sup><i>\u03c6</i>(<i>n</i>)</sup>\u00a0\u2261 1 (mod\u00a0<i>n</i>), where\u00a0<i>\u03c6</i>\u00a0is\u00a0<a href=\"https://en.wikipedia.org/wiki/Euler%27s_totient_function\">Euler&#39;s totient function</a></p>\n<p></p>\n<p>Cool, got it. But what about the case of 3^3 mod 4? \u00a03 and 4 are coprime, so according to Euler, shouldn&#39;t it be\u00a0\u00a0\u2261 1 (mod\u00a0<i>n</i>)? But when I write it out 3^3 = 27 mod N = 3 mod N. NOT 1 mod N.</p>\n<p></p>\n<p>I must be misunderstanding something, but I&#39;m not sure what. Any insight would be appreciated.</p>", 
+      "anon": "no", 
+      "created": "2017-09-05T16:03:03Z", 
+      "uid": "i4pvwmg5VTb", 
+      "subject": "totient function question"
+    }
+  ]
+}

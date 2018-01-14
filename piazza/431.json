@@ -1,0 +1,115 @@
+{
+  "status": "active", 
+  "unique_views": 233, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-25T22:45:04Z", 
+      "data": "j80rgoa5al4132", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j80rgoa342o131", 
+      "anon": "no", 
+      "when": "2017-09-26T00:47:39Z", 
+      "type": "followup", 
+      "uid": "gns9oa0pgsO"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j80rgoa342o131", 
+  "bookmarked": 3, 
+  "tags": [
+    "project", 
+    "student"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-09-26T00:47:39Z", 
+      "no_upvotes": 0, 
+      "uid": "gns9oa0pgsO", 
+      "created": "2017-09-26T00:47:39Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j80vuby1cmk320", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>I would suggest folks without a python 2.7.x\u00a0install to install anaconda2, activate navigator, and code in spyder.\u00a0</p>"
+    }
+  ], 
+  "nr": 431, 
+  "bucket_order": 2, 
+  "type": "note", 
+  "folders": [
+    "project"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 4, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-09-25T22:45:04Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145219096, 
+  "tag_good": [
+    {
+      "name": "Jason Buoni", 
+      "admin": false, 
+      "photo": "1463440659_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "name": "Estelle Yeh", 
+      "admin": false, 
+      "photo": "1421544945_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4fxg6tfzh211n"
+    }, 
+    {
+      "name": "Zack Gow", 
+      "admin": false, 
+      "photo": "1476241357_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hyzyc8nwswo6z5"
+    }
+  ], 
+  "tag_good_arr": [
+    "ijbr5ddtwyt6pa", 
+    "i4fxg6tfzh211n", 
+    "hyzyc8nwswo6z5"
+  ], 
+  "history": [
+    {
+      "content": "<p>In case this helps someone else...</p>\n<p></p>\n<p>If you are on a Mac, these were the three commands I ran to get NumPy installed on my computer (and have the template code working):</p>\n<p></p>\n<pre>sudo\u00a0pip install --user --upgrade pip<br />sudo\u00a0pip install --user -U pip\u00a0setuptools<br />sudo\u00a0pip install --user -U pip\u00a0numpy</pre>\n<p>This is for a Mac, and your mileage\u00a0may vary (at work I have a Mac as well, but my Python installation has been so customized over the years than the above commands don&#39;t work). If you don&#39;t have too many custom stuff, the above should get you up and running.</p>\n<p></p>\n<p>After this, go to the folder with the Bloom Filter code (the one you downloaded and unzip it), and run the following:</p>\n<p></p>\n<pre>python bloom.py -c testConfigHashType2.txt -i testInput.txt -o testOutput.txt -v validResHashType2.txt\u00a0</pre>\n<p></p>\n<p>The output should be the following:</p>\n<p></p>\n<pre>Key = a: Val = [1747503, 1817256, 1607483, 185228, 1468519, 1609218, 494569, 163464, 647579, 1413089, 1453755, 252366, 861055]<br />Key = b: Val = [584709, 1757686, 628461, 1142625, 315879, 694680, 450390, 872266, 1057293, 1502529, 1086668, 948546, 732514]<br />Key = inFileName: Val = testInput.txt<br />Key = name: Val = Type 2 hash<br />Key = autograde: Val = 1<br />Key = outFileName: Val = testOutput.txt<br />Key = k: Val = 13<br />Key = m: Val = 100000<br />Key = n: Val = 1917017<br />Key = task: Val = 2<br />Key = valFileName: Val = validResHashType2.txt<br />Key = configFileName: Val = testConfigHashType2.txt<br />Key = N: Val = 2147483647<br />Key = type: Val = 2<br />Key = genSeed: Val = 877623067<br />Key = studentName: Val = GT<br />bfInputData has 200000 elements<br />Finished adding 100000 integers to bloom filter<br />compareResults : Number of mismatches in bloomfilter comared to validation file : 100010| # of incorrect true results : 0| # of incorrect False results : 100010<br />Task 2 complete</pre>\n<p></p>\n<p>If you see the above, then happy coding!</p>\n<p></p>\n<p></p>\n<p></p>", 
+      "anon": "no", 
+      "created": "2017-09-25T22:45:04Z", 
+      "uid": "i4nkipeofrkrz", 
+      "subject": "If Python is not your thing, this is what you do to set up your environment"
+    }
+  ]
+}

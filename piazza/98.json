@@ -1,0 +1,231 @@
+{
+  "status": "active", 
+  "unique_views": 198, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-08-28T03:48:31Z", 
+      "data": "j6vmj7ybktg27c", 
+      "uid": "hz0pec4uduL"
+    }, 
+    {
+      "uid": "gy4twfv45cg5o6", 
+      "type": "i_answer", 
+      "when": "2017-08-29T12:39:38Z", 
+      "to": "j6vmj7yak0y27b", 
+      "anon": "no", 
+      "data": "j6xky34zyv37lv"
+    }, 
+    {
+      "to": "j6vmj7yak0y27b", 
+      "anon": "no", 
+      "when": "2017-08-30T04:14:55Z", 
+      "type": "followup", 
+      "uid": "hz0pec4uduL"
+    }, 
+    {
+      "to": "j6vmj7yak0y27b", 
+      "anon": "no", 
+      "when": "2017-09-18T16:26:57Z", 
+      "type": "followup", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j6vmj7yak0y27b", 
+      "anon": "no", 
+      "when": "2017-09-18T17:29:51Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j6vmj7yak0y27b", 
+      "anon": "no", 
+      "when": "2017-09-19T11:05:12Z", 
+      "type": "feedback", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "to": "j6vmj7yak0y27b", 
+      "anon": "no", 
+      "when": "2017-09-19T16:34:40Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j6vmj7yak0y27b", 
+  "bookmarked": 6, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-08-29T12:39:38Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "hz0pec4uduL"
+      ], 
+      "id": "j6xky34btiq7lu", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Hugh Woltzen", 
+          "admin": false, 
+          "photo": "1423117810_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hz0pec4uduL"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>This one is tricky. \u00a0Instead of a 3-d table I&#39;d view it as 3 tables: A(),B(),C() where A(i,j) = T/F if you can parenthesize the substring s_i...s_j so that it evaluates to a. \u00a0Similarly B() for evaluating to b and C() for c.</p>\n<p></p>\n<p>Does that help?</p>\n<p></p>\n<p>--Eric</p>", 
+          "anon": "no", 
+          "created": "2017-08-29T12:39:38Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-30T04:14:55Z", 
+      "no_upvotes": 0, 
+      "uid": "hz0pec4uduL", 
+      "created": "2017-08-30T04:14:55Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6yicv2nzis63h", 
+      "anon": "no", 
+      "bucket_name": "Week 8/27 - 9/2", 
+      "config": {}, 
+      "bucket_order": 8, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "Thank you Dr Vigoda. I&#39;ll give this approach a try."
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-18T16:26:57Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "hq8hn0qyfuvyr", 
+      "created": "2017-09-18T16:26:57Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7qdvgbpxg36cu", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-18T17:29:51Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-09-18T17:29:51Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j7qg4cbl21j28a", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>The textbook says that the running time for chain matrix multiplication is O(n^3). By analogy, I think Problem 6.6 would also have running time of\u00a0O(n^3).</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-19T11:05:12Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-09-19T11:05:12Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j7rhtje8i4478a", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "I think it must be $$O(n^3)$$. There&#39;s a union operation that is $$O(1)$$ as it is the merger of at most 9 operations, to a set of size at most 3."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-19T16:34:40Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-09-19T16:34:40Z", 
+          "type": "feedback", 
+          "id": "j7rtl8c492k7c7", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I agree.</p>"
+        }
+      ], 
+      "subject": "<p>I used sets. So I let P(i,j) be the set of all results one could get for the substring from i to j. This is equivalent to having 3 separate tables, but it&#39;s just another way of looking at the problem.</p>\n<p></p>\n<p>By the way, I have a solution, but I don&#39;t know how to analyze the running time. When there&#39;s an outer loop that&#39;s O(n), but then there&#39;s a loop within that such that the number of iterations of that loop is limited by the value in the outer loop in some way, and then an even more-inner loop whose iterations are limited by the second loop, I&#39;m just stumped.</p>"
+    }
+  ], 
+  "nr": 98, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw1"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 2, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw1", 
+    "student"
+  ], 
+  "created": "2017-08-28T03:48:31Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145305697, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>Hi,</p>\n<p>I&#39;m working on problem 6.6 for some extra practice. This problem has a string consisting of n occurrences of a symbol in the set (a, b, c). It shows a multiplication table that gives the results of multiplying a, b and c. The goal is to determine if a substring can be parenthesized such that the result of the multiplication is a.</p>\n<p></p>\n<p>This problem seems similar to the matrix multiplication problem. The only way I can figure out to do this is to add a third dimension to my table that tracks if one of the parenthesis orderings within the string returns a given symbol (a, b, c). This results in 5 nested loops, which seems messy.\u00a0</p>\n<p></p>\n<p>I was wondering if anyone could provide a hint of a better approach to take for this problem without giving away the solution.</p>\n<p></p>\n<p>Thanks,</p>\n<p>Hugh</p>", 
+      "anon": "no", 
+      "created": "2017-08-28T03:48:31Z", 
+      "uid": "hz0pec4uduL", 
+      "subject": "6.6: multiplication table [Potential Spoiler]"
+    }
+  ]
+}

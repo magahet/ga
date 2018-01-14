@@ -1,0 +1,73 @@
+{
+  "status": "active", 
+  "unique_views": 327, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-06T00:31:57Z", 
+      "data": "j78ah3au3s6ua", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-06T00:59:41Z", 
+      "data": "j78bgr6td7y1q2", 
+      "uid": "hkjzzued3ef4xh"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j78ah3arkdju9", 
+  "bookmarked": 2, 
+  "tags": [
+    "hw1", 
+    "instructor-note", 
+    "pin"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [], 
+  "nr": 201, 
+  "bucket_order": 0, 
+  "type": "note", 
+  "folders": [
+    "hw1"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 0, 
+  "bucket_name": "Pinned", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-09-06T00:31:57Z", 
+  "is_tag_good": false, 
+  "config": {
+    "is_announcement": 1
+  }, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145116709, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p></p>\n<p>Sorry, late homeworks are not accepted (for any reason). \u00a0This is stated on the course webpage. --Eric</p>\n#pin", 
+      "anon": "no", 
+      "created": "2017-09-06T00:59:41Z", 
+      "uid": "hkjzzued3ef4xh", 
+      "subject": "No late homeworks"
+    }, 
+    {
+      "content": "<p></p>\n<p>Sorry, late homeworks are not accepted (for any reason). \u00a0This is stated on the course webpage. --Eric</p>", 
+      "anon": "no", 
+      "created": "2017-09-06T00:31:57Z", 
+      "uid": "gy4twfv45cg5o6", 
+      "subject": "No late homeworks"
+    }
+  ]
+}

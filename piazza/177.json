@@ -1,0 +1,219 @@
+{
+  "status": "active", 
+  "unique_views": 159, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-04T17:19:04Z", 
+      "data": "j76fkjmyqabqz", 
+      "uid": "i4iufvhm2nj4s1"
+    }, 
+    {
+      "to": "j76fkjmxuwwqy", 
+      "anon": "no", 
+      "when": "2017-09-04T18:02:02Z", 
+      "type": "followup", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j76fkjmxuwwqy", 
+      "anon": "no", 
+      "when": "2017-09-05T13:52:17Z", 
+      "type": "followup", 
+      "uid": "ijarmqggjkc3gz"
+    }, 
+    {
+      "to": "j76fkjmxuwwqy", 
+      "anon": "no", 
+      "when": "2017-09-05T14:05:30Z", 
+      "type": "followup", 
+      "uid": "hqa65fnalg83fr"
+    }, 
+    {
+      "to": "j76fkjmxuwwqy", 
+      "anon": "no", 
+      "when": "2017-09-05T14:07:07Z", 
+      "type": "feedback", 
+      "uid": "hqa65fnalg83fr"
+    }, 
+    {
+      "uid": "hkkbz4bujtv5dn", 
+      "type": "i_answer", 
+      "when": "2017-09-07T16:00:31Z", 
+      "to": "j76fkjmxuwwqy", 
+      "anon": "no", 
+      "data": "j7an33pao4x3fg"
+    }, 
+    {
+      "to": "j76fkjmxuwwqy", 
+      "anon": "no", 
+      "when": "2017-09-08T03:51:30Z", 
+      "type": "feedback", 
+      "uid": "ijbr5ddtwyt6pa"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j76fkjmxuwwqy", 
+  "bookmarked": 6, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-09-04T18:02:02Z", 
+      "no_upvotes": 0, 
+      "uid": "hq8hn0qyfuvyr", 
+      "created": "2017-09-04T18:02:02Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j76h3t5dqei90", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "I&#39;m still working on understanding this, but my tentative thoughts are that we need a separate dimension in T for each orthogonal piece of data that we need to &#34;track&#34; as we develop solutions to larger problems from those of smaller problems. In the hotel problem, the positions of the hotels are available in the input to the problem, so since we&#39;re tracking the index of the last hotel we stop at in each subproblem, we can use that to access the position of the hotel using the input, so there&#39;s no need to track position."
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-05T13:52:17Z", 
+      "no_upvotes": 0, 
+      "uid": "ijarmqggjkc3gz", 
+      "created": "2017-09-05T13:52:17Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j77nmhfvn753ci", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-08T03:51:30Z", 
+          "uid": "ijbr5ddtwyt6pa", 
+          "created": "2017-09-08T03:51:30Z", 
+          "type": "feedback", 
+          "id": "j7bchf87jtd1f9", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I also try to add the caveat to the Bruit force start &#34;Does the second loop have to be from / to n or from / to i&#34;, since you can have two cases where you have a nested loop</p>\n<p></p>\n<p>T(i, j) = 1 &#43; T(i - 1, j -1) where s[i] == s[j]</p>\n<p>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0 otherwise</p>\n<p></p>\n<p>VS something where you have a max / min j</p>\n<p></p>\n<p>T(i) \u00a0= max {T(j) &#43; 1 where 0 &lt;= j &lt; i }</p>\n<p>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 j</p>\n<p></p>\n<p></p>\n<p>Since they both have j, but only one needs to include it in their table def. Not saying you didn&#39;t know that, just a helpful note to others who read these posts.</p>\n<p>\u00a0</p>"
+        }
+      ], 
+      "subject": "<p>I&#39;ve found I come at these DP problems from one of two different directions. \u00a0If I&#39;m having trouble with one then I try the other:</p>\n<p></p>\n<p><strong>Greedy start</strong></p>\n<p>I start with a simple greedy algorithm in mind that finds the first local optima then I ask myself; What additional information would I need to keep track of so I don&#39;t get stuck? \u00a0As we iterate what might change and cause another global optima to appear?</p>\n<p></p>\n<p><strong>Bruit force start</strong></p>\n<p>I start by thinking of an exhaustive search algorithm and design\u00a0a table whose dimensions match the number of loops. \u00a0Then I work through an example and see which dimensions can be collapsed and replaced by a single value (ex: might only need to track max value rather than each value). What information is only used once and what information can be reused?</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-05T14:05:30Z", 
+      "no_upvotes": 0, 
+      "uid": "hqa65fnalg83fr", 
+      "created": "2017-09-05T14:05:30Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j77o3hji3321k7", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-05T14:07:07Z", 
+          "uid": "hqa65fnalg83fr", 
+          "created": "2017-09-05T14:07:07Z", 
+          "type": "feedback", 
+          "id": "j77o5kcrl722kb", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>DP gives you an orderly way of exploring each combination\u00a0only once. \u00a0But its not going to help you with chess where the options are just too many.</p>"
+        }
+      ], 
+      "subject": "<p>In the Longest Increasing Subsequence it was unimportant to consider different start points when computing. Its not like you make a decision and then you need to backtrack. Something stops being increasing you just restart. These problems can probably be solved with greedy algorithms as well.<br /><br />However, for other problems (like knapsack) early decisions may be bad, and you need to try a bunch of options. So the second variable (or third or fourth) are there to allow you to explore all options.<br /><br />Just bear in mind that each dimension is trading off space for time. So your algorithm uses O(N) extra RAM for one\u00a0variable (though often\u00a0you can optimize that away like in Fibonacci and use O(1)) and O(N^2) for 2, O(N^k) for k variables.<br /><br />That could get pretty bad pretty quickly. But it still might be better than exponential time.</p>"
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-07T16:00:31Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j7an33p5ffq3ff", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>Please see the followups below.</p>", 
+          "anon": "no", 
+          "created": "2017-09-07T16:00:31Z", 
+          "uid": "hkkbz4bujtv5dn", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 177, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "dynamic_programming"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 3, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "dynamic_programming", 
+    "student"
+  ], 
+  "created": "2017-09-04T17:19:04Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145283295, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>What is our intuition on using T(i) vs T(i,j) when defining our subproblem? \u00a0For example, in the hotel stops problem, we are given two inputs, n and k, yet we only end up using n. \u00a0Why?</p>", 
+      "anon": "no", 
+      "created": "2017-09-04T17:19:04Z", 
+      "uid": "i4iufvhm2nj4s1", 
+      "subject": "Intuition on T(i) vs T(i, j)"
+    }
+  ]
+}

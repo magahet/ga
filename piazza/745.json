@@ -1,0 +1,169 @@
+{
+  "status": "active", 
+  "unique_views": 125, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-17T15:44:22Z", 
+      "data": "j8vs4e2rz4u7b6", 
+      "uid": "hz03lfq2z6r446"
+    }, 
+    {
+      "uid": "i4j6wvmu7he6v1", 
+      "type": "s_answer", 
+      "when": "2017-10-17T16:12:58Z", 
+      "to": "j8vs4e2ppnf7b5", 
+      "anon": "no", 
+      "data": "j8vt56i47826vf"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-10-17T16:33:48Z", 
+      "data": "j8vtvyw1lnm2n8", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-10-17T16:34:18Z", 
+      "data": "j8vtwm6p9zk31r", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-10-17T16:36:34Z", 
+      "data": "j8vtzj1n8pc6d9", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-10-17T16:37:20Z", 
+      "data": "j8vu0id7v1477c", 
+      "uid": "i4hdvab632i522"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8vs4e2ppnf7b5", 
+  "bookmarked": 5, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-17T16:12:58Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [
+        "hz03lfq2z6r446", 
+        "gy4twfv45cg5o6"
+      ], 
+      "id": "j8vt56hztor6ve", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Balaji Sundaresan", 
+          "admin": false, 
+          "photo": null, 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hz03lfq2z6r446"
+        }, 
+        {
+          "name": "Eric Vigoda", 
+          "admin": true, 
+          "photo": null, 
+          "us": false, 
+          "role": "instructor", 
+          "facebook_id": null, 
+          "id": "gy4twfv45cg5o6"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "In an undirected graph, the degree of a vertex is the number of incident edges\n\nIn a directed graph we talk of the in-degree &amp; the out-degree, being respectively the number of edges entering that vertex, &amp; the number of edges leaving that vertex. You may occasionally see talk of simply &#39;the degree&#39; of vertices in directed graphs; normally that would be the sum of the in-degree plus the out-degree\n\nNB self-loops are treated identically, so a self-loop in an undirected graph adds 2 to the degree, a self-loop in a directed graph adds 1 to the in-degree &amp; 1 to the out-degree <a href=\"https://en.wikipedia.org/wiki/Loop_%28graph_theory%29#Degree\">wikipedia Loop Degree</a>", 
+          "anon": "no", 
+          "created": "2017-10-17T16:37:20Z", 
+          "uid": "i4hdvab632i522", 
+          "subject": ""
+        }, 
+        {
+          "content": "In an undirected graph, the degree of a vertex is the number of incident edges\n\nIn a directed graph we talk of the in-degree &amp; the out-degree, being respectively the number of edges entering that vertex, &amp; the number of edges leaving that vertex. You may occasionally see talk of simply &#39;the degree&#39; of vertices in directed graphs; normally that would be the sum of the in-degree plus the out-degree\n\nNB self-loops are treated identically, so a self-loop in an undirected graph adds 2 to the degree, a self-loop in a directed graph adds 1 to the in-degree &amp; 1 to the out-degree <a href=\"https://en.wikipedia.org/wiki/Loop_%28graph_theory%29\">wikipedia Loop</a>", 
+          "anon": "no", 
+          "created": "2017-10-17T16:36:34Z", 
+          "uid": "i4hdvab632i522", 
+          "subject": ""
+        }, 
+        {
+          "content": "In an undirected graph, the degree of a vertex is the number of incident edges\n\nIn a directed graph we talk of the in-degree &amp; the out-degree, being respectively the number of edges entering that vertex, &amp; the number of edges leaving that vertex. You may occasionally see talk of simply &#39;the degree&#39; of vertices in directed graphs; normally that would be the sum of the in-degree plus the out-degree", 
+          "anon": "no", 
+          "created": "2017-10-17T16:34:18Z", 
+          "uid": "i4hdvab632i522", 
+          "subject": ""
+        }, 
+        {
+          "content": "In an undirected graph, the degree of a vertex is the number of incident edges\n\nIn a directed graph we talk of the out-degree &amp; the in-degree, being respectively the number of edges entering that vertex, &amp; the number of edges leaving that vertex. You may occasionally see talk of simply &#39;the degree&#39; of vertices in directed graphs; normally that would be the sum of the in-degree plus the out-degree", 
+          "anon": "no", 
+          "created": "2017-10-17T16:33:48Z", 
+          "uid": "i4hdvab632i522", 
+          "subject": ""
+        }, 
+        {
+          "content": "The way I understand it is the degree of a vertex corresponds to the number of inbound edges. A source vertex is degree 0.\u00a0", 
+          "anon": "no", 
+          "created": "2017-10-17T16:12:58Z", 
+          "uid": "i4j6wvmu7he6v1", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 745, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw4"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 2, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw4", 
+    "student"
+  ], 
+  "created": "2017-10-17T15:44:22Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145141837, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>DPV 3.6. 3.9 , 3.26, 3.27\u00a0 has this concept of vertices having degree.\u00a0</p>\n<p>3.6 explains degree is nothing but number of\u00a0neighbors/edges.\u00a0</p>\n<p>Is that the general meaning of degree in graphs ?\u00a0</p>\n<p></p>", 
+      "anon": "no", 
+      "created": "2017-10-17T15:44:22Z", 
+      "uid": "hz03lfq2z6r446", 
+      "subject": "DPV 3.6 and Degree"
+    }
+  ]
+}

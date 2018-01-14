@@ -1,0 +1,1041 @@
+{
+  "status": "active", 
+  "unique_views": 247, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-26T02:56:32Z", 
+      "data": "j810g2qij6g5h2", 
+      "uid": "hqa9hej5ny2gl"
+    }, 
+    {
+      "to": "j810g2odkjv5h1", 
+      "anon": "no", 
+      "when": "2017-09-26T03:13:43Z", 
+      "type": "followup", 
+      "uid": "i18w67avy8e1uk"
+    }, 
+    {
+      "uid": "i4nkipeofrkrz", 
+      "type": "s_answer", 
+      "when": "2017-09-26T11:40:27Z", 
+      "to": "j810g2odkjv5h1", 
+      "anon": "no", 
+      "data": "j81j5u4icmu6ve"
+    }, 
+    {
+      "to": "j810g2odkjv5h1", 
+      "anon": "no", 
+      "when": "2017-09-26T11:40:58Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "uid": "gns9oa0pgsO", 
+      "type": "i_answer", 
+      "when": "2017-09-26T13:05:45Z", 
+      "to": "j810g2odkjv5h1", 
+      "anon": "no", 
+      "data": "j81m7jcao7w6wu"
+    }, 
+    {
+      "to": "j810g2odkjv5h1", 
+      "anon": "no", 
+      "when": "2017-09-26T13:52:06Z", 
+      "type": "feedback", 
+      "uid": "hz03lfq2z6r446"
+    }, 
+    {
+      "to": "j810g2odkjv5h1", 
+      "anon": "no", 
+      "when": "2017-09-26T14:02:59Z", 
+      "type": "feedback", 
+      "uid": "i4m8xop4ndthr"
+    }, 
+    {
+      "to": "j810g2odkjv5h1", 
+      "anon": "no", 
+      "when": "2017-09-26T15:06:11Z", 
+      "type": "feedback", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j810g2odkjv5h1", 
+      "anon": "no", 
+      "when": "2017-09-26T15:55:31Z", 
+      "type": "feedback", 
+      "uid": "hqa9hej5ny2gl"
+    }, 
+    {
+      "to": "j810g2odkjv5h1", 
+      "anon": "no", 
+      "when": "2017-09-26T16:04:26Z", 
+      "type": "feedback", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "to": "j810g2odkjv5h1", 
+      "anon": "no", 
+      "when": "2017-09-26T16:47:53Z", 
+      "type": "feedback", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j810g2odkjv5h1", 
+      "anon": "no", 
+      "when": "2017-09-26T16:50:42Z", 
+      "type": "feedback", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-09-26T17:38:18Z", 
+      "data": "j81vy1b2lxj7dk", 
+      "uid": "is653ar0mae7ei"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-09-26T17:44:13Z", 
+      "data": "j81w5mttrwv5pt", 
+      "uid": "is653ar0mae7ei"
+    }, 
+    {
+      "to": "j810g2odkjv5h1", 
+      "anon": "no", 
+      "when": "2017-09-26T17:48:06Z", 
+      "type": "feedback", 
+      "uid": "idi5567wFgu"
+    }, 
+    {
+      "to": "j810g2odkjv5h1", 
+      "anon": "no", 
+      "when": "2017-09-26T17:59:47Z", 
+      "type": "feedback", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j810g2odkjv5h1", 
+      "anon": "no", 
+      "when": "2017-09-26T19:28:47Z", 
+      "type": "feedback", 
+      "uid": "idi5567wFgu"
+    }, 
+    {
+      "to": "j810g2odkjv5h1", 
+      "anon": "no", 
+      "when": "2017-09-27T03:53:13Z", 
+      "type": "feedback", 
+      "uid": "idffdmbb26m6lw"
+    }, 
+    {
+      "to": "j810g2odkjv5h1", 
+      "anon": "no", 
+      "when": "2017-09-27T08:35:18Z", 
+      "type": "feedback", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j810g2odkjv5h1", 
+      "anon": "no", 
+      "when": "2017-09-27T13:58:31Z", 
+      "type": "feedback", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "to": "j810g2odkjv5h1", 
+      "anon": "no", 
+      "when": "2017-09-28T03:49:15Z", 
+      "type": "followup", 
+      "uid": "hv5exp71kfz754"
+    }, 
+    {
+      "to": "j810g2odkjv5h1", 
+      "anon": "no", 
+      "when": "2017-09-28T05:27:14Z", 
+      "type": "feedback", 
+      "uid": "ij7kfryk8783rj"
+    }, 
+    {
+      "to": "j810g2odkjv5h1", 
+      "anon": "no", 
+      "when": "2017-09-30T22:11:29Z", 
+      "type": "feedback", 
+      "uid": "ij7kflqnsgm3av"
+    }, 
+    {
+      "to": "j810g2odkjv5h1", 
+      "anon": "no", 
+      "when": "2017-10-02T12:38:37Z", 
+      "type": "feedback", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j810g2odkjv5h1", 
+      "anon": "no", 
+      "when": "2017-10-02T15:26:29Z", 
+      "type": "followup", 
+      "uid": "ij7curo6tdo360"
+    }, 
+    {
+      "to": "j810g2odkjv5h1", 
+      "anon": "no", 
+      "when": "2017-10-02T15:27:44Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j810g2odkjv5h1", 
+      "anon": "no", 
+      "when": "2017-10-02T15:35:04Z", 
+      "type": "feedback", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "to": "j810g2odkjv5h1", 
+      "anon": "no", 
+      "when": "2017-10-02T15:36:16Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j810g2odkjv5h1", 
+      "anon": "no", 
+      "when": "2017-10-02T15:37:48Z", 
+      "type": "feedback", 
+      "uid": "hvfeyx7qglF"
+    }, 
+    {
+      "to": "j810g2odkjv5h1", 
+      "anon": "no", 
+      "when": "2017-10-02T15:41:04Z", 
+      "type": "feedback", 
+      "uid": "ij7curo6tdo360"
+    }, 
+    {
+      "to": "j810g2odkjv5h1", 
+      "anon": "no", 
+      "when": "2017-10-02T15:42:17Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j810g2odkjv5h1", 
+      "anon": "no", 
+      "when": "2017-10-02T15:48:20Z", 
+      "type": "feedback", 
+      "uid": "ij7curo6tdo360"
+    }, 
+    {
+      "to": "j810g2odkjv5h1", 
+      "anon": "no", 
+      "when": "2017-10-02T15:56:50Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j810g2odkjv5h1", 
+      "anon": "no", 
+      "when": "2017-10-02T15:58:51Z", 
+      "type": "feedback", 
+      "uid": "ij7curo6tdo360"
+    }, 
+    {
+      "to": "j810g2odkjv5h1", 
+      "anon": "no", 
+      "when": "2017-10-02T16:00:13Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j810g2odkjv5h1", 
+      "anon": "no", 
+      "when": "2017-10-02T16:01:02Z", 
+      "type": "feedback", 
+      "uid": "ij7curo6tdo360"
+    }, 
+    {
+      "to": "j810g2odkjv5h1", 
+      "anon": "no", 
+      "when": "2017-10-02T23:43:05Z", 
+      "type": "feedback", 
+      "uid": "hqa46xmysgg2af"
+    }, 
+    {
+      "to": "j810g2odkjv5h1", 
+      "anon": "no", 
+      "when": "2017-10-02T23:47:18Z", 
+      "type": "feedback", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j810g2odkjv5h1", 
+      "anon": "no", 
+      "when": "2017-10-02T23:50:31Z", 
+      "type": "feedback", 
+      "uid": "gns9oa0pgsO"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j810g2odkjv5h1", 
+  "bookmarked": 18, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-09-26T03:13:43Z", 
+      "no_upvotes": 0, 
+      "uid": "i18w67avy8e1uk", 
+      "created": "2017-09-26T03:13:43Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j81125zh4u45fh", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-26T11:40:58Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-09-26T11:40:58Z", 
+          "type": "feedback", 
+          "id": "j81j6i1jn2570u", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>For Type 1 (Task 1), yes, we need to generate the seeds.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-26T13:52:06Z", 
+          "uid": "hz03lfq2z6r446", 
+          "created": "2017-09-26T13:52:06Z", 
+          "type": "feedback", 
+          "id": "j81nv4pmyws2mq", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>For task1 we cannot use config[&#39;seeds&#39;), correct?</p>\n<p>We select our own s_i\u00a0and x.\u00a0</p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-26T14:02:59Z", 
+          "uid": "i4m8xop4ndthr", 
+          "created": "2017-09-26T14:02:59Z", 
+          "type": "feedback", 
+          "id": "j81o94x5zev6gg", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Just to be clear. By default in main()\u00a0testConfigHashType2.txt is being parsed. So there is no self.seeds initiated, instead there\u00a0are self.a and self.b.</p>\n<p>To use self.seeds, we need to run bloom.py with parameter: -c\u00a0testConfigHashType1.txt</p>\n<p></p>\n<p>for the testing, should we use the seeds from\u00a0testConfigHashType1.txt or generate our own?</p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-26T15:06:11Z", 
+          "uid": "gns9oa0pgsO", 
+          "created": "2017-09-26T15:06:11Z", 
+          "type": "feedback", 
+          "id": "j81qiewxz9h6r", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#34;To use self.seeds, we need to run bloom.py with parameter :\u00a0-c\u00a0testConfigHashType1.txt&#34;</p>\n<p>that is correct - note, this will only be of help to you if you wish to test the arithmetic of your type 1 hash function (for tasks 1 and 3 you must generate your seeds).<br /><br />my suggestion is to test both functions at first with provided seeds and data, and once you have both hash types working then you need to verify that your random seed generation is working correctly.</p>\n<p></p>\n<p>NOTE : you should -generate- seeds for the list of seeds used for hash type 1 - 1 for each hash function you will be using in your bloom filter.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-26T15:55:31Z", 
+          "uid": "hqa9hej5ny2gl", 
+          "created": "2017-09-26T15:55:31Z", 
+          "type": "feedback", 
+          "id": "j81s9u8ycwc7d9", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thanks, I will re-run my experiment on hash type 1 with seeds generated from the &#34;universe&#34; instead of just 1..n. \u00a0It would be interesting to compare the results from the two for my own curiosity.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-26T16:04:26Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-09-26T16:04:26Z", 
+          "type": "feedback", 
+          "id": "j81slbknn316sc", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#34;for tasks 1 &amp; 3 you must generate your seeds&#34; seems to contradict the rubric &#34;The configuration files contain data describing the format of the Bloom filter to be built, as well as precomputed seeds and coefficients used by the hash function calculations for either type of hash function (as described in Task 1)&#34;<br /><br />Incidentally, the rubric itself seems not to specify a range for $$k$$, though the config files both include $$k=13$$, should we be considering only $$1 \\le k \\le 13$$ then?<br /><br /><strong attention=\"gns9oa0pgsO\">&#64;john turner</strong> \u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-26T16:47:53Z", 
+          "uid": "gns9oa0pgsO", 
+          "created": "2017-09-26T16:47:53Z", 
+          "type": "feedback", 
+          "id": "j81u57cks255dw", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>The configuration files contain data only specifically intended for task 2.\u00a0</p>\n<p></p>\n<p>&#34;as well as precomputed seeds and coefficients used by the hash function calculations for either type of hash function (as described in Task 1)&#34; means that the seeds and coefficients in the config files are used by the hash functions in the manner described in the task 1 explanation.</p>\n<p></p>\n<p>as for k :</p>\n<p>for task 1 you should use a single hash function to plot its responses.</p>\n<p></p>\n<p>task 2 has the # of hash functions strictly stated in the config files.\u00a0</p>\n<p></p>\n<p>task 3 explicitly states in the assignment how k should vary as you run your trials.</p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-26T16:50:42Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-09-26T16:50:42Z", 
+          "type": "feedback", 
+          "id": "j81u8tmo7lvb2", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Thanks for the clarifications :-)"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-26T17:48:06Z", 
+          "uid": "idi5567wFgu", 
+          "created": "2017-09-26T17:48:06Z", 
+          "type": "feedback", 
+          "id": "j81wampuncn27w", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Ok. Task 2 and Task 3 are clear.  What is Task 1? We don&#39;t instantiate bloom filter for task 1, correct? We use single hash function to plot what responses? I am missing something here for sure."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-26T17:59:47Z", 
+          "uid": "gns9oa0pgsO", 
+          "created": "2017-09-26T17:59:47Z", 
+          "type": "feedback", 
+          "id": "j81wpo14fg05ah", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>no\u00a0need for bloom filter in task 1, that is correct.\u00a0 you just implement the 2\u00a0hash functions.</p>\n<p></p>\n<p>for the plots, you use each type of hash function (on the same data sets) to plot how the hash function hashes the data.\u00a0 so if your hash function was 2x, and your data was 1,2,3 your plot would be the points (1,2) (2,4) and (3,6).\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-26T19:28:47Z", 
+          "uid": "idi5567wFgu", 
+          "created": "2017-09-26T19:28:47Z", 
+          "type": "feedback", 
+          "id": "j81zw3qdzczt", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Got it. Thanks, John."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-27T03:53:13Z", 
+          "uid": "idffdmbb26m6lw", 
+          "created": "2017-09-27T03:53:13Z", 
+          "type": "feedback", 
+          "id": "j82hwtf157v4l3", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>How do you select random seeds universe?\u00a0</p>\n<p></p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-27T08:35:18Z", 
+          "uid": "gns9oa0pgsO", 
+          "created": "2017-09-27T08:35:18Z", 
+          "type": "feedback", 
+          "id": "j82rzl3zsxd2de", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>not sure i understand the question.\u00a0 if you are asking how do you select the random seed that you use for the type 1 hash function, you use random()</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-27T13:58:31Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-09-27T13:58:31Z", 
+          "type": "feedback", 
+          "id": "j833j8fa80c71d", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "I think he may be asking the value range for the random seeds; my answer would be some sensible value range that is meaningful when added to the normal value range for the $$x_i$$\n\nIncidentally, Boji, you may notice from the <a href=\"https://docs.scipy.org/doc/numpy/reference/generated/numpy.random.RandomState.html#numpy.random.RandomState\">Numpy Documentation</a> that the seed value, after addition, must be from $$0$$ to $$2^{32} - 1$$ inclusive\n\n<pre>&gt;&gt;&gt; import numpy.random as rd\n&gt;&gt;&gt; rd.seed(2**33)\nTraceback (most recent call last):\n  File &#34;&lt;stdin&gt;&#34;, line 1, in &lt;module&gt;\n  File &#34;mtrand.pyx&#34;, line 680, in mtrand.RandomState.seed (numpy/random/mtrand/mtrand.c:13743)\nValueError: Seed must be between 0 and 2**32 - 1</pre>"
+        }
+      ], 
+      "subject": "<p>I am not clear about the HashType1 instruction:</p>\n<p></p>\n<pre>&#34;&#34;&#34;\nReturn list of k hashes of the passed integer, using self.seeds[i]&#43;x to \n...\n&#34;&#34;&#34;</pre>\n<p></p>\n<p><strong>self.seeds</strong> doesn&#39;t seem to be available to us. Are we suppose to generate random and independent seeds ourselves?</p>"
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-26T11:40:27Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j81j5u4ejek6vd", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>The instructions say that your hash function $$h(x) = r(s_i &#43; x)$$. This means that the generator should be seeded at $$s_i &#43; x$$. Seeds don&#39;t work with a range, you just need to pick a seed and that&#39;s it. In this case, your seed should be\u00a0$$s_i &#43; x$$.</p>\n<p></p>\n<p>After you seed the generator, you need to generate the random value. This needs a range. Remember that you need to make sure all your values are $$\\leq n$$. Think about what is the range you need to specify to make sure you meet this condition.</p>", 
+          "anon": "no", 
+          "created": "2017-09-26T17:44:13Z", 
+          "uid": "is653ar0mae7ei", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>The instructions say that your hash function $$h(x) = r(s_i &#43; x)$$. This means that the generator should be seeded at $$s_i &#43; x$$. Seeds don&#39;t work with a range, you just need to pick a seed and that&#39;s it. In this case, your seed should be\u00a0$$s_i &#43; x$$.</p>\n<p></p>\n<p>After you seed the generator, you need to generate the random value. This needs a range. Remember that you need to make sure all your values are $$\\leq n$$. Think about what is the range you need to specify to make sure you meet this condition.</p>\n<p></p>\n<p>Edit by SP: To answer the question, I would assume the range of the seed should be the entire allowable range for the generator. For numpy.random, that is the universe of unsigned 32-bit ints (<a href=\"https://docs.scipy.org/doc/numpy/reference/generated/numpy.random.seed.html\">https://docs.scipy.org/doc/numpy/reference/generated/numpy.random.seed.html</a>).</p>", 
+          "anon": "no", 
+          "created": "2017-09-26T17:38:18Z", 
+          "uid": "is653ar0mae7ei", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>The instructions say that your hash function $$h(x) = r(s_i &#43; x)$$. This means that the generator should be seeded at $$s_i &#43; x$$. Seeds don&#39;t work with a range, you just need to pick a seed and that&#39;s it. In this case, your seed should be\u00a0$$s_i &#43; x$$.</p>\n<p></p>\n<p>After you seed the generator, you need to generate the random value. This needs a range. Remember that you need to make sure all your values are $$\\leq n$$. Think about what is the range you need to specify to make sure you meet this condition.</p>\n<p></p>\n<p></p>", 
+          "anon": "no", 
+          "created": "2017-09-26T11:40:27Z", 
+          "uid": "i4nkipeofrkrz", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-26T13:05:45Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "i18w67avy8e1uk", 
+        "hqa9hej5ny2gl", 
+        "hq9zldq5n9mvn"
+      ], 
+      "id": "j81m7jc84zh6wt", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Shihgian Lee", 
+          "admin": false, 
+          "photo": "1420394909_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i18w67avy8e1uk"
+        }, 
+        {
+          "name": "Qingyun Liu", 
+          "admin": false, 
+          "photo": "1495251168_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hqa9hej5ny2gl"
+        }, 
+        {
+          "name": "Brian Trinh", 
+          "admin": false, 
+          "photo": null, 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hq9zldq5n9mvn"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>yes, for hash 1 generate seeds randomly from the universe for tasks 1 and 3 (the seeds are provided for both hash types for task 2).</p>", 
+          "anon": "no", 
+          "created": "2017-09-26T13:05:45Z", 
+          "uid": "gns9oa0pgsO", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-28T03:49:15Z", 
+      "no_upvotes": 0, 
+      "uid": "hv5exp71kfz754", 
+      "created": "2017-09-28T03:49:15Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j83x7kg78gh5t7", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-28T05:27:14Z", 
+          "uid": "ij7kfryk8783rj", 
+          "created": "2017-09-28T05:27:14Z", 
+          "type": "feedback", 
+          "id": "j840pkp95qg4a7", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I am planning to use custom config dictionary with k = 1 and genSeed as None to test task 1.</p>\n<p></p>\n<p><code>numpy.random.</code><code>seed</code>(<em>seed=None</em>)</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-30T22:11:29Z", 
+          "uid": "ij7kflqnsgm3av", 
+          "created": "2017-09-30T22:11:29Z", 
+          "type": "feedback", 
+          "id": "j87vgrdgr4957y", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>You could also just override\u00a0config[&#39;genSeed&#39;] in the task1(configData) function to be None. Less to change.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-02T12:38:37Z", 
+          "uid": "gns9oa0pgsO", 
+          "created": "2017-10-02T12:38:37Z", 
+          "type": "feedback", 
+          "id": "j8a5vr64kgpz7", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>just in case it wasn&#39;t seen elsewhere, the random.seed(config[&#39;genSeed&#39;]) in each of the hash function constructors is present for repeatability - as you noticed, setting this to the same value will generate the same seeds.\u00a0 you can set it to None,\u00a0or you can just comment the line out, for task 1 and task 3.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-02T23:43:05Z", 
+          "uid": "hqa46xmysgg2af", 
+          "created": "2017-10-02T23:43:05Z", 
+          "type": "feedback", 
+          "id": "j8atm91cea51uu", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>if i set configData[&#39;genseeds&#39;]=None in task1</p>\n<p></p>\n<p>i got below error. Do i have to set\u00a0\u00a0config[&#39;seeds&#39;] too?</p>\n<p></p>\n<p>File &#34;/Users/apatel/Downloads/CS8803-GA/workspace-cs6262/test2/bloom.py&#34;, line 38, in __init__</p>\n<p>\u00a0 \u00a0 self.seeds = config[&#39;seeds&#39;]</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-02T23:50:31Z", 
+          "uid": "gns9oa0pgsO", 
+          "created": "2017-10-02T23:50:31Z", 
+          "type": "feedback", 
+          "id": "j8atvt27f827a1", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>yes, you cannot use the seeds from the config for task 1. you must generate your own seeds.</p>"
+        }
+      ], 
+      "subject": "<p>For task 1, it is coded to use &#39;genSeed&#39; which is used as the seed.\u00a0 I saw it mentioned that we shouldn&#39;t use the configuration files for Task 1.\u00a0 I guess this means that we should comment this out and come up with our seeds some other way?\u00a0 The seeds always come out the same if using genSeed.\u00a0 Is this what we want?\u00a0\u00a0</p>\n<p></p>\n<pre>random.seed(config[&#39;genSeed&#39;])</pre>\n<p></p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-02T15:26:29Z", 
+      "no_upvotes": 0, 
+      "uid": "ij7curo6tdo360", 
+      "created": "2017-10-02T15:26:29Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8abvma39rp3g4", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-02T15:27:44Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-10-02T15:27:44Z", 
+          "type": "feedback", 
+          "id": "j8abx87bkdk7ls", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Are you referring to the values in the input.txt file?\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-02T15:35:04Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-10-02T15:35:04Z", 
+          "type": "feedback", 
+          "id": "j8ac6nqgoh05m2", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<img src=\"https://assets.horseheadhuffer.com/hashed_silo_content/silo_content/1636/resized/findx.jpg\" />"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-02T15:36:16Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-10-02T15:36:16Z", 
+          "type": "feedback", 
+          "id": "j8ac87pg9uz715", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>lol</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-02T15:37:48Z", 
+          "uid": "hvfeyx7qglF", 
+          "created": "2017-10-02T15:37:48Z", 
+          "type": "feedback", 
+          "id": "j8aca6desql4xa", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I thought about this exact cartoon when we were asked to find x in an infinite array, except I thought about drawing an arrow to the X in the question.\u00a0 :D\u00a0\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-02T15:41:04Z", 
+          "uid": "ij7curo6tdo360", 
+          "created": "2017-10-02T15:41:04Z", 
+          "type": "feedback", 
+          "id": "j8acedlcdjr1ro", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I guess I asked for that cartoon...but in all seriousness though, config dict has:</p>\n<p></p>\n<pre>{&#39;task&#39;: 1, &#39;inFileName&#39;: &#39;testInput.txt&#39;, &#39;name&#39;: &#39;Type 1 hash&#39;, &#39;autograde&#39;: 1, &#39;outFileName&#39;: &#39;testOutput.txt&#39;, &#39;k&#39;: 13, &#39;m&#39;: 100000, &#39;n&#39;: 1917017, &#39;seeds&#39;: [1747146, 584709, 1816585, 1757686, 1606647, 628461, 184539, 1142625, 1467453, 315879, 1609062, 694680, 494140], &#39;valFileName&#39;: &#39;validResHashType1.txt&#39;, &#39;configFileName&#39;: &#39;testConfigHashType1.txt&#39;, &#39;N&#39;: 2147483647, &#39;type&#39;: 1, &#39;genSeed&#39;: 1572699787, &#39;studentName&#39;: &#39;GT&#39;}</pre>\n<p>I was expecting &#39;x&#39; to be pulled from there as I would imagine to be pulled from testInput.txt</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-02T15:42:17Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-10-02T15:42:17Z", 
+          "type": "feedback", 
+          "id": "j8acfy6yps8oq", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I&#39;m still not 100% sure of what exactly you are referring to, but I suspect that $$x$$ is referring to every single value in the input file (the value that you want to hash).</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-02T15:48:20Z", 
+          "uid": "ij7curo6tdo360", 
+          "created": "2017-10-02T15:48:20Z", 
+          "type": "feedback", 
+          "id": "j8acnpw58zu3ts", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Let me try to rephrase.</p>\n<p></p>\n<p>The hash function is expecting &#39;x&#39;. However, I don&#39;t see where &#39;x&#39; is define/set in the code.</p>\n<p></p>\n<p>I was expecting config{} to have a &#39;x&#39; key. We pass in an inputFile, but I don&#39;t see that data is being pulled from it.\u00a0</p>\n<p></p>\n<p>Are we supposed to pull from it ourselves, or did I miss line of code that is setting &#39;x&#39; to some value from the input file?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-02T15:56:50Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-10-02T15:56:50Z", 
+          "type": "feedback", 
+          "id": "j8acyn6jcia5fp", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Oh, ok. Then yes, x refers to every value that you need to hash. Every x is every value of the input file.</p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-02T15:58:51Z", 
+          "uid": "ij7curo6tdo360", 
+          "created": "2017-10-02T15:58:51Z", 
+          "type": "feedback", 
+          "id": "j8ad19048413ph", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>So then we write the code for reading the input file and then selecting a random &#39;x&#39;? Is this correct?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-02T16:00:13Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-10-02T16:00:13Z", 
+          "type": "feedback", 
+          "id": "j8ad3066ma3hj", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>No, no. No random x.</p>\n<p></p>\n<p>You need to hash every single value in the input file. You need to read the file and hash every value of it, not just\u00a0one random value.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-02T16:01:02Z", 
+          "uid": "ij7curo6tdo360", 
+          "created": "2017-10-02T16:01:02Z", 
+          "type": "feedback", 
+          "id": "j8ad42dh95z5ui", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Ok, thank you Santiago!</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-02T23:47:18Z", 
+          "uid": "gns9oa0pgsO", 
+          "created": "2017-10-02T23:47:18Z", 
+          "type": "feedback", 
+          "id": "j8atro5stgw1xy", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>the code to do this is already in the program, for task 2 and runs as it is expected to - all you have to do is implement getHashList in your hash functions, and add and contains in your bloom filter.\u00a0 please read through the existing code and understand what it does, so you don&#39;t do something you don&#39;t need to do.\u00a0</p>"
+        }
+      ], 
+      "subject": "<p><strong attention=\"gns9oa0pgsO\">&#64;john turner</strong> \u00a0</p>\n<p></p>\n<p>I was reviewing the code but I can&#39;t seem spot where &#39;x&#39; is defined? The instructions mention &#39;x&#39; input for the types of hash functions in Task 1. I am guessing &#39;x&#39; would be the a value from the universe set &#39;U&#39;. If so, where that number being set?</p>\n<p></p>\n<p>In short, can you please explain what is &#39;x&#39; and how &#39;x&#39; set?\u00a0</p>\n<p></p>\n<p>Thanks.</p>"
+    }
+  ], 
+  "nr": 443, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "project"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 12, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "project", 
+    "student"
+  ], 
+  "created": "2017-09-26T02:56:32Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145216108, 
+  "tag_good": [
+    {
+      "name": "Silviu Pitis", 
+      "admin": false, 
+      "photo": "1471876944_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "is653ar0mae7ei"
+    }, 
+    {
+      "name": "abarysevich", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4t8eakz3ex6lk"
+    }, 
+    {
+      "name": "Zack Gow", 
+      "admin": false, 
+      "photo": "1476241357_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hyzyc8nwswo6z5"
+    }
+  ], 
+  "tag_good_arr": [
+    "is653ar0mae7ei", 
+    "i4t8eakz3ex6lk", 
+    "hyzyc8nwswo6z5"
+  ], 
+  "history": [
+    {
+      "content": "<p>Unlike hash type 2 where the instruction explicitly specified the seed range for the $$a_i$$ and $$b_i$$, it&#39;s not clear to me from the instructions what range the type 1 hash seed\u00a0$$s_i$$should be in? \u00a0From the provided sample configure data, it seems the high of the seeds is probably the n value, but not sure if that&#39;s intended or it should/could be any positive integer.</p>\n<p>Could we get some clarification?</p>", 
+      "anon": "no", 
+      "created": "2017-09-26T02:56:32Z", 
+      "uid": "hqa9hej5ny2gl", 
+      "subject": "What range should the type 1 hash seed Si be in?"
+    }
+  ]
+}

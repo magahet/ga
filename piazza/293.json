@@ -1,0 +1,1566 @@
+{
+  "status": "active", 
+  "unique_views": 342, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-13T21:56:36Z", 
+      "data": "j7jkg4q7nzc3el", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j7jkg4q6lux3ek", 
+      "anon": "no", 
+      "when": "2017-09-13T22:10:22Z", 
+      "type": "followup", 
+      "uid": "idg61g3ot1qp6"
+    }, 
+    {
+      "to": "j7jkg4q6lux3ek", 
+      "anon": "no", 
+      "when": "2017-09-13T22:10:51Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j7jkg4q6lux3ek", 
+      "anon": "no", 
+      "when": "2017-09-13T22:34:02Z", 
+      "type": "feedback", 
+      "uid": "hyzyc8nwswo6z5"
+    }, 
+    {
+      "to": "j7jkg4q6lux3ek", 
+      "anon": "no", 
+      "when": "2017-09-13T22:34:09Z", 
+      "type": "followup", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j7jkg4q6lux3ek", 
+      "anon": "no", 
+      "when": "2017-09-13T22:34:17Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j7jkg4q6lux3ek", 
+      "anon": "no", 
+      "when": "2017-09-13T22:34:41Z", 
+      "type": "feedback", 
+      "uid": "i4ks94q1bHk"
+    }, 
+    {
+      "to": "j7jkg4q6lux3ek", 
+      "anon": "no", 
+      "when": "2017-09-13T22:36:50Z", 
+      "type": "feedback", 
+      "uid": "hvvxmpxfuyb2eo"
+    }, 
+    {
+      "to": "j7jkg4q6lux3ek", 
+      "anon": "no", 
+      "when": "2017-09-13T22:42:24Z", 
+      "type": "feedback", 
+      "uid": "i4iqepuw3vi2q5"
+    }, 
+    {
+      "to": "j7jkg4q6lux3ek", 
+      "anon": "no", 
+      "when": "2017-09-13T22:54:58Z", 
+      "type": "followup", 
+      "uid": "i8597yy2i2f1z6"
+    }, 
+    {
+      "to": "j7jkg4q6lux3ek", 
+      "anon": "no", 
+      "when": "2017-09-13T23:18:03Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j7jkg4q6lux3ek", 
+      "anon": "no", 
+      "when": "2017-09-13T23:53:56Z", 
+      "type": "feedback", 
+      "uid": "i4j6x8uvfv6743"
+    }, 
+    {
+      "to": "j7jkg4q6lux3ek", 
+      "anon": "no", 
+      "when": "2017-09-14T00:31:26Z", 
+      "type": "followup", 
+      "uid": "idgjs16yZ4K"
+    }, 
+    {
+      "to": "j7jkg4q6lux3ek", 
+      "anon": "no", 
+      "when": "2017-09-14T00:34:46Z", 
+      "type": "feedback", 
+      "uid": "idi5567wFgu"
+    }, 
+    {
+      "to": "j7jkg4q6lux3ek", 
+      "anon": "no", 
+      "when": "2017-09-14T00:59:33Z", 
+      "type": "feedback", 
+      "uid": "hz0jkj9dnctqp"
+    }, 
+    {
+      "to": "j7jkg4q6lux3ek", 
+      "anon": "no", 
+      "when": "2017-09-14T01:07:07Z", 
+      "type": "followup", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j7jkg4q6lux3ek", 
+      "anon": "no", 
+      "when": "2017-09-14T01:09:11Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j7jkg4q6lux3ek", 
+      "anon": "no", 
+      "when": "2017-09-14T01:13:11Z", 
+      "type": "followup", 
+      "uid": "i4jbu18kld03sy"
+    }, 
+    {
+      "to": "j7jkg4q6lux3ek", 
+      "anon": "no", 
+      "when": "2017-09-14T01:53:46Z", 
+      "type": "feedback", 
+      "uid": "i8597yy2i2f1z6"
+    }, 
+    {
+      "to": "j7jkg4q6lux3ek", 
+      "anon": "no", 
+      "when": "2017-09-14T02:13:57Z", 
+      "type": "feedback", 
+      "uid": "hvvxmpxfuyb2eo"
+    }, 
+    {
+      "to": "j7jkg4q6lux3ek", 
+      "anon": "no", 
+      "when": "2017-09-14T03:37:06Z", 
+      "type": "feedback", 
+      "uid": "hkjzzued3ef4xh"
+    }, 
+    {
+      "to": "j7jkg4q6lux3ek", 
+      "anon": "no", 
+      "when": "2017-09-14T04:08:46Z", 
+      "type": "feedback", 
+      "uid": "i18w67avy8e1uk"
+    }, 
+    {
+      "to": "j7jkg4q6lux3ek", 
+      "anon": "no", 
+      "when": "2017-09-14T08:42:05Z", 
+      "type": "feedback", 
+      "uid": "idfpdy5qlbr19s"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-14T15:08:11Z", 
+      "data": "j7klaqxrcq25v0", 
+      "uid": "hju4w9odatf30"
+    }, 
+    {
+      "to": "j7jkg4q6lux3ek", 
+      "anon": "no", 
+      "when": "2017-09-15T01:50:55Z", 
+      "type": "feedback", 
+      "uid": "hyxsfi1o7md2rh"
+    }, 
+    {
+      "to": "j7jkg4q6lux3ek", 
+      "anon": "no", 
+      "when": "2017-09-15T17:54:56Z", 
+      "type": "feedback", 
+      "uid": "idfwkf5jgsm3gg"
+    }, 
+    {
+      "to": "j7jkg4q6lux3ek", 
+      "anon": "no", 
+      "when": "2017-09-15T19:06:55Z", 
+      "type": "followup", 
+      "uid": "i4fxg6tfzh211n"
+    }, 
+    {
+      "to": "j7jkg4q6lux3ek", 
+      "anon": "no", 
+      "when": "2017-09-15T19:08:56Z", 
+      "type": "feedback", 
+      "uid": "i4fxg6tfzh211n"
+    }, 
+    {
+      "to": "j7jkg4q6lux3ek", 
+      "anon": "no", 
+      "when": "2017-09-15T19:49:55Z", 
+      "type": "feedback", 
+      "uid": "hz03lfq2z6r446"
+    }, 
+    {
+      "to": "j7jkg4q6lux3ek", 
+      "anon": "no", 
+      "when": "2017-09-15T20:38:21Z", 
+      "type": "feedback", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "to": "j7jkg4q6lux3ek", 
+      "anon": "no", 
+      "when": "2017-09-15T21:05:48Z", 
+      "type": "feedback", 
+      "uid": "i4fxg6tfzh211n"
+    }, 
+    {
+      "to": "j7jkg4q6lux3ek", 
+      "anon": "no", 
+      "when": "2017-09-15T21:12:10Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j7jkg4q6lux3ek", 
+      "anon": "no", 
+      "when": "2017-09-15T21:29:05Z", 
+      "type": "feedback", 
+      "uid": "i4fxg6tfzh211n"
+    }, 
+    {
+      "to": "j7jkg4q6lux3ek", 
+      "anon": "no", 
+      "when": "2017-09-17T15:12:03Z", 
+      "type": "followup", 
+      "uid": "hviwm6agQCk"
+    }, 
+    {
+      "to": "j7jkg4q6lux3ek", 
+      "anon": "no", 
+      "when": "2017-09-17T15:18:12Z", 
+      "type": "feedback", 
+      "uid": "i4j6x2fgaoy6zg"
+    }, 
+    {
+      "to": "j7jkg4q6lux3ek", 
+      "anon": "no", 
+      "when": "2017-09-17T16:01:05Z", 
+      "type": "feedback", 
+      "uid": "hqa46xpsbzd2aj"
+    }, 
+    {
+      "to": "j7jkg4q6lux3ek", 
+      "anon": "no", 
+      "when": "2017-09-17T16:10:48Z", 
+      "type": "followup", 
+      "uid": "i4gzn4buf4Q"
+    }, 
+    {
+      "to": "j7jkg4q6lux3ek", 
+      "anon": "no", 
+      "when": "2017-09-17T17:01:45Z", 
+      "type": "followup", 
+      "uid": "hz2wlft5i565vr"
+    }, 
+    {
+      "to": "j7jkg4q6lux3ek", 
+      "anon": "no", 
+      "when": "2017-09-17T17:12:00Z", 
+      "type": "followup", 
+      "uid": "ixwuhwpik046y6"
+    }, 
+    {
+      "to": "j7jkg4q6lux3ek", 
+      "anon": "no", 
+      "when": "2017-09-18T00:23:19Z", 
+      "type": "followup", 
+      "uid": "iddoxdl8kz72oc"
+    }, 
+    {
+      "to": "j7jkg4q6lux3ek", 
+      "anon": "no", 
+      "when": "2017-09-18T03:50:15Z", 
+      "type": "feedback", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "to": "j7jkg4q6lux3ek", 
+      "anon": "no", 
+      "when": "2017-09-18T05:27:01Z", 
+      "type": "feedback", 
+      "uid": "hqj2wfy7NUZ"
+    }, 
+    {
+      "to": "j7jkg4q6lux3ek", 
+      "anon": "no", 
+      "when": "2017-09-18T06:08:33Z", 
+      "type": "followup", 
+      "uid": "iddrzsd4r7kfm"
+    }, 
+    {
+      "to": "j7jkg4q6lux3ek", 
+      "anon": "no", 
+      "when": "2017-09-18T14:15:04Z", 
+      "type": "feedback", 
+      "uid": "hyxoabem4493kl"
+    }, 
+    {
+      "to": "j7jkg4q6lux3ek", 
+      "anon": "no", 
+      "when": "2017-09-18T15:48:50Z", 
+      "type": "feedback", 
+      "uid": "hz0jkj9dnctqp"
+    }, 
+    {
+      "to": "j7jkg4q6lux3ek", 
+      "anon": "no", 
+      "when": "2017-09-18T16:22:45Z", 
+      "type": "feedback", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "to": "j7jkg4q6lux3ek", 
+      "anon": "no", 
+      "when": "2017-09-18T18:48:43Z", 
+      "type": "feedback", 
+      "uid": "i9jej4o7cmx14m"
+    }, 
+    {
+      "to": "j7jkg4q6lux3ek", 
+      "anon": "no", 
+      "when": "2017-09-18T19:06:03Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j7jkg4q6lux3ek", 
+      "anon": "no", 
+      "when": "2017-09-18T19:06:52Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j7jkg4q6lux3ek", 
+      "anon": "no", 
+      "when": "2017-09-18T19:07:52Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j7jkg4q6lux3ek", 
+      "anon": "no", 
+      "when": "2017-09-18T19:12:29Z", 
+      "type": "feedback", 
+      "uid": "idg61g3ot1qp6"
+    }, 
+    {
+      "to": "j7jkg4q6lux3ek", 
+      "anon": "no", 
+      "when": "2017-09-18T22:17:24Z", 
+      "type": "feedback", 
+      "uid": "ixwuhwpik046y6"
+    }, 
+    {
+      "to": "j7jkg4q6lux3ek", 
+      "anon": "no", 
+      "when": "2017-09-18T22:41:54Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j7jkg4q6lux3ek", 
+      "anon": "no", 
+      "when": "2017-09-19T16:04:34Z", 
+      "type": "feedback", 
+      "uid": "hvvxmpxfuyb2eo"
+    }, 
+    {
+      "to": "j7jkg4q6lux3ek", 
+      "anon": "no", 
+      "when": "2017-09-19T17:40:53Z", 
+      "type": "feedback", 
+      "uid": "hkjzzued3ef4xh"
+    }, 
+    {
+      "to": "j7jkg4q6lux3ek", 
+      "anon": "no", 
+      "when": "2017-09-19T18:00:30Z", 
+      "type": "feedback", 
+      "uid": "hvvxmpxfuyb2eo"
+    }, 
+    {
+      "to": "j7jkg4q6lux3ek", 
+      "anon": "no", 
+      "when": "2017-09-20T03:47:33Z", 
+      "type": "followup", 
+      "uid": "i4iufvhm2nj4s1"
+    }, 
+    {
+      "to": "j7jkg4q6lux3ek", 
+      "anon": "no", 
+      "when": "2017-09-20T04:15:05Z", 
+      "type": "feedback", 
+      "uid": "hz0jkj9dnctqp"
+    }, 
+    {
+      "to": "j7jkg4q6lux3ek", 
+      "anon": "stud", 
+      "when": "2017-09-20T05:44:34Z", 
+      "type": "feedback"
+    }, 
+    {
+      "to": "j7jkg4q6lux3ek", 
+      "anon": "no", 
+      "when": "2017-09-20T14:28:09Z", 
+      "type": "feedback", 
+      "uid": "i4iufvhm2nj4s1"
+    }, 
+    {
+      "to": "j7jkg4q6lux3ek", 
+      "anon": "no", 
+      "when": "2017-09-20T15:14:17Z", 
+      "type": "feedback", 
+      "uid": "hz2wlft5i565vr"
+    }, 
+    {
+      "to": "j7jkg4q6lux3ek", 
+      "anon": "no", 
+      "when": "2017-09-21T18:52:28Z", 
+      "type": "followup", 
+      "uid": "i4fxg6tfzh211n"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-03T16:08:26Z", 
+      "data": "j8bstexymb31x7", 
+      "uid": "hkjzzued3ef4xh"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j7jkg4q6lux3ek", 
+  "bookmarked": 40, 
+  "tags": [
+    "exam", 
+    "instructor-note"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-09-13T22:10:22Z", 
+      "no_upvotes": 0, 
+      "uid": "idg61g3ot1qp6", 
+      "created": "2017-09-13T22:10:22Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7jkxu4hvvp532", 
+      "anon": "no", 
+      "bucket_name": "Week 9/10 - 9/16", 
+      "config": {}, 
+      "bucket_order": 8, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-13T22:10:51Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-09-13T22:10:51Z", 
+          "type": "feedback", 
+          "id": "j7jkygm099a3xr", 
+          "anon": "no", 
+          "bucket_name": "Week 9/10 - 9/16", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I agree. Thank you.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-13T22:34:02Z", 
+          "uid": "hyzyc8nwswo6z5", 
+          "created": "2017-09-13T22:34:02Z", 
+          "type": "feedback", 
+          "id": "j7jls9lekrh1vs", 
+          "anon": "no", 
+          "bucket_name": "Week 9/10 - 9/16", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#43;1\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-13T22:34:17Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-09-13T22:34:17Z", 
+          "type": "feedback", 
+          "id": "j7jlsl7z7dk7he", 
+          "anon": "no", 
+          "bucket_name": "Week 9/10 - 9/16", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#43;1</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-13T22:34:41Z", 
+          "uid": "i4ks94q1bHk", 
+          "created": "2017-09-13T22:34:41Z", 
+          "type": "feedback", 
+          "id": "j7jlt3x2hug7pp", 
+          "anon": "no", 
+          "bucket_name": "Week 9/10 - 9/16", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#43;\u221e, this is much appreciated.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-13T22:36:50Z", 
+          "uid": "hvvxmpxfuyb2eo", 
+          "created": "2017-09-13T22:36:50Z", 
+          "type": "feedback", 
+          "id": "j7jlvvq9fso1go", 
+          "anon": "no", 
+          "bucket_name": "Week 9/10 - 9/16", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#43;1</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-13T22:42:24Z", 
+          "uid": "i4iqepuw3vi2q5", 
+          "created": "2017-09-13T22:42:24Z", 
+          "type": "feedback", 
+          "id": "j7jm31gsd2ir3", 
+          "anon": "no", 
+          "bucket_name": "Week 9/10 - 9/16", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#43;1</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-14T00:34:46Z", 
+          "uid": "idi5567wFgu", 
+          "created": "2017-09-14T00:34:46Z", 
+          "type": "feedback", 
+          "id": "j7jq3iyc7fw4p", 
+          "anon": "no", 
+          "bucket_name": "Week 9/10 - 9/16", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#43;1</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-14T04:08:46Z", 
+          "uid": "i18w67avy8e1uk", 
+          "created": "2017-09-14T04:08:46Z", 
+          "type": "feedback", 
+          "id": "j7jxqqzv91f5kn", 
+          "anon": "no", 
+          "bucket_name": "Week 9/10 - 9/16", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I told myself not to spam the post by adding &#43;1. But, I could not help to agree with everyone. I really appreciate the information given for the first exam. Thank you professor!</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-14T08:42:05Z", 
+          "uid": "idfpdy5qlbr19s", 
+          "created": "2017-09-14T08:42:05Z", 
+          "type": "feedback", 
+          "id": "j7k7i8hss5s5o4", 
+          "anon": "no", 
+          "bucket_name": "Week 9/10 - 9/16", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#43;1</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-15T01:50:55Z", 
+          "uid": "hyxsfi1o7md2rh", 
+          "created": "2017-09-15T01:50:55Z", 
+          "type": "feedback", 
+          "id": "j7l89bk5gt32ua", 
+          "anon": "no", 
+          "bucket_name": "Week 9/10 - 9/16", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#43;1</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-15T17:54:56Z", 
+          "uid": "idfwkf5jgsm3gg", 
+          "created": "2017-09-15T17:54:56Z", 
+          "type": "feedback", 
+          "id": "j7m6p1vjwe264k", 
+          "anon": "no", 
+          "bucket_name": "Week 9/10 - 9/16", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#43;1</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-15T19:49:55Z", 
+          "uid": "hz03lfq2z6r446", 
+          "created": "2017-09-15T19:49:55Z", 
+          "type": "feedback", 
+          "id": "j7masx85znx4hc", 
+          "anon": "no", 
+          "bucket_name": "Week 9/10 - 9/16", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#43;1</p>"
+        }
+      ], 
+      "subject": "<p>This might be the most informative post I&#39;ve seen with regards to what is on an exam, from any of my classes in this program. \u00a0</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-13T22:34:09Z", 
+      "no_upvotes": 0, 
+      "uid": "hvil6y6khgk2ri", 
+      "created": "2017-09-13T22:34:09Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7jlsfhxdsz7eg", 
+      "anon": "no", 
+      "bucket_name": "Week 9/10 - 9/16", 
+      "config": {}, 
+      "bucket_order": 8, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>Thank heavens we will have scrap paper!</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-13T22:54:58Z", 
+      "no_upvotes": 0, 
+      "uid": "i8597yy2i2f1z6", 
+      "created": "2017-09-13T22:54:58Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7jmj6zqr4zg9", 
+      "anon": "no", 
+      "bucket_name": "Week 9/10 - 9/16", 
+      "config": {}, 
+      "bucket_order": 8, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-13T23:18:03Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-09-13T23:18:03Z", 
+          "type": "feedback", 
+          "id": "j7jncv8rf2l4mq", 
+          "anon": "no", 
+          "bucket_name": "Week 9/10 - 9/16", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Good question.\u00a0 If we DO have to use a SPECIFIC template, it would be nice to have that template a few days in advance so I can print it out (if possible, i.e. if its generic &#39;answer question 1 here&#39;).<br /><br />If not, I may have to get creative.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-13T23:53:56Z", 
+          "uid": "i4j6x8uvfv6743", 
+          "created": "2017-09-13T23:53:56Z", 
+          "type": "feedback", 
+          "id": "j7jon0x122z44g", 
+          "anon": "no", 
+          "bucket_name": "Week 9/10 - 9/16", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>When I took CCA, we just used our phones to scan the images and email them as a PDF. Look up the app CamScanner</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-14T00:59:33Z", 
+          "uid": "hz0jkj9dnctqp", 
+          "created": "2017-09-14T00:59:33Z", 
+          "type": "feedback", 
+          "id": "j7jqzf104gt3t8", 
+          "anon": "no", 
+          "bucket_name": "Week 9/10 - 9/16", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I assume those without a scanner will want to get the phone app as well.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-14T01:09:11Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-09-14T01:09:11Z", 
+          "type": "feedback", 
+          "id": "j7jrbsnv68e5u9", 
+          "anon": "no", 
+          "bucket_name": "Week 9/10 - 9/16", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Oh, I have the phone app (CamScanner, for others), but it sounds as there may be an official template we will have to use which we will have to print out beforehand.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-14T01:53:46Z", 
+          "uid": "i8597yy2i2f1z6", 
+          "created": "2017-09-14T01:53:46Z", 
+          "type": "feedback", 
+          "id": "j7jsx4wcm86km", 
+          "anon": "no", 
+          "bucket_name": "Week 9/10 - 9/16", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Right, if we can just use a standard template that would be fine. But, there is the possibility they were thinking of having us print out the questions themselves a la the homeworks.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-14T02:13:57Z", 
+          "uid": "hvvxmpxfuyb2eo", 
+          "created": "2017-09-14T02:13:57Z", 
+          "type": "feedback", 
+          "id": "j7jtn3bt3829i", 
+          "anon": "no", 
+          "bucket_name": "Week 9/10 - 9/16", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "I am handwriting the homeworks. If there is a template given, I usually write that down so that TAs know exactly what they are grading. Mostly that should be enough for the exam."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-15T19:08:56Z", 
+          "uid": "i4fxg6tfzh211n", 
+          "created": "2017-09-15T19:08:56Z", 
+          "type": "feedback", 
+          "id": "j7m9c7rjy6o3", 
+          "anon": "no", 
+          "bucket_name": "Week 9/10 - 9/16", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#43;1 to Patrick&#39;s question</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-17T16:01:05Z", 
+          "uid": "hqa46xpsbzd2aj", 
+          "created": "2017-09-17T16:01:05Z", 
+          "type": "feedback", 
+          "id": "j7oxic155dj1az", 
+          "anon": "no", 
+          "bucket_name": "Week 9/17 - 9/23", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "From below in case anyone didn&#39;t see this,\n&#34;You will be given a blank template that you can print out beforehand and write your solutions on that template.   It will look like the homework templates without any specific information about the problems.   I will probably distribute the template the night before the exam opens when I close Piazza during the exam period.     --Eric&#34;"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-18T03:50:15Z", 
+          "uid": "ijbr5ddtwyt6pa", 
+          "created": "2017-09-18T03:50:15Z", 
+          "type": "feedback", 
+          "id": "j7pmuc35czn30g", 
+          "anon": "no", 
+          "bucket_name": "Week 9/17 - 9/23", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Has it been confirmed that we can use Androids / IPhones to scan and upload?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-18T19:06:52Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-09-18T19:06:52Z", 
+          "type": "feedback", 
+          "id": "j7qjl3tjbey3cq", 
+          "anon": "no", 
+          "bucket_name": "Week 9/17 - 9/23", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "As long as the quality is good.  Check it now with the onboarding exam."
+        }
+      ], 
+      "subject": "<p>&#34;You will write (not type) your solutions on a template as you do for the homeworks and then upload it.&#34;</p>\n<p></p>\n<p>For those of us without a printer, should we start making arrangements to take the exam at a location where we can print something out?</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-14T00:31:26Z", 
+      "no_upvotes": 0, 
+      "uid": "idgjs16yZ4K", 
+      "created": "2017-09-14T00:31:26Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7jpz8kwozw2ae", 
+      "anon": "no", 
+      "bucket_name": "Week 9/10 - 9/16", 
+      "config": {}, 
+      "bucket_order": 8, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "Great information! We should pin this so it&#39;s easy to find between now and the exam."
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-14T01:07:07Z", 
+      "no_upvotes": 0, 
+      "uid": "i4nkipeofrkrz", 
+      "created": "2017-09-14T01:07:07Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7jr94wxxks3z0", 
+      "anon": "no", 
+      "bucket_name": "Week 9/10 - 9/16", 
+      "config": {}, 
+      "bucket_order": 8, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>#pin</p>\n<p></p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-14T01:13:11Z", 
+      "no_upvotes": 0, 
+      "uid": "i4jbu18kld03sy", 
+      "created": "2017-09-14T01:13:11Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7jrgy568ko5p", 
+      "anon": "no", 
+      "bucket_name": "Week 9/10 - 9/16", 
+      "config": {}, 
+      "bucket_order": 8, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-14T03:37:06Z", 
+          "uid": "hkjzzued3ef4xh", 
+          "created": "2017-09-14T03:37:06Z", 
+          "type": "feedback", 
+          "id": "j7jwm0ib3me1g9", 
+          "anon": "no", 
+          "bucket_name": "Week 9/10 - 9/16", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>yes :)</p>"
+        }
+      ], 
+      "subject": "Was looking for the Tiancheng&#39;s post mentioned in the note. Is it &#64;238?"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-15T19:06:55Z", 
+      "no_upvotes": 0, 
+      "uid": "i4fxg6tfzh211n", 
+      "created": "2017-09-15T19:06:55Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7m99m47oka7dx", 
+      "anon": "no", 
+      "bucket_name": "Week 9/10 - 9/16", 
+      "config": {}, 
+      "bucket_order": 8, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-15T20:38:21Z", 
+          "uid": "ijbr5ddtwyt6pa", 
+          "created": "2017-09-15T20:38:21Z", 
+          "type": "feedback", 
+          "id": "j7mcj7dzs7w2fk", 
+          "anon": "no", 
+          "bucket_name": "Week 9/10 - 9/16", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>You just need blank scrap paper, so I am assuming that means you do not have to actually print out the test.\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-15T21:05:48Z", 
+          "uid": "i4fxg6tfzh211n", 
+          "created": "2017-09-15T21:05:48Z", 
+          "type": "feedback", 
+          "id": "j7mdiijler01og", 
+          "anon": "no", 
+          "bucket_name": "Week 9/10 - 9/16", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I hope so, but it&#39;s a bit ambiguous right now: &#34;You will write (not type) your solutions on a template as you do for the homeworks and then upload it.&#34;. For the homeworks, I print the template, write on it and upload.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-15T21:12:10Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-09-15T21:12:10Z", 
+          "type": "feedback", 
+          "id": "j7mdqoxb3d0304", 
+          "anon": "no", 
+          "bucket_name": "Week 9/10 - 9/16", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p></p>\n<p>You will be given a blank template that you can print out beforehand and write your solutions on that template. \u00a0 It will look like the homework templates without any specific information about the problems. \u00a0 I will probably distribute the template the night before the exam opens when I close Piazza during the exam period. \u00a0 \u00a0 --Eric</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-15T21:29:05Z", 
+          "uid": "i4fxg6tfzh211n", 
+          "created": "2017-09-15T21:29:05Z", 
+          "type": "feedback", 
+          "id": "j7mecgivwue17u", 
+          "anon": "no", 
+          "bucket_name": "Week 9/10 - 9/16", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thanks Professor. That will make things easier.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-18T05:27:01Z", 
+          "uid": "hqj2wfy7NUZ", 
+          "created": "2017-09-18T05:27:01Z", 
+          "type": "feedback", 
+          "id": "j7pqas716aj3fd", 
+          "anon": "no", 
+          "bucket_name": "Week 9/17 - 9/23", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I don&#39;t have a printer.... am travelling and don&#39;t have access to one. \u00a0Can we use blank paper?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-19T16:04:34Z", 
+          "uid": "hvvxmpxfuyb2eo", 
+          "created": "2017-09-19T16:04:34Z", 
+          "type": "feedback", 
+          "id": "j7rsiiucyw044h", 
+          "anon": "no", 
+          "bucket_name": "Week 9/17 - 9/23", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Can we get answer for Michael&#39;s question? Dont have printer at home, need to run to fedex to print template on the night before exam. For all the homework, i just write on blank paper without printing template. Is that fine to do during exam?\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-19T17:40:53Z", 
+          "uid": "hkjzzued3ef4xh", 
+          "created": "2017-09-19T17:40:53Z", 
+          "type": "feedback", 
+          "id": "j7rvydq47odxi", 
+          "anon": "no", 
+          "bucket_name": "Week 9/17 - 9/23", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>You can use blank paper and copy the given template by hand as long as you match the answers correctly with the questions.\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-19T18:00:30Z", 
+          "uid": "hvvxmpxfuyb2eo", 
+          "created": "2017-09-19T18:00:30Z", 
+          "type": "feedback", 
+          "id": "j7rwnlz5pan670", 
+          "anon": "no", 
+          "bucket_name": "Week 9/17 - 9/23", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thanks Tiancheng! This will avoid taking last minute print outs...</p>"
+        }
+      ], 
+      "subject": "<p>I&#39;ll be taking the test from a hotel room (long-planned trip in a foreign country, right on that weekend...). Do we have to print the template at the beginning of the test? That will make things more difficult for me... If I can just write my answers on blank sheets of paper, that&#39;s much easier. Otherwise, I don&#39;t know how I&#39;ll deal with Proctortrack and using a printer in a public space...</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-17T15:12:03Z", 
+      "no_upvotes": 0, 
+      "uid": "hviwm6agQCk", 
+      "created": "2017-09-17T15:12:03Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7ovr9wds3x1wf", 
+      "anon": "no", 
+      "bucket_name": "Week 9/17 - 9/23", 
+      "config": {}, 
+      "bucket_order": 7, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-17T15:18:12Z", 
+          "uid": "i4j6x2fgaoy6zg", 
+          "created": "2017-09-17T15:18:12Z", 
+          "type": "feedback", 
+          "id": "j7ovz6noclk2bs", 
+          "anon": "no", 
+          "bucket_name": "Week 9/17 - 9/23", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#64;316 \u00a0 No Practice test - they are just testing the system</p>"
+        }
+      ], 
+      "subject": "<p>What is the practice test submission in gradescope?</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-17T16:10:48Z", 
+      "no_upvotes": 0, 
+      "uid": "i4gzn4buf4Q", 
+      "created": "2017-09-17T16:10:48Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7oxuua2mz169", 
+      "anon": "no", 
+      "bucket_name": "Week 9/17 - 9/23", 
+      "config": {}, 
+      "bucket_order": 7, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-18T18:48:43Z", 
+          "uid": "i9jej4o7cmx14m", 
+          "created": "2017-09-18T18:48:43Z", 
+          "type": "feedback", 
+          "id": "j7qixrm6q9f10f", 
+          "anon": "no", 
+          "bucket_name": "Week 9/17 - 9/23", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I would also like to know this, as I will likely be using Friday and Saturday to study</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-18T19:07:52Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-09-18T19:07:52Z", 
+          "type": "feedback", 
+          "id": "j7qjmeh2s3i5fy", 
+          "anon": "no", 
+          "bucket_name": "Week 9/17 - 9/23", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "You can still look at Piazza, but I will close it to postings."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-18T19:12:29Z", 
+          "uid": "idg61g3ot1qp6", 
+          "created": "2017-09-18T19:12:29Z", 
+          "type": "feedback", 
+          "id": "j7qjscdq4iu4pu", 
+          "anon": "no", 
+          "bucket_name": "Week 9/17 - 9/23", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>If Piazza is closed, and someone has an issue with the exam, how do we contact you? \u00a0</p>\n<p></p>\n<p>Can we still send private messages on Piazza to you and the TAs, or e-mail?</p>"
+        }
+      ], 
+      "subject": "<p>Does &#34;close Piazza during the exam period&#34; mean that Piazza is closed for writing, or that it is totally closed (e.g. no referencing it during last minute exam prep on Friday through Monday).</p>\n<p></p>\n<p>If we have issues, what is the recommended communications path (can&#39;t do a private post on piazza at that point if it is closed)?</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-17T17:01:45Z", 
+      "no_upvotes": 0, 
+      "uid": "hz2wlft5i565vr", 
+      "created": "2017-09-17T17:01:45Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7ozocqrmmr3yo", 
+      "anon": "no", 
+      "bucket_name": "Week 9/17 - 9/23", 
+      "config": {}, 
+      "bucket_order": 7, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-18T15:48:50Z", 
+          "uid": "hz0jkj9dnctqp", 
+          "created": "2017-09-18T15:48:50Z", 
+          "type": "feedback", 
+          "id": "j7qcifmpqqh4qv", 
+          "anon": "no", 
+          "bucket_name": "Week 9/17 - 9/23", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Ugh, I just spent an extra half hour submitting my homework last night because one sheet didn&#39;t scan well. I had to reset it to scan that image as a photo instead of text, and rescan the whole homework because I couldn&#39;t just submit an extra page. Anyways, I really hope scanning time is not part of our test time.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-18T16:22:45Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-09-18T16:22:45Z", 
+          "type": "feedback", 
+          "id": "j7qdq2ch9xs2p0", 
+          "anon": "no", 
+          "bucket_name": "Week 9/17 - 9/23", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "$$\\LaTeX$$ makes editing your answer neater &amp; more straightforward too; though not necessarily quicker during a test, aside from the difficulty encouraging ProctorTrack to allow TexStudio :-)"
+        }
+      ], 
+      "subject": "<p>Does the 2 hour period include the time it takes to scan and upload?</p>\n<p></p>\n<p>My scanner is slow, so I want to know if I should account for this lost time.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-17T17:12:00Z", 
+      "no_upvotes": 0, 
+      "uid": "ixwuhwpik046y6", 
+      "created": "2017-09-17T17:12:00Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7p01jmzzn31zf", 
+      "anon": "no", 
+      "bucket_name": "Week 9/17 - 9/23", 
+      "config": {}, 
+      "bucket_order": 7, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-18T14:15:04Z", 
+          "uid": "hyxoabem4493kl", 
+          "created": "2017-09-18T14:15:04Z", 
+          "type": "feedback", 
+          "id": "j7q95uw1ix023j", 
+          "anon": "no", 
+          "bucket_name": "Week 9/17 - 9/23", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#43;1. I had the same question about the printer and scanner in full view of the camera.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-18T19:06:03Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-09-18T19:06:03Z", 
+          "type": "feedback", 
+          "id": "j7qjk22f38k10o", 
+          "anon": "no", 
+          "bucket_name": "Week 9/17 - 9/23", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Yes, we need to see you while you scan etc.  You cannot leave the room to do it.  --Eric"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-18T22:17:24Z", 
+          "uid": "ixwuhwpik046y6", 
+          "created": "2017-09-18T22:17:24Z", 
+          "type": "feedback", 
+          "id": "j7qqe5d5cyo4q8", 
+          "anon": "no", 
+          "bucket_name": "Week 9/17 - 9/23", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Can I get a reply to the first question?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-18T22:41:54Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-09-18T22:41:54Z", 
+          "type": "feedback", 
+          "id": "j7qr9na5sfz79x", 
+          "anon": "no", 
+          "bucket_name": "Week 9/17 - 9/23", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "A good phone is sufficient too."
+        }
+      ], 
+      "subject": "<p>If the printer/scanner route is need for the exam, can that requirement be put into the class description\\syllabus? \u00a0</p>\n<p></p>\n<p>My company will reimburse me for books and supplies, but only if they are explicitly listed as a requirement. \u00a0Previously, I have been using a tablet to do the homework digitally.</p>\n<p></p>\n<p></p>\n<p>Also, because of ProctorTrac, do we need to have the printer and scanner in full view of the camera?</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-18T00:23:19Z", 
+      "no_upvotes": 0, 
+      "uid": "iddoxdl8kz72oc", 
+      "created": "2017-09-18T00:23:19Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7pfg7jtg6m6og", 
+      "anon": "no", 
+      "bucket_name": "Week 9/17 - 9/23", 
+      "config": {}, 
+      "bucket_order": 7, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-20T05:44:34Z", 
+          "created": "2017-09-20T05:44:34Z", 
+          "type": "feedback", 
+          "id": "j7slt1ukmhy1qg", 
+          "anon": "stud", 
+          "bucket_name": "Week 9/17 - 9/23", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Please read the threads above. This question is answered like 400 times.</p>"
+        }
+      ], 
+      "subject": "<p>Do we need to scan and upload the solution for the exam?\u00a0</p>\n<p>Personally i don&#39;t have a scanner, instead i used one app on the iPhone for scanning. So would it be ok to use iphone only for the scan purpose?</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-18T06:08:33Z", 
+      "no_upvotes": 0, 
+      "uid": "iddrzsd4r7kfm", 
+      "created": "2017-09-18T06:08:33Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7prs6jfdm3a6", 
+      "anon": "no", 
+      "bucket_name": "Week 9/17 - 9/23", 
+      "config": {}, 
+      "bucket_order": 7, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>Im also wondering about the printer... I may not have access to one as I am traveling. Also, can our scrap paper have standard lines\u00a0or does it have to be all-white?</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-20T03:47:33Z", 
+      "no_upvotes": 0, 
+      "uid": "i4iufvhm2nj4s1", 
+      "created": "2017-09-20T03:47:33Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7shmkho9ov2df", 
+      "anon": "no", 
+      "bucket_name": "Week 9/17 - 9/23", 
+      "config": {}, 
+      "bucket_order": 7, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-20T04:15:05Z", 
+          "uid": "hz0jkj9dnctqp", 
+          "created": "2017-09-20T04:15:05Z", 
+          "type": "feedback", 
+          "id": "j7silyqzia8245", 
+          "anon": "no", 
+          "bucket_name": "Week 9/17 - 9/23", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Try it on the practice exam.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-20T14:28:09Z", 
+          "uid": "i4iufvhm2nj4s1", 
+          "created": "2017-09-20T14:28:09Z", 
+          "type": "feedback", 
+          "id": "j7t4idskrc12pl", 
+          "anon": "no", 
+          "bucket_name": "Week 9/17 - 9/23", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I did, and it works. \u00a0But that doesn&#39;t mean it is allowed.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-20T15:14:17Z", 
+          "uid": "hz2wlft5i565vr", 
+          "created": "2017-09-20T15:14:17Z", 
+          "type": "feedback", 
+          "id": "j7t65pm31qk5jf", 
+          "anon": "no", 
+          "bucket_name": "Week 9/17 - 9/23", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>He mentioned earlier that the template is 10 pages (or 5 pages front &amp; back depending on how you look at it). So even if you could solve it on 5 pages, more than likely you&#39;d be forced to use the 10 pages due to the template.</p>"
+        }
+      ], 
+      "subject": "<p>If I take a picture of my test, can I then use gradescope on my phone to submit the test (while in view of the camera). \u00a0I don&#39;t have a scanner and I don&#39;t plan on buying one just for this class.</p>\n<p></p>\n<p>Also, how many pdfs/pictures will be allowed to be uploaded? \u00a0I will probably use a page per problem, (with all the short answers on the same page probably), so 5 pages?</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-21T18:52:28Z", 
+      "no_upvotes": 0, 
+      "uid": "i4fxg6tfzh211n", 
+      "created": "2017-09-21T18:52:28Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7ute5az16273", 
+      "anon": "no", 
+      "bucket_name": "Week 9/17 - 9/23", 
+      "config": {}, 
+      "bucket_order": 7, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>Just printed 2 sets of the template. Thanks a lot for the new infos posted on T-Square.</p>\n<p>Not a very important question but can we write our name/id beforehand on the template pages?</p>"
+    }
+  ], 
+  "nr": 293, 
+  "bucket_order": 2, 
+  "type": "note", 
+  "folders": [
+    "exam"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 23, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-09-13T21:56:36Z", 
+  "is_tag_good": false, 
+  "config": {
+    "is_announcement": 1, 
+    "bypass_email": 1
+  }, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145248594, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p></p>\n<p>Dear all,</p>\n<p></p>\n<p>The first exam will be available from 8am EST on Friday 9/22 to 8am EST on Monday 9/25. \u00a0The exam will be administered through Proctortrack (and some combination of TSquare&#43;Gradescope). \u00a0We&#39;ll give you detailed instructions later in the week. \u00a0The exam will be 2 hours long. \u00a0No notes or books, no calculators or any devices. \u00a0The only thing you&#39;re allowed is some blank scrap paper. \u00a0You will write (not type) your solutions on a template as you do for the homeworks and then upload it. \u00a0Once again, we&#39;ll give you administrative details later this week.</p>\n<p></p>\n<p>The exam will cover DP, RSA, D&amp;C including FFT. \u00a0It will not cover Bloom filters. \u00a0The exam will have 3 DP problems, 1 additional algorithmic problem solving question, and some short answer questions -- see below for more details.</p>\n<p></p>\n<p>The exam will have 3 DP problems of varying difficulty, some are easier (to make sure you understand the basics of DP) and some are harder (to see if you&#39;re really proficient at DP or not). \u00a0The exam scores are scaled/curved later, and No I don&#39;t know the scaling now so please don&#39;t ask and don&#39;t worry about it now -- what&#39;s the point? -- just do your best. \u00a0</p>\n<p>For the DP problems, it&#39;s important that your subproblem definition makes sense. \u00a0Typically we just look at parts (a) and (b) (not your pseudocode) for grading. \u00a0The pseudocode is just to check things like do you output the max of the whole table or just the last element, or how do you fill the table, by rows or by diagonals? \u00a0If we&#39;re lost at your subproblem definition then we probably can&#39;t figure out what you&#39;re doing. \u00a0We&#39;ve got 300&#43; to grade, we can&#39;t spend 15 minutes trying to understand your solution. \u00a0Check Tiancheng&#39;s post for some common errors and also the solutions for ideas about how to write clear solutions. \u00a0Note, if you define your subproblem as T(i,j) then you&#39;re subproblem definition better say clearly how i and also how j are used. \u00a0Also, get an answer that works first and then try to improve it (change from substrings to prefixes or change from an O(n) time recurrence to an O(1) time). \u00a0I will not tell you the intended running time, just like the homeworks, that&#39;s part of the challenge (part of the fun, hopefully?). \u00a0You won&#39;t have to do any backtracking in your DP algorithm, e.g., for a problem such as [DPV] 6.2 I&#39;ll simply ask for the min penalty, not for the actual subsequence of hotel stops.\u00a0</p>\n<p></p>\n<p>There will be 1 more algorithmic problem solving question. \u00a0It will be of a similar flavor to HW 3 Problem 3 (D&amp;C) or Problem 4 (reduction to FFT or poly multiplication). \u00a0I will give you a new problem and I&#39;ll say solve it using D&amp;C or I&#39;ll say solve it using one or some of these algorithms from class as a black-box. \u00a0You&#39;ll give your algorithm in words (not pseudocode). \u00a0You&#39;ll say things such as: First run the linear-time Median algorithm on the first n/2 elements and then run FFT on these medians, etc. (or something like that).</p>\n<p></p>\n<p>In addition to those 4 problems there will be some short answer questions related to RSA, FFT, and D&amp;C. \u00a0These are questions you should be able to quickly solve if you understood the concepts from the lectures. \u00a0They will be all or nothing questions so you don&#39;t need to worry about showing work. \u00a0</p>\n<p></p>\n<p>Doing practice problems is the best preparation (in addition to reviewing the class material). \u00a0So re-do the homework problems and choose some other practice problems from the textbook (you can post to Piazza if you want to check solutions -- sorry, I don&#39;t have answers typed up for most of the problems, I just have it for the homework problems and the other DP problems I posted).</p>\n<p></p>\n<p>--Eric</p>", 
+      "anon": "no", 
+      "created": "2017-10-03T16:08:26Z", 
+      "uid": "hkjzzued3ef4xh", 
+      "subject": "Exam 1"
+    }, 
+    {
+      "content": "<p></p>\n<p>Dear all,</p>\n<p></p>\n<p>The first exam will be available from 8am EST on Friday 9/22 to 8am EST on Monday 9/25. \u00a0The exam will be administered through Proctortrack (and some combination of TSquare&#43;Gradescope). \u00a0We&#39;ll give you detailed instructions later in the week. \u00a0The exam will be 2 hours long. \u00a0No notes or books, no calculators or any devices. \u00a0The only thing you&#39;re allowed is some blank scrap paper. \u00a0You will write (not type) your solutions on a template as you do for the homeworks and then upload it. \u00a0Once again, we&#39;ll give you administrative details later this week.</p>\n<p></p>\n<p>The exam will cover DP, RSA, D&amp;C including FFT. \u00a0It will not cover Bloom filters. \u00a0The exam will have 3 DP problems, 1 additional algorithmic problem solving question, and some short answer questions -- see below for more details.</p>\n<p></p>\n<p>The exam will have 3 DP problems of varying difficulty, some are easier (to make sure you understand the basics of DP) and some are harder (to see if you&#39;re really proficient at DP or not). \u00a0The exam scores are scaled/curved later, and No I don&#39;t know the scaling now so please don&#39;t ask and don&#39;t worry about it now -- what&#39;s the point? -- just do your best. \u00a0</p>\n<p>For the DP problems, it&#39;s important that your subproblem definition makes sense. \u00a0Typically we just look at parts (a) and (b) (not your pseudocode) for grading. \u00a0The pseudocode is just to check things like do you output the max of the whole table or just the last element, or how do you fill the table, by rows or by diagonals? \u00a0If we&#39;re lost at your subproblem definition then we probably can&#39;t figure out what you&#39;re doing. \u00a0We&#39;ve got 300&#43; to grade, we can&#39;t spend 15 minutes trying to understand your solution. \u00a0Check Tiancheng&#39;s post for some common errors and also the solutions for ideas about how to write clear solutions. \u00a0Note, if you define your subproblem as T(i,j) then you&#39;re subproblem definition better say clearly how i and also how j are used. \u00a0Also, get an answer that works first and then try to improve it (change from substrings to prefixes or change from an O(n) time recurrence to an O(1) time). \u00a0I will not tell you the intended running time, just like the homeworks, that&#39;s part of the challenge (part of the fun, hopefully?). \u00a0You won&#39;t have to do any backtracking in your DP algorithm, e.g., for a problem such as [DPV] 6.2 I&#39;ll simply ask for the min penalty, not for the actual subsequence of hotel stops.\u00a0</p>\n<p></p>\n<p>There will be 1 more algorithmic problem solving question. \u00a0It will be of a similar flavor to HW 3 Problem 3 (D&amp;C) or Problem 4 (reduction to FFT or poly multiplication). \u00a0I will give you a new problem and I&#39;ll say solve it using D&amp;C or I&#39;ll say solve it using one or some of these algorithms from class as a black-box. \u00a0You&#39;ll give your algorithm in words (not pseudocode). \u00a0You&#39;ll say things such as: First run the linear-time Median algorithm on the first n/2 elements and then run FFT on these medians, etc. (or something like that).</p>\n<p></p>\n<p>In addition to those 4 problems there will be some short answer questions related to RSA, FFT, and D&amp;C. \u00a0These are questions you should be able to quickly solve if you understood the concepts from the lectures. \u00a0They will be all or nothing questions so you don&#39;t need to worry about showing work. \u00a0</p>\n<p></p>\n<p>Doing practice problems is the best preparation (in addition to reviewing the class material). \u00a0So re-do the homework problems and choose some other practice problems from the textbook (you can post to Piazza if you want to check solutions -- sorry, I don&#39;t have answers typed up for most of the problems, I just have it for the homework problems and the other DP problems I posted).</p>\n<p></p>\n<p>--Eric</p>\n#pin", 
+      "anon": "no", 
+      "created": "2017-09-14T15:08:11Z", 
+      "uid": "hju4w9odatf30", 
+      "subject": "Exam 1"
+    }, 
+    {
+      "content": "<p></p>\n<p>Dear all,</p>\n<p></p>\n<p>The first exam will be available from 8am EST on Friday 9/22 to 8am EST on Monday 9/25. \u00a0The exam will be administered through Proctortrack (and some combination of TSquare&#43;Gradescope). \u00a0We&#39;ll give you detailed instructions later in the week. \u00a0The exam will be 2 hours long. \u00a0No notes or books, no calculators or any devices. \u00a0The only thing you&#39;re allowed is some blank scrap paper. \u00a0You will write (not type) your solutions on a template as you do for the homeworks and then upload it. \u00a0Once again, we&#39;ll give you administrative details later this week.</p>\n<p></p>\n<p>The exam will cover DP, RSA, D&amp;C including FFT. \u00a0It will not cover Bloom filters. \u00a0The exam will have 3 DP problems, 1 additional algorithmic problem solving question, and some short answer questions -- see below for more details.</p>\n<p></p>\n<p>The exam will have 3 DP problems of varying difficulty, some are easier (to make sure you understand the basics of DP) and some are harder (to see if you&#39;re really proficient at DP or not). \u00a0The exam scores are scaled/curved later, and No I don&#39;t know the scaling now so please don&#39;t ask and don&#39;t worry about it now -- what&#39;s the point? -- just do your best. \u00a0</p>\n<p>For the DP problems, it&#39;s important that your subproblem definition makes sense. \u00a0Typically we just look at parts (a) and (b) (not your pseudocode) for grading. \u00a0The pseudocode is just to check things like do you output the max of the whole table or just the last element, or how do you fill the table, by rows or by diagonals? \u00a0If we&#39;re lost at your subproblem definition then we probably can&#39;t figure out what you&#39;re doing. \u00a0We&#39;ve got 300&#43; to grade, we can&#39;t spend 15 minutes trying to understand your solution. \u00a0Check Tiancheng&#39;s post for some common errors and also the solutions for ideas about how to write clear solutions. \u00a0Note, if you define your subproblem as T(i,j) then you&#39;re subproblem definition better say clearly how i and also how j are used. \u00a0Also, get an answer that works first and then try to improve it (change from substrings to prefixes or change from an O(n) time recurrence to an O(1) time). \u00a0I will not tell you the intended running time, just like the homeworks, that&#39;s part of the challenge (part of the fun, hopefully?). \u00a0You won&#39;t have to do any backtracking in your DP algorithm, e.g., for a problem such as [DPV] 6.2 I&#39;ll simply ask for the min penalty, not for the actual subsequence of hotel stops.\u00a0</p>\n<p></p>\n<p>There will be 1 more algorithmic problem solving question. \u00a0It will be of a similar flavor to HW 3 Problem 3 (D&amp;C) or Problem 4 (reduction to FFT or poly multiplication). \u00a0I will give you a new problem and I&#39;ll say solve it using D&amp;C or I&#39;ll say solve it using one or some of these algorithms from class as a black-box. \u00a0You&#39;ll give your algorithm in words (not pseudocode). \u00a0You&#39;ll say things such as: First run the linear-time Median algorithm on the first n/2 elements and then run FFT on these medians, etc. (or something like that).</p>\n<p></p>\n<p>In addition to those 4 problems there will be some short answer questions related to RSA, FFT, and D&amp;C. \u00a0These are questions you should be able to quickly solve if you understood the concepts from the lectures. \u00a0They will be all or nothing questions so you don&#39;t need to worry about showing work. \u00a0</p>\n<p></p>\n<p>Doing practice problems is the best preparation (in addition to reviewing the class material). \u00a0So re-do the homework problems and choose some other practice problems from the textbook (you can post to Piazza if you want to check solutions -- sorry, I don&#39;t have answers typed up for most of the problems, I just have it for the homework problems and the other DP problems I posted).</p>\n<p></p>\n<p>--Eric</p>", 
+      "anon": "no", 
+      "created": "2017-09-13T21:56:36Z", 
+      "uid": "gy4twfv45cg5o6", 
+      "subject": "Exam 1"
+    }
+  ]
+}

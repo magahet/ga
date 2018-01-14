@@ -1,0 +1,259 @@
+{
+  "status": "active", 
+  "unique_views": 174, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-08-31T03:56:03Z", 
+      "data": "j6zx4galh7b23d", 
+      "uid": "hz0pec4uduL"
+    }, 
+    {
+      "uid": "ijarmqggjkc3gz", 
+      "type": "s_answer", 
+      "when": "2017-08-31T04:33:02Z", 
+      "to": "j6zx4gajhv823c", 
+      "anon": "no", 
+      "data": "j6zyg0q8m4t2hx"
+    }, 
+    {
+      "to": "j6zx4gajhv823c", 
+      "anon": "no", 
+      "when": "2017-08-31T04:58:59Z", 
+      "type": "followup", 
+      "uid": "hz0pec4uduL"
+    }, 
+    {
+      "to": "j6zx4gajhv823c", 
+      "anon": "no", 
+      "when": "2017-09-03T18:30:28Z", 
+      "type": "followup", 
+      "uid": "hqa65fnalg83fr"
+    }, 
+    {
+      "to": "j6zx4gajhv823c", 
+      "anon": "no", 
+      "when": "2017-09-03T20:47:50Z", 
+      "type": "feedback", 
+      "uid": "ijarmqggjkc3gz"
+    }, 
+    {
+      "to": "j6zx4gajhv823c", 
+      "anon": "no", 
+      "when": "2017-09-04T03:39:26Z", 
+      "type": "feedback", 
+      "uid": "hqa65fnalg83fr"
+    }, 
+    {
+      "to": "j6zx4gajhv823c", 
+      "anon": "no", 
+      "when": "2017-09-04T03:40:31Z", 
+      "type": "feedback", 
+      "uid": "ijarmqggjkc3gz"
+    }, 
+    {
+      "to": "j6zx4gajhv823c", 
+      "anon": "no", 
+      "when": "2017-09-04T03:43:13Z", 
+      "type": "feedback", 
+      "uid": "hqa65fnalg83fr"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j6zx4gajhv823c", 
+  "bookmarked": 4, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-08-31T04:33:02Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [
+        "hz0pec4uduL"
+      ], 
+      "id": "j6zyg0q6p2m2hw", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Hugh Woltzen", 
+          "admin": false, 
+          "photo": "1423117810_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hz0pec4uduL"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "\u00a0What if there was very large profit (effectively infinite) at location i=3 but it&#39;s distance to location i=1 and 2 was very small (below the min threshold). How would this algorithm behave then?", 
+          "anon": "no", 
+          "created": "2017-08-31T04:33:02Z", 
+          "uid": "ijarmqggjkc3gz", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-31T04:58:59Z", 
+      "no_upvotes": 0, 
+      "uid": "hz0pec4uduL", 
+      "created": "2017-08-31T04:58:59Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6zzdeb1a8t2gx", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "Thanks Jeff. I can see where the problem is now."
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-03T18:30:28Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "hqa65fnalg83fr", 
+      "created": "2017-09-03T18:30:28Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j752oj8ajmz464", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-03T20:47:50Z", 
+          "uid": "ijarmqggjkc3gz", 
+          "created": "2017-09-03T20:47:50Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j757l665i5f4ov", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Amin. That looks like the greedy solution that may be suboptimal. What if all your potential locations were too close together (mm - m0) &lt; K. That would mean only one location would be allowable. The greedy algorithm would always the first one and never check the others. Also, your initialization for &#34;last&#34; is such that if mn &lt; K it wouldn&#39;t pick any locations and Yuckdonalds would get zero profit."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-04T03:39:26Z", 
+          "uid": "hqa65fnalg83fr", 
+          "created": "2017-09-04T03:39:26Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j75mahsena36bs", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>if the locations are too close, then the constraint says we can&#39;t pick them. I understood the problem to be different from the Hotel problem because the distance MUST be at least K</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-04T03:40:31Z", 
+          "uid": "ijarmqggjkc3gz", 
+          "created": "2017-09-04T03:40:31Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j75mbvy9a1o18e", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "You can&#39;t pick two that are too close together but you should pick the best among them"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-04T03:43:13Z", 
+          "uid": "hqa65fnalg83fr", 
+          "created": "2017-09-04T03:43:13Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j75mfctswy970d", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I see.. I understand your greedy critique. I&#39;ll solve it differently.</p>"
+        }
+      ], 
+      "subject": "<p>Wouldn&#39;t this work:<br /><br /></p>\n<p></p>\n<pre>YuckDonalds(m1....mN, p1...pN, K) :\n   P(0) = 0\n   m0 = 0\n   last = 0\n   for i = 1 to n :\n       P(i) =  P(i-1)\n       if K &gt; (mi - last) :\n           P(i) = pi &#43; P(i-1)\n           last = mi\n   return P(n)</pre>\n<p>I don&#39;t understand why the professor&#39;s alternative solution works because he never checks that the distance is far enough in the second for loop.</p>\n<p></p>"
+    }
+  ], 
+  "nr": 123, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "dynamic_programming", 
+    "hw1"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 4, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "dynamic_programming", 
+    "hw1", 
+    "student"
+  ], 
+  "created": "2017-08-31T03:56:03Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145298128, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>Hi,</p>\n<p>Will the following work as a O(n) solution to Yuckdonald&#39;s?</p>\n<p></p>\n<p>Table: T(i) = max profit at mile maker at and including i</p>\n<p></p>\n<p>Base Case: T(0) = 0, T(1) = p_1</p>\n<p></p>\n<p>Recurrence:</p>\n<p>T(i) = p_i &#43; T(I-1) if m_i - m_i-1 &gt; k</p>\n<p>\u00a0 \u00a0 \u00a0 = max (T(I-1), T[I-2] &#43; p_i) if\u00a0m_i - m_i-1 &lt;= k</p>\n<p></p>\n<p>Thanks,</p>\n<p>Hugh</p>", 
+      "anon": "no", 
+      "created": "2017-08-31T03:56:03Z", 
+      "uid": "hz0pec4uduL", 
+      "subject": "Yuckdonald&#39;s Alternate Solution [SPOILER]"
+    }
+  ]
+}

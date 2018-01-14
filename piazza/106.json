@@ -1,0 +1,387 @@
+{
+  "status": "active", 
+  "unique_views": 172, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-08-29T01:27:53Z", 
+      "data": "j6wwy7hs72j1a5", 
+      "uid": "ija2ufzr6l0f7"
+    }, 
+    {
+      "to": "j6wwy7hp8r21a4", 
+      "anon": "no", 
+      "when": "2017-08-29T03:22:55Z", 
+      "type": "followup", 
+      "uid": "idi5567wFgu"
+    }, 
+    {
+      "to": "j6wwy7hp8r21a4", 
+      "anon": "no", 
+      "when": "2017-08-29T05:48:38Z", 
+      "type": "followup", 
+      "uid": "hviwm6agQCk"
+    }, 
+    {
+      "uid": "gy4twfv45cg5o6", 
+      "type": "i_answer", 
+      "when": "2017-08-29T12:31:27Z", 
+      "to": "j6wwy7hp8r21a4", 
+      "anon": "no", 
+      "data": "j6xknkmiixs3nh"
+    }, 
+    {
+      "type": "i_answer_update", 
+      "anon": "no", 
+      "when": "2017-08-29T12:32:24Z", 
+      "data": "j6xkosevxnc3yf", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j6wwy7hp8r21a4", 
+      "anon": "no", 
+      "when": "2017-08-29T12:52:46Z", 
+      "type": "feedback", 
+      "uid": "hkjzzued3ef4xh"
+    }, 
+    {
+      "to": "j6wwy7hp8r21a4", 
+      "anon": "no", 
+      "when": "2017-08-29T13:18:15Z", 
+      "type": "feedback", 
+      "uid": "hviwm6agQCk"
+    }, 
+    {
+      "to": "j6wwy7hp8r21a4", 
+      "anon": "no", 
+      "when": "2017-08-29T13:23:58Z", 
+      "type": "feedback", 
+      "uid": "hkjzzued3ef4xh"
+    }, 
+    {
+      "to": "j6wwy7hp8r21a4", 
+      "anon": "no", 
+      "when": "2017-08-29T13:32:09Z", 
+      "type": "feedback", 
+      "uid": "ija2ufzr6l0f7"
+    }, 
+    {
+      "to": "j6wwy7hp8r21a4", 
+      "anon": "no", 
+      "when": "2017-08-29T14:15:01Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j6wwy7hp8r21a4", 
+      "anon": "no", 
+      "when": "2017-08-29T14:30:38Z", 
+      "type": "feedback", 
+      "uid": "hviwm6agQCk"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-08-29T22:20:09Z", 
+      "data": "j6y5omvgv3k2no", 
+      "uid": "idj18b4cw027p9"
+    }, 
+    {
+      "to": "j6wwy7hp8r21a4", 
+      "anon": "no", 
+      "when": "2017-08-31T18:52:51Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j6wwy7hp8r21a4", 
+      "anon": "no", 
+      "when": "2017-09-09T23:40:08Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j6wwy7hp8r21a4", 
+  "bookmarked": 7, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-08-29T03:22:55Z", 
+      "no_upvotes": 0, 
+      "uid": "idi5567wFgu", 
+      "created": "2017-08-29T03:22:55Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6x12514kf53rf", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-08-29T13:32:09Z", 
+          "uid": "ija2ufzr6l0f7", 
+          "created": "2017-08-29T13:32:09Z", 
+          "type": "feedback", 
+          "id": "j6xmtmqpzmw4xz", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Oh, I see, I thought 3 was from last step. Actually 7 is from last step.</p>"
+        }
+      ], 
+      "subject": "<p>It starts with 7^2 mod 23 which is 49 mod 23 which is equal to 3 mod 23</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-29T05:48:38Z", 
+      "no_upvotes": 0, 
+      "uid": "hviwm6agQCk", 
+      "created": "2017-08-29T05:48:38Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6x69jcbk4l4tp", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-08-29T12:52:46Z", 
+          "uid": "hkjzzued3ef4xh", 
+          "created": "2017-08-29T12:52:46Z", 
+          "type": "feedback", 
+          "id": "j6xlez63st91m0", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>$$9$$ is from $$7^4 \\mod 23$$. Multiply by another $$7$$ ($$7^4 \\times 7 = 7^5$$) will give you $$63 = 17 &#43; 23 \\times 2$$. So $$7^5 \\equiv 63 \\equiv 17 \\mod 23$$</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-29T13:18:15Z", 
+          "uid": "hviwm6agQCk", 
+          "created": "2017-08-29T13:18:15Z", 
+          "type": "feedback", 
+          "id": "j6xmbrcrh2t648", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "One more follow on to this. I get why you are getting the 17 now. It&#39;s the 9*7 mod 23 which is 17. So why does the mod 23 come at the end of the sentence? Why wasn&#39;t it 7^5 = 63 mod 23 = 17 so answer is 17? Is there something about the notation I&#39;m not understanding correctly?"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-29T13:23:58Z", 
+          "uid": "hkjzzued3ef4xh", 
+          "created": "2017-08-29T13:23:58Z", 
+          "type": "feedback", 
+          "id": "j6xmj3i9wpx7kt", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Actually it is\u00a0$$63 \\mod 23 \\equiv 17 \\mod 23$$.</p>\n<p>$$a_1 \\mod b \\equiv a_2 \\mod b$$ means $$a_1, a_2$$\u00a0have the same remainder divided by $$b$$.\u00a0Usually we write the $$\\mod b$$ at the end for concise.</p>\n<p></p>\n<p>If you use\u00a063 mod 23 = 17, we can still understand it. But a better way is\u00a0$$63 \\equiv 17 \\mod 23$$</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-29T14:15:01Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-08-29T14:15:01Z", 
+          "type": "feedback", 
+          "id": "j6xocr5ajwc6xu", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p></p>\n<p>Adding on to Tiancheng&#39;s comment, we just write mod 23 at the end and that means everything is mod 23, but inside the terms are not equal, they are just equivalent with respect to mod 23. \u00a0So $$63 \\ mod \\ 23 = 17$$ is correct but $$7^5 = 63 \\ mod \\ 23$$ is not correct (we won&#39;t care so don&#39;t stress). The correct statement is $$7^5 \\ mod \\ 23 = 63 \\ mod \\ 23$$ or to save space we simply write: $$7^5 \\equiv 63 \\ mod \\ 23$$.</p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-29T14:30:38Z", 
+          "uid": "hviwm6agQCk", 
+          "created": "2017-08-29T14:30:38Z", 
+          "type": "feedback", 
+          "id": "j6xowu6ksde697", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Got it now! Thanks"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-31T18:52:51Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-08-31T18:52:51Z", 
+          "type": "feedback", 
+          "id": "j70t5r0lnog3de", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p></p>\n<p>By the way, to those that watched this last node about dealing with pseudoprimes, isn&#39;t this algorithm amazing? \u00a0It&#39;s so simple. \u00a0The analysis of the algorithm is complicated, but if you just look at the algorithm itself, it&#39;s really simple. \u00a0To check primality for composites (not Carmichael) you compute a^{x-1} mod x. \u00a0How would you do that? \u00a0Of course by the repeated squaring approach since x is huge. \u00a0To deal with Carmichael numbers you do the exact same algorithm, compute a^{x-1} mod x by repeated squaring. \u00a0The only difference is that you look at some of the earlier calculations, and check the last non-1 to see if it&#39;s -1 or something different. \u00a0If it&#39;s something different then you&#39;re guaranteed that x is composite. \u00a0That&#39;s it. \u00a0Anyways I&#39;m still amazed at how the simplicity of the RSA algorithm, the math behind it is of course clever. \u00a0I hope you like it.</p>\n<p></p>\n<p>FFT to me is similar. \u00a0A bit of complicated math behind it but the algorithm itself is even more simple, it&#39;s literally like 5 lines of code. \u00a0And both of these algorithms, RSA and FFT, are used so much. \u00a0 That&#39;s why these are probably my two favorite algorithms in this class. \u00a0--Eric</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-09T23:40:08Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-09-09T23:40:08Z", 
+          "type": "feedback", 
+          "id": "j7dydv00kh637u", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "I did notice that. I realized that it&#39;s very trivial to add checking for Carmichael numbers to the primality test.\n\nI had trouble following all of the detail in the RSA lectures, and had to rewatch some videos several times. But in the end, it was well worth it. It&#39;s astounding that RSA works, and it&#39;s so simple. The algorithm&#39;s simplicity effectively &#34;hides&#34; the math behind it, making the algorithm look kind of magical to someone who hasn&#39;t gone through the math."
+        }
+      ], 
+      "subject": "I was there all the way until the last line. Could someone explain the 7^5?"
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-08-29T12:31:27Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "hviwm6agQCk", 
+        "ijawwe19w053cm"
+      ], 
+      "id": "j6xknkmfn3t3ng", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Jaya Rao", 
+          "admin": false, 
+          "photo": "1503185676_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hviwm6agQCk"
+        }, 
+        {
+          "name": "xi liu", 
+          "admin": false, 
+          "photo": null, 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "ijawwe19w053cm"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p></p>\n<p>As Vijay said I&#39;m just choosing 7 arbitrarily (I really should choose a random number).</p>\n<p>The first step computes $$7^2 mod 23$$, which is 49 mod 23 = 3.</p>\n<p></p>\n<p>The last is computing $$7^5 \\ mod 23 \\equiv (7^4\\times 7) \\ mod 23 \\equiv ((7^4 mod 23)\\times 7) \\ mod 23 \\equiv (9\\times 7) \\  mod 23 \\equiv 63 mod 23 \\equiv 17 mod 23.$$ \u00a0</p>\n<p></p>\n<p>Good?</p>", 
+          "anon": "no", 
+          "created": "2017-08-29T12:32:24Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p></p>\n<p>As Vijay said I&#39;m just choosing 7 arbitrarily (I really should choose a random number).</p>\n<p>The first step computes $$7^2 mod 23$$, which is 49 mod 23 = 3.</p>\n<p></p>\n<p>The last is computing $$7^5 mod 23 \\equiv 7^4\\times 7 mod 23 \\equiv  (7^4 mod 23)\\times 7 mod 23 \\equiv 9\\times 7 mod 23 \\equiv 63 mod 23 \\equiv 17 mod 23.$$ \u00a0</p>\n<p></p>\n<p>Good?</p>", 
+          "anon": "no", 
+          "created": "2017-08-29T12:31:27Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 106, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "random_algorithms"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 4, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "random_algorithms", 
+    "student"
+  ], 
+  "created": "2017-08-29T01:27:53Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145303650, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>I saw this in video 7 of Lesson 5, is there any reason why it starts with 3 mod 23? Thanks.</p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/ija2ufzr6l0f7/j6wwy2pu6tuv/Capture.PNG\" alt=\"\" /></p>", 
+      "anon": "no", 
+      "created": "2017-08-29T22:20:09Z", 
+      "uid": "idj18b4cw027p9", 
+      "subject": "Why starting with 3?"
+    }, 
+    {
+      "content": "<p>I saw this in video 7 of Lesson 5, is there any reason why it starts with 3 mod 23? Thanks.</p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/ija2ufzr6l0f7/j6wwy2pu6tuv/Capture.PNG\" alt=\"\" /></p>", 
+      "anon": "no", 
+      "created": "2017-08-29T01:27:53Z", 
+      "uid": "ija2ufzr6l0f7", 
+      "subject": "Why starting with 3?"
+    }
+  ]
+}

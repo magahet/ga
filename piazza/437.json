@@ -1,0 +1,778 @@
+{
+  "status": "active", 
+  "unique_views": 246, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-25T23:32:55Z", 
+      "data": "j80t681clfchr", 
+      "uid": "hv5exp71kfz754"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-25T23:33:22Z", 
+      "data": "j80t6sktg9fww", 
+      "uid": "hv5exp71kfz754"
+    }, 
+    {
+      "uid": "i4nkipeofrkrz", 
+      "type": "s_answer", 
+      "when": "2017-09-25T23:40:02Z", 
+      "to": "j80t6819afwhp", 
+      "anon": "no", 
+      "data": "j80tfd4o2t735v"
+    }, 
+    {
+      "to": "j80t6819afwhp", 
+      "anon": "no", 
+      "when": "2017-09-25T23:47:46Z", 
+      "type": "followup", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j80t6819afwhp", 
+      "anon": "no", 
+      "when": "2017-09-26T00:35:53Z", 
+      "type": "followup", 
+      "uid": "hv5exp71kfz754"
+    }, 
+    {
+      "to": "j80t6819afwhp", 
+      "anon": "no", 
+      "when": "2017-09-26T01:33:26Z", 
+      "type": "followup", 
+      "uid": "idi5567wFgu"
+    }, 
+    {
+      "to": "j80t6819afwhp", 
+      "anon": "no", 
+      "when": "2017-09-26T01:34:45Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j80t6819afwhp", 
+      "anon": "no", 
+      "when": "2017-09-26T01:44:23Z", 
+      "type": "feedback", 
+      "uid": "idi5567wFgu"
+    }, 
+    {
+      "to": "j80t6819afwhp", 
+      "anon": "no", 
+      "when": "2017-09-26T01:46:14Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j80t6819afwhp", 
+      "anon": "no", 
+      "when": "2017-09-26T01:55:24Z", 
+      "type": "feedback", 
+      "uid": "idi5567wFgu"
+    }, 
+    {
+      "to": "j80t6819afwhp", 
+      "anon": "no", 
+      "when": "2017-09-26T01:56:19Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j80t6819afwhp", 
+      "anon": "no", 
+      "when": "2017-09-26T02:17:20Z", 
+      "type": "feedback", 
+      "uid": "idi5567wFgu"
+    }, 
+    {
+      "to": "j80t6819afwhp", 
+      "anon": "no", 
+      "when": "2017-09-26T04:23:18Z", 
+      "type": "followup", 
+      "uid": "ig9fx44bzwr74x"
+    }, 
+    {
+      "to": "j80t6819afwhp", 
+      "anon": "no", 
+      "when": "2017-09-26T05:13:59Z", 
+      "type": "feedback", 
+      "uid": "i4iqepuw3vi2q5"
+    }, 
+    {
+      "to": "j80t6819afwhp", 
+      "anon": "no", 
+      "when": "2017-09-26T06:49:52Z", 
+      "type": "feedback", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "to": "j80t6819afwhp", 
+      "anon": "no", 
+      "when": "2017-09-26T12:57:53Z", 
+      "type": "feedback", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j80t6819afwhp", 
+      "anon": "no", 
+      "when": "2017-09-26T15:09:47Z", 
+      "type": "followup", 
+      "uid": "ig9fx44bzwr74x"
+    }, 
+    {
+      "to": "j80t6819afwhp", 
+      "anon": "no", 
+      "when": "2017-09-28T20:59:22Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j80t6819afwhp", 
+      "anon": "no", 
+      "when": "2017-09-28T22:00:34Z", 
+      "type": "feedback", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j80t6819afwhp", 
+      "anon": "no", 
+      "when": "2017-09-29T22:48:31Z", 
+      "type": "feedback", 
+      "uid": "hveop63kovn61t"
+    }, 
+    {
+      "to": "j80t6819afwhp", 
+      "anon": "no", 
+      "when": "2017-09-30T00:43:38Z", 
+      "type": "feedback", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j80t6819afwhp", 
+      "anon": "no", 
+      "when": "2017-09-30T00:51:12Z", 
+      "type": "feedback", 
+      "uid": "hveop63kovn61t"
+    }, 
+    {
+      "to": "j80t6819afwhp", 
+      "anon": "no", 
+      "when": "2017-09-30T15:26:15Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j80t6819afwhp", 
+      "anon": "no", 
+      "when": "2017-09-30T15:55:43Z", 
+      "type": "feedback", 
+      "uid": "hveop63kovn61t"
+    }, 
+    {
+      "to": "j80t6819afwhp", 
+      "anon": "no", 
+      "when": "2017-10-01T19:03:28Z", 
+      "type": "feedback", 
+      "uid": "i4j6x4gsbrz70z"
+    }, 
+    {
+      "to": "j80t6819afwhp", 
+      "anon": "no", 
+      "when": "2017-10-01T19:42:40Z", 
+      "type": "feedback", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j80t6819afwhp", 
+      "anon": "no", 
+      "when": "2017-10-01T20:37:59Z", 
+      "type": "feedback", 
+      "uid": "i4j6x4gsbrz70z"
+    }, 
+    {
+      "to": "j80t6819afwhp", 
+      "anon": "no", 
+      "when": "2017-10-01T20:40:27Z", 
+      "type": "feedback", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j80t6819afwhp", 
+      "anon": "no", 
+      "when": "2017-10-01T20:41:43Z", 
+      "type": "feedback", 
+      "uid": "i4j6x4gsbrz70z"
+    }, 
+    {
+      "to": "j80t6819afwhp", 
+      "anon": "no", 
+      "when": "2017-10-07T16:37:14Z", 
+      "type": "feedback", 
+      "uid": "hqa46xmysgg2af"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j80t6819afwhp", 
+  "bookmarked": 17, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-25T23:40:02Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [
+        "hv5exp71kfz754"
+      ], 
+      "id": "j80tfd2ufoi35u", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Kris Peterson", 
+          "admin": false, 
+          "photo": null, 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hv5exp71kfz754"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>1. We should only be using numpy.random, so I guess the latest version of the library is fine (the template code runs with this version). This is 1.13.1</p>\n<p>2.\u00a0From the comments in the code:<br /><br /></p>\n<pre>#random.seed(x) : sets seed to x<br />#random.randint(a,b) : returns random integer in range [a,b) (inclusive beginning and exclusive ending values)</pre>\n<p>I guess these are the only 2 methods we should use.</p>", 
+          "anon": "no", 
+          "created": "2017-09-25T23:40:02Z", 
+          "uid": "i4nkipeofrkrz", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-25T23:47:46Z", 
+      "no_upvotes": 0, 
+      "uid": "i4ket0u1z5q31a", 
+      "created": "2017-09-25T23:47:46Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j80tpbd8wtd46o", 
+      "anon": "no", 
+      "bucket_name": "Week 9/24 - 9/30", 
+      "config": {}, 
+      "bucket_order": 7, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-26T06:49:52Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-09-26T06:49:52Z", 
+          "type": "feedback", 
+          "id": "j818s4vvizybc", 
+          "anon": "no", 
+          "bucket_name": "Week 9/24 - 9/30", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<pre>&gt;&gt;&gt; import numpy\n&gt;&gt;&gt; numpy.__version__\n&#39;1.13.1&#39;\n&gt;&gt;&gt; \n</pre>"
+        }
+      ], 
+      "subject": "<p>I forget, can you assert or test for a particular version of a dependent Python lib in your code?</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-26T00:35:53Z", 
+      "no_upvotes": 0, 
+      "uid": "hv5exp71kfz754", 
+      "created": "2017-09-26T00:35:53Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j80vf6vgcb84uu", 
+      "anon": "no", 
+      "bucket_name": "Week 9/24 - 9/30", 
+      "config": {}, 
+      "bucket_order": 7, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "ok I guess I missed the comment.  I was considering random.uniform ()"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-26T01:33:26Z", 
+      "no_upvotes": 0, 
+      "uid": "idi5567wFgu", 
+      "created": "2017-09-26T01:33:26Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j80xh7h47r4df", 
+      "anon": "no", 
+      "bucket_name": "Week 9/24 - 9/30", 
+      "config": {}, 
+      "bucket_order": 7, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-26T01:34:45Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-09-26T01:34:45Z", 
+          "type": "feedback", 
+          "id": "j80xivyj1iy3q8", 
+          "anon": "no", 
+          "bucket_name": "Week 9/24 - 9/30", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>You have to use both. You first set the seed (the way you explained), and then you compute the position that you have to set to 1.</p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-26T01:44:23Z", 
+          "uid": "idi5567wFgu", 
+          "created": "2017-09-26T01:44:23Z", 
+          "type": "feedback", 
+          "id": "j80xvaf693y4yk", 
+          "anon": "no", 
+          "bucket_name": "Week 9/24 - 9/30", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Thanks Santiago. Still some questions. So we first set the seed by doing \nyy=random.seed(i th seed&#43;x). So then we do random.randint to compute the index. correct? If so, what is a and b in random.randint(a,b)? is yy is a and what is b?"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-26T01:46:14Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-09-26T01:46:14Z", 
+          "type": "feedback", 
+          "id": "j80xxnqrgvl4ta", 
+          "anon": "no", 
+          "bucket_name": "Week 9/24 - 9/30", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>For the first hash function, you don&#39;t need a and b at all. Your hash function is just $$h(x) = r(s_i &#43; x)$$.\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-26T01:55:24Z", 
+          "uid": "idi5567wFgu", 
+          "created": "2017-09-26T01:55:24Z", 
+          "type": "feedback", 
+          "id": "j80y9gbytd41co", 
+          "anon": "no", 
+          "bucket_name": "Week 9/24 - 9/30", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Ok. Is&#39;nt x a large number and when it is added to si, r(si &#43; x), still ganerates  a large number?\nBut the bloom filter size is  n=1917017 and the index that is generated will go out of bounds? As per the configuration file and somewhere in the instruction it says, we should not change this value. Can we? Or am I totally missing something."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-26T01:56:19Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-09-26T01:56:19Z", 
+          "type": "feedback", 
+          "id": "j80yammfuvc6rv", 
+          "anon": "no", 
+          "bucket_name": "Week 9/24 - 9/30", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Remember that x is used to generate the seed, not the position in the list.</p>\n<p></p>\n<p>How do you think you can generate a position in the list without going out of bounds?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-26T02:17:20Z", 
+          "uid": "idi5567wFgu", 
+          "created": "2017-09-26T02:17:20Z", 
+          "type": "feedback", 
+          "id": "j80z1o2pave4om", 
+          "anon": "no", 
+          "bucket_name": "Week 9/24 - 9/30", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Got it. I admit my lack of python knowledge :). Just did not know how to put things together.  But now I understood. Thanks for your help, Santiago. Appreciate it."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-29T22:48:31Z", 
+          "uid": "hveop63kovn61t", 
+          "created": "2017-09-29T22:48:31Z", 
+          "type": "feedback", 
+          "id": "j86hciypfig56p", 
+          "anon": "no", 
+          "bucket_name": "Week 9/24 - 9/30", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Santiago,</p>\n<p></p>\n<p>What did you mean by the first hash function doesn&#39;t need a or b?</p>\n<p></p>\n<p>Am I misunderstanding what getHashList should be returning?</p>\n<p></p>\n<p>i thought the result would be a list of random numbers based off setting the seed at each k where the random numbers generated are to be in the bounds of 0 and the size of our hash table. if the first hash function is just calling random.seed nothing will be the value as random.seed does not return anything.\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-30T00:43:38Z", 
+          "uid": "i4ket0u1z5q31a", 
+          "created": "2017-09-30T00:43:38Z", 
+          "type": "feedback", 
+          "id": "j86lgk838hvjp", 
+          "anon": "no", 
+          "bucket_name": "Week 9/24 - 9/30", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>HashType1 does not use a and b, those are for HashType2.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-30T00:51:12Z", 
+          "uid": "hveop63kovn61t", 
+          "created": "2017-09-30T00:51:12Z", 
+          "type": "feedback", 
+          "id": "j86lqaxl4nd5bl", 
+          "anon": "no", 
+          "bucket_name": "Week 9/24 - 9/30", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>following this thread from the top it seems like the statement is saying randint does not need a,b for the first hash function. as in randint is not called?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-30T15:26:15Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-09-30T15:26:15Z", 
+          "type": "feedback", 
+          "id": "j87gzm0mxsr5ps", 
+          "anon": "no", 
+          "bucket_name": "Week 9/24 - 9/30", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>For Task 1/Type 1, you definitively need to generate a random number (remember that $$h(x)=r(s_i&#43;x)$$), so you do need <em>randint</em>. But you don&#39;t need to use $$a$$ and $$b$$ because those are part of Task 1/Type 2.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-30T15:55:43Z", 
+          "uid": "hveop63kovn61t", 
+          "created": "2017-09-30T15:55:43Z", 
+          "type": "feedback", 
+          "id": "j87i1ispi2p36p", 
+          "anon": "no", 
+          "bucket_name": "Week 9/24 - 9/30", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Yeah, i am trying to troubleshoot if it&#39;s my add code or my hash code. Right now I am getting 99960 mismatches when running task 2 with type1 hashing. Also get a lot of mismatches with type 2. I do not get any incorrect results though..</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-01T19:03:28Z", 
+          "uid": "i4j6x4gsbrz70z", 
+          "created": "2017-10-01T19:03:28Z", 
+          "type": "feedback", 
+          "id": "j8946t24mpqqs", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Still not quite understood the random generate for HashType1 (h(x)=r(s_i&#43;x)). Do I need to call random.seed(x) here? Or any other random generator call? Or is the random number the added value of s_i and x?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-01T19:42:40Z", 
+          "uid": "gns9oa0pgsO", 
+          "created": "2017-10-01T19:42:40Z", 
+          "type": "feedback", 
+          "id": "j895l87narh5uj", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>1) when you build hash type 1, you should generate randomly k seeds, and put them in a list. (this list is provided to you for task 2 only, tasks 1 and 3 require generation).</p>\n<p>2) when you are building the hashes of a single data value x, you first seed a random number generator with self.seed[i] &#43; x, and then you get the next random number within the appropriate range, and that is the i&#39;th hash of x.</p>\n<p>3) return a list of all k of these hashes of x</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-01T20:37:59Z", 
+          "uid": "i4j6x4gsbrz70z", 
+          "created": "2017-10-01T20:37:59Z", 
+          "type": "feedback", 
+          "id": "j897kd9y3mz5z", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thank you for the quick reply John. So, by this I understand that, for HashType1\u00a0I need to call random.seed with seed_i &#43; x and then randint with range (0..n) to get the ith hash of x - correct?\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-01T20:40:27Z", 
+          "uid": "gns9oa0pgsO", 
+          "created": "2017-10-01T20:40:27Z", 
+          "type": "feedback", 
+          "id": "j897njd3imd74s", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>yes.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-01T20:41:43Z", 
+          "uid": "i4j6x4gsbrz70z", 
+          "created": "2017-10-01T20:41:43Z", 
+          "type": "feedback", 
+          "id": "j897p5syk4y4jt", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thank you John!</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-07T16:37:14Z", 
+          "uid": "hqa46xmysgg2af", 
+          "created": "2017-10-07T16:37:14Z", 
+          "type": "feedback", 
+          "id": "j8hjlvmeer7iq", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>where we need to call\u00a0call random.seed with seed[i] &#43; x inside the\u00a0getHashList method, for seed[I] can i use the seed provided in config file as below?\u00a0 Because i want to make sure it is compliance with\u00a0 office hours &#34;Only do random seed/coefficient generation 1 time per hash function generation (in the constructor)&#34;</p>\n<p></p>\n<p></p>\n<p>#list of 13 seeds</p>\n<p>seed_0=1747146</p>\n<p>seed_1=584709</p>\n<p>seed_2=1816585</p>\n<p>seed_3=1757686</p>\n<p>seed_4=1606647</p>\n<p>\u00a0</p>"
+        }
+      ], 
+      "subject": "For type 1 hash, the document says,\n\nFor each of your k hash functions, pick a seed si. Let r(x) be the built-in random number\ngenerator seeded at x. \n\nSo to generate hash, we do hash(random.seed(ith seed &#43; x)) to generate the ith hash?\n\nDo we have to use both random.seed(x) and random.randint(a,b)?"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-26T04:23:18Z", 
+      "no_upvotes": 0, 
+      "uid": "ig9fx44bzwr74x", 
+      "created": "2017-09-26T04:23:18Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j813jnko5yd6qw", 
+      "anon": "no", 
+      "bucket_name": "Week 9/24 - 9/30", 
+      "config": {}, 
+      "bucket_order": 7, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-26T05:13:59Z", 
+          "uid": "i4iqepuw3vi2q5", 
+          "created": "2017-09-26T05:13:59Z", 
+          "type": "feedback", 
+          "id": "j815cubrs6q5f2", 
+          "anon": "no", 
+          "bucket_name": "Week 9/24 - 9/30", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>A prime number and must P&gt;=n. I think you can pick it by yourself. More detail can be found in the instruction.\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-26T12:57:53Z", 
+          "uid": "gns9oa0pgsO", 
+          "created": "2017-09-26T12:57:53Z", 
+          "type": "feedback", 
+          "id": "j81lxepa9ao2nh", 
+          "anon": "no", 
+          "bucket_name": "Week 9/24 - 9/30", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>P&gt;=N -&gt;\u00a0 must be greater than or equal to Universe size, not n.\u00a0 The universe size provided in the files is prime, and so works for P.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-28T20:59:22Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-09-28T20:59:22Z", 
+          "type": "feedback", 
+          "id": "j84y0bcf4gf785", 
+          "anon": "no", 
+          "bucket_name": "Week 9/24 - 9/30", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>So we can quite literally use that universe size N for P?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-28T22:00:34Z", 
+          "uid": "gns9oa0pgsO", 
+          "created": "2017-09-28T22:00:34Z", 
+          "type": "feedback", 
+          "id": "j850700gi7k195", 
+          "anon": "no", 
+          "bucket_name": "Week 9/24 - 9/30", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>quite.\u00a0 :)</p>\n<p></p>"
+        }
+      ], 
+      "subject": "<p>what is P in HashType2?\u00a0</p>\n<p></p>\n<pre>(self.a[i] * x &#43; self.b[i] mod P) mod n</pre>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-26T15:09:47Z", 
+      "no_upvotes": 0, 
+      "uid": "ig9fx44bzwr74x", 
+      "created": "2017-09-26T15:09:47Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j81qn16eofirc", 
+      "anon": "no", 
+      "bucket_name": "Week 9/24 - 9/30", 
+      "config": {}, 
+      "bucket_order": 7, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>okay thanks guys!\u00a0 for a minute i thought it was something like RSA where i multiply a[i] w/ b[i] to produce P and then check primality</p>"
+    }
+  ], 
+  "nr": 437, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "project"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 9, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "project", 
+    "student"
+  ], 
+  "created": "2017-09-25T23:32:55Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145217431, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>Two questions in regard to numpy if they can be answered.</p>\n<p></p>\n<p>1. What version of numpy will be used for grading?\u00a0 It&#39;s not a huge deal but there is an update to the numpy.unique() function that returns additional information.\u00a0 Using this for a portion other than Section 2 so i guess I can comment it out just to be safe but I&#39;m curious.</p>\n<p></p>\n<p>2. If you can answer, is there a particular version of random that we should be using? random, randint, uniform etc.\u00a0 Or is this something we should explore or perhaps it doesn&#39;t matter.</p>", 
+      "anon": "no", 
+      "created": "2017-09-25T23:33:22Z", 
+      "uid": "hv5exp71kfz754", 
+      "subject": "Numpy Questions:"
+    }, 
+    {
+      "content": "<p>Two questions in regard to numpy if they can be answered.</p>\n<p></p>\n<p>1. What version of numpy will be used for grading?\u00a0 It&#39;s not a huge deal but there is an update to the numpy.unique() function that returns additional information.</p>\n<p></p>\n<p>2. If you can answer, is there a particular version of random that we should be using? random, randint, uniform etc.\u00a0 Or is this something we should explore or perhaps it doesn&#39;t matter.</p>", 
+      "anon": "no", 
+      "created": "2017-09-25T23:32:55Z", 
+      "uid": "hv5exp71kfz754", 
+      "subject": "Numpy Questions:"
+    }
+  ]
+}

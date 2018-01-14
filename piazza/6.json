@@ -1,0 +1,927 @@
+{
+  "status": "active", 
+  "unique_views": 372, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "full", 
+      "when": "2017-08-16T18:24:11Z", 
+      "data": "j6fcj472yta1b2"
+    }, 
+    {
+      "to": "j6fcj451fgo1b0", 
+      "anon": "no", 
+      "when": "2017-08-17T12:24:22Z", 
+      "type": "followup", 
+      "uid": "hv8z1thijfq6ns"
+    }, 
+    {
+      "to": "j6fcj451fgo1b0", 
+      "anon": "no", 
+      "when": "2017-08-17T14:22:40Z", 
+      "type": "feedback", 
+      "uid": "hq9zldzvy63w7"
+    }, 
+    {
+      "to": "j6fcj451fgo1b0", 
+      "anon": "no", 
+      "when": "2017-08-17T15:33:22Z", 
+      "type": "feedback", 
+      "uid": "hviwm6agQCk"
+    }, 
+    {
+      "to": "j6fcj451fgo1b0", 
+      "anon": "no", 
+      "when": "2017-08-17T20:31:21Z", 
+      "type": "feedback", 
+      "uid": "i4gzn4buf4Q"
+    }, 
+    {
+      "to": "j6fcj451fgo1b0", 
+      "anon": "no", 
+      "when": "2017-08-18T20:04:30Z", 
+      "type": "feedback", 
+      "uid": "idgjs16yZ4K"
+    }, 
+    {
+      "to": "j6fcj451fgo1b0", 
+      "anon": "no", 
+      "when": "2017-08-18T20:08:52Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j6fcj451fgo1b0", 
+      "anon": "no", 
+      "when": "2017-08-18T20:49:23Z", 
+      "type": "feedback", 
+      "uid": "hz46706oA2e"
+    }, 
+    {
+      "to": "j6fcj451fgo1b0", 
+      "anon": "full", 
+      "when": "2017-08-18T21:42:58Z", 
+      "type": "feedback"
+    }, 
+    {
+      "to": "j6fcj451fgo1b0", 
+      "anon": "no", 
+      "when": "2017-08-18T22:16:54Z", 
+      "type": "followup", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j6fcj451fgo1b0", 
+      "anon": "no", 
+      "when": "2017-08-18T22:30:05Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j6fcj451fgo1b0", 
+      "anon": "no", 
+      "when": "2017-08-18T23:52:25Z", 
+      "type": "feedback", 
+      "uid": "i4gzn4buf4Q"
+    }, 
+    {
+      "uid": "gns9oa0pgsO", 
+      "type": "i_answer", 
+      "when": "2017-08-19T15:12:09Z", 
+      "to": "j6fcj451fgo1b0", 
+      "anon": "no", 
+      "data": "j6jfzps0ymq742"
+    }, 
+    {
+      "type": "i_answer_update", 
+      "anon": "no", 
+      "when": "2017-08-19T15:14:11Z", 
+      "data": "j6jg2bw6zk37km", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j6fcj451fgo1b0", 
+      "anon": "no", 
+      "when": "2017-08-19T15:21:06Z", 
+      "type": "feedback", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j6fcj451fgo1b0", 
+      "anon": "no", 
+      "when": "2017-08-19T17:20:24Z", 
+      "type": "feedback", 
+      "uid": "hyzfxdm78vs3bg"
+    }, 
+    {
+      "to": "j6fcj451fgo1b0", 
+      "anon": "no", 
+      "when": "2017-08-19T17:27:23Z", 
+      "type": "feedback", 
+      "uid": "i18w67avy8e1uk"
+    }, 
+    {
+      "to": "j6fcj451fgo1b0", 
+      "anon": "no", 
+      "when": "2017-08-19T17:27:50Z", 
+      "type": "feedback", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j6fcj451fgo1b0", 
+      "anon": "no", 
+      "when": "2017-08-19T17:33:34Z", 
+      "type": "followup", 
+      "uid": "hyv35odtttv79h"
+    }, 
+    {
+      "to": "j6fcj451fgo1b0", 
+      "anon": "no", 
+      "when": "2017-08-19T17:55:21Z", 
+      "type": "feedback", 
+      "uid": "hviwm6agQCk"
+    }, 
+    {
+      "to": "j6fcj451fgo1b0", 
+      "anon": "no", 
+      "when": "2017-08-19T17:56:57Z", 
+      "type": "feedback", 
+      "uid": "hyzfxdm78vs3bg"
+    }, 
+    {
+      "to": "j6fcj451fgo1b0", 
+      "anon": "no", 
+      "when": "2017-08-19T19:46:36Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j6fcj451fgo1b0", 
+      "anon": "no", 
+      "when": "2017-08-19T20:38:49Z", 
+      "type": "feedback", 
+      "uid": "hz0jkj9dnctqp"
+    }, 
+    {
+      "to": "j6fcj451fgo1b0", 
+      "anon": "no", 
+      "when": "2017-08-20T01:00:55Z", 
+      "type": "followup", 
+      "uid": "i4j6wygy4l46wq"
+    }, 
+    {
+      "to": "j6fcj451fgo1b0", 
+      "anon": "no", 
+      "when": "2017-08-20T10:01:01Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j6fcj451fgo1b0", 
+      "anon": "no", 
+      "when": "2017-08-20T10:07:13Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j6fcj451fgo1b0", 
+      "anon": "no", 
+      "when": "2017-08-20T13:37:46Z", 
+      "type": "followup", 
+      "uid": "hv5exp71kfz754"
+    }, 
+    {
+      "to": "j6fcj451fgo1b0", 
+      "anon": "no", 
+      "when": "2017-08-20T14:04:10Z", 
+      "type": "feedback", 
+      "uid": "hqa65fnalg83fr"
+    }, 
+    {
+      "to": "j6fcj451fgo1b0", 
+      "anon": "no", 
+      "when": "2017-08-20T18:08:03Z", 
+      "type": "feedback", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j6fcj451fgo1b0", 
+      "anon": "no", 
+      "when": "2017-08-21T00:39:04Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j6fcj451fgo1b0", 
+  "bookmarked": 18, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-08-17T12:24:22Z", 
+      "no_upvotes": 0, 
+      "uid": "hv8z1thijfq6ns", 
+      "created": "2017-08-17T12:24:22Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6gf48dwmmw7ix", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-08-17T14:22:40Z", 
+          "uid": "hq9zldzvy63w7", 
+          "created": "2017-08-17T14:22:40Z", 
+          "type": "feedback", 
+          "id": "j6gjcd1f3m52td", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "I ordered the one stated in Wordpress for the class. \u00a0"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-17T15:33:22Z", 
+          "uid": "hviwm6agQCk", 
+          "created": "2017-08-17T15:33:22Z", 
+          "type": "feedback", 
+          "id": "j6glva95wz02yd", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Ditto"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-17T20:31:21Z", 
+          "uid": "i4gzn4buf4Q", 
+          "created": "2017-08-17T20:31:21Z", 
+          "type": "feedback", 
+          "id": "j6gwihnug677fj", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>ditto as well</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-18T20:04:30Z", 
+          "uid": "idgjs16yZ4K", 
+          "created": "2017-08-18T20:04:30Z", 
+          "type": "feedback", 
+          "id": "j6iaztzewcvxz", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "I also ditto this as well."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-18T20:08:52Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-08-18T20:08:52Z", 
+          "type": "feedback", 
+          "id": "j6ib5fjpfmh7df", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I&#39;ve been preparing for this course for the last 5 or 6 weeks. I have both the required textbook and the recommended textbook, which is &#34;Algorithm Design&#34;. I much prefer the latter. I found many sections of the required book to be very difficult to understand.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-18T20:49:23Z", 
+          "uid": "hz46706oA2e", 
+          "created": "2017-08-18T20:49:23Z", 
+          "type": "feedback", 
+          "id": "j6icljpyklh44c", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>FYI - the course is up at Udacity - in case you want to get a head start - I know I will...</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-18T21:42:58Z", 
+          "created": "2017-08-18T21:42:58Z", 
+          "type": "feedback", 
+          "id": "j6ieify6ef535", 
+          "anon": "full", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "If you&#39;ve taken 6505 before, you know the udacity lectures are of no solace"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-18T22:30:05Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-08-18T22:30:05Z", 
+          "type": "feedback", 
+          "id": "j6ig71yldiu7e", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#64;Conor, we met during CS6210 some time ago. Fun times! This class promises to be as challenging as AOS, if not more. Looking forward to working with you again!</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-18T23:52:25Z", 
+          "uid": "i4gzn4buf4Q", 
+          "created": "2017-08-18T23:52:25Z", 
+          "type": "feedback", 
+          "id": "j6ij4xof3ka3s9", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Hey Santiago... I remember...\u00a0\u00a0 I don&#39;t fancy this class, but we&#39;ll see.\u00a0 Proofs have never been a fun area for me.\u00a0\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-19T15:21:06Z", 
+          "uid": "gns9oa0pgsO", 
+          "created": "2017-08-19T15:21:06Z", 
+          "type": "feedback", 
+          "id": "j6jgb7rnx6j1ng", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>As stated on the wordpress page, Algorithms by Dasgupta, Papadimitriou, Vazirani \u00a0is the primary textbook.\u00a0 <a href=\"https://www.amazon.com/Algorithms-Sanjoy-Dasgupta/dp/0073523402\">https://www.amazon.com/Algorithms-Sanjoy-Dasgupta/dp/0073523402</a><br /><br /></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-19T17:20:24Z", 
+          "uid": "hyzfxdm78vs3bg", 
+          "created": "2017-08-19T17:20:24Z", 
+          "type": "feedback", 
+          "id": "j6jkkmo396y4zw", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Is 8803-GA using the same Udacity lectures as\u00a06506?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-19T17:27:23Z", 
+          "uid": "i18w67avy8e1uk", 
+          "created": "2017-08-19T17:27:23Z", 
+          "type": "feedback", 
+          "id": "j6jktm7e6g65fc", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#64;Peter No. I find 8803-GA lectures are much better than the old lectures (CS6505).\u00a0It is called &#34;Introduction to Graduate Algorithms&#34;.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-19T17:27:50Z", 
+          "uid": "gns9oa0pgsO", 
+          "created": "2017-08-19T17:27:50Z", 
+          "type": "feedback", 
+          "id": "j6jku6vamqy5pe", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>this class is using brand new lectures.</p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-19T17:55:21Z", 
+          "uid": "hviwm6agQCk", 
+          "created": "2017-08-19T17:55:21Z", 
+          "type": "feedback", 
+          "id": "j6jltkswixt7lb", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Yah &#64;peter you need to login w your gt login and it will magically appear"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-19T17:56:57Z", 
+          "uid": "hyzfxdm78vs3bg", 
+          "created": "2017-08-19T17:56:57Z", 
+          "type": "feedback", 
+          "id": "j6jlvn3qf78al", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I see the magic. Thanks!</p>"
+        }
+      ], 
+      "subject": "<p>If possible can we also get confirmation on the course text book? I&#39;d like to order asap to start reviewing.\u00a0</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-18T22:16:54Z", 
+      "no_upvotes": 0, 
+      "uid": "i4nkipeofrkrz", 
+      "created": "2017-08-18T22:16:54Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6ifq3908vf3rg", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>Thanks for posting the link to the Wordpress site. I&#39;m glad I came today to Piazza and found it! I just ordered the books. The links look like is the right place to go because it references Fall 2017.</p>\n<p></p>\n<p>Looking forward to this class and work with all of you!</p>"
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-08-19T15:12:09Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "hz0pec4uduL", 
+        "i18w67avy8e1uk", 
+        "hz0dcwnm1cl4n3", 
+        "iddtex53uvo4xe", 
+        "ijaqo3bm4133g3"
+      ], 
+      "id": "j6jfzprx3xr741", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Hugh Woltzen", 
+          "admin": false, 
+          "photo": "1423117810_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hz0pec4uduL"
+        }, 
+        {
+          "name": "Shihgian Lee", 
+          "admin": false, 
+          "photo": "1420394909_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i18w67avy8e1uk"
+        }, 
+        {
+          "name": "Jeff", 
+          "admin": false, 
+          "photo": null, 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hz0dcwnm1cl4n3"
+        }, 
+        {
+          "name": "Piyush Makhija", 
+          "admin": false, 
+          "photo": "1471808861_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "iddtex53uvo4xe"
+        }, 
+        {
+          "name": "Xinyu Wang", 
+          "admin": true, 
+          "photo": null, 
+          "us": false, 
+          "role": "ta", 
+          "facebook_id": null, 
+          "id": "ijaqo3bm4133g3"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>That is correct.\u00a0 Some of the information (logistical)\u00a0on that page might be subject to change/update over the next few days, but if so, we will put a notice here on piazza.\u00a0 Welcome!</p>\n<p></p>\n<p>Edit : I&#39;d like to add that another book to look at if you are so inclined\u00a0(not required but one that I&#39;ve found very helpful) is <a href=\"https://mitpress.mit.edu/books/introduction-algorithms\">https://mitpress.mit.edu/books/introduction-algorithms</a>\u00a0, commonly referenced as the CLRS text book.</p>", 
+          "anon": "no", 
+          "created": "2017-08-19T15:14:11Z", 
+          "uid": "gns9oa0pgsO", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>That is correct.\u00a0 Some of the information (logistical)\u00a0on that page might be subject to change/update over the next few days, but if so, we will put a notice here on piazza.\u00a0 Welcome!</p>", 
+          "anon": "no", 
+          "created": "2017-08-19T15:12:09Z", 
+          "uid": "gns9oa0pgsO", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-19T17:33:34Z", 
+      "no_upvotes": 0, 
+      "uid": "hyv35odtttv79h", 
+      "created": "2017-08-19T17:33:34Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6jl1k9mhlm7aj", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-08-19T19:46:36Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-08-19T19:46:36Z", 
+          "type": "feedback", 
+          "id": "j6jpsnbd8j075e", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p></p>\n<p>Yes, the syllabus is on the Wordpress page:</p>\n<p>\u00a0\u00a0<a href=\"https://8803ga.wordpress.com/\">https://8803ga.wordpress.com/</a></p>\n<p></p>\n<p>And I have a draft schedule there as well with links</p>\n<p>to the Udacity videos (still editing/fixing some of the</p>\n<p>later videos, so be patient please):</p>\n<p>\u00a0 \u00a0\u00a0<a href=\"https://8803ga.wordpress.com/lecture-schedule/\">https://8803ga.wordpress.com/lecture-schedule/</a></p>\n<p></p>\n<p>Yes, the book is [DPV]. \u00a0I quite like it, but it doesn&#39;t fit</p>\n<p>everyone&#39;s style so take a look at [Kleinberg-Tardos] or [CLRS]</p>\n<p>if you want something different. \u00a0</p>\n<p></p>\n<p>--Eric</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-19T20:38:49Z", 
+          "uid": "hz0jkj9dnctqp", 
+          "created": "2017-08-19T20:38:49Z", 
+          "type": "feedback", 
+          "id": "j6jrnsnqamf428", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Do you recommend reading the assigned book chapter(s) or watching the lectures first?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-20T10:07:13Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-08-20T10:07:13Z", 
+          "type": "feedback", 
+          "id": "j6kkjelgghb44j", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p></p>\n<p>Sorry, I&#39;ve never taken or taught an online course so I can&#39;t give you good advice on that. \u00a0For the traditional class I always tell students it&#39;s best to read the textbook before coming to class, so perhaps the same here? \u00a0Maybe you all can tell us afterwards what works best, but it probably depends on the individual.</p>\n<p></p>\n<p>--Eric</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-20T14:04:10Z", 
+          "uid": "hqa65fnalg83fr", 
+          "created": "2017-08-20T14:04:10Z", 
+          "type": "feedback", 
+          "id": "j6kt04jq2jq6ys", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Since classes are repeatable in the online format I&#39;ve usually done lectures first then the reading.\u00a0</p>"
+        }
+      ], 
+      "subject": "<p>Lectures are here. \u00a0</p>\n<p></p>\n<p><a href=\"https://classroom.udacity.com/courses/ud401/\">https://classroom.udacity.com/courses/ud401/</a></p>\n<p></p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-20T01:00:55Z", 
+      "no_upvotes": 0, 
+      "uid": "i4j6wygy4l46wq", 
+      "created": "2017-08-20T01:00:55Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6k10v0l8n91kp", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-08-20T10:01:01Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-08-20T10:01:01Z", 
+          "type": "feedback", 
+          "id": "j6kkbg0pqmi6v2", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p></p>\n<p>Other. \u00a0Certainly 90&#43; will get you an A but the cutoffs\u00a0will be more</p>\n<p>generous\u00a0than that depending on the difficulty of the exams. \u00a0I&#39;ll\u00a0</p>\n<p>give you statistics after each exam. \u00a0 --Eric</p>"
+        }
+      ], 
+      "subject": "<p><strong>Side Question:</strong> The Syllabus does not list a grading scale. \u00a0Standard 90-100, 80-89.49 or other?</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-20T13:37:46Z", 
+      "no_upvotes": 0, 
+      "uid": "hv5exp71kfz754", 
+      "created": "2017-08-20T13:37:46Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6ks26krwvp3a", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-08-20T18:08:03Z", 
+          "uid": "i4ket0u1z5q31a", 
+          "created": "2017-08-20T18:08:03Z", 
+          "type": "feedback", 
+          "id": "j6l1prmnbl71lu", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>That seems logical to me.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-21T00:39:04Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-08-21T00:39:04Z", 
+          "type": "feedback", 
+          "id": "j6lfomlih2b3vg", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p></p>\n<p>Yes. \u00a0--Eric</p>"
+        }
+      ], 
+      "subject": "<p>The page lists 10 graded homeworks. \u00a0Is it safe to assume there will be graded homework every week we don&#39;t have an exam?</p>"
+    }
+  ], 
+  "nr": 6, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "other"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 3, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "other", 
+    "student"
+  ], 
+  "created": "2017-08-16T18:24:11Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145339550, 
+  "tag_good": [
+    {
+      "name": "Aaron Buxbaum", 
+      "admin": false, 
+      "photo": "1471710596_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "ijbpipio0mQ"
+    }, 
+    {
+      "name": "Jaya Rao", 
+      "admin": false, 
+      "photo": "1503185676_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hviwm6agQCk"
+    }, 
+    {
+      "name": "Vincent Romeo", 
+      "admin": false, 
+      "photo": "1400337266_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hv8z1thijfq6ns"
+    }, 
+    {
+      "name": "William Miller", 
+      "admin": false, 
+      "photo": "1408322716_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hv1gl7gmpkj41y"
+    }, 
+    {
+      "name": "Jeff Berry", 
+      "admin": false, 
+      "photo": "1452567269_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "ijarmqggjkc3gz"
+    }, 
+    {
+      "name": "Pico Geyer", 
+      "admin": false, 
+      "photo": "1434355342_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4mub6lmaxh"
+    }, 
+    {
+      "name": "KeanYong, Lee", 
+      "admin": false, 
+      "photo": "1420430430_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4h63fj3j1b74u"
+    }, 
+    {
+      "name": "Shihgian Lee", 
+      "admin": false, 
+      "photo": "1420394909_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i18w67avy8e1uk"
+    }, 
+    {
+      "name": "Matthew Clarke", 
+      "admin": false, 
+      "photo": "1468354733_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4knvwlqXZ8"
+    }, 
+    {
+      "name": "Nelson Cheng", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4kxfs7hlxngu"
+    }, 
+    {
+      "name": "Anna", 
+      "admin": false, 
+      "photo": "1484629250_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4je07nkEjF"
+    }
+  ], 
+  "tag_good_arr": [
+    "ijbpipio0mQ", 
+    "hviwm6agQCk", 
+    "hv8z1thijfq6ns", 
+    "hv1gl7gmpkj41y", 
+    "ijarmqggjkc3gz", 
+    "i4mub6lmaxh", 
+    "i4h63fj3j1b74u", 
+    "i18w67avy8e1uk", 
+    "i4knvwlqXZ8", 
+    "i4kxfs7hlxngu", 
+    "i4je07nkEjF"
+  ], 
+  "history": [
+    {
+      "content": "Hello, I just wanted to make sure this was still the correct syllabus for Fall.\n\nhttps://8803ga.wordpress.com/", 
+      "anon": "full", 
+      "created": "2017-08-16T18:24:11Z", 
+      "subject": "Any Changes to the Syllabus?"
+    }
+  ]
+}

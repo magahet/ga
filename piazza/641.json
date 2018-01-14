@@ -1,0 +1,202 @@
+{
+  "status": "active", 
+  "unique_views": 126, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-06T21:59:57Z", 
+      "data": "j8gfp1e0gk15c4", 
+      "uid": "hvfeyx7qglF"
+    }, 
+    {
+      "uid": "idg5nm2lC96", 
+      "type": "s_answer", 
+      "when": "2017-10-06T22:01:30Z", 
+      "to": "j8gfp1dxrf95c3", 
+      "anon": "no", 
+      "data": "j8gfr0r5iq67jn"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-10-06T22:02:17Z", 
+      "data": "j8gfs1e2vxne9", 
+      "uid": "idg5nm2lC96"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-10-06T22:07:02Z", 
+      "data": "j8gfy52lkku5dg", 
+      "uid": "idg5nm2lC96"
+    }, 
+    {
+      "to": "j8gfp1dxrf95c3", 
+      "anon": "no", 
+      "when": "2017-10-06T22:09:02Z", 
+      "type": "followup", 
+      "uid": "hvfeyx7qglF"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8gfp1dxrf95c3", 
+  "bookmarked": 3, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-06T22:01:30Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [
+        "hvfeyx7qglF", 
+        "hq9zldq5n9mvn"
+      ], 
+      "id": "j8gfr0r21hh7jm", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Brandon Richards", 
+          "admin": false, 
+          "photo": "1408392221_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hvfeyx7qglF"
+        }, 
+        {
+          "name": "Brian Trinh", 
+          "admin": false, 
+          "photo": null, 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hq9zldq5n9mvn"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>Not necessarily.\u00a0A graph can have multiple\u00a0source SCCs and multiple sink SCCs just as a DAG can have multiple source vertices and multiple sink vertices. For example, in the running example shown in GR1, it has two sink SCCs: $$\\{D\\}$$ and $$\\{H, I, J, K, L\\}$$.\u00a0</p>", 
+          "anon": "no", 
+          "created": "2017-10-06T22:07:02Z", 
+          "uid": "idg5nm2lC96", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>Not necessarily.\u00a0A graph can have multiple\u00a0source SCCs and multiple sink SCCs just as a DAG can have multiple source vertices and multiple sink vertices.</p>", 
+          "anon": "no", 
+          "created": "2017-10-06T22:02:17Z", 
+          "uid": "idg5nm2lC96", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>Not necessarily.\u00a0A graph can have multiple\u00a0source SCCs and multiple sink SCCs.\u00a0</p>", 
+          "anon": "no", 
+          "created": "2017-10-06T22:01:30Z", 
+          "uid": "idg5nm2lC96", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-06T22:09:02Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "hvfeyx7qglF", 
+      "created": "2017-10-06T22:09:02Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8gg0pm8zg55rv", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>Thanks.\u00a0 I lost sight of that while trying to do the homework.</p>"
+    }
+  ], 
+  "nr": 641, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw4", 
+    "graph_algorithms"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "graph_algorithms", 
+    "hw4", 
+    "student"
+  ], 
+  "created": "2017-10-06T21:59:57Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145169792, 
+  "tag_good": [
+    {
+      "name": "Brian Trinh", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hq9zldq5n9mvn"
+    }, 
+    {
+      "name": "Dennis Sidharta", 
+      "admin": false, 
+      "photo": "1463366773_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "idg5nm2lC96"
+    }, 
+    {
+      "name": "Shihgian Lee", 
+      "admin": false, 
+      "photo": "1420394909_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i18w67avy8e1uk"
+    }
+  ], 
+  "tag_good_arr": [
+    "hq9zldq5n9mvn", 
+    "idg5nm2lC96", 
+    "i18w67avy8e1uk"
+  ], 
+  "history": [
+    {
+      "content": "<p>Since the output of the SCC algorithm is a DAG of the SCCs, I&#39;m thinking it&#39;s only possible to have one source and one sink SCC...\u00a0 Is that correct?</p>", 
+      "anon": "no", 
+      "created": "2017-10-06T21:59:57Z", 
+      "uid": "hvfeyx7qglF", 
+      "subject": "Possible number of source/sink SCCs"
+    }
+  ]
+}

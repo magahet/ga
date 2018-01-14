@@ -1,0 +1,121 @@
+{
+  "status": "active", 
+  "unique_views": 189, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "stud", 
+      "when": "2017-09-04T12:13:14Z", 
+      "data": "j764n9128fa6bx"
+    }, 
+    {
+      "uid": "i4gzn4buf4Q", 
+      "type": "s_answer", 
+      "when": "2017-09-04T12:36:04Z", 
+      "to": "j764n90xk1b6bw", 
+      "anon": "no", 
+      "data": "j765glse52a62t"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j764n90xk1b6bw", 
+  "bookmarked": 2, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-04T12:36:03Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [
+        "hz298xruotg", 
+        "i4j6x86gc2b73o", 
+        "hyzzr9z7x6a1mz"
+      ], 
+      "id": "j765glqmvyq62q", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Travis Loncar", 
+          "admin": false, 
+          "photo": "1409193297_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hz298xruotg"
+        }, 
+        {
+          "name": "Cedric Meury", 
+          "admin": false, 
+          "photo": "1420556447_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i4j6x86gc2b73o"
+        }, 
+        {
+          "name": "Ronny A. Pena", 
+          "admin": false, 
+          "photo": "1439924476_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hyzzr9z7x6a1mz"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>I&#39;ve put a copy of the pdf and the tex templates on my dropbox that you should be able to get to via:</p>\n<p></p>\n<p><a href=\"https://www.dropbox.com/sh/101coexmjkig007/AADjSX7dpHwATWx8bEFx0MG3a?dl=0\">https://www.dropbox.com/sh/101coexmjkig007/AADjSX7dpHwATWx8bEFx0MG3a?dl=0</a></p>\n<p></p>\n<p>I pulled these on the 21st.\u00a0 Not sure if there have been any changes.</p>", 
+          "anon": "no", 
+          "created": "2017-09-04T12:36:04Z", 
+          "uid": "i4gzn4buf4Q", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 169, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw1"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 0, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw1", 
+    "student"
+  ], 
+  "created": "2017-09-04T12:13:14Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145284267, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>Can anyone share the pdf in\u00a0<a href=\"http://www.cc.gatech.edu/~vigoda/6505/DP-hw-template.pdf\">http://www.cc.gatech.edu/~vigoda/6505/DP-hw-template.pdf</a>?</p>\n<p></p>\n<p>The site is down.</p>\n<p></p>\n<p></p>", 
+      "anon": "stud", 
+      "created": "2017-09-04T12:13:14Z", 
+      "subject": "Share HW1 PDF - cc.gatech is down"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "status": "active", 
+  "unique_views": 147, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-07T21:51:53Z", 
+      "data": "j8huui9b7r515e", 
+      "uid": "i4ps9nqsv397k6"
+    }, 
+    {
+      "uid": "hve4kb0lopy4sl", 
+      "type": "s_answer", 
+      "when": "2017-10-08T02:50:21Z", 
+      "to": "j8huui98y5n15d", 
+      "anon": "no", 
+      "data": "j8i5ic6hoxt2ii"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8huui98y5n15d", 
+  "bookmarked": 3, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-08T02:50:21Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j8i5ic6er062ih", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>I think what is being asked for in task1 is to explain what you may have discovered which gives you insights into how the bloom filter should be designed, ie, what did you learn in task1 that may make you choose 1 hash function or the other by the time you get to tasks 2 and 3.</p>", 
+          "anon": "no", 
+          "created": "2017-10-08T02:50:21Z", 
+          "uid": "hve4kb0lopy4sl", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 663, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "project"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "project", 
+    "student"
+  ], 
+  "created": "2017-10-07T21:51:53Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145165171, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>I&#39;ve finished all the programming and graphs I need to but, I keep on going back and forth on exactly what to write and where.</p>\n<p></p>\n<p>According to the PDF, we should &#34;how do these hash functions compare when utilized in your implementation of a Bloom filter&#34; as a part of task 1, but we are not supposed to construct a bloom filter as a part of task 1.\u00a0 It seems kind of contradictory to write about that there, but I wouldn&#39;t want to lose points because I didn&#39;t touch on all points exactly where it calls out &#34;Report:&#34;.</p>\n<p></p>\n<p>Also, should we only be writing to things that are mentioned in the &#34;Report: &#34; portion, or if anything is mentioned in the PDF, should we write to it somewhere?\u00a0 I feel like I saw mention of &#34;write about this&#34; and it wasn&#39;t in that section, though I cannot find any relevant posts to back that up.</p>", 
+      "anon": "no", 
+      "created": "2017-10-07T21:51:53Z", 
+      "uid": "i4ps9nqsv397k6", 
+      "subject": "Report Structure"
+    }
+  ]
+}

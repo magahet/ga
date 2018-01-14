@@ -1,0 +1,131 @@
+{
+  "status": "active", 
+  "unique_views": 139, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-08-30T00:17:40Z", 
+      "data": "j6y9vrppl8u8h", 
+      "uid": "i4j6wvmu7he6v1"
+    }, 
+    {
+      "uid": "isgwdf47kb42f", 
+      "type": "i_answer", 
+      "when": "2017-08-30T00:21:21Z", 
+      "to": "j6y9vrpjuyw8g", 
+      "anon": "no", 
+      "data": "j6ya0ieb3q16s0"
+    }, 
+    {
+      "to": "j6y9vrpjuyw8g", 
+      "anon": "no", 
+      "when": "2017-08-30T22:47:22Z", 
+      "type": "followup", 
+      "uid": "gy4twfv45cg5o6"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j6y9vrpjuyw8g", 
+  "bookmarked": 3, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-08-30T00:21:21Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "i4j6wvmu7he6v1"
+      ], 
+      "id": "j6ya0idkmr96ry", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Laremy Rowe", 
+          "admin": false, 
+          "photo": "1431835684_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i4j6wvmu7he6v1"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>The point of the separate indices is to allow for different length prefixes. The lengths of the strings are still equal, hence the maximum length of either prefix still remains n. (i &amp; j correspond to the lengths of the prefixes.)</p>", 
+          "anon": "no", 
+          "created": "2017-08-30T00:21:21Z", 
+          "uid": "isgwdf47kb42f", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-30T22:47:22Z", 
+      "no_upvotes": 0, 
+      "uid": "gy4twfv45cg5o6", 
+      "created": "2017-08-30T22:47:22Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6zm3hrompg50q", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p></p>\n<p>If you wanted to allow the input strings to be of different lengths then you can do as you suggest: \u00a00 &lt;= i &lt;= n, 0 &lt;= j &lt;= m. \u00a0I defined the problem where the input strings are both length n so that&#39;s why I simply did: \u00a0 \u00a00 &lt;= i &lt;= n, 0 &lt;= j &lt;= n, but as Michael pointed out the two parameters are still necessary to allow the prefixes to be different lengths.</p>"
+    }
+  ], 
+  "nr": 112, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "udacity", 
+    "course"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 0, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "course", 
+    "student", 
+    "udacity"
+  ], 
+  "created": "2017-08-30T00:17:40Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145301676, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>Quick question regarding this portion of the lecture. \u00a0Why isn&#39;t it 0 &lt;= i &lt;= n, 0 &lt;= j &lt;= m? \u00a0Isn&#39;t part of the point of separate indices the possibility that the strings can be of different sizes?</p>", 
+      "anon": "no", 
+      "created": "2017-08-30T00:17:40Z", 
+      "uid": "i4j6wvmu7he6v1", 
+      "subject": "DP1 module 20 Indices Question"
+    }
+  ]
+}

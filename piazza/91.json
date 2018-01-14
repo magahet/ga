@@ -1,0 +1,219 @@
+{
+  "status": "active", 
+  "unique_views": 150, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-08-27T08:54:01Z", 
+      "data": "j6ui08e7yfb6pw", 
+      "uid": "i8597qyse9c1v2"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-08-27T09:00:09Z", 
+      "data": "j6ui84uc8ks5og", 
+      "uid": "i8597qyse9c1v2"
+    }, 
+    {
+      "uid": "gy4twfv45cg5o6", 
+      "type": "i_answer", 
+      "when": "2017-08-28T00:37:20Z", 
+      "to": "j6ui08e6cfz6pv", 
+      "anon": "no", 
+      "data": "j6vfpcqns3d3z1"
+    }, 
+    {
+      "to": "j6ui08e6cfz6pv", 
+      "anon": "no", 
+      "when": "2017-08-28T01:16:52Z", 
+      "type": "followup", 
+      "uid": "i4iys7m3lpq2ij"
+    }, 
+    {
+      "to": "j6ui08e6cfz6pv", 
+      "anon": "no", 
+      "when": "2017-08-28T12:45:08Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j6ui08e6cfz6pv", 
+      "anon": "no", 
+      "when": "2017-08-28T12:52:17Z", 
+      "type": "feedback", 
+      "uid": "i4iys7m3lpq2ij"
+    }, 
+    {
+      "to": "j6ui08e6cfz6pv", 
+      "anon": "no", 
+      "when": "2017-08-29T08:34:51Z", 
+      "type": "feedback", 
+      "uid": "i8597qyse9c1v2"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j6ui08e6cfz6pv", 
+  "bookmarked": 3, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-08-28T00:37:20Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j6vfpcqipki3z0", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p></p>\n<p>I don&#39;t completely follow your question/comment so sorry for any misunderstanding.</p>\n<p></p>\n<p>I agree that P(0,0) = 0. \u00a0</p>\n<p></p>\n<p>For i\\geq 1, P(i,0) = \\delta(x_1,GAP) &#43; \\delta(x_2,GAP) &#43; ... &#43; \\delta(x_i,GAP), right?</p>\n<p>Which is what the algorithm does? \u00a0</p>\n<p>Sorry, I don&#39;t really follow what you&#39;re proposing instead?</p>\n<p></p>\n<p>--Eric</p>", 
+          "anon": "no", 
+          "created": "2017-08-28T00:37:20Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-28T01:16:52Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "i4iys7m3lpq2ij", 
+      "created": "2017-08-28T01:16:52Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6vh46r7gfe3e7", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-08-28T12:45:08Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-08-28T12:45:08Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j6w5pbjfw1659n", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p></p>\n<p>This seems correct to me:</p>\n<p>\u00a0 \u00a0P(1,1)=max{\u03b4(GAP,y1)&#43;\u03b4(x1,GAP),\u03b4(GAP,y1)&#43;\u03b4(x1,GAP),\u03b4(x1,y1)}.</p>\n<p></p>\n<p>For alignment you either match x1 and y1 -- the last case, or</p>\n<p>you match x1 with GAP and y1 with GAP. \u00a0You can&#39;t do x1 with GAP and</p>\n<p>y1 with nothing? \u00a0What does it align with? \u00a0If it&#39;s a mutation/substitution then</p>\n<p>you pay \\delta(x1,y1). \u00a0If it&#39;s a pair of insertions/deletions then you pay</p>\n<p>for two GAP&#39;s. \u00a0Right?</p>\n<p></p>\n<p>--Eric</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-28T12:52:17Z", 
+          "uid": "i4iys7m3lpq2ij", 
+          "created": "2017-08-28T12:52:17Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j6w5yhyslc0wo", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Doh! Thanks</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-29T08:34:51Z", 
+          "uid": "i8597qyse9c1v2", 
+          "created": "2017-08-29T08:34:51Z", 
+          "type": "feedback", 
+          "id": "j6xc7aueunf4sd", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thanks Kate and Prof Eric.</p>"
+        }
+      ], 
+      "subject": "<p>I had a similar question, let me see if I can phrase it differently:</p>\n<p></p>\n<p>If $$P(i,0) = \\sum_{m=1}^{i} \\delta(x_m,GAP)$$ and $$P(0,j) = \\sum_{m=1}^{j} \\delta(GAP,y_m)$$, then $$P(1,0) = \\delta(x_1,GAP)$$ and $$P(0,1) = \\delta(GAP,y_1)$$</p>\n<p>\u00a0</p>\n<p>So, $$P(1,1) = \\max\\{ P(0,1)&#43;\\delta(x_1,GAP), P(1,0)&#43;\\delta(GAP,y_1), P(0,0)&#43;\\delta(x_1,y_1)\\}$$ is the same as $$P(1,1) = \\max\\{ \\delta(GAP,y_1)&#43;\\delta(x_1,GAP), \\delta(GAP,y_1)&#43;\\delta(x_1,GAP), \\delta(x_1,y_1)\\}$$.</p>\n<p></p>\n<p>The question is why\u00a0P(1,1)\u00a0isn&#39;t simply</p>\n<p>$$P(1,1) = \\max\\{ \\delta(x_1,GAP), \\delta(GAP,y_1), \\delta(x_1,y_1)\\}$$ (which would be the case if\u00a0$$\\forall{i}$$ $$P(i,0)=0$$) and $$\\forall{j}$$ $$P(j,0)=0$$), since this corresponds to the rewards for our 3 options: 1) match $$x_1$$ with GAP, 2) match $$y_1$$ with GAP, and 3) match\u00a0$$x_1$$ with $$y_1$$.</p>\n<p></p>\n<p>Thoughts? Perhaps we&#39;ve been looking at this too long and we&#39;re going cross-eyed :)\u00a0</p>"
+    }
+  ], 
+  "nr": 91, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "dynamic_programming"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "dynamic_programming", 
+    "student"
+  ], 
+  "created": "2017-08-27T08:54:01Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145308678, 
+  "tag_good": [
+    {
+      "name": "Kate Alpert", 
+      "admin": false, 
+      "photo": "1488584881_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4iys7m3lpq2ij"
+    }
+  ], 
+  "tag_good_arr": [
+    "i4iys7m3lpq2ij"
+  ], 
+  "history": [
+    {
+      "content": "<p>For 6.26, the author goes on to warn how the base cases P(0,j) and P(i,0) are not zero. My understanding is that they need to be zero, index i=j=0 holds no data to compare. Here, we insert gaps, but we would not want to insert a gap twice for the same comparison. That is,</p>\n<p></p>\n<p>for j = i = 1</p>\n<p></p>\n<p>the term delta( GAP , y_1 ) &#43; S ( 1 , 0 ) should just be initial score delta( GAP , y_1 ) (that is,\u00a0S ( 1 , 0 ) = 0 it does not add to the score, there is no data there).</p>\n<p></p>\n<p>According to the author, S(\u00a01 , 0 ) = delta( x_1 , GAP) so P(1,1) =\u00a0delta( GAP , y_1 ) &#43;\u00a0delta( x_1 , GAP)</p>", 
+      "anon": "no", 
+      "created": "2017-08-27T09:00:09Z", 
+      "uid": "i8597qyse9c1v2", 
+      "subject": "6.26 base cases"
+    }, 
+    {
+      "content": "<p>For 6.26, the author goes on to warn how the base cases P(0,j) and P(i,0) are not zero. My understanding is that they need to be zero, index i=j=0 holds no data to compare. Here, we insert gaps, but we would not want to insert a gap twice for the same comparison. That is,</p>\n<p></p>\n<p>for j = i = 1</p>\n<p></p>\n<p>the term delta( GAP , y_1 ) &#43; S ( 1 , 0 ) should just be initial score delta( GAP , y_1 ) (that is,\u00a0S ( 1 , 0 ) = 0 it does not add to the score, there is no data there).</p>", 
+      "anon": "no", 
+      "created": "2017-08-27T08:54:01Z", 
+      "uid": "i8597qyse9c1v2", 
+      "subject": "6.26 base cases"
+    }
+  ]
+}

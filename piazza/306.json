@@ -1,0 +1,226 @@
+{
+  "status": "active", 
+  "unique_views": 186, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-14T16:57:25Z", 
+      "data": "j7kp78p8adg6i8", 
+      "uid": "hqj2wfy7NUZ"
+    }, 
+    {
+      "uid": "gy4twfv45cg5o6", 
+      "type": "i_answer", 
+      "when": "2017-09-14T17:46:34Z", 
+      "to": "j7kp78p5uxp6i7", 
+      "anon": "no", 
+      "data": "j7kqyfojbp66vs"
+    }, 
+    {
+      "to": "j7kp78p5uxp6i7", 
+      "anon": "no", 
+      "when": "2017-09-14T21:01:23Z", 
+      "type": "followup", 
+      "uid": "hju4w9odatf30"
+    }, 
+    {
+      "type": "i_answer_update", 
+      "anon": "no", 
+      "when": "2017-09-14T21:02:11Z", 
+      "data": "j7kxxzu58hy334", 
+      "uid": "hju4w9odatf30"
+    }, 
+    {
+      "to": "j7kp78p5uxp6i7", 
+      "anon": "no", 
+      "when": "2017-09-15T19:42:42Z", 
+      "type": "feedback", 
+      "uid": "iddox7abejr2mj"
+    }, 
+    {
+      "to": "j7kp78p5uxp6i7", 
+      "anon": "no", 
+      "when": "2017-09-18T14:36:47Z", 
+      "type": "feedback", 
+      "uid": "hqj2wfy7NUZ"
+    }, 
+    {
+      "to": "j7kp78p5uxp6i7", 
+      "anon": "no", 
+      "when": "2017-09-18T17:05:20Z", 
+      "type": "feedback", 
+      "uid": "hv5exp71kfz754"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j7kp78p5uxp6i7", 
+  "bookmarked": 6, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-14T17:46:34Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "idfwkujs17e3ky", 
+        "hqj2wfy7NUZ"
+      ], 
+      "id": "j7kqyfofbiv6vr", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Blaine Spear", 
+          "admin": false, 
+          "photo": "1494887789_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "idfwkujs17e3ky"
+        }, 
+        {
+          "name": "Michael Shamberger", 
+          "admin": false, 
+          "photo": null, 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hqj2wfy7NUZ"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p></p>\n<p>Too time consuming for an exam problem, though it&#39;s good practice to learn about the roots of unity and how FFT works etc. \u00a0I won&#39;t ask you to implement FFT during the exam. \u00a0I prefer problems such as problem 4 on HW 3 where you simply use FFT as a black-box (like a subroutine from a library and you can&#39;t change the subroutine/function, you can simply use it as a black-box).</p>\n<p></p>\n<p>Edit: You can find the answers here</p>\n<p>Here is the solution if you want to check:\u00a0<a href=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/hju4w9odatf30/j7kxuoqv63cc/fft_example2.pdf\" target=\"_blank\">fft_example2.pdf</a></p>\n<p>Another example is here:\u00a0<a href=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/hju4w9odatf30/j7f19n8xvd24/fft_example.pdf\" target=\"_blank\">fft_example.pdf</a></p>\n<p>An FFT example was also discussed in the office hours as well:\u00a0<a href=\"https://www.piazza.com/class/j6f5zm92gj34gi?cid=277\">&#64;277</a></p>", 
+          "anon": "no", 
+          "created": "2017-09-14T21:02:11Z", 
+          "uid": "hju4w9odatf30", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p></p>\n<p>Too time consuming for an exam problem, though it&#39;s good practice to learn about the roots of unity and how FFT works etc. \u00a0I won&#39;t ask you to implement FFT during the exam. \u00a0I prefer problems such as problem 4 on HW 3 where you simply use FFT as a black-box (like a subroutine from a library and you can&#39;t change the subroutine/function, you can simply use it as a black-box).</p>", 
+          "anon": "no", 
+          "created": "2017-09-14T17:46:34Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-14T21:01:23Z", 
+      "no_upvotes": 0, 
+      "uid": "hju4w9odatf30", 
+      "created": "2017-09-14T21:01:23Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7kxwysehy2gu", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-15T19:42:42Z", 
+          "uid": "iddox7abejr2mj", 
+          "created": "2017-09-15T19:42:42Z", 
+          "type": "feedback", 
+          "id": "j7majnbx70x3df", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Murali, Thanks, this is really helpful. Can you also post an example on how to calculate FFT for a polynomial that has three or more terms, eg 10x&#43;9x^2&#43;5?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-18T14:36:47Z", 
+          "uid": "hqj2wfy7NUZ", 
+          "created": "2017-09-18T14:36:47Z", 
+          "type": "feedback", 
+          "id": "j7q9xs67pfq391", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>thank you for doing this. \u00a0I am studying it.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-18T17:05:20Z", 
+          "uid": "hv5exp71kfz754", 
+          "created": "2017-09-18T17:05:20Z", 
+          "type": "feedback", 
+          "id": "j7qf8tvgea2102", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>That is really neat work there. \u00a0Mine is a huge mess but i can get it right.</p>"
+        }
+      ], 
+      "subject": "<p>Here is the solution if you want to check:\u00a0<a href=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/hju4w9odatf30/j7kxuoqv63cc/fft_example2.pdf\" target=\"_blank\">fft_example2.pdf</a></p>\n<p>Another example is here:\u00a0<a href=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/hju4w9odatf30/j7f19n8xvd24/fft_example.pdf\" target=\"_blank\">fft_example.pdf</a></p>\n<p>An FFT example was also discussed in the office hours as well: &#64;277</p>"
+    }
+  ], 
+  "nr": 306, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "divide_and_conquer"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 5, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "divide_and_conquer", 
+    "student"
+  ], 
+  "created": "2017-09-14T16:57:25Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145244968, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p></p><p dir=\"ltr\">Here is a good challenge problem for fft. \u00a0 someone please post a solution. \u00a0It may take me a few days to figure it\u00a0as I am like a cave man when it comes to fft.</p>\n<p dir=\"ltr\"></p>\n<p dir=\"ltr\">FFT</p>\n<p dir=\"ltr\">Compute the product of the two polynomials p(x) = 7x&#43;3 and q(x) = \u2212x&#43;2 using</p>\n<p dir=\"ltr\">the Fast Fourier Transformation.</p>\n<p dir=\"ltr\">1. Compute the FFT of p(x) and q(x) using an appropriate choice of k (for the k-th</p>\n<p dir=\"ltr\">roots of unity).</p>\n<p dir=\"ltr\">2. Give the point-value representation of pq at the k-th roots of unity.</p>\n<p dir=\"ltr\">3. Compute the interpolation by using the FFT algorithm.</p>\n<p dir=\"ltr\">4. Check the correctness of your result.</p>\n<p dir=\"ltr\">Specify all (recursive) calls of FFT algorithm as well as the outputs used during the</p>\n<p dir=\"ltr\">execution</p>\n<p>\u00a0</p>\n<p></p>", 
+      "anon": "no", 
+      "created": "2017-09-14T16:57:25Z", 
+      "uid": "hqj2wfy7NUZ", 
+      "subject": "good example fft test problem"
+    }
+  ]
+}

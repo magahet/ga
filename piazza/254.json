@@ -1,0 +1,276 @@
+{
+  "status": "active", 
+  "unique_views": 180, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-10T22:47:44Z", 
+      "data": "j7fbybvdko1up", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "uid": "iddoy2bdneb2tv", 
+      "type": "s_answer", 
+      "when": "2017-09-10T22:49:22Z", 
+      "to": "j7fbybvb5ud1uo", 
+      "anon": "no", 
+      "data": "j7fc0g0hrvx2nj"
+    }, 
+    {
+      "to": "j7fbybvb5ud1uo", 
+      "anon": "no", 
+      "when": "2017-09-10T22:51:03Z", 
+      "type": "followup", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j7fbybvb5ud1uo", 
+      "anon": "no", 
+      "when": "2017-09-11T00:10:57Z", 
+      "type": "feedback", 
+      "uid": "i8597yy2i2f1z6"
+    }, 
+    {
+      "uid": "hkjzzued3ef4xh", 
+      "type": "i_answer", 
+      "when": "2017-09-11T00:13:37Z", 
+      "to": "j7fbybvb5ud1uo", 
+      "anon": "no", 
+      "data": "j7ff0sgaoqd6dh"
+    }, 
+    {
+      "to": "j7fbybvb5ud1uo", 
+      "anon": "no", 
+      "when": "2017-09-11T01:35:57Z", 
+      "type": "followup", 
+      "uid": "i4k3wmovHgP"
+    }, 
+    {
+      "to": "j7fbybvb5ud1uo", 
+      "anon": "no", 
+      "when": "2017-09-11T02:01:19Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j7fbybvb5ud1uo", 
+      "anon": "no", 
+      "when": "2017-09-11T17:28:47Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j7fbybvb5ud1uo", 
+  "bookmarked": 7, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-10T22:49:22Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j7fc0g0c4gi2ni", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>what is highlighted in blue, applies to you</p>", 
+          "anon": "no", 
+          "created": "2017-09-10T22:49:22Z", 
+          "uid": "iddoy2bdneb2tv", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-10T22:51:03Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "i4nkipeofrkrz", 
+      "created": "2017-09-10T22:51:03Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7fc2l9gp5t2z2", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-11T00:10:57Z", 
+          "uid": "i8597yy2i2f1z6", 
+          "created": "2017-09-11T00:10:57Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j7fexckfpuw2uu", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#43;1 this is a very confusing interface</p>"
+        }
+      ], 
+      "subject": "<p>Makes sense. Thanks, Jesse!</p>\n<p></p>\n<p>(The UI can definitively learn a thing or two from David Joyner &#64; HCI)</p>\n<p></p>"
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-11T00:13:37Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j7ff0sg8coy6dg", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>Actually we select to show all rubric items so that you can have a chance to see what mistakes other students made. Sorry for the confusion.</p>", 
+          "anon": "no", 
+          "created": "2017-09-11T00:13:37Z", 
+          "uid": "hkjzzued3ef4xh", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-11T01:35:57Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "i4k3wmovHgP", 
+      "created": "2017-09-11T01:35:57Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7fhynpnrp46i", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-11T02:01:19Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-09-11T02:01:19Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j7fivagoqvo27p", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "If the feedback is selected, then it refers to your answer.<div><br /></div><div>If it is not selected, then it refers to a different student.</div><div><br /></div>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-11T17:28:47Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-09-11T17:28:47Z", 
+          "type": "feedback", 
+          "id": "j7gg00t2nqy6gr", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p></p>\n<p>We changed it so that only shows those rubric items that apply to you. \u00a0</p>"
+        }
+      ], 
+      "subject": "<p>Hi TAs,</p>\n<p></p>\n<p>Can you please explain</p>\n<p></p>\n<p>- what do the\u00a0Blue and Red marks actually imply\u00a0?\u00a0</p>\n<p></p>\n<p>- how do I know - what mistakes other students have made ?</p>\n<p></p>\n<p>\u00a0- when it says - Recurrence is incorrect - is it\u00a0referring to my recurrence or someone else&#39;s mistake\u00a0?</p>\n<p></p>\n<p>These clarifications are important for me to ensure\u00a0if\u00a0my approach was in right direction.</p>\n<p></p>\n<p>For example, I defined a variable L to hold length of longest palindromic string and used T(i,j) to hold boolean value (to indicate if the substring palindromic or not)\u00a0</p>\n<p>This approach is different from the actual solution (though both use DP )</p>\n<p></p>\n<p>So I would like to\u00a0know which review comments apply to my solution steps.</p>\n<p></p>\n<p>Thanks</p>\n<p>Kaniska</p>"
+    }
+  ], 
+  "nr": 254, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw1"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw1", 
+    "student"
+  ], 
+  "created": "2017-09-10T22:47:44Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145262419, 
+  "tag_good": [
+    {
+      "name": "Brian Trinh", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hq9zldq5n9mvn"
+    }, 
+    {
+      "name": "David Justice", 
+      "admin": false, 
+      "photo": "1427657435_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hz34nbersnc6t2"
+    }
+  ], 
+  "tag_good_arr": [
+    "hq9zldq5n9mvn", 
+    "hz34nbersnc6t2"
+  ], 
+  "history": [
+    {
+      "content": "<p>My grade for this question was 1 point.</p>\n<p></p>\n<p>Here is the grading information I found in Gradescope:</p>\n<p></p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/i4nkipeofrkrz/j7fbwugd1ja9/ss.png\" alt=\"\" /></p>\n<p></p>\n<p>I&#39;m having a hard time parsing this to understand whether I made any mistakes. I&#39;m guessing the answer is no because I got 1 point, but I&#39;m still unsure on how to read the above.</p>\n<p></p>\n<p>Anybody has any insights?</p>", 
+      "anon": "no", 
+      "created": "2017-09-10T22:47:44Z", 
+      "uid": "i4nkipeofrkrz", 
+      "subject": "How to interpret the grade?"
+    }
+  ]
+}

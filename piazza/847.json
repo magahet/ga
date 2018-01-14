@@ -1,0 +1,77 @@
+{
+  "status": "active", 
+  "unique_views": 124, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "stud", 
+      "when": "2017-10-27T17:38:42Z", 
+      "data": "j9a6lyijb6r615"
+    }
+  ], 
+  "id": "j9a6lyi04l1614", 
+  "bookmarked": 3, 
+  "tags": [
+    "exam", 
+    "polls", 
+    "student"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [], 
+  "nr": 847, 
+  "bucket_order": 2, 
+  "type": "poll", 
+  "folders": [
+    "exam", 
+    "polls"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 0, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "answer": "", 
+    "admin": "", 
+    "has_voted": [
+      0
+    ], 
+    "result": {
+      "1": 50, 
+      "0": 11, 
+      "3": 10, 
+      "2": 38
+    }, 
+    "total_votes": 109
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-10-27T17:38:42Z", 
+  "is_tag_good": false, 
+  "config": {
+    "show_results": "av", 
+    "anonymous": "yes", 
+    "multiple_selections": 0, 
+    "unpublished": 0, 
+    "toggle_visibility_on": 1, 
+    "revote": 0, 
+    "allow_followups": "yes", 
+    "always_open": 0, 
+    "close_after": "24", 
+    "publish_later": 0
+  }, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145119317, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "So now that you got your Exam 2 score, and you know the median was 58, how many of you are dropping the course before tomorrow\u2019s deadline?\n<br/> [o] Definitely withdrawing\n[o] No need to withdraw\n[o] I should probably drop the course, but I\u2019m going to tough it out\u2014even if that means I\u2019m getting a C\n[o] I haven\u2019t decided/I\u2019m conflicted", 
+      "anon": "stud", 
+      "created": "2017-10-27T17:38:42Z", 
+      "subject": "Withdrawal from the Course"
+    }
+  ]
+}

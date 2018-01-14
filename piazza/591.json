@@ -1,0 +1,576 @@
+{
+  "status": "active", 
+  "unique_views": 189, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-04T12:30:52Z", 
+      "data": "j8d0hhbg71f2rx", 
+      "uid": "i4gzn4buf4Q"
+    }, 
+    {
+      "uid": "hvil6y6khgk2ri", 
+      "type": "s_answer", 
+      "when": "2017-10-04T12:40:28Z", 
+      "to": "j8d0hhbdb122rw", 
+      "anon": "no", 
+      "data": "j8d0ttrddwms"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-10-04T12:41:20Z", 
+      "data": "j8d0uy4lns92a5", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j8d0hhbdb122rw", 
+      "anon": "no", 
+      "when": "2017-10-04T13:37:22Z", 
+      "type": "followup", 
+      "uid": "i4gzn4buf4Q"
+    }, 
+    {
+      "uid": "gns9oa0pgsO", 
+      "type": "i_answer", 
+      "when": "2017-10-04T13:49:07Z", 
+      "to": "j8d0hhbdb122rw", 
+      "anon": "no", 
+      "data": "j8d3a43jkj92q4"
+    }, 
+    {
+      "to": "j8d0hhbdb122rw", 
+      "anon": "no", 
+      "when": "2017-10-04T13:51:08Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "type": "i_answer_update", 
+      "anon": "no", 
+      "when": "2017-10-04T13:57:10Z", 
+      "data": "j8d3kgdysac3fc", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j8d0hhbdb122rw", 
+      "anon": "no", 
+      "when": "2017-10-04T14:03:57Z", 
+      "type": "followup", 
+      "uid": "hv5exp71kfz754"
+    }, 
+    {
+      "type": "i_answer_update", 
+      "anon": "no", 
+      "when": "2017-10-04T14:08:40Z", 
+      "data": "j8d3z9cvhou2ol", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "type": "i_answer_update", 
+      "anon": "no", 
+      "when": "2017-10-04T14:09:25Z", 
+      "data": "j8d407n5ah635j", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "type": "i_answer_update", 
+      "anon": "no", 
+      "when": "2017-10-04T14:10:36Z", 
+      "data": "j8d41r1vw1a3ws", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j8d0hhbdb122rw", 
+      "anon": "no", 
+      "when": "2017-10-04T14:37:54Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j8d0hhbdb122rw", 
+      "anon": "no", 
+      "when": "2017-10-04T14:51:19Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j8d0hhbdb122rw", 
+      "anon": "no", 
+      "when": "2017-10-04T15:05:49Z", 
+      "type": "feedback", 
+      "uid": "i4gzn4buf4Q"
+    }, 
+    {
+      "to": "j8d0hhbdb122rw", 
+      "anon": "no", 
+      "when": "2017-10-04T15:11:43Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j8d0hhbdb122rw", 
+      "anon": "no", 
+      "when": "2017-10-04T15:48:35Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j8d0hhbdb122rw", 
+      "anon": "no", 
+      "when": "2017-10-04T18:02:36Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j8d0hhbdb122rw", 
+      "anon": "no", 
+      "when": "2017-10-04T18:29:40Z", 
+      "type": "feedback", 
+      "uid": "i4gzn4buf4Q"
+    }, 
+    {
+      "to": "j8d0hhbdb122rw", 
+      "anon": "no", 
+      "when": "2017-10-04T18:41:30Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j8d0hhbdb122rw", 
+      "anon": "no", 
+      "when": "2017-10-05T01:05:48Z", 
+      "type": "followup", 
+      "uid": "ijjd1u5dbTq"
+    }, 
+    {
+      "to": "j8d0hhbdb122rw", 
+      "anon": "no", 
+      "when": "2017-10-05T01:57:46Z", 
+      "type": "feedback", 
+      "uid": "hveop63kovn61t"
+    }, 
+    {
+      "to": "j8d0hhbdb122rw", 
+      "anon": "no", 
+      "when": "2017-10-05T02:03:29Z", 
+      "type": "feedback", 
+      "uid": "ijjd1u5dbTq"
+    }, 
+    {
+      "to": "j8d0hhbdb122rw", 
+      "anon": "no", 
+      "when": "2017-10-05T20:18:43Z", 
+      "type": "feedback", 
+      "uid": "ijjd1u5dbTq"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8d0hhbdb122rw", 
+  "bookmarked": 9, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-04T12:40:28Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j8d0ttqr3tqr", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>Hmmm, you really shouldn&#39;t be getting anything wrong in the first m entries, as that means those entries were not added to the bloom filter which means the bloom filter is critically broken (as false negatives are absolutely verboten in bloom filters).<br /><br />I would check to make sure everything is being added to the bloom filter correctly (or, that the check for false entries is correctly working; if you passed task 2, its probably in your check somewhere).</p>", 
+          "anon": "no", 
+          "created": "2017-10-04T12:41:20Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>Hmmm, you really shouldn&#39;t be getting anything wrong in the first m entries, as that means those entries were not added to the bloom filter which means the bloom filter is critically broken (as false negatives are absolutely verboten in bloom filters).<br /><br />I would check to make sure everything is being added to the bloom filter correctly.</p>", 
+          "anon": "no", 
+          "created": "2017-10-04T12:40:28Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-04T13:37:22Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "i4gzn4buf4Q", 
+      "created": "2017-10-04T13:37:22Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8d2v0etnr86p8", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-04T13:51:08Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-10-04T13:51:08Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j8d3cpaa1786t5", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Hmm, I am a bit confused - what is the significance of the 1st 100k?<br /><br />There are really only two datasets - entries that were used to build/define the filter (entries {0...m}), and entries that were not used to define the filter (everything after position m); in this experiment, its typically defined as the first 100k entries as those entries which define the filter, and the latter 100k entries as those which test the filter (for false positives). Its impossible to get false positives on the first {0...m} entries as they are, by definition, true positives, as they were actively used to build your filter.\u00a0 Its only possible to get false positives on entries (m&#43;1) and beyond, which are the (hopefully unique, as this is important) entries that were not used to build the filter; its expected to get at least a few of these as positive when they are not.<br /><br />The only two ways this can possibly happen - as you describe - is if you are not checking to see if the first 100k entries were already previously put into the filter (as in, duplicate entries).\u00a0 Another possibility is, seeing as its possible that the first m entries &#34;erroneously&#34; report some of the test data as existing in the filter, that will <strong>also</strong> happen with a small percentage of the training data as well <strong>as its being added to the filter</strong> (most likely towards the back half of m). There is no guarantee that adding additional elements to the filter will actually change the filter (although it will in almost all cases). Of course, after they are added - even if they do not flip a single zero to a one - they cease to be false positives, technically. <br /><br />If you are worried about the second possibility, its mostly semantics. I wouldn&#39;t worry.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-04T14:37:54Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-10-04T14:37:54Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j8d50uy8gcp5p7", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Brent, this is actually not true: You do indeed get false positives while inserting the first $$m$$ entries in the Bloom Filter.</p>\n<p></p>\n<p>This is what Conor is doing (Conor, keep me honest here):<br /><br /></p>\n<ol><li>Initializes the Bloom Filter</li><li>Loop through the first $$m$$ values</li><li>If the value is not in the Bloom Filter, add it and don&#39;t count it.</li><li>If the value is already in the Bloom Filter (contains function returns TRUE), count it.</li></ol>\n<p></p>\n<p>Finally, you divide the number of values for which <em>contains</em> returned True by $$m$$ and that will be the False Positive rate of those first $$m$$ elements.</p>\n<p></p>\n<p>This happens to me as well and should be expected.</p>\n<p></p>\n<p>That being said, we were instructed to\u00a0compute our False Positive rate using the $${m&#43;1 \\dots 2m}$$ elements, effectively ignoring any false positives from the first $$m$$ values.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-04T14:51:19Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-10-04T14:51:19Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j8d5i3zogaa2tv", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thats what I was talking about in the second possibility; I dont think it matters too much for our purposes.\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-04T15:05:49Z", 
+          "uid": "i4gzn4buf4Q", 
+          "created": "2017-10-04T15:05:49Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j8d60qolvm6vi", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Yes Santiago.... My question here was to confirm whether or not we should ignore any false positives in the first m entries...\u00a0</p>\n<p></p>\n<p>I wanted to make sure we can ignore them when calculating the FP rate and only worry about the m&#43;1-&gt;2m entries (though at that point there will be slightly less than m entries in the map (in my example, 100k-256)).</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-04T15:11:43Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-10-04T15:11:43Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j8d68c3qyuj5ov", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>If you use the overall positive rate (values $${1 \\dots 2m}$$), you&#39;ll likely outperform the theoretical values consistently. I tried this already :)</p>\n<p></p>\n<p>If you ignore the first $${1 \\dots m}$$ values and only compute the false positive rate using the rest, your results will be closer to the theoretical values.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-04T15:48:35Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-10-04T15:48:35Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j8d7jr1jmuk71d", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Another way to put this is to say that the equation for theoretical false positive rate shows the probability that there will be a false positive for some value after m values have already been inserted into the filter which has n slots. In the equation, c represents the ratio of n to m. You can&#39;t directly compare that value with a measurement where you are counting false positives while inserting the m values."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-04T18:02:36Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-10-04T18:02:36Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j8dcc345pm1sj", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#43;1</p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-04T18:29:40Z", 
+          "uid": "i4gzn4buf4Q", 
+          "created": "2017-10-04T18:29:40Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j8ddawddppv351", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>makes sense...\u00a0 Thanks Nolan &amp; Santiago.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-04T18:41:30Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-10-04T18:41:30Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j8ddq49tzvm2mp", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "You&#39;re welcome."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-05T20:18:43Z", 
+          "uid": "ijjd1u5dbTq", 
+          "created": "2017-10-05T20:18:43Z", 
+          "type": "feedback", 
+          "id": "j8ewmzl0kaq68c", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>What is the false positive rate calculation?</p>\n<p></p>\n<p>Count\u00a0contains = true for m&#43;1 ... 2m elements, and then divide the count by m&#43;1 ... 2m?</p>\n<p></p>\n<p>I ask because I think I might be doing something incorrectly. My plots are flat.</p>"
+        }
+      ], 
+      "subject": "<p>Note that I did *not* say false negatives.\u00a0\u00a0\u00a0 I am not gettting any false negatives.</p>\n<p></p>\n<p>However, when adding new entries in the 1st 100K, I&#39;m checking to see if they are &#34;already there&#34; -- as in a false *positive*.</p>"
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-04T13:49:07Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j8d3a43iiob2q3", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>what are you using for your data?\u00a0 you can use the provided dataset.\u00a0 looks like you may be using a random dataset that has duplicate entries.</p>\n<p></p>\n<p>edit(jt) : i think i know what you are saying, if your dataset is duplicate-free.\u00a0 you&#39;re checking new, unique, unentered data values before you add them, and you are seeing that they already come up as being present.\u00a0\u00a0 these are, in fact false positives, but they&#39;re inevitable, right?\u00a0 before you actually add the element, it belongs to the infinite set of un-added values, and a certain non-zero percentage of these values are going to always render false positives, at least after you enter at least 1 item into the filter.</p>", 
+          "anon": "no", 
+          "created": "2017-10-04T14:10:36Z", 
+          "uid": "gns9oa0pgsO", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>what are you using for your data?\u00a0 you can use the provided dataset.\u00a0 looks like you are using a random dataset that has duplicate entries.</p>\n<p></p>\n<p>edit(jt) : i think i know what you are saying.\u00a0 you&#39;re checking new, unique, unentered data values before you add them, and you are seeing that they already come up as being present.\u00a0\u00a0 these are, in fact false positives, but they&#39;re inevitable, right?\u00a0 before you actually add the element, it belongs to the infinite set of un-added values, and a certain non-zero percentage of these values are going to always render false positives, at least after you enter at least 1 item into the filter.</p>\n<p></p>\n<p>good observation.</p>", 
+          "anon": "no", 
+          "created": "2017-10-04T14:09:25Z", 
+          "uid": "gns9oa0pgsO", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>what are you using for your data?\u00a0 you can use the provided dataset.\u00a0 looks like you are using a random dataset that has duplicate entries.</p>\n<p></p>\n<p>edit(jt) : i think i know what you are saying.\u00a0 you&#39;re checking new, unique, unentered data values before you add them, and you are seeing that they already come up as being present.\u00a0\u00a0 these are, in fact false positives, but they&#39;re inevitable, right?\u00a0 before you actually add the element, it belongs to the infinite set of un-added values, and a certain non-zero percentage of these values are going to render false positives.</p>\n<p></p>\n<p>good observation.</p>", 
+          "anon": "no", 
+          "created": "2017-10-04T14:08:40Z", 
+          "uid": "gns9oa0pgsO", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>what are you using for your data?\u00a0 you can use the provided dataset.\u00a0 looks like you are using a random dataset that has duplicate entries.</p>", 
+          "anon": "no", 
+          "created": "2017-10-04T13:57:10Z", 
+          "uid": "gns9oa0pgsO", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>what are you using for your data?</p>", 
+          "anon": "no", 
+          "created": "2017-10-04T13:49:07Z", 
+          "uid": "gns9oa0pgsO", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-04T14:03:57Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "hv5exp71kfz754", 
+      "created": "2017-10-04T14:03:57Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8d3t6k1du59x", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>Double check the terminology.</p>\n<p></p>\n<p><strong>False positive</strong>\u00a0- your filter says an item is in the bloom filter but is not really in it.</p>\n<p><strong>False negative</strong>\u00a0- your filter says an item is not in the bloom filter but you have added it.<br /><br />For the first 100k,\u00a0you need to make sure you are not getting any false negatives - verify that everything you add, returns True</p>\n<p></p>\n<p>For the second 200k, you are checking for false positives, anything that you did not add to the filter but returns True.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-05T01:05:48Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "ijjd1u5dbTq", 
+      "created": "2017-10-05T01:05:48Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8drgbyy7we1xu", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-05T01:57:46Z", 
+          "uid": "hveop63kovn61t", 
+          "created": "2017-10-05T01:57:46Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j8dtb68ncsr32h", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>from what I can tell that is what is happening already.\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-05T02:03:29Z", 
+          "uid": "ijjd1u5dbTq", 
+          "created": "2017-10-05T02:03:29Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j8dtiifcpnx38l", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Yes I was trying to go about it all wrong. Thankfully I found this thread before I tried to implement that idea.</p>"
+        }
+      ], 
+      "subject": "<p>So I was going to use much of the provided code to accomplish task 3, but based on this thread, that sounds like an incorrect assumption.</p>\n<p></p>\n<p>Instead, it looks like I should split the data ahead of calling testBF. This call would\u00a0contain the training data, or the first m elements.</p>\n<p></p>\n<p>Then, I should call contains on the remaining m&#43;1 elements\u00a0and record the number of true responses. Finally, calculate the false positive rate using the number of true responses and plot this according to each value of k?</p>"
+    }
+  ], 
+  "nr": 591, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "project"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 4, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "project", 
+    "student"
+  ], 
+  "created": "2017-10-04T12:30:52Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145182105, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>In my run of task 3, I&#39;m getting false positives in the first m entries as well as in the latter entries, but the description in office hours seems to imply we should not be checking for false positives in the first half.\u00a0 Is that correct?</p>\n<p></p>\n<p>As an example, with C=10 and k=4, one of my trials had 256 false positives in the first 100K entries and then 1,211 false positives in the latter 100k entries.\u00a0</p>", 
+      "anon": "no", 
+      "created": "2017-10-04T12:30:52Z", 
+      "uid": "i4gzn4buf4Q", 
+      "subject": "False positives in Task 3"
+    }
+  ]
+}

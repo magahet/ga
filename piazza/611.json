@@ -1,0 +1,113 @@
+{
+  "status": "active", 
+  "unique_views": 140, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-05T19:25:38Z", 
+      "data": "j8euqpwg69664x", 
+      "uid": "idfwkf5jgsm3gg"
+    }, 
+    {
+      "uid": "gns9oa0pgsO", 
+      "type": "i_answer", 
+      "when": "2017-10-05T22:52:25Z", 
+      "to": "j8euqpwfojn64w", 
+      "anon": "no", 
+      "data": "j8f24nesy1z273"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8euqpwfojn64w", 
+  "bookmarked": 4, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-05T22:52:25Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "idfwkf5jgsm3gg", 
+        "i4t8eakz3ex6lk"
+      ], 
+      "id": "j8f24neqqjv272", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Nikita Nerkar", 
+          "admin": false, 
+          "photo": "1455312357_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "idfwkf5jgsm3gg"
+        }, 
+        {
+          "name": "abarysevich", 
+          "admin": false, 
+          "photo": null, 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i4t8eakz3ex6lk"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>yeah, that sounds right.</p>", 
+          "anon": "no", 
+          "created": "2017-10-05T22:52:25Z", 
+          "uid": "gns9oa0pgsO", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 611, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "project"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 2, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "project", 
+    "student"
+  ], 
+  "created": "2017-10-05T19:25:38Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145177503, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>Hi,</p>\n<p></p>\n<p>I am little confused about what to write regarding design choices for Task 2 in the report. I think I have completed the implementation correctly after reading the project document and comments mentioned in the bloom.py but the implementation part was quite straight forward and I am getting result as success for both hashFunc1 and hashFunc2. For task2, I created a simple python list as follows</p>\n<p><em>hashTable = [False] * sizeOfHashTable</em></p>\n<p>and used &#39;add&#39; and &#39;contains&#39; over this list which internally uses hashFunc.\u00a0</p>\n<p></p>\n<p>1. Is this acceptable and enough or something else is expected?\u00a0</p>\n<p>2. Brief description about implementation which I mentioned above in the report is enough right?</p>", 
+      "anon": "no", 
+      "created": "2017-10-05T19:25:38Z", 
+      "uid": "idfwkf5jgsm3gg", 
+      "subject": "Design decisions for Task 2"
+    }
+  ]
+}

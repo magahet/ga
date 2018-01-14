@@ -1,0 +1,859 @@
+{
+  "status": "active", 
+  "unique_views": 223, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-08-27T12:44:11Z", 
+      "data": "j6uq88p71o56ns", 
+      "uid": "i8597qyse9c1v2"
+    }, 
+    {
+      "uid": "hkjzzued3ef4xh", 
+      "type": "i_answer", 
+      "when": "2017-08-27T14:03:31Z", 
+      "to": "j6uq88p3u7p6nr", 
+      "anon": "no", 
+      "data": "j6ut29plt2x1ah"
+    }, 
+    {
+      "uid": "i4nkipeofrkrz", 
+      "type": "s_answer", 
+      "when": "2017-08-27T19:02:08Z", 
+      "to": "j6uq88p3u7p6nr", 
+      "anon": "no", 
+      "data": "j6v3qaecvuxac"
+    }, 
+    {
+      "to": "j6uq88p3u7p6nr", 
+      "anon": "no", 
+      "when": "2017-08-28T03:13:06Z", 
+      "type": "followup", 
+      "uid": "ig9fx44bzwr74x"
+    }, 
+    {
+      "to": "j6uq88p3u7p6nr", 
+      "anon": "no", 
+      "when": "2017-08-28T06:02:36Z", 
+      "type": "feedback", 
+      "uid": "i8597qyse9c1v2"
+    }, 
+    {
+      "to": "j6uq88p3u7p6nr", 
+      "anon": "no", 
+      "when": "2017-08-28T11:35:17Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j6uq88p3u7p6nr", 
+      "anon": "no", 
+      "when": "2017-08-29T04:45:39Z", 
+      "type": "followup", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "to": "j6uq88p3u7p6nr", 
+      "anon": "no", 
+      "when": "2017-08-29T12:47:55Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j6uq88p3u7p6nr", 
+      "anon": "no", 
+      "when": "2017-08-29T21:44:52Z", 
+      "type": "feedback", 
+      "uid": "hz203w8gcn7648"
+    }, 
+    {
+      "to": "j6uq88p3u7p6nr", 
+      "anon": "no", 
+      "when": "2017-08-29T22:22:20Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j6uq88p3u7p6nr", 
+      "anon": "no", 
+      "when": "2017-08-29T22:24:47Z", 
+      "type": "feedback", 
+      "uid": "hz203w8gcn7648"
+    }, 
+    {
+      "to": "j6uq88p3u7p6nr", 
+      "anon": "no", 
+      "when": "2017-08-29T22:36:33Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j6uq88p3u7p6nr", 
+      "anon": "no", 
+      "when": "2017-08-29T23:03:03Z", 
+      "type": "feedback", 
+      "uid": "hz203w8gcn7648"
+    }, 
+    {
+      "to": "j6uq88p3u7p6nr", 
+      "anon": "no", 
+      "when": "2017-08-30T03:29:10Z", 
+      "type": "followup", 
+      "uid": "is52ojuybmv5er"
+    }, 
+    {
+      "to": "j6uq88p3u7p6nr", 
+      "anon": "no", 
+      "when": "2017-08-30T11:42:19Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j6uq88p3u7p6nr", 
+      "anon": "no", 
+      "when": "2017-08-30T12:10:01Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j6uq88p3u7p6nr", 
+      "anon": "no", 
+      "when": "2017-08-30T12:34:17Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j6uq88p3u7p6nr", 
+      "anon": "no", 
+      "when": "2017-08-30T14:00:09Z", 
+      "type": "feedback", 
+      "uid": "is52ojuybmv5er"
+    }, 
+    {
+      "to": "j6uq88p3u7p6nr", 
+      "anon": "no", 
+      "when": "2017-09-01T11:31:54Z", 
+      "type": "followup", 
+      "uid": "j6m1j9wkzk46tu"
+    }, 
+    {
+      "to": "j6uq88p3u7p6nr", 
+      "anon": "no", 
+      "when": "2017-09-01T14:57:24Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j6uq88p3u7p6nr", 
+      "anon": "no", 
+      "when": "2017-09-01T14:58:38Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j6uq88p3u7p6nr", 
+      "anon": "no", 
+      "when": "2017-09-01T20:16:23Z", 
+      "type": "feedback", 
+      "uid": "hviwm6agQCk"
+    }, 
+    {
+      "to": "j6uq88p3u7p6nr", 
+      "anon": "no", 
+      "when": "2017-09-01T20:44:25Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j6uq88p3u7p6nr", 
+      "anon": "no", 
+      "when": "2017-09-02T03:12:34Z", 
+      "type": "feedback", 
+      "uid": "j6m1j9wkzk46tu"
+    }, 
+    {
+      "to": "j6uq88p3u7p6nr", 
+      "anon": "no", 
+      "when": "2017-09-02T14:58:23Z", 
+      "type": "feedback", 
+      "uid": "hz203w8gcn7648"
+    }, 
+    {
+      "to": "j6uq88p3u7p6nr", 
+      "anon": "no", 
+      "when": "2017-09-02T16:27:34Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j6uq88p3u7p6nr", 
+      "anon": "no", 
+      "when": "2017-09-04T08:14:40Z", 
+      "type": "feedback", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "to": "j6uq88p3u7p6nr", 
+      "anon": "no", 
+      "when": "2017-09-04T10:05:22Z", 
+      "type": "followup", 
+      "uid": "i18w602j3bp1s2"
+    }, 
+    {
+      "to": "j6uq88p3u7p6nr", 
+      "anon": "no", 
+      "when": "2017-09-04T10:35:16Z", 
+      "type": "feedback", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "to": "j6uq88p3u7p6nr", 
+      "anon": "no", 
+      "when": "2017-09-04T14:31:21Z", 
+      "type": "feedback", 
+      "uid": "hvvxmpxfuyb2eo"
+    }, 
+    {
+      "to": "j6uq88p3u7p6nr", 
+      "anon": "no", 
+      "when": "2017-09-04T14:39:13Z", 
+      "type": "feedback", 
+      "uid": "hvvxmpxfuyb2eo"
+    }, 
+    {
+      "to": "j6uq88p3u7p6nr", 
+      "anon": "no", 
+      "when": "2017-09-08T02:07:16Z", 
+      "type": "feedback", 
+      "uid": "ijbr5ddtwyt6pa"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j6uq88p3u7p6nr", 
+  "bookmarked": 14, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-08-27T14:03:31Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "i8597qyse9c1v2"
+      ], 
+      "id": "j6ut29pikzh1ag", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Pedro Henrique Rocha Moy", 
+          "admin": false, 
+          "photo": "1452626521_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i8597qyse9c1v2"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>$$0 \\leq k &lt; n$$. And you are correct, $$k = 0$$ will give you the trivial solution.</p>", 
+          "anon": "no", 
+          "created": "2017-08-27T14:03:31Z", 
+          "uid": "hkjzzued3ef4xh", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-08-27T19:02:08Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [
+        "i8597qyse9c1v2"
+      ], 
+      "id": "j6v3qaeaj3iab", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Pedro Henrique Rocha Moy", 
+          "admin": false, 
+          "photo": "1452626521_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i8597qyse9c1v2"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>$$k = 0$$\u00a0is valid. It is basically the trivial solution\u00a0$$Z_1..Z_n$$</p>\n<p>$$k = n$$\u00a0is not valid. You can&#39;t have more product operations that number pairs.</p>\n<p>This is why\u00a0$$0 \\leq k &lt; n$$</p>\n<p></p>", 
+          "anon": "no", 
+          "created": "2017-08-27T19:02:08Z", 
+          "uid": "i4nkipeofrkrz", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-28T03:13:06Z", 
+      "no_upvotes": 0, 
+      "uid": "ig9fx44bzwr74x", 
+      "created": "2017-08-28T03:13:06Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6vl9nxe20p7fr", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-08-28T06:02:36Z", 
+          "uid": "i8597qyse9c1v2", 
+          "created": "2017-08-28T06:02:36Z", 
+          "type": "feedback", 
+          "id": "j6vrbn4lqpg1jj", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>When I rushed into the assignment I did not notice that k is simply given, you simply do as given.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-28T11:35:17Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-08-28T11:35:17Z", 
+          "type": "feedback", 
+          "id": "j6w37h6a5vo7g1", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Your algorithm has to account for k to be zero, in which case you should return the trivial answer (the whole number).</p>\n<p></p>\n<p>If the number is 1234, and k = 0, the maximum product is 1234.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-29T21:44:52Z", 
+          "uid": "hz203w8gcn7648", 
+          "created": "2017-08-29T21:44:52Z", 
+          "type": "feedback", 
+          "id": "j6y4f98l4r3738", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>hmm this made me pause. Do we design DP to provide k=0 as solution, or design DP in a way to try all k possible values?\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-29T22:22:20Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-08-29T22:22:20Z", 
+          "type": "feedback", 
+          "id": "j6y5rfqyj25qo", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>k = 0 is something you have to consider. Of course, you also design your algorithm to solve for k = 1, k = 2, k = n - 1.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-29T22:24:47Z", 
+          "uid": "hz203w8gcn7648", 
+          "created": "2017-08-29T22:24:47Z", 
+          "type": "feedback", 
+          "id": "j6y5ulan7xb519", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>thanks, makes sense. i just watched the office hours from last night,,, and they went through the table fill part of this one.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-29T22:36:33Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-08-29T22:36:33Z", 
+          "type": "feedback", 
+          "id": "j6y69q3pq1k1b9", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p></p>\n<p>You&#39;re given a specific k as input and you want to find the max product for that specified k.</p>\n<p></p>\n<p>Your DP algorithm may vary k in order to find the solution for the specified k.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-29T23:03:03Z", 
+          "uid": "hz203w8gcn7648", 
+          "created": "2017-08-29T23:03:03Z", 
+          "type": "feedback", 
+          "id": "j6y77t4qgul2z2", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>ok, thank you.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-01T20:16:23Z", 
+          "uid": "hviwm6agQCk", 
+          "created": "2017-09-01T20:16:23Z", 
+          "type": "feedback", 
+          "id": "j72bl0polduuk", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "So if we add a check for k &gt;= n what would we return? 0 because there are no potential strings we can create from it? Or in the case of an invalid number of k would defining it in the problem be sufficient to escape that scenario? I was thinking our problem had to define the universe of possibilities and handle each one."
+        }
+      ], 
+      "subject": "<p>i believe k would be 0 in the case of 9 or 22 or 999 for example right (vs say 9x1, 2x2, 22x1 or 9x99, 99x9, 9x9x9)? But I must be missing something because wouldn&#39;t this imply only one outcome? \u00a0Or maybe the numbers don&#39;t have to be sequential?</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-29T04:45:39Z", 
+      "no_upvotes": 0, 
+      "uid": "ijbr5ddtwyt6pa", 
+      "created": "2017-08-29T04:45:39Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6x40jc95xy2hz", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-08-29T12:47:55Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-08-29T12:47:55Z", 
+          "type": "feedback", 
+          "id": "j6xl8r0vffv40g", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p></p>\n<p>For problems such as 6.4, on the test I will simply ask whether or not you can break the input string into a sequence of words, so you simply output True or False. \u00a0For those such as 6.1, you will simply output the max sum obtainable (not the actual substring). \u00a0For this homework problem I&#39;m not asking you to tell me where to insert the k multiplication operations, rather just what is the maximum product you can get (that is what you want your subproblem to keep track of). \u00a0E.g., if X=3499 and k=1 then you would output 3366. \u00a0You don&#39;t have to tell me that you got this from 34x99 (that&#39;s correct, right?). \u00a0</p>\n<p></p>\n<p>Good? \u00a0--Eric</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-08T02:07:16Z", 
+          "uid": "ijbr5ddtwyt6pa", 
+          "created": "2017-09-08T02:07:16Z", 
+          "type": "feedback", 
+          "id": "j7b8re1mbo01qw", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Works for me. Thanks!</p>"
+        }
+      ], 
+      "subject": "<p>The problem has the following:</p>\n<p><em></em></p>\n<p><em>Design a dynamic programming to output the maximum product obtainable from inserting exactly k multiplication operators \u00d7 into the string. You can assume that all the multiplication operations in your algorithm take O(1) time.</em></p>\n<p></p>\n<p>Does this \u00a0mean that we can assume getting the max product itself will take 1 (i.e. the\u00a0\u00a0Reconstruct(S[1 . . . i]) function if we were talking about 6.4) I can see why getting the max product is good practice, but I am more or less asking for test time</p>\n<p></p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-30T03:29:10Z", 
+      "no_upvotes": 0, 
+      "uid": "is52ojuybmv5er", 
+      "created": "2017-08-30T03:29:10Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6ygq1mum9g3m", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-08-30T11:42:19Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-08-30T11:42:19Z", 
+          "type": "feedback", 
+          "id": "j6yyc87hqcp64n", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Maybe this helps:</p>\n<p></p>\n<p>For input 1234 and k = 2, what will be the possibilities?</p>\n<p></p>\n<ul><li>(123 with k = 1) $$\\times $$\u00a04</li><li>(12 with k = 1) $$\\times $$\u00a034</li><li>1 $$\\times $$ (234 with k = 1)</li><li>12\u00a0$$\\times $$ (34 with k = 1)</li></ul>\n<p></p>\n<p>Can you find a recurrence that for every substring finds all the possibilities and sticks with the maximum product?</p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-30T12:10:01Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-08-30T12:10:01Z", 
+          "type": "feedback", 
+          "id": "j6yzbug6pr53bq", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p></p>\n<p>If you&#39;re trying an example try k\\geq 2 such as in Santiago&#39;s example. \u00a0Santiago&#39;s approach seems to suggest using substrings, which works. \u00a0But you can also do prefixes as in 6.4. \u00a0(Might be faster, Santiago?)</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-30T12:34:17Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-08-30T12:34:17Z", 
+          "type": "feedback", 
+          "id": "j6z0720ip854tw", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Hmm... I&#39;ll try to think about it using prefixes... Thanks for the suggestion!</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-30T14:00:09Z", 
+          "uid": "is52ojuybmv5er", 
+          "created": "2017-08-30T14:00:09Z", 
+          "type": "feedback", 
+          "id": "j6z39hvlz5g3jy", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>thanks for the help. I&#39;ll see if I can create something.\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-01T14:57:24Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-09-01T14:57:24Z", 
+          "type": "feedback", 
+          "id": "j7206tlskd2s8", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I&#39;ve spent now quite a bit of time trying to get this problem down to $$O(n^2)$$ or $$O(kn)$$. Right now, I have it at $$O(kn^2)$$.\u00a0</p>\n<p></p>\n<p>Is this even possible?</p>"
+        }
+      ], 
+      "subject": "<p>Are there any additional\u00a0hints for this problem other than to check out problem 6.4. I&#39;m stuck trying to create a recurrence. For example in if the input was 159 and k = 1 then the optimal solution would be to multiply\u00a015 and 9. However, the only way I get this answer is by brute force (I try all combination). I don&#39;t see how we can build off the largest product that we have figured out in our sub problem. I could also be completely wrong about my approach to\u00a0the problem.\u00a0</p>\n<p></p>\n<p></p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-01T11:31:54Z", 
+      "no_upvotes": 0, 
+      "uid": "j6m1j9wkzk46tu", 
+      "created": "2017-09-01T11:31:54Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j71sujqu4q92f2", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-01T14:58:38Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-09-01T14:58:38Z", 
+          "type": "feedback", 
+          "id": "j7208e30kqi1ed", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I&#39;m right there: $$O(kn^2)$$. Not sure if I can simplify it more, although the professor hinted that there might be a way.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-01T20:44:25Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-09-01T20:44:25Z", 
+          "type": "feedback", 
+          "id": "j72cl399q6135i", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p></p>\n<p>I think O(n^2k) is right for this one.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-02T03:12:34Z", 
+          "uid": "j6m1j9wkzk46tu", 
+          "created": "2017-09-02T03:12:34Z", 
+          "type": "feedback", 
+          "id": "j72qg8s52kp472", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "ok..thanks for confirming Dr. Vigoda"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-02T14:58:23Z", 
+          "uid": "hz203w8gcn7648", 
+          "created": "2017-09-02T14:58:23Z", 
+          "type": "feedback", 
+          "id": "j73fnxx9lnb46o", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>O(n^2k), so if\u00a0n=5, k=2, 625.</p>\n<p></p>\n<p>is this the right interpretation?</p>\n<p>for i = 1 to n</p>\n<p>\u00a0 \u00a0 for j = 1 to k</p>\n<p>\u00a0 \u00a0 \u00a0 \u00a0 something here</p>\n<p>\u00a0 \u00a0 \u00a0 \u00a0 for jj = 1 to k</p>\n<p>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 something here</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-02T16:27:34Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-09-02T16:27:34Z", 
+          "type": "feedback", 
+          "id": "j73iumru2s43wn", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p></p>\n<p>You&#39;re trying too hard to reverse-engineer, that is partly why I don&#39;t give the running time.</p>\n<p>What is your subproblem definition and then what is your recurrence?</p>\n<p></p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-04T08:14:40Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-09-04T08:14:40Z", 
+          "type": "feedback", 
+          "id": "j75w4gfc3qb4vz", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Incidentally, Donald, O(n^2k) is $$O(n^2k)$$ so for $$n=5, k=2, n^2k=50$$; your calculation of 625 would be O(n^{2k}) $$O(n^{2k})$$\n\nAside from that, the loops of your sample algorithm are $$O(nk^2)$$"
+        }
+      ], 
+      "subject": "Can anyone tell time complexity for the solution ? I can think of a O(n*n*k) solution but I feel it may be optimised more.."
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-04T10:05:22Z", 
+      "no_upvotes": 0, 
+      "uid": "i18w602j3bp1s2", 
+      "created": "2017-09-04T10:05:22Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7602tcd33u3si", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-04T10:35:16Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-09-04T10:35:16Z", 
+          "type": "feedback", 
+          "id": "j76159h5adzcc", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Basically, trying not to simply give you the answer, it&#39;s to do with prefixes; NB the marginal notes; the note referencing (&#34;1312&#34;,3) includes the result in (&#34;131&#34;,2), the note referencing (&#34;13122&#34;,3) includes the result in (&#34;131&#34;,2) as well as (&#34;1312&#34;,2); the note referencing (&#34;13122&#34;,2) includes the results from (&#34;13&#34;,1), (&#34;131&#34;,1), (&#34;1312&#34;,1)"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-04T14:31:21Z", 
+          "uid": "hvvxmpxfuyb2eo", 
+          "created": "2017-09-04T14:31:21Z", 
+          "type": "feedback", 
+          "id": "j769kvngz0q7a7", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>which office hours exactly discussed this?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-04T14:39:13Z", 
+          "uid": "hvvxmpxfuyb2eo", 
+          "created": "2017-09-04T14:39:13Z", 
+          "type": "feedback", 
+          "id": "j769uzk5ijk1fm", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Okay found it:\u00a0<a href=\"https://www.youtube.com/watch?v=SyeHo630M_w\">https://www.youtube.com/watch?v=SyeHo630M_w</a>. This really helped.</p>"
+        }
+      ], 
+      "subject": "<p>Hey All,</p>\n<p></p>\n<p>Still fairly perplexed on how to write the recurrence for this algorithm. During office hours, this problem was reviewed and ended up as follows:</p>\n<p></p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/i18w602j3bp1s2/j75zy8895f88/Capture.jpg\" alt=\"\" /></p>\n<p>The above approach looks like brute force, unless you keep a secondary index of where you&#39;ve already inserted the multiplication operator. It doesn&#39;t appear (in the above graphic) as if anything is building on a previous result of the table. For instance, from row K=2 to K=3, there does not seem to be information directly found in K=2 that allows the discovery of values in K=3. Any guidance here would be appreciated.</p>"
+    }
+  ], 
+  "nr": 92, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw1"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 6, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw1", 
+    "student"
+  ], 
+  "created": "2017-08-27T12:44:11Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145308260, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>So wouldn&#39;t it be the case that we would want k to be at least equal or greater than 1? If we let it be 0 (no multiplication), that is always going to be the trivial solution. Am I seeing this wrong? I am sleep deprived. As is, the instruction mentions k to be 0&lt;=k&lt;n</p>", 
+      "anon": "no", 
+      "created": "2017-08-27T12:44:11Z", 
+      "uid": "i8597qyse9c1v2", 
+      "subject": "max product k constraint"
+    }
+  ]
+}

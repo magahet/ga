@@ -1,0 +1,154 @@
+{
+  "status": "active", 
+  "unique_views": 148, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-03T02:32:55Z", 
+      "data": "j744h46phwk2fz", 
+      "uid": "i18w67avy8e1uk"
+    }, 
+    {
+      "uid": "hju4w9odatf30", 
+      "type": "i_answer", 
+      "when": "2017-09-03T02:39:54Z", 
+      "to": "j744h46ne112fy", 
+      "anon": "no", 
+      "data": "j744q2x3rv15b2"
+    }, 
+    {
+      "to": "j744h46ne112fy", 
+      "anon": "no", 
+      "when": "2017-09-03T02:45:08Z", 
+      "type": "followup", 
+      "uid": "i18w67avy8e1uk"
+    }, 
+    {
+      "to": "j744h46ne112fy", 
+      "anon": "no", 
+      "when": "2017-09-03T02:50:13Z", 
+      "type": "feedback", 
+      "uid": "hju4w9odatf30"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j744h46ne112fy", 
+  "bookmarked": 3, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-03T02:39:54Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "i18w67avy8e1uk"
+      ], 
+      "id": "j744q2wz6af5b1", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Shihgian Lee", 
+          "admin": false, 
+          "photo": "1420394909_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i18w67avy8e1uk"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>Given <em>N</em>, \u00a0<img src=\"https://s0.wp.com/latex.php?latex=%5Cphi%28N%29&amp;bg=ffffff&amp;fg=404040&amp;s=0\" width=\"36\" height=\"18\" />\u00a0\u00a0= # integers\u00a0<img src=\"https://s0.wp.com/latex.php?latex=b&#43;%5Cin&#43;%7B1%2C...%2CN%7D&amp;bg=ffffff&amp;fg=404040&amp;s=0\" width=\"78\" height=\"15\" />\u00a0that are relatively prime to\u00a0<img src=\"https://s0.wp.com/latex.php?latex=N&amp;bg=ffffff&amp;fg=404040&amp;s=0\" alt=\"N\" width=\"15\" height=\"11\" />\u00a0\u00a0= \u00a0<img src=\"https://s0.wp.com/latex.php?latex=%7C%5C%7Bb%3Ab&#43;%5Cin&#43;%7B1%2C...%2CN%7D%5Cmid&#43;gcd%28b%2C&#43;N%29%3D1%5C%7D%7C&amp;bg=ffffff&amp;fg=404040&amp;s=0\" width=\"231\" height=\"18\" />\u00a0So, here when\u00a0where <em>p</em> is a prime number, then\u00a0\u00a0<img src=\"https://s0.wp.com/latex.php?latex=%5Cphi%28N%29&amp;bg=ffffff&amp;fg=404040&amp;s=0\" width=\"36\" height=\"18\" />\u00a0\u00a0= <em>p - 1</em>\u00a0</p>", 
+          "anon": "no", 
+          "created": "2017-09-03T02:39:54Z", 
+          "uid": "hju4w9odatf30", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-03T02:45:08Z", 
+      "no_upvotes": 0, 
+      "uid": "i18w67avy8e1uk", 
+      "created": "2017-09-03T02:45:08Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j744wtnewil3ck", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-03T02:50:13Z", 
+          "uid": "hju4w9odatf30", 
+          "created": "2017-09-03T02:50:13Z", 
+          "type": "feedback", 
+          "id": "j7453cusyk71jw", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Yes, \u00a0$$z^{p-1} \\equiv1 $$ $$mod$$ $$ p$$ when $$p$$ is prime.</p>"
+        }
+      ], 
+      "subject": "<p>Thank you. After listening to the whole lecture, I think another\u00a0reason we use p-1 is so that\u00a0$$z^{p-1}$$ is 1.</p>"
+    }
+  ], 
+  "nr": 158, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "random_algorithms"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "random_algorithms", 
+    "student"
+  ], 
+  "created": "2017-09-03T02:32:55Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145287586, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p><a href=\"https://youtu.be/Nujjp4YT-80?t=24\">https://youtu.be/Nujjp4YT-80?t=24</a>\u00a0</p>\n<p></p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/i18w67avy8e1uk/j744bd5cvhvn/RSA2.jpg\" alt=\"\" width=\"473\" height=\"112\" /></p>\n<p></p>\n<p>In the slide\u00a0above, I could not relate\u00a0$$\\phi(N)$$ and $$p-1$$ from Euler/Fermat theorem. Can someone provide a little more details why we use p-1?</p>\n<p></p>\n<p>Thank you.</p>", 
+      "anon": "no", 
+      "created": "2017-09-03T02:32:55Z", 
+      "uid": "i18w67avy8e1uk", 
+      "subject": "[RA2] RSA Idea Lecture"
+    }
+  ]
+}

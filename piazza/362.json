@@ -1,0 +1,192 @@
+{
+  "status": "active", 
+  "unique_views": 151, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-20T12:13:38Z", 
+      "data": "j7szpehf3zb5mr", 
+      "uid": "idgjs16yZ4K"
+    }, 
+    {
+      "uid": "i4nkipeofrkrz", 
+      "type": "s_answer", 
+      "when": "2017-09-20T12:32:42Z", 
+      "to": "j7szpehcd5p5mq", 
+      "anon": "no", 
+      "data": "j7t0dwtd36378k"
+    }, 
+    {
+      "to": "j7szpehcd5p5mq", 
+      "anon": "no", 
+      "when": "2017-09-20T16:31:26Z", 
+      "type": "followup", 
+      "uid": "idgjs16yZ4K"
+    }, 
+    {
+      "to": "j7szpehcd5p5mq", 
+      "anon": "no", 
+      "when": "2017-09-20T17:50:47Z", 
+      "type": "feedback", 
+      "uid": "hq73eu599lv"
+    }, 
+    {
+      "to": "j7szpehcd5p5mq", 
+      "anon": "no", 
+      "when": "2017-09-20T18:22:50Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j7szpehcd5p5mq", 
+      "anon": "no", 
+      "when": "2017-09-20T20:57:44Z", 
+      "type": "feedback", 
+      "uid": "idgjs16yZ4K"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j7szpehcd5p5mq", 
+  "bookmarked": 3, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-20T12:32:42Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j7t0dwt9cck78j", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>Does this help?</p>\n<p></p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/i4nkipeofrkrz/j7t0d97u1qah/IMG_0500.jpg\" alt=\"\" /></p>", 
+          "anon": "no", 
+          "created": "2017-09-20T12:32:42Z", 
+          "uid": "i4nkipeofrkrz", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-20T16:31:26Z", 
+      "no_upvotes": 0, 
+      "uid": "idgjs16yZ4K", 
+      "created": "2017-09-20T16:31:26Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7t8wxlmu6qlc", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-20T17:50:47Z", 
+          "uid": "hq73eu599lv", 
+          "created": "2017-09-20T17:50:47Z", 
+          "type": "feedback", 
+          "id": "j7tbqz1kzcz4mr", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>You have an arithmetic mistake in your solution.\u00a0 $$1-3*(-1)=4$$</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-20T18:22:50Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-09-20T18:22:50Z", 
+          "type": "feedback", 
+          "id": "j7tcw6pdf6u1dp", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Geoffrey, is the mistake in Jonathan&#39;s solution or my solution?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-20T20:57:44Z", 
+          "uid": "idgjs16yZ4K", 
+          "created": "2017-09-20T20:57:44Z", 
+          "type": "feedback", 
+          "id": "j7tifdrikar3vr", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Ay caramba, thanks. I see now. I did the problem twice and both times made the same mistake."
+        }
+      ], 
+      "subject": "On the first line of your merge, you have 1 - 19*1. But in my working of the problem, I thought y = 0 at that stage and so I get 1 - (19/1)*0. \n\nHow did I mess up the last line of the first part, or the first line of the second (merge) part?\n\nI linked to a picture of my working of the problem. I thought that on the first part of the merge, y will always be equal to 0 because that&#39;s what we return when b == 0 as per the Extended Euclid pseudocode from DPV."
+    }
+  ], 
+  "nr": 362, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw2", 
+    "random_algorithms"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 2, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw2", 
+    "random_algorithms", 
+    "student"
+  ], 
+  "created": "2017-09-20T12:13:38Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145228340, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "Can someone explain to me the answer in the HW2 solution for DPV 1.20 (1)?\n\nThis is where we are asked to find the inverse of 20 mod 79. \n\nI can solve this by inspection but I cannot figure out how to run this through extended Euclid. \n\nIn the homework solution, the solution just appears to solve it outright. Is there some shortcut I&#39;m missing?\n<a href=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/idgjs16yZ4K/j7szov40isgx/CS8803GA_j7szov5sl5q0.jpg\" target=\"_blank\">CS8803GA_j7szov5sl5q0.jpg</a>", 
+      "anon": "no", 
+      "created": "2017-09-20T12:13:38Z", 
+      "uid": "idgjs16yZ4K", 
+      "subject": "Extended Euclid and DPV 1.20"
+    }
+  ]
+}

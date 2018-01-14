@@ -1,0 +1,211 @@
+{
+  "status": "active", 
+  "unique_views": 136, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-10T23:38:27Z", 
+      "data": "j8m8z3yg8dr4lm", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-10T23:39:06Z", 
+      "data": "j8m8zxzd1jl574", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-10T23:39:23Z", 
+      "data": "j8m90auu7a65fl", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "uid": "i4ket0u1z5q31a", 
+      "type": "s_answer", 
+      "when": "2017-10-11T00:36:19Z", 
+      "to": "j8m8z3yc5av4ll", 
+      "anon": "no", 
+      "data": "j8mb1ix9vq74rp"
+    }, 
+    {
+      "to": "j8m8z3yc5av4ll", 
+      "anon": "no", 
+      "when": "2017-10-11T02:51:14Z", 
+      "type": "followup", 
+      "uid": "hz1nzm7x57s2qr"
+    }, 
+    {
+      "to": "j8m8z3yc5av4ll", 
+      "anon": "no", 
+      "when": "2017-10-11T03:05:25Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j8m8z3yc5av4ll", 
+      "anon": "no", 
+      "when": "2017-10-11T04:28:25Z", 
+      "type": "feedback", 
+      "uid": "hz1nzm7x57s2qr"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8m8z3yc5av4ll", 
+  "bookmarked": 6, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-11T00:36:19Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [
+        "ijbr5ddtwyt6pa"
+      ], 
+      "id": "j8mb1ix29324ro", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Jason Buoni", 
+          "admin": false, 
+          "photo": "1463440659_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "ijbr5ddtwyt6pa"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>How do you know the SCC the town hall is in isn&#39;t a source SCC or in the middle of the SCC DAG?</p>\n<p>You need to prove you can&#39;t get from the town hall to somewhere else that you can&#39;t get back from (such as a sink SCC that is a separate meta-node in the DAG).</p>\n<p>You can have multiple SCC&#39;s in the meta-graph DAG, you need to prove the town hall is in a sink to prove you can&#39;t get stuck with no way back.</p>", 
+          "anon": "no", 
+          "created": "2017-10-11T00:36:19Z", 
+          "uid": "i4ket0u1z5q31a", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-11T02:51:14Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "hz1nzm7x57s2qr", 
+      "created": "2017-10-11T02:51:14Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8mfv1hij3ydy", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-11T03:05:25Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-10-11T03:05:25Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j8mgd9vja033fy", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Isn&#39;t that the same as saying that the town hall is in a sink SCC?"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-11T04:28:25Z", 
+          "uid": "hz1nzm7x57s2qr", 
+          "created": "2017-10-11T04:28:25Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j8mjc0egxu44wr", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Yes. Now that you point it out I realize that&#39;s saying the same thing. Don&#39;t know why I didn&#39;t see that. Thanks!"
+        }
+      ], 
+      "subject": "Could you run explore from town hall and then prove that the set of vertices reachable from town hall via explore is the same as the set of vertices in the scc that town hall is in?"
+    }
+  ], 
+  "nr": 694, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw4", 
+    "hw_solutions4"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 2, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw4", 
+    "hw_solutions4", 
+    "student"
+  ], 
+  "created": "2017-10-10T23:38:27Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145157442, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>This is probably a silly question, but for 1b (anywhere you can get to from the townhall, you can also get back to the townhall) why can&#39;t we just prove out the strongly connected component which contains the town hall? From there, you can prove that everything that is in that same strongly connected component will be bidirectional (in a way)?</p>\n<p></p>\n<p>I.e. we run the SCC algorithm and then look at the component w/ the townhall in it. All items in that component we can travel to and from the townhall.</p>\n<p></p>\n<p>Is there something wrong with my understanding of the SCC?</p>", 
+      "anon": "no", 
+      "created": "2017-10-10T23:39:22Z", 
+      "uid": "ijbr5ddtwyt6pa", 
+      "subject": "SCCs for Q1 part b"
+    }, 
+    {
+      "content": "<p>This is probably a silly question, but for 1b (anywhere you can get to from the townhall, you can also get back to the townhall) why can&#39;t we just prove out the strongly connected component which contains the town hall? From there, you can prove that everything that is in that same strongly connected component will be bidirectional (in a way)?</p>\n<p></p>\n<p>I.e. we run the SCC algorithm and then look at the component w/ the townhall in it. All items in that component we can travel to and from the townhall.</p>\n<p></p>\n<p>Is there something wrong with my understanding of the SCC?</p>", 
+      "anon": "no", 
+      "created": "2017-10-10T23:39:06Z", 
+      "uid": "ijbr5ddtwyt6pa", 
+      "subject": "Question On 1 B"
+    }, 
+    {
+      "content": "<p>This is probably a silly question, but for 1b (anywhere you can get to from the townhall, you can also get back to the townhall) why can&#39;t we just prove out the strongly connected component which contains the town hall? From there, you can prove that everything that is in that same strongly connected component will be bidirectional (in a way)?</p>\n<p></p>\n<p>Is there something wrong with my understanding of the SCC?</p>", 
+      "anon": "no", 
+      "created": "2017-10-10T23:38:27Z", 
+      "uid": "ijbr5ddtwyt6pa", 
+      "subject": "Question On 1 B"
+    }
+  ]
+}

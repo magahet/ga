@@ -1,0 +1,278 @@
+{
+  "status": "active", 
+  "unique_views": 159, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-04T20:24:43Z", 
+      "data": "j8dheulhdo13tm", 
+      "uid": "hv5exp71kfz754"
+    }, 
+    {
+      "uid": "i4hdvab632i522", 
+      "type": "s_answer", 
+      "when": "2017-10-05T20:17:08Z", 
+      "to": "j8dheuld37i3tl", 
+      "anon": "no", 
+      "data": "j8ewkyu3zu0462"
+    }, 
+    {
+      "to": "j8dheuld37i3tl", 
+      "anon": "no", 
+      "when": "2017-10-11T00:16:16Z", 
+      "type": "followup", 
+      "uid": "iddoyf3qpvh2w6"
+    }, 
+    {
+      "uid": "gy4twfv45cg5o6", 
+      "type": "i_answer", 
+      "when": "2017-10-11T02:02:29Z", 
+      "to": "j8dheuld37i3tl", 
+      "anon": "no", 
+      "data": "j8me4c0jfv533v"
+    }, 
+    {
+      "to": "j8dheuld37i3tl", 
+      "anon": "no", 
+      "when": "2017-10-11T04:25:17Z", 
+      "type": "followup", 
+      "uid": "hvfeyx7qglF"
+    }, 
+    {
+      "to": "j8dheuld37i3tl", 
+      "anon": "stud", 
+      "when": "2017-10-11T05:50:53Z", 
+      "type": "feedback"
+    }, 
+    {
+      "to": "j8dheuld37i3tl", 
+      "anon": "no", 
+      "when": "2017-10-11T15:53:21Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j8dheuld37i3tl", 
+      "anon": "no", 
+      "when": "2017-10-11T21:28:44Z", 
+      "type": "feedback", 
+      "uid": "hvfeyx7qglF"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8dheuld37i3tl", 
+  "bookmarked": 7, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-05T20:17:08Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j8ewkytzx3z461", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "I think the correct values should be 1, 4 &amp; 0 respectively; the figure beneath has 1, 2 &amp; 0, while the quiz accepts only 5, 2 &amp; 3", 
+          "anon": "no", 
+          "created": "2017-10-05T20:17:08Z", 
+          "uid": "i4hdvab632i522", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-11T00:16:16Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "iddoyf3qpvh2w6", 
+      "created": "2017-10-11T00:16:16Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8mabqvwjgx4yd", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>Getting the same numbers and would love a Instructor to confirm an Errata</p>"
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-11T02:02:29Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j8me4c0i4s433u", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "Fixed.  OK now?", 
+          "anon": "no", 
+          "created": "2017-10-11T02:02:29Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-11T04:25:17Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "hvfeyx7qglF", 
+      "created": "2017-10-11T04:25:17Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8mj7zgjpgqsi", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-11T05:50:53Z", 
+          "created": "2017-10-11T05:50:53Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j8mma27rzyb3q3", 
+          "anon": "stud", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I see the same.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-11T15:53:21Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-10-11T15:53:21Z", 
+          "type": "feedback", 
+          "id": "j8n7suf6ob26u0", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "I tried again.  Now is it OK?"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-11T21:28:44Z", 
+          "uid": "hvfeyx7qglF", 
+          "created": "2017-10-11T21:28:44Z", 
+          "type": "feedback", 
+          "id": "j8njs5gi85v2my", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Yes, It&#39;s working now for both buttons.\u00a0 Thanks!</p>"
+        }
+      ], 
+      "subject": "<p>It looks like the code that runs when the &#34;test run&#34; button is clicked has been fixed, but the code checking the answer when &#34;submit answer&#34; is clicked also needs to be corrected.\u00a0\u00a0</p>"
+    }
+  ], 
+  "nr": 598, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw4", 
+    "hw5", 
+    "hw6", 
+    "udacity"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 2, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw4", 
+    "hw5", 
+    "hw6", 
+    "student", 
+    "udacity"
+  ], 
+  "created": "2017-10-04T20:24:43Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145180841, 
+  "tag_good": [
+    {
+      "name": "Chris Noyes", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "idej2kl6hh1"
+    }, 
+    {
+      "name": "Brian Trinh", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hq9zldq5n9mvn"
+    }
+  ], 
+  "tag_good_arr": [
+    "idej2kl6hh1", 
+    "hq9zldq5n9mvn"
+  ], 
+  "history": [
+    {
+      "content": "<p></p>\n<p>For module 21.15, we are asked to &#34;Specify the capacities in the above graph\u00a0<strong>G&#39;</strong>:&#34;.\u00a0 \u00a0Can somebody\u00a0 verify the answer for the following:</p>\n<p></p>\n<p>\u00a0{ &#34;b&#34;, &#34;t&#39; &#34;} {&#34;d&#34;, &#34;t&#39; &#34; } and {&#34;e&#34;, &#34;t&#39; &#34;}</p>\n<p></p>\n<p></p>\n<p>The diagram below it looks correct but\u00a0 the accepted answer requires different values.</p>\n<p></p>", 
+      "anon": "no", 
+      "created": "2017-10-04T20:24:43Z", 
+      "uid": "hv5exp71kfz754", 
+      "subject": "Max-Flow Generalization Reduction Example in Udacity"
+    }
+  ]
+}

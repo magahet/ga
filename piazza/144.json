@@ -1,0 +1,201 @@
+{
+  "status": "active", 
+  "unique_views": 149, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-01T22:36:49Z", 
+      "data": "j72glmoaetp387", 
+      "uid": "i4j6x5bv5ua71n"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-01T22:37:11Z", 
+      "data": "j72gm3r1k2a3oy", 
+      "uid": "i4j6x5bv5ua71n"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-01T22:37:37Z", 
+      "data": "j72gmndnd693vq", 
+      "uid": "i4j6x5bv5ua71n"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-01T22:37:52Z", 
+      "data": "j72gmzg1yto3zh", 
+      "uid": "i4j6x5bv5ua71n"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-01T22:38:20Z", 
+      "data": "j72gnkhabk746i", 
+      "uid": "i4j6x5bv5ua71n"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-01T22:39:34Z", 
+      "data": "j72gp5mwmov54a", 
+      "uid": "i4j6x5bv5ua71n"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-01T22:39:54Z", 
+      "data": "j72gpl5xrhdvs", 
+      "uid": "i4j6x5bv5ua71n"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-01T23:08:35Z", 
+      "data": "j72hqh5cesg2p8", 
+      "uid": "i4j6x5bv5ua71n"
+    }, 
+    {
+      "uid": "i4nkipeofrkrz", 
+      "type": "s_answer", 
+      "when": "2017-09-01T23:36:55Z", 
+      "to": "j72glmo8jl2386", 
+      "anon": "no", 
+      "data": "j72iqxb85dh6j9"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j72glmo8jl2386", 
+  "bookmarked": 2, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-01T23:36:55Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j72iqxb2pkk6j8", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>The shortness probably comes from having to write these variables and function names over and over again using pen and paper. It is definitively harder to read, but it is 10,000 times easier to write.</p>\n<p></p>\n<p>I really don&#39;t mind as long as the variables and functions are properly defined somewhere (just like we are doing when writing the Problem Definition of a DP problem).</p>", 
+          "anon": "no", 
+          "created": "2017-09-01T23:36:55Z", 
+          "uid": "i4nkipeofrkrz", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 144, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "course"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 0, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "course", 
+    "student"
+  ], 
+  "created": "2017-09-01T22:36:49Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145292706, 
+  "tag_good": [
+    {
+      "name": "Kyle P Davis", 
+      "admin": false, 
+      "photo": "1484080691_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "idiy4usuxxs"
+    }
+  ], 
+  "tag_good_arr": [
+    "idiy4usuxxs"
+  ], 
+  "history": [
+    {
+      "content": "What are your thoughts on using self descriptive variable names for algorithms written in mathematical notation (not code)? It&#39;s always bothered me that proofs/formulas/algorithms tend to be written using single letter variable names, when the formula would often be more readable using something descriptive (weight vs B and numCoins vs k, for example).  Sure, B and k are context agnostic here, so we could change what they represent and still maintain the semantics of the problem/solution, but that seems like an unnecessary generalization.\n\nI understand it&#39;s easier to write using shorthand, but if the goal is to facilitate other people&#39;s understanding (or prove correctness) then shouldn&#39;t we optimize for read time and spell out what the variable represents?", 
+      "anon": "no", 
+      "created": "2017-09-01T23:08:35Z", 
+      "uid": "i4j6x5bv5ua71n", 
+      "subject": "Longer variable names in formulas?"
+    }, 
+    {
+      "content": "What are your thoughts on using self descriptive variable names for algorithms written in mathematical notation (not code)? It&#39;s always bothered me that proofs/formulas/algorithms tend to be written using single letter variable names, when the formula would often be more readable using something descriptive (weight vs B and numCoins vs k, for example).  Sure, B and k are context agnostic here, so we could change what they represent and still maintain the semantics of the problem/solution, but that seems like an unnecessary generalization.\n\nI understand it&#39;s easier to write using shorthand, but if the goal is to facilitate other people&#39;s understanding (or prove correctness) then we should optimize for read time and spell out what the variable represents.", 
+      "anon": "no", 
+      "created": "2017-09-01T22:39:54Z", 
+      "uid": "i4j6x5bv5ua71n", 
+      "subject": "Longer variable names in formulas?"
+    }, 
+    {
+      "content": "What are your thoughts on using self descriptive variable names for algorithms written in mathematical notation (not code)? It&#39;s always bothered me that proofs/formulas/algorithms tend to be written using single letter variable names, when the formula would often be more readable using something descriptive (weight vs B and numCoins vs k, for example).  Sure, B and k are context agnostic here, so we could change what they represent and still maintain the problem semantics, but that seems like an unnecessary generalization.\n\nI understand it&#39;s easier to write using shorthand, but if the goal is to facilitate other people&#39;s understanding (or prove correctness) then we should optimize for read time and spell out what the variable represents.", 
+      "anon": "no", 
+      "created": "2017-09-01T22:39:34Z", 
+      "uid": "i4j6x5bv5ua71n", 
+      "subject": "Longer variable names in formulas?"
+    }, 
+    {
+      "content": "What are your thoughts on using self descriptive variable names for algorithms written in mathematical notation (not code)? It&#39;s always bothered me that proofs/formulas/algorithms tend to be written using single letter variable names, when the formula would often be more readable using something descriptive (weight vs B and numCoins vs k, for example). \n\nI understand it&#39;s easier to write using shorthand, but if the goal is to facilitate other people&#39;s understanding (or prove correctness) then we should optimize for read time and spell out what the variable represents.", 
+      "anon": "no", 
+      "created": "2017-09-01T22:38:20Z", 
+      "uid": "i4j6x5bv5ua71n", 
+      "subject": "Longer variable names in formulas?"
+    }, 
+    {
+      "content": "What are your thoughts on using self descriptive variable names for algorithms written in mathematical notation (not code)? It&#39;s always bothered me that proofs/formulas/algorithms tend to be written using single letter variable names, when the formula would often be more readable using something descriptive (weight vs B and numCoins vs k, for example). \n\nI understand it&#39;s easier to write using shorthand, but if the goal is to facilitate other people&#39;s understanding (or prove correctness) then we should optimize for read time and spell out what the variable represents. I do agree that there&#39;s certainly a threshold where overly verbose names can make the formula hard to read, but that seems to be quite rate", 
+      "anon": "no", 
+      "created": "2017-09-01T22:37:52Z", 
+      "uid": "i4j6x5bv5ua71n", 
+      "subject": "Longer variable names in formulas?"
+    }, 
+    {
+      "content": "What are your thoughts on using self descriptive variable names for algorithms written in mathematical notation (not code)? It&#39;s always bothered me that proofs/formulas/algorithms tend to be written using single letter variable names, when the formula would often be more readable using something descriptive (weight vs B and numCoins vs k, for example). \n\nI understand it&#39;s easier to write using shorthand, but if the goal is to facilitate other people&#39;s understanding then we should optimize for read time and spell out what the variable represents. I do agree that there&#39;s certainly a threshold where overly verbose names can make the formula hard to read, but that seems to be quite rate", 
+      "anon": "no", 
+      "created": "2017-09-01T22:37:37Z", 
+      "uid": "i4j6x5bv5ua71n", 
+      "subject": "Longer variable names in formulas?"
+    }, 
+    {
+      "content": "What are your thoughts on using self descriptive variable names for algorithms written in mathematical notation (not code)? It&#39;s always bothered me that proofs/formulas/algorithms tend to be written using single letter variable names, when the formula would often be much simpler using something descriptive (weight vs B and numCoins vs k, for example). \n\nI understand it&#39;s easier to write using shorthand, but if the goal is to facilitate other people&#39;s understanding then we should optimize for read time and spell out what the variable represents. I do agree that there&#39;s certainly a threshold where overly verbose names can make the formula hard to read, but that seems to be quite rate", 
+      "anon": "no", 
+      "created": "2017-09-01T22:37:11Z", 
+      "uid": "i4j6x5bv5ua71n", 
+      "subject": "Longer variable names in formulas?"
+    }, 
+    {
+      "content": "What are your thoughts on using self descriptive variable names for algorithms written in mathematical notation (not code)? It&#39;s always bothered me that people tend to write proofs/formulas/algorithms using single letter variable names, when the formula would often be much simpler using something descriptive (weight vs B and numCoins vs k, for example). \n\nI understand it&#39;s easier to write using shorthand, but if the goal is to facilitate other people&#39;s understanding then we should optimize for read time and spell out what the variable represents. I do agree that there&#39;s certainly a threshold where overly verbose names can make the formula hard to read, but that seems to be quite rate", 
+      "anon": "no", 
+      "created": "2017-09-01T22:36:49Z", 
+      "uid": "i4j6x5bv5ua71n", 
+      "subject": "Longer variable names in formulas?"
+    }
+  ]
+}

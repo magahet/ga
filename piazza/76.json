@@ -1,0 +1,190 @@
+{
+  "status": "active", 
+  "unique_views": 187, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-08-25T21:08:05Z", 
+      "data": "j6sdcjwq4ea7at", 
+      "uid": "i4ptxbxq30m358"
+    }, 
+    {
+      "uid": "i4nkipeofrkrz", 
+      "type": "s_answer", 
+      "when": "2017-08-25T22:37:03Z", 
+      "to": "j6sdcjwo46e7as", 
+      "anon": "no", 
+      "data": "j6sgiyr7u5b39h"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-08-26T02:59:38Z", 
+      "data": "j6spwnioyin0", 
+      "uid": "i4ptxbxq30m358"
+    }, 
+    {
+      "uid": "gy4twfv45cg5o6", 
+      "type": "i_answer", 
+      "when": "2017-08-26T14:05:34Z", 
+      "to": "j6sdcjwo46e7as", 
+      "anon": "no", 
+      "data": "j6tdp1ws16w58j"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j6sdcjwo46e7as", 
+  "bookmarked": 5, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-08-25T22:37:03Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [
+        "i4fxg6tfzh211n", 
+        "i8597qyse9c1v2", 
+        "hv1gl7gmpkj41y", 
+        "idej2kl6hh1", 
+        "i4m6aknktm16iu"
+      ], 
+      "id": "j6sgiyqo9bq39g", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Estelle Yeh", 
+          "admin": false, 
+          "photo": "1421544945_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i4fxg6tfzh211n"
+        }, 
+        {
+          "name": "Pedro Henrique Rocha Moy", 
+          "admin": false, 
+          "photo": "1452626521_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i8597qyse9c1v2"
+        }, 
+        {
+          "name": "William Miller", 
+          "admin": false, 
+          "photo": "1408322716_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hv1gl7gmpkj41y"
+        }, 
+        {
+          "name": "Chris Noyes", 
+          "admin": false, 
+          "photo": null, 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "idej2kl6hh1"
+        }, 
+        {
+          "name": "Justin Wong", 
+          "admin": false, 
+          "photo": "1420603880_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i4m6aknktm16iu"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>If you Google these problems, you&#39;ll find their full description:</p>\n<p></p>\n<ul><li>Ways to Cover a Distance</li><li>Longest Path In Matrix</li><li>Subset Sum Problem</li><li>Optimal Strategy for a Game</li><li>Boolean Parenthesization Problem</li><li>Shortest Common Supersequence</li><li>Matrix Chain Multiplication</li><li>Partition problem</li><li>Rod Cutting</li><li>Coin change problem</li><li>Word Break Problem</li><li>Maximal Product when Cutting Rope</li><li>Dice Throw Problem</li><li>Box Stacking</li><li>Egg Dropping Puzzle</li></ul>\n<p></p>\n<p>These are all problems that can be solved using dynamic programming.</p>\n<p></p>\n<p></p>", 
+          "anon": "no", 
+          "created": "2017-08-25T22:37:03Z", 
+          "uid": "i4nkipeofrkrz", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-08-26T14:05:34Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j6tdp1wp83u58i", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p></p>\n<p>I&#39;ll post the next homework on RSA soon if you&#39;re ready. \u00a0There are some quizzes in the videos and there are additional problems at the end of the relevant chapter of [DPV]. \u00a0It&#39;s always good to do as many of the problems from [DPV] as you can, I&#39;m stressing it more for DP because I want to make sure everyone in this class masters DP (and it usually requires lots of practice). \u00a0--Eric</p>\n<p></p>", 
+          "anon": "no", 
+          "created": "2017-08-26T14:05:34Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 76, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "course"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 5, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "course", 
+    "student"
+  ], 
+  "created": "2017-08-25T21:08:05Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145313338, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>Can we get some more suggested practice problems for future homework assignments(maybe the next one or two) along the lines of the practice problems given for chapter 6?<br /><br />I see that there is one problem suggested from Ch 3 about identifying cycles.</p>\n<p><br />-edit-</p>\n<p></p>\n<p>Sorry, to clarify, suggested questions for other topics such as primality or divide &amp; conquer. Chapter 1 has a series of questions which call for proofs (i.e. prove the sum of 3 single digit numbers for any base results in a number which is two digits in length). Are these part of the course material? If no then is there a list of suggested questions from Ch1 or Ch3?</p>", 
+      "anon": "no", 
+      "created": "2017-08-26T02:59:38Z", 
+      "uid": "i4ptxbxq30m358", 
+      "subject": "Suggested Practice Problems"
+    }, 
+    {
+      "content": "<p>Can we get some more suggested practice problems for future homework assignments(maybe the next one or two) along the lines of the practice problems given for chapter 6?<br /><br />I see that there is one problem suggested from Ch 3 about identifying cycles.</p>", 
+      "anon": "no", 
+      "created": "2017-08-25T21:08:05Z", 
+      "uid": "i4ptxbxq30m358", 
+      "subject": "Suggested Practice Problems"
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "status": "active", 
+  "unique_views": 216, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-21T18:09:02Z", 
+      "data": "j7uruaer1u47ln", 
+      "uid": "iddoxdh5wry2oa"
+    }, 
+    {
+      "uid": "gy4twfv45cg5o6", 
+      "type": "i_answer", 
+      "when": "2017-09-21T18:38:49Z", 
+      "to": "j7uruaeol5w7lm", 
+      "anon": "no", 
+      "data": "j7uswl6s5423d6"
+    }, 
+    {
+      "to": "j7uruaeol5w7lm", 
+      "anon": "stud", 
+      "when": "2017-09-21T18:54:35Z", 
+      "type": "followup"
+    }, 
+    {
+      "to": "j7uruaeol5w7lm", 
+      "anon": "no", 
+      "when": "2017-09-21T19:01:55Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j7uruaeol5w7lm", 
+      "anon": "no", 
+      "when": "2017-09-21T19:03:57Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j7uruaeol5w7lm", 
+      "anon": "stud", 
+      "when": "2017-09-21T19:55:40Z", 
+      "type": "feedback"
+    }, 
+    {
+      "to": "j7uruaeol5w7lm", 
+      "anon": "no", 
+      "when": "2017-09-21T20:14:18Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j7uruaeol5w7lm", 
+  "bookmarked": 4, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-21T18:38:49Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j7uswl6oqnv3d4", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "No.  Do not submit them.  They are just scrap.  Do not submit your scrap papers.  If you submit multiple answers to a problem we will grade the &#34;worst&#34; of the submissions.", 
+          "anon": "no", 
+          "created": "2017-09-21T18:38:49Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-21T18:54:35Z", 
+      "no_upvotes": 0, 
+      "created": "2017-09-21T18:54:35Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7utgvnu1k74l9", 
+      "anon": "stud", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-21T19:01:55Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-09-21T19:01:55Z", 
+          "type": "feedback", 
+          "id": "j7utqapyu353xp", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "If you&#39;re using additional pages you are writing too much."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-21T19:03:57Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-09-21T19:03:57Z", 
+          "type": "feedback", 
+          "id": "j7utsx6mjlv63h", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "I don&#39;t want you coming with a boatload of paper.  8 scrap pages should be plenty so keep it to that."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-21T19:55:40Z", 
+          "created": "2017-09-21T19:55:40Z", 
+          "type": "feedback", 
+          "id": "j7uvnezezazqr", 
+          "anon": "stud", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Prof,</p>\n<p></p>\n<p>\u00a0 What about the real possibility of us making a\u00a0mistake on the main sheet. I have done this several times during the HWs and had to use a fresh sheet. With the Exam, the fastest way for us to move forward,\u00a0would be\u00a0to strike off any mistakes and continue on. With what you have mentioned, there is very little room for that. \u00a0From all the previous courses we have taken, there never has been a limitation on the amount of paper we could use.\u00a0</p>\n<p></p>\n<p>Thanks!</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-21T20:14:18Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-09-21T20:14:18Z", 
+          "type": "feedback", 
+          "id": "j7uwbdrqf8z1i9", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Harshan Rathnam,  you can bring another copy of the template."
+        }
+      ], 
+      "subject": "<p>1. Can we use more scrap paper than just the 8 provided on the template. Yes?</p>\n<p>2. If any of the problems need additional pages, which ones do we use. i.e. We need additional pages\u00a0for solving sections C and D, which papers do we use - the pre-printed ones?\u00a0</p>"
+    }
+  ], 
+  "nr": 375, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "exam"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 2, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "exam", 
+    "student"
+  ], 
+  "created": "2017-09-21T18:09:02Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145224668, 
+  "tag_good": [
+    {
+      "name": "William Miller", 
+      "admin": false, 
+      "photo": "1408322716_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hv1gl7gmpkj41y"
+    }, 
+    {
+      "name": "Gautam Venkataramanan", 
+      "admin": false, 
+      "photo": "1447185933_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hvvxmpxfuyb2eo"
+    }
+  ], 
+  "tag_good_arr": [
+    "hv1gl7gmpkj41y", 
+    "hvvxmpxfuyb2eo"
+  ], 
+  "history": [
+    {
+      "content": "<p>The exam template is on the T-square. There are some blank pages on the bottom. It says we can use them as the work page, do we need to submit them?</p>", 
+      "anon": "no", 
+      "created": "2017-09-21T18:09:02Z", 
+      "uid": "iddoxdh5wry2oa", 
+      "subject": "Do we need to submit those used &#34;work pages&#34; as well as those &#34;problem solution pages&#34; ?"
+    }
+  ]
+}

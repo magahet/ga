@@ -1,0 +1,336 @@
+{
+  "status": "active", 
+  "unique_views": 225, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-28T01:13:33Z", 
+      "data": "j83rncbpstj2hb", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j83rncbfeie2ha", 
+      "anon": "no", 
+      "when": "2017-09-28T02:13:52Z", 
+      "type": "followup", 
+      "uid": "hqa9hej5ny2gl"
+    }, 
+    {
+      "to": "j83rncbfeie2ha", 
+      "anon": "no", 
+      "when": "2017-09-28T04:07:06Z", 
+      "type": "followup", 
+      "uid": "i18w67avy8e1uk"
+    }, 
+    {
+      "to": "j83rncbfeie2ha", 
+      "anon": "no", 
+      "when": "2017-09-28T12:46:42Z", 
+      "type": "feedback", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j83rncbfeie2ha", 
+      "anon": "no", 
+      "when": "2017-09-28T12:47:31Z", 
+      "type": "feedback", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j83rncbfeie2ha", 
+      "anon": "no", 
+      "when": "2017-09-28T15:45:23Z", 
+      "type": "followup", 
+      "uid": "hyzvf66o86l6ml"
+    }, 
+    {
+      "to": "j83rncbfeie2ha", 
+      "anon": "no", 
+      "when": "2017-09-28T15:48:31Z", 
+      "type": "followup", 
+      "uid": "hv5exp71kfz754"
+    }, 
+    {
+      "to": "j83rncbfeie2ha", 
+      "anon": "no", 
+      "when": "2017-09-28T21:05:35Z", 
+      "type": "feedback", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "to": "j83rncbfeie2ha", 
+      "anon": "no", 
+      "when": "2017-09-28T22:08:16Z", 
+      "type": "feedback", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j83rncbfeie2ha", 
+      "anon": "no", 
+      "when": "2017-09-30T00:43:48Z", 
+      "type": "feedback", 
+      "uid": "hv1gl7gmpkj41y"
+    }, 
+    {
+      "to": "j83rncbfeie2ha", 
+      "anon": "no", 
+      "when": "2017-10-01T09:11:29Z", 
+      "type": "feedback", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "to": "j83rncbfeie2ha", 
+      "anon": "no", 
+      "when": "2017-10-01T17:13:22Z", 
+      "type": "feedback", 
+      "uid": "hv1gl7gmpkj41y"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j83rncbfeie2ha", 
+  "bookmarked": 8, 
+  "tags": [
+    "instructor-note", 
+    "project"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-09-28T02:13:52Z", 
+      "no_upvotes": 0, 
+      "uid": "hqa9hej5ny2gl", 
+      "created": "2017-09-28T02:13:52Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j83tswrwv8q2xk", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-28T12:46:42Z", 
+          "uid": "gns9oa0pgsO", 
+          "created": "2017-09-28T12:46:42Z", 
+          "type": "feedback", 
+          "id": "j84geqiqoyu5us", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>you need to use the bounds that are given (.4, 1.0) *c and use every k value between those bounds.\u00a0 so for c==10, k = [4,5,6,7,8,9,10]</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-30T00:43:48Z", 
+          "uid": "hv1gl7gmpkj41y", 
+          "created": "2017-09-30T00:43:48Z", 
+          "type": "feedback", 
+          "id": "j86lgsih54v1q9", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Just to clarify on this, for C=15, (15 * .5) , (15 * .7), (15 * .9) are not integers. So how we do we use those k&#39;s as the number of hash functions? Can we round up?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-01T09:11:29Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-10-01T09:11:29Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j88j1idsez25xf", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "15 * 0.4 = 6, 15 * 1.0 = 15; so you try 6,7,8.9,10,11,12,13,14,15. No need for &#39;rounding&#39;."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-01T17:13:22Z", 
+          "uid": "hv1gl7gmpkj41y", 
+          "created": "2017-10-01T17:13:22Z", 
+          "type": "feedback", 
+          "id": "j89098823jd32c", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Alright. Now I understand. That was not obvious from the instructions. Thanks!</p>"
+        }
+      ], 
+      "subject": "<p>Thanks for the notes and prompt posting.\u00a0 For task 3, do you care if we round the k up or down for c=15 with [0.5, 0.7, 0.9]*c?</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-28T04:07:06Z", 
+      "no_upvotes": 0, 
+      "uid": "i18w67avy8e1uk", 
+      "created": "2017-09-28T04:07:06Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j83xuihcvn04vl", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-28T12:47:31Z", 
+          "uid": "gns9oa0pgsO", 
+          "created": "2017-09-28T12:47:31Z", 
+          "type": "feedback", 
+          "id": "j84gfsiapcz4kt", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>No, only 1 hash value should be plotted.</p>"
+        }
+      ], 
+      "subject": "<p>Thank you for the office hours note. They are helpful. For comparing hash functions using scatter plot,\u00a0do I map 13 hash values (x-axis) to an original value (y-axis)?</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-28T15:45:23Z", 
+      "no_upvotes": 0, 
+      "uid": "hyzvf66o86l6ml", 
+      "created": "2017-09-28T15:45:23Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j84msirp1sa6sk", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-28T21:05:35Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-09-28T21:05:35Z", 
+          "type": "feedback", 
+          "id": "j84y8aohk03ld", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "It&#39;s not difficult to plot both"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-28T22:08:16Z", 
+          "uid": "gns9oa0pgsO", 
+          "created": "2017-09-28T22:08:16Z", 
+          "type": "feedback", 
+          "id": "j850gx6qojuci", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>which ever one you choose, explain why in your writeup - there are valid reasons for choosing either.\u00a0</p>"
+        }
+      ], 
+      "subject": "<p>In the project writeup, it says to plot the average false positive rate. The transcript above says to plot the median value. Which one should it be?</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-28T15:48:31Z", 
+      "no_upvotes": 0, 
+      "uid": "hv5exp71kfz754", 
+      "created": "2017-09-28T15:48:31Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j84mwjvs8jp6gl", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>Good office hours.\u00a0 I wasn&#39;t able to make it but watched them afterwards.\u00a0 Thanks.</p>"
+    }
+  ], 
+  "nr": 463, 
+  "bucket_order": 2, 
+  "type": "note", 
+  "folders": [
+    "project"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 6, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-09-28T01:13:33Z", 
+  "is_tag_good": false, 
+  "config": {
+    "is_announcement": 1, 
+    "bypass_email": 1
+  }, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145209998, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>Hi folks</p>\n<p></p>\n<p>I put together a transcript of the main questions folks asked in office hours, and put it up on T-square in the resources.</p>\n<p></p>\n<p><a href=\"https://t-square.gatech.edu/access/content/group/gtc-e872-4c9b-5925-9ee0-5e10642d38a2/OfficeHours%20BloomFilter.pdf\">https://t-square.gatech.edu/access/content/group/gtc-e872-4c9b-5925-9ee0-5e10642d38a2/OfficeHours%20BloomFilter.pdf</a></p>", 
+      "anon": "no", 
+      "created": "2017-09-28T01:13:33Z", 
+      "uid": "gns9oa0pgsO", 
+      "subject": "Transcript from office hours 9/27"
+    }
+  ]
+}

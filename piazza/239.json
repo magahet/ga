@@ -1,0 +1,117 @@
+{
+  "status": "active", 
+  "unique_views": 166, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-10T06:35:52Z", 
+      "data": "j7ed8i77eh6486", 
+      "uid": "hywoet2wnorue"
+    }, 
+    {
+      "uid": "i4hdvab632i522", 
+      "type": "s_answer", 
+      "when": "2017-09-10T07:56:20Z", 
+      "to": "j7ed8i76ytv485", 
+      "anon": "no", 
+      "data": "j7eg3zcyv0eir"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-09-10T08:07:15Z", 
+      "data": "j7egi0jksy3v1", 
+      "uid": "i4hdvab632i522"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j7ed8i76ytv485", 
+  "bookmarked": 3, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-10T07:56:20Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [
+        "hywoet2wnorue"
+      ], 
+      "id": "j7eg3zcwnjhiq", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Christopher Everett", 
+          "admin": false, 
+          "photo": "1408242613_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hywoet2wnorue"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "numpy.fft uses $$\\omega_n = e^{-\\frac{i 2\\pi}{n}}$$ that is an alternative, that is apparently more prevalent in signal processing. See, for instance, CLRS page 907, footnote &#34;Many other authors define $$\\omega_n$$ differently: $$\\omega_n = e^{-2\\pi i/n}$$. This alternative definition tends to be used for signal-processing applications.&#34;\n<a href=\"https://docs.scipy.org/doc/numpy/reference/routines.fft.html#implementation-details\">numpy documentation</a>:\n&#34;There are many ways to define the DFT, varying in the sign of the exponent, normalization, etc. In this implementation, the DFT is defined as $$A_k =  \\sum_{m=0}^{n-1} a_m \\exp\\left\\{-2\\pi i{mk \\over n}\\right\\}\n\\qquad k = 0,\\ldots,n-1$$&#34;\n\nIncidentally, looking up my math notes, from the looks of it the continuous FT is defined clockwise similarly\n$$\\tilde{f}(k) = \\frac{1}{\\sqrt{2\\pi}}\\int\\limits_{-\\infty}^{\\infty} e^{-i k x} f(x) dx$$", 
+          "anon": "no", 
+          "created": "2017-09-10T08:07:15Z", 
+          "uid": "i4hdvab632i522", 
+          "subject": ""
+        }, 
+        {
+          "content": "numpy.fft uses $$\\omega_n = e^{-\\frac{i 2\\pi}{n}}$$ that is an alternative, that is apparently more prevalent in signal processing", 
+          "anon": "no", 
+          "created": "2017-09-10T07:56:20Z", 
+          "uid": "i4hdvab632i522", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 239, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw3"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 3, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw3", 
+    "student"
+  ], 
+  "created": "2017-09-10T06:35:52Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145265254, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>I seem to be getting the signs on my i&#39;s swapped when doing FFT calculations. \u00a0</p>\n<p></p>\n<p>Here&#39;s an example:</p>\n<p></p>\n<p>$$FFT([1,1,0,0],\\omega_4) \\\\\nA_{even} = FFT([1,0], \\omega_2) returns [1,1]\\\\\nA_{odd} = FFT([1,0], \\omega_2) returns [1,1]\\\\\nr_0 = 1 &#43; (1)(1) = 2\\\\\nr_1 = 1 &#43; (1)(i) = 1&#43;i\\\\\nr_2 = 1 - (1)(1) = 0\\\\\nr_3 = 1 - (1)(i) = 1-i\\\\\n\\\\\nFFT(FFT([1,0], \\omega_2) \\\\\nA_{even} = $ FFT([1], \\omega_1) returns [1]\\\\\nA_{odd} = $ FFT([0], \\omega_1) returns [0]\\\\\nr_0 = 1 &#43; (0)(1) = 1\\\\\nr_1 = 1 - (0)(1) = 1\\\\$$</p>\n<p></p>\n<p>I arrived at i in r1 and r3 via:</p>\n<p>$$\\omega_4^1 = i$$</p>\n<p></p>\n<p>numpy.fft indicates that r1 should be 1-i and r3 should be 1&#43;i. \u00a0I&#39;ve stared at this at length and can&#39;t seem to find the flaw in my calculations. \u00a0Anyone have an idea where I&#39;m going wrong?</p>", 
+      "anon": "no", 
+      "created": "2017-09-10T06:35:52Z", 
+      "uid": "hywoet2wnorue", 
+      "subject": "Problem with FFT Calculations"
+    }
+  ]
+}

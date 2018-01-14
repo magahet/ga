@@ -1,0 +1,58 @@
+{
+  "status": "active", 
+  "unique_views": 136, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-19T00:58:13Z", 
+      "data": "j7qw4yfjdky6hs", 
+      "uid": "gy4twfv45cg5o6"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j7qw4yffrat6hr", 
+  "bookmarked": 2, 
+  "tags": [
+    "hw3", 
+    "instructor-note"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [], 
+  "nr": 349, 
+  "bucket_order": 2, 
+  "type": "note", 
+  "folders": [
+    "hw3"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 0, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-09-19T00:58:13Z", 
+  "is_tag_good": false, 
+  "config": {
+    "bypass_email": 1
+  }, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145233459, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "Hi everyone,\n\nJust a reminder that I will be holding office hours today at 9 PM EST.\n\nSlide code: CS8803-Mon\nYoutube: https://youtu.be/mnmdUt7r4T0\n\n-Jeremy", 
+      "anon": "no", 
+      "created": "2017-09-19T00:58:13Z", 
+      "uid": "gy4twfv45cg5o6", 
+      "subject": "Office hours now..."
+    }
+  ]
+}

@@ -1,0 +1,382 @@
+{
+  "status": "active", 
+  "unique_views": 362, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-08-23T00:58:48Z", 
+      "data": "j6ob9oww7mp509", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j6ob9owubuw508", 
+      "anon": "no", 
+      "when": "2017-08-23T01:03:07Z", 
+      "type": "followup", 
+      "uid": "hv5exp71kfz754"
+    }, 
+    {
+      "to": "j6ob9owubuw508", 
+      "anon": "no", 
+      "when": "2017-08-23T01:32:52Z", 
+      "type": "followup", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j6ob9owubuw508", 
+      "anon": "no", 
+      "when": "2017-08-23T02:07:47Z", 
+      "type": "followup", 
+      "uid": "hz203w8gcn7648"
+    }, 
+    {
+      "to": "j6ob9owubuw508", 
+      "anon": "no", 
+      "when": "2017-08-23T02:09:39Z", 
+      "type": "followup", 
+      "uid": "idgjs16yZ4K"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-08-23T02:11:09Z", 
+      "data": "j6oduqyy6dj3kw", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j6ob9owubuw508", 
+      "anon": "no", 
+      "when": "2017-08-23T02:12:16Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j6ob9owubuw508", 
+      "anon": "no", 
+      "when": "2017-08-23T06:05:56Z", 
+      "type": "feedback", 
+      "uid": "ij7kfkx61zz365"
+    }, 
+    {
+      "to": "j6ob9owubuw508", 
+      "anon": "no", 
+      "when": "2017-08-23T09:46:17Z", 
+      "type": "followup", 
+      "uid": "hz03lfq2z6r446"
+    }, 
+    {
+      "to": "j6ob9owubuw508", 
+      "anon": "no", 
+      "when": "2017-08-23T09:47:50Z", 
+      "type": "feedback", 
+      "uid": "hvvxmpxfuyb2eo"
+    }, 
+    {
+      "to": "j6ob9owubuw508", 
+      "anon": "no", 
+      "when": "2017-08-23T10:36:22Z", 
+      "type": "followup", 
+      "uid": "idi5567wFgu"
+    }, 
+    {
+      "to": "j6ob9owubuw508", 
+      "anon": "no", 
+      "when": "2017-08-24T05:45:10Z", 
+      "type": "followup", 
+      "uid": "ijawwe19w053cm"
+    }, 
+    {
+      "to": "j6ob9owubuw508", 
+      "anon": "no", 
+      "when": "2017-09-04T05:51:38Z", 
+      "type": "followup", 
+      "uid": "idgjs16yZ4K"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-07T16:15:34Z", 
+      "data": "j7anmg1c59o68p", 
+      "uid": "hju4w9odatf30"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j6ob9owubuw508", 
+  "bookmarked": 9, 
+  "tags": [
+    "hw1", 
+    "instructor-note"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-08-23T01:03:07Z", 
+      "no_upvotes": 0, 
+      "uid": "hv5exp71kfz754", 
+      "created": "2017-08-23T01:03:07Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6obf8t6jfs29w", 
+      "anon": "no", 
+      "bucket_name": "Week 8/20 - 8/26", 
+      "config": {}, 
+      "bucket_order": 7, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>Thanks. \u00a0This will help a lot. \u00a0I&#39;ve already spent a <em><strong>lot</strong> </em>of time working through the practice problems. \u00a0By looking at examples in the book, I can manage to work through them. \u00a0But after working another problem and going back to rework the previous problem, it&#39;s still a challenge. \u00a0Hopefully this will help work out the kinks.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-23T01:32:52Z", 
+      "no_upvotes": 0, 
+      "uid": "hvil6y6khgk2ri", 
+      "created": "2017-08-23T01:32:52Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6ochi58y7w46b", 
+      "anon": "no", 
+      "bucket_name": "Week 8/20 - 8/26", 
+      "config": {}, 
+      "bucket_order": 7, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-08-23T06:05:56Z", 
+          "uid": "ij7kfkx61zz365", 
+          "created": "2017-08-23T06:05:56Z", 
+          "type": "feedback", 
+          "id": "j6om8o7crls6dj", 
+          "anon": "no", 
+          "bucket_name": "Week 8/20 - 8/26", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#43;1</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-23T09:47:50Z", 
+          "uid": "hvvxmpxfuyb2eo", 
+          "created": "2017-08-23T09:47:50Z", 
+          "type": "feedback", 
+          "id": "j6ou61hcnn26xo", 
+          "anon": "no", 
+          "bucket_name": "Week 8/20 - 8/26", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#43;1</p>"
+        }
+      ], 
+      "subject": "<p>Thanks!</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-23T02:07:47Z", 
+      "no_upvotes": 0, 
+      "uid": "hz203w8gcn7648", 
+      "created": "2017-08-23T02:07:47Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6odqf6a10b42t", 
+      "anon": "no", 
+      "bucket_name": "Week 8/20 - 8/26", 
+      "config": {}, 
+      "bucket_order": 7, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>Thank you.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-23T02:09:39Z", 
+      "no_upvotes": 0, 
+      "uid": "idgjs16yZ4K", 
+      "created": "2017-08-23T02:09:39Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6odst4lzjv38x", 
+      "anon": "no", 
+      "bucket_name": "Week 8/20 - 8/26", 
+      "config": {}, 
+      "bucket_order": 7, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-08-23T02:12:16Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-08-23T02:12:16Z", 
+          "type": "feedback", 
+          "id": "j6odw698uha46j", 
+          "anon": "no", 
+          "bucket_name": "Week 8/20 - 8/26", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I had no idea about that. \u00a0Good idea. \u00a0Thanks.</p>"
+        }
+      ], 
+      "subject": "Thanks... Perhaps this post should be pinned?"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-23T09:46:17Z", 
+      "no_upvotes": 0, 
+      "uid": "hz03lfq2z6r446", 
+      "created": "2017-08-23T09:46:17Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6ou41zgt7614b", 
+      "anon": "no", 
+      "bucket_name": "Week 8/20 - 8/26", 
+      "config": {}, 
+      "bucket_order": 7, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>Thank you !</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-23T10:36:22Z", 
+      "no_upvotes": 0, 
+      "uid": "idi5567wFgu", 
+      "created": "2017-08-23T10:36:22Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6ovwg6un292v0", 
+      "anon": "no", 
+      "bucket_name": "Week 8/20 - 8/26", 
+      "config": {}, 
+      "bucket_order": 7, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>Thank you</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-24T05:45:10Z", 
+      "no_upvotes": 0, 
+      "uid": "ijawwe19w053cm", 
+      "created": "2017-08-24T05:45:10Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6q0xtonqkz6iv", 
+      "anon": "no", 
+      "bucket_name": "Week 8/20 - 8/26", 
+      "config": {}, 
+      "bucket_order": 7, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>thanks professor.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-04T05:51:38Z", 
+      "no_upvotes": 0, 
+      "uid": "idgjs16yZ4K", 
+      "created": "2017-09-04T05:51:38Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j75r0i5i90s452", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "I just noticed that hw1 isn&#39;t due until 1pm ET instead of the usual 8am. I&#39;ll definitely be using those extra hours!"
+    }
+  ], 
+  "nr": 38, 
+  "bucket_order": 2, 
+  "type": "note", 
+  "folders": [
+    "hw1"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 4, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-08-23T00:58:48Z", 
+  "is_tag_good": false, 
+  "config": {
+    "is_announcement": 1, 
+    "bypass_email": 1
+  }, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145326732, 
+  "tag_good": [
+    {
+      "name": "William Miller", 
+      "admin": false, 
+      "photo": "1408322716_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hv1gl7gmpkj41y"
+    }
+  ], 
+  "tag_good_arr": [
+    "hv1gl7gmpkj41y"
+  ], 
+  "history": [
+    {
+      "content": "<p></p>\n<p>Hi all,</p>\n<p></p>\n<p>I&#39;ve extended HW1 on DP, it&#39;s now due one week later on Monday September 4. \u00a0It&#39;s important you do a lot of practice DP problems. \u00a0So please use the extra time to work on the practice DP problems from Chapter 6 of [DPV]. \u00a0I will post solutions to those later in the week, but it&#39;s best if you first try them yourself and hopefully figure out the solution on your own (do ask us for help if you need a hint or help, or to check your solution). \u00a0</p>\n<p></p>\n<p>The schedule for the next two homeworks before exam 1 is also posted now, see:</p>\n<p>\u00a0 \u00a0\u00a0<a href=\"https://8803ga.wordpress.com/hws/\">https://8803ga.wordpress.com/hws/</a></p>\n<p>I will post the next homework on RSA early next week.</p>\n<p></p>\n<p>For the DP lectures, there are 3 lectures. \u00a0I&#39;ve marked the 3rd lecture DP3 as supplemental on the course schedule. \u00a0I won&#39;t test you on anything specific in that lecture, but it still may be useful to watch as it&#39;s more practice solving DP problems. \u00a0</p>\n<p></p>\n<p>In general, I try to minimize the amount of material you need to memorize. \u00a0I won&#39;t ask you to regurgitate pseudocode for an algorithm I went through in lecture. \u00a0I may ask you the running time but that you can figure out on the fly if you remember the high-level approach. \u00a0For example, I don&#39;t remember the pseudocode for Dijkstra&#39;s algorithm. \u00a0But I do remember that it uses the same approach as BFS which is linear time O(n&#43;m). \u00a0In addition it uses the min-heap data structure to deal with the edge weights, and each min-heap operation takes O(logn) time. \u00a0Thus, Dijkstra&#39;s algorithm takes O((n&#43;m)logn) time. The most important aspect I&#39;ll stress: I&#39;ll try to get you to use the key ideas in the algorithms we&#39;ve seen in lecture to new problems on the homeworks and exams. \u00a0 For example, take the idea of the knapsack DP algorithm and apply it to a new DP problem.</p>\n<p></p>\n<p>--Eric</p>", 
+      "anon": "no", 
+      "created": "2017-09-07T16:15:34Z", 
+      "uid": "hju4w9odatf30", 
+      "subject": "HW 1 extension"
+    }, 
+    {
+      "content": "<p></p>\n<p>Hi all,</p>\n<p></p>\n<p>I&#39;ve extended HW1 on DP, it&#39;s now due one week later on Monday September 4. \u00a0It&#39;s important you do a lot of practice DP problems. \u00a0So please use the extra time to work on the practice DP problems from Chapter 6 of [DPV]. \u00a0I will post solutions to those later in the week, but it&#39;s best if you first try them yourself and hopefully figure out the solution on your own (do ask us for help if you need a hint or help, or to check your solution). \u00a0</p>\n<p></p>\n<p>The schedule for the next two homeworks before exam 1 is also posted now, see:</p>\n<p>\u00a0 \u00a0\u00a0<a href=\"https://8803ga.wordpress.com/hws/\">https://8803ga.wordpress.com/hws/</a></p>\n<p>I will post the next homework on RSA early next week.</p>\n<p></p>\n<p>For the DP lectures, there are 3 lectures. \u00a0I&#39;ve marked the 3rd lecture DP3 as supplemental on the course schedule. \u00a0I won&#39;t test you on anything specific in that lecture, but it still may be useful to watch as it&#39;s more practice solving DP problems. \u00a0</p>\n<p></p>\n<p>In general, I try to minimize the amount of material you need to memorize. \u00a0I won&#39;t ask you to regurgitate pseudocode for an algorithm I went through in lecture. \u00a0I may ask you the running time but that you can figure out on the fly if you remember the high-level approach. \u00a0For example, I don&#39;t remember the pseudocode for Dijkstra&#39;s algorithm. \u00a0But I do remember that it uses the same approach as BFS which is linear time O(n&#43;m). \u00a0In addition it uses the min-heap data structure to deal with the edge weights, and each min-heap operation takes O(logn) time. \u00a0Thus, Dijkstra&#39;s algorithm takes O((n&#43;m)logn) time. The most important aspect I&#39;ll stress: I&#39;ll try to get you to use the key ideas in the algorithms we&#39;ve seen in lecture to new problems on the homeworks and exams. \u00a0 For example, take the idea of the knapsack DP algorithm and apply it to a new DP problem.</p>\n<p></p>\n<p>--Eric</p>\n#pin", 
+      "anon": "no", 
+      "created": "2017-08-23T02:11:09Z", 
+      "uid": "gy4twfv45cg5o6", 
+      "subject": "HW 1 extension"
+    }, 
+    {
+      "content": "<p></p>\n<p>Hi all,</p>\n<p></p>\n<p>I&#39;ve extended HW1 on DP, it&#39;s now due one week later on Monday September 4. \u00a0It&#39;s important you do a lot of practice DP problems. \u00a0So please use the extra time to work on the practice DP problems from Chapter 6 of [DPV]. \u00a0I will post solutions to those later in the week, but it&#39;s best if you first try them yourself and hopefully figure out the solution on your own (do ask us for help if you need a hint or help, or to check your solution). \u00a0</p>\n<p></p>\n<p>The schedule for the next two homeworks before exam 1 is also posted now, see:</p>\n<p>\u00a0 \u00a0\u00a0<a href=\"https://8803ga.wordpress.com/hws/\">https://8803ga.wordpress.com/hws/</a></p>\n<p>I will post the next homework on RSA early next week.</p>\n<p></p>\n<p>For the DP lectures, there are 3 lectures. \u00a0I&#39;ve marked the 3rd lecture DP3 as supplemental on the course schedule. \u00a0I won&#39;t test you on anything specific in that lecture, but it still may be useful to watch as it&#39;s more practice solving DP problems. \u00a0</p>\n<p></p>\n<p>In general, I try to minimize the amount of material you need to memorize. \u00a0I won&#39;t ask you to regurgitate pseudocode for an algorithm I went through in lecture. \u00a0I may ask you the running time but that you can figure out on the fly if you remember the high-level approach. \u00a0For example, I don&#39;t remember the pseudocode for Dijkstra&#39;s algorithm. \u00a0But I do remember that it uses the same approach as BFS which is linear time O(n&#43;m). \u00a0In addition it uses the min-heap data structure to deal with the edge weights, and each min-heap operation takes O(logn) time. \u00a0Thus, Dijkstra&#39;s algorithm takes O((n&#43;m)logn) time. The most important aspect I&#39;ll stress: I&#39;ll try to get you to use the key ideas in the algorithms we&#39;ve seen in lecture to new problems on the homeworks and exams. \u00a0 For example, take the idea of the knapsack DP algorithm and apply it to a new DP problem.</p>\n<p></p>\n<p>--Eric</p>", 
+      "anon": "no", 
+      "created": "2017-08-23T00:58:48Z", 
+      "uid": "gy4twfv45cg5o6", 
+      "subject": "HW 1 extension"
+    }
+  ]
+}

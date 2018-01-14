@@ -1,0 +1,233 @@
+{
+  "status": "active", 
+  "unique_views": 150, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-03T20:37:35Z", 
+      "data": "j7578095fgp4nc", 
+      "uid": "hhjccmvk7bd4wg"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-03T20:37:48Z", 
+      "data": "j75789wrk5j4t7", 
+      "uid": "hhjccmvk7bd4wg"
+    }, 
+    {
+      "uid": "gy4twfv45cg5o6", 
+      "type": "i_answer", 
+      "when": "2017-09-03T20:54:26Z", 
+      "to": "j7578092vjc4nb", 
+      "anon": "no", 
+      "data": "j757tnwlz4w1aw"
+    }, 
+    {
+      "to": "j7578092vjc4nb", 
+      "anon": "no", 
+      "when": "2017-09-04T00:08:16Z", 
+      "type": "followup", 
+      "uid": "hz0jkj9dnctqp"
+    }, 
+    {
+      "to": "j7578092vjc4nb", 
+      "anon": "no", 
+      "when": "2017-09-04T00:28:29Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j7578092vjc4nb", 
+      "anon": "no", 
+      "when": "2017-09-04T17:25:33Z", 
+      "type": "followup", 
+      "uid": "hhjccmvk7bd4wg"
+    }, 
+    {
+      "to": "j7578092vjc4nb", 
+      "anon": "no", 
+      "when": "2017-09-04T17:34:04Z", 
+      "type": "feedback", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "to": "j7578092vjc4nb", 
+      "anon": "no", 
+      "when": "2017-09-04T17:55:15Z", 
+      "type": "feedback", 
+      "uid": "hhjccmvk7bd4wg"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j7578092vjc4nb", 
+  "bookmarked": 4, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-03T20:54:26Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j757tnwi4cm1av", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p></p>\n<p>What is f(n)? \u00a0Where does it say multiplication takes O(n) time?</p>\n<p>I don&#39;t follow your question.</p>", 
+          "anon": "no", 
+          "created": "2017-09-03T20:54:26Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-04T00:08:16Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "hz0jkj9dnctqp", 
+      "created": "2017-09-04T00:08:16Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j75eqxtpczo40j", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-04T00:28:29Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-09-04T00:28:29Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j75fgxl3bnd6sj", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p></p>\n<p>I think he&#39;s asking about the D&amp;C lecture DC1 where I show that if you have huge numbers, so you can no longer do it in hardware, then the naive multiplication algorithm takes O(n^2) time but there&#39;s a cool D&amp;C algorithm which takes O(n^{1.59}).</p>"
+        }
+      ], 
+      "subject": "<p>Homework says we can assume multiplication takes O(1) time.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-04T17:25:33Z", 
+      "no_upvotes": 0, 
+      "uid": "hhjccmvk7bd4wg", 
+      "created": "2017-09-04T17:25:33Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j76fswi5erd564", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-04T17:34:04Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-09-04T17:34:04Z", 
+          "type": "feedback", 
+          "id": "j76g3urbdar2rs", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "It looks as though those are bit shift operations, that is much quicker than general multiplication; more specifically, a bit shift operation is $$O(n)$$ when $$n$$ is the number of bits [a hardware implementation may in fact be much faster even than that]"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-04T17:55:15Z", 
+          "uid": "hhjccmvk7bd4wg", 
+          "created": "2017-09-04T17:55:15Z", 
+          "type": "feedback", 
+          "id": "j76gv3efg7b40h", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Ahh, thanks Mark, that&#39;s what I was missing. \u00a0Since we can add in $$O(n)$$ time and bit shift in $$O(n)$$ time, then the whole calculation of $$z$$ is just $$O(n)$$.</p>"
+        }
+      ], 
+      "subject": "<p>Sorry for the ambiguity, let me clarify. \u00a0I was referring to DC1 part 11 where the running time of the fast integer multiplication algorithm is detailed. \u00a0The run time recurrence is given as:</p>\n<p></p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/hhjccmvk7bd4wg/j76fmjgwxld4/Capture.PNG\" alt=\"\" width=\"580\" height=\"120\" /></p>\n<p></p>\n<p>Where the $$O(n)$$ portion is the time to solve the following addition &amp; multiplication:</p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/hhjccmvk7bd4wg/j76fqr5ei5mt/Capture2.PNG\" alt=\"\" /></p>\n<p></p>\n<p>It seems like this step is dominated by the multiplication, which I didn&#39;t think we could do in $$O(n)$$ time, so how is it that this whole step is $$O(n)$$?</p>"
+    }
+  ], 
+  "nr": 164, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "divide_and_conquer"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 2, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "divide_and_conquer", 
+    "student"
+  ], 
+  "created": "2017-09-03T20:37:35Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145285915, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>The recurrence relationship for the algorithm is given as\u00a0$$T(n) = 3*T(\\frac{n}{2}) &#43; O(n)$$</p>\n<p>If multiplication takes $$O(n)$$ time, how is that we&#39;re saying $$f(n) = O(n)$$ and not $$O(n^2)$$?</p>", 
+      "anon": "no", 
+      "created": "2017-09-03T20:37:48Z", 
+      "uid": "hhjccmvk7bd4wg", 
+      "subject": "Fast Multiply Recurrence"
+    }, 
+    {
+      "content": "<p>The recurrence relationship for the algorithm is given as\u00a0$$T(n) = 3*T(\\frac{n}{2}) &#43; O(n)$$</p>\n<p>If multiplication takes $$O(n)$$ time, how is that we&#39;re saying $$f(n) = O(n)$$ and not $$O(n^2)$$?</p>", 
+      "anon": "no", 
+      "created": "2017-09-03T20:37:35Z", 
+      "uid": "hhjccmvk7bd4wg", 
+      "subject": "Fast Multiple Recurrence"
+    }
+  ]
+}

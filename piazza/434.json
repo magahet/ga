@@ -1,0 +1,73 @@
+{
+  "status": "active", 
+  "unique_views": 245, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-25T23:15:33Z", 
+      "data": "j80sjw1caua76u", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-28T22:08:45Z", 
+      "data": "j850hivt1oop8", 
+      "uid": "gns9oa0pgsO"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j80sjw17qzl76t", 
+  "bookmarked": 3, 
+  "tags": [
+    "instructor-note", 
+    "project"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [], 
+  "nr": 434, 
+  "bucket_order": 2, 
+  "type": "note", 
+  "folders": [
+    "project"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-09-25T23:15:33Z", 
+  "is_tag_good": false, 
+  "config": {
+    "is_announcement": 1, 
+    "bypass_email": 1
+  }, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145218274, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>Hi Folks</p>\n<p></p>\n<p>I will be holding office hours relating to the Bloom Filter project This Wednesday and Thursday (tentative, might reschedule Thursday to be later in week, will know for certain Wednesday).\u00a0 These office hours will each be 2 hours long, and will be held in a similar format to what you are used to.</p>\n<p></p>\n<p>I will only be discussing the project, but I will be glad to help folks with python-related questions (although honestly the python requirements for this\u00a0program are basic), and I will also clarify the requirements of the different sections.<br /><br />Also, as\u00a0a reminder, please post any questions regarding the Bloom filter project to piazza\u00a0using the &#34;project&#34; tag.</p>\n<p></p>", 
+      "anon": "no", 
+      "created": "2017-09-28T22:08:45Z", 
+      "uid": "gns9oa0pgsO", 
+      "subject": "Bloom Filter project : Office Hours on Wednesday 9/27 at 7pm EST and Thursday 9/28 8pm EST"
+    }, 
+    {
+      "content": "<p>Hi Folks</p>\n<p></p>\n<p>I will be holding office hours relating to the Bloom Filter project This Wednesday and Thursday (tentative, might reschedule Thursday to be later in week, will know for certain Wednesday).\u00a0 These office hours will each be 2 hours long, and will be held in a similar format to what you are used to.</p>\n<p></p>\n<p>I will only be discussing the project, but I will be glad to help folks with python-related questions (although honestly the python requirements for this\u00a0program are basic), and I will also clarify the requirements of the different sections.<br /><br />Also, as\u00a0a reminder, please post any questions regarding the Bloom filter project to piazza\u00a0using the &#34;project&#34; tag.</p>\n<p>#pin</p>", 
+      "anon": "no", 
+      "created": "2017-09-25T23:15:33Z", 
+      "uid": "gns9oa0pgsO", 
+      "subject": "Bloom Filter project : Office Hours on Wednesday 9/27 at 7pm EST and Thursday 9/28 8pm EST"
+    }
+  ]
+}

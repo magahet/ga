@@ -1,0 +1,326 @@
+{
+  "status": "active", 
+  "unique_views": 142, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-20T20:53:42Z", 
+      "data": "j7tia7h4vue4es", 
+      "uid": "hz1nzm7x57s2qr"
+    }, 
+    {
+      "to": "j7tia7gxz364er", 
+      "anon": "no", 
+      "when": "2017-09-20T23:40:37Z", 
+      "type": "followup", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "uid": "i4nkipeofrkrz", 
+      "type": "s_answer", 
+      "when": "2017-09-21T00:09:06Z", 
+      "to": "j7tia7gxz364er", 
+      "anon": "no", 
+      "data": "j7tp9hfqoor39w"
+    }, 
+    {
+      "to": "j7tia7gxz364er", 
+      "anon": "no", 
+      "when": "2017-09-21T00:29:26Z", 
+      "type": "followup", 
+      "uid": "iddoy2bdneb2tv"
+    }, 
+    {
+      "to": "j7tia7gxz364er", 
+      "anon": "no", 
+      "when": "2017-09-21T00:32:49Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j7tia7gxz364er", 
+      "anon": "no", 
+      "when": "2017-09-21T00:37:20Z", 
+      "type": "feedback", 
+      "uid": "iddoy2bdneb2tv"
+    }, 
+    {
+      "to": "j7tia7gxz364er", 
+      "anon": "no", 
+      "when": "2017-09-21T01:47:25Z", 
+      "type": "feedback", 
+      "uid": "i4g2xn482m62bg"
+    }, 
+    {
+      "to": "j7tia7gxz364er", 
+      "anon": "no", 
+      "when": "2017-09-21T04:12:00Z", 
+      "type": "feedback", 
+      "uid": "hkkbz4bujtv5dn"
+    }, 
+    {
+      "to": "j7tia7gxz364er", 
+      "anon": "no", 
+      "when": "2017-09-21T05:15:27Z", 
+      "type": "followup", 
+      "uid": "ijawwe19w053cm"
+    }, 
+    {
+      "to": "j7tia7gxz364er", 
+      "anon": "no", 
+      "when": "2017-09-21T06:18:38Z", 
+      "type": "followup", 
+      "uid": "hz1nzm7x57s2qr"
+    }, 
+    {
+      "to": "j7tia7gxz364er", 
+      "anon": "no", 
+      "when": "2017-09-21T15:41:23Z", 
+      "type": "feedback", 
+      "uid": "hju4w9odatf30"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j7tia7gxz364er", 
+  "bookmarked": 9, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-09-20T23:40:37Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "hq8hn0qyfuvyr", 
+      "created": "2017-09-20T23:40:37Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7to8ux6rsi6zn", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-21T01:47:25Z", 
+          "uid": "i4g2xn482m62bg", 
+          "created": "2017-09-21T01:47:25Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j7tsrx14v4qul", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I agree, I don&#39;t see the reason to have j in the recurrence, the length is already being tracked</p>"
+        }
+      ], 
+      "subject": "<p>It seems to me that you could just keep track of the length of the longest such substring that ends with x_j. If you know j, and you know how far back you could go from x_j before there&#39;s a repetition, then you wouldn&#39;t need to keep track of i.</p>\n<p></p>\n<p>Even with that change, I notice that it&#39;s not particularly efficient. Interestingly, it could be made much more efficient by doing something that I think is non-DP - keeping track of the position of the last occurrence of each character. That would prevent having to check x_i through x_j one-by-one each time you go to the next character. In fact, with such a change, it would be O(n).</p>"
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-21T00:09:06Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j7tp9hfjc7239v", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>I came up with your exact answer:</p>\n<p></p>\n<p>$$L(i,i) = 1$$</p>\n<p></p>\n<p>$$L(i, j) = \\begin{cases}\n&amp; 1 &#43; L(i, j - 1) : \\nexists x_j \\in (x_i \\dots x_{j-1})\\\\ \n&amp; 1 : otherwise \n\\end{cases}$$</p>\n<p></p>\n<p>You&#39;ll find the solution\u00a0by taking the maximum value that appears in the table.</p>\n<p></p>\n<p></p>", 
+          "anon": "no", 
+          "created": "2017-09-21T00:09:06Z", 
+          "uid": "i4nkipeofrkrz", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-21T00:29:26Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "iddoy2bdneb2tv", 
+      "created": "2017-09-21T00:29:26Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7tpzmnysix2i9", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-21T00:32:49Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-09-21T00:32:49Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j7tq3zq827fwh", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Can you put the entire solution so we can follow?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-21T00:37:20Z", 
+          "uid": "iddoy2bdneb2tv", 
+          "created": "2017-09-21T00:37:20Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j7tq9si2rd77oy", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>It is the same. but instead of 1 &#43; L(i, j-1), it is 1 &#43; L(i &#43; 1, j-1).\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-21T04:12:00Z", 
+          "uid": "hkkbz4bujtv5dn", 
+          "created": "2017-09-21T04:12:00Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j7txxv6ngev718", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Hi Jesse, yes that will work if you also include substrings of length 2 as a\u00a0base case.</p>"
+        }
+      ], 
+      "subject": "<p>Im wondering .. If we are doing the diagonal approach, would this work, L(i, j) = 1 &#43; L(i &#43; 1, j -1) as well?</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-21T05:15:27Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "ijawwe19w053cm", 
+      "created": "2017-09-21T05:15:27Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7u07g6adm65sw", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>direct from leetcode:</p>\n<p>https://leetcode.com/problems/longest-substring-without-repeating-characters/description/</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-21T06:18:38Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "hz1nzm7x57s2qr", 
+      "created": "2017-09-21T06:18:38Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7u2gq2cxmwmt", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-21T15:41:23Z", 
+          "uid": "hju4w9odatf30", 
+          "created": "2017-09-21T15:41:23Z", 
+          "type": "feedback", 
+          "id": "j7umkf88exc5ig", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Yep this should work too.</p>"
+        }
+      ], 
+      "subject": "<p>Thanks everyone. I think it makes sense to only track i instead of i, j. So if that was the case the recurrence might be (it&#39;s the proper writing of the recurrence that seems to be tripping me up so just being doubly sure)</p>\n<p></p>\n<p>$$L(i) = \\begin{cases}\n&amp; 1 : i = 1\\\\\n&amp; 1 &#43; L(i-1) : \\nexists x_i \\in (x_{i-L(i-1)} \\dots x_{i-1})\\\\ \n&amp; 1 : otherwise \n\\end{cases}$$</p>"
+    }
+  ], 
+  "nr": 369, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "dynamic_programming"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 2, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "dynamic_programming", 
+    "student"
+  ], 
+  "created": "2017-09-20T20:53:42Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145226989, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>Hi,\u00a0</p>\n<p></p>\n<p>Doing a few practice problems outside of the text that I have found to practice dp. I was wondering if someone could help me if I am thinking of this problem the right way?</p>\n<p></p>\n<p>Problem: Given string X [x_1...x_n] return the length of the longest contiguous substring without repetition.</p>\n<p></p>\n<p>ex) &#39;abcabcbb&#39; = 3; &#39;bbbb&#39; = 1</p>\n<p></p>\n<p>Here&#39;s how I was thinking of the subproblem and recurrence</p>\n<p></p>\n<p>Subproblem: L[i, j] = length of longest substring without repetition that includes x_j in the the subsequence x_i...x_j</p>\n<p></p>\n<p>Recurrence:</p>\n<p>L[i, j] = 1 if i=j ;</p>\n<p>L[i, j-1] &#43; 1 if x_j is not in x_i...x_j ;</p>\n<p>1 otherwise</p>", 
+      "anon": "no", 
+      "created": "2017-09-20T20:53:42Z", 
+      "uid": "hz1nzm7x57s2qr", 
+      "subject": "Longest Substring Without Duplication"
+    }
+  ]
+}

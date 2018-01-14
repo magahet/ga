@@ -1,0 +1,183 @@
+{
+  "status": "active", 
+  "unique_views": 126, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-06T22:04:58Z", 
+      "data": "j8gfvh4er9j3bo", 
+      "uid": "i4pvwmg5VTb"
+    }, 
+    {
+      "uid": "idg5nm2lC96", 
+      "type": "s_answer", 
+      "when": "2017-10-06T22:28:52Z", 
+      "to": "j8gfvh4dwws3bn", 
+      "anon": "no", 
+      "data": "j8ggq7xb7c96ep"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-10-07T01:10:29Z", 
+      "data": "j8gmi1u6hhq169", 
+      "uid": "idg5nm2lC96"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-10-07T01:22:27Z", 
+      "data": "j8gmxfuy3zy4rw", 
+      "uid": "idg5nm2lC96"
+    }, 
+    {
+      "to": "j8gfvh4dwws3bn", 
+      "anon": "no", 
+      "when": "2017-10-07T03:21:09Z", 
+      "type": "followup", 
+      "uid": "ijarmqggjkc3gz"
+    }, 
+    {
+      "to": "j8gfvh4dwws3bn", 
+      "anon": "no", 
+      "when": "2017-10-07T03:34:57Z", 
+      "type": "followup", 
+      "uid": "i4pvwmg5VTb"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8gfvh4dwws3bn", 
+  "bookmarked": 4, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-06T22:28:52Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [
+        "hkkbz4bujtv5dn"
+      ], 
+      "id": "j8ggq7x9n316eo", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Jeremy Stephens", 
+          "admin": true, 
+          "photo": null, 
+          "us": false, 
+          "role": "ta", 
+          "facebook_id": null, 
+          "id": "hkkbz4bujtv5dn"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>EDIT: I just realized that you&#39;re actually confusing inverse\u00a0with opposite. The inverse of\u00a0$$\\omega_n^2$$ is $$\\omega_n^{n - 2}$$ because\u00a0$$\\omega_n^2 \\cdot \\omega_n^{n - 2} = \\big(1, \\frac{2\\pi}{n} 2\\big) \\cdot \\big(1, \\frac{2\\pi}{n} (n - 2)\\big) = \\big(1, \\frac{2\\pi}{n} n\\big) = 1$$.\u00a0 But, the opposite of\u00a0$$\\omega_n^2$$ is\u00a0$$\\omega_n^{\\frac{n}{2} &#43; 2}$$, i.e.\u00a0$$\\omega_n^2 = -\\omega_n^{\\frac{n}{2} &#43; 2}$$ because $$-1 \\cdot \\omega_n^2 = (1, \\pi) \\cdot \\big(1, \\frac{4 \\pi}{n}\\big) = \\big(1, \\frac{(4&#43;n) \\pi}{n}\\big) = \\omega_n^{\\frac{n}{2} &#43; 2}$$. Hope this helps.</p>", 
+          "anon": "no", 
+          "created": "2017-10-07T01:22:27Z", 
+          "uid": "idg5nm2lC96", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>EDIT: I just realized that you&#39;re actually confusing inverse\u00a0with opposite. The inverse of\u00a0$$\\omega_n^2$$ is $$\\omega_n^{n - 2}$$ because\u00a0$$\\omega_n^2 \\cdot \\omega_n^{n - 2} = \\big(1, \\frac{2\\pi}{n} 2\\big) \\cdot \\big(1, \\frac{2\\pi}{n} (n - 2)\\big) = \\big(1, \\frac{2\\pi}{n} n\\big) = 1$$.\u00a0 But, the opposite of\u00a0$$\\omega_n^2$$ is\u00a0$$\\omega_n^{\\frac{n}{2} &#43; 2}$$, i.e.\u00a0$$\\omega_n^2 = -\\omega_n^{\\frac{n}{2} &#43; 2}$$. Hope this helps.</p>", 
+          "anon": "no", 
+          "created": "2017-10-07T01:10:29Z", 
+          "uid": "idg5nm2lC96", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>Here&#39;s how I look at it: If\u00a0we look at the complex plane, for $$\\omega_n$$, we&#39;re dividing the unit circle into $$n$$ equal slices. With $$\\omega_n^2$$, you have two slices, and so you need $$n - 2$$ more slices to return to $$1 = (1, 2 \\pi j)$$, for\u00a0some number $$j$$. You can check that this is true: $$\\omega_n^2 \\cdot \\omega_n^{n - 2} = \\big(1, \\frac{2\\pi}{n} 2\\big) \\cdot \\big(1, \\frac{2\\pi}{n} (n - 2)\\big) = \\big(1, \\frac{2\\pi}{n} n\\big) = 1$$.</p>\n<p></p>\n<p>I&#39;m not sure what $$\\omega_n^{\\frac{n}{2} &#43; 2}$$ would answer. For example, if $$n = 16$$, then $$\\omega_n^{\\frac{n}{2} &#43; 2} = \\omega_{16}^{10}$$, which when multiplied by $$\\omega_{16}^2$$ won&#39;t get us to $$1$$.</p>", 
+          "anon": "no", 
+          "created": "2017-10-06T22:28:52Z", 
+          "uid": "idg5nm2lC96", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-07T03:21:09Z", 
+      "no_upvotes": 0, 
+      "uid": "ijarmqggjkc3gz", 
+      "created": "2017-10-07T03:21:09Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8gr63p2i4r17l", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>When multiplying a quantity by its inverse the product is 1.\u00a0 On a unit circle the inverse is the reflection about the real (horizontal) axis.\u00a0 You can work through a couple examples to demonstrate this to yourself.\u00a0 In fact I had to do this during the exam to prove it to myself because I was questioning my memory.</p>\n<p></p>\n<p>Think about the 4th roots of unity.</p>\n<p></p>\n<p>$${\\omega _{4}}^{0} = 1 &#43; 0i$$ points to the right on the unit circle.\u00a0 Its inverse is the reflection about the real axis... i.e. itself.\u00a0\u00a0$$1\\cdot 1 = 1$$</p>\n<p>$${\\omega _{4}}^{1} = 0 &#43; i$$ points up on the unit circle.\u00a0 Its inverse is the reflection about the real axis.\u00a0\u00a0$$-i\\cdot i = -i^{2} = 1$$</p>\n<p>$${\\omega _{4}}^{2} = -1 &#43; 0i$$ points to the left on the unit circle.\u00a0 Its inverse is the reflection about the real axis... i.e. itself.\u00a0\u00a0$$-1\\cdot -1 = 1$$</p>\n<p>$${\\omega _{4}}^{3} = 0 - i$$ points\u00a0down on the unit circle.\u00a0 Its inverse is the reflection about the real axis.\u00a0\u00a0$$-i\\cdot i = -i^{2} = 1$$</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-07T03:34:57Z", 
+      "no_upvotes": 0, 
+      "uid": "i4pvwmg5VTb", 
+      "created": "2017-10-07T03:34:57Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8grnuln59518a", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "Omg yes you&#39;re right! Thank you!!!!!!!!"
+    }
+  ], 
+  "nr": 642, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "exam"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 2, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "exam", 
+    "student"
+  ], 
+  "created": "2017-10-06T22:04:58Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145169389, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>Have been reviewing the exam and understand most of it now except\u00a0one part. Can someone please help me understand why the inverse of wn^2 written as\u00a0= \u03c9n^j is j = n-2?\u00a0 Why is it not j = n/2 &#43; 2? I rewatched the vid and still dont\u00a0understand.</p>\n<p></p>\n<p>I know we are far ahead of this topic now, but I&#39;m afraid it will come back to haunt me on the final! :)</p>\n<p></p>\n<p>Thanks!</p>", 
+      "anon": "no", 
+      "created": "2017-10-06T22:04:58Z", 
+      "uid": "i4pvwmg5VTb", 
+      "subject": "Roots of Unity Inverse"
+    }
+  ]
+}

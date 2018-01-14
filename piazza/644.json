@@ -1,0 +1,103 @@
+{
+  "status": "active", 
+  "unique_views": 159, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-06T23:20:07Z", 
+      "data": "j8gik4rkc5d38d", 
+      "uid": "iddoxdh5wry2oa"
+    }, 
+    {
+      "uid": "gns9oa0pgsO", 
+      "type": "i_answer", 
+      "when": "2017-10-06T23:22:37Z", 
+      "to": "j8gik4rhkxg38c", 
+      "anon": "no", 
+      "data": "j8ginc2c7347b"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8gik4rhkxg38c", 
+  "bookmarked": 3, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-06T23:22:37Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "hyzyc8nwswo6z5"
+      ], 
+      "id": "j8ginc27u0947a", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Zack Gow", 
+          "admin": false, 
+          "photo": "1476241357_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hyzyc8nwswo6z5"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>they won&#39;t be that different.\u00a0 that&#39;s sorta by design.</p>", 
+          "anon": "no", 
+          "created": "2017-10-06T23:22:37Z", 
+          "uid": "gns9oa0pgsO", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 644, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "project"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 3, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "project", 
+    "student"
+  ], 
+  "created": "2017-10-06T23:20:07Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145168533, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>For all c and k pairs, hashtype 1,\u00a0</p>\n<p>Those false positive rates are quite similar, don&#39;t see the same big difference as the results calculated from the formula.</p>\n<p></p>\n<p>Anything wrong could be?</p>", 
+      "anon": "no", 
+      "created": "2017-10-06T23:20:07Z", 
+      "uid": "iddoxdh5wry2oa", 
+      "subject": "task 3  similar false positive rates"
+    }
+  ]
+}

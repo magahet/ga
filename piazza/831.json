@@ -1,0 +1,117 @@
+{
+  "status": "active", 
+  "unique_views": 84, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-27T04:20:34Z", 
+      "data": "j99e3jqgds56oj", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-27T04:20:46Z", 
+      "data": "j99e3t4njrb6w8", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "uid": "gy4twfv45cg5o6", 
+      "type": "i_answer", 
+      "when": "2017-10-27T12:54:38Z", 
+      "to": "j99e3jqd11g6oi", 
+      "anon": "no", 
+      "data": "j99wgmvaaljmg"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j99e3jqd11g6oi", 
+  "bookmarked": 4, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-27T12:54:38Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "ijbr5ddtwyt6pa"
+      ], 
+      "id": "j99wgmv53icmf", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Jason Buoni", 
+          "admin": false, 
+          "photo": "1463440659_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "ijbr5ddtwyt6pa"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "Good point.  Added in.  For future iterations of the course it&#39;d be good to organize Piazza better, if that&#39;s possible to do.", 
+          "anon": "no", 
+          "created": "2017-10-27T12:54:38Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 831, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "logistics"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "logistics", 
+    "student"
+  ], 
+  "created": "2017-10-27T04:20:34Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145123044, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>Seems like it would be a good tagged topic</p>", 
+      "anon": "no", 
+      "created": "2017-10-27T04:20:46Z", 
+      "uid": "ijbr5ddtwyt6pa", 
+      "subject": "Piazza Request: NP tag"
+    }, 
+    {
+      "content": "<p>Seems like it would be a good tagged topic</p>", 
+      "anon": "no", 
+      "created": "2017-10-27T04:20:34Z", 
+      "uid": "ijbr5ddtwyt6pa", 
+      "subject": "Request: NP tag"
+    }
+  ]
+}

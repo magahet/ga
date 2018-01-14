@@ -1,0 +1,141 @@
+{
+  "status": "active", 
+  "unique_views": 197, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-19T14:20:55Z", 
+      "data": "j8yk0soj7dg154", 
+      "uid": "hju4w9odatf30"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-19T14:21:22Z", 
+      "data": "j8yk1d3ubiq1wq", 
+      "uid": "hju4w9odatf30"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-25T19:33:59Z", 
+      "data": "j97fuidqv0h1ny", 
+      "uid": "hju4w9odatf30"
+    }, 
+    {
+      "to": "j8yk0sogcit153", 
+      "anon": "no", 
+      "when": "2017-10-25T23:55:49Z", 
+      "type": "followup", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "to": "j8yk0sogcit153", 
+      "anon": "no", 
+      "when": "2017-10-26T01:57:35Z", 
+      "type": "feedback", 
+      "uid": "hvfeyx7qglF"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8yk0sogcit153", 
+  "bookmarked": 5, 
+  "tags": [
+    "course", 
+    "instructor-note", 
+    "logistics"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-10-25T23:55:49Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "ijbr5ddtwyt6pa", 
+      "created": "2017-10-25T23:55:49Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j97p784alk23mv", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-26T01:57:35Z", 
+          "uid": "hvfeyx7qglF", 
+          "created": "2017-10-26T01:57:35Z", 
+          "type": "feedback", 
+          "id": "j97tjtbkpc12s1", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I\u00a0saw the &#34;canceled&#34; announcement too, so seeing this updated today confused me at first as well.\u00a0 However, using the history slider at the top you can see he was just removing the #pin\u00a0tag so it will no longer appear in the pinned posts group.</p>"
+        }
+      ], 
+      "subject": "<p>Just so students are aware, office hours are canceled &#64;819 (unless the time updated is just weird for me and this was actually posted on October 19th)</p>"
+    }
+  ], 
+  "nr": 760, 
+  "bucket_order": 2, 
+  "type": "note", 
+  "folders": [
+    "logistics", 
+    "course"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 2, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-10-19T14:20:55Z", 
+  "is_tag_good": false, 
+  "config": {
+    "bypass_email": 1
+  }, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145136773, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>Hi everyone,</p>\n<p>\u00a0</p>\n<p>I will be holding the office hours today from 7:00 - 8:00pm EST.</p>\n<p>Slido event code: CS8803-Thu</p>\n<p>Youtube:\u00a0https://www.youtube.com/watch?v=b554Wnjjc6A</p>\n<p>\u00a0</p>\n<p>Thanks,</p>\n<p>Murali</p>", 
+      "anon": "no", 
+      "created": "2017-10-25T19:33:59Z", 
+      "uid": "hju4w9odatf30", 
+      "subject": "Office Hours Today 7-8pm EST"
+    }, 
+    {
+      "content": "<p>Hi everyone,</p>\n<p>\u00a0</p>\n<p>I will be holding the office hours today from 7:00 - 8:00pm EST.</p>\n<p>Slido event code: CS8803-Thu</p>\n<p>Youtube:\u00a0https://www.youtube.com/watch?v=b554Wnjjc6A</p>\n<p>\u00a0</p>\n<p>Thanks,</p>\n<p>Murali</p>\n#pin", 
+      "anon": "no", 
+      "created": "2017-10-19T14:21:22Z", 
+      "uid": "hju4w9odatf30", 
+      "subject": "Office Hours Today 7-8pm EST"
+    }, 
+    {
+      "content": "<p>Hi everyone,</p>\n<p>\u00a0</p>\n<p>I will be holding the office hours today from 7:00 - 8:00pm EST.</p>\n<p>Slido event code: CS8803-Thu</p>\n<p>Youtube:\u00a0https://www.youtube.com/watch?v=b554Wnjjc6A</p>\n<p>\u00a0</p>\n<p>Thanks,</p>\n<p>Murali</p>", 
+      "anon": "no", 
+      "created": "2017-10-19T14:20:55Z", 
+      "uid": "hju4w9odatf30", 
+      "subject": "Office Hours Today 7-8pm EST"
+    }
+  ]
+}

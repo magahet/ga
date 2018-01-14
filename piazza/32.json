@@ -1,0 +1,299 @@
+{
+  "status": "active", 
+  "unique_views": 259, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-08-22T20:57:58Z", 
+      "data": "j6o2nzonpe82yx", 
+      "uid": "hkvdb9dig3v511"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-08-22T20:58:20Z", 
+      "data": "j6o2ogqoxzo3h8", 
+      "uid": "hkvdb9dig3v511"
+    }, 
+    {
+      "uid": "iddrzsmg4mgfr", 
+      "type": "s_answer", 
+      "when": "2017-08-22T21:32:17Z", 
+      "to": "j6o2nzom4wv2yw", 
+      "anon": "no", 
+      "data": "j6o3w3ze5td2w9"
+    }, 
+    {
+      "uid": "hju4w9odatf30", 
+      "type": "i_answer", 
+      "when": "2017-08-22T21:33:15Z", 
+      "to": "j6o2nzom4wv2yw", 
+      "anon": "no", 
+      "data": "j6o3xd5fhpl30q"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-08-22T21:33:18Z", 
+      "data": "j6o3xfn0ds3dc", 
+      "uid": "iddrzsmg4mgfr"
+    }, 
+    {
+      "to": "j6o2nzom4wv2yw", 
+      "anon": "no", 
+      "when": "2017-08-22T22:40:32Z", 
+      "type": "followup", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j6o2nzom4wv2yw", 
+      "anon": "no", 
+      "when": "2017-08-23T19:18:52Z", 
+      "type": "feedback", 
+      "uid": "hvfeyx7qglF"
+    }, 
+    {
+      "to": "j6o2nzom4wv2yw", 
+      "anon": "no", 
+      "when": "2017-08-23T19:22:14Z", 
+      "type": "feedback", 
+      "uid": "i18w67avy8e1uk"
+    }, 
+    {
+      "to": "j6o2nzom4wv2yw", 
+      "anon": "no", 
+      "when": "2017-08-23T19:29:42Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j6o2nzom4wv2yw", 
+      "anon": "no", 
+      "when": "2017-08-27T16:26:24Z", 
+      "type": "feedback", 
+      "uid": "i4ket0u1z5q31a"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j6o2nzom4wv2yw", 
+  "bookmarked": 6, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-08-22T21:32:17Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [
+        "i4knvwlqXZ8"
+      ], 
+      "id": "j6o3w3z9u502w8", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Matthew Clarke", 
+          "admin": false, 
+          "photo": "1468354733_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i4knvwlqXZ8"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>I don&#39;t think so as my understanding for a sub-string is a continuous sequence of the original string starting from index i and ending at index j which is not the case in the example above even though it is a plindrome. (i.e. there is no (i,j) pair that can be chosen such that you end up with the string above)</p>", 
+          "anon": "no", 
+          "created": "2017-08-22T21:33:18Z", 
+          "uid": "iddrzsmg4mgfr", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>I don&#39;t think so as my understanding for a sub-string is a continuous sequence of the original string starting from index i and ending at index j which is not the case in the example above even though it is a plindrome</p>", 
+          "anon": "no", 
+          "created": "2017-08-22T21:32:17Z", 
+          "uid": "iddrzsmg4mgfr", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-08-22T21:33:15Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "i4knvwlqXZ8"
+      ], 
+      "id": "j6o3xd5es1430p", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Matthew Clarke", 
+          "admin": false, 
+          "photo": "1468354733_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i4knvwlqXZ8"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>No! &#39;GTG&#39; is not a valid substring.</p>\n<p>Yes, the substrings have to be a contiguous subset of the characters in the string.</p>\n<p></p>", 
+          "anon": "no", 
+          "created": "2017-08-22T21:33:15Z", 
+          "uid": "hju4w9odatf30", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-22T22:40:32Z", 
+      "no_upvotes": 0, 
+      "uid": "i4nkipeofrkrz", 
+      "created": "2017-08-22T22:40:32Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6o6bvpezpk5y4", 
+      "anon": "no", 
+      "bucket_name": "Week 8/20 - 8/26", 
+      "config": {}, 
+      "bucket_order": 7, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-08-23T19:18:52Z", 
+          "uid": "hvfeyx7qglF", 
+          "created": "2017-08-23T19:18:52Z", 
+          "type": "feedback", 
+          "id": "j6peke5deeb4m6", 
+          "anon": "no", 
+          "bucket_name": "Week 8/20 - 8/26", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>It&#39;s also my understanding that contiguous subsequence and substring mean the same thing, right?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-23T19:22:14Z", 
+          "uid": "i18w67avy8e1uk", 
+          "created": "2017-08-23T19:22:14Z", 
+          "type": "feedback", 
+          "id": "j6peoqfqyse78b", 
+          "anon": "no", 
+          "bucket_name": "Week 8/20 - 8/26", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Yes.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-23T19:29:42Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-08-23T19:29:42Z", 
+          "type": "feedback", 
+          "id": "j6peybu3pyd2mi", 
+          "anon": "no", 
+          "bucket_name": "Week 8/20 - 8/26", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Yes, it is the same.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-27T16:26:24Z", 
+          "uid": "i4ket0u1z5q31a", 
+          "created": "2017-08-27T16:26:24Z", 
+          "type": "feedback", 
+          "id": "j6uy60crx7t6yu", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Substring requires the characters to be contiguous.</p>\n<p>Subsequence does not.</p>\n<p>They are not the same thing.</p>\n<p>A contiguous subsequence would be the same as a substring.</p>"
+        }
+      ], 
+      "subject": "<p>Keep your eyes open to spot &#34;subsequences&#34; versus &#34;substrings&#34;. They are a different thing:</p>\n<p></p>\n<ul><li>Subsequence: values don&#39;t need to be consecutive.</li><li>Substring: values are consecutive\u00a0</li></ul>\n<p></p>"
+    }
+  ], 
+  "nr": 32, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw1"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 2, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw1", 
+    "student"
+  ], 
+  "created": "2017-08-22T20:57:58Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145329310, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>Do the substrings have to be a contiguous subset of the original subset? \u00a0For example for the sequence:</p>\n<p></p>\n<p>A, C, G, C, T, G, T, C, A, A, A, A, T, C, G</p>\n<p></p>\n<p>Can a valid substring be GTG? \u00a0</p>\n<p></p>", 
+      "anon": "no", 
+      "created": "2017-08-22T20:58:20Z", 
+      "uid": "hkvdb9dig3v511", 
+      "subject": "Palindrome Question - HW1"
+    }, 
+    {
+      "content": "<p>Do the substrings have to be a contiguous subset of the original subset? \u00a0For example for the sequence:</p>\n<p></p>\n<p>A, C, G, C, T, G, T, C, A, A, A, A, T, C, G</p>\n<p></p>\n<p>Can a valid substring be GTG? \u00a0</p>\n<p></p>", 
+      "anon": "no", 
+      "created": "2017-08-22T20:57:58Z", 
+      "uid": "hkvdb9dig3v511", 
+      "subject": "Palindrome Question"
+    }
+  ]
+}

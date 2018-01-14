@@ -1,0 +1,218 @@
+{
+  "status": "active", 
+  "unique_views": 129, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-14T03:31:23Z", 
+      "data": "j7jweo6c8we6ms", 
+      "uid": "hz0pec4uduL"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-14T14:12:53Z", 
+      "data": "j7kjbneu9z2io", 
+      "uid": "hz0pec4uduL"
+    }, 
+    {
+      "uid": "hkkbz4bujtv5dn", 
+      "type": "i_answer", 
+      "when": "2017-09-14T16:07:44Z", 
+      "to": "j7jweo689mt6mr", 
+      "anon": "no", 
+      "data": "j7knfcc4oc66vy"
+    }, 
+    {
+      "to": "j7jweo689mt6mr", 
+      "anon": "no", 
+      "when": "2017-09-14T17:17:11Z", 
+      "type": "followup", 
+      "uid": "i4iys7m3lpq2ij"
+    }, 
+    {
+      "to": "j7jweo689mt6mr", 
+      "anon": "no", 
+      "when": "2017-09-15T02:32:28Z", 
+      "type": "feedback", 
+      "uid": "hz0pec4uduL"
+    }, 
+    {
+      "to": "j7jweo689mt6mr", 
+      "anon": "no", 
+      "when": "2017-09-15T13:30:33Z", 
+      "type": "feedback", 
+      "uid": "i4iys7m3lpq2ij"
+    }, 
+    {
+      "to": "j7jweo689mt6mr", 
+      "anon": "no", 
+      "when": "2017-09-15T19:09:30Z", 
+      "type": "feedback", 
+      "uid": "hz0pec4uduL"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j7jweo689mt6mr", 
+  "bookmarked": 5, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-14T16:07:44Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "hz0pec4uduL"
+      ], 
+      "id": "j7knfcc110q6vw", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Hugh Woltzen", 
+          "admin": false, 
+          "photo": "1423117810_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hz0pec4uduL"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>I think you are on the right track.</p>\n<p></p>\n<p>(Adapted from instructor\u00a0solution):</p>\n<p></p>\n<p>Note that an optimal alignment\u00a0for $$T(i,j)$$ is not an extension of the optimal alignment for\u00a0$$T(i-1,j)$$,\u00a0$$T(i-1,j-1)$$,\u00a0$$T(i,j-1)$$ because an alignment with smaller\u00a0previous score but terminating with a gap might have a smaller gap penalty and beat all extensions of optimal alignments. This suggests that we should keep 3 separate tables of subproblems.</p>\n<p></p>\n<ul><li>$$T$$ will be the\u00a0table of subproblems where the alignments are constrained to be a substitution or a match in the last position.</li><li>$$T_{x}$$ will be the table of subproblems over the alignments which have a gap in the last position of string $$x$$.</li><li>$$T_{y}$$ will be the table of subproblems over the alignments which have a gap in the last position of string $$y$$.</li></ul>\n<p></p>\n<p>Also, the penalty $$c_0 &#43; c_{1}k$$ should be subtracted from the running score.</p>", 
+          "anon": "no", 
+          "created": "2017-09-14T16:07:44Z", 
+          "uid": "hkkbz4bujtv5dn", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-14T17:17:11Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "i4iys7m3lpq2ij", 
+      "created": "2017-09-14T17:17:11Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7kpwndje5dhw", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-15T02:32:28Z", 
+          "uid": "hz0pec4uduL", 
+          "created": "2017-09-15T02:32:28Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j7l9qr8134d33u", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Hi Kate - Thank you for the detailed explanation. I can see the scenario you mentioned causing problems with my recurrence.</p>\n<p></p>\n<p>I&#39;m wondering if a multiplication by c1 need to be added into the TX and TY recurrence so they would\u00a0be something like:</p>\n<p>TX(i,j)=max{TN(i,j\u22121),c1*TX(i,j\u22121) - c0,TY(i,j\u22121)\u2212c0)</p>\n<p></p>\n<p></p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-15T13:30:33Z", 
+          "uid": "i4iys7m3lpq2ij", 
+          "created": "2017-09-15T13:30:33Z", 
+          "type": "feedback", 
+          "id": "j7lx91pdrr272", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Hmm, I don&#39;t think so. TX/TY contain the score, not the number of gaps. Since we&#39;re subtracting $$c_1$$ each time, we achieve the $$c_1k$$ multiplication.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-15T19:09:30Z", 
+          "uid": "hz0pec4uduL", 
+          "created": "2017-09-15T19:09:30Z", 
+          "type": "feedback", 
+          "id": "j7m9cy6mb8h17m", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thanks. It makes sense now. It gets added back in each time.</p>"
+        }
+      ], 
+      "subject": "<p>My main concern about your\u00a0approach is that I don&#39;t think it accounts for a solution that&#39;s sub-optimal at a given &#34;level&#34; but optimal at a higher level (i.e., greater $$i,j$$). Because $$c_0$$ is a larger penalty than $$c_1$$, at a given\u00a0$$i,j$$ the optimal solution may be to pay the mis-match $$\\delta$$\u00a0rather than paying $$c_0&#43;c_1$$ (the high cost of one gap). However, it&#39;s possible that at some $$k$$, $$c_0&#43;c_1k &lt; \\sum_{m=1}^k\\delta(x_{i&#43;m},y_{j&#43;m})$$. Does that make sense? If so, do you think your solution accounts for this?</p>\n<p></p>\n<p>Here are some other knit-picky concerns:</p>\n<p>- You&#39;re taking a min instead of a max, when 6.26 is asking of the highest scoring alignment. You want to subtract\u00a0$$c_0$$ and $$c_1$$ and use max rather than min (this changes the direction of my inequality, above, but I stayed consistent with you to try to be clear).</p>\n<p>- I think you may also have your XS and YS flipped - if you gap $$x_i$$ then you&#39;re matching $$x_1,\\dots,x_i$$ with\u00a0$$y_1,\\dots,y_{j-1}$$.\u00a0</p>\n<p>- I&#39;m not sure all your base cases should be = 0. See &#64;91.</p>\n<p></p>\n<p>Here&#39;s my proposal - what do you think?</p>\n<p>1. Subproblem</p>\n<p>$$TN(i,j)$$ = highest scoring alignment between $$x_1,\\dots,x_i$$ and\u00a0$$y_1,\\dots,x_j$$ for $$i\\le n$$ and $$j \\le m$$ if\u00a0you\u00a0align $$x_i$$ with\u00a0$$y_j$$</p>\n<p>$$TX(i,j)$$ = highest scoring alignment between $$x_1,\\dots,x_i$$ and\u00a0$$y_1,\\dots,x_j$$ for $$i\\le n$$ and $$j \\le m$$ if\u00a0you gap $$x_i$$</p>\n<p>$$TY(i,j)$$ = highest scoring alignment between $$x_1,\\dots,x_i$$ and\u00a0$$y_1,\\dots,x_j$$ for $$i\\le n$$ and $$j \\le m$$ if you gap $$y_j$$</p>\n<p></p>\n<p>Goal: $$\\max\\{ TN(n,m), TX(n,m), TY(n,m) \\}$$</p>\n<p></p>\n<p>2. Recurrence</p>\n<p>$$TN(i,j) = \\delta(x_i,y_j) &#43; \\max \\{ TN(i-1,j-1), TX(i-1,j-1), TY(i-1,j-1) \\}$$</p>\n<p>$$TX(i,j) = \\max \\{ TN(i,j-1) - c_0, TX(i,j-1), TY(i,j-1) - c_0 \\} - c_1$$</p>\n<p>$$TY(i,j) = \\max \\{ TN(i-1,j) - c_0, TX(i-1,j) - c_0, TY(i-1,j) \\} - c_1$$</p>\n<p></p>\n<p>Base cases:</p>\n<p>$$TN(0,0)=0$$</p>\n<p>$$TN(i,0)=-\\infty$$ for $$1 \\le i \\le n$$ (impossible to align)</p>\n<p>$$TN(0,j)=-\\infty$$ for $$1 \\le j \\le m$$\u00a0(impossible to align)</p>\n<p>$$TX(0,0)=-c_0$$</p>\n<p>$$TX(i,0)=-\\infty$$ for $$1 \\le i \\le n$$\u00a0(impossible to gap $$x$$)</p>\n<p>$$TX(0,j)= -(c_0 &#43; c_1j)$$ for $$1 \\le j \\le m$$</p>\n<p>$$TY(0,0)=-c_0$$</p>\n<p>$$TY(i,0) =-(c_0 &#43; c_1i)$$ for $$1 \\le i \\le n$$</p>\n<p>$$TY(0,j)=-\\infty$$ for $$1 \\le i \\le n$$\u00a0(impossible to gap $$y$$)</p>\n<p></p>\n<p>3. Runtime: $$O(mn)$$</p>\n<p></p>\n<p>Alternatively, you could use just one table, but then the runtime will be $$O(n^2m)$$ (assuming $$n&gt;m$$):</p>\n<p></p>\n<p>$$T(i,j) = \\max \\left\\{\\begin{matrix}\nT(i-1,j-1) &#43; \\delta(x_i,y_i)\n\\\\\n\\max_{k=1}^{j-1} \\{ T(i,k) - (c_0&#43;c_1k) \\}\n\\\\\n\\max_{k=1}^{i-1} \\{ T(k,j) - (c_0&#43;c_1k) \\}\n\\end{matrix}\\right.$$</p>\n<p></p>\n<p>Goal: $$T(n,m)$$</p>\n<p></p>\n<p>[Updated (after reading instructors&#39; response) to subtract $$c_0 &#43; c_1k$$ rather than &#34;considering them to be negative&#34; - doh!]</p>"
+    }
+  ], 
+  "nr": 301, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "dynamic_programming"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "dynamic_programming", 
+    "student"
+  ], 
+  "created": "2017-09-14T03:31:23Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145246410, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>6.27 is a sequence alignment problem for DNA. The cost function delta is supplemented by c0 &#43;c1*k, where c0 and c1 are constants and k is the number of consecutive blanks. I figured that the trick to solving this is to combine the solution to 6.26 with an additional table to track the blanks, this gets around having to backtrack on every step to figure out the number of blanks.</p><br /><p></p><br /><p>The tables I&#39;m using are:</p><br /><p>T(i,j) -&gt; Score of best alignment between x0...xi and y0...yj</p><br /><p>XS(i,j) -&gt; Number of spaces in\u00a0best alignment of x0...xi between x0...xi and y0...yj</p><br /><p>YS(i,j) -&gt; Number of spaces in\u00a0best alignment of y0...yi between x0...xi and y0...yj</p><br /><p></p><br /><p>The recurrence I&#39;m using is:</p><br /><p>initialize T(i,0), T(0,j), XS(i,0), XS(0,j), YS(i,0) and YS(0,j) to 0</p><br /><p>T(i,j) = min(T(i-1,j-1) &#43; delta(xi,xj), T(i-1,j) &#43; c0 &#43;c1*(XS(i-1,j)&#43;1), T(i,j-1) &#43; c0 &#43;c1*(YS(i,j-1j)&#43;1))</p><br /><p>XS(i,j) = \u00a0XS(i-1,j) &#43; 1 if T(i-1,j) &#43; c0 &#43;c1*(XS(i-1,j)&#43;1) found as min used for T(i,j)...otherwise XS(i,j) = 0</p><br /><p>YS(i,j) = \u00a0YS(i-1,j) &#43; 1 if\u00a0T(i,j-1) &#43; c0 &#43;c1*(YS(i,j-1)&#43;1) found as min used for T(i,j)...otherwise YS(i,j) = 0</p><br /><p>\u00a0</p><br /><p>Does this recurrence look right?</p><p></p>", 
+      "anon": "no", 
+      "created": "2017-09-14T14:12:53Z", 
+      "uid": "hz0pec4uduL", 
+      "subject": "6.27 DNA Alignment with Sequence Gaps [spoiler]"
+    }, 
+    {
+      "content": "<p>6.27 is a sequence alignment problem for DNA. The cost function delta is supplemented by c0 &#43;c1*k, where c0 and c1 are constants and k is the number of consecutive blanks. I figured that the trick to solving this is to combine the solution to 6.26 with an additional table to track the blanks, this gets around having to backtrack on every step to figure out the number of blanks.</p>\n<p></p>\n<p>The tables I&#39;m using are:</p>\n<p>T(i,j) -&gt; Score of best alignment between x0...xi and y0...yj</p>\n<p>XS(i,j) -&gt; Number of spaces in\u00a0best alignment of x0...xi between x0...xi and y0...yj</p>\n<p>YS(i,j) -&gt; Number of spaces in\u00a0best alignment of y0...yi between x0...xi and y0...yj</p>\n<p></p>\n<p>The recurrence I&#39;m using is:</p>\n<p>initialize T(i,0), T(0,j), XS(i,0), XS(0,j), YS(i,0) and YS(0,j) to 0</p>\n<p>T(i,j) = max(T(i-1,j-1) &#43; delta(xi,xj), T(i-1,j) &#43; c0 &#43;c1*(XS(i-1,j)&#43;1), T(i,j-1) &#43; c0 &#43;c1*(YS(i,j-1j)&#43;1))</p>\n<p>XS(i,j) = \u00a0XS(i-1,j) &#43; 1 if T(i-1,j) &#43; c0 &#43;c1*(XS(i-1,j)&#43;1) found as max used for T(i,j)...otherwise XS(i,j) = 0</p>\n<p>YS(i,j) = \u00a0YS(i-1,j) &#43; 1 if\u00a0T(i,j-1) &#43; c0 &#43;c1*(YS(i,j-1)&#43;1) found as max used for T(i,j)...otherwise YS(i,j) = 0</p>\n<p>\u00a0</p>\n<p>Does this recurrence look right?</p>", 
+      "anon": "no", 
+      "created": "2017-09-14T03:31:23Z", 
+      "uid": "hz0pec4uduL", 
+      "subject": "6.27 DNA Alignment with Sequence Gaps [spoiler]"
+    }
+  ]
+}

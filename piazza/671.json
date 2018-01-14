@@ -1,0 +1,91 @@
+{
+  "status": "active", 
+  "unique_views": 160, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-08T05:45:20Z", 
+      "data": "j8ibrdgtxxd4we", 
+      "uid": "idffdmbb26m6lw"
+    }, 
+    {
+      "uid": "hkvdb9dig3v511", 
+      "type": "s_answer", 
+      "when": "2017-10-08T05:46:19Z", 
+      "to": "j8ibrdgrj1u4wd", 
+      "anon": "no", 
+      "data": "j8ibsmz18wc38t"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8ibrdgrj1u4wd", 
+  "bookmarked": 3, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-08T05:46:19Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j8ibsmyw4tv38s", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "Did you check TSquare? \u00a0The exam questions were uploaded already", 
+          "anon": "no", 
+          "created": "2017-10-08T05:46:19Z", 
+          "uid": "hkvdb9dig3v511", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 671, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "exam"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 0, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "exam", 
+    "student"
+  ], 
+  "created": "2017-10-08T05:45:20Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145163094, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>My score was deducted 5 point from Tuesday on 3g. What is the question on 3g? I&#39;d like to ensure I understood the question.\u00a0</p>\n<p></p>\n<p>Thanks,\u00a0</p>\n<p></p>", 
+      "anon": "no", 
+      "created": "2017-10-08T05:45:20Z", 
+      "uid": "idffdmbb26m6lw", 
+      "subject": "What is the the exam question 3g?"
+    }
+  ]
+}

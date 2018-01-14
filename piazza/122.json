@@ -1,0 +1,233 @@
+{
+  "status": "active", 
+  "unique_views": 226, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-08-31T01:59:28Z", 
+      "data": "j6zsyj6bmhg26c", 
+      "uid": "iecy8j5dNYG"
+    }, 
+    {
+      "uid": "i4nkipeofrkrz", 
+      "type": "s_answer", 
+      "when": "2017-08-31T02:05:52Z", 
+      "to": "j6zsyj696k526b", 
+      "anon": "no", 
+      "data": "j6zt6rt42dk6o"
+    }, 
+    {
+      "to": "j6zsyj696k526b", 
+      "anon": "no", 
+      "when": "2017-09-03T19:24:31Z", 
+      "type": "followup", 
+      "uid": "ijakr2uj6yk43e"
+    }, 
+    {
+      "to": "j6zsyj696k526b", 
+      "anon": "no", 
+      "when": "2017-09-03T19:43:23Z", 
+      "type": "feedback", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "to": "j6zsyj696k526b", 
+      "anon": "no", 
+      "when": "2017-09-03T20:10:46Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j6zsyj696k526b", 
+  "bookmarked": 4, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-08-31T02:05:52Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [
+        "iecy8j5dNYG", 
+        "i4kxfs7hlxngu", 
+        "i8597qyse9c1v2"
+      ], 
+      "id": "j6zt6rstziu6n", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Jianming Sang", 
+          "admin": false, 
+          "photo": null, 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "iecy8j5dNYG"
+        }, 
+        {
+          "name": "Nelson Cheng", 
+          "admin": false, 
+          "photo": null, 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i4kxfs7hlxngu"
+        }, 
+        {
+          "name": "Pedro Henrique Rocha Moy", 
+          "admin": false, 
+          "photo": "1452626521_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i8597qyse9c1v2"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>Yes.</p>", 
+          "anon": "no", 
+          "created": "2017-08-31T02:05:52Z", 
+          "uid": "i4nkipeofrkrz", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-03T19:24:31Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "ijakr2uj6yk43e", 
+      "created": "2017-09-03T19:24:31Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j754m19t47q6vi", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-03T19:43:23Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-09-03T19:43:23Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j755aay7ug6ts", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Let gradescope be your guide, it seems it allows both"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-03T20:10:46Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-09-03T20:10:46Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j7569ir4o93k", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Scan all the pages in different images, and Gradescope will let you upload one by one and select which ones correspond to each exercise.</p>"
+        }
+      ], 
+      "subject": "<p>If this is true, then what is the format this should follow? Scan all pages into a single document and submit, or submit page by page?</p>"
+    }
+  ], 
+  "nr": 122, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw1"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw1", 
+    "student"
+  ], 
+  "created": "2017-08-31T01:59:28Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145298577, 
+  "tag_good": [
+    {
+      "name": "Nelson Cheng", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4kxfs7hlxngu"
+    }, 
+    {
+      "name": "Pedro Henrique Rocha Moy", 
+      "admin": false, 
+      "photo": "1452626521_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i8597qyse9c1v2"
+    }, 
+    {
+      "name": "Vinh Nguyen", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hz9y0742TXb"
+    }
+  ], 
+  "tag_good_arr": [
+    "i4kxfs7hlxngu", 
+    "i8597qyse9c1v2", 
+    "hz9y0742TXb"
+  ], 
+  "history": [
+    {
+      "content": "<p>Thanks.</p>", 
+      "anon": "no", 
+      "created": "2017-08-31T01:59:28Z", 
+      "uid": "iecy8j5dNYG", 
+      "subject": "Can we submit handwriting solutions to homework problems?"
+    }
+  ]
+}

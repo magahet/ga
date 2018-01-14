@@ -1,0 +1,252 @@
+{
+  "status": "active", 
+  "unique_views": 108, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-24T22:17:32Z", 
+      "data": "j9668yzpyyg74c", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "uid": "hq8hn0qyfuvyr", 
+      "type": "s_answer", 
+      "when": "2017-10-25T00:12:25Z", 
+      "to": "j9668yzmtnk74a", 
+      "anon": "no", 
+      "data": "j96acpz2ixj2xl"
+    }, 
+    {
+      "uid": "gy4twfv45cg5o6", 
+      "type": "i_answer", 
+      "when": "2017-10-25T00:18:23Z", 
+      "to": "j9668yzmtnk74a", 
+      "anon": "no", 
+      "data": "j96akeavv9v6g5"
+    }, 
+    {
+      "to": "j9668yzmtnk74a", 
+      "anon": "no", 
+      "when": "2017-10-25T00:56:56Z", 
+      "type": "followup", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j9668yzmtnk74a", 
+      "anon": "no", 
+      "when": "2017-10-25T01:00:15Z", 
+      "type": "followup", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j9668yzmtnk74a", 
+      "anon": "no", 
+      "when": "2017-10-25T01:04:20Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j9668yzmtnk74a", 
+      "anon": "no", 
+      "when": "2017-10-27T05:35:09Z", 
+      "type": "followup", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "to": "j9668yzmtnk74a", 
+      "anon": "no", 
+      "when": "2017-10-27T06:53:38Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j9668yzmtnk74a", 
+  "bookmarked": 6, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-25T00:12:25Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j96acpyrbod2xj", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "I read the problem in the textbook, and I think it&#39;s clear that the authors mean to exclude your example. Since they used the word &#34;literals&#34;, and then a few words later used the word &#34;variables&#34;, I&#39;m confident that they really meant it.", 
+          "anon": "no", 
+          "created": "2017-10-25T00:12:25Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-25T00:18:23Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j96akeatmn6g4", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "$$x_1$$ and $$\\overline{x_1}$$ are the same variable.  Not allowed in the clause in E4-SAT.", 
+          "anon": "no", 
+          "created": "2017-10-25T00:18:23Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-25T00:56:56Z", 
+      "no_upvotes": 0, 
+      "uid": "i4nkipeofrkrz", 
+      "created": "2017-10-25T00:56:56Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j96bxz4so285p4", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>Makes sense. Thanks!</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-25T01:00:15Z", 
+      "no_upvotes": 0, 
+      "uid": "i4nkipeofrkrz", 
+      "created": "2017-10-25T01:00:15Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j96c286d4qj23g", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-25T01:04:20Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-10-25T01:04:20Z", 
+          "type": "feedback", 
+          "id": "j96c7hnbnvw6dr", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "No!"
+        }
+      ], 
+      "subject": "<p>Follow up question:</p>\n<p></p>\n<p>Is this a valid EXACT 4-SAT problem?</p>\n<p></p>\n<p>$$(x_1 \\vee x_2 \\vee x_3 \\vee True)$$</p>\n<p></p>\n<p>In this case, I&#39;m using a literal TRUE instead of a variable. Is this allowed?</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-27T05:35:09Z", 
+      "no_upvotes": 0, 
+      "uid": "ijbr5ddtwyt6pa", 
+      "created": "2017-10-27T05:35:09Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j99grgthx4l3rb", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-27T06:53:38Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-10-27T06:53:38Z", 
+          "type": "feedback", 
+          "id": "j99jkdx33sswq", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Correct.</p>"
+        }
+      ], 
+      "subject": "<p>But, it is on a per clause basis right? So a really quick example is\u00a0(x1\u2228x4\u2228x2\u2228x3) ^\u00a0(x1\u2228x4\u2228x2\u2228x3). This is allowed correct?</p>"
+    }
+  ], 
+  "nr": 808, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw6"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 2, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw6", 
+    "student"
+  ], 
+  "created": "2017-10-24T22:17:32Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145128937, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>8.8 says that each variable occurs at most one in each clause of an EXACT 4SAT.</p>\n<p></p>\n<p>This means that we can&#39;t have this: $$(x_1 \\vee x_1 \\vee x_2 \\vee x_3)$$ because $$x_1$$ is twice in the same clause.</p>\n<p></p>\n<p>Can we have the following $$(x_1 \\vee \\overline{x_1} \\vee x_2 \\vee x_3)$$? Are\u00a0$$x_1$$ and\u00a0$$\\overline{x_1}$$ considered &#34;the same variable&#34; in this context?</p>", 
+      "anon": "no", 
+      "created": "2017-10-24T22:17:32Z", 
+      "uid": "i4nkipeofrkrz", 
+      "subject": "EXACT 4SAT"
+    }
+  ]
+}

@@ -1,0 +1,693 @@
+{
+  "status": "active", 
+  "unique_views": 186, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-10T16:23:48Z", 
+      "data": "j7ey8lq09jc4p7", 
+      "uid": "hkvdb9dig3v511"
+    }, 
+    {
+      "uid": "hqa65fnalg83fr", 
+      "type": "s_answer", 
+      "when": "2017-09-10T16:30:25Z", 
+      "to": "j7ey8lpz3534p6", 
+      "anon": "no", 
+      "data": "j7eyh3fmrhk195"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-10T16:34:04Z", 
+      "data": "j7eylsgeis84cy", 
+      "uid": "hkvdb9dig3v511"
+    }, 
+    {
+      "to": "j7ey8lpz3534p6", 
+      "anon": "no", 
+      "when": "2017-09-10T16:35:57Z", 
+      "type": "followup", 
+      "uid": "hkvdb9dig3v511"
+    }, 
+    {
+      "uid": "hju4w9odatf30", 
+      "type": "i_answer", 
+      "when": "2017-09-10T18:41:25Z", 
+      "to": "j7ey8lpz3534p6", 
+      "anon": "no", 
+      "data": "j7f35kknkocta"
+    }, 
+    {
+      "to": "j7ey8lpz3534p6", 
+      "anon": "no", 
+      "when": "2017-09-10T20:46:21Z", 
+      "type": "followup", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j7ey8lpz3534p6", 
+      "anon": "no", 
+      "when": "2017-09-10T20:50:05Z", 
+      "type": "feedback", 
+      "uid": "i4iys7m3lpq2ij"
+    }, 
+    {
+      "to": "j7ey8lpz3534p6", 
+      "anon": "no", 
+      "when": "2017-09-10T20:52:06Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j7ey8lpz3534p6", 
+      "anon": "no", 
+      "when": "2017-09-10T22:16:53Z", 
+      "type": "followup", 
+      "uid": "hkvdb9dig3v511"
+    }, 
+    {
+      "to": "j7ey8lpz3534p6", 
+      "anon": "no", 
+      "when": "2017-09-10T22:17:06Z", 
+      "type": "feedback", 
+      "uid": "hkvdb9dig3v511"
+    }, 
+    {
+      "to": "j7ey8lpz3534p6", 
+      "anon": "no", 
+      "when": "2017-09-10T22:26:41Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j7ey8lpz3534p6", 
+      "anon": "no", 
+      "when": "2017-09-10T22:29:00Z", 
+      "type": "feedback", 
+      "uid": "hkvdb9dig3v511"
+    }, 
+    {
+      "to": "j7ey8lpz3534p6", 
+      "anon": "no", 
+      "when": "2017-09-10T22:31:25Z", 
+      "type": "followup", 
+      "uid": "hkvdb9dig3v511"
+    }, 
+    {
+      "to": "j7ey8lpz3534p6", 
+      "anon": "no", 
+      "when": "2017-09-10T22:38:04Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j7ey8lpz3534p6", 
+      "anon": "no", 
+      "when": "2017-09-10T22:56:41Z", 
+      "type": "feedback", 
+      "uid": "hkvdb9dig3v511"
+    }, 
+    {
+      "type": "i_answer_update", 
+      "anon": "no", 
+      "when": "2017-09-11T01:18:36Z", 
+      "data": "j7fhcctqq4f2an", 
+      "uid": "hju4w9odatf30"
+    }, 
+    {
+      "to": "j7ey8lpz3534p6", 
+      "anon": "no", 
+      "when": "2017-09-11T01:18:49Z", 
+      "type": "feedback", 
+      "uid": "hju4w9odatf30"
+    }, 
+    {
+      "to": "j7ey8lpz3534p6", 
+      "anon": "no", 
+      "when": "2017-09-11T02:00:19Z", 
+      "type": "feedback", 
+      "uid": "hkvdb9dig3v511"
+    }, 
+    {
+      "to": "j7ey8lpz3534p6", 
+      "anon": "no", 
+      "when": "2017-09-11T02:41:31Z", 
+      "type": "feedback", 
+      "uid": "i18w67avy8e1uk"
+    }, 
+    {
+      "to": "j7ey8lpz3534p6", 
+      "anon": "no", 
+      "when": "2017-09-13T00:40:27Z", 
+      "type": "feedback", 
+      "uid": "i4j6x8uvfv6743"
+    }, 
+    {
+      "to": "j7ey8lpz3534p6", 
+      "anon": "no", 
+      "when": "2017-09-13T00:52:56Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j7ey8lpz3534p6", 
+      "anon": "no", 
+      "when": "2017-09-13T02:00:24Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j7ey8lpz3534p6", 
+      "anon": "no", 
+      "when": "2017-09-13T02:00:38Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j7ey8lpz3534p6", 
+      "anon": "no", 
+      "when": "2017-09-13T04:41:46Z", 
+      "type": "feedback", 
+      "uid": "i18w67avy8e1uk"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j7ey8lpz3534p6", 
+  "bookmarked": 10, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-10T16:30:25Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j7eyh3fhouy194", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>polinomial multiplication?</p>\n<p></p>\n<p>like:</p>\n<p></p>\n<p>(a &#43; 2) (b &#43; 4) \u00a0= ab &#43; 2b &#43; 4a &#43; 8\u00a0</p>\n<p></p>\n<p>Thats polynomial multiplication. Isn&#39;t it?</p>", 
+          "anon": "no", 
+          "created": "2017-09-10T16:30:25Z", 
+          "uid": "hqa65fnalg83fr", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-10T16:35:57Z", 
+      "no_upvotes": 0, 
+      "uid": "hkvdb9dig3v511", 
+      "created": "2017-09-10T16:35:57Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7eyo7ia8bs52z", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>&#64;Amin: \u00a0Using FFT, not regular multiplication (I thought that was clear from my question)</p>"
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-10T18:41:25Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "hyzyc8nwswo6z5", 
+        "i4t8eakz3ex6lk", 
+        "hkvdb9dig3v511", 
+        "i18w67avy8e1uk"
+      ], 
+      "id": "j7f35kkla7xt9", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Zack Gow", 
+          "admin": false, 
+          "photo": "1476241357_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hyzyc8nwswo6z5"
+        }, 
+        {
+          "name": "abarysevich", 
+          "admin": false, 
+          "photo": null, 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i4t8eakz3ex6lk"
+        }, 
+        {
+          "name": "Hamel", 
+          "admin": false, 
+          "photo": null, 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hkvdb9dig3v511"
+        }, 
+        {
+          "name": "Shihgian Lee", 
+          "admin": false, 
+          "photo": "1420394909_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i18w67avy8e1uk"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>check out this pdf here:\u00a0<a href=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/hju4w9odatf30/j7f19n8xvd24/fft_example.pdf\" target=\"_blank\">fft_example.pdf</a></p>\n<p></p>\n<p>FFT should be recursive as explained in the lectures. I briefly mentioned\u00a0that part and then moved onto the polynomial values in the pdf above.</p>", 
+          "anon": "no", 
+          "created": "2017-09-11T01:18:36Z", 
+          "uid": "hju4w9odatf30", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>check out this pdf here:\u00a0<a href=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/hju4w9odatf30/j7f19n8xvd24/fft_example.pdf\" target=\"_blank\">fft_example.pdf</a></p>", 
+          "anon": "no", 
+          "created": "2017-09-10T18:41:25Z", 
+          "uid": "hju4w9odatf30", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-10T20:46:21Z", 
+      "no_upvotes": 0, 
+      "uid": "i4nkipeofrkrz", 
+      "created": "2017-09-10T20:46:21Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7f7m8hizac525", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-10T20:50:05Z", 
+          "uid": "i4iys7m3lpq2ij", 
+          "created": "2017-09-10T20:50:05Z", 
+          "type": "feedback", 
+          "id": "j7f7r12tcl54", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I agree - way easier. Is this &#34;allowed&#34;?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-10T20:52:06Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-09-10T20:52:06Z", 
+          "type": "feedback", 
+          "id": "j7f7tmvbcee5fc", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I&#39;m not sure why it wouldn&#39;t. It is explained in the book so I don&#39;t see why not.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-10T22:17:06Z", 
+          "uid": "hkvdb9dig3v511", 
+          "created": "2017-09-10T22:17:06Z", 
+          "type": "feedback", 
+          "id": "j7fauxwjp22tr", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Well just be careful, if you do that I think its DFT and not FFT. \u00a0You have to split into odds and evens if you are doing FFT because FFT is recursive. \u00a0DFT is just evaluating the function for each omega directly without recursion which I suspect is what you are doing with your matrix multiply</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-13T00:40:27Z", 
+          "uid": "i4j6x8uvfv6743", 
+          "created": "2017-09-13T00:40:27Z", 
+          "type": "feedback", 
+          "id": "j7iauzfs4wf4pm", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>This is the approach that I did for DPV 2.9, which is allowed according to &#64;280</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-13T02:00:24Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-09-13T02:00:24Z", 
+          "type": "feedback", 
+          "id": "j7idpst81t4e9", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Yup, the professor confirmed this is allowed. &#64;280</p>"
+        }
+      ], 
+      "subject": "<p>You can also do it using the Matrix approach:</p>\n<p></p>\n<p>1) Multiply polynomial represented by vector $$a$$ with matrix $$M_n(w)$$\u00a0</p>\n<p>2) Multiply polynomial represented by vector $$b$$ with matrix $$M_n(w)$$\u00a0</p>\n<p>3) Multiply each term from the results to obtain $$C$$ on each root of unity</p>\n<p>4) Multiply the vector $$C$$ by the matrix\u00a0$$M_n(w^{-1})$$\u00a0</p>\n<p>5) The result of the above operation are the coefficients of your resultant polynomial.</p>\n<p></p>\n<p>I found that this method is very approachable and easy to do it by hand.</p>\n<p></p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-10T22:16:53Z", 
+      "no_upvotes": 0, 
+      "uid": "hkvdb9dig3v511", 
+      "created": "2017-09-10T22:16:53Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7faunsu7whpb", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-10T22:26:41Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-09-10T22:26:41Z", 
+          "type": "feedback", 
+          "id": "j7fb79j3nqj7i7", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I don&#39;t agree with this statement. If you look at DPV book, page 67 under &#34;A closer look at the fast Fourier transform&#34; you&#39;ll find the explanation of FFT using matrixes. This is also done in a Divide and Conquer way by selecting even and odd rows of the matrix.</p>\n<p></p>\n<p>I&#39;d love to hear from the instructors to get their take. Is the matrix approach acceptable for the homework and the test?</p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-10T22:29:00Z", 
+          "uid": "hkvdb9dig3v511", 
+          "created": "2017-09-10T22:29:00Z", 
+          "type": "feedback", 
+          "id": "j7fba8gql7h5m", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Ahh if you are selecting odd/even columns/rows at each recursive step is it really easier when you are doing it by hand? \u00a0Seems like just as much book-keeping to me? \u00a0Would be interesting to see an example comparing both. \u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-10T22:38:04Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-09-10T22:38:04Z", 
+          "type": "feedback", 
+          "id": "j7fblwtl121j6", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>The algorithm does select even and odd columns, but that&#39;s a thing for a computer IMO. If we need to run it manually, I really don&#39;t see the point of &#34;simulating&#34; a computer using pen and paper. If we know the method, and we can explain the run time and recurrence, why do we need to do D&amp;C manually instead of running the method directly?</p>\n<p></p>\n<p>When D&amp;C is really helpful is for large polynomials (when $$n$$ is really large). We won&#39;t be doing those\u00a0manually anyway, so I don&#39;t see the point.</p>\n<p></p>\n<p>Does that make sense? Maybe I&#39;m wrong and we have to do the odd and even thing manually as well... It will be great for an instructor to confirm.</p>\n<p></p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-10T22:56:41Z", 
+          "uid": "hkvdb9dig3v511", 
+          "created": "2017-09-10T22:56:41Z", 
+          "type": "feedback", 
+          "id": "j7fc9ucl2mzd", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I pretty much agree. \u00a0If we aren&#39;t doing D&amp;C on paper (I also agree its pointless) then aren&#39;t we really just doing DFT? \u00a0 FFT without the divide and conquer part is just DFT</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-13T02:00:38Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-09-13T02:00:38Z", 
+          "type": "feedback", 
+          "id": "j7idq49ma87ly", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>We should be good. See &#64;280.</p>"
+        }
+      ], 
+      "subject": "<p>Well just be careful, if you do that I think its DFT and not FFT. \u00a0You have to split into odds and evens if you are doing FFT because FFT is recursive. \u00a0DFT is just evaluating the function for each omega directly without recursion which I suspect is what you are doing with your matrix multiply</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-10T22:31:25Z", 
+      "no_upvotes": 0, 
+      "uid": "hkvdb9dig3v511", 
+      "created": "2017-09-10T22:31:25Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7fbdcfbv432ez", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-11T01:18:49Z", 
+          "uid": "hju4w9odatf30", 
+          "created": "2017-09-11T01:18:49Z", 
+          "type": "feedback", 
+          "id": "j7fhcmcnyja4lh", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Yes, you are right.</p>\n<p>FFT should be recursive as explained in the lectures. I\u00a0briefly mentioned\u00a0that part and\u00a0then moved onto the polynomial values in the pdf above.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-11T02:00:19Z", 
+          "uid": "hkvdb9dig3v511", 
+          "created": "2017-09-11T02:00:19Z", 
+          "type": "feedback", 
+          "id": "j7fitzrqr3x6d0", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "&#64;Murali can I answer the same way you did if presented with a similar question on an exam?"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-11T02:41:31Z", 
+          "uid": "i18w67avy8e1uk", 
+          "created": "2017-09-11T02:41:31Z", 
+          "type": "feedback", 
+          "id": "j7fkazlpf3417r", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thanks for the question and example. I have a question. How do we know we should start with n-roots=4?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-13T00:52:56Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-09-13T00:52:56Z", 
+          "type": "feedback", 
+          "id": "j7ibb1ohz963dt", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p></p>\n<p>What is the degree of the polynomial you&#39;re solving for? \u00a0How many points do you need to determine it?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-13T04:41:46Z", 
+          "uid": "i18w67avy8e1uk", 
+          "created": "2017-09-13T04:41:46Z", 
+          "type": "feedback", 
+          "id": "j7ijhbjfqx13nk", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Dr. Vigoda answered my question &#64;277.</p>"
+        }
+      ], 
+      "subject": "<p>&#64;Murali - I suspect you used DFT in your answer in order to quickly do it, \u00a0but you but some notes on how you would solve it recursively. \u00a0 Is my understanding correct? \u00a0</p>\n<p></p>\n<p>For example in your notes, you say n = 4 which means you should zero-pad p to: \u00a0 1 &#43; x &#43; 0x^2 &#43; 0x^3 ? \u00a0 In which case the first recursive call should split into Aodd = (1, 0) and Aeven = (1, 0). \u00a0I worked this out the long way and verified that I arrive at the same answer as you do. \u00a0\u00a0</p>\n<p></p>\n<p>Maybe I&#39;m just confused, just want to verify that my understanding is correct. \u00a0 Let me know</p>"
+    }
+  ], 
+  "nr": 242, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw3"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 6, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw3", 
+    "student"
+  ], 
+  "created": "2017-09-10T16:23:48Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145264784, 
+  "tag_good": [
+    {
+      "name": "abarysevich", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4t8eakz3ex6lk"
+    }, 
+    {
+      "name": "Shihgian Lee", 
+      "admin": false, 
+      "photo": "1420394909_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i18w67avy8e1uk"
+    }, 
+    {
+      "name": "Eddie Spencer", 
+      "admin": false, 
+      "photo": "1432002672_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4j6x8uvfv6743"
+    }
+  ], 
+  "tag_good_arr": [
+    "i4t8eakz3ex6lk", 
+    "i18w67avy8e1uk", 
+    "i4j6x8uvfv6743"
+  ], 
+  "history": [
+    {
+      "content": "<p>The way I learn math, I need to see a few examples worked out by hand with actual numbers. \u00a0 I&#39;ve looked on the internet for examples of polynomial multiplication <strong>using FFT</strong> (where we are actually doing a concrete example, not abstract) but there aren&#39;t any examples that I can find. \u00a0If anyone can point me to some examples that would be great. \u00a0\u00a0</p>\n<p></p>\n<p>Just to clarify, I&#39;m looking for some examples that are done on real polynomials with paper and pencil. \u00a0 I&#39;ve watched the lecture videos, etc. but I want to see some examples worked out by hand to cement my understanding. \u00a0</p>\n<p></p>\n<p>Thanks</p>", 
+      "anon": "no", 
+      "created": "2017-09-10T16:34:04Z", 
+      "uid": "hkvdb9dig3v511", 
+      "subject": "Examples of Polynomial Multiplication with FFT"
+    }, 
+    {
+      "content": "<p>The way I learn math, I need to see a few examples worked out by hand with actual numbers. \u00a0 I&#39;ve looked on the internet for examples of polynomial multiplication (where we are actually doing a concrete example, not abstract) but there aren&#39;t any examples that I can find. \u00a0If anyone can point me to some examples that would be great. \u00a0\u00a0</p>\n<p></p>\n<p>Just to clarify, I&#39;m looking for some examples that are done on real polynomials with paper and pencil. \u00a0 I&#39;ve watched the lecture videos, etc. but I want to see some examples worked out by hand to cement my understanding. \u00a0</p>\n<p></p>\n<p>Thanks</p>", 
+      "anon": "no", 
+      "created": "2017-09-10T16:23:48Z", 
+      "uid": "hkvdb9dig3v511", 
+      "subject": "Examples of Polynomial Multiplication with FFT"
+    }
+  ]
+}

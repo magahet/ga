@@ -1,0 +1,125 @@
+{
+  "status": "active", 
+  "unique_views": 204, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-30T00:42:06Z", 
+      "data": "j86lella3687bw", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "uid": "gns9oa0pgsO", 
+      "type": "i_answer", 
+      "when": "2017-09-30T23:53:38Z", 
+      "to": "j86lell7n9b7bv", 
+      "anon": "no", 
+      "data": "j87z44kr6544d6"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j86lell7n9b7bv", 
+  "bookmarked": 3, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-30T23:53:38Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "ijbr5ddtwyt6pa"
+      ], 
+      "id": "j87z44kop5q4d5", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Jason Buoni", 
+          "admin": false, 
+          "photo": "1463440659_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "ijbr5ddtwyt6pa"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>whatever you plot should back up your claims.\u00a0 it&#39;s up to you.</p>", 
+          "anon": "no", 
+          "created": "2017-09-30T23:53:38Z", 
+          "uid": "gns9oa0pgsO", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 493, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "project"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 2, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "project", 
+    "student"
+  ], 
+  "created": "2017-09-30T00:42:06Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145203472, 
+  "tag_good": [
+    {
+      "name": "Blaine Spear", 
+      "admin": false, 
+      "photo": "1494887789_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "idfwkujs17e3ky"
+    }, 
+    {
+      "name": "Nelson Cheng", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4kxfs7hlxngu"
+    }
+  ], 
+  "tag_good_arr": [
+    "idfwkujs17e3ky", 
+    "i4kxfs7hlxngu"
+  ], 
+  "history": [
+    {
+      "content": "<p>I am confused as to what to plot for task one. The pdf states:</p>\n<p></p>\n<div>\n<div>\n<div>\n<p><em>Report: Did one of the functions work better than the other? Did data choice matter? Why or why not? Justify your answer with relevant plots (on page 2 of the report template) and discussion. More important is how do these hash functions compare when utilized in your implementation of a Bloom filter.\u00a0</em></p>\n<p><em></em></p>\n<p>So what exactly do we need to plot? For example, if I plotted the average number of collisions at size N, and the average run time at size N,\u00a0and stated the difference in run time when using the bloom filter, would that be sufficient?</p>\n</div>\n</div>\n</div>", 
+      "anon": "no", 
+      "created": "2017-09-30T00:42:06Z", 
+      "uid": "ijbr5ddtwyt6pa", 
+      "subject": "Task 1: What to plot"
+    }
+  ]
+}

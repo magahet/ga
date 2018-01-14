@@ -1,0 +1,219 @@
+{
+  "status": "active", 
+  "unique_views": 172, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-11T12:01:47Z", 
+      "data": "j7g4bhuwd2zt5", 
+      "uid": "idgq0ufin8U"
+    }, 
+    {
+      "to": "j7g4bhuuxrst4", 
+      "anon": "no", 
+      "when": "2017-09-11T12:18:28Z", 
+      "type": "followup", 
+      "uid": "i4mub6lmaxh"
+    }, 
+    {
+      "to": "j7g4bhuuxrst4", 
+      "anon": "no", 
+      "when": "2017-09-11T12:42:16Z", 
+      "type": "feedback", 
+      "uid": "idgq0ufin8U"
+    }, 
+    {
+      "uid": "idgq0ufin8U", 
+      "type": "s_answer", 
+      "when": "2017-09-11T13:00:41Z", 
+      "to": "j7g4bhuuxrst4", 
+      "anon": "no", 
+      "data": "j7g6f87e3jf741"
+    }, 
+    {
+      "to": "j7g4bhuuxrst4", 
+      "anon": "no", 
+      "when": "2017-09-11T14:50:23Z", 
+      "type": "followup", 
+      "uid": "ijb8j8y2bZ5"
+    }, 
+    {
+      "to": "j7g4bhuuxrst4", 
+      "anon": "no", 
+      "when": "2017-09-11T14:54:13Z", 
+      "type": "feedback", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "to": "j7g4bhuuxrst4", 
+      "anon": "no", 
+      "when": "2017-09-11T16:51:04Z", 
+      "type": "followup", 
+      "uid": "hqa9hej5ny2gl"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j7g4bhuuxrst4", 
+  "bookmarked": 6, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-09-11T12:18:28Z", 
+      "no_upvotes": 0, 
+      "uid": "i4mub6lmaxh", 
+      "created": "2017-09-11T12:18:28Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7g4wxsktg2mo", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-11T12:42:16Z", 
+          "uid": "idgq0ufin8U", 
+          "created": "2017-09-11T12:42:16Z", 
+          "type": "feedback", 
+          "id": "j7g5rk1nw4t4gw", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Wooowwww, I spent so much time on this trying different examples to see if it was something I was doing wrong and then gave up. Cant believe it was something that little, thanks a lot\u00a0</p>"
+        }
+      ], 
+      "subject": "<p>Sometimes you will get a negative result and that&#39;s okay. Just add N to make it positive again</p>\n<p>$$ -5 \\equiv 38 \\mod 43 $$</p>"
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-11T13:00:41Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j7g6f87a5m7740", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>As per Pico below. Subtract N.\u00a0</p>\n<p></p>\n<p>Thanks Pico</p>", 
+          "anon": "no", 
+          "created": "2017-09-11T13:00:41Z", 
+          "uid": "idgq0ufin8U", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-11T14:50:23Z", 
+      "no_upvotes": 0, 
+      "uid": "ijb8j8y2bZ5", 
+      "created": "2017-09-11T14:50:23Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7gacau1zei11x", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-11T14:54:13Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-09-11T14:54:13Z", 
+          "type": "feedback", 
+          "id": "j7gah8ngv9j42x", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "$$ - 1\\!\\! \\mod 3 = 2\\!\\! \\mod 3$$ according to the convention that modular arithmetic returns a number $$n$$ representative of the equivalence class, such that $$0 \\le n &lt; modulus$$,\nhowever $$-1 \\equiv 2 \\!\\! \\mod 3$$, $$-1 \\not = 2 \\!\\! \\mod 3$$"
+        }
+      ], 
+      "subject": "<p>Q1. Can reminder be negative ? for example is it correct to say -1 = 2 mode 3 ?</p>\n<p></p>\n<p>Q2. Or just I need to stop at contingency step only. Like: -1 mode 3 is congruent to 2 mode 3.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-11T16:51:04Z", 
+      "no_upvotes": 0, 
+      "uid": "hqa9hej5ny2gl", 
+      "created": "2017-09-11T16:51:04Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7geni3rmxl47m", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>This step is wrong: -85 = 43q &#43; 1, so q=(-85-1)/43 = -2, not q=1. \u00a0So the extended Euclid does work.\u00a0\u00a0</p>\n<p>Since 38\u00a0$$\\equiv $$ -5 mod 43, so we pick 38 which is the first positive integer congruent with -5 on mod 43.</p>"
+    }
+  ], 
+  "nr": 266, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw2"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 3, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw2", 
+    "student"
+  ], 
+  "created": "2017-09-11T12:01:47Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145257830, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>I <img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/idgq0ufin8U/j7g4aagyaazp/FullSizeRender_3.jpg\" alt=\"Steps\" />used the approach from class to solve for the inverse of 17 mod 43 and it gave me the wrong answer. I&#39;ve used the same approach for other questions and got the right answer, is there something I am not doing? See attachment for my calculation steps.</p>", 
+      "anon": "no", 
+      "created": "2017-09-11T12:01:47Z", 
+      "uid": "idgq0ufin8U", 
+      "subject": "Extended Euclid doesn&#39;t seem to always work: Example: Inverse of 17 mod 43"
+    }
+  ]
+}

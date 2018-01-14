@@ -1,0 +1,172 @@
+{
+  "status": "active", 
+  "unique_views": 195, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-08-24T12:24:22Z", 
+      "data": "j6qf77gto9l6fq", 
+      "uid": "idfwkf5jgsm3gg"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-08-24T12:25:51Z", 
+      "data": "j6qf942itb678t", 
+      "uid": "idfwkf5jgsm3gg"
+    }, 
+    {
+      "uid": "gy4twfv45cg5o6", 
+      "type": "i_answer", 
+      "when": "2017-08-24T12:46:59Z", 
+      "to": "j6qf77grc1q6fp", 
+      "anon": "no", 
+      "data": "j6qg09xnwq068k"
+    }, 
+    {
+      "uid": "idgauptz2ou3po", 
+      "type": "s_answer", 
+      "when": "2017-08-24T13:37:16Z", 
+      "to": "j6qf77grc1q6fp", 
+      "anon": "no", 
+      "data": "j6qhsxzoc634ug"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j6qf77grc1q6fp", 
+  "bookmarked": 3, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-08-24T12:46:59Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "idfwkf5jgsm3gg"
+      ], 
+      "id": "j6qg09xjsyj68i", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Nikita Nerkar", 
+          "admin": false, 
+          "photo": "1455312357_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "idfwkf5jgsm3gg"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>There&#39;s another post with a long discussion about this. \u00a0Did you look at that first?</p>", 
+          "anon": "no", 
+          "created": "2017-08-24T12:46:59Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-08-24T13:37:16Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [
+        "idfwkf5jgsm3gg", 
+        "i8597qyse9c1v2"
+      ], 
+      "id": "j6qhsxzoieu4uf", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Nikita Nerkar", 
+          "admin": false, 
+          "photo": "1455312357_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "idfwkf5jgsm3gg"
+        }, 
+        {
+          "name": "Pedro Henrique Rocha Moy", 
+          "admin": false, 
+          "photo": "1452626521_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i8597qyse9c1v2"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>See &#64;49</p>", 
+          "anon": "no", 
+          "created": "2017-08-24T13:37:16Z", 
+          "uid": "idgauptz2ou3po", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 66, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "dynamic_programming"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 0, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "dynamic_programming", 
+    "student"
+  ], 
+  "created": "2017-08-24T12:24:22Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145315840, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>Hi,</p>\n<p></p>\n<p>I am finding it difficult to understand the relation of representing B in space\u00a0<img src=\"http://mathurl.com/render.cgi?log_%7B2%7DB%5Cnocache\" alt=\"\" />\u00a0and running time: O(nB). Can someone elaborate more about concepts which answer the following question,</p>\n<p></p>\n<p><em>Is the running time polynomial in the input size?</em></p>\n<p><em>Answer: No</em></p>\n<p></p>\n<p>Thank you!</p>", 
+      "anon": "no", 
+      "created": "2017-08-24T12:25:51Z", 
+      "uid": "idfwkf5jgsm3gg", 
+      "subject": "Difficulty in understanding Knapsack in polynomial time"
+    }, 
+    {
+      "content": "<p>Hi,</p>\n<p></p>\n<p>I am finding it difficult to understand the relation of representing B in space\u00a0<img src=\"http://mathurl.com/render.cgi?log_%7B2%7DB%5Cnocache\" alt=\"\" />\u00a0and running time: O(nB). Can someone elaborate more about the following question,</p>\n<p></p>\n<p><em>Is the running time polynomial in the input size?</em></p>\n<p><em></em></p>\n<p>Thank you!</p>", 
+      "anon": "no", 
+      "created": "2017-08-24T12:24:22Z", 
+      "uid": "idfwkf5jgsm3gg", 
+      "subject": "Difficulty in understanding Knapsack in polynomial time"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "status": "active", 
+  "unique_views": 137, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-08-31T17:29:41Z", 
+      "data": "j70q6t4s49q75g", 
+      "uid": "hveop63kovn61t"
+    }, 
+    {
+      "uid": "idg5nm2lC96", 
+      "type": "s_answer", 
+      "when": "2017-08-31T18:05:47Z", 
+      "to": "j70q6t4q8oo75f", 
+      "anon": "no", 
+      "data": "j70rh8c16nj5ez"
+    }, 
+    {
+      "uid": "gy4twfv45cg5o6", 
+      "type": "i_answer", 
+      "when": "2017-09-01T20:08:55Z", 
+      "to": "j70q6t4q8oo75f", 
+      "anon": "no", 
+      "data": "j72bbfakk2c57z"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j70q6t4q8oo75f", 
+  "bookmarked": 3, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-08-31T18:05:47Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j70rh8boo6o5ey", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>Yep, I noticed that too. The lecture is correct, however. Here&#39;s from the lecture:</p>\n<p></p>\n<p><tt>if C(i, j) &gt; cur then C(i, j) = cur</tt></p>", 
+          "anon": "no", 
+          "created": "2017-08-31T18:05:47Z", 
+          "uid": "idg5nm2lC96", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-01T20:08:55Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j72bbfaipza57y", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p></p>\n<p>Thanks, good catch. \u00a0I fixed it.</p>", 
+          "anon": "no", 
+          "created": "2017-09-01T20:08:55Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 129, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "dynamic_programming"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "dynamic_programming", 
+    "student"
+  ], 
+  "created": "2017-08-31T17:29:41Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145296481, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p><a href=\"https://cs6505.wordpress.com/schedule/dp-part-ii/\">https://cs6505.wordpress.com/schedule/dp-part-ii/</a></p>\n<p></p>\n<p>It says curr &gt; C(i,J) but C(i,J) was just set to infinity so I think this should be curr &lt; C(i,j) ?\u00a0</p>", 
+      "anon": "no", 
+      "created": "2017-08-31T17:29:41Z", 
+      "uid": "hveop63kovn61t", 
+      "subject": "Errata in lecture notes for CMM pseudo code"
+    }
+  ]
+}

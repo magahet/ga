@@ -1,0 +1,338 @@
+{
+  "status": "active", 
+  "unique_views": 297, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-08-27T23:57:03Z", 
+      "data": "j6ve9jycaqq384", 
+      "uid": "hkjzzued3ef4xh"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-08-27T23:57:09Z", 
+      "data": "j6ve9og84903lm", 
+      "uid": "hkjzzued3ef4xh"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-08-27T23:57:27Z", 
+      "data": "j6vea20qlw3pe", 
+      "uid": "hkjzzued3ef4xh"
+    }, 
+    {
+      "to": "j6ve9jya5qe383", 
+      "anon": "no", 
+      "when": "2017-08-30T10:14:47Z", 
+      "type": "followup", 
+      "uid": "hz203w8gcn7648"
+    }, 
+    {
+      "to": "j6ve9jya5qe383", 
+      "anon": "no", 
+      "when": "2017-08-30T14:16:47Z", 
+      "type": "feedback", 
+      "uid": "hju4w9odatf30"
+    }, 
+    {
+      "to": "j6ve9jya5qe383", 
+      "anon": "no", 
+      "when": "2017-08-30T15:56:29Z", 
+      "type": "feedback", 
+      "uid": "hz203w8gcn7648"
+    }, 
+    {
+      "to": "j6ve9jya5qe383", 
+      "anon": "no", 
+      "when": "2017-09-03T17:40:01Z", 
+      "type": "followup", 
+      "uid": "hve4kbcvx7l4t3"
+    }, 
+    {
+      "to": "j6ve9jya5qe383", 
+      "anon": "no", 
+      "when": "2017-09-03T18:30:56Z", 
+      "type": "feedback", 
+      "uid": "hvfeyx7qglF"
+    }, 
+    {
+      "to": "j6ve9jya5qe383", 
+      "anon": "no", 
+      "when": "2017-09-03T20:38:03Z", 
+      "type": "feedback", 
+      "uid": "hve4kbcvx7l4t3"
+    }, 
+    {
+      "to": "j6ve9jya5qe383", 
+      "anon": "no", 
+      "when": "2017-09-04T05:58:54Z", 
+      "type": "followup", 
+      "uid": "iddtex53uvo4xe"
+    }, 
+    {
+      "to": "j6ve9jya5qe383", 
+      "anon": "no", 
+      "when": "2017-09-04T05:59:52Z", 
+      "type": "feedback", 
+      "uid": "hju4w9odatf30"
+    }, 
+    {
+      "to": "j6ve9jya5qe383", 
+      "anon": "no", 
+      "when": "2017-09-04T06:01:33Z", 
+      "type": "feedback", 
+      "uid": "iddtex53uvo4xe"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-09T20:58:57Z", 
+      "data": "j8knu5798en6e", 
+      "uid": "hkkbz4bujtv5dn"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-11T06:44:33Z", 
+      "data": "j8mo734t6v67ay", 
+      "uid": "hju4w9odatf30"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j6ve9jya5qe383", 
+  "bookmarked": 8, 
+  "tags": [
+    "course", 
+    "instructor-note"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-08-30T10:14:47Z", 
+      "no_upvotes": 0, 
+      "uid": "hz203w8gcn7648", 
+      "created": "2017-08-30T10:14:47Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6yv7o6pgwb13z", 
+      "anon": "no", 
+      "bucket_name": "Week 8/27 - 9/2", 
+      "config": {}, 
+      "bucket_order": 11, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-08-30T14:16:47Z", 
+          "uid": "hju4w9odatf30", 
+          "created": "2017-08-30T14:16:47Z", 
+          "type": "feedback", 
+          "id": "j6z3uvjvdyh456", 
+          "anon": "no", 
+          "bucket_name": "Week 8/27 - 9/2", 
+          "config": {}, 
+          "bucket_order": 11, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>You can find the youtube links for office hours on the <a href=\"https://docs.google.com/spreadsheets/d/1j4H5XC8IPN2WoyNLCFihuCNJwdWUjm_cTZrw7B5mTVA/edit?usp=sharing\" target=\"_blank\">spreadsheet shared above</a>.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-30T15:56:29Z", 
+          "uid": "hz203w8gcn7648", 
+          "created": "2017-08-30T15:56:29Z", 
+          "type": "feedback", 
+          "id": "j6z7f3i65nh2g2", 
+          "anon": "no", 
+          "bucket_name": "Week 8/27 - 9/2", 
+          "config": {}, 
+          "bucket_order": 11, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thank you Murali.</p>"
+        }
+      ], 
+      "subject": "<p>Hi, could you add the office hour youtube\u00a0link(s) to this post for reference? Thanks for your help.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-03T17:40:01Z", 
+      "no_upvotes": 0, 
+      "uid": "hve4kbcvx7l4t3", 
+      "created": "2017-09-03T17:40:01Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j750vnjy17p3t0", 
+      "anon": "no", 
+      "bucket_name": "Week 9/3 - 9/9", 
+      "config": {}, 
+      "bucket_order": 10, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-03T18:30:56Z", 
+          "uid": "hvfeyx7qglF", 
+          "created": "2017-09-03T18:30:56Z", 
+          "type": "feedback", 
+          "id": "j752p4u9loc5mq", 
+          "anon": "no", 
+          "bucket_name": "Week 9/3 - 9/9", 
+          "config": {}, 
+          "bucket_order": 10, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p><a href=\"https://www.youtube.com/watch?v=SyeHo630M_w\">https://www.youtube.com/watch?v=SyeHo630M_w</a>\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-03T20:38:03Z", 
+          "uid": "hve4kbcvx7l4t3", 
+          "created": "2017-09-03T20:38:03Z", 
+          "type": "feedback", 
+          "id": "j7578l9fg9j7n0", 
+          "anon": "no", 
+          "bucket_name": "Week 9/3 - 9/9", 
+          "config": {}, 
+          "bucket_order": 10, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thanks Brandon - video was a huge help!</p>"
+        }
+      ], 
+      "subject": "<p>Hello- Could someone \u00a0point me to the office hours (<a href=\"https://docs.google.com/spreadsheets/d/1j4H5XC8IPN2WoyNLCFihuCNJwdWUjm_cTZrw7B5mTVA/edit#gid=313111786\" target=\"_blank\">Office hours schedule</a>) that goes \u00a0over HW 1.2 table fill for max product problem?</p>\n<p>TIA</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-04T05:58:54Z", 
+      "no_upvotes": 0, 
+      "uid": "iddtex53uvo4xe", 
+      "created": "2017-09-04T05:58:54Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j75r9usl97a2xr", 
+      "anon": "no", 
+      "bucket_name": "Week 9/3 - 9/9", 
+      "config": {}, 
+      "bucket_order": 10, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-04T05:59:52Z", 
+          "uid": "hju4w9odatf30", 
+          "created": "2017-09-04T05:59:52Z", 
+          "type": "feedback", 
+          "id": "j75rb3kczp538n", 
+          "anon": "no", 
+          "bucket_name": "Week 9/3 - 9/9", 
+          "config": {}, 
+          "bucket_order": 10, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Sounds good. We&#39;ll make it a point to do this from next time. Thank you for the suggestion!"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-04T06:01:33Z", 
+          "uid": "iddtex53uvo4xe", 
+          "created": "2017-09-04T06:01:33Z", 
+          "type": "feedback", 
+          "id": "j75rd9buatj3uc", 
+          "anon": "no", 
+          "bucket_name": "Week 9/3 - 9/9", 
+          "config": {}, 
+          "bucket_order": 10, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Great !!<br />Maybe also tag the existing entries in the spreadsheet too :)\u00a0</p>"
+        }
+      ], 
+      "subject": "<p>Can we please also introduce a column for content or problem discussed in a particular Office Hours ?<br />This would help during exams/revision to quickly get to the office hours where a particular topic was discussed.</p>"
+    }
+  ], 
+  "nr": 96, 
+  "bucket_order": 2, 
+  "type": "note", 
+  "folders": [
+    "course"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 3, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-08-27T23:57:03Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145306556, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>We will use\u00a0<a href=\"http://slido.com/\" target=\"_blank\">slido.com</a>\u00a0for problem collection and YouTube livestream for office hour.</p>\n<p></p>\n<p>You can check the schedule, event code and link on this <a href=\"https://docs.google.com/spreadsheets/d/1j4H5XC8IPN2WoyNLCFihuCNJwdWUjm_cTZrw7B5mTVA/edit?usp=sharing\" target=\"_blank\">spreadsheet</a>.</p>\n<p></p>\n<p><strong>Office Hour Schedule (EST)</strong></p>\n<p></p>\n<ul><li>Tuesday: Tiancheng 9:00 p.m. - 10:00 p.m.</li><li>Thursday: Murali 7:00 p.m. - \u00a08:00 p.m.</li></ul>\n<ul><li>Saturday: Michael 2:00 p.m. - \u00a03:00 p.m.</li></ul>\n<p></p>\n<p>*Note [updated on 8/27]:</p>\n<p>This week Michael will hold his office hour on Friday\u00a0(9/1) 9-10 p.m. instead of Saturday.</p>\n<p></p>\n<p></p>", 
+      "anon": "no", 
+      "created": "2017-10-11T06:44:33Z", 
+      "uid": "hju4w9odatf30", 
+      "subject": "Office Hour Schedule"
+    }, 
+    {
+      "content": "<p>We will use\u00a0<a href=\"http://slido.com/\" target=\"_blank\">slido.com</a>\u00a0for problem collection and YouTube livestream for office hour.</p>\n<p></p>\n<p>You can check the schedule, event code and link on this <a href=\"https://docs.google.com/spreadsheets/d/1j4H5XC8IPN2WoyNLCFihuCNJwdWUjm_cTZrw7B5mTVA/edit?usp=sharing\" target=\"_blank\">spreadsheet</a>.</p>\n<p></p>\n<p><strong>Office Hour Schedule (EST)</strong></p>\n<p></p>\n<ul><li>Tuesday: Tiancheng 9:00 p.m. - 10:00 p.m.</li><li>Thursday: Murali 7:00 p.m. - \u00a08:00 p.m.</li></ul>\n<ul><li>Saturday: Michael 2:00 p.m. - \u00a03:00 p.m.</li></ul>\n<p></p>\n<p>*Note [updated on 8/27]:</p>\n<p>This week Michael will hold his office hour on Friday\u00a0(9/1) 9-10 p.m. instead of Saturday.</p>\n<p></p>\n<p>#pin</p>", 
+      "anon": "no", 
+      "created": "2017-10-09T20:58:57Z", 
+      "uid": "hkkbz4bujtv5dn", 
+      "subject": "Office Hour Schedule"
+    }, 
+    {
+      "content": "<p>We will use\u00a0<a href=\"http://slido.com/\" target=\"_blank\">slido.com</a>\u00a0for problem collection and YouTube livestream for office hour.</p>\n<p></p>\n<p>You can check the schedule, event code and link on this <a href=\"https://docs.google.com/spreadsheets/d/1j4H5XC8IPN2WoyNLCFihuCNJwdWUjm_cTZrw7B5mTVA/edit?usp=sharing\" target=\"_blank\">spreadsheet</a>.</p>\n<p></p>\n<p><strong>Office Hour Schedule (EST)</strong></p>\n<p></p>\n<ul><li>Monday: Jeremy 9:00 p.m. - 10:00 p.m.</li><li>Tuesday: Tiancheng 9:00 p.m. - 10:00 p.m.</li><li>Thursday: Murali 7:00 p.m. - \u00a08:00 p.m.</li></ul>\n<ul><li>Saturday: Michael 2:00 p.m. - \u00a03:00 p.m.</li></ul>\n<p></p>\n<p>*Note [updated on 8/27]:</p>\n<p>This week Michael will hold his office hour on Friday\u00a0(9/1) 9-10 p.m. instead of Saturday.</p>\n<p></p>\n<p>#pin</p>", 
+      "anon": "no", 
+      "created": "2017-08-27T23:57:27Z", 
+      "uid": "hkjzzued3ef4xh", 
+      "subject": "Office Hour Schedule"
+    }, 
+    {
+      "content": "<p>We will use\u00a0<a href=\"http://slido.com/\" target=\"_blank\">slido.com</a>\u00a0for problem collection and YouTube livestream for office hour.</p>\n<p></p>\n<p>You can check the schedule, event code and link on this <a href=\"https://docs.google.com/spreadsheets/d/1j4H5XC8IPN2WoyNLCFihuCNJwdWUjm_cTZrw7B5mTVA/edit?usp=sharing\" target=\"_blank\">spreadsheet</a>.</p>\n<p></p>\n<p><strong>Office Hour Schedule (EST)</strong></p>\n<p></p>\n<ul><li>Monday: Jeremy 9:00 p.m. - 10:00 p.m.</li><li>Tuesday: Tiancheng 9:00 p.m. - 10:00 p.m.</li><li>Thursday: Murali 7:00 p.m. - \u00a08:00 p.m.</li></ul>\n<p></p>\n<ul></ul>\n<p></p>\n<ul><li>Saturday: Michael 2:00 p.m. - \u00a03:00 p.m.</li></ul>\n<p></p>\n<p>*Note [updated on 8/27]:</p>\n<p>This week Michael will hold his office hour on Friday\u00a0(9/1) 9-10 p.m. instead of Saturday.</p>\n<p></p>\n#pin", 
+      "anon": "no", 
+      "created": "2017-08-27T23:57:09Z", 
+      "uid": "hkjzzued3ef4xh", 
+      "subject": "Office Hour Schedule"
+    }, 
+    {
+      "content": "<p>We will use\u00a0<a href=\"http://slido.com/\" target=\"_blank\">slido.com</a>\u00a0for problem collection and YouTube livestream for office hour.</p>\n<p></p>\n<p>You can check the schedule, event code and link on this <a href=\"https://docs.google.com/spreadsheets/d/1j4H5XC8IPN2WoyNLCFihuCNJwdWUjm_cTZrw7B5mTVA/edit?usp=sharing\" target=\"_blank\">spreadsheet</a>.</p>\n<p></p>\n<p><strong>Office Hour Schedule (EST)</strong></p>\n<p></p>\n<ul><li>Monday: Jeremy 9:00 p.m. - 10:00 p.m.</li><li>Tuesday: Tiancheng 9:00 p.m. - 10:00 p.m.</li><li>Thursday: Murali 7:00 p.m. - \u00a08:00 p.m.</li></ul>\n<p></p>\n<ul></ul>\n<p></p>\n<ul><li>Saturday: Michael 2:00 p.m. - \u00a03:00 p.m.</li></ul>\n<p></p>\n<p>*Note [updated on 8/27]:</p>\n<p>This week Michael will hold his office hour on Friday\u00a0(9/1) 9-10 p.m. instead of Saturday.</p>\n<p></p>", 
+      "anon": "no", 
+      "created": "2017-08-27T23:57:03Z", 
+      "uid": "hkjzzued3ef4xh", 
+      "subject": "Office Hour Schedule"
+    }
+  ]
+}

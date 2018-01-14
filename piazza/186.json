@@ -1,0 +1,267 @@
+{
+  "status": "active", 
+  "unique_views": 278, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-04T23:20:47Z", 
+      "data": "j76shq02xz4fc", 
+      "uid": "hju4w9odatf30"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-04T23:21:05Z", 
+      "data": "j76si3xgx514nf", 
+      "uid": "hju4w9odatf30"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-04T23:21:17Z", 
+      "data": "j76sid84oop4qd", 
+      "uid": "hju4w9odatf30"
+    }, 
+    {
+      "to": "j76shq008ap4fb", 
+      "anon": "no", 
+      "when": "2017-09-04T23:45:15Z", 
+      "type": "followup", 
+      "uid": "isgwdf47kb42f"
+    }, 
+    {
+      "to": "j76shq008ap4fb", 
+      "anon": "no", 
+      "when": "2017-09-05T00:07:51Z", 
+      "type": "followup", 
+      "uid": "hvvxmpxfuyb2eo"
+    }, 
+    {
+      "to": "j76shq008ap4fb", 
+      "anon": "no", 
+      "when": "2017-09-05T00:59:28Z", 
+      "type": "followup", 
+      "uid": "i4j6wygy4l46wq"
+    }, 
+    {
+      "to": "j76shq008ap4fb", 
+      "anon": "no", 
+      "when": "2017-09-05T01:06:23Z", 
+      "type": "feedback", 
+      "uid": "hju4w9odatf30"
+    }, 
+    {
+      "to": "j76shq008ap4fb", 
+      "anon": "no", 
+      "when": "2017-09-05T01:44:10Z", 
+      "type": "feedback", 
+      "uid": "i4j6wygy4l46wq"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-05T03:20:36Z", 
+      "data": "j77124fwzja112", 
+      "uid": "hkjzzued3ef4xh"
+    }, 
+    {
+      "to": "j76shq008ap4fb", 
+      "anon": "no", 
+      "when": "2017-09-05T20:40:19Z", 
+      "type": "feedback", 
+      "uid": "hz2wlft5i565vr"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-10T19:59:07Z", 
+      "data": "j8m1522lhgz3cf", 
+      "uid": "gy4twfv45cg5o6"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j76shq008ap4fb", 
+  "bookmarked": 7, 
+  "tags": [
+    "course", 
+    "instructor-note", 
+    "logistics"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-09-04T23:45:15Z", 
+      "no_upvotes": 0, 
+      "uid": "isgwdf47kb42f", 
+      "created": "2017-09-04T23:45:15Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j76td77i70pwt", 
+      "anon": "no", 
+      "bucket_name": "Week 9/3 - 9/9", 
+      "config": {}, 
+      "bucket_order": 10, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-05T20:40:19Z", 
+          "uid": "hz2wlft5i565vr", 
+          "created": "2017-09-05T20:40:19Z", 
+          "type": "feedback", 
+          "id": "j78277f88u24pa", 
+          "anon": "no", 
+          "bucket_name": "Week 9/3 - 9/9", 
+          "config": {}, 
+          "bucket_order": 10, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Google form?</p>\n<p></p>\n<p>Might have to sift through some not so great feedback to get to any valuable feedback, but you&#39;d have to do that anyway even in a spreadsheet</p>"
+        }
+      ], 
+      "subject": "<p>Also, if you have feedback on what we can do better or how we can improve the effectiveness of office hours, please let us know. I believe most of us are new to online-based instruction and are still learning the logistics of it along with you. (There is a column for feedback on the spreadsheet though I&#39;m not sure that&#39;s the most effective way for collecting that feedback?)</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-05T00:07:51Z", 
+      "no_upvotes": 0, 
+      "uid": "hvvxmpxfuyb2eo", 
+      "created": "2017-09-05T00:07:51Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j76u69dvcid3w4", 
+      "anon": "no", 
+      "bucket_name": "Week 9/3 - 9/9", 
+      "config": {}, 
+      "bucket_order": 10, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "Thanks TAs and prof for being super active. Just few comments: This is my last course. Usually I have seen office hours questions being posted in Piazza and studenrs/TAs will update when that question was answered in the video. I have seen this to be very effective to view only interesting questions. Also I am not able to view questions asked in prior office hours when I go to slido with respective event IDs. may be I am facing some issue? or is everyone facing this?"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-05T00:59:28Z", 
+      "no_upvotes": 0, 
+      "uid": "i4j6wygy4l46wq", 
+      "created": "2017-09-05T00:59:28Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j76w0mgj2jb7kj", 
+      "anon": "no", 
+      "bucket_name": "Week 9/3 - 9/9", 
+      "config": {}, 
+      "bucket_order": 10, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-05T01:06:23Z", 
+          "uid": "hju4w9odatf30", 
+          "created": "2017-09-05T01:06:23Z", 
+          "type": "feedback", 
+          "id": "j76w9j61vtr4ly", 
+          "anon": "no", 
+          "bucket_name": "Week 9/3 - 9/9", 
+          "config": {}, 
+          "bucket_order": 10, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#64;188</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-05T01:44:10Z", 
+          "uid": "i4j6wygy4l46wq", 
+          "created": "2017-09-05T01:44:10Z", 
+          "type": "feedback", 
+          "id": "j76xm4apbxo6nq", 
+          "anon": "no", 
+          "bucket_name": "Week 9/3 - 9/9", 
+          "config": {}, 
+          "bucket_order": 10, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thank you Murali!</p>"
+        }
+      ], 
+      "subject": "<p>Are there no office hours tonight due to the holiday?</p>"
+    }
+  ], 
+  "nr": 186, 
+  "bucket_order": 2, 
+  "type": "note", 
+  "folders": [
+    "logistics", 
+    "course"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-09-04T23:20:47Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145281802, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<strong>The following will be the regular office hour schedule every week.</strong>\n \n<ul><li>Monday: Jeremy 9:00 p.m. - 10:00 p.m.</li><li>Tuesday: Tiancheng 9:00 p.m. - 10:00 p.m.</li><li>Thursday: Murali 7:00 p.m. -  8:00 p.m.</li></ul>\n<ul><li>Saturday: Michael 2:00 p.m. -  3:00 p.m.</li></ul>\n\nYou can check the schedule, event code and link on this <strong><a href=\"https://docs.google.com/spreadsheets/d/1j4H5XC8IPN2WoyNLCFihuCNJwdWUjm_cTZrw7B5mTVA/edit?usp=sharing\" target=\"_blank\">spreadsheet</a>.</strong> We will also be posting the main topics/questions discussed during the respective office hours on the spreadsheet. This should help you find the relevant office hours quickly.\n\nThank you!", 
+      "anon": "no", 
+      "created": "2017-10-10T19:59:07Z", 
+      "uid": "gy4twfv45cg5o6", 
+      "subject": "Reminder: Office Hours Schedule"
+    }, 
+    {
+      "content": "<p></p>\n<div>\n<p><strong>The following will be the regular office hour schedule every week.</strong></p>\n<p>\u00a0</p>\n<ul><li>Monday: Jeremy 9:00 p.m. - 10:00 p.m.</li><li>Tuesday: Tiancheng 9:00 p.m. - 10:00 p.m.</li><li>Thursday: Murali 7:00 p.m. - \u00a08:00 p.m.</li></ul>\n<ul><li>Saturday: Michael 2:00 p.m. - \u00a03:00 p.m.</li></ul>\n<p></p>\n<p>You can check the schedule, event code and link on this\u00a0<strong><a href=\"https://docs.google.com/spreadsheets/d/1j4H5XC8IPN2WoyNLCFihuCNJwdWUjm_cTZrw7B5mTVA/edit?usp=sharing\" target=\"_blank\">spreadsheet</a>.</strong> We will also be posting the main topics/questions discussed during the respective office hours on the spreadsheet. This should help you find the relevant office hours quickly.</p>\n<p></p>\n<p>Thank you!</p>\n</div>\n#pin", 
+      "anon": "no", 
+      "created": "2017-09-05T03:20:36Z", 
+      "uid": "hkjzzued3ef4xh", 
+      "subject": "Reminder: Office Hours Schedule"
+    }, 
+    {
+      "content": "<p></p>\n<div>\n<p><strong>The following will be the regular office hour schedule every week.</strong></p>\n<p>\u00a0</p>\n<ul><li>Monday: Jeremy 9:00 p.m. - 10:00 p.m.</li><li>Tuesday: Tiancheng 9:00 p.m. - 10:00 p.m.</li><li>Thursday: Murali 7:00 p.m. - \u00a08:00 p.m.</li></ul>\n<ul><li>Saturday: Michael 2:00 p.m. - \u00a03:00 p.m.</li></ul>\n<p></p>\n<p>You can check the schedule, event code and link on this\u00a0<strong><a href=\"https://docs.google.com/spreadsheets/d/1j4H5XC8IPN2WoyNLCFihuCNJwdWUjm_cTZrw7B5mTVA/edit?usp=sharing\" target=\"_blank\">spreadsheet</a>.</strong> We will also be posting the main topics/questions discussed during the respective office hours on the spreadsheet. This should help you find the relevant office hours quickly.</p>\n<p></p>\n<p>Thank you!</p>\n</div>", 
+      "anon": "no", 
+      "created": "2017-09-04T23:21:17Z", 
+      "uid": "hju4w9odatf30", 
+      "subject": "Reminder: Office Hours Schedule"
+    }, 
+    {
+      "content": "<p></p>\n<div>\n<p><strong>The following will be the regular office hour schedule every week.</strong></p>\n<p>\u00a0</p>\n<ul><li>Monday: Jeremy 9:00 p.m. - 10:00 p.m.</li><li>Tuesday: Tiancheng 9:00 p.m. - 10:00 p.m.</li><li>Thursday: Murali 7:00 p.m. - \u00a08:00 p.m.</li></ul>\n<ul><li>Saturday: Michael 2:00 p.m. - \u00a03:00 p.m.</li></ul>\n<p>You can check the schedule, event code and link on this\u00a0<strong><a href=\"https://docs.google.com/spreadsheets/d/1j4H5XC8IPN2WoyNLCFihuCNJwdWUjm_cTZrw7B5mTVA/edit?usp=sharing\" target=\"_blank\">spreadsheet</a>.</strong> We will also be posting the main topics/questions discussed during the respective office hours on the spreadsheet. This should help you find the relevant office hours quickly.</p>\n<p></p>\n<p>Thank you!</p>\n</div>", 
+      "anon": "no", 
+      "created": "2017-09-04T23:21:05Z", 
+      "uid": "hju4w9odatf30", 
+      "subject": "Reminder: Office Hours Schedule"
+    }, 
+    {
+      "content": "<p></p><h1>Reminder: Office Hour Schedule (EST)</h1>\n<div>\n<p><strong>The following will be the regular office hour schedule every week.</strong></p>\n<p>\u00a0</p>\n<ul><li>Monday: Jeremy 9:00 p.m. - 10:00 p.m.</li><li>Tuesday: Tiancheng 9:00 p.m. - 10:00 p.m.</li><li>Thursday: Murali 7:00 p.m. - \u00a08:00 p.m.</li></ul>\n<ul><li>Saturday: Michael 2:00 p.m. - \u00a03:00 p.m.</li></ul>\n<p>You can check the schedule, event code and link on this\u00a0<strong><a href=\"https://docs.google.com/spreadsheets/d/1j4H5XC8IPN2WoyNLCFihuCNJwdWUjm_cTZrw7B5mTVA/edit?usp=sharing\" target=\"_blank\">spreadsheet</a>.</strong> We will also be posting the main topics/questions discussed during the respective office hours on the spreadsheet. This should help you find the relevant office hours quickly.</p>\n<p></p>\n<p>Thank you!</p>\n</div>", 
+      "anon": "no", 
+      "created": "2017-09-04T23:20:47Z", 
+      "uid": "hju4w9odatf30", 
+      "subject": "Reminder: Office Hours Schedule"
+    }
+  ]
+}

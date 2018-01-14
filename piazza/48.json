@@ -1,0 +1,282 @@
+{
+  "status": "active", 
+  "unique_views": 197, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-08-23T06:03:33Z", 
+      "data": "j6om5lroiqu4y6", 
+      "uid": "ij7kfkx61zz365"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-08-23T06:03:56Z", 
+      "data": "j6om63xpot45hi", 
+      "uid": "ij7kfkx61zz365"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-08-23T06:04:37Z", 
+      "data": "j6om6zpmkpa5tg", 
+      "uid": "ij7kfkx61zz365"
+    }, 
+    {
+      "to": "j6om5lrmo0t4y5", 
+      "anon": "no", 
+      "when": "2017-08-23T08:05:01Z", 
+      "type": "followup", 
+      "uid": "hqa65fnalg83fr"
+    }, 
+    {
+      "uid": "gns9oa0pgsO", 
+      "type": "i_answer", 
+      "when": "2017-08-23T11:57:30Z", 
+      "to": "j6om5lrmo0t4y5", 
+      "anon": "no", 
+      "data": "j6oysscap5e32x"
+    }, 
+    {
+      "to": "j6om5lrmo0t4y5", 
+      "anon": "no", 
+      "when": "2017-08-23T14:01:09Z", 
+      "type": "feedback", 
+      "uid": "hv5exp71kfz754"
+    }, 
+    {
+      "to": "j6om5lrmo0t4y5", 
+      "anon": "no", 
+      "when": "2017-08-23T14:43:53Z", 
+      "type": "feedback", 
+      "uid": "i18w67avy8e1uk"
+    }, 
+    {
+      "to": "j6om5lrmo0t4y5", 
+      "anon": "no", 
+      "when": "2017-08-23T15:34:20Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j6om5lrmo0t4y5", 
+      "anon": "no", 
+      "when": "2017-08-24T01:35:30Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j6om5lrmo0t4y5", 
+  "bookmarked": 7, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-08-23T08:05:01Z", 
+      "no_upvotes": 0, 
+      "uid": "hqa65fnalg83fr", 
+      "created": "2017-08-23T08:05:01Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6oqhtmrmhs2km", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-08-23T14:01:09Z", 
+          "uid": "hv5exp71kfz754", 
+          "created": "2017-08-23T14:01:09Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j6p37t9ltjx1y", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I agree it&#39;s non-intuitive. \u00a0I&#39;m not sure it&#39;s something I should have seen or concluded in working toward the answer.</p>\n<p></p>\n<p>Personally, I was not able to come up with observation about S(i-1) being negative while formulating an answer. \u00a0I only saw it after writing the formula down.</p>\n<p></p>\n<p>I was only able to fully work through it thinking of two options for $$a_i$$.</p>\n<p>1. It is added to the previous value : $$a_i$$ &#43; S(i-1).</p>\n<p>2. It is used by itself - in this case : [ $$a_i$$ ] \u00a0or [ $$a_i$$ &#43; 0 ]</p>\n<p></p>\n<p>Then, after looking at the the max { 0, S(i-1) }, I could see it was really the same as checking if S(i-1) was negative.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-23T14:43:53Z", 
+          "uid": "i18w67avy8e1uk", 
+          "created": "2017-08-23T14:43:53Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j6p4qrkn4e25v9", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I agree it is not obvious. I only considered the first case - add to the previous one and missed the second case, which lead to 0 for substring. It seems like\u00a0the non-negative check is a bonus that came with adding\u00a0$$a_i$$ by itself.</p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-23T15:34:20Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-08-23T15:34:20Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j6p6jnbn9re22v", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p></p>\n<p>Regarding the original question, I think it depends on how you define the problem. \u00a0For example, if all of the numbers are negative should you return a negative number as the answer or 0 as the answer corresponding to the empty string. \u00a0I agree with you that it should be 0. \u00a0That is why in my solution in the videos (I think?) I put the base case as T(0) = 0. \u00a0Then when I output the solution I do a max over i of T(i). \u00a0Assuming i ranges from 0 to n, which is what I intended but should&#39;ve specified (which is the point of asking for pseudocode) then it would output 0 in this example of all negative numbers.</p>\n<p></p>\n<p>As for the recurrence, you guys are absolutely right that you can simply check whether S(i-1)&lt;0 or not for the 2 cases. \u00a0But I prefer to think of it as the best of the two, since that seems to me like a more robust way of obtaining the recurrence, more likely to be useful to other problems.</p>\n<p></p>\n<p>--Eric</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-24T01:35:30Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-08-24T01:35:30Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j6ps0qzf3op1ao", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Before I did the problem, if I had been asked for the proper answer if all of the input numbers were negative, I would have said 0. However, I wasn&#39;t really thinking about that possibility, so I mistakenly used T(1) = ai as the base case.</p>"
+        }
+      ], 
+      "subject": "<p>Its a bit non-intutitive that\u00a0</p>\n<p></p>\n<p>S(i) = ai \u00a0&#43; max { 0, S(i-1) }</p>\n<p></p>\n<p>Because its saying that S(i-1) is only ignored if negative. I suppose a key implicit observation here is that unless S(i-1) is negative it should be continued rather than starting over.</p>"
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-08-23T11:57:30Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "i8597qyse9c1v2"
+      ], 
+      "id": "j6oyssc8tef32w", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Pedro Henrique Rocha Moy", 
+          "admin": false, 
+          "photo": "1452626521_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i8597qyse9c1v2"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>It would depend on whether the empty string (the only non-negative component)\u00a0was allowed as a viable substring of the string.\u00a0 If that were the case then you could modify the output to be\u00a0max{ 0, max_over_i (s(i)) }</p>", 
+          "anon": "no", 
+          "created": "2017-08-23T11:57:30Z", 
+          "uid": "gns9oa0pgsO", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 48, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "dynamic_programming", 
+    "dp-solutions"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "dp-solutions", 
+    "dynamic_programming", 
+    "student"
+  ], 
+  "created": "2017-08-23T06:03:33Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145323300, 
+  "tag_good": [
+    {
+      "name": "Pedro Henrique Rocha Moy", 
+      "admin": false, 
+      "photo": "1452626521_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i8597qyse9c1v2"
+    }, 
+    {
+      "name": "Grady Johnson", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "iej41k6jtiz3dc"
+    }
+  ], 
+  "tag_good_arr": [
+    "i8597qyse9c1v2", 
+    "iej41k6jtiz3dc"
+  ], 
+  "history": [
+    {
+      "content": "<p>My solution differed in one way from the solution shown in the lecture.</p>\n<p></p>\n<p>The problem specifies that a substring of length 0 has a sum of 0. Therefore, if 0 is greater\u00a0than the best sum from your array of sums, I thought you should return 0. For example, if all the numbers in the input array are negative and the largest is -1, than your best sum in your array of sums is -1 and a 0 length substring with sum 0 is better. In that case, I would have thought you should return 0 rather than -1...</p>\n<p></p>\n<p>Thoughts?</p>", 
+      "anon": "no", 
+      "created": "2017-08-23T06:04:37Z", 
+      "uid": "ij7kfkx61zz365", 
+      "subject": "Lecture Problem 6.1 contig. subseq."
+    }, 
+    {
+      "content": "<p>My solution differed in one way from the solution shown in the lecture.</p>\n<p></p>\n<p>The problem specifies that a substring of length 0 has a sum of 0. Therefore, if 0 is greater\u00a0than the best sum from your array of sums, I would have though you should return 0. For example, if all the numbers in the input array are negative and the largest is -1, than your best sum in your array of sums is -1 and a 0 length substring with sum 0 is better. In that case, I would have thought you should return 0 rather than -1...</p>\n<p></p>\n<p>Thoughts?</p>", 
+      "anon": "no", 
+      "created": "2017-08-23T06:03:56Z", 
+      "uid": "ij7kfkx61zz365", 
+      "subject": "Lecture Problem 6.1 contig. subseq."
+    }, 
+    {
+      "content": "<p>My solution differed in one way from the solution shown in the lecture.</p>\n<p></p>\n<p>The problem specifies that a substring of length 0 has a sum of 0. Therefore, if 0 is greater\u00a0than the best sum from your array of sums, I would have though you should return 0. For example, if all the numbers in the input array are negative and the largest is -1, than your best sum in your array of sums is -1 and a 0 length substring with sum 0 is better. In that case, I would have thought you should return 0 rather than -1...</p>\n<p></p>\n<p>Thoughts?</p>", 
+      "anon": "no", 
+      "created": "2017-08-23T06:03:33Z", 
+      "uid": "ij7kfkx61zz365", 
+      "subject": "Lecture Problem 6.1"
+    }
+  ]
+}

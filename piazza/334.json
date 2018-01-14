@@ -1,0 +1,284 @@
+{
+  "status": "active", 
+  "unique_views": 216, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-17T22:42:51Z", 
+      "data": "j7pbv0mulsz5", 
+      "uid": "ijawwe19w053cm"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-17T22:45:45Z", 
+      "data": "j7pbyr4says3la", 
+      "uid": "ijawwe19w053cm"
+    }, 
+    {
+      "uid": "gns9oa0pgsO", 
+      "type": "i_answer", 
+      "when": "2017-09-17T22:49:14Z", 
+      "to": "j7pbv0mqrhuz4", 
+      "anon": "no", 
+      "data": "j7pc383hiwk1s1"
+    }, 
+    {
+      "type": "i_answer_update", 
+      "anon": "no", 
+      "when": "2017-09-17T23:04:19Z", 
+      "data": "j7pcmm9xhul39s", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-17T23:04:32Z", 
+      "data": "j7pcmwgk8y33g8", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "type": "i_answer_update", 
+      "anon": "no", 
+      "when": "2017-09-17T23:04:46Z", 
+      "data": "j7pcn76jjf03ls", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j7pbv0mqrhuz4", 
+      "anon": "no", 
+      "when": "2017-09-18T00:19:06Z", 
+      "type": "followup", 
+      "uid": "ijawwe19w053cm"
+    }, 
+    {
+      "to": "j7pbv0mqrhuz4", 
+      "anon": "no", 
+      "when": "2017-09-18T01:06:23Z", 
+      "type": "feedback", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j7pbv0mqrhuz4", 
+      "anon": "no", 
+      "when": "2017-09-18T07:07:29Z", 
+      "type": "feedback", 
+      "uid": "ijawwe19w053cm"
+    }, 
+    {
+      "to": "j7pbv0mqrhuz4", 
+      "anon": "no", 
+      "when": "2017-09-18T15:54:02Z", 
+      "type": "feedback", 
+      "uid": "hz0jkj9dnctqp"
+    }, 
+    {
+      "to": "j7pbv0mqrhuz4", 
+      "anon": "no", 
+      "when": "2017-10-02T02:26:16Z", 
+      "type": "feedback", 
+      "uid": "i4ps9nqsv397k6"
+    }, 
+    {
+      "type": "update", 
+      "anon": "stud", 
+      "when": "2017-10-04T06:34:58Z", 
+      "data": "j8cnrsfghj86p3"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j7pbv0mqrhuz4", 
+  "bookmarked": 7, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-17T22:49:14Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j7pc383ckxy1s0", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>for the filter&#39;s array implementation, using a regular python list of integers\u00a0is fine - not optimal of course, but fine.\u00a0 you can also use a bit-masking regime\u00a0(idx div 32 / idx mod 32)\u00a0with the integer list, if you so desire, to minimize space concerns.\u00a0</p>\n<p></p>\n<p>please do not use any other libraries.</p>\n<p></p>\n<p>edit : also, please use the project folder/tag for any questions regarding the bloom filter project.\u00a0 i modified your post to include that tag :).</p>", 
+          "anon": "no", 
+          "created": "2017-09-17T23:04:46Z", 
+          "uid": "gns9oa0pgsO", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>for the filter&#39;s array implementation, using a regular python list of integers\u00a0is fine - not optimal of course, but fine.\u00a0 you can also use a bit-masking regime\u00a0(idx div 32 / idx mod 32)\u00a0with the integer list, if you so desire, to minimize space concerns.\u00a0</p>\n<p></p>\n<p>please do not use any other libraries.</p>\n<p></p>\n<p>edit : also, please use the project folder/tag for any questions regarding the bloom filter project.</p>", 
+          "anon": "no", 
+          "created": "2017-09-17T23:04:19Z", 
+          "uid": "gns9oa0pgsO", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>for the filter&#39;s array implementation, using a regular python list of integers\u00a0is fine - not optimal of course, but fine.\u00a0 you can also use a bit-masking regime\u00a0(idx div 32 / idx mod 32)\u00a0with the integer list, if you so desire, to minimize space concerns.\u00a0</p>\n<p></p>\n<p>please do not use any other libraries.</p>", 
+          "anon": "no", 
+          "created": "2017-09-17T22:49:14Z", 
+          "uid": "gns9oa0pgsO", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-18T00:19:06Z", 
+      "no_upvotes": 0, 
+      "uid": "ijawwe19w053cm", 
+      "created": "2017-09-18T00:19:06Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7pfasqh8zt18", 
+      "anon": "no", 
+      "bucket_name": "Week 9/17 - 9/23", 
+      "config": {}, 
+      "bucket_order": 7, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-18T01:06:23Z", 
+          "uid": "gns9oa0pgsO", 
+          "created": "2017-09-18T01:06:23Z", 
+          "type": "feedback", 
+          "id": "j7pgzljfy4i65z", 
+          "anon": "no", 
+          "bucket_name": "Week 9/17 - 9/23", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>the details of your implementation are up to you, so long as the hash functions follow the specifications listed in the assignment and the bloom filter acts the way it is expected to act.\u00a0 <br /><br />that being said, make sure you don&#39;t include other libraries.\u00a0 when this is graded, there&#39;s no guarantee that these additional libraries will be available to the autograder, and if the code doesn&#39;t execute in the autograder\u00a0via the command line specified in the assignment, the coding portion of the assignment will get\u00a0no\u00a0credit.\u00a0<br /><br /><br /><br /><br /></p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-18T07:07:29Z", 
+          "uid": "ijawwe19w053cm", 
+          "created": "2017-09-18T07:07:29Z", 
+          "type": "feedback", 
+          "id": "j7ptvyyjiir4jb", 
+          "anon": "no", 
+          "bucket_name": "Week 9/17 - 9/23", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>thanks!</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-18T15:54:02Z", 
+          "uid": "hz0jkj9dnctqp", 
+          "created": "2017-09-18T15:54:02Z", 
+          "type": "feedback", 
+          "id": "j7qcp4bw1ju4z8", 
+          "anon": "no", 
+          "bucket_name": "Week 9/17 - 9/23", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>So, no numpy.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-02T02:26:16Z", 
+          "uid": "i4ps9nqsv397k6", 
+          "created": "2017-10-02T02:26:16Z", 
+          "type": "feedback", 
+          "id": "j89k08zbva04x1", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I feel like it&#39;s rather unfortunate that numpy was not included as a valid import.\u00a0 Perhaps there was fear that there were some arcane numpy library that would make this too easy, but something like np.zeros and then the ability to use base underlying numpy functionality\u00a0removes the slowness of using for loops.\u00a0 In some ways it&#39;s actually a step back from other classes that tend to penalize you if you use for loops instead of native numpy and list comprehensions.</p>"
+        }
+      ], 
+      "subject": "<p>Thanks. can I use np array?</p>"
+    }
+  ], 
+  "nr": 334, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "project", 
+    "course"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 2, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "course", 
+    "project", 
+    "student"
+  ], 
+  "created": "2017-09-17T22:42:51Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145237337, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>I was wondering can we import the bitarray library for the implementation of bloom filter?</p>\n<p></p>\n<p>It seems like the proper way to implement the bloom filter&#39;s bit array is to use np.zeros() and set it to np.bool. But I have tried it and found it is kinda slow. The bitarray is actually faster and consumes less space than using numpy or python native list. But I am not sure whether machine used for grading supports bitarray or not.</p>\n<p></p>\n<p>Thanks.</p>", 
+      "anon": "stud", 
+      "created": "2017-10-04T06:34:58Z", 
+      "subject": "use bitarray to get for bloom filter project"
+    }, 
+    {
+      "content": "<p>I was wondering can we import the bitarray library for the implementation of bloom filter?</p>\n<p></p>\n<p>It seems like the proper way to implement the bloom filter&#39;s bit array is to use np.zeros() and set it to np.bool. But I have tried it and found it is kinda slow. The bitarray is actually faster and consumes less space than using numpy or python native list. But I am not sure whether machine used for grading supports bitarray or not.</p>\n<p></p>\n<p>Thanks.</p>", 
+      "anon": "no", 
+      "created": "2017-09-17T23:04:32Z", 
+      "uid": "gns9oa0pgsO", 
+      "subject": "use bitarray to get for bloom filter project"
+    }, 
+    {
+      "content": "<p>I was wondering can we import the bitarray library for the implementation of bloom filter?</p>\n<p></p>\n<p>It seems like the proper way to implement the bloom filter&#39;s bit array is to use np.zeros() and set it to np.bool. But I have tried it and found it is kinda slow. The bitarray is actually faster and consumes less space than using numpy or python native list. But I am not sure whether machine used for grading supports bitarray or not.</p>\n<p></p>\n<p>Thanks.</p>", 
+      "anon": "no", 
+      "created": "2017-09-17T22:45:45Z", 
+      "uid": "ijawwe19w053cm", 
+      "subject": "use bitarray to get for bloom filter project"
+    }, 
+    {
+      "content": "<p>I was wondering can we import the bitarray library for the implementation of bloom filter?</p>\n<p></p>\n<p>It seems like the proper way to implement the bloom filter&#39;s bit array is to use np.zeros() and set it to np.bool. But I have tried it and found it is kinda slow. The bitarray is actually faster than using numpy or python native list. But I am not sure whether machine used for grading supports bitarray or not.</p>\n<p></p>\n<p>Thanks.</p>", 
+      "anon": "no", 
+      "created": "2017-09-17T22:42:51Z", 
+      "uid": "ijawwe19w053cm", 
+      "subject": "use bitarray to get for bloom filter project"
+    }
+  ]
+}

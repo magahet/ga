@@ -1,0 +1,465 @@
+{
+  "status": "active", 
+  "unique_views": 212, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-08-28T13:41:45Z", 
+      "data": "j6w7q4hdp331yg", 
+      "uid": "hz203w8gcn7648"
+    }, 
+    {
+      "to": "j6w7q4hckj31yf", 
+      "anon": "stud", 
+      "when": "2017-08-28T13:52:40Z", 
+      "type": "followup"
+    }, 
+    {
+      "uid": "hkjzzued3ef4xh", 
+      "type": "i_answer", 
+      "when": "2017-08-28T14:04:46Z", 
+      "to": "j6w7q4hckj31yf", 
+      "anon": "no", 
+      "data": "j6w8jpvodqu5tt"
+    }, 
+    {
+      "to": "j6w7q4hckj31yf", 
+      "anon": "no", 
+      "when": "2017-08-28T18:22:43Z", 
+      "type": "followup", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j6w7q4hckj31yf", 
+      "anon": "no", 
+      "when": "2017-08-29T11:31:48Z", 
+      "type": "followup", 
+      "uid": "idgjs16yZ4K"
+    }, 
+    {
+      "to": "j6w7q4hckj31yf", 
+      "anon": "no", 
+      "when": "2017-08-30T03:41:21Z", 
+      "type": "followup", 
+      "uid": "hz46706oA2e"
+    }, 
+    {
+      "to": "j6w7q4hckj31yf", 
+      "anon": "no", 
+      "when": "2017-08-30T14:20:47Z", 
+      "type": "feedback", 
+      "uid": "i18w67avy8e1uk"
+    }, 
+    {
+      "to": "j6w7q4hckj31yf", 
+      "anon": "no", 
+      "when": "2017-08-30T15:50:14Z", 
+      "type": "feedback", 
+      "uid": "hyzyc8nwswo6z5"
+    }, 
+    {
+      "to": "j6w7q4hckj31yf", 
+      "anon": "no", 
+      "when": "2017-08-31T00:39:35Z", 
+      "type": "feedback", 
+      "uid": "hz46706oA2e"
+    }, 
+    {
+      "to": "j6w7q4hckj31yf", 
+      "anon": "no", 
+      "when": "2017-08-31T00:40:16Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j6w7q4hckj31yf", 
+      "anon": "no", 
+      "when": "2017-08-31T00:41:14Z", 
+      "type": "feedback", 
+      "uid": "hkjzzued3ef4xh"
+    }, 
+    {
+      "to": "j6w7q4hckj31yf", 
+      "anon": "no", 
+      "when": "2017-08-31T01:09:01Z", 
+      "type": "feedback", 
+      "uid": "hv8z1thijfq6ns"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j6w7q4hckj31yf", 
+  "bookmarked": 10, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-08-28T13:52:40Z", 
+      "no_upvotes": 0, 
+      "created": "2017-08-28T13:52:40Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6w845ys5hu62b", 
+      "anon": "stud", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "I agree. It took me about an hour and half to solve one problem last night. It took five minutes to come up with the recurrence relation, then another hour and twenty five minutes convincing myself it was correct."
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-08-28T14:04:46Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "hz203w8gcn7648", 
+        "i18w67avy8e1uk", 
+        "i4mub6lmaxh", 
+        "iddoy33j6hv2tz", 
+        "hyzyc8nwswo6z5"
+      ], 
+      "id": "j6w8jpvm86e5ts", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Donald Hickey", 
+          "admin": false, 
+          "photo": "1481979575_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hz203w8gcn7648"
+        }, 
+        {
+          "name": "Shihgian Lee", 
+          "admin": false, 
+          "photo": "1420394909_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i18w67avy8e1uk"
+        }, 
+        {
+          "name": "Pico Geyer", 
+          "admin": false, 
+          "photo": "1434355342_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i4mub6lmaxh"
+        }, 
+        {
+          "name": "Parag Kalra", 
+          "admin": false, 
+          "photo": null, 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "iddoy33j6hv2tz"
+        }, 
+        {
+          "name": "Zack Gow", 
+          "admin": false, 
+          "photo": "1476241357_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hyzyc8nwswo6z5"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>For the homework and test level, usually you are expected to solve a DP problem in 20 minutes including writing (using pen not latex)\u00a0the solution (define table, define recurrence, pseudo code, complexity analysis).</p>\n<p></p>\n<p>So\u00a0it would be good if you design\u00a0the correct\u00a0algorithm in your mind in the first 5 min, and then write it in 10 min. The remaining 5 min\u00a0is buffer time which can be used to design/write/review the solution.</p>\n<p></p>\n<p>If you are looking for being expert on DP, you can try to solve these problem in 10 min. But keep in mind that correctness is more important than the speed.</p>\n<p></p>\n<p>Good luck!</p>", 
+          "anon": "no", 
+          "created": "2017-08-28T14:04:46Z", 
+          "uid": "hkjzzued3ef4xh", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-28T18:22:43Z", 
+      "no_upvotes": 0, 
+      "uid": "i4nkipeofrkrz", 
+      "created": "2017-08-28T18:22:43Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6whrg37o9m6gd", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>Getting down to 20 minutes will definitively be challenging... at least for me. I&#39;m currently solving some of the problems well under that, but most of them easily take me past the hour.</p>\n<p></p>\n<p>I guess I&#39;ll keep practicing.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-29T11:31:48Z", 
+      "no_upvotes": 0, 
+      "uid": "idgjs16yZ4K", 
+      "created": "2017-08-29T11:31:48Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6xiiux6cfh38t", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "Great question. I feel like this is taking me a long time too. My approach to mitigate this is I am trying to find beaucoup practice problems and solve as many as I can. See &#64;95 with links to practice DP problems outside of DPV."
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-30T03:41:21Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "hz46706oA2e", 
+      "created": "2017-08-30T03:41:21Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6yh5pb3q9146q", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-08-30T14:20:47Z", 
+          "uid": "i18w67avy8e1uk", 
+          "created": "2017-08-30T14:20:47Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j6z400f1phu12b", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I think\u00a0many of us are in the same boat.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-30T15:50:14Z", 
+          "uid": "hyzyc8nwswo6z5", 
+          "created": "2017-08-30T15:50:14Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j6z771r5r1k691", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I&#39;ve solved a quite a few without &#34;peeking&#34;, but I&#39;m stubborn -- some of the problems (such as max product on the HW) have taken me more than 5-6 hours to complete.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-31T00:39:35Z", 
+          "uid": "hz46706oA2e", 
+          "created": "2017-08-31T00:39:35Z", 
+          "type": "feedback", 
+          "id": "j6zq3t2u8xm69z", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Whew - finally cracked one. Yep, 6 hours is about right!</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-31T00:40:16Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-08-31T00:40:16Z", 
+          "type": "feedback", 
+          "id": "j6zq4oq3fn042p", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Well, our only hope is that it gets better with practice!"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-31T00:41:14Z", 
+          "uid": "hkjzzued3ef4xh", 
+          "created": "2017-08-31T00:41:14Z", 
+          "type": "feedback", 
+          "id": "j6zq5wzkz14mb", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>It will. Don&#39;t worry. The 20 min expectation is not for the beginning. Most of you will reach it after some practice.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-31T01:09:01Z", 
+          "uid": "hv8z1thijfq6ns", 
+          "created": "2017-08-31T01:09:01Z", 
+          "type": "feedback", 
+          "id": "j6zr5nkm4k76k5", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I&#39;m glad I&#39;m not alone in this ha, a few hours for each for me at the moment. \u00a0I&#39;m finding how similar problems relate but some of the nuances of each (like extra constraints) throw me off.</p>\n<p></p>\n<p></p>"
+        }
+      ], 
+      "subject": "<p>20 minutes! - ugh - I can tell I&#39;m sunk on DP - I&#39;ve thought about these problems for hours and have yet to solve one without &#34;peeking&#34; at a solution...</p>"
+    }
+  ], 
+  "nr": 100, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "dynamic_programming"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 0, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "dynamic_programming", 
+    "student"
+  ], 
+  "created": "2017-08-28T13:41:45Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145305280, 
+  "tag_good": [
+    {
+      "name": "David Shinn", 
+      "admin": false, 
+      "photo": "1494851039_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4g1slpjbgk6g0"
+    }, 
+    {
+      "name": "Justin Hsu", 
+      "admin": false, 
+      "photo": "1424709212_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hgrznypri5h"
+    }, 
+    {
+      "name": "Dylan Dignan", 
+      "admin": false, 
+      "photo": "1503334101_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "ij7kflqnsgm3av"
+    }, 
+    {
+      "name": "Shihgian Lee", 
+      "admin": false, 
+      "photo": "1420394909_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i18w67avy8e1uk"
+    }, 
+    {
+      "name": "Jesse Peinado", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "iddoy2bdneb2tv"
+    }, 
+    {
+      "name": "Jonathan McMahon", 
+      "admin": false, 
+      "photo": "1498602698_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "idgjs16yZ4K"
+    }, 
+    {
+      "name": "Zack Gow", 
+      "admin": false, 
+      "photo": "1476241357_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hyzyc8nwswo6z5"
+    }
+  ], 
+  "tag_good_arr": [
+    "i4g1slpjbgk6g0", 
+    "hgrznypri5h", 
+    "ij7kflqnsgm3av", 
+    "i18w67avy8e1uk", 
+    "iddoy2bdneb2tv", 
+    "idgjs16yZ4K", 
+    "hyzyc8nwswo6z5"
+  ], 
+  "history": [
+    {
+      "content": "<p>Hi, as i am working the practice problems,,, and taking longer than i would like to on individual problems :),,, i wondered what amount of time we should target to solve a problem. This feels like a good data point to know to help realize when we have \u00a0reached a good proficiency level.</p>\n<p></p>\n<p>Appreciate any feedback on this, especially as we will see dynamic programming problems on tests.</p>\n<p></p>\n<p></p>", 
+      "anon": "no", 
+      "created": "2017-08-28T13:41:45Z", 
+      "uid": "hz203w8gcn7648", 
+      "subject": "Reasonable time to solve using Dynamic Programming"
+    }
+  ]
+}

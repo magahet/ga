@@ -1,0 +1,303 @@
+{
+  "status": "active", 
+  "unique_views": 202, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-21T20:38:47Z", 
+      "data": "j7ux6v7s1qk1p2", 
+      "uid": "hyvx0owj4ot1a0"
+    }, 
+    {
+      "to": "j7ux6v7pv6w1p1", 
+      "anon": "no", 
+      "when": "2017-09-21T21:02:59Z", 
+      "type": "followup", 
+      "uid": "hv5exp71kfz754"
+    }, 
+    {
+      "to": "j7ux6v7pv6w1p1", 
+      "anon": "no", 
+      "when": "2017-09-21T21:08:32Z", 
+      "type": "followup", 
+      "uid": "idi5567wFgu"
+    }, 
+    {
+      "to": "j7ux6v7pv6w1p1", 
+      "anon": "no", 
+      "when": "2017-09-21T21:12:56Z", 
+      "type": "feedback", 
+      "uid": "idi5567wFgu"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-21T21:15:59Z", 
+      "data": "j7uyipfm5xcju", 
+      "uid": "hyvx0owj4ot1a0"
+    }, 
+    {
+      "to": "j7ux6v7pv6w1p1", 
+      "anon": "no", 
+      "when": "2017-09-21T21:17:16Z", 
+      "type": "feedback", 
+      "uid": "hyvx0owj4ot1a0"
+    }, 
+    {
+      "to": "j7ux6v7pv6w1p1", 
+      "anon": "no", 
+      "when": "2017-09-21T21:18:23Z", 
+      "type": "feedback", 
+      "uid": "hyvx0owj4ot1a0"
+    }, 
+    {
+      "to": "j7ux6v7pv6w1p1", 
+      "anon": "no", 
+      "when": "2017-09-21T21:25:12Z", 
+      "type": "feedback", 
+      "uid": "idi5567wFgu"
+    }, 
+    {
+      "to": "j7ux6v7pv6w1p1", 
+      "anon": "no", 
+      "when": "2017-09-21T21:32:18Z", 
+      "type": "feedback", 
+      "uid": "hyvx0owj4ot1a0"
+    }, 
+    {
+      "to": "j7ux6v7pv6w1p1", 
+      "anon": "no", 
+      "when": "2017-09-21T21:32:31Z", 
+      "type": "feedback", 
+      "uid": "hv5exp71kfz754"
+    }, 
+    {
+      "uid": "i4j6wvmu7he6v1", 
+      "type": "s_answer", 
+      "when": "2017-09-21T22:46:03Z", 
+      "to": "j7ux6v7pv6w1p1", 
+      "anon": "no", 
+      "data": "j7v1qj4h9lx7fo"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j7ux6v7pv6w1p1", 
+  "bookmarked": 5, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-09-21T21:02:59Z", 
+      "no_upvotes": 0, 
+      "uid": "hv5exp71kfz754", 
+      "created": "2017-09-21T21:02:59Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7uy1zjlonj59j", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-21T21:17:16Z", 
+          "uid": "hyvx0owj4ot1a0", 
+          "created": "2017-09-21T21:17:16Z", 
+          "type": "feedback", 
+          "id": "j7uykdb985g1et", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>My bad, I goofed and mixed up the coefficients in my questions.\u00a0 I am actually trying to solve part (b) which is (1,0,1,-1).\u00a0 I&#39;ve edited my question.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-21T21:32:18Z", 
+          "uid": "hyvx0owj4ot1a0", 
+          "created": "2017-09-21T21:32:18Z", 
+          "type": "feedback", 
+          "id": "j7uz3optvut5fr", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Running your python code with (1,0,1,-1) seems to confirm that my answer, not the Googled solution, is correct.\u00a0 Thanks.</p>"
+        }
+      ], 
+      "subject": "<p>It should be [1,1,1,1] .\u00a0 Not sure how you&#39;re going about it but you only do the vector in 1 direction.\u00a0 You can also double check in python.</p>\n<p></p>\n<pre>import numpy as np\nz = np.array([1,0,0,0])\na = np.fft.fft(z)\nprint a</pre>\n<p></p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-21T21:08:32Z", 
+      "no_upvotes": 0, 
+      "uid": "idi5567wFgu", 
+      "created": "2017-09-21T21:08:32Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7uy94h9ses74t", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-21T21:12:56Z", 
+          "uid": "idi5567wFgu", 
+          "created": "2017-09-21T21:12:56Z", 
+          "type": "feedback", 
+          "id": "j7uyescgpug2rp", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I hope I am correct.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-21T21:18:23Z", 
+          "uid": "hyvx0owj4ot1a0", 
+          "created": "2017-09-21T21:18:23Z", 
+          "type": "feedback", 
+          "id": "j7uylshju6i5rk", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>That is what I got too, but I mistyped my question.\u00a0 I put the wrong coefficients in my question for part (b).</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-21T21:25:12Z", 
+          "uid": "idi5567wFgu", 
+          "created": "2017-09-21T21:25:12Z", 
+          "type": "feedback", 
+          "id": "j7uyukf1fc23qr", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Oh, ok. You just have to re-calculate similarly. I think you get (1,i,3, -i).</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-21T21:32:31Z", 
+          "uid": "hv5exp71kfz754", 
+          "created": "2017-09-21T21:32:31Z", 
+          "type": "feedback", 
+          "id": "j7uz3z2yw2y3lw", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>If the sign of i is different it may be in the direction the unit circle is traversed. \u00a0 I have seen different implementation swap them.... right or wrong.</p>"
+        }
+      ], 
+      "subject": "<p>It is of the form \u00a0A(x) = 1 &#43; 0*x &#43; 0*x^2 &#43; 0*x^3</p>\n<p></p>\n<p>So,</p>\n<p></p>\n<p>Aeven(1) = 1</p>\n<p>Aeven(-1) = 1</p>\n<p>Aodd(1) = 0</p>\n<p>Aodd(-1) = 0</p>\n<p>\u00a0</p>\n<p>So,</p>\n<p></p>\n<p>A(1) = 1&#43;0 = 1</p>\n<p>A(-1) = 1-0 = 1</p>\n<p>A(i) = 1&#43;0*i = 1</p>\n<p>A(-i) = 1-0*i = 1</p>\n<p></p>\n<p>So FFT is (1,1,1,1)</p>"
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-21T22:46:03Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j7v1qj4cv737fn", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>The convention seems to change depending on what field is implementing the FFT. \u00a0A lot of signal processing stuff that I have seen has the rotation around the circle in the clockwise direction and the IFFT in the counter-clockwise direction (-2pi). \u00a0Where CS stuff that I have seen (here and MIT), the FFT rotates counter-clockwise and the IFFT rotates clockwise. \u00a0The primary difference you will see with the 4th roots of unity is that the 1st and 3rd elements swap places. \u00a0I have worked problems both ways and the end answer comes out the same.</p>", 
+          "anon": "no", 
+          "created": "2017-09-21T22:46:03Z", 
+          "uid": "i4j6wvmu7he6v1", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 379, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw3"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 0, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw3", 
+    "student"
+  ], 
+  "created": "2017-09-21T20:38:47Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145222971, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>I am going back and reworking all the homework problems\u00a0again preparing for the test.\u00a0 I&#39;m reworking DPV problem 2.8(b) which asks for the FFT of (1, 0, 1, -1).\u00a0 I did the calculations and came up with (1, -i, 3, i).\u00a0 This is the same answer I came up with last week.\u00a0\u00a0I Googled the solution and the only one I could find says the answer is\u00a0(1,\u00a0i,\u00a03,\u00a0-i).\u00a0 I&#39;ve gone back over the problem multiple times and I don&#39;t think I&#39;ve made a mistake in my calculations so I&#39;m thinking the Googled solution is incorrect.\u00a0 Can someone confirm or lend some insight if I&#39;ve calculated it wrong?\u00a0 Thanks.</p>\n<p></p>\n<p>EDIT:\u00a0 Sorry, clarification... I&#39;m working on the (b) part and mistyped the coefficients.\u00a0 I&#39;ve corrected the post.\u00a0 Thank you for confirming the (1,1,1,1) was the answer to part (a) though.</p>", 
+      "anon": "no", 
+      "created": "2017-09-21T21:15:59Z", 
+      "uid": "hyvx0owj4ot1a0", 
+      "subject": "2.8(b) solution"
+    }, 
+    {
+      "content": "<p>I am going back and reworking all the homework problems\u00a0again preparing for the test.\u00a0 I&#39;m reworking DPV problem 2.8 which asks for the FFT of (1, 0, 0, 0).\u00a0 I did the calculations and came up with (1, -i, 3, i).\u00a0 This is the same answer I came up with last week.\u00a0\u00a0I Googled the solution and the only one I could find says the answer is\u00a0(1,\u00a0i,\u00a03,\u00a0-i).\u00a0 I&#39;ve gone back over the problem multiple times and I don&#39;t think I&#39;ve made a mistake in my calculations so I&#39;m thinking the Googled solution is incorrect.\u00a0 Can someone confirm or lend some insight if I&#39;ve calculated it wrong?\u00a0 Thanks.</p>", 
+      "anon": "no", 
+      "created": "2017-09-21T20:38:47Z", 
+      "uid": "hyvx0owj4ot1a0", 
+      "subject": "2.8 solution"
+    }
+  ]
+}

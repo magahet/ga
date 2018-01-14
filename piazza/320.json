@@ -1,0 +1,291 @@
+{
+  "status": "active", 
+  "unique_views": 306, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-16T11:28:13Z", 
+      "data": "j7n8bkqoe5k18i", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-16T11:28:55Z", 
+      "data": "j7n8cgyh7tq1tp", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j7n8bkqmb3318h", 
+      "anon": "no", 
+      "when": "2017-09-18T12:30:23Z", 
+      "type": "followup", 
+      "uid": "j6m1j9wkzk46tu"
+    }, 
+    {
+      "to": "j7n8bkqmb3318h", 
+      "anon": "no", 
+      "when": "2017-09-18T12:43:37Z", 
+      "type": "feedback", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j7n8bkqmb3318h", 
+      "anon": "no", 
+      "when": "2017-09-18T12:46:28Z", 
+      "type": "feedback", 
+      "uid": "j6m1j9wkzk46tu"
+    }, 
+    {
+      "to": "j7n8bkqmb3318h", 
+      "anon": "no", 
+      "when": "2017-09-26T05:13:29Z", 
+      "type": "followup", 
+      "uid": "hz0pec4uduL"
+    }, 
+    {
+      "to": "j7n8bkqmb3318h", 
+      "anon": "no", 
+      "when": "2017-09-26T13:10:27Z", 
+      "type": "feedback", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j7n8bkqmb3318h", 
+      "anon": "no", 
+      "when": "2017-09-28T04:35:55Z", 
+      "type": "followup", 
+      "uid": "hz0pec4uduL"
+    }, 
+    {
+      "to": "j7n8bkqmb3318h", 
+      "anon": "no", 
+      "when": "2017-09-28T22:07:10Z", 
+      "type": "feedback", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-28T22:08:31Z", 
+      "data": "j850h8tv516ka", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j7n8bkqmb3318h", 
+      "anon": "no", 
+      "when": "2017-09-29T02:35:47Z", 
+      "type": "feedback", 
+      "uid": "hz0pec4uduL"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j7n8bkqmb3318h", 
+  "bookmarked": 5, 
+  "tags": [
+    "instructor-note", 
+    "project"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-09-18T12:30:23Z", 
+      "no_upvotes": 0, 
+      "uid": "j6m1j9wkzk46tu", 
+      "created": "2017-09-18T12:30:23Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7q5f851eky6mh", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-18T12:43:37Z", 
+          "uid": "gns9oa0pgsO", 
+          "created": "2017-09-18T12:43:37Z", 
+          "type": "feedback", 
+          "id": "j7q5w93nbi05p2", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>The depth of python knowledge required for the graded portion of\u00a0this project (task 2)\u00a0is minimal - for loops, simple lists and arithmetic are all that will be required of you to program, and\u00a0accessing a dictionary (python equivalent to a map) is all you will\u00a0need to know\u00a0of complex data structures.\u00a0 I specifically crafted the template code to keep things as simple as possible.\u00a0</p>\n<p></p>\n<p>You may write the code in task 1 and task 3 in any language you wish, but task 2 must use the template code.</p>\n<p></p>\n<p>If you have any specific questions relating to coding feel free to post them here.</p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-18T12:46:28Z", 
+          "uid": "j6m1j9wkzk46tu", 
+          "created": "2017-09-18T12:46:28Z", 
+          "type": "feedback", 
+          "id": "j7q5zwsc97k6z8", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "It is great relief to know that.. thanks for confirming the same."
+        }
+      ], 
+      "subject": "Hi,\n\nDo you need to be proficient in python to work on this project?\nI never used python in my life, will it be a deterrent?\nAlso, Is there any possibility to provide same project in c/c&#43;&#43; to cater non python members (I am speaking for my self here, others may comment if they need in some other language).\nI am sorry to raise this concern here as I am not sure deadline account for python learning time ( not that I am reluctant to learn  python). I don&#39;t remember this course mentioning python in prerequisites anywhere :("
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-26T05:13:29Z", 
+      "no_upvotes": 0, 
+      "uid": "hz0pec4uduL", 
+      "created": "2017-09-26T05:13:29Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j815c6l1r5t5vm", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-26T13:10:27Z", 
+          "uid": "gns9oa0pgsO", 
+          "created": "2017-09-26T13:10:27Z", 
+          "type": "feedback", 
+          "id": "j81mdl03mc32eh", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>yeah it might take a little while, depending on how you implemented the process and in what environment.\u00a0 my java implementation is done in around 2 minutes, my python implementation takes a little longer to run the entire slew of tests - maybe 30 minutes.</p>\n<p></p>\n<p>if you want to verify that there&#39;s no problems in your code, you are welcome to make a private post and i&#39;ll take a look at how you did things.</p>"
+        }
+      ], 
+      "subject": "<p>Part 3 says we&#39;re supposed to run 10 trials for each c and k value with an m of 100k. This is supposed to take a bit of time to run, correct? The reason that I&#39;m asking is that I&#39;m seeing a couple minutes for a single run, so I&#39;m expecting several hours for the trials to run for part 3. I just wanted to make sure that this is expected.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-28T04:35:55Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "hz0pec4uduL", 
+      "created": "2017-09-28T04:35:55Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j83yvl3b1f3f5", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-28T22:07:10Z", 
+          "uid": "gns9oa0pgsO", 
+          "created": "2017-09-28T22:07:10Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j850fhnkodx74j", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>yes, both sets are pulled from the same universe.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-29T02:35:47Z", 
+          "uid": "hz0pec4uduL", 
+          "created": "2017-09-29T02:35:47Z", 
+          "type": "feedback", 
+          "id": "j85a0y9wucu3jh", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thank you John. Thank you also for the office hours -- they were very helpful.</p>"
+        }
+      ], 
+      "subject": "<p>Hi <strong attention=\"gns9oa0pgsO\">&#64;john turner</strong>\u00a0 -- In office hours you mentioned N is prime in the test set. Is it also going to be prime in the withheld set used for grading?</p>"
+    }
+  ], 
+  "nr": 320, 
+  "bucket_order": 2, 
+  "type": "note", 
+  "folders": [
+    "project"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 6, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-09-16T11:28:13Z", 
+  "is_tag_good": false, 
+  "config": {
+    "is_announcement": 1, 
+    "bypass_email": 1
+  }, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145240275, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>Hi Folks</p>\n<p></p>\n<p>The Bloom filter project has been released on T-Square.\u00a0 You&#39;ll find it under the assignment tabs.\u00a0 The project is due October 9 at 10 am -\u00a0the due date in the assignment instructions is wrong.</p>\n<p></p>\n<p>I am going to be the primary point of contact/assistance for this project, so any posts regarding it will get quicker</p>\n<p>responses if you tag me by name, and also please use the &#39;project&#39; folder when making posts/asking questions related to it.</p>\n<p></p>\n<p>We&#39;ve given you 4 whole weekends to work on the project - it should not take anywhere near that much time to complete.\u00a0 I will hold office hours specifically focused on the project the week\u00a0after the first exam.\u00a0</p>\n<p></p>\n<p>The project consists of 3 &#34;tasks&#34; that relate to constructing and testing hash functions and a bloom filter.\u00a0 For the 2nd of these tasks you are required to use the template code, which is in python 2.7.x,\u00a0and the provided text files.\u00a0 You must also have numpy for the template code to work.\u00a0 The code for this task will be graded, and therefore the template file &#34;bloom.py&#34; must be turned in via T-square.\u00a0This is described in much more detail in the project instructions.</p>\n<p></p>\n<p>You also need to use the included template to write up a brief report, and this will be uploaded to gradescope.\u00a0 This too\u00a0is described in crushing detail in the project instructions.</p>\n<p></p>\n<p>Have fun!\u00a0</p>\n<p>john</p>\n<p></p>\n<p></p>", 
+      "anon": "no", 
+      "created": "2017-09-28T22:08:31Z", 
+      "uid": "gns9oa0pgsO", 
+      "subject": "Bloom FIlter Project"
+    }, 
+    {
+      "content": "<p>Hi Folks</p>\n<p></p>\n<p>The Bloom filter project has been released on T-Square.\u00a0 You&#39;ll find it under the assignment tabs.\u00a0 The project is due October 9 at 10 am -\u00a0the due date in the assignment instructions is wrong.</p>\n<p></p>\n<p>I am going to be the primary point of contact/assistance for this project, so any posts regarding it will get quicker</p>\n<p>responses if you tag me by name, and also please use the &#39;project&#39; folder when making posts/asking questions related to it.</p>\n<p></p>\n<p>We&#39;ve given you 4 whole weekends to work on the project - it should not take anywhere near that much time to complete.\u00a0 I will hold office hours specifically focused on the project the week\u00a0after the first exam.\u00a0</p>\n<p></p>\n<p>The project consists of 3 &#34;tasks&#34; that relate to constructing and testing hash functions and a bloom filter.\u00a0 For the 2nd of these tasks you are required to use the template code, which is in python 2.7.x,\u00a0and the provided text files.\u00a0 You must also have numpy for the template code to work.\u00a0 The code for this task will be graded, and therefore the template file &#34;bloom.py&#34; must be turned in via T-square.\u00a0This is described in much more detail in the project instructions.</p>\n<p></p>\n<p>You also need to use the included template to write up a brief report, and this will be uploaded to gradescope.\u00a0 This too\u00a0is described in crushing detail in the project instructions.</p>\n<p></p>\n<p>Have fun!\u00a0</p>\n<p>john</p>\n<p></p>\n<p>#pin</p>", 
+      "anon": "no", 
+      "created": "2017-09-16T11:28:55Z", 
+      "uid": "gns9oa0pgsO", 
+      "subject": "Bloom FIlter Project"
+    }, 
+    {
+      "content": "<p>Hi Folks</p>\n<p></p>\n<p>The Bloom filter project has been released on T-Square.\u00a0 You&#39;ll find it under the assignment tabs.\u00a0 The project is due October 9 at 10 am -\u00a0the due date in the assignment instructions is wrong.</p>\n<p></p>\n<p>I am going to be the primary point of contact/assistance for this project, so any posts regarding it will get quicker</p>\n<p>responses if you tag me by name, and also please use the &#39;project&#39; folder when making posts/asking questions related to it.</p>\n<p></p>\n<p>We&#39;ve given you 4 whole weekends to work on the project - it should not take anywhere near that much time to complete.\u00a0 I will hold office hours specifically focused on the project the week\u00a0after the first exam.\u00a0</p>\n<p></p>\n<p>The project consists of 3 &#34;tasks&#34; that relate to constructing and testing hash functions and a bloom filter.\u00a0 For the 2nd of these tasks you are required to use the template code, which is in python 2.7.x,\u00a0and the provided text files.\u00a0 You must also have numpy for the template code to work.\u00a0 The code for this task will be graded, and therefore the template file &#34;bloom.py&#34; must be turned in via T-square.\u00a0This is described in much more detail in the project instructions.</p>\n<p></p>\n<p>You also need to use the included template to write up a brief report, and this will be uploaded to gradescope.\u00a0 This too\u00a0is described in crushing detail in the project instructions.</p>\n<p></p>\n<p>Have fun!\u00a0</p>\n<p>john</p>", 
+      "anon": "no", 
+      "created": "2017-09-16T11:28:13Z", 
+      "uid": "gns9oa0pgsO", 
+      "subject": "Bloom FIlter Project"
+    }
+  ]
+}

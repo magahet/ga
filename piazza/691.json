@@ -1,0 +1,60 @@
+{
+  "status": "active", 
+  "unique_views": 225, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-10T20:39:56Z", 
+      "data": "j8m2ljpta235ot", 
+      "uid": "gy4twfv45cg5o6"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8m2ljpqg1z5os", 
+  "bookmarked": 2, 
+  "tags": [
+    "exam", 
+    "instructor-note", 
+    "pin"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [], 
+  "nr": 691, 
+  "bucket_order": 0, 
+  "type": "note", 
+  "folders": [
+    "exam"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Pinned", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-10-10T20:39:56Z", 
+  "is_tag_good": false, 
+  "config": {
+    "is_announcement": 1, 
+    "bypass_email": 1
+  }, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145115455, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "Due to limited participation, we will be shifting duties and reducing office hours to 2 sessions/week:\n \n<ul><li>Thursday: Murali 7:00 p.m. -  8:00 p.m.</li></ul>\n<ul><li>Saturday: Michael 2:00 p.m. -  3:00 p.m.</li></ul>\n\nYou can check the schedule, event code and link on this <strong><a href=\"https://docs.google.com/spreadsheets/d/1j4H5XC8IPN2WoyNLCFihuCNJwdWUjm_cTZrw7B5mTVA/edit?usp=sharing\" target=\"_blank\">spreadsheet</a>.</strong> We will also be posting the main topics/questions discussed during the respective office hours on the spreadsheet. This should help you find the relevant office hours quickly.\n\nThank you!\n\n#pin", 
+      "anon": "no", 
+      "created": "2017-10-10T20:39:56Z", 
+      "uid": "gy4twfv45cg5o6", 
+      "subject": "Office hours"
+    }
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "status": "active", 
+  "unique_views": 152, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-27T03:10:19Z", 
+      "data": "j82gdnpawc63oi", 
+      "uid": "ij7curo6tdo360"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-27T03:10:44Z", 
+      "data": "j82ge6i7yur4ed", 
+      "uid": "ij7curo6tdo360"
+    }, 
+    {
+      "uid": "idg5nm2lC96", 
+      "type": "s_answer", 
+      "when": "2017-09-27T03:28:08Z", 
+      "to": "j82gdnp61mm3oh", 
+      "anon": "no", 
+      "data": "j82h0ke78hl3nd"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-09-27T03:36:13Z", 
+      "data": "j82hayrlei94r6", 
+      "uid": "idg5nm2lC96"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-09-27T07:06:44Z", 
+      "data": "j82oto97kpw40q", 
+      "uid": "idg5nm2lC96"
+    }, 
+    {
+      "to": "j82gdnp61mm3oh", 
+      "anon": "no", 
+      "when": "2017-09-27T14:31:58Z", 
+      "type": "followup", 
+      "uid": "i18w67avy8e1uk"
+    }, 
+    {
+      "uid": "gy4twfv45cg5o6", 
+      "type": "i_answer", 
+      "when": "2017-09-27T18:31:30Z", 
+      "to": "j82gdnp61mm3oh", 
+      "anon": "no", 
+      "data": "j83daah38vy49v"
+    }, 
+    {
+      "type": "i_answer_update", 
+      "anon": "no", 
+      "when": "2017-09-27T18:32:32Z", 
+      "data": "j83dbmiqfrr55i", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "type": "i_answer_update", 
+      "anon": "no", 
+      "when": "2017-09-27T18:33:00Z", 
+      "data": "j83dc81xbaqcm", 
+      "uid": "gy4twfv45cg5o6"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j82gdnp61mm3oh", 
+  "bookmarked": 5, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-27T03:28:08Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [
+        "hzetpo9z5sK"
+      ], 
+      "id": "j82h0ke0cal3nc", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Isaac Gutierrez", 
+          "admin": false, 
+          "photo": "1420658091_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hzetpo9z5sK"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>Given that the numerator is a fixed constant $$e$$ and the denominator $$\\log n$$ is growing with $$n$$ (i.e. the whole number gets smaller as $$n$$ gets larger), I think the constant $$\\frac{1}{4}$$ was chosen as a bound somewhat arbitrarily to make the numbers nice: when the log is base $$2$$, the probability that bin $$B_i$$ gets load $$\\geq \\log n$$ becomes $$\\leq \\frac{1}{n^2}$$. Also, the professor mentioned that $$\\frac{1}{4}$$ is a good bound when $$\\log n \\geq 4e$$, which happens when $$n &gt; 2^{11} = 2,048$$, which is easily true in our case because we have a large $$n$$.</p>", 
+          "anon": "no", 
+          "created": "2017-09-27T07:06:44Z", 
+          "uid": "idg5nm2lC96", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>I think the constant $$\\frac{1}{4}$$ was chosen somewhat arbitrarily to make the numbers nice: when the log is base $$2$$, the probability that bin $$B_i$$ gets load $$\\geq \\log n$$ becomes $$\\leq \\frac{1}{n^2}$$. Also, the professor mentioned that $$\\frac{1}{4}$$ is a good bound when $$\\log n \\geq 4e$$, which happens when $$n &gt; 2^{11} = 2,048$$, which is easily true in our case because we have a large $$n$$.</p>", 
+          "anon": "no", 
+          "created": "2017-09-27T03:36:13Z", 
+          "uid": "idg5nm2lC96", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>I think the constant $$\\frac{1}{4}$$ was chosen somewhat arbitrarily to make the numbers nice: when the log is base $$2$$, the probability that bin $$B_i$$ gets load $$\\geq \\log n$$ becomes $$\\leq \\frac{1}{n^2}$$. Also, the professor mentioned that $$\\frac{1}{4}$$ is a good bound because it&#39;s true when $$\\log n \\geq 4e$$, which happens when $$n &gt; 2^{11} = 2,048$$, which is easily true in our case because we have a large $$n$$.</p>", 
+          "anon": "no", 
+          "created": "2017-09-27T03:28:08Z", 
+          "uid": "idg5nm2lC96", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-27T14:31:58Z", 
+      "no_upvotes": 0, 
+      "uid": "i18w67avy8e1uk", 
+      "created": "2017-09-27T14:31:58Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j834q9141dz6zs", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>My understanding of the lecture is the same as Dennis&#39;s explanation above.\u00a0</p>"
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-27T18:31:30Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "idg5nm2lC96"
+      ], 
+      "id": "j83daah2tv049u", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Dennis Sidharta", 
+          "admin": false, 
+          "photo": "1463366773_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "idg5nm2lC96"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "Dennis is right, it&#39;s a nice explanation.  The quantity $$\\frac{e}{\\log{n}}$$ is much smaller than what I need.  By choosing $$n&gt;2^{4e}$$ we have that it&#39;s $$&lt; 1/4$$.  That&#39;s good enough for me.  If I wanted smaller I could look at $$n&gt;2^{16e}$$ and it&#39;s $$&lt;1/16$$.  It&#39;s like O() notation, we&#39;re just proving things for all sufficiently large n.  Once I have that it&#39;s $$&lt;1/4$$ then we can use that $$(1/4)^{\\log{n}} = 1/n^2$$.", 
+          "anon": "no", 
+          "created": "2017-09-27T18:33:00Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }, 
+        {
+          "content": "Dennis is right, it&#39;s a nice explanation.  The quantity $$\\frac{e}{\\log{n}}$$ is much smaller than what I need.  By choosing $$n&gt;2^{4e}$$ we have that it&#39;s $$&lt; 1/4$$.  That&#39;s good enough for me.  If I wanted smaller I could look at $n&gt;2^{16e}$ and it&#39;s $$&lt;1/16$$.  It&#39;s like O() notation, we&#39;re just proving things for all sufficiently large n.  Once I have that it&#39;s $$&lt;1/4$$ then we can use that $$(1/4)^{\\log{n}} = 1/n^2$$.", 
+          "anon": "no", 
+          "created": "2017-09-27T18:32:32Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }, 
+        {
+          "content": "Dennis is right, it&#39;s a nice explanation.  The quantity $$\\frac{e}{\\log{n}}$$ is much smaller than what I need.  By choosing $$n&gt;2^{4e}$$ we have that it&#39;s $$&lt;1/4$$.  That&#39;s good enough for me.  If I wanted smaller I could look at $n&gt;2^{16e}$ and it&#39;s $$&lt;1/16$.  It&#39;s like O() notation, we&#39;re just proving things for all sufficiently large n.  Once I have that it&#39;s $$&lt;1/4$$ then we can use that $$(1/4)^{\\log{n}) = 1/n^2$$.", 
+          "anon": "no", 
+          "created": "2017-09-27T18:31:30Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 453, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "udacity"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 2, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "student", 
+    "udacity"
+  ], 
+  "created": "2017-09-27T03:10:19Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145214399, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>Hello,</p>\n<p></p>\n<p>I am having trouble understanding how the <a href=\"https://youtu.be/Jv8na01eZkQ?t=278\" target=\"_blank\">lecture video</a>\u00a0came to conclusion to use (1/4)^logN.</p>\n<p></p>\n<p>I understand how we have (e/logN)^logN, but after that it doesn&#39;t make sense how the professor came his conclusion of 1/n^2.</p>\n<p></p>\n<p>Can someone try to explain it to me?\u00a0</p>", 
+      "anon": "no", 
+      "created": "2017-09-27T03:10:44Z", 
+      "uid": "ij7curo6tdo360", 
+      "subject": "RA3 - Bloom Filters"
+    }, 
+    {
+      "content": "<p>Hello,</p>\n<p></p>\n<p>I am having trouble understanding how in the <a href=\"https://youtu.be/Jv8na01eZkQ?t=278\" target=\"_blank\">lecture video</a>\u00a0came to conclusion to use (1/4)^logN.</p>\n<p></p>\n<p>I understand how we have (e/logN)^logN, but after that it doesn&#39;t make sense how the professor came his conclusion of 1/n^2.</p>\n<p></p>\n<p>Can someone try to explain it to me?\u00a0</p>", 
+      "anon": "no", 
+      "created": "2017-09-27T03:10:19Z", 
+      "uid": "ij7curo6tdo360", 
+      "subject": "RA3 - Bloom Filters"
+    }
+  ]
+}

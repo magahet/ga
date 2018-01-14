@@ -1,0 +1,245 @@
+{
+  "status": "active", 
+  "unique_views": 142, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-09T15:52:39Z", 
+      "data": "j8kcw861qdl6t5", 
+      "uid": "i4iys7m3lpq2ij"
+    }, 
+    {
+      "to": "j8kcw85tzwn6t4", 
+      "anon": "no", 
+      "when": "2017-10-09T18:14:20Z", 
+      "type": "followup", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j8kcw85tzwn6t4", 
+      "anon": "no", 
+      "when": "2017-10-09T21:10:35Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j8kcw85tzwn6t4", 
+      "anon": "no", 
+      "when": "2017-10-10T16:13:34Z", 
+      "type": "followup", 
+      "uid": "i18w67avy8e1uk"
+    }, 
+    {
+      "to": "j8kcw85tzwn6t4", 
+      "anon": "no", 
+      "when": "2017-10-10T16:53:03Z", 
+      "type": "feedback", 
+      "uid": "i4iys7m3lpq2ij"
+    }, 
+    {
+      "to": "j8kcw85tzwn6t4", 
+      "anon": "no", 
+      "when": "2017-10-10T17:17:06Z", 
+      "type": "feedback", 
+      "uid": "i18w67avy8e1uk"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8kcw85tzwn6t4", 
+  "bookmarked": 6, 
+  "tags": [
+    "graph_algorithms", 
+    "student"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-10-09T18:14:20Z", 
+      "no_upvotes": 0, 
+      "uid": "i4nkipeofrkrz", 
+      "created": "2017-10-09T18:14:20Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8khyfn2he32to", 
+      "anon": "no", 
+      "bucket_name": "Week 10/8 - 10/14", 
+      "config": {}, 
+      "bucket_order": 7, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-09T21:10:35Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-10-09T21:10:35Z", 
+          "type": "feedback", 
+          "id": "j8ko941n1zf51h", 
+          "anon": "no", 
+          "bucket_name": "Week 10/8 - 10/14", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Yes, thanks for your note.  It&#39;s quite instructive.  I&#39;ll try to add a note at the bottom of the node to explain it as you suggest.  Thanks, Eric"
+        }
+      ], 
+      "subject": "<p>&#43;1</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-10T16:13:34Z", 
+      "no_upvotes": 0, 
+      "uid": "i18w67avy8e1uk", 
+      "created": "2017-10-10T16:13:34Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8lt2z8sl3y5gp", 
+      "anon": "no", 
+      "bucket_name": "Week 10/8 - 10/14", 
+      "config": {}, 
+      "bucket_order": 7, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-10T16:53:03Z", 
+          "uid": "i4iys7m3lpq2ij", 
+          "created": "2017-10-10T16:53:03Z", 
+          "type": "feedback", 
+          "id": "j8luhrmikf57e8", 
+          "anon": "no", 
+          "bucket_name": "Week 10/8 - 10/14", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Yes, $$(w,v) \\in E$$ means there&#39;s an edge $$(w,v)$$ in the original graph.</p>\n<p></p>\n<p>Here&#39;s how I think about it:\u00a0from the &#34;perspective&#34; of\u00a0edge $$(w,v)$$ in the original graph, the edge $$(v,w)$$ is a back-edge, which we may add to $$G^f$$ with capacity $$c^f(vw)=f(wv)-d(wv)$$, the amount that we can reduce the flow along $$(w,v)$$ while still satisfying demand.</p>\n<p></p>\n<p>Similarly,\u00a0from the &#34;perspective&#34; of\u00a0edge $$(v,w)$$ in the original graph, the edge $$(v,w)$$ is a forward-edge, which we may add to $$G^f$$ with capacity $$c^f(vw)=c(vw)-f(vw)$$, the remaining capacity along\u00a0\u00a0$$(v,w)$$.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-10T17:17:06Z", 
+          "uid": "i18w67avy8e1uk", 
+          "created": "2017-10-10T17:17:06Z", 
+          "type": "feedback", 
+          "id": "j8lvcoz12166yb", 
+          "anon": "no", 
+          "bucket_name": "Week 10/8 - 10/14", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thanks! That totally makes sense.</p>"
+        }
+      ], 
+      "subject": "<p>Thanks for the note!</p>\n<p></p>\n<p>I am still confused by the\u00a0expression $$if (w,v) \\in E$$. Does it mean there is an edge goes from $$w$$ to $$v$$ in the original graph? Or there is an edge connecting $$(w,v) $$?\u00a0</p>\n<p></p>\n<p>EDIT: From the Ford-Fulkerson algorithm, it looks like we are keeping track of the back-edge in the original graph. If that is the case, then\u00a0the\u00a0expression $$if (w,v) \\in E$$ makes sense.\u00a0\u00a0</p>"
+    }
+  ], 
+  "nr": 680, 
+  "bucket_order": 2, 
+  "type": "note", 
+  "folders": [
+    "graph_algorithms"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 8, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-10-09T15:52:38Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145159948, 
+  "tag_good": [
+    {
+      "name": "Greg", 
+      "admin": false, 
+      "photo": "1464416700_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "ij832p58ncG"
+    }, 
+    {
+      "name": "Brian Trinh", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hq9zldq5n9mvn"
+    }, 
+    {
+      "name": "Shihgian Lee", 
+      "admin": false, 
+      "photo": "1420394909_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i18w67avy8e1uk"
+    }, 
+    {
+      "name": "Qingyun Liu", 
+      "admin": false, 
+      "photo": "1495251168_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hqa9hej5ny2gl"
+    }, 
+    {
+      "name": "Dennis Sidharta", 
+      "admin": false, 
+      "photo": "1463366773_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "idg5nm2lC96"
+    }, 
+    {
+      "name": "Salman Faiz Cheema", 
+      "admin": false, 
+      "photo": "1480944135_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i9jo0dmat4G"
+    }
+  ], 
+  "tag_good_arr": [
+    "ij832p58ncG", 
+    "hq9zldq5n9mvn", 
+    "i18w67avy8e1uk", 
+    "hqa9hej5ny2gl", 
+    "idg5nm2lC96", 
+    "i9jo0dmat4G"
+  ], 
+  "history": [
+    {
+      "content": "<p>[This was a question that I figured out while typing it up. I figured I&#39;d\u00a0post it as a note in case it helps someone else]</p>\n<p></p>\n<p>In the regular max flow problem, we\u00a0construct\u00a0the residual\u00a0network as follows:</p>\n<p>- if $$(v,w) \\in E$$ and $$f(vw) &lt; c(vw)$$: add\u00a0$$(v,w)$$ to $$E^f$$ with $$c^f(v,w)=c(vw)-f(vw)$$</p>\n<p>- if $$(v,w) \\in E$$ and $$f(vw) &gt; 0$$: add\u00a0$$(w,v)$$ to $$E^f$$ with $$c^f(w,v)=f(vw)$$</p>\n<p></p>\n<p>My\u00a0guess\u00a0was that in max feasible flow, we&#39;d do essentially the same thing, but instead of setting the back-edges to\u00a0 $$f(vw)$$, we&#39;d set them to $$f(vw)-d(vw)$$, so that &#34;zeroing out&#34; a flow with a back-edge\u00a0would still\u00a0meet the demand:</p>\n<p>- if $$(v,w) \\in E$$ and $$f(vw) &lt; c(vw)$$: add\u00a0$$(v,w)$$ to $$E^f$$ with $$c^f(v,w)=c(vw)-f(vw)$$</p>\n<p>- if $$(v,w) \\in E$$ and $$f(vw) &gt; d(vw)$$: add\u00a0$$(w,v)$$ to $$E^f$$ with $$c^f(w,v)=f(vw)-d(vw)$$</p>\n<p></p>\n<p>But the lecture describes\u00a0constructing the max feasible flow residual\u00a0network as follows:</p>\n<p>$$c^f(vw) = \\left\\{\\begin{matrix}\nc(vw)-f(vw) &amp; \\text{ if } (v,w) \\in E\\\\ \nf(wv)-d(wv) &amp; \\text{ if } (w,v) \\in E\\\\ \n0 &amp; \\text{otherwise}\\\\\n\\end{matrix}\\right.$$</p>\n<p></p>\n<p>At first, this new format confused me.\u00a0It seemed like we were no longer constructing back-edges since we conditioned on $$(w,v) \\in E$$. Then I realized\u00a0that the formula is setting $$c^f(vw)$$, which <em>is</em> the back-edge for\u00a0$$(w,v) \\in E$$ (and the forward edge for $$(v,w) \\in E$$). So, the lecture formula and my &#34;guessed&#34; formula are saying the same thing after all.</p>\n<p></p>", 
+      "anon": "no", 
+      "created": "2017-10-09T15:52:39Z", 
+      "uid": "i4iys7m3lpq2ij", 
+      "subject": "Constructing residual network for max feasible flow problem (MF5: Max Feasible Flow)"
+    }
+  ]
+}

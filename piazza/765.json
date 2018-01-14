@@ -1,0 +1,209 @@
+{
+  "status": "active", 
+  "unique_views": 172, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-19T20:10:01Z", 
+      "data": "j8ywhq3xb30p8", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-19T20:10:13Z", 
+      "data": "j8ywhzccu4oxz", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-19T20:12:51Z", 
+      "data": "j8ywldrlig64bf", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-19T20:13:15Z", 
+      "data": "j8ywlvxmd8i4sq", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "uid": "i4iys7m3lpq2ij", 
+      "type": "s_answer", 
+      "when": "2017-10-19T20:40:37Z", 
+      "to": "j8ywhq3qev2p7", 
+      "anon": "no", 
+      "data": "j8yxl34rxlz7fl"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-10-19T20:40:43Z", 
+      "data": "j8yxl7of8yz7le", 
+      "uid": "i4iys7m3lpq2ij"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8ywhq3qev2p7", 
+  "bookmarked": 4, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-19T20:40:37Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [
+        "ijbr5ddtwyt6pa", 
+        "hvfeyx7qglF", 
+        "hqa9hej5ny2gl", 
+        "hju4w9odatf30", 
+        "j8asouglzmcwj", 
+        "insrvi5z1h87"
+      ], 
+      "id": "j8yxl34ogpv7fk", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Jason Buoni", 
+          "admin": false, 
+          "photo": "1463440659_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "ijbr5ddtwyt6pa"
+        }, 
+        {
+          "name": "Brandon Richards", 
+          "admin": false, 
+          "photo": "1408392221_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hvfeyx7qglF"
+        }, 
+        {
+          "name": "Qingyun Liu", 
+          "admin": false, 
+          "photo": "1495251168_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hqa9hej5ny2gl"
+        }, 
+        {
+          "name": "Murali Raghu Babu B", 
+          "admin": true, 
+          "photo": "1503448397_35.png", 
+          "us": false, 
+          "role": "ta", 
+          "facebook_id": null, 
+          "id": "hju4w9odatf30"
+        }, 
+        {
+          "name": "Arvind Kumar Sharma", 
+          "admin": false, 
+          "photo": null, 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "j8asouglzmcwj"
+        }, 
+        {
+          "name": "Grady", 
+          "admin": false, 
+          "photo": null, 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "insrvi5z1h87"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>If you consider randomness in algorithms (aka which vertex in set of neighbors is visited first), then, sure, you can&#39;t guarentee the same MST/shortest path even if the edge weights all remain constant. But that doesn&#39;t really get at the point of the question / it&#39;s kind of trivial.</p>\n<p></p>\n<p>For an MST, adding a constant to all edge weights preserves the edge minimums, so the MST will not change -&gt; if T was an MST before, it is still an MST.</p>\n<p></p>\n<p>For a shortest path, however, distance\u00a0is computed\u00a0without regard to the number of\u00a0edges traversed between nodes - we only care about\u00a0minimizing the sum of their weights. So, adding some constant to all edges could change the minimum distance path between nodes, since paths with more edges will be &#34;penalized&#34; more than paths with few edges.</p>", 
+          "anon": "no", 
+          "created": "2017-10-19T20:40:43Z", 
+          "uid": "i4iys7m3lpq2ij", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>If you consider randomness in algorithms (aka which vertex in set of neighbors is visited first), then, sure, you can&#39;t guarentee the same MST/shortest path even if the edge weights all remain constant. But that doesn&#39;t really get at the point of the question / it&#39;s kind of trivial.</p>\n<p></p>\n<p>For an MST, adding a constant to all edge weights preserves the edge minimums, so the MST will not change -&gt; if T was an MST before, it is still an MST.</p>\n<p></p>\n<p>For a shortest path, however, distance\u00a0is computed\u00a0without regard to the number of\u00a0edges traversed between nodes - we only care about\u00a0minimizing the sum of their weights. So, adding some constant to all edges could change the minimum distance path between nodes, since paths with more edges will be &#34;penalized&#34; more than paths with few edges.</p>\n<p></p>\n<p></p>", 
+          "anon": "no", 
+          "created": "2017-10-19T20:40:37Z", 
+          "uid": "i4iys7m3lpq2ij", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 765, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "graph_algorithms"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 3, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "graph_algorithms", 
+    "student"
+  ], 
+  "created": "2017-10-19T20:10:01Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145135106, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p><em>Consider an undirected graph G = (V, E) with non negative edge weights we \u2265 0. Suppose that you have computed a minimum spanning tree of G, and that you have also computed shortest paths to all nodes from a particular node s \u2208 V .</em></p>\n<p><em>Now suppose each edge weight is increased by 1: the new weights are we\u2032 =we&#43;1.</em></p>\n<ol><li>\n<p><em>Does the minimum spanning tree change? Give an example where it changes or prove it</em></p>\n<p><em>cannot change.</em></p>\n</li><li>\n<p><em>Do the shortest paths change? Give an example where they change or prove they cannot change.\u00a0</em></p>\n</li></ol>\n<p></p>\n<p>For this question, we can never assume that the shortest path will be the same, correct, even if we did not change the weight. Unless the weights are unique, there is always a chance that we will have more than one shortest path and more than one spanning tree, correct?</p>\n<p></p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/ijbr5ddtwyt6pa/j8ywkfqv6crw/Screen_Shot_20171019_at_4.11.45_PM.png\" alt=\"\" /></p>\n<p>For this example, it is possible that we have the tree / path from A to D go through B or C, depending on what algorithm we run, as well as the random choices we make.</p>\n<p></p>\n<p>So, if the weights for all edges in G.E were unique, then this would be true, but since they are not, it has to be false?</p>", 
+      "anon": "no", 
+      "created": "2017-10-19T20:13:15Z", 
+      "uid": "ijbr5ddtwyt6pa", 
+      "subject": "MST Spanning Trees and Shortest Path (5.5)"
+    }, 
+    {
+      "content": "<p><em>Consider an undirected graph G = (V, E) with non negative edge weights we \u2265 0. Suppose that you have computed a minimum spanning tree of G, and that you have also computed shortest paths to all nodes from a particular node s \u2208 V .</em></p>\n<p><em>Now suppose each edge weight is increased by 1: the new weights are we\u2032 =we&#43;1.</em></p>\n<ol><li>\n<p><em>Does the minimum spanning tree change? Give an example where it changes or prove it</em></p>\n<p><em>cannot change.</em></p>\n</li><li>\n<p><em>Do the shortest paths change? Give an example where they change or prove they cannot change.\u00a0</em></p>\n</li></ol>\n<p></p>\n<p>For this question, we can never assume that the shortest path will be the same, correct, even if we did not change the weight. Unless the weights are unique, there is always a chance that we will have more than one shortest path and more than one spanning tree, correct?</p>\n<p></p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/ijbr5ddtwyt6pa/j8ywkfqv6crw/Screen_Shot_20171019_at_4.11.45_PM.png\" alt=\"\" /></p>\n<p>For this example, it is possible that we have the tree / path to D go through B or C, depending on what algorithm we run, as well as the random choices we make.</p>\n<p></p>\n<p>So, if the weights for all edges in G.E were unique, then this would be true, but since they are not, it has to be false?</p>", 
+      "anon": "no", 
+      "created": "2017-10-19T20:12:51Z", 
+      "uid": "ijbr5ddtwyt6pa", 
+      "subject": "MST Spanning Trees and Shortest Path (5.5)"
+    }, 
+    {
+      "content": "<p><em>Consider an undirected graph G = (V, E) with non negative edge weights we \u2265 0. Suppose that you have computed a minimum spanning tree of G, and that you have also computed shortest paths to all nodes from a particular node s \u2208 V .</em></p>\n<p><em>Now suppose each edge weight is increased by 1: the new weights are we\u2032 =we&#43;1.</em></p>\n<ol><li>\n<p><em>Does the minimum spanning tree change? Give an example where it changes or prove it</em></p>\n<p><em>cannot change.</em></p>\n</li><li>\n<p><em>Do the shortest paths change? Give an example where they change or prove they cannot change.\u00a0</em></p>\n</li></ol>\n<p></p>\n<p>For this question, we can never assume that the shortest path will be the same, correct, even if we did not change the weight. Unless the weights are unique, there is always a chance that we will have more than one shortest path and more than one spanning tree, correct?</p>\n<p></p>\n<p>So, if the weights for all edges in G.E were unique, then this would be true, but since they are not, it has to be false?</p>", 
+      "anon": "no", 
+      "created": "2017-10-19T20:10:13Z", 
+      "uid": "ijbr5ddtwyt6pa", 
+      "subject": "MST Spanning Trees and Shortest Path (5.5)"
+    }, 
+    {
+      "content": "<p><em>Consider an undirected graph G = (V, E) with non negative edge weights we \u2265 0. Suppose that you have computed a minimum spanning tree of G, and that you have also computed shortest paths to all nodes from a particular node s \u2208 V .</em></p>\n<p><em>Now suppose each edge weight is increased by 1: the new weights are we\u2032 =we&#43;1.</em></p>\n<ol><li>\n<p><em>Does the minimum spanning tree change? Give an example where it changes or prove it</em></p>\n<p><em>cannot change.</em></p>\n</li><li>\n<p><em>Do the shortest paths change? Give an example where they change or prove they cannot change.\u00a0</em></p>\n</li></ol>\n<p></p>\n<p>For this question, and questions like this in the future, we can never assume that the shortest path will be the same, correct, even if we did not change the weight. Unless the weights are unique, there is always a chance that we will have more than one shortest path and more than one spanning tree, correct?</p>\n<p></p>\n<p>So, if the weights for all edges in G.E were unique, then this would be true, but since they are not, it has to be false?</p>", 
+      "anon": "no", 
+      "created": "2017-10-19T20:10:01Z", 
+      "uid": "ijbr5ddtwyt6pa", 
+      "subject": "MST Spanning Trees and Shortest Path (5.5)"
+    }
+  ]
+}

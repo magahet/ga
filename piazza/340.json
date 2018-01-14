@@ -1,0 +1,125 @@
+{
+  "status": "active", 
+  "unique_views": 160, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-18T11:45:42Z", 
+      "data": "j7q3trib3uu1cd", 
+      "uid": "hviwm6agQCk"
+    }, 
+    {
+      "uid": "hkkbz4bujtv5dn", 
+      "type": "i_answer", 
+      "when": "2017-09-18T14:55:44Z", 
+      "to": "j7q3tri8u8z1cc", 
+      "anon": "no", 
+      "data": "j7qam581pbj4ol"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j7q3tri8u8z1cc", 
+  "bookmarked": 3, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-18T14:55:44Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "i4ocg4bx2t93x9", 
+        "hviwm6agQCk"
+      ], 
+      "id": "j7qam57zrxe4ok", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Joe Munoz", 
+          "admin": false, 
+          "photo": "1420754121_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i4ocg4bx2t93x9"
+        }, 
+        {
+          "name": "Jaya Rao", 
+          "admin": false, 
+          "photo": "1503185676_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hviwm6agQCk"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>Finding the right subproblem depends on the problem and can take\u00a0some experimentation.</p>\n<p>For example, prefix/suffix can be used when smaller subproblems can be\u00a0expanded\u00a0from the beginning/end to the end/beginning (e.g. hotel stops, max contiguous subsequence, longest common substring). Substring can be\u00a0used when the subproblems expand outward towards the beginning and end of the input rather than expanding in one direction (e.g. longest palindrome, matrix multiply).</p>\n<p></p>\n<p>For matrix multiplication, the optimal order\u00a0of multiplying matrices $$X_i, ..., X_j$$\u00a0is computed by\u00a0considering multiplication of different matrix\u00a0subgroups $$\\left(X_i * ... * X_k\\right)*\\left(X_{k&#43;1} * ... * X_j\\right)$$. \u00a0A prefix\u00a0subproblem could tell you the cost of the left subgroup $$\\left(X_i * ... * X_k\\right)$$, but not the right subgroup $$\\left(X_{k&#43;1} * ... * X_j\\right)$$, so substrings are\u00a0more natural to use in this case.</p>", 
+          "anon": "no", 
+          "created": "2017-09-18T14:55:44Z", 
+          "uid": "hkkbz4bujtv5dn", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 340, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw1"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 3, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw1", 
+    "student"
+  ], 
+  "created": "2017-09-18T11:45:42Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145236113, 
+  "tag_good": [
+    {
+      "name": "Joe Munoz", 
+      "admin": false, 
+      "photo": "1420754121_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4ocg4bx2t93x9"
+    }
+  ], 
+  "tag_good_arr": [
+    "i4ocg4bx2t93x9"
+  ], 
+  "history": [
+    {
+      "content": "<p>I need some clarity on what prefixes and substrings are to make sure I understood them correctly.</p>\n<p></p>\n<p>So a prefix as I understand it is something like a_1......a_j \u00a0when a goes from a_1 to a_n</p>\n<p></p>\n<p>A suffix is something like a_j......a_n for the same interval</p>\n<p></p>\n<p>then a substring is like a_i....a_j for the same interval</p>\n<p></p>\n<p>Could you explain how I&#39;d be able to tell which is most appropriate to use? I was looking at the chain matrix multiplication lectures and this lesson confused me.</p>", 
+      "anon": "no", 
+      "created": "2017-09-18T11:45:42Z", 
+      "uid": "hviwm6agQCk", 
+      "subject": "Prefixes and Substrings"
+    }
+  ]
+}

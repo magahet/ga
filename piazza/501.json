@@ -1,0 +1,115 @@
+{
+  "status": "active", 
+  "unique_views": 157, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-01T00:10:59Z", 
+      "data": "j87zqfa659h5nk", 
+      "uid": "hve4kbcvx7l4t3"
+    }, 
+    {
+      "uid": "i4ket0u1z5q31a", 
+      "type": "s_answer", 
+      "when": "2017-10-01T06:47:08Z", 
+      "to": "j87zqfa2iwe5nj", 
+      "anon": "no", 
+      "data": "j88dvvqrgsyoy"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j87zqfa2iwe5nj", 
+  "bookmarked": 3, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-01T06:47:08Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [
+        "hve4kbcvx7l4t3"
+      ], 
+      "id": "j88dvvqphq1ox", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Lekha Pillai", 
+          "admin": false, 
+          "photo": "1427480795_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hve4kbcvx7l4t3"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>For task 1 you can override k to be simply 1.</p>\n<p>Then yes, compare results, e.g. from scatter plots as mentioned in office hours.</p>", 
+          "anon": "no", 
+          "created": "2017-10-01T06:47:08Z", 
+          "uid": "i4ket0u1z5q31a", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 501, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "project"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 2, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "project", 
+    "student"
+  ], 
+  "created": "2017-10-01T00:10:59Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145201269, 
+  "tag_good": [
+    {
+      "name": "abarysevich", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4t8eakz3ex6lk"
+    }
+  ], 
+  "tag_good_arr": [
+    "i4t8eakz3ex6lk"
+  ], 
+  "history": [
+    {
+      "content": "<p>As I am working my way thru project 1, I am not quite clear on some of the terminology. Project write up mentions that there is template code for 2 hash types and I also see\u00a0 there is an h(x) definition provided for each. I assume\u00a0 both\u00a0 needs some tweaking to turn it into a hash function. So say for k=5, we generate 5 seeds for Type 1 and using that we generate 5 hash values.\u00a0 So are we supposed to generate 5 values for same x for type 2 and compare both? I guess what I am trying to clarify is if we compare for k=5 case, do we plot 5 h(x)s each for value of X along Y axis? Could anyone please clarify without giving away any implementation details?</p>\n<p></p>", 
+      "anon": "no", 
+      "created": "2017-10-01T00:10:59Z", 
+      "uid": "hve4kbcvx7l4t3", 
+      "subject": "Hash functions vs Hash Types"
+    }
+  ]
+}

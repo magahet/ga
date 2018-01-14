@@ -1,0 +1,128 @@
+{
+  "status": "active", 
+  "unique_views": 194, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-08-24T02:26:26Z", 
+      "data": "j6ptu91dflb7t", 
+      "uid": "hkkbz4bujtv5dn"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-08-24T02:26:36Z", 
+      "data": "j6ptugigw4blv", 
+      "uid": "hkkbz4bujtv5dn"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-08-24T02:27:04Z", 
+      "data": "j6ptv2pzeyysq", 
+      "uid": "hkkbz4bujtv5dn"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-08-24T14:22:44Z", 
+      "data": "j6qjffaa7kj3bu", 
+      "uid": "hkkbz4bujtv5dn"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-08-24T14:24:16Z", 
+      "data": "j6qjhdrulcy40i", 
+      "uid": "hkkbz4bujtv5dn"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-08-25T02:45:28Z", 
+      "data": "j6r9yl69ld31ov", 
+      "uid": "isgwdf47kb42f"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j6ptu91a1sl7s", 
+  "bookmarked": 2, 
+  "tags": [
+    "course", 
+    "instructor-note", 
+    "logistics"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [], 
+  "nr": 63, 
+  "bucket_order": 2, 
+  "type": "note", 
+  "folders": [
+    "logistics", 
+    "course"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-08-24T02:26:26Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145317109, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>Hi all,</p>\n<p></p>\n<p>I will hold office hours\u00a0tomorrow the\u00a024th\u00a0from 9PM to 10PM EST via YouTube live.</p>\n<p>Please post your questions\u00a0at\u00a0<a href=\"http://slido.com\" target=\"_blank\">slido.com</a> using event code:\u00a0<strong>CS8803</strong></p>\n<p>I will try to answer the questions here:\u00a0<a href=\"https://www.youtube.com/watch?v=EDD3mA_K2a4\" target=\"_blank\">https://www.youtube.com/watch?v=EDD3mA_K2a4</a>.</p>\n<p></p>\n<p>Thanks,</p>\n<p>Jeremy</p>\n<p></p>\n<p></p>", 
+      "anon": "no", 
+      "created": "2017-08-25T02:45:28Z", 
+      "uid": "isgwdf47kb42f", 
+      "subject": "Office Hours 24th Aug 9PM EST"
+    }, 
+    {
+      "content": "<p>Hi all,</p>\n<p></p>\n<p>I will hold office hours\u00a0tomorrow the\u00a024th\u00a0from 9PM to 10PM EST via YouTube live.</p>\n<p>Please post your questions\u00a0at\u00a0<a href=\"http://slido.com\" target=\"_blank\">slido.com</a> using event code:\u00a0<strong>CS8803</strong></p>\n<p>I will try to answer the questions here:\u00a0<a href=\"https://www.youtube.com/watch?v=EDD3mA_K2a4\" target=\"_blank\">https://www.youtube.com/watch?v=EDD3mA_K2a4</a>.</p>\n<p></p>\n<p>Thanks,</p>\n<p>Jeremy</p>\n<p></p>\n<p>#pin</p>", 
+      "anon": "no", 
+      "created": "2017-08-24T14:24:16Z", 
+      "uid": "hkkbz4bujtv5dn", 
+      "subject": "Office Hours 24th Aug 9PM EST"
+    }, 
+    {
+      "content": "<p>Hi all,</p>\n<p></p>\n<p>I will hold office hours\u00a0tomorrow the\u00a024th\u00a0from 9PM to 10PM EST via YouTube live.</p>\n<p>Please post your questions\u00a0at\u00a0<a href=\"http://slido.com\" target=\"_blank\">slido.com</a> using event code:\u00a0<strong>CS8803</strong>.</p>\n<p>I will try to answer the questions here:\u00a0<a href=\"https://www.youtube.com/watch?v=EDD3mA_K2a4\" target=\"_blank\">https://www.youtube.com/watch?v=EDD3mA_K2a4</a>.</p>\n<p></p>\n<p>Thanks,</p>\n<p>Jeremy</p>\n<p></p>\n<p>#pin</p>", 
+      "anon": "no", 
+      "created": "2017-08-24T14:22:44Z", 
+      "uid": "hkkbz4bujtv5dn", 
+      "subject": "Office Hours 24th Aug 9PM EST"
+    }, 
+    {
+      "content": "<p>Hi all,</p>\n<p></p>\n<p>I will hold office hours\u00a0tomorrow the\u00a024th\u00a0from 9PM to 10PM EST via YouTube live.</p>\n<p>Please post your questions on the Q&amp;A\u00a0slides\u00a0linked here:\u00a0<a href=\"http://goo.gl/slides/w7euhz\" target=\"_blank\">goo.gl/slides/w7euhz</a></p>\n<p>I will try to answer the questions here:\u00a0<a href=\"https://www.youtube.com/watch?v=EDD3mA_K2a4\" target=\"_blank\">https://www.youtube.com/watch?v=EDD3mA_K2a4</a>.</p>\n<p></p>\n<p>Thanks,</p>\n<p>Jeremy</p>\n<p></p>\n<p>#pin</p>", 
+      "anon": "no", 
+      "created": "2017-08-24T02:27:04Z", 
+      "uid": "hkkbz4bujtv5dn", 
+      "subject": "Office Hours 24th Aug 9PM EST"
+    }, 
+    {
+      "content": "<p>Hi all,</p>\n<p></p>\n<p>I will hold office hours\u00a0tomorrow the\u00a024th\u00a0from 9PM to 10PM EST via YouTube live.</p>\n<p>Please post your questions on the Q&amp;A\u00a0slides\u00a0linked here:\u00a0<a href=\"http://goo.gl/slides/w7euhz\" target=\"_blank\">goo.gl/slides/w7euhz</a></p>\n<p>I will try to answer the questions here:\u00a0<a href=\"https://www.youtube.com/watch?v=EDD3mA_K2a4\" target=\"_blank\">https://www.youtube.com/watch?v=EDD3mA_K2a4</a>.</p>\n<p></p>\n<p>Thanks,</p>\n<p>Jeremy</p>\n#pin", 
+      "anon": "no", 
+      "created": "2017-08-24T02:26:36Z", 
+      "uid": "hkkbz4bujtv5dn", 
+      "subject": "Office Hours 24th Aug 9PM EST"
+    }, 
+    {
+      "content": "<p>Hi all,</p>\n<p></p>\n<p>I will hold office hours\u00a0tomorrow the\u00a024th\u00a0from 9PM to 10PM EST via YouTube live.</p>\n<p>Please post your questions on the Q&amp;A\u00a0slides\u00a0linked here:\u00a0<a href=\"http://goo.gl/slides/w7euhz\" target=\"_blank\">goo.gl/slides/w7euhz</a></p>\n<p>I will try to answer the questions here:\u00a0<a href=\"https://www.youtube.com/watch?v=EDD3mA_K2a4\" target=\"_blank\">https://www.youtube.com/watch?v=EDD3mA_K2a4</a>.</p>\n<p></p>\n<p>Thanks,</p>\n<p>Jeremy</p>", 
+      "anon": "no", 
+      "created": "2017-08-24T02:26:26Z", 
+      "uid": "hkkbz4bujtv5dn", 
+      "subject": "Office Hours 24th Aug 9PM EST"
+    }
+  ]
+}

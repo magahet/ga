@@ -1,0 +1,103 @@
+{
+  "status": "active", 
+  "unique_views": 209, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-03T09:31:00Z", 
+      "data": "j74jera1f4i4np", 
+      "uid": "ixqbkrwyoq429j"
+    }, 
+    {
+      "uid": "gy4twfv45cg5o6", 
+      "type": "i_answer", 
+      "when": "2017-09-03T11:49:49Z", 
+      "to": "j74jer9yjsi4no", 
+      "anon": "no", 
+      "data": "j74od9wyazv5k9"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j74jer9yjsi4no", 
+  "bookmarked": 3, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-03T11:49:49Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "hve4kb0lopy4sl"
+      ], 
+      "id": "j74od9wvwpk5k8", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Dimitri Krinos", 
+          "admin": false, 
+          "photo": "1410181027_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hve4kb0lopy4sl"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>I posted what solutions I have. \u00a0If you questions about solutions to other DP problems, post your answer and we&#39;ll check it.</p>", 
+          "anon": "no", 
+          "created": "2017-09-03T11:49:49Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 159, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw1"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 0, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw1", 
+    "student"
+  ], 
+  "created": "2017-09-03T09:31:00Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145287169, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>Please post solutions to the rest of Ch.6 problems for extra practice.</p>", 
+      "anon": "no", 
+      "created": "2017-09-03T09:31:00Z", 
+      "uid": "ixqbkrwyoq429j", 
+      "subject": "Ch. 6 Solutions"
+    }
+  ]
+}

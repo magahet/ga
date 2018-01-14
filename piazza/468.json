@@ -1,0 +1,421 @@
+{
+  "status": "active", 
+  "unique_views": 209, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-28T07:18:10Z", 
+      "data": "j844o8mr2kl303", 
+      "uid": "i4ptxbxq30m358"
+    }, 
+    {
+      "to": "j844o8mqxce302", 
+      "anon": "stud", 
+      "when": "2017-09-28T07:26:10Z", 
+      "data": "j844yiurlan2zn", 
+      "type": "s_answer"
+    }, 
+    {
+      "uid": "gns9oa0pgsO", 
+      "type": "i_answer", 
+      "when": "2017-09-28T12:53:42Z", 
+      "to": "j844o8mqxce302", 
+      "anon": "no", 
+      "data": "j84gnqml9ew1ew"
+    }, 
+    {
+      "to": "j844o8mqxce302", 
+      "anon": "no", 
+      "when": "2017-09-29T17:04:10Z", 
+      "type": "followup", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j844o8mqxce302", 
+      "anon": "stud", 
+      "when": "2017-09-29T17:32:27Z", 
+      "type": "feedback"
+    }, 
+    {
+      "to": "j844o8mqxce302", 
+      "anon": "no", 
+      "when": "2017-09-29T18:17:38Z", 
+      "type": "feedback", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j844o8mqxce302", 
+      "anon": "no", 
+      "when": "2017-09-29T18:20:14Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j844o8mqxce302", 
+      "anon": "no", 
+      "when": "2017-09-29T18:25:52Z", 
+      "type": "feedback", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j844o8mqxce302", 
+      "anon": "no", 
+      "when": "2017-09-29T18:28:03Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j844o8mqxce302", 
+      "anon": "no", 
+      "when": "2017-09-29T18:31:09Z", 
+      "type": "feedback", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j844o8mqxce302", 
+      "anon": "no", 
+      "when": "2017-09-29T18:33:44Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j844o8mqxce302", 
+      "anon": "stud", 
+      "when": "2017-09-29T21:58:59Z", 
+      "type": "feedback"
+    }, 
+    {
+      "to": "j844o8mqxce302", 
+      "anon": "no", 
+      "when": "2017-10-01T16:34:39Z", 
+      "type": "feedback", 
+      "uid": "hqa46xmysgg2af"
+    }, 
+    {
+      "to": "j844o8mqxce302", 
+      "anon": "no", 
+      "when": "2017-10-03T03:16:33Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j844o8mqxce302", 
+      "anon": "no", 
+      "when": "2017-10-07T20:51:17Z", 
+      "type": "feedback", 
+      "uid": "idgjs16yZ4K"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j844o8mqxce302", 
+  "bookmarked": 8, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-28T07:26:10Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j844yiuobqi2zm", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>Yes. \u00a0Matplotlib was even mentioned by name in the office hours. \u00a0</p>", 
+          "anon": "stud", 
+          "created": "2017-09-28T07:26:10Z", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-28T12:53:42Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j84gnqmlout1ev", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>You can use whatever you want for tasks 1 and 3.\u00a0 but be sure that when you turn in task 2 no extra libraries are included that might not reside in the grading environment.</p>", 
+          "anon": "no", 
+          "created": "2017-09-28T12:53:42Z", 
+          "uid": "gns9oa0pgsO", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-29T17:04:10Z", 
+      "no_upvotes": 0, 
+      "uid": "hvil6y6khgk2ri", 
+      "created": "2017-09-29T17:04:10Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8651p31jiw78a", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-29T17:32:27Z", 
+          "created": "2017-09-29T17:32:27Z", 
+          "type": "feedback", 
+          "id": "j866228lxd46s8", 
+          "anon": "stud", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#43;1 to this.\u00a0 There&#39;s a lot of statements by students saying we can only use numpy.random for task 2 but nothing from the instructor (that I&#39;ve found).\u00a0 If you can import numpy.random, it generally means the entire numpy distribution is installed.\u00a0 I would like to have the option to use all of numpy for task 2 for the runtime (and coding simplicity) improvements.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-29T18:17:38Z", 
+          "uid": "gns9oa0pgsO", 
+          "created": "2017-09-29T18:17:38Z", 
+          "type": "feedback", 
+          "id": "j867o63786orw", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>i am knowledgeable about python/numpy but not an expert.\u00a0\u00a0\u00a0if your code crashes the autograder because of an import it will not get a good grade.\u00a0 this is the reason for the restrictions.\u00a0 if you are sufficiently knowledgeable\u00a0 about python and numpy to know that that won&#39;t happen regardless of the vagaries of my environment, then by all means, feel free to import numpy as np.</p>\n<p></p>\n<p>Note: the required task 2 code, using only\u00a0native python constructions such as\u00a0lists, <strong>requires ~20 lines of\u00a0new code added to the template, and runs in 4 seconds</strong>, so there is no compelling reason why any numpy constructs should be used instead.\u00a0\u00a0 Remember,\u00a0&#34;<strong>premature optimization is the root of all evil (or at least most of it) in programming</strong>&#34; - Donald Knuth.</p>\n<p></p>\n<p>there is no need to actually even call random for task 2 (since all the data and\u00a0coefficients for the hashes are provided to you for type 2 hashes, which are the only ones required).\u00a0 i only included numpy.random in the template because i knew that most folks would use the template for tasks 1 and 3 as well, and the native random used in task 1 was excruciating.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-29T18:20:14Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-09-29T18:20:14Z", 
+          "type": "feedback", 
+          "id": "j867rikpncq5hy", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thanks John - with that in mind I will be happy with what I have.<br /><br />That said....I do know that we are allowed to import stuff like matplotlib into our project for tasks 1 and 3, but my question is (again, not being an expert in Python): even if functionality for, say, matplotlib is not found within the functions called in task 2 but they ARE used elsewhere in the code....would the mere import of matplotlib crash the autograder?</p>\n<p></p>\n<p>Thanks,</p>\n<p>Brent</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-29T18:25:52Z", 
+          "uid": "gns9oa0pgsO", 
+          "created": "2017-09-29T18:25:52Z", 
+          "type": "feedback", 
+          "id": "j867yrl4nak14a", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>i cannot say for certain but i would imagine not.\u00a0 if you want to be safe, you can make a version of your code for task 2, make sure it works and then submit that, and then do whatever you need to do with the code for tasks 1 and 3.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-29T18:28:03Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-09-29T18:28:03Z", 
+          "type": "feedback", 
+          "id": "j8681k8vh762kb", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>OH! I thought the TAs needed our code that generated the graphs and such for tasks 1 and 3; is this not the case? Do you guys not need our code for tasks 1 and 3 / are we not required to turn in the code that takes care of tasks 1 and 3?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-29T18:31:09Z", 
+          "uid": "gns9oa0pgsO", 
+          "created": "2017-09-29T18:31:09Z", 
+          "type": "feedback", 
+          "id": "j8685k1ck4w53u", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>i&#39;m not going to grade it, so no.\u00a0 the only turnin should be &#34;bloom.py&#34; that successfully executes the autograding for task2 submitted to t-square\u00a0, and your report on the template provided to gradescope.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-29T18:33:44Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-09-29T18:33:44Z", 
+          "type": "feedback", 
+          "id": "j8688vqgjsu2m", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Egg-cellent, that frees us up a bit, seeing as we dont have to turn in that code.\u00a0 Thanks!</p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-29T21:58:59Z", 
+          "created": "2017-09-29T21:58:59Z", 
+          "type": "feedback", 
+          "id": "j86fktupld64b4", 
+          "anon": "stud", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Even something as simple as random.randint(x,y,n) returns a numpy array so it&#39;s also just more convenient. \u00a0Granted it doesn&#39;t seem necessary for task\u00a02. \u00a0I can manually remove my code related to task 1 and 3 due to the ambiguity of whether it will work on a particular grading environment that I don&#39;t have enough visibility into.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-01T16:34:39Z", 
+          "uid": "hqa46xmysgg2af", 
+          "created": "2017-10-01T16:34:39Z", 
+          "type": "feedback", 
+          "id": "j88yvfar2le7bd", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I got\u00a0<strong> result c</strong>ompareResults : Your bloom filter performs as expected but it takes few minutes.\u00a0 Am I doing anything wrong.\u00a0 How long it takes to run the Task2?\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-03T03:16:33Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-10-03T03:16:33Z", 
+          "type": "feedback", 
+          "id": "j8b18ry63hu6ke", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>For me, it took ~2 seconds to run hash type 2 and ~12 for hash type 1; you may want to optimize a bit with vectorization.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-07T20:51:17Z", 
+          "uid": "idgjs16yZ4K", 
+          "created": "2017-10-07T20:51:17Z", 
+          "type": "feedback", 
+          "id": "j8hsokstro07m9", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "You can always do an import inside a function too.  It isn&#39;t good style in most cases but in this case I think it&#39;s an easy way to avoid some weird autograder error killing your submission."
+        }
+      ], 
+      "subject": "<p>Odd question but I just want to make sure: Is it safe to assume that since <br /><br /></p>\n<pre>import numpy.random as random</pre>\n<p></p>\n<p>is included, then importing numpy itself is safe for task 2? Having those numpy arrays available for hash1 and hash2 can vastly decrease runtime as opposed to using lists.<br /><br />I would guess yes, but I am no Python master and dont want my project to tank because I made an assumption :)</p>"
+    }
+  ], 
+  "nr": 468, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "project"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 3, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "project", 
+    "student"
+  ], 
+  "created": "2017-09-28T07:18:10Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145209164, 
+  "tag_good": [
+    {
+      "name": "Nelson Cheng", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4kxfs7hlxngu"
+    }
+  ], 
+  "tag_good_arr": [
+    "i4kxfs7hlxngu"
+  ], 
+  "history": [
+    {
+      "content": "<p>For the Bloom Filter project, can we use numpy utility functions to assist with the visualization of the data as well as functions like &#39;zeros&#39; to work with a matrix like data structure?<br /><br />I ask because the bloom.py file emphasizes using only numpy.random.</p>", 
+      "anon": "no", 
+      "created": "2017-09-28T07:18:10Z", 
+      "uid": "i4ptxbxq30m358", 
+      "subject": "Numpy utilities for plotting? Matrices?"
+    }
+  ]
+}

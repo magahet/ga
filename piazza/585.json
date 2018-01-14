@@ -1,0 +1,111 @@
+{
+  "status": "active", 
+  "unique_views": 140, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "stud", 
+      "when": "2017-10-04T03:46:14Z", 
+      "data": "j8chqssw98d4pf"
+    }, 
+    {
+      "uid": "i4ket0u1z5q31a", 
+      "type": "s_answer", 
+      "when": "2017-10-04T04:28:45Z", 
+      "to": "j8chqssu9uh4pe", 
+      "anon": "no", 
+      "data": "j8cj9h8wx1t3qi"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8chqssu9uh4pe", 
+  "bookmarked": 2, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-04T04:28:45Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [
+        "gns9oa0pgsO", 
+        "iddoxdl8kz72oc"
+      ], 
+      "id": "j8cj9h8q1m83qh", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "john turner", 
+          "admin": true, 
+          "photo": null, 
+          "us": false, 
+          "role": "ta", 
+          "facebook_id": null, 
+          "id": "gns9oa0pgsO"
+        }, 
+        {
+          "name": "Lei Wang", 
+          "admin": false, 
+          "photo": null, 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "iddoxdl8kz72oc"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>self.HasFunc is an instance of one of your hash functions; either HashType1 or HashType2.</p>\n<p>How would you call your hash algorithms&#39; methods?\u00a0 One of them takes &#39;x&#39; as a parameter.</p>", 
+          "anon": "no", 
+          "created": "2017-10-04T04:28:45Z", 
+          "uid": "i4ket0u1z5q31a", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 585, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "project"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 0, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "project", 
+    "student"
+  ], 
+  "created": "2017-10-04T03:46:14Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145183369, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p></p><pre>    def add(self, x):<br />        &#34;&#34;&#34;Adds x to the data structure, using self.hashFunc     <br />        Args:<br />            x (int): The integer to add to the bloom filter<br />        &#34;&#34;&#34;</pre>\n<p>Don&#39;t quite understand how to implement the add using self.hasFunc. From my understanding, the H[hi(x)] need to set to 1 by somehow using x as an argument.</p>\n<p>While the self.hashFunc would not take argument, then how could i link the X to the hashfunction?\u00a0</p>", 
+      "anon": "stud", 
+      "created": "2017-10-04T03:46:14Z", 
+      "subject": "self.HashFunc question for Task 2"
+    }
+  ]
+}

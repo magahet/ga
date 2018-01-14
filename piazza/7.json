@@ -1,0 +1,348 @@
+{
+  "status": "active", 
+  "unique_views": 334, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-08-19T16:38:55Z", 
+      "data": "j6jj3a6985f6jo", 
+      "uid": "i4jridi579yhq"
+    }, 
+    {
+      "uid": "i4fxg6tfzh211n", 
+      "type": "s_answer", 
+      "when": "2017-08-21T05:28:06Z", 
+      "to": "j6jj3a685oo6jn", 
+      "anon": "no", 
+      "data": "j6lq0brl66g4kx"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-08-21T05:29:11Z", 
+      "data": "j6lq1pkayq4xp", 
+      "uid": "i4fxg6tfzh211n"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-08-21T13:41:11Z", 
+      "data": "j6m7mfaunql7e9", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "uid": "gy4twfv45cg5o6", 
+      "type": "i_answer", 
+      "when": "2017-08-21T13:44:41Z", 
+      "to": "j6jj3a685oo6jn", 
+      "anon": "no", 
+      "data": "j6m7qxjk3pl1ts"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j6jj3a685oo6jn", 
+  "bookmarked": 6, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-08-21T05:28:06Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [
+        "hv1gl7gmpkj41y"
+      ], 
+      "id": "j6lq0brik7v4kw", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "William Miller", 
+          "admin": false, 
+          "photo": "1408322716_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hv1gl7gmpkj41y"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p></p>", 
+          "anon": "no", 
+          "created": "2017-08-21T13:41:11Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>Found some <a href=\"https://www.chegg.com/homework-help/algorithms-1st-edition-solutions-9780073523408\" target=\"_blank\">here</a>\u00a0but I don&#39;t know how correct they are...</p>", 
+          "anon": "no", 
+          "created": "2017-08-21T05:29:11Z", 
+          "uid": "i4fxg6tfzh211n", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>Found some here:\u00a0<a href=\"https://www.chegg.com/homework-help/algorithms-1st-edition-solutions-9780073523408\">https://www.chegg.com/homework-help/algorithms-1st-edition-solutions-9780073523408</a>\u00a0but I don&#39;t know how correct they are...</p>", 
+          "anon": "no", 
+          "created": "2017-08-21T05:28:06Z", 
+          "uid": "i4fxg6tfzh211n", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-08-21T13:44:41Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "i4fxg6tfzh211n", 
+        "ij7kfkx61zz365", 
+        "hyzyc8nwswo6z5", 
+        "hv1gl7gmpkj41y", 
+        "i4knvwlqXZ8", 
+        "iddoy33j6hv2tz"
+      ], 
+      "id": "j6m7qxjjtn01tr", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Estelle Yeh", 
+          "admin": false, 
+          "photo": "1421544945_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i4fxg6tfzh211n"
+        }, 
+        {
+          "name": "Samantha Campo", 
+          "admin": false, 
+          "photo": "1452452625_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "ij7kfkx61zz365"
+        }, 
+        {
+          "name": "Zack Gow", 
+          "admin": false, 
+          "photo": "1476241357_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hyzyc8nwswo6z5"
+        }, 
+        {
+          "name": "William Miller", 
+          "admin": false, 
+          "photo": "1408322716_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hv1gl7gmpkj41y"
+        }, 
+        {
+          "name": "Matthew Clarke", 
+          "admin": false, 
+          "photo": "1468354733_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i4knvwlqXZ8"
+        }, 
+        {
+          "name": "Parag Kalra", 
+          "admin": false, 
+          "photo": null, 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "iddoy33j6hv2tz"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p></p>\n<p>I will post solutions to the practice DP problems within a few days.</p>\n<p>They are great practice. \u00a0Please post questions if you&#39;re struggling (with</p>\n<p>any practice problem, DP or not), or to check a solution to one of the</p>\n<p>practice problems. \u00a0</p>", 
+          "anon": "no", 
+          "created": "2017-08-21T13:44:41Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 7, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "logistics"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "logistics", 
+    "student"
+  ], 
+  "created": "2017-08-19T16:38:55Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145339074, 
+  "tag_good": [
+    {
+      "name": "Neil Mahoney", 
+      "admin": false, 
+      "photo": "1424804421_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4k6tlymI4j"
+    }, 
+    {
+      "name": "Mike Fullen", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "idgk9rl6Wdv"
+    }, 
+    {
+      "name": "Jaya Rao", 
+      "admin": false, 
+      "photo": "1503185676_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hviwm6agQCk"
+    }, 
+    {
+      "name": "Josh Clum", 
+      "admin": false, 
+      "photo": "1431566311_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hve4k9bj2u4qu"
+    }, 
+    {
+      "name": "Jeff", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hz0dcwnm1cl4n3"
+    }, 
+    {
+      "name": "Pico Geyer", 
+      "admin": false, 
+      "photo": "1434355342_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4mub6lmaxh"
+    }, 
+    {
+      "name": "Vincent Romeo", 
+      "admin": false, 
+      "photo": "1400337266_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hv8z1thijfq6ns"
+    }, 
+    {
+      "name": "William Miller", 
+      "admin": false, 
+      "photo": "1408322716_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hv1gl7gmpkj41y"
+    }, 
+    {
+      "name": "Matthew Clarke", 
+      "admin": false, 
+      "photo": "1468354733_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4knvwlqXZ8"
+    }, 
+    {
+      "name": "Nelson Cheng", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4kxfs7hlxngu"
+    }, 
+    {
+      "name": "Greg", 
+      "admin": false, 
+      "photo": "1464416700_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "ij832p58ncG"
+    }, 
+    {
+      "name": "Samantha Campo", 
+      "admin": false, 
+      "photo": "1452452625_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "ij7kfkx61zz365"
+    }
+  ], 
+  "tag_good_arr": [
+    "i4k6tlymI4j", 
+    "idgk9rl6Wdv", 
+    "hviwm6agQCk", 
+    "hve4k9bj2u4qu", 
+    "hz0dcwnm1cl4n3", 
+    "i4mub6lmaxh", 
+    "hv8z1thijfq6ns", 
+    "hv1gl7gmpkj41y", 
+    "i4knvwlqXZ8", 
+    "i4kxfs7hlxngu", 
+    "ij832p58ncG", 
+    "ij7kfkx61zz365"
+  ], 
+  "history": [
+    {
+      "content": "<p>Are the solutions to the practice problems from\u00a0<em>Algorithms</em> assigned in the lectures available anywhere? I&#39;m getting a lot of benefit from doing the problems even without the solution, but I&#39;d like to make sure I&#39;m not making mistakes.</p>", 
+      "anon": "no", 
+      "created": "2017-08-19T16:38:55Z", 
+      "uid": "i4jridi579yhq", 
+      "subject": "Solutions to Practice Problems"
+    }
+  ]
+}

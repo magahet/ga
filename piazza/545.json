@@ -1,0 +1,99 @@
+{
+  "status": "active", 
+  "unique_views": 258, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-02T22:53:31Z", 
+      "data": "j8aruifxam67je", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-02T22:53:34Z", 
+      "data": "j8arul37jota4", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-10T19:56:10Z", 
+      "data": "j8m11992ozh6k", 
+      "uid": "gy4twfv45cg5o6"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8aruifuoo97jd", 
+  "bookmarked": 3, 
+  "tags": [
+    "exam", 
+    "instructor-note"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [], 
+  "nr": 545, 
+  "bucket_order": 2, 
+  "type": "note", 
+  "folders": [
+    "exam"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-10-02T22:53:31Z", 
+  "is_tag_good": false, 
+  "config": {
+    "is_announcement": 1, 
+    "bypass_email": 1
+  }, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145191892, 
+  "tag_good": [
+    {
+      "name": "Xinyu Wang", 
+      "admin": true, 
+      "photo": null, 
+      "us": false, 
+      "role": "ta", 
+      "facebook_id": null, 
+      "id": "isce58miop454k"
+    }
+  ], 
+  "tag_good_arr": [
+    "isce58miop454k"
+  ], 
+  "history": [
+    {
+      "content": "As the professor has asked, please submit re-grade requests through gradescope.  Slamming piazza with regrade requests, instead of posting them to gradescope, just makes it more difficult for us to deal with legitimate piazza questions.", 
+      "anon": "no", 
+      "created": "2017-10-10T19:56:10Z", 
+      "uid": "gy4twfv45cg5o6", 
+      "subject": "Regrade requests go on Gradescope!"
+    }, 
+    {
+      "content": "<p>As the professor has asked, please submit re-grade requests through gradescope.\u00a0 Slamming piazza with regrade requests, instead of posting them to gradescope,\u00a0just makes it more difficult for us to deal with legitimate piazza questions.\u00a0</p>\n#pin", 
+      "anon": "no", 
+      "created": "2017-10-02T22:53:34Z", 
+      "uid": "gns9oa0pgsO", 
+      "subject": "Regrade requests go on Gradescope!"
+    }, 
+    {
+      "content": "<p>As the professor has asked, please submit re-grade requests through gradescope.\u00a0 Slamming piazza with regrade requests, instead of posting them to gradescope,\u00a0just makes it more difficult for us to deal with legitimate piazza questions.\u00a0</p>", 
+      "anon": "no", 
+      "created": "2017-10-02T22:53:31Z", 
+      "uid": "gns9oa0pgsO", 
+      "subject": "Regrade requests go on Gradescope!"
+    }
+  ]
+}

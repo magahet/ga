@@ -1,0 +1,124 @@
+{
+  "status": "active", 
+  "unique_views": 197, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-08-22T16:43:59Z", 
+      "data": "j6ntld6iuol21v", 
+      "uid": "hveop63kovn61t"
+    }, 
+    {
+      "to": "j6ntld6fu8d21u", 
+      "anon": "no", 
+      "when": "2017-08-22T18:46:37Z", 
+      "type": "followup", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-08-23T00:24:39Z", 
+      "data": "j6oa1shslru5hl", 
+      "uid": "i1v7fed8sw85di"
+    }, 
+    {
+      "to": "j6ntld6fu8d21u", 
+      "anon": "no", 
+      "when": "2017-08-23T01:20:58Z", 
+      "type": "followup", 
+      "uid": "i1v7fed8sw85di"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j6ntld6fu8d21u", 
+  "bookmarked": 3, 
+  "tags": [
+    "student", 
+    "udacity"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-08-22T18:46:37Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "gy4twfv45cg5o6", 
+      "created": "2017-08-22T18:46:37Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6nxz2l4mr6282", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>Thanks. \u00a0We&#39;ll get that fixed. \u00a0I&#39;ll ask Udacity to fix the grading Perl script. \u00a0--Eric</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-23T01:20:58Z", 
+      "no_upvotes": 0, 
+      "uid": "i1v7fed8sw85di", 
+      "created": "2017-08-23T01:20:58Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6oc27qmqq0503", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>The quiz should now ignore whitespace - thanks for reporting!</p>"
+    }
+  ], 
+  "nr": 30, 
+  "bucket_order": 2, 
+  "type": "note", 
+  "folders": [
+    "udacity"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 0, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-08-22T16:43:59Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145330269, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p><a href=\"https://classroom.udacity.com/courses/ud401/lessons/10046800612/concepts/8d807a4e-18a7-4cea-92fe-db743569e56f\">https://classroom.udacity.com/courses/ud401/lessons/10046800612/concepts/8d807a4e-18a7-4cea-92fe-db743569e56f</a></p>\n<p></p>\n<p>for this quiz make sure you are not adding spaces to your solution or the grader will reject it.</p>", 
+      "anon": "no", 
+      "created": "2017-08-23T00:24:39Z", 
+      "uid": "i1v7fed8sw85di", 
+      "subject": "Recurrence: i is on path quiz whitespace matters."
+    }, 
+    {
+      "content": "<p><a href=\"https://classroom.udacity.com/courses/ud401/lessons/10046800612/concepts/8d807a4e-18a7-4cea-92fe-db743569e56f\">https://classroom.udacity.com/courses/ud401/lessons/10046800612/concepts/8d807a4e-18a7-4cea-92fe-db743569e56f</a></p>\n<p></p>\n<p>for this quiz make sure you are not adding spaces to your solution or the grader will reject it.</p>", 
+      "anon": "no", 
+      "created": "2017-08-22T16:43:59Z", 
+      "uid": "hveop63kovn61t", 
+      "subject": "Recurrence: i is on path quiz whitespace matters."
+    }
+  ]
+}

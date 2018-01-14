@@ -1,0 +1,131 @@
+{
+  "status": "active", 
+  "unique_views": 149, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-08T00:45:48Z", 
+      "data": "j7b5um12h2p3g", 
+      "uid": "ijakr2uj6yk43e"
+    }, 
+    {
+      "uid": "hju4w9odatf30", 
+      "type": "i_answer", 
+      "when": "2017-09-08T00:47:42Z", 
+      "to": "j7b5um10d5s3f", 
+      "anon": "no", 
+      "data": "j7b5x2b0jq73t0"
+    }, 
+    {
+      "to": "j7b5um10d5s3f", 
+      "anon": "no", 
+      "when": "2017-09-08T00:52:19Z", 
+      "type": "followup", 
+      "uid": "ijakr2uj6yk43e"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j7b5um10d5s3f", 
+  "bookmarked": 4, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-08T00:47:42Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "ijakr2uj6yk43e"
+      ], 
+      "id": "j7b5x2awkom3sz", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Kevin Niemczyk", 
+          "admin": false, 
+          "photo": "1452553632_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "ijakr2uj6yk43e"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>That is the\u00a0Euler&#39;s theorem. Check out the notes here:\u00a0https://cs6505.wordpress.com/rsa-1/</p>\n<p></p>\n<p>Euler\u2019s Theorem:</p>\n<p>For any\u00a0<img src=\"https://s0.wp.com/latex.php?latex=N&amp;bg=ffffff&amp;fg=404040&amp;s=0\" alt=\"N\" width=\"15\" height=\"11\" />, given any\u00a0<img src=\"https://s0.wp.com/latex.php?latex=a&amp;bg=ffffff&amp;fg=404040&amp;s=0\" alt=\"a\" width=\"9\" height=\"7\" />\u00a0relatively prime to\u00a0<img src=\"https://s0.wp.com/latex.php?latex=N&amp;bg=ffffff&amp;fg=404040&amp;s=0\" alt=\"N\" width=\"15\" height=\"11\" />\u00a0(So\u00a0<img src=\"https://s0.wp.com/latex.php?latex=gcd%28a%2CN%29%3D1&amp;bg=ffffff&amp;fg=404040&amp;s=0\" width=\"96\" height=\"18\" />)</p>\n<p><img src=\"https://s0.wp.com/latex.php?latex=a%5E%7B%5Cphi%28N%29%7D&#43;%3D&#43;1&#43;%5Cmod&#43;N&amp;bg=ffffff&amp;fg=404040&amp;s=0\" width=\"129\" height=\"16\" />\u00a0where\u00a0<img src=\"https://s0.wp.com/latex.php?latex=%5Cphi%28N%29&amp;bg=ffffff&amp;fg=404040&amp;s=0\" width=\"36\" height=\"18\" />\u00a0\u00a0= # integers\u00a0<img src=\"https://s0.wp.com/latex.php?latex=b&#43;%5Cin&#43;%7B1%2C...%2CN%7D&amp;bg=ffffff&amp;fg=404040&amp;s=0\" width=\"78\" height=\"15\" />\u00a0that are relatively prime to\u00a0<img src=\"https://s0.wp.com/latex.php?latex=N&amp;bg=ffffff&amp;fg=404040&amp;s=0\" alt=\"N\" width=\"15\" height=\"11\" />\u00a0\u00a0= \u00a0<img src=\"https://s0.wp.com/latex.php?latex=%7C%5C%7Bb%3Ab&#43;%5Cin&#43;%7B1%2C...%2CN%7D%5Cmid&#43;gcd%28b%2C&#43;N%29%3D1%5C%7D%7C&amp;bg=ffffff&amp;fg=404040&amp;s=0\" width=\"231\" height=\"18\" /></p>\n<p>For primes\u00a0<img src=\"https://s0.wp.com/latex.php?latex=p%2Cq&amp;bg=ffffff&amp;fg=404040&amp;s=0\" alt=\"p,q\" width=\"24\" height=\"10\" />, let\u00a0<img src=\"https://s0.wp.com/latex.php?latex=N&#43;%3D&#43;pq&amp;bg=ffffff&amp;fg=404040&amp;s=0\" width=\"53\" height=\"14\" />, then\u00a0<img src=\"https://s0.wp.com/latex.php?latex=%5Cphi%28N%29&#43;%3D&#43;%28p-1%29%28q-1%29&amp;bg=ffffff&amp;fg=404040&amp;s=0\" width=\"156\" height=\"18\" />.</p>", 
+          "anon": "no", 
+          "created": "2017-09-08T00:47:42Z", 
+          "uid": "hju4w9odatf30", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-08T00:52:19Z", 
+      "no_upvotes": 0, 
+      "uid": "ijakr2uj6yk43e", 
+      "created": "2017-09-08T00:52:19Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7b62zs2dte49", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>Ack! So there it is! Sorry for the dumb question. I was in a &#34;Step 3: Profit&#34; situation. Thanks for clarifying.</p>"
+    }
+  ], 
+  "nr": 220, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "udacity", 
+    "random_algorithms"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 3, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "random_algorithms", 
+    "student", 
+    "udacity"
+  ], 
+  "created": "2017-09-08T00:45:48Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145270969, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>I&#39;m really confused about how the answer to lecture L6.15 (RSA Exercise) gets d in the third part of the exercise. I was able to work out the other two correctly, but I&#39;m a bit confused about\u00a0why we&#39;re using 360 in the solution given instead of 403.</p>\n<p></p>\n<p>p = 13, q = 31, N = 403, (p-1)(q-1) = 360</p>\n<p></p>\n<p>To find d we use the following (forgive formatting)</p>\n<p></p>\n<p>d = e^-1 mod N</p>\n<p></p>\n<p>It appears the answer being used in the exercise is using 360 (p-1)(q-1) instead of 403 (N). I&#39;m curious as to why? Did I miss something fundamental? After watching the office hours, I understand how to calculate the inverse/ find d properly using Euclid Ext. but I&#39;m not sure why it&#39;s 360 in the example instead of 403?</p>", 
+      "anon": "no", 
+      "created": "2017-09-08T00:45:48Z", 
+      "uid": "ijakr2uj6yk43e", 
+      "subject": "RSA Decryption Exercise in lecture."
+    }
+  ]
+}

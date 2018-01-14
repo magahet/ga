@@ -1,0 +1,413 @@
+{
+  "status": "active", 
+  "unique_views": 312, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-08-21T13:53:03Z", 
+      "data": "j6m81onxg5h6vz", 
+      "uid": "hv5exp71kfz754"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-08-21T13:53:48Z", 
+      "data": "j6m82n96agq7gn", 
+      "uid": "hv5exp71kfz754"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-08-21T14:14:50Z", 
+      "data": "j6m8toyubom5o8", 
+      "uid": "hv5exp71kfz754"
+    }, 
+    {
+      "uid": "gy4twfv45cg5o6", 
+      "type": "i_answer", 
+      "when": "2017-08-21T14:58:34Z", 
+      "to": "j6m81onq5im6vy", 
+      "anon": "no", 
+      "data": "j6madxzqsy0590"
+    }, 
+    {
+      "to": "j6m81onq5im6vy", 
+      "anon": "no", 
+      "when": "2017-08-21T17:10:30Z", 
+      "type": "followup", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j6m81onq5im6vy", 
+      "anon": "no", 
+      "when": "2017-08-22T02:16:14Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j6m81onq5im6vy", 
+      "anon": "no", 
+      "when": "2017-08-23T01:03:21Z", 
+      "type": "followup", 
+      "uid": "groxksg3ex8"
+    }, 
+    {
+      "to": "j6m81onq5im6vy", 
+      "anon": "no", 
+      "when": "2017-08-23T15:10:15Z", 
+      "type": "feedback", 
+      "uid": "hv5exp71kfz754"
+    }, 
+    {
+      "to": "j6m81onq5im6vy", 
+      "anon": "no", 
+      "when": "2017-08-24T01:31:01Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j6m81onq5im6vy", 
+      "anon": "no", 
+      "when": "2017-08-25T16:57:48Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j6m81onq5im6vy", 
+  "bookmarked": 4, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-08-21T14:58:34Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "hv5exp71kfz754", 
+        "hv1gl7gmpkj41y", 
+        "hqa65fnalg83fr", 
+        "ijarmqggjkc3gz", 
+        "hv8z1thijfq6ns", 
+        "hq8hn0qyfuvyr", 
+        "iddoy33j6hv2tz", 
+        "idfwkf5jgsm3gg", 
+        "idej2kl6hh1", 
+        "hve4k9bj2u4qu", 
+        "idg5nm2lC96", 
+        "iej41k6jtiz3dc", 
+        "i4mub6lmaxh"
+      ], 
+      "id": "j6madxzkj1558z", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Kris Peterson", 
+          "admin": false, 
+          "photo": null, 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hv5exp71kfz754"
+        }, 
+        {
+          "name": "William Miller", 
+          "admin": false, 
+          "photo": "1408322716_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hv1gl7gmpkj41y"
+        }, 
+        {
+          "name": "Amin Mansuri", 
+          "admin": false, 
+          "photo": "1400911910_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hqa65fnalg83fr"
+        }, 
+        {
+          "name": "Jeff Berry", 
+          "admin": false, 
+          "photo": "1452567269_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "ijarmqggjkc3gz"
+        }, 
+        {
+          "name": "Vincent Romeo", 
+          "admin": false, 
+          "photo": "1400337266_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hv8z1thijfq6ns"
+        }, 
+        {
+          "name": "Nolan Capehart", 
+          "admin": false, 
+          "photo": null, 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hq8hn0qyfuvyr"
+        }, 
+        {
+          "name": "Parag Kalra", 
+          "admin": false, 
+          "photo": null, 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "iddoy33j6hv2tz"
+        }, 
+        {
+          "name": "Nikita Nerkar", 
+          "admin": false, 
+          "photo": "1455312357_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "idfwkf5jgsm3gg"
+        }, 
+        {
+          "name": "Chris Noyes", 
+          "admin": false, 
+          "photo": null, 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "idej2kl6hh1"
+        }, 
+        {
+          "name": "Josh Clum", 
+          "admin": false, 
+          "photo": "1431566311_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hve4k9bj2u4qu"
+        }, 
+        {
+          "name": "Dennis Sidharta", 
+          "admin": false, 
+          "photo": "1463366773_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "idg5nm2lC96"
+        }, 
+        {
+          "name": "Grady Johnson", 
+          "admin": false, 
+          "photo": null, 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "iej41k6jtiz3dc"
+        }, 
+        {
+          "name": "Pico Geyer", 
+          "admin": false, 
+          "photo": "1434355342_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i4mub6lmaxh"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p></p>\n<p>Good point. \u00a0I will almost always just ask for the min/max or T/F value.</p>\n<p>I will make it very clear if you need to output the actual subsequence for</p>\n<p>example. \u00a0 So for 6.1 just find the max sum, and for 6.2 just find the</p>\n<p>min penalty. \u00a0</p>\n<p></p>\n<p>The point is that even if you want the actual subsequence</p>\n<p>you first solve it just for the min/max value. \u00a0Then you do some simple</p>\n<p>backtracking to find the actual subsequence. \u00a0So when you&#39;re\u00a0</p>\n<p>defining the subproblem make sure to define it as a min/max or T/F</p>\n<p>problem, regardless of whether the final goal is min/max or the actual</p>\n<p>subsequence.</p>", 
+          "anon": "no", 
+          "created": "2017-08-21T14:58:34Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-21T17:10:30Z", 
+      "no_upvotes": 0, 
+      "uid": "hq8hn0qyfuvyr", 
+      "created": "2017-08-21T17:10:30Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6mf3m8590n3mr", 
+      "anon": "no", 
+      "bucket_name": "Week 8/20 - 8/26", 
+      "config": {}, 
+      "bucket_order": 8, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-08-22T02:16:14Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-08-22T02:16:14Z", 
+          "type": "feedback", 
+          "id": "j6mylf4bctw4p0", 
+          "anon": "no", 
+          "bucket_name": "Week 8/20 - 8/26", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p></p>\n<p>I agree, that&#39;s why I don&#39;t ask it much. \u00a0--Eric</p>"
+        }
+      ], 
+      "subject": "Thanks for the clarification, Professor. I was wondering the same thing. I also noticed that coming up with a method to find the actual subsequence seems to not add a lot of educational value for the work involved, but that&#39;s just my opinion."
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-23T01:03:21Z", 
+      "no_upvotes": 0, 
+      "uid": "groxksg3ex8", 
+      "created": "2017-08-23T01:03:21Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6obfjn7nhr2h", 
+      "anon": "no", 
+      "bucket_name": "Week 8/20 - 8/26", 
+      "config": {}, 
+      "bucket_order": 8, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-08-23T15:10:15Z", 
+          "uid": "hv5exp71kfz754", 
+          "created": "2017-08-23T15:10:15Z", 
+          "type": "feedback", 
+          "id": "j6p5oo1r3ef6vp", 
+          "anon": "no", 
+          "bucket_name": "Week 8/20 - 8/26", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Perhaps there is a better way but... One possible way in 6.2 is to create another array and to use the array to store the index of the best hotel to travel to from n. \u00a0Then you could reconstruct it. \u00a0So when you calculate the lowest cost for n, also store the index of the hotel that gives you the lowest cost. \u00a0</p>\n<p></p>\n<p></p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-24T01:31:01Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-08-24T01:31:01Z", 
+          "type": "feedback", 
+          "id": "j6pruzgp3e46ds", 
+          "anon": "no", 
+          "bucket_name": "Week 8/20 - 8/26", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>My point above was that you could figure out a way to get the sequence, but it&#39;s basically tedious work that doesn&#39;t really teach you anything about the principles of DP, and therefore isn&#39;t really worth the trouble. I think it&#39;s similar to the reason the Professor won&#39;t generally require us to write out the algorithm once we have the\u00a0recursive relationship.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-25T16:57:48Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-08-25T16:57:48Z", 
+          "type": "feedback", 
+          "id": "j6s4eoyqj257ln", 
+          "anon": "no", 
+          "bucket_name": "Week 8/20 - 8/26", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>If you look at the HW solutions for 6.1 and 6.2 it includes the pseudocode for outputting the actual sequence.</p>"
+        }
+      ], 
+      "subject": "<p>I feel like I&#39;m missing something. I see we\u00a0only need to do min/max but is it vital that we understand how to find the sequence? For 6.2, I can find the min but I can&#39;t figure out the sequence. Same goes for the LIS in the lecture videos.</p>\n<p></p>\n<p></p>"
+    }
+  ], 
+  "nr": 16, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw1"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 3, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw1", 
+    "student"
+  ], 
+  "created": "2017-08-21T13:53:03Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145335291, 
+  "tag_good": [
+    {
+      "name": "Nikita Nerkar", 
+      "admin": false, 
+      "photo": "1455312357_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "idfwkf5jgsm3gg"
+    }
+  ], 
+  "tag_good_arr": [
+    "idfwkf5jgsm3gg"
+  ], 
+  "history": [
+    {
+      "content": "<p>I&#39;m not sure of the term for the complete solution to a dynamic programming problem as opposed to the min/max value.</p>\n<p></p>\n<p>\u00a0As an example problem 6.1 in Dasgupta - Maximizing the sum of contiguous sub-sequence. \u00a0 \u00a0When reading the question, I assumed the actual sub-sequence was required in the solution.\u00a0 The example solution only gave the max value - although I it seems like it would be straight forward in this instance to construct the sub-sequence.</p>\n<p></p>\n<p>Along with problem 6.2, we are to find the lowest penalty path from start to end hotel. \u00a0 Should we solve for the lowest penalty cost or should we also solve for the hotel stops along the path.</p>\n<p></p>\n<p>I ask because the lectures in DP1 seem to solve for the min/max values and not necessarily the final solution/path.</p>", 
+      "anon": "no", 
+      "created": "2017-08-21T14:14:50Z", 
+      "uid": "hv5exp71kfz754", 
+      "subject": "Dynamic Programming: Min/Max vs Complete Solution"
+    }, 
+    {
+      "content": "<p>I&#39;m not sure of the term for the complete solution to a dynamic programming problem as opposed to the min/max value.</p>\n<p></p>\n<p>\u00a0As an example problem 6.1 in Dasgupta - Maximizing the sum of contiguous subsequence. \u00a0 \u00a0When reading the question, I assumed the actual subsequence was required in the solution.\u00a0 The example solution only gave the max value.</p>\n<p></p>\n<p>Along with problem 6.2, we are to find the lowest penalty path from start to end hotel. \u00a0 Should we solve for the lowest penalty cost or should we also solve for the hotel stops along the path.</p>\n<p></p>\n<p>I ask because the lectures in DP1 seem to solve for the min/max values and not necessarily the final solution/path.</p>", 
+      "anon": "no", 
+      "created": "2017-08-21T13:53:48Z", 
+      "uid": "hv5exp71kfz754", 
+      "subject": "Dynamic Programming: Min/Max vs Complete Solution"
+    }, 
+    {
+      "content": "<p>I&#39;m not sure of the term for the complete solution to a dynamic programming problem as opposed to the min/max value.</p>\n<p></p>\n<p>\u00a0As an example problem 6.1 in Dasgupta - Maximizing the sum of contiguous subsequence. \u00a0 \u00a0When reading the question, I assumed the actual subsequence was required as well. \u00a0The example solution only gave the max value.</p>\n<p></p>\n<p>Along with problem 6.2, we are to find the lowest penalty path from start to end hotel. \u00a0 Should we solve for the lowest penalty cost or should we also solve for the hotel stops along the path.</p>\n<p></p>\n<p>I ask because the lectures in DP1 seem to solve for the min/max values and not necessarily the final solution/path.</p>", 
+      "anon": "no", 
+      "created": "2017-08-21T13:53:03Z", 
+      "uid": "hv5exp71kfz754", 
+      "subject": "Dynamic Programming: Min/Max vs Complete Solution"
+    }
+  ]
+}

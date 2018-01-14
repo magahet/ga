@@ -1,0 +1,428 @@
+{
+  "status": "active", 
+  "unique_views": 319, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-08-20T19:21:15Z", 
+      "data": "j6l4bwlkfok7bj", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-08-20T19:24:46Z", 
+      "data": "j6l4gfm8gox3bm", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-08-20T19:25:50Z", 
+      "data": "j6l4hshp6uy3lo", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-08-20T19:27:12Z", 
+      "data": "j6l4jjr5sik401", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j6l4bwlihd37bi", 
+      "anon": "no", 
+      "when": "2017-08-20T19:31:34Z", 
+      "type": "followup", 
+      "uid": "hv8z1thijfq6ns"
+    }, 
+    {
+      "uid": "hvil6y6khgk2ri", 
+      "type": "s_answer", 
+      "when": "2017-08-20T19:47:41Z", 
+      "to": "j6l4bwlihd37bi", 
+      "anon": "no", 
+      "data": "j6l59wgxot7346"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-08-20T19:55:55Z", 
+      "data": "j6l5khcz91p4rh", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-08-20T19:58:38Z", 
+      "data": "j6l5nz4mw8849q", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j6l4bwlihd37bi", 
+      "anon": "no", 
+      "when": "2017-08-20T20:44:46Z", 
+      "type": "followup", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j6l4bwlihd37bi", 
+      "anon": "no", 
+      "when": "2017-08-20T20:49:50Z", 
+      "type": "feedback", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j6l4bwlihd37bi", 
+      "anon": "no", 
+      "when": "2017-08-20T20:56:19Z", 
+      "type": "followup", 
+      "uid": "i4m49noo31213z"
+    }, 
+    {
+      "uid": "gy4twfv45cg5o6", 
+      "type": "i_answer", 
+      "when": "2017-08-20T21:49:28Z", 
+      "to": "j6l4bwlihd37bi", 
+      "anon": "no", 
+      "data": "j6l9mi79lgg6z5"
+    }, 
+    {
+      "to": "j6l4bwlihd37bi", 
+      "anon": "no", 
+      "when": "2017-08-21T04:10:20Z", 
+      "type": "feedback", 
+      "uid": "hqa65fnalg83fr"
+    }, 
+    {
+      "to": "j6l4bwlihd37bi", 
+      "anon": "no", 
+      "when": "2017-08-21T04:10:32Z", 
+      "type": "feedback", 
+      "uid": "hqa65fnalg83fr"
+    }, 
+    {
+      "to": "j6l4bwlihd37bi", 
+      "anon": "no", 
+      "when": "2017-08-21T15:32:45Z", 
+      "type": "followup", 
+      "uid": "i18w67avy8e1uk"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j6l4bwlihd37bi", 
+  "bookmarked": 7, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-08-20T19:31:34Z", 
+      "no_upvotes": 0, 
+      "uid": "hv8z1thijfq6ns", 
+      "created": "2017-08-20T19:31:34Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6l4p6959gk5cx", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-08-20T20:49:50Z", 
+          "uid": "i4ket0u1z5q31a", 
+          "created": "2017-08-20T20:49:50Z", 
+          "type": "feedback", 
+          "id": "j6l7httsyz97hb", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Basically if n is small then it looks like there will be a big discrepancy between n*(n-1), n*n, and n*n &#43; n.</p>\n<p>E.g. if n = 10 then there is &#43;/- 10% variation between n*n and the other two versions above.</p>\n<p>However, if n = 1,000,000 then the percent variation is too tiny to matter.</p>\n<p>So as n approaches infinity the little terms become insignificant.</p>\n<p>Yay, I learned something today! :)</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-21T04:10:20Z", 
+          "uid": "hqa65fnalg83fr", 
+          "created": "2017-08-21T04:10:20Z", 
+          "type": "feedback", 
+          "id": "j6ln8b0po733zk", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Its actually n &#43; \u00a0 n * (n &#43; 1) / 2 \u00a0</p>\n<p></p>\n<p>However, n * (n &#43;1) / 2 is O(n^2) because there exists a constant c such that for all n &gt; n0 \u00a0(some n0 &gt; 0)</p>\n<p>there \u00a0 \u00a0n * (n&#43;1) / 2 \u00a0&lt;= c * n^2 \u00a0 \u00a0 \u00a0for all n &gt; n0</p>\n<p></p>\n<p>Say for example that c = 2 and n0 = 1. You can see that this condition holds.</p>\n<p></p>\n<p><a href=\"https://xlinux.nist.gov/dads/HTML/bigOnotation.html\">https://xlinux.nist.gov/dads/HTML/bigOnotation.html<br /><br /><br /></a></p>\n<p>So we can just say n*(n&#43;1)/2 \u00a0 is the same as n^2 for the purposes of Big-O notation.<br /><br />So now we say: \u00a0n &#43; n^2 \u00a0is O(n^2)<br /><br />Well you can see that that also holds because if you choose a c=2 and n0&gt;1 and plug it in the Big-O notation you&#39;ll notice that for all n &gt; 1 this also holds. Therefore \u00a0O(n&#43;n^2) = O(n^2) as well according to Big-O notation.<br /><br />Big-O is about rate of growth. Its saying that something\u00a0linear is subsumed by a quadratic function, to the point that it doesn&#39;t matter. The rule is:<br /><br />O(f(n) &#43; g(n)) = O(max(f(n), g(n)) )\u00a0<br /><br />Where I&#39;m using &#34;max&#34; kind of loosely.<br /><br />Umm.. but note that: Technically speaking n is O(n^2) as well, but \u00a0n^2 is most definitely not O(n). There&#39;s a concept that is more precise called Theta but people generally just use Big-O instead of Theta.</p>"
+        }
+      ], 
+      "subject": "<p>I came here to ask literally the same exact question. Trying to understand why it wouldn&#39;t be O(n^2 &#43; n)</p>\n<p></p>"
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-08-20T19:47:41Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [
+        "hv8z1thijfq6ns"
+      ], 
+      "id": "j6l59wgvtgt345", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Vincent Romeo", 
+          "admin": false, 
+          "photo": "1400337266_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hv8z1thijfq6ns"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>I could be mistaken, but: only the largest &#39;block&#39; counts towards O(n); so for example, if it was O(n&#43;c) (and c is a constant) we will only concern ourselves with the highest order, namely &#39;n&#39;; conversely, if its O(n^2 &#43; n), well, the highest order is n^2, so we can drop the n entirely.<br /><br />Runtime is obviously important, as no one wants a program to run forever (or be inconvenienced by a slow response). The entire point of O() (which is actually called <strong>asymptotic notation</strong>, if you wish to investigate further) is to get a rough idea of how &#39;long&#39; an algorithm will run; n^2 will run far slower (which is what we care about with O(), mostly) than n to the point where when compared to n^2, n is more or less irrelevant in determining the time it would take for the algorithm to run.<br /><br />There are hierarchical orders to make these determinations, and not only that, there are other things besides O() to consider; I (sadly) had to bow out of CCA, but I do still have the notes on this topic from the class so I can post this order in a bit, if it has not been addressed already.</p>\n<p><br />Thats my explanation, and please - I am by no means an expert here.\u00a0 If I am wrong or have not explained it correctly, please feel free to change!</p>", 
+          "anon": "no", 
+          "created": "2017-08-20T19:58:38Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>I could be mistaken, but: only the largest &#39;block&#39; counts towards O(n); so for example, if it was O(n&#43;c) (and c is a constant) we will only concern ourselves with the highest order, namely &#39;n&#39;; conversely, if its O(n^2 &#43; n), well, the highest order is n^2, so we can drop the n entirely.<br /><br />Runtime is obviously important, as no one wants a program to run forever (or be inconvenienced by a slow response). The entire point of O() is to get a rough idea of how &#39;long&#39; an algorithm will run; n^2 will run far slower (which is what we care about with O(), mostly) than n to the point where when compared to n^2, n is more or less irrelevant in determining the time it would take for the algorithm to run.<br /><br />There are hierarchical orders to make these determinations, and not only that, there are other things besides O() to consider; I (sadly) had to bow out of CCA, but I do still have the notes on this topic from the class so I can post this order in a bit, if it has not been addressed already.</p>\n<p><br />Thats my explanation, and please - I am by no means an expert here.\u00a0 If I am wrong or have not explained it correctly, please feel free to change!</p>", 
+          "anon": "no", 
+          "created": "2017-08-20T19:55:55Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>I could be mistaken, but: only the largest &#39;block&#39; counts towards O(n); so for example, if it was O(n&#43;c) (and c is a constant) we will only concern ourselves with the highest order, namely &#39;n&#39;; conversely, if its O(n^2 &#43; n), well, the highest order is n^2, so we can drop the n entirely.<br /><br />The entire point of O() is to get a rough idea of how &#39;long&#39; an algorithm will run; n^2 will run far slower (which is what we care about with O(), mostly) than n to the point where when compared to n^2, n is more or less irrelevant in determining the time it would take for the algorithm to run.<br /><br />Thats my explanation, and please - I am by no means an expert here.\u00a0 If I am wrong or have not explained it correctly, please feel free to change!</p>", 
+          "anon": "no", 
+          "created": "2017-08-20T19:47:41Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-20T20:44:46Z", 
+      "no_upvotes": 0, 
+      "uid": "i4ket0u1z5q31a", 
+      "created": "2017-08-20T20:44:46Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6l7bavsbm41kx", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-08-21T04:10:32Z", 
+          "uid": "hqa65fnalg83fr", 
+          "created": "2017-08-21T04:10:32Z", 
+          "type": "feedback", 
+          "id": "j6ln8k4sdw141w", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#43;1</p>\n<p></p>"
+        }
+      ], 
+      "subject": "<p>A classmate on Slack pointed out that this is explained in the Prologue of the textbook.</p>\n<p>In short, it is the largest term that matters as it will dwarf the others for high(er) values of &#39;n&#39;.</p>\n<p>And (multiplicative) constants are kind of &#34;ignored&#34;.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-20T20:56:19Z", 
+      "no_upvotes": 0, 
+      "uid": "i4m49noo31213z", 
+      "created": "2017-08-20T20:56:19Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6l7q5jgw372kf", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>Chapter 0 of the book explains this well, IMO.</p>\n<p></p>"
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-08-20T21:49:28Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "hv8z1thijfq6ns"
+      ], 
+      "id": "j6l9mi77w726z4", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Vincent Romeo", 
+          "admin": false, 
+          "photo": "1400337266_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hv8z1thijfq6ns"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p></p>\n<p>The main part to fill the table is 2 nested for loops which is O(n^2) time.</p>\n<p>Then there is a for loop to output the max element that is O(n) time.</p>\n<p>O(n^2) &#43; O(n) = O(n^2).</p>\n<p></p>\n<p>I&#39;m assuming you are comfortable with big-O notation. \u00a0</p>\n<p></p>\n<p>--Eric</p>", 
+          "anon": "no", 
+          "created": "2017-08-20T21:49:28Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-21T15:32:45Z", 
+      "no_upvotes": 0, 
+      "uid": "i18w67avy8e1uk", 
+      "created": "2017-08-21T15:32:45Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6mblwv5zh15ca", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>One way to think of Big-Oh is to treat it like a &#34;max&#34; function. The smaller term is not actually ignored but overwhelmed by the larger value until it plays no significant role in the actual run time.\u00a0For simplicity, we just drop the smaller term. Another way to think of Big-oh is it serves as an &#34;upper-bound&#34; of the algorithm runtime.</p>\n<p></p>\n<p>HTH.</p>"
+    }
+  ], 
+  "nr": 10, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "dynamic_programming"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 4, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "dynamic_programming", 
+    "student"
+  ], 
+  "created": "2017-08-20T19:21:15Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145337476, 
+  "tag_good": [
+    {
+      "name": "Vincent Romeo", 
+      "admin": false, 
+      "photo": "1400337266_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hv8z1thijfq6ns"
+    }, 
+    {
+      "name": "Nelson Cheng", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4kxfs7hlxngu"
+    }, 
+    {
+      "name": "Dimitri Krinos", 
+      "admin": false, 
+      "photo": "1410181027_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hve4kb0lopy4sl"
+    }
+  ], 
+  "tag_good_arr": [
+    "hv8z1thijfq6ns", 
+    "i4kxfs7hlxngu", 
+    "hve4kb0lopy4sl"
+  ], 
+  "history": [
+    {
+      "content": "<p>Could someone who is good\u00a0at doing O(*) calculations explain to me why the LIS quiz is O(n^2)?</p>\n<p>I would think that the last element doesn&#39;t need to be compared to itself, and indeed the inner loop is to n-1.</p>\n<p>So does the final pass through looking for max add an O(n) to bring it up to O(n^2)?</p>\n<p></p>\n<p>P.S. I&#39;ve watched the solution but what I&#39;m really not clear on is why it&#39;s just O(n^2) the way the solution explains and not O(n^2 &#43; n). \u00a0Or why isn&#39;t it something like O(n!) given that repeating inner loop?</p>\n<p>P.P.S. Why doesn&#39;t the solution count the final O(n) to find the max as part of the total Order of calculation?</p>\n<p>P.P.P.S. And why does the solution say the inner loop is O(n) and not O(n-1)?</p>", 
+      "anon": "no", 
+      "created": "2017-08-20T19:27:12Z", 
+      "uid": "i4ket0u1z5q31a", 
+      "subject": "LIS quiz"
+    }, 
+    {
+      "content": "<p>Could someone who is good\u00a0at doing O(*) calculations explain to me why the LIS quiz is O(n^2)?</p>\n<p>I would think that the last element doesn&#39;t need to be compared to itself, and indeed the inner loop is to n-1.</p>\n<p>So does the final pass through looking for max add an O(n) to bring it up to O(n^2)?</p>\n<p></p>\n<p>P.S. I&#39;ve watched the solution but what I&#39;m really not clear on is why it&#39;s just O(n^2) the way the solution explains and not O(n^2 &#43; n). \u00a0Or why isn&#39;t it something like O(n!) given that repeating inner loop?</p>\n<p>P.P.S. Why doesn&#39;t the solution count the final O(n) to find the max as part of the total Order of calculation?</p>", 
+      "anon": "no", 
+      "created": "2017-08-20T19:25:50Z", 
+      "uid": "i4ket0u1z5q31a", 
+      "subject": "LIS quiz"
+    }, 
+    {
+      "content": "<p>Could someone who is good\u00a0at doing O(*) calculations explain to me why the LIS quiz is O(n^2)?</p>\n<p>I would think that the last element doesn&#39;t need to be compared to itself, and indeed the inner loop is to n-1.</p>\n<p>So does the final pass through looking for max add an O(n) to bring it up to O(n^2)?</p>\n<p></p>\n<p>P.S. I&#39;ve watched the solution but what I&#39;m really not clear on is why it&#39;s just O(n^2) the way the solution explains and not O(n^2 &#43; n). \u00a0Or why isn&#39;t it something like O(n!) given that repeating inner loop?</p>", 
+      "anon": "no", 
+      "created": "2017-08-20T19:24:46Z", 
+      "uid": "i4ket0u1z5q31a", 
+      "subject": "LIS quiz"
+    }, 
+    {
+      "content": "<p>Could someone who is good\u00a0at doing O(*) calculations explain to me why the LIS quiz is O(n^2)?</p>\n<p>I would think that the last element doesn&#39;t need to be compared to itself, and indeed the inner loop is to n-1.</p>\n<p>So does the final pass through looking for max add an O(n) to bring it up to O(n^2)?</p>", 
+      "anon": "no", 
+      "created": "2017-08-20T19:21:15Z", 
+      "uid": "i4ket0u1z5q31a", 
+      "subject": "LIS quiz"
+    }
+  ]
+}

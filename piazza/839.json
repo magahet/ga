@@ -1,0 +1,444 @@
+{
+  "status": "active", 
+  "unique_views": 163, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "stud", 
+      "when": "2017-10-27T11:47:53Z", 
+      "data": "j99u2t1ajl010b"
+    }, 
+    {
+      "type": "update", 
+      "anon": "stud", 
+      "when": "2017-10-27T13:49:59Z", 
+      "data": "j99yftjwkc073a"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-27T14:32:14Z", 
+      "data": "j99zy5xbr1due", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "uid": "gy4twfv45cg5o6", 
+      "type": "i_answer", 
+      "when": "2017-10-27T14:33:05Z", 
+      "to": "j99u2t171xp10a", 
+      "anon": "no", 
+      "data": "j99zz8wb4ju1c9"
+    }, 
+    {
+      "to": "j99u2t171xp10a", 
+      "anon": "no", 
+      "when": "2017-10-27T14:44:09Z", 
+      "type": "followup", 
+      "uid": "hz0pn3deX7A"
+    }, 
+    {
+      "to": "j99u2t171xp10a", 
+      "anon": "stud", 
+      "when": "2017-10-27T14:51:41Z", 
+      "type": "followup"
+    }, 
+    {
+      "to": "j99u2t171xp10a", 
+      "anon": "no", 
+      "when": "2017-10-27T14:59:52Z", 
+      "type": "feedback", 
+      "uid": "idi5567wFgu"
+    }, 
+    {
+      "to": "j99u2t171xp10a", 
+      "anon": "no", 
+      "when": "2017-10-27T17:16:39Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j99u2t171xp10a", 
+      "anon": "no", 
+      "when": "2017-10-27T17:45:43Z", 
+      "type": "followup", 
+      "uid": "i4m49pmqc4h14p"
+    }, 
+    {
+      "to": "j99u2t171xp10a", 
+      "anon": "no", 
+      "when": "2017-10-27T17:47:26Z", 
+      "type": "feedback", 
+      "uid": "i4m49pmqc4h14p"
+    }, 
+    {
+      "to": "j99u2t171xp10a", 
+      "anon": "no", 
+      "when": "2017-10-27T17:54:34Z", 
+      "type": "feedback", 
+      "uid": "i9jej4o7cmx14m"
+    }, 
+    {
+      "to": "j99u2t171xp10a", 
+      "anon": "no", 
+      "when": "2017-10-27T17:55:01Z", 
+      "type": "feedback", 
+      "uid": "i4gzn4buf4Q"
+    }, 
+    {
+      "to": "j99u2t171xp10a", 
+      "anon": "no", 
+      "when": "2017-10-27T18:00:01Z", 
+      "type": "feedback", 
+      "uid": "hvvxmpxfuyb2eo"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j99u2t171xp10a", 
+  "bookmarked": 8, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-27T14:33:05Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "hz07uekkjnrpb", 
+        "hyzyc8nwswo6z5", 
+        "i4fxg6tfzh211n", 
+        "idfwkf5jgsm3gg", 
+        "hvil6y6khgk2ri", 
+        "i4keszk6se630l", 
+        "i4jco3u0esh373", 
+        "i9jej4o7cmx14m"
+      ], 
+      "id": "j99zz8vcllc1c8", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Chris Anderson", 
+          "admin": false, 
+          "photo": "1408759905_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hz07uekkjnrpb"
+        }, 
+        {
+          "name": "Zack Gow", 
+          "admin": false, 
+          "photo": "1476241357_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hyzyc8nwswo6z5"
+        }, 
+        {
+          "name": "Estelle Yeh", 
+          "admin": false, 
+          "photo": "1421544945_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i4fxg6tfzh211n"
+        }, 
+        {
+          "name": "Nikita Nerkar", 
+          "admin": false, 
+          "photo": "1455312357_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "idfwkf5jgsm3gg"
+        }, 
+        {
+          "name": "Brent Wagenseller", 
+          "admin": false, 
+          "photo": "1408396390_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hvil6y6khgk2ri"
+        }, 
+        {
+          "name": "Sean McKiernan", 
+          "admin": false, 
+          "photo": "1420614205_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i4keszk6se630l"
+        }, 
+        {
+          "name": "Carl Shek", 
+          "admin": false, 
+          "photo": "1484018591_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i4jco3u0esh373"
+        }, 
+        {
+          "name": "John-Peter", 
+          "admin": false, 
+          "photo": null, 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i9jej4o7cmx14m"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "The exam 2 median was 68% (58 out of 85).", 
+          "anon": "no", 
+          "created": "2017-10-27T14:33:05Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-27T14:44:09Z", 
+      "no_upvotes": 0, 
+      "uid": "hz0pn3deX7A", 
+      "created": "2017-10-27T14:44:09Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j9a0dh5bu0a2qu", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>I am in the same boat and was wondering the same.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-27T14:51:41Z", 
+      "no_upvotes": 0, 
+      "created": "2017-10-27T14:51:41Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j9a0n6cmclt7b", 
+      "anon": "stud", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-27T14:59:52Z", 
+          "uid": "idi5567wFgu", 
+          "created": "2017-10-27T14:59:52Z", 
+          "type": "feedback", 
+          "id": "j9a0xoxlv6eyd", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>In &#64;525 Professor indicated that\u00a0 &gt; 80 is a A and &gt; 60 is a B.\u00a0 So, this should at-least hold good for now, I think.\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-27T17:16:38Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-10-27T17:16:38Z", 
+          "type": "feedback", 
+          "id": "j9a5tl1z3gx204", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Well, as a disclaimer (so no one sues me) that was points (which was out of 95) and for exam 1.  But it&#39;s fair to assume that the threshold for a B will be in the 60-65% range and A will be in the low 80&#39;s.  There is no extra credit but the nice thing about the final exam being worth a considerable amount is that you can really boost your grade.  And hopefully you&#39;ll do great on the final exam since you&#39;ve already learned the material and just need to refresh your memory.  I purposefully squeeze in a 3rd exam so that all of the material is covered on some midterm (except for some small bits in the last 2 lectures).  Final exams suck when you&#39;re going through them but they are really good in the end for solidifying it in your brain, so when you go to that technical interview in a few years you&#39;ll still be a master at DP.  --Eric"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-27T17:47:26Z", 
+          "uid": "i4m49pmqc4h14p", 
+          "created": "2017-10-27T17:47:26Z", 
+          "type": "feedback", 
+          "id": "j9a6x6icyxw51z", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Yeah I can see that. Revisiting learned material solidifies that concept we learn.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-27T17:54:34Z", 
+          "uid": "i9jej4o7cmx14m", 
+          "created": "2017-10-27T17:54:34Z", 
+          "type": "feedback", 
+          "id": "j9a76cjrxc67i7", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>has there been any information on the length of the final exam (still 2 hours, or more?), or is it too far off to be sharing details?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-27T17:55:01Z", 
+          "uid": "i4gzn4buf4Q", 
+          "created": "2017-10-27T17:55:01Z", 
+          "type": "feedback", 
+          "id": "j9a76xqpg0y2dt", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Luckily I was not asked a DP question on my interview at Amazon a few years ago :-)...</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-27T18:00:01Z", 
+          "uid": "hvvxmpxfuyb2eo", 
+          "created": "2017-10-27T18:00:01Z", 
+          "type": "feedback", 
+          "id": "j9a7dcwhmrg3sa", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thanks professor, thats motivating.</p>"
+        }
+      ], 
+      "subject": "<p>I was hoping to know if the 60-65% end of semester grade would be in the B range. Realistically that looks like what I may be on track for. If this isn&#39;t the range for a B I might be better dropping and retaking next time.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-27T17:45:43Z", 
+      "no_upvotes": 0, 
+      "uid": "i4m49pmqc4h14p", 
+      "created": "2017-10-27T17:45:43Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j9a6uyvsq6k3tr", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>Thanks Dr Vigoda and TAs for giving us scores so soon after exam 2!</p>"
+    }
+  ], 
+  "nr": 839, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "exam", 
+    "logistics", 
+    "course"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 4, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "course", 
+    "exam", 
+    "logistics", 
+    "student"
+  ], 
+  "created": "2017-10-27T11:47:53Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145120957, 
+  "tag_good": [
+    {
+      "name": "Michael Buss", 
+      "admin": false, 
+      "photo": "1435529089_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hz0pn3deX7A"
+    }, 
+    {
+      "name": "Sean McKiernan", 
+      "admin": false, 
+      "photo": "1420614205_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4keszk6se630l"
+    }
+  ], 
+  "tag_good_arr": [
+    "hz0pn3deX7A", 
+    "i4keszk6se630l"
+  ], 
+  "history": [
+    {
+      "content": "Is there any chance to get some clarity on Exam 2 median, and if possible what the course curve looks like prior to tomorrow&#39;s drop date?\n\nI did much worse on Exam 2 than I was expecting (especially given the amount of time I put into studying). Curious to know if the original grading policy still stands as is, or if there would be any tolerance/ leniency to a bad test score (eg. replace with next lowest / extra credit opp etc.).", 
+      "anon": "no", 
+      "created": "2017-10-27T14:32:14Z", 
+      "uid": "gy4twfv45cg5o6", 
+      "subject": "Grading policy"
+    }, 
+    {
+      "content": "<p>\u00a0Is there any chance to get some clarity on Exam 2 median, and if possible what the course curve looks like prior to tomorrow&#39;s drop date?</p>\n<p></p>\n<p>I did much worse on Exam 2 than I was expecting (especially given the amount of time I put into studying). Curious to know if the original grading policy still stands as is, or if there would be any tolerance/ leniency to a bad test score (eg. replace with next lowest / extra credit opp etc.).</p>\n<p></p>", 
+      "anon": "stud", 
+      "created": "2017-10-27T13:49:59Z", 
+      "subject": "Grading policy"
+    }, 
+    {
+      "content": "<p>\u00a0Is there any change to get some clarity on Exam 2 median, and if possible what the course curve looks like prior to tomorrow&#39;s drop date?</p>\n<p></p>\n<p>I did much worse on Exam 2 than I was expecting (especially given the amount of time I put into studying). Curious to know if the original grading policy still stands as is, or if there would be any tolerance/ leniency to a bad test score (eg. replace with next lowest / extra credit opp etc.).</p>\n<p></p>", 
+      "anon": "stud", 
+      "created": "2017-10-27T11:47:53Z", 
+      "subject": "Grading policy"
+    }
+  ]
+}

@@ -1,0 +1,563 @@
+{
+  "status": "active", 
+  "unique_views": 161, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-05T06:58:11Z", 
+      "data": "j778ty2j71t6dv", 
+      "uid": "hqa65fnalg83fr"
+    }, 
+    {
+      "to": "j778ty2i8a06du", 
+      "anon": "no", 
+      "when": "2017-09-05T07:19:50Z", 
+      "type": "followup", 
+      "uid": "idg5nm2lC96"
+    }, 
+    {
+      "uid": "i4hdvab632i522", 
+      "type": "s_answer", 
+      "when": "2017-09-05T07:20:51Z", 
+      "to": "j778ty2i8a06du", 
+      "anon": "no", 
+      "data": "j779n35q3yo2ln"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-09-05T08:20:53Z", 
+      "data": "j77bsaxw5ov2nb", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "to": "j778ty2i8a06du", 
+      "anon": "no", 
+      "when": "2017-09-05T08:28:05Z", 
+      "type": "followup", 
+      "uid": "hqa65fnalg83fr"
+    }, 
+    {
+      "to": "j778ty2i8a06du", 
+      "anon": "no", 
+      "when": "2017-09-05T08:55:13Z", 
+      "type": "feedback", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "to": "j778ty2i8a06du", 
+      "anon": "no", 
+      "when": "2017-09-05T12:53:40Z", 
+      "type": "feedback", 
+      "uid": "hqa65fnalg83fr"
+    }, 
+    {
+      "to": "j778ty2i8a06du", 
+      "anon": "no", 
+      "when": "2017-09-05T14:08:23Z", 
+      "type": "feedback", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "to": "j778ty2i8a06du", 
+      "anon": "no", 
+      "when": "2017-09-05T15:33:15Z", 
+      "type": "feedback", 
+      "uid": "isgwdf47kb42f"
+    }, 
+    {
+      "uid": "hkjzzued3ef4xh", 
+      "type": "i_answer", 
+      "when": "2017-09-05T16:34:36Z", 
+      "to": "j778ty2i8a06du", 
+      "anon": "no", 
+      "data": "j77tf88zxcdko"
+    }, 
+    {
+      "to": "j778ty2i8a06du", 
+      "anon": "no", 
+      "when": "2017-09-05T23:35:13Z", 
+      "type": "feedback", 
+      "uid": "hqa65fnalg83fr"
+    }, 
+    {
+      "to": "j778ty2i8a06du", 
+      "anon": "no", 
+      "when": "2017-09-05T23:35:38Z", 
+      "type": "followup", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j778ty2i8a06du", 
+      "anon": "no", 
+      "when": "2017-09-06T08:05:49Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-06T08:06:11Z", 
+      "data": "j78qp8llgzmgf", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j778ty2i8a06du", 
+      "anon": "no", 
+      "when": "2017-09-07T01:02:45Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j778ty2i8a06du", 
+      "anon": "no", 
+      "when": "2017-09-07T01:14:24Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j778ty2i8a06du", 
+      "anon": "no", 
+      "when": "2017-09-07T01:16:01Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j778ty2i8a06du", 
+      "anon": "no", 
+      "when": "2017-09-08T23:39:19Z", 
+      "type": "followup", 
+      "uid": "isb30n9eruy4my"
+    }, 
+    {
+      "to": "j778ty2i8a06du", 
+      "anon": "no", 
+      "when": "2017-09-09T02:27:03Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j778ty2i8a06du", 
+      "anon": "no", 
+      "when": "2017-09-09T13:22:54Z", 
+      "type": "feedback", 
+      "uid": "isb30n9eruy4my"
+    }, 
+    {
+      "to": "j778ty2i8a06du", 
+      "anon": "no", 
+      "when": "2017-09-09T15:24:07Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j778ty2i8a06du", 
+  "bookmarked": 8, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-09-05T07:19:50Z", 
+      "no_upvotes": 0, 
+      "uid": "idg5nm2lC96", 
+      "created": "2017-09-05T07:19:50Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j779lshqmad2a5", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>Is there a particular video that mentions that?</p>\n<p></p>\n<p>You can simplify an equivalence, mod $$N$$, by replacing the numbers with some other numbers in $$0 \\dots (N - 1)$$ as long as they&#39;re\u00a0in the same equivalence classes. For example, in the lecture, we saw $$-2^{-1} \\equiv 360 \\text{ mod } 7$$, which can be simplified to $$5^{-1} \\equiv 3 \\text{ mod } 7$$.</p>"
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-05T07:20:51Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j779n35mukj2lm", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "The fact that $$\\mod N$$ is an equivalence class, means that for every number $$\\ge N$$, there is an equivalent number $$\\mod N$$ that is $$&lt; N$$", 
+          "anon": "no", 
+          "created": "2017-09-05T08:20:53Z", 
+          "uid": "i4hdvab632i522", 
+          "subject": ""
+        }, 
+        {
+          "content": "The fact that $$\\mod N$$ is an equivalence set, means that for every number $$\\ge N$$, there is an equivalent number $$\\mod N$$ that is $$&lt; N$$", 
+          "anon": "no", 
+          "created": "2017-09-05T07:20:51Z", 
+          "uid": "i4hdvab632i522", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-05T08:28:05Z", 
+      "no_upvotes": 0, 
+      "uid": "hqa65fnalg83fr", 
+      "created": "2017-09-05T08:28:05Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j77c1jt4ifc4qi", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-05T08:55:13Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-09-05T08:55:13Z", 
+          "type": "feedback", 
+          "id": "j77d0g4ruom7o0", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "You could; it would generally be relatively inefficient though; additionally, some of the mathematical simplicity may vary in practice;\n\nfor instance RSA\n$$p=11, q=13, N=143, (p-1)(q-1) = 120, e=103, d=7, m = 42$$\n$$\\Rightarrow m^{103} \\equiv 3 \\!\\! \\mod 143$$\n$$\\Rightarrow 3^7 \\equiv 42 \\!\\! \\mod 143,~3^{150} \\equiv 1 \\!\\! \\mod 143$$\nAlthough $$3^{127} \\equiv 42 \\!\\! \\mod 143 $$\n\nSo the answer would be, keep it simple to avoid confusing yourself unnecessarily :-D"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-05T12:53:40Z", 
+          "uid": "hqa65fnalg83fr", 
+          "created": "2017-09-05T12:53:40Z", 
+          "type": "feedback", 
+          "id": "j77lj3f22aq4d9", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>yes.. but the videos said that there is only 1 inverse.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-05T14:08:23Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-09-05T14:08:23Z", 
+          "type": "feedback", 
+          "id": "j77o76g4xh22v2", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Well <a href=\"https://en.wikipedia.org/wiki/Modular_multiplicative_inverse\">Wikipedia</a> says &#34;any integer that is congruent to a (i.e., in a&#39;s congruence class) will have any element of x&#39;s congruence class as a modular multiplicative inverse&#34; so it&#39;s possibly more a question of phraseology, perception &amp; presenting notions as simply as possible."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-05T15:33:15Z", 
+          "uid": "isgwdf47kb42f", 
+          "created": "2017-09-05T15:33:15Z", 
+          "type": "feedback", 
+          "id": "j77r8bje6tz6hg", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>The inverse is unique up to equivalence. Any number equivalent to the inverse mod N is an inverse mod N because it is equivalent to the inverse mod N. Change to an equivalent number mod N is done for computational efficiency.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-05T23:35:13Z", 
+          "uid": "hqa65fnalg83fr", 
+          "created": "2017-09-05T23:35:13Z", 
+          "type": "feedback", 
+          "id": "j788g4p24si5ks", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>ah.. ok.. that makes sense. Thanks</p>"
+        }
+      ], 
+      "subject": "<p>but if I have a number X mod N = Inv\u00a0 \u00a0can&#39;t I use X instead of Inv as my inverse?</p>"
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-05T16:34:36Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j77tf88y7rikn", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>For any number $$x, N$$, if $$xy \\equiv 1 \\mod N$$, then any number z from $$\\dots, y-2N, y-N, y, y&#43;N, y&#43;2N, \\dots$$ can have $$xz \\equiv 1 \\mod N$$.</p>\n<p></p>\n<p>I believe the inverse definition comes from the group theory. Usually a group $$[N]=\\{0, 1, 2, \\dots, N-1\\}$$ is considered here, so the inverse(s) we can find refer to an element in $$[N]$$, and we pick the trivial one which is in the range $$[0, N-1]$$.</p>", 
+          "anon": "no", 
+          "created": "2017-09-05T16:34:36Z", 
+          "uid": "hkjzzued3ef4xh", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-05T23:35:38Z", 
+      "no_upvotes": 0, 
+      "uid": "hq8hn0qyfuvyr", 
+      "created": "2017-09-05T23:35:38Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j788goakvqw3fy", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-06T08:05:49Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-09-06T08:05:49Z", 
+          "type": "feedback", 
+          "id": "j78qos9x4339o", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p></p>\n<p>Good point. \u00a0I will\u00a0make that more clear in the video.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-07T01:02:45Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-09-07T01:02:45Z", 
+          "type": "feedback", 
+          "id": "j79r0kfmzs5601", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Thank you. I realize it probably won&#39;t matter, but which should we assume, a change to the definition, or a change to the theorem?"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-07T01:14:24Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-09-07T01:14:24Z", 
+          "type": "feedback", 
+          "id": "j79rfjagbdm6l", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p></p>\n<p>If I ask you for an inverse mod N, I will ask you to give me a number between 0...N-1. \u00a0This way there is one correct answer. \u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-07T01:16:01Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-09-07T01:16:01Z", 
+          "type": "feedback", 
+          "id": "j79rhmcr3c42yg", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Thank you. That makes sense."
+        }
+      ], 
+      "subject": "<p>I think the problem is that there was nothing in the definition of &#34;multiplicative inverse&#34; that requires that an inverse be &lt;N (in the lecture that introduced them), but then the &#34;Inverse: Existence&#34; lecture acted as if that is part of the definition.</p>\n<p></p>\n<p>That confusion could be fixed either by including that requirement as part of the definition, or by altering the theorem in the &#34;Inverse: Existence&#34; lecture to say that there exists at most one inverse which is less than N.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-08T23:39:19Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "isb30n9eruy4my", 
+      "created": "2017-09-08T23:39:19Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7ciwygotbj5hq", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-09T02:27:03Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-09-09T02:27:03Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j7cowo8ltul119", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>You&#39;re correct. I guess the only question is whether the definition of multiplicative inverse should be changed to indicate that it must be in the range of 1 to N-1, or whether instead the theorem that shows that there is only one multiplicative inverse should be modified to say &#34;only one in the range of 1 to N-1&#34;. But regardless of the answer to that question, it sounds as if the instructors want us to give an answer in that range when they ask us for a multiplicative inverse.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-09T13:22:54Z", 
+          "uid": "isb30n9eruy4my", 
+          "created": "2017-09-09T13:22:54Z", 
+          "type": "feedback", 
+          "id": "j7dcc3z25z16t5", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>agreed</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-09T15:24:07Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-09-09T15:24:07Z", 
+          "type": "feedback", 
+          "id": "j7dgnzc62jz2is", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p></p>\n<p>Haven&#39;t we discussed this enough?</p>\n<p></p>\n<p>If we are looking for $$a^{-1}\\  mod\\  N$$ if $$gcd(a,N)=1$$ the inverse exists.</p>\n<p>In this case, let $$b\\equiv a^{-1} \\ mod\\  N$$. \u00a0There are an infinite # of numbers equivalent to b modulo N. \u00a0There is a unique such b which is between 0 and N-1. \u00a0Are the videos unclear about this, well thanks for pointing it out, I will revise it eventually (that is the price of taking a course in its initial offering). \u00a0And on the exam if I ask you such a question I will explicitly ask you to give a number between 0 and N-1.</p>"
+        }
+      ], 
+      "subject": "<p>If there&#39;s no such a requirement, there would be more than one multiplicative inverse, right?</p>\n<p></p>\n<p>For example, what&#39;s the multiplicative inverse of 3 mod 2? I feel both 5 and 7 work, because 3*5 \u00a0\u2261 1 mod 2,\u00a0\u00a03*7 \u00a0\u2261 1 mod 2. If this is correct, there&#39;s many multiplicative inverse of 3 mod 2. </p>\n<p></p>\n<p>Or we do not consider cases when a is \u00a0bigger than b, for calculating the multiplicative inverse of a mod b? Am I missing anything?</p>"
+    }
+  ], 
+  "nr": 192, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "random_algorithms", 
+    "udacity"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 2, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "random_algorithms", 
+    "student", 
+    "udacity"
+  ], 
+  "created": "2017-09-05T06:58:11Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145280101, 
+  "tag_good": [
+    {
+      "name": "Nelson Cheng", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4kxfs7hlxngu"
+    }
+  ], 
+  "tag_good_arr": [
+    "i4kxfs7hlxngu"
+  ], 
+  "history": [
+    {
+      "content": "<p>I&#39;m probably missing something obvious but if why does the inverse mod N of a number need to be less than N?\u00a0<br /><br />Why couldn&#39;t it be a bigger number?</p>", 
+      "anon": "no", 
+      "created": "2017-09-06T08:06:11Z", 
+      "uid": "gy4twfv45cg5o6", 
+      "subject": "why does the inverse of a number need to be less than N?"
+    }, 
+    {
+      "content": "<p>I&#39;m probably missing something obvious but if why does the inverse mod N of a number need to be less than N?\u00a0<br /><br />Why couldn&#39;t it be a bigger number?</p>", 
+      "anon": "no", 
+      "created": "2017-09-05T06:58:11Z", 
+      "uid": "hqa65fnalg83fr", 
+      "subject": "why does the inverse of a number need to be less than N?"
+    }
+  ]
+}

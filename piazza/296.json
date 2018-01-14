@@ -1,0 +1,133 @@
+{
+  "status": "active", 
+  "unique_views": 164, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-13T23:17:28Z", 
+      "data": "j7jnc4dcjwn6gt", 
+      "uid": "i4iufvhm2nj4s1"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-14T00:00:17Z", 
+      "data": "j7jov758b7i2cf", 
+      "uid": "i4iufvhm2nj4s1"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-14T00:13:50Z", 
+      "data": "j7jpcmh04ij3bg", 
+      "uid": "i4iufvhm2nj4s1"
+    }, 
+    {
+      "uid": "isgwdf47kb42f", 
+      "type": "i_answer", 
+      "when": "2017-09-14T00:17:41Z", 
+      "to": "j7jnc4db5oz6gs", 
+      "anon": "no", 
+      "data": "j7jphkqqzcr6cd"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-14T01:03:49Z", 
+      "data": "j7jr4vw75u41i9", 
+      "uid": "i4iufvhm2nj4s1"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j7jnc4db5oz6gs", 
+  "bookmarked": 3, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-14T00:17:41Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j7jphkqm5a66cc", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>When you pick RSA\u00a0keys it&#39;s easier to use a positive exponent. But yes, -17 === 43 mod 60.</p>", 
+          "anon": "no", 
+          "created": "2017-09-14T00:17:41Z", 
+          "uid": "isgwdf47kb42f", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 296, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw2"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 3, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw2", 
+    "student"
+  ], 
+  "created": "2017-09-13T23:17:28Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145247719, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>The answer given for d is 43, but I got -17:</p>\n<p></p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/i4iufvhm2nj4s1/j7jn91imeswm/Capture.PNG\" alt=\"\" /></p>\n<p></p>\n<p>How is 43 reached using the extended euclid algorithm?</p>\n<p></p>\n<p>UPDATE: \u00a0Given some time to chew on it, I think I did the algorithm correctly, just misinterpreted the solution. \u00a0A mod shouldn&#39;t (can&#39;t?) be a negative number. \u00a0Meaning my -17 solution was reached correctly, but to get the mod value I need to first subtract\u00a0-17 from 60. \u00a0Hence, 43. \u00a0And 7 * 43 = 301 === 1 mod 60, so the answer checks out.</p>", 
+      "anon": "no", 
+      "created": "2017-09-14T01:03:49Z", 
+      "uid": "i4iufvhm2nj4s1", 
+      "subject": "HW 2 Problem 1.28 Solution"
+    }, 
+    {
+      "content": "<p>The answer given for d is 43, but I got -17:</p>\n<p></p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/i4iufvhm2nj4s1/j7jn91imeswm/Capture.PNG\" alt=\"\" /></p>\n<p></p>\n<p>How is 43 reached using the extended euclid algorithm?</p>\n<p></p>\n<p>UPDATE: \u00a0Given some time to chew on it, I think I did the algorithm correctly, just misinterpreted the solution. \u00a0A mod shouldn&#39;t (can&#39;t?) be a negative number. \u00a0Meaning my -17 solution was reached correctly, but to get the mod value I need to first subtract 60 from that value to get -17. \u00a0Hence, 43. \u00a0And 7 * 43 = 301 === 1 mod 60, so the answer checks out.</p>", 
+      "anon": "no", 
+      "created": "2017-09-14T00:13:50Z", 
+      "uid": "i4iufvhm2nj4s1", 
+      "subject": "HW 2 Problem 1.28 Solution"
+    }, 
+    {
+      "content": "<p>The answer given for d is 43, but I got -17:</p>\n<p></p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/i4iufvhm2nj4s1/j7jn91imeswm/Capture.PNG\" alt=\"\" /></p>\n<p></p>\n<p>How is 43 reached using the extended euclid algorithm?</p>", 
+      "anon": "no", 
+      "created": "2017-09-14T00:00:17Z", 
+      "uid": "i4iufvhm2nj4s1", 
+      "subject": "HW 2 Problem 1.28 Solution"
+    }, 
+    {
+      "content": "<p>The answer is given for d is 43, but I got -17:</p>\n<p></p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/i4iufvhm2nj4s1/j7jn91imeswm/Capture.PNG\" alt=\"\" /></p>\n<p></p>\n<p>How is 43 reached using the extended euclid algorithm?</p>", 
+      "anon": "no", 
+      "created": "2017-09-13T23:17:28Z", 
+      "uid": "i4iufvhm2nj4s1", 
+      "subject": "HW 2 Problem 1.28 Solution"
+    }
+  ]
+}

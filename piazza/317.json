@@ -1,0 +1,119 @@
+{
+  "status": "active", 
+  "unique_views": 200, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-16T00:07:25Z", 
+      "data": "j7mk02efae552d", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-16T00:07:38Z", 
+      "data": "j7mk0cm9w5959s", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "uid": "gy4twfv45cg5o6", 
+      "type": "i_answer", 
+      "when": "2017-09-16T13:30:45Z", 
+      "to": "j7mk02ecdy752c", 
+      "anon": "no", 
+      "data": "j7ncp61n3o1189"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j7mk02ecdy752c", 
+  "bookmarked": 3, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-16T13:30:45Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j7ncp61lju6188", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p></p>\n<p>I think it&#39;s fine since you&#39;re matching the pages to the problems in Gradescope. \u00a0<strong attention=\"hkjzzued3ef4xh\">&#64;Tiancheng Gong</strong>\u00a0 , right?</p>", 
+          "anon": "no", 
+          "created": "2017-09-16T13:30:45Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 317, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw3", 
+    "course"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 0, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "course", 
+    "hw3", 
+    "student"
+  ], 
+  "created": "2017-09-16T00:07:25Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145241097, 
+  "tag_good": [
+    {
+      "name": "Zack Gow", 
+      "admin": false, 
+      "photo": "1476241357_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hyzyc8nwswo6z5"
+    }
+  ], 
+  "tag_good_arr": [
+    "hyzyc8nwswo6z5"
+  ], 
+  "history": [
+    {
+      "content": "<p>So the old excuse\u00a0&#34;the dog ate my homework&#34; came true for me. Not only that, but he ate my second print out of the homework. If I write the problems out on notebook paper, and submit them, will that be acceptable?</p>", 
+      "anon": "no", 
+      "created": "2017-09-16T00:07:38Z", 
+      "uid": "ijbr5ddtwyt6pa", 
+      "subject": "Silly question, but do we have to submit homework on the templates?"
+    }, 
+    {
+      "content": "<p>So the old mistake &#34;the dog ate my homework&#34; came true for me. Not only that, but he ate my second print out of the homework. If I write the problems out on notebook paper, and submit them, will that be acceptable?</p>", 
+      "anon": "no", 
+      "created": "2017-09-16T00:07:25Z", 
+      "uid": "ijbr5ddtwyt6pa", 
+      "subject": "Silly question, but do we have to submit homework on the templates?"
+    }
+  ]
+}

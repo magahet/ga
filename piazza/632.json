@@ -1,0 +1,181 @@
+{
+  "status": "active", 
+  "unique_views": 145, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-06T13:36:49Z", 
+      "data": "j8fxq0b4v63zg", 
+      "uid": "i4j6x9zosul74s"
+    }, 
+    {
+      "to": "j8fxq0b35qpzf", 
+      "anon": "no", 
+      "when": "2017-10-06T13:43:37Z", 
+      "type": "followup", 
+      "uid": "i4j6x9zosul74s"
+    }, 
+    {
+      "uid": "hvil6y6khgk2ri", 
+      "type": "s_answer", 
+      "when": "2017-10-06T13:43:55Z", 
+      "to": "j8fxq0b35qpzf", 
+      "anon": "no", 
+      "data": "j8fxz50qvj2567"
+    }, 
+    {
+      "to": "j8fxq0b35qpzf", 
+      "anon": "no", 
+      "when": "2017-10-06T13:48:55Z", 
+      "type": "followup", 
+      "uid": "ijjd1u5dbTq"
+    }, 
+    {
+      "to": "j8fxq0b35qpzf", 
+      "anon": "no", 
+      "when": "2017-10-06T13:50:35Z", 
+      "type": "followup", 
+      "uid": "i4j6x9zosul74s"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8fxq0b35qpzf", 
+  "bookmarked": 5, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-10-06T13:43:37Z", 
+      "no_upvotes": 0, 
+      "uid": "i4j6x9zosul74s", 
+      "created": "2017-10-06T13:43:37Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8fxyqhb6zn57o", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>This question has been discussed &#64;543\u00a0</p>"
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-06T13:43:55Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [
+        "i4j6x9zosul74s"
+      ], 
+      "id": "j8fxz4zp7tj566", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Yanfang Li", 
+          "admin": false, 
+          "photo": null, 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i4j6x9zosul74s"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>It should NOT be P&gt;=n, it should be P&gt;=N.</p>\n<p></p>\n<p>In any event, you are correct on your second point - you will have to somehow alter m or n (pick one) and justify why you did in the body of the report.<br /><br />FYI, to my To my knowledge, you do not have to keep m = 100000.</p>", 
+          "anon": "no", 
+          "created": "2017-10-06T13:43:55Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-06T13:48:55Z", 
+      "no_upvotes": 0, 
+      "uid": "ijjd1u5dbTq", 
+      "created": "2017-10-06T13:48:55Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8fy5keuiwt240", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>There is a function, findNextPrime, in the provided utilities code that would probably help here.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-06T13:50:35Z", 
+      "no_upvotes": 0, 
+      "uid": "i4j6x9zosul74s", 
+      "created": "2017-10-06T13:50:35Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8fy7p11bs9202", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>Thank you Brent and JC, your reply is helpful very much!</p>"
+    }
+  ], 
+  "nr": 632, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "project"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "project", 
+    "student"
+  ], 
+  "created": "2017-10-06T13:36:49Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145171616, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>In task 1, \u00a0the write up says that &#34; P and n must be prime, and must be P&gt;=N&#34; ( BTW, it should be P&gt;=n, right?)</p>\n<p>Then in task 3, we are asked to &#34; Fix c first to be 10, and then 15, and sweep k from .4*c to 1.0*c.&#34;, Since c = n/m, while m = 100000 and c is fixed, we cannot ensure that n is a prime. Is that OK?</p>", 
+      "anon": "no", 
+      "created": "2017-10-06T13:36:49Z", 
+      "uid": "i4j6x9zosul74s", 
+      "subject": "task 3  about n being prime"
+    }
+  ]
+}

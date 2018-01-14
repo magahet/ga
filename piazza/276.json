@@ -1,0 +1,138 @@
+{
+  "status": "active", 
+  "unique_views": 198, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-12T05:41:57Z", 
+      "data": "j7h66vikrce7n8", 
+      "uid": "i4j6x5bv5ua71n"
+    }, 
+    {
+      "uid": "gy4twfv45cg5o6", 
+      "type": "i_answer", 
+      "when": "2017-09-12T14:15:43Z", 
+      "to": "j7h66viiudp7n7", 
+      "anon": "no", 
+      "data": "j7hojkvngz53qy"
+    }, 
+    {
+      "uid": "idg61g3ot1qp6", 
+      "type": "s_answer", 
+      "when": "2017-09-13T22:39:05Z", 
+      "to": "j7h66viiudp7n7", 
+      "anon": "no", 
+      "data": "j7jlyr5zqlo5dn"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-09-13T22:39:42Z", 
+      "data": "j7jlzkhvs8w3nl", 
+      "uid": "idg61g3ot1qp6"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j7h66viiudp7n7", 
+  "bookmarked": 4, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-12T14:15:43Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j7hojkvkk2t3qx", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>No. \u00a0You can use scrap paper. \u00a0But you need to write on paper. \u00a0</p>", 
+          "anon": "no", 
+          "created": "2017-09-12T14:15:43Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-13T22:39:04Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j7jlyr5hf3p5dm", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>Since you can&#39;t use a whiteboard, I&#39;ve been using a ton of blank white printer paper and a mechanical pencil, but I do need to invest in a larger eraser.</p>", 
+          "anon": "no", 
+          "created": "2017-09-13T22:39:42Z", 
+          "uid": "idg61g3ot1qp6", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>I&#39;ve been using a ton of blank white printer paper and a mechanical pencil, but I do need to invest in a larger eraser.</p>", 
+          "anon": "no", 
+          "created": "2017-09-13T22:39:04Z", 
+          "uid": "idg61g3ot1qp6", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 276, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "exam"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "exam", 
+    "student"
+  ], 
+  "created": "2017-09-12T05:41:57Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145254464, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "Can we use a whiteboard for the exam? There was talk about scanning in papers after the exam, but alternatively I can take a picture of the board after completing each question and convert this to a PDF.\n\nThat way I can erase any sloppy bits while working on the problems.", 
+      "anon": "no", 
+      "created": "2017-09-12T05:41:57Z", 
+      "uid": "i4j6x5bv5ua71n", 
+      "subject": "Whiteboard for exam?"
+    }
+  ]
+}

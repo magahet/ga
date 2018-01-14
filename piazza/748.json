@@ -1,0 +1,221 @@
+{
+  "status": "active", 
+  "unique_views": 169, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-17T23:27:07Z", 
+      "data": "j8w8ni3xseh2ws", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j8w8ni3v3io2wr", 
+      "anon": "no", 
+      "when": "2017-10-18T00:36:33Z", 
+      "type": "followup", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j8w8ni3v3io2wr", 
+      "anon": "no", 
+      "when": "2017-10-18T01:47:54Z", 
+      "type": "feedback", 
+      "uid": "hqa9hej5ny2gl"
+    }, 
+    {
+      "to": "j8w8ni3v3io2wr", 
+      "anon": "no", 
+      "when": "2017-10-18T10:23:37Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j8w8ni3v3io2wr", 
+      "anon": "no", 
+      "when": "2017-10-19T19:31:01Z", 
+      "type": "feedback", 
+      "uid": "ijbr5ddtwyt6pa"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8w8ni3v3io2wr", 
+  "bookmarked": 7, 
+  "tags": [
+    "exam", 
+    "graph_algorithms", 
+    "student"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-10-18T00:36:33Z", 
+      "no_upvotes": 0, 
+      "uid": "i4nkipeofrkrz", 
+      "created": "2017-10-18T00:36:33Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8wb4scxzfi4kr", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-18T01:47:54Z", 
+          "uid": "hqa9hej5ny2gl", 
+          "created": "2017-10-18T01:47:54Z", 
+          "type": "feedback", 
+          "id": "j8wdojgw6fk4kn", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I agree with false, but I think the reason is because the relationship of the pre- and post- numbers between two nodes has to be contained or disjoint, but never intersect.\u00a0 A back edge uv would have post(v) &gt; post(u), but the pre(u) would be greater than pre(v).</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-18T10:23:37Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-10-18T10:23:37Z", 
+          "type": "feedback", 
+          "id": "j8ww3rq44x85e4", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>You are absolutely right. Thanks for pointing it out!</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-19T19:31:01Z", 
+          "uid": "ijbr5ddtwyt6pa", 
+          "created": "2017-10-19T19:31:01Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j8yv3l5gsoj331", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>For 5 its\u00a0O(|V|<sup>2</sup>) if we use matrix searching and O(V log V &#43; E log V) if we use heap</p>"
+        }
+      ], 
+      "subject": "<p>My answers:</p>\n<p></p>\n<p>1. <strong>False</strong>. Below there&#39;s an example graph that proves this. Notice how the shortest path from A to C is 6 (AC), but the MST doesn&#39;t include AC.</p>\n<p></p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/i4nkipeofrkrz/j8w8sje8ca5j/Blank_Diagram__Page_1.png\" alt=\"\" /></p>\n<p>2. <strong>True.</strong>\u00a0If $$T$$ is a MST\u00a0and every edge $$e \\in T$$ has unique weight, then for every cut($$S$$, $$\\overline{S}$$), $$e$$ is the\u00a0lightest edge in that cut. If we try to create a new tree $$T&#39; = T \\cup e&#39; - e$$, we will end up with $$w(T&#39;) = w(T) &#43; w(e&#39;) - w(e)$$, and since $$w(e) &lt; w(e&#39;)$$, we will get that $$w(T&#39;) &gt; w(T)$$ which means that $$T&#39;$$ is not a MST.</p>\n<p></p>\n<p>3. <strong>False</strong>.\u00a0The picture below shows how there can be more than one second best MST:</p>\n<p></p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/i4nkipeofrkrz/j8waer454cho/Blank_Diagram__Page_1_1.png\" alt=\"\" /></p>\n<p>4. <strong>True</strong>.\u00a0We can simply look at the opposite of the\u00a0weights (by multiplying every weight by -1) and we will end up with a regular MST problem where we already proved (answer #2 above) that the $$T$$ is a unique MST\u00a0if all the edges have different weights.</p>\n<p></p>\n<p>5. <strong>True</strong>. (Maybe?) I think it depends on the specific data structure that we use.</p>\n<p></p>\n<p>6. <strong>True.</strong> DFS sets the final post number on a node after it has visited all its connections and there&#39;s no other way to go. In a directed acyclic graph, a source node is the only one where DFS will completely stop (because there are no connections coming into the node), therefore the post number of a source node will be higher than the rest of the nodes.</p>\n<p></p>\n<p>7.\u00a0 <strong>False</strong>. For $$e$$ to be an edge between $$u$$ and $$v$$,\u00a0we need $$post(v) &lt; post(u)$$.</p>"
+    }
+  ], 
+  "nr": 748, 
+  "bucket_order": 2, 
+  "type": "note", 
+  "folders": [
+    "exam", 
+    "graph_algorithms"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 15, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-10-17T23:27:07Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145140975, 
+  "tag_good": [
+    {
+      "name": "William Miller", 
+      "admin": false, 
+      "photo": "1408322716_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hv1gl7gmpkj41y"
+    }, 
+    {
+      "name": "Brent Wagenseller", 
+      "admin": false, 
+      "photo": "1408396390_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hvil6y6khgk2ri"
+    }, 
+    {
+      "name": "Rich Owen", 
+      "admin": false, 
+      "photo": "1470659298_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "idg61g3ot1qp6"
+    }, 
+    {
+      "name": "Jason Buoni", 
+      "admin": false, 
+      "photo": "1463440659_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "name": "Piyush Makhija", 
+      "admin": false, 
+      "photo": "1471808861_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "iddtex53uvo4xe"
+    }, 
+    {
+      "name": "Nelson Cheng", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4kxfs7hlxngu"
+    }
+  ], 
+  "tag_good_arr": [
+    "hv1gl7gmpkj41y", 
+    "hvil6y6khgk2ri", 
+    "idg61g3ot1qp6", 
+    "ijbr5ddtwyt6pa", 
+    "iddtex53uvo4xe", 
+    "i4kxfs7hlxngu"
+  ], 
+  "history": [
+    {
+      "content": "<p>I found these questions online. Hope they help you study for the exam.</p>\n<p></p>\n<p>Select True or False and show your proof:</p>\n<p></p>\n<ol><li>In an undirected graph, the shortest path between two nodes always lies on some minimum spanning tree.</li><li>If all edges of a graph have different weights, the minimum spanning tree is unique.</li><li>If all edges of a graph have different weights, the second-best\u00a0minimum spanning tree is unique.</li><li>If all edges of a graph have different weights, then the highest weight spanning tree is unique.</li><li>Prim&#39;s algorithm for computing minimum spanning trees runs in $$O(|V|^2)$$ steps.</li><li>In a DFS on a directed acyclic graph, the vertex with the highest postorder number is necessarily a source.</li><li>In a DFS of a directed graph, it is possible to have an edge between two vertices $$u$$ and $$v$$ with pre and post numbers: (10, 40) for $$u$$ and (30, 50) for $$v$$.</li></ol>", 
+      "anon": "no", 
+      "created": "2017-10-17T23:27:07Z", 
+      "uid": "i4nkipeofrkrz", 
+      "subject": "MST and DFS questions"
+    }
+  ]
+}

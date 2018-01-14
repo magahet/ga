@@ -1,0 +1,72 @@
+{
+  "status": "active", 
+  "unique_views": 140, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-14T15:00:24Z", 
+      "data": "j7kl0qqe52870v", 
+      "uid": "hju4w9odatf30"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-14T22:13:21Z", 
+      "data": "j7l0hj9guoa4v1", 
+      "uid": "hju4w9odatf30"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j7kl0qq6fb470u", 
+  "bookmarked": 2, 
+  "tags": [
+    "course", 
+    "instructor-note", 
+    "logistics"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [], 
+  "nr": 304, 
+  "bucket_order": 2, 
+  "type": "note", 
+  "folders": [
+    "logistics", 
+    "course"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-09-14T15:00:24Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145245472, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>Hi everyone,</p>\n<p>\u00a0</p>\n<p>I will be holding the office hours today from 7:00 - 8:00pm EST.</p>\n<p>Slido event code: CS8803-Thu</p>\n<p>Youtube:\u00a0<a href=\"https://www.youtube.com/watch?v=HBqJ_vn6Afs\">https://www.youtube.com/watch?v=HBqJ_vn6Afs</a></p>\n<p>\u00a0</p>\n<p>Thanks,</p>\n<p>Murali</p>", 
+      "anon": "no", 
+      "created": "2017-09-14T22:13:21Z", 
+      "uid": "hju4w9odatf30", 
+      "subject": "Office Hours Today: 7pm - 8pm EST"
+    }, 
+    {
+      "content": "<p>Hi everyone,</p>\n<p>\u00a0</p>\n<p>I will be holding the office hours today from 7:00 - 8:00pm EST.</p>\n<p>Slido event code: CS8803-Thu</p>\n<p>Youtube:\u00a0https://www.youtube.com/watch?v=HBqJ_vn6Afs</p>\n<p>\u00a0</p>\n<p>Thanks,</p>\n<p>Murali</p>", 
+      "anon": "no", 
+      "created": "2017-09-14T15:00:24Z", 
+      "uid": "hju4w9odatf30", 
+      "subject": "Office Hours Today: 7pm - 8pm EST"
+    }
+  ]
+}

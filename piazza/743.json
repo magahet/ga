@@ -1,0 +1,810 @@
+{
+  "status": "active", 
+  "unique_views": 163, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-17T12:31:55Z", 
+      "data": "j8vl8wqqmf3b4", 
+      "uid": "hqj2wfy7NUZ"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-17T12:35:41Z", 
+      "data": "j8vldrfrio948u", 
+      "uid": "hqj2wfy7NUZ"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-17T12:37:34Z", 
+      "data": "j8vlg63hcie544", 
+      "uid": "hqj2wfy7NUZ"
+    }, 
+    {
+      "uid": "hqj2wfy7NUZ", 
+      "type": "s_answer", 
+      "when": "2017-10-17T12:38:11Z", 
+      "to": "j8vl8wqlx5lb3", 
+      "anon": "no", 
+      "data": "j8vlgyfb4s25gy"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-10-17T12:42:31Z", 
+      "data": "j8vlmj6jsoa7kz", 
+      "uid": "hqj2wfy7NUZ"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-10-17T12:44:52Z", 
+      "data": "j8vlpk23nc85z4", 
+      "uid": "hqj2wfy7NUZ"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-10-17T12:48:21Z", 
+      "data": "j8vlu1jj6z43kg", 
+      "uid": "hqj2wfy7NUZ"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-10-17T12:58:05Z", 
+      "data": "j8vm6kf0mabpi", 
+      "uid": "hqj2wfy7NUZ"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-10-17T13:00:40Z", 
+      "data": "j8vm9w2hozepn", 
+      "uid": "hqj2wfy7NUZ"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-10-17T13:06:20Z", 
+      "data": "j8vmh6ekeqy3vk", 
+      "uid": "hqj2wfy7NUZ"
+    }, 
+    {
+      "to": "j8vl8wqlx5lb3", 
+      "anon": "no", 
+      "when": "2017-10-17T13:07:17Z", 
+      "type": "followup", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-10-17T13:08:15Z", 
+      "data": "j8vmjmfia6w54s", 
+      "uid": "hqj2wfy7NUZ"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-10-17T13:08:35Z", 
+      "data": "j8vmk2amevl5ay", 
+      "uid": "hqj2wfy7NUZ"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-10-17T13:11:25Z", 
+      "data": "j8vmnpj0mnf75f", 
+      "uid": "hqj2wfy7NUZ"
+    }, 
+    {
+      "to": "j8vl8wqlx5lb3", 
+      "anon": "no", 
+      "when": "2017-10-17T13:15:02Z", 
+      "type": "feedback", 
+      "uid": "hqj2wfy7NUZ"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-10-17T13:15:26Z", 
+      "data": "j8vmsv44y431fk", 
+      "uid": "hqj2wfy7NUZ"
+    }, 
+    {
+      "to": "j8vl8wqlx5lb3", 
+      "anon": "no", 
+      "when": "2017-10-17T13:16:44Z", 
+      "type": "feedback", 
+      "uid": "hqj2wfy7NUZ"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-10-17T13:17:31Z", 
+      "data": "j8vmvju5e9b4gu", 
+      "uid": "hqj2wfy7NUZ"
+    }, 
+    {
+      "to": "j8vl8wqlx5lb3", 
+      "anon": "no", 
+      "when": "2017-10-17T13:19:31Z", 
+      "type": "feedback", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "to": "j8vl8wqlx5lb3", 
+      "anon": "no", 
+      "when": "2017-10-17T13:21:08Z", 
+      "type": "feedback", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "to": "j8vl8wqlx5lb3", 
+      "anon": "no", 
+      "when": "2017-10-17T13:38:29Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j8vl8wqlx5lb3", 
+      "anon": "no", 
+      "when": "2017-10-17T13:44:01Z", 
+      "type": "feedback", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "uid": "gy4twfv45cg5o6", 
+      "type": "i_answer", 
+      "when": "2017-10-17T15:12:47Z", 
+      "to": "j8vl8wqlx5lb3", 
+      "anon": "no", 
+      "data": "j8vqzsg0y2a17r"
+    }, 
+    {
+      "to": "j8vl8wqlx5lb3", 
+      "anon": "no", 
+      "when": "2017-10-17T15:16:40Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j8vl8wqlx5lb3", 
+      "anon": "no", 
+      "when": "2017-10-17T15:22:43Z", 
+      "type": "feedback", 
+      "uid": "hv5exp71kfz754"
+    }, 
+    {
+      "to": "j8vl8wqlx5lb3", 
+      "anon": "no", 
+      "when": "2017-10-17T15:28:02Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-10-17T17:52:01Z", 
+      "data": "j8vwokclikj5f9", 
+      "uid": "hqj2wfy7NUZ"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-10-17T17:56:27Z", 
+      "data": "j8vwu9mnrwg230", 
+      "uid": "hqj2wfy7NUZ"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-10-17T17:57:33Z", 
+      "data": "j8vwvo70btu2yq", 
+      "uid": "hqj2wfy7NUZ"
+    }, 
+    {
+      "to": "j8vl8wqlx5lb3", 
+      "anon": "no", 
+      "when": "2017-10-17T17:59:01Z", 
+      "type": "followup", 
+      "uid": "hkjzzued3ef4xh"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-10-17T18:01:24Z", 
+      "data": "j8vx0mwdyqw6qh", 
+      "uid": "hqj2wfy7NUZ"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-10-17T18:02:09Z", 
+      "data": "j8vx1l8qx5h7i8", 
+      "uid": "hqj2wfy7NUZ"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-10-17T18:07:02Z", 
+      "data": "j8vx7vhxqsh5u4", 
+      "uid": "hqj2wfy7NUZ"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-10-17T18:10:03Z", 
+      "data": "j8vxbqy7c2g13h", 
+      "uid": "hqj2wfy7NUZ"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-10-17T18:13:31Z", 
+      "data": "j8vxg7olh9o5ro", 
+      "uid": "hqj2wfy7NUZ"
+    }, 
+    {
+      "to": "j8vl8wqlx5lb3", 
+      "anon": "no", 
+      "when": "2017-10-17T18:14:54Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j8vl8wqlx5lb3", 
+      "anon": "no", 
+      "when": "2017-10-17T18:15:54Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j8vl8wqlx5lb3", 
+      "anon": "no", 
+      "when": "2017-10-20T01:30:57Z", 
+      "type": "followup", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "to": "j8vl8wqlx5lb3", 
+      "anon": "no", 
+      "when": "2017-10-20T01:30:57Z", 
+      "type": "dupe", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "to": "j8vl8wqlx5lb3", 
+      "anon": "no", 
+      "when": "2017-10-20T01:30:57Z", 
+      "type": "feedback", 
+      "uid": "i4iys7m3lpq2ij"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8vl8wqlx5lb3", 
+  "bookmarked": 10, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-17T12:38:11Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j8vlgyf7rn5gx", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>These answers have been updated based on the comments below.</p>\n<p></p>\n<p>a) False,\u00a0you can have a vertex\u00a0that is connected to only one other vertex. \u00a0Since including this edge does not form a cycle, it will always get selected even if it is a unique heaviest weight edge</p>\n<p></p>\n<p>b) True, applying Kruskel&#39;s algorithm, the other edges that would make the cycle with this heaviest edge are taken first so that this heaviest edge cannot be selected.</p>\n<p></p>\n<p>c) True, need proof still....\u00a0</p>\n<p></p>\n<p>d) True,\u00a0see\u00a0<a href=\"https://www.piazza.com/class/j6f5zm92gj34gi?cid=744\">&#64;744</a>\u00a0for proof</p>\n<p></p>\n<p>e) True, a cut in Graph G that has u in one side and v in the other where e = (u,v)</p>\n<p></p>\n<p>f)\u00a0False. \u00a0See graph G that proves that. \u00a0Notice that BC is the lightest edge of one cycle, but it is not part of the MST of G.</p>\n<p></p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/hqj2wfy7NUZ/j8vwyxem3mt2/Blank_Diagram__Page_1.png\" alt=\"\" width=\"214\" height=\"173\" /></p>\n<p></p>\n<p>g) False, Dijkstra&#39;s algorithm gives the shortest path beween nodes. \u00a0It does not have to be an MST.</p>\n<p></p>\n<p>h) False, An example would be\u00a02 heavy edges that are side by side may not be included in the MST and therefore the shortest path between the nodes of these edges is not going to be part of the MST either.</p>\n<p></p>\n<p>i) True, Negative weights do not affect Prim&#39;s or Kruskel&#39;s algorithm because it uses the minimum weight edge without caring about the sign.</p>\n<p></p>\n<p>j) True,\u00a0Assume for the purposes of contradiction, we have found an MST\u00a0T\u00a0containing a path from\u00a0s\u00a0to\u00a0t\u00a0whose edge of minimum weight has weight\u00a0&gt;r, so at least one edge\u00a0e=(u,v)\u00a0[such that the path from\u00a0u\u00a0to\u00a0v\u00a0in\u00a0T\u00a0has minimum edge weight\u00a0&gt;r] of weight\u00a0\u2264r\u00a0along the path from\u00a0s\u00a0to\u00a0t\u00a0in the original graph, is not in the tree\u00a0T. Then we may add\u00a0e\u00a0to\u00a0T, making a cycle; then remove an edge\u00a0e\u2032\u00a0of weight\u00a0&gt;r\u00a0so that we now produce an MST of lesser weight contradicting the assumption</p>", 
+          "anon": "no", 
+          "created": "2017-10-17T18:13:31Z", 
+          "uid": "hqj2wfy7NUZ", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>These answers have been updated based on the comments below.</p>\n<p></p>\n<p>a) False,\u00a0you can have a vertex\u00a0that is connected to only one other vertex. \u00a0Since including this edge does not form a cycle, it will always get selected even if it is a unique heaviest weight edge</p>\n<p></p>\n<p>b) True, applying Kruskel&#39;s algorithm, the other edges that would make the cycle with this heaviest edge are taken first so that this heaviest edge cannot be selected.</p>\n<p></p>\n<p>c) True, need proof still....\u00a0</p>\n<p></p>\n<p>d) True,\u00a0see\u00a0<a href=\"https://www.piazza.com/class/j6f5zm92gj34gi?cid=744\">&#64;744</a>\u00a0for proof</p>\n<p></p>\n<p>e) True, a cut in Graph G that has u in one side and v in the other where e = (u,v)</p>\n<p></p>\n<p>f)\u00a0False. \u00a0See graph G that proves that. \u00a0Notice that BC is the lightest edge of one cycle, but it is not part of the MST of G.</p>\n<p></p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/hqj2wfy7NUZ/j8vwyxem3mt2/Blank_Diagram__Page_1.png\" alt=\"\" width=\"214\" height=\"173\" /></p>\n<p></p>\n<p>g) False, Dijkstra&#39;s algorithm gives the shortest path beween nodes. \u00a0</p>\n<p></p>\n<p>h) False, An example would be\u00a02 heavy edges that are side by side may not be included in the MST and therefore the shortest path between the nodes of these edges is not going to be part of the MST either.</p>\n<p></p>\n<p>i) True, Negative weights do not affect Prim&#39;s or Kruskel&#39;s algorithm because it uses the minimum weight edge without caring about the sign.</p>\n<p></p>\n<p>j) True,\u00a0Assume for the purposes of contradiction, we have found an MST\u00a0T\u00a0containing a path from\u00a0s\u00a0to\u00a0t\u00a0whose edge of minimum weight has weight\u00a0&gt;r, so at least one edge\u00a0e=(u,v)\u00a0[such that the path from\u00a0u\u00a0to\u00a0v\u00a0in\u00a0T\u00a0has minimum edge weight\u00a0&gt;r] of weight\u00a0\u2264r\u00a0along the path from\u00a0s\u00a0to\u00a0t\u00a0in the original graph, is not in the tree\u00a0T. Then we may add\u00a0e\u00a0to\u00a0T, making a cycle; then remove an edge\u00a0e\u2032\u00a0of weight\u00a0&gt;r\u00a0so that we now produce an MST of lesser weight contradicting the assumption</p>", 
+          "anon": "no", 
+          "created": "2017-10-17T18:10:03Z", 
+          "uid": "hqj2wfy7NUZ", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>These answers have been updated based on the comments below.</p>\n<p></p>\n<p>a) False,\u00a0you can have a vertex\u00a0that is connected to only one other vertex. \u00a0Since including this edge does not form a cycle, it will always get selected even if it is a unique heaviest weight edge</p>\n<p></p>\n<p>b) True, applying Kruskel&#39;s algorithm, the other edges that would make the cycle with this heaviest edge are taken first so that this heaviest edge cannot be selected.</p>\n<p></p>\n<p>c) False, assume there are many of these same minimum weight edges, it is possible that the other minimum weight edges are selected first and then this particular edge then makes a cycle.</p>\n<p></p>\n<p>d) True,\u00a0see\u00a0<a href=\"https://www.piazza.com/class/j6f5zm92gj34gi?cid=744\">&#64;744</a>\u00a0for proof</p>\n<p></p>\n<p>e) True, a cut in Graph G that has u in one side and v in the other where e = (u,v)</p>\n<p></p>\n<p>f)\u00a0False. \u00a0See graph G that proves that. \u00a0Notice that BC is the lightest edge of one cycle, but it is not part of the MST of G.</p>\n<p></p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/hqj2wfy7NUZ/j8vwyxem3mt2/Blank_Diagram__Page_1.png\" alt=\"\" width=\"214\" height=\"173\" /></p>\n<p></p>\n<p>g) False, Dijkstra&#39;s algorithm gives the shortest path beween nodes. \u00a0</p>\n<p></p>\n<p>h) False, An example would be\u00a02 heavy edges that are side by side may not be included in the MST and therefore the shortest path between the nodes of these edges is not going to be part of the MST either.</p>\n<p></p>\n<p>i) True, Negative weights do not affect Prim&#39;s or Kruskel&#39;s algorithm because it uses the minimum weight edge without caring about the sign.</p>\n<p></p>\n<p>j) True,\u00a0Assume for the purposes of contradiction, we have found an MST\u00a0T\u00a0containing a path from\u00a0s\u00a0to\u00a0t\u00a0whose edge of minimum weight has weight\u00a0&gt;r, so at least one edge\u00a0e=(u,v)\u00a0[such that the path from\u00a0u\u00a0to\u00a0v\u00a0in\u00a0T\u00a0has minimum edge weight\u00a0&gt;r] of weight\u00a0\u2264r\u00a0along the path from\u00a0s\u00a0to\u00a0t\u00a0in the original graph, is not in the tree\u00a0T. Then we may add\u00a0e\u00a0to\u00a0T, making a cycle; then remove an edge\u00a0e\u2032\u00a0of weight\u00a0&gt;r\u00a0so that we now produce an MST of lesser weight contradicting the assumption</p>", 
+          "anon": "no", 
+          "created": "2017-10-17T18:07:02Z", 
+          "uid": "hqj2wfy7NUZ", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>These answers have been updated based on the comments below.</p>\n<p></p>\n<p>a) False,\u00a0you can have a vertex\u00a0that is connected to only one other vertex. \u00a0Since including this edge does not form a cycle, it will always get selected even if it is a unique heaviest weight edge</p>\n<p></p>\n<p>b) True, applying Kruskel&#39;s algorithm, the other edges that would make the cycle with this heaviest edge are taken first so that this heaviest edge cannot be selected.</p>\n<p></p>\n<p>c) False, assume there are many of these same minimum weight edges, it is possible that the other minimum weight edges are selected first and then this particular edge then makes a cycle.</p>\n<p></p>\n<p>d) True,\u00a0see\u00a0<a href=\"https://www.piazza.com/class/j6f5zm92gj34gi?cid=744\">&#64;744</a>\u00a0for proof</p>\n<p></p>\n<p>e)</p>\n<p></p>\n<p>f)\u00a0False. \u00a0See graph G that proves that. \u00a0Notice that BC is the lightest edge of one cycle, but it is not part of the MST of G.</p>\n<p></p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/hqj2wfy7NUZ/j8vwyxem3mt2/Blank_Diagram__Page_1.png\" alt=\"\" width=\"214\" height=\"173\" /></p>\n<p></p>\n<p>g) False, Dijkstra&#39;s algorithm gives the shortest path beween nodes. \u00a0</p>\n<p></p>\n<p>h) False, An example would be\u00a02 heavy edges that are side by side may not be included in the MST and therefore the shortest path between the nodes of these edges is not going to be part of the MST either.</p>\n<p></p>\n<p>i) True, Negative weights do not affect Prim&#39;s or Kruskel&#39;s algorithm because it uses the minimum weight edge without caring about the sign.</p>\n<p></p>\n<p>j) True,\u00a0Assume for the purposes of contradiction, we have found an MST\u00a0T\u00a0containing a path from\u00a0s\u00a0to\u00a0t\u00a0whose edge of minimum weight has weight\u00a0&gt;r, so at least one edge\u00a0e=(u,v)\u00a0[such that the path from\u00a0u\u00a0to\u00a0v\u00a0in\u00a0T\u00a0has minimum edge weight\u00a0&gt;r] of weight\u00a0\u2264r\u00a0along the path from\u00a0s\u00a0to\u00a0t\u00a0in the original graph, is not in the tree\u00a0T. Then we may add\u00a0e\u00a0to\u00a0T, making a cycle; then remove an edge\u00a0e\u2032\u00a0of weight\u00a0&gt;r\u00a0so that we now produce an MST of lesser weight contradicting the assumption</p>", 
+          "anon": "no", 
+          "created": "2017-10-17T18:02:09Z", 
+          "uid": "hqj2wfy7NUZ", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>a) False,\u00a0you can have a vertex\u00a0that is connected to only one other vertex. \u00a0Since including this edge does not form a cycle, it will always get selected even if it is a unique heaviest weight edge</p>\n<p></p>\n<p>b) True, applying Kruskel&#39;s algorithm, the other edges that would make the cycle with this heaviest edge are taken first so that this heaviest edge cannot be selected.</p>\n<p></p>\n<p>c) False, assume there are many of these same minimum weight edges, it is possible that the other minimum weight edges are selected first and then this particular edge then makes a cycle.</p>\n<p></p>\n<p>d) True,\u00a0see\u00a0<a href=\"https://www.piazza.com/class/j6f5zm92gj34gi?cid=744\">&#64;744</a>\u00a0for proof</p>\n<p></p>\n<p>e)</p>\n<p></p>\n<p>f)\u00a0False. \u00a0See graph G that proves that. \u00a0Notice that BC is the lightest edge of one cycle, but it is not part of the MST of G.</p>\n<p></p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/hqj2wfy7NUZ/j8vwyxem3mt2/Blank_Diagram__Page_1.png\" alt=\"\" width=\"214\" height=\"173\" /></p>\n<p></p>\n<p>g) False, Dijkstra&#39;s algorithm gives the shortest path beween nodes. \u00a0</p>\n<p></p>\n<p>h) False, An example would be\u00a02 heavy edges that are side by side may not be included in the MST and therefore the shortest path between the nodes of these edges is not going to be part of the MST either.</p>\n<p></p>\n<p>i) True, Negative weights do not affect Prim&#39;s or Kruskel&#39;s algorithm because it uses the minimum weight edge without caring about the sign.</p>\n<p></p>\n<p>j) True,\u00a0Assume for the purposes of contradiction, we have found an MST\u00a0T\u00a0containing a path from\u00a0s\u00a0to\u00a0t\u00a0whose edge of minimum weight has weight\u00a0&gt;r, so at least one edge\u00a0e=(u,v)\u00a0[such that the path from\u00a0u\u00a0to\u00a0v\u00a0in\u00a0T\u00a0has minimum edge weight\u00a0&gt;r] of weight\u00a0\u2264r\u00a0along the path from\u00a0s\u00a0to\u00a0t\u00a0in the original graph, is not in the tree\u00a0T. Then we may add\u00a0e\u00a0to\u00a0T, making a cycle; then remove an edge\u00a0e\u2032\u00a0of weight\u00a0&gt;r\u00a0so that we now produce an MST of lesser weight contradicting the assumption</p>", 
+          "anon": "no", 
+          "created": "2017-10-17T18:01:24Z", 
+          "uid": "hqj2wfy7NUZ", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>a) False,\u00a0you can have a vertex\u00a0that is connected to only one other vertex. \u00a0Since including this edge does not form a cycle, it will always get selected even if it is a unique heaviest weight edge</p>\n<p></p>\n<p>b) True, applying Kruskel&#39;s algorithm, the other edges that would make the cycle with this heaviest edge are taken first so that this heaviest edge cannot be selected.</p>\n<p></p>\n<p>c) False, assume there are many of these same minimum weight edges, it is possible that the other minimum weight edges are selected first and then this particular edge then makes a cycle.</p>\n<p></p>\n<p>d) True,\u00a0see\u00a0<a href=\"https://www.piazza.com/class/j6f5zm92gj34gi?cid=744\">&#64;744</a>\u00a0for proof</p>\n<p></p>\n<p>e)</p>\n<p></p>\n<p>f)\u00a0False</p>\n<p></p>\n<p>g) False, Dijkstra&#39;s algorithm gives the shortest path beween nodes. \u00a0</p>\n<p></p>\n<p>h) False, An example would be\u00a02 heavy edges that are side by side may not be included in the MST and therefore the shortest path between the nodes of these edges is not going to be part of the MST either.</p>\n<p></p>\n<p>i) True, Negative weights do not affect Prim&#39;s or Kruskel&#39;s algorithm because it uses the minimum weight edge without caring about the sign.</p>\n<p></p>\n<p>j) True,\u00a0Assume for the purposes of contradiction, we have found an MST\u00a0T\u00a0containing a path from\u00a0s\u00a0to\u00a0t\u00a0whose edge of minimum weight has weight\u00a0&gt;r, so at least one edge\u00a0e=(u,v)\u00a0[such that the path from\u00a0u\u00a0to\u00a0v\u00a0in\u00a0T\u00a0has minimum edge weight\u00a0&gt;r] of weight\u00a0\u2264r\u00a0along the path from\u00a0s\u00a0to\u00a0t\u00a0in the original graph, is not in the tree\u00a0T. Then we may add\u00a0e\u00a0to\u00a0T, making a cycle; then remove an edge\u00a0e\u2032\u00a0of weight\u00a0&gt;r\u00a0so that we now produce an MST of lesser weight contradicting the assumption</p>", 
+          "anon": "no", 
+          "created": "2017-10-17T17:57:33Z", 
+          "uid": "hqj2wfy7NUZ", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>a) False,\u00a0you can have a vertex\u00a0that is connected to only one other vertex. \u00a0Since including this edge does not form a cycle, it will always get selected even if it is a unique heaviest weight edge</p>\n<p></p>\n<p>b) True, applying Kruskel&#39;s algorithm, the other edges that would make the cycle with this heaviest edge are taken first so that this heaviest edge cannot be selected.</p>\n<p></p>\n<p>c) False, assume there are many of these same minimum weight edges, it is possible that the other minimum weight edges are selected first and then this particular edge then makes a cycle.</p>\n<p></p>\n<p>d) True,\u00a0see\u00a0<a href=\"https://www.piazza.com/class/j6f5zm92gj34gi?cid=744\">&#64;744</a>\u00a0for proof</p>\n<p></p>\n<p>e)</p>\n<p></p>\n<p>f) True, Kruskel&#39;s algorithm will select this edge to the MST.</p>\n<p></p>\n<p>g) False, Dijkstra&#39;s algorithm gives the shortest path beween nodes. \u00a0</p>\n<p></p>\n<p>h) False, An example would be\u00a02 heavy edges that are side by side may not be included in the MST and therefore the shortest path between the nodes of these edges is not going to be part of the MST either.</p>\n<p></p>\n<p>i) True, Negative weights do not affect Prim&#39;s or Kruskel&#39;s algorithm because it uses the minimum weight edge without caring about the sign.</p>\n<p></p>\n<p>j) True,\u00a0Assume for the purposes of contradiction, we have found an MST\u00a0T\u00a0containing a path from\u00a0s\u00a0to\u00a0t\u00a0whose edge of minimum weight has weight\u00a0&gt;r, so at least one edge\u00a0e=(u,v)\u00a0[such that the path from\u00a0u\u00a0to\u00a0v\u00a0in\u00a0T\u00a0has minimum edge weight\u00a0&gt;r] of weight\u00a0\u2264r\u00a0along the path from\u00a0s\u00a0to\u00a0t\u00a0in the original graph, is not in the tree\u00a0T. Then we may add\u00a0e\u00a0to\u00a0T, making a cycle; then remove an edge\u00a0e\u2032\u00a0of weight\u00a0&gt;r\u00a0so that we now produce an MST of lesser weight contradicting the assumption</p>", 
+          "anon": "no", 
+          "created": "2017-10-17T17:56:27Z", 
+          "uid": "hqj2wfy7NUZ", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>a) False,\u00a0you can have a vertex\u00a0that is connected to only one other vertex. \u00a0Since including this edge does not form a cycle, it will always get selected even if it is a unique heaviest weight edge</p>\n<p></p>\n<p>b) True, applying Kruskel&#39;s algorithm, the other edges that would make the cycle with this heaviest edge are taken first so that this heaviest edge cannot be selected.</p>\n<p></p>\n<p>c) False, assume there are many of these same minimum weight edges, it is possible that the other minimum weight edges are selected first and then this particular edge then makes a cycle.</p>\n<p></p>\n<p>d) True, applying Kruskel&#39;s algorithm this unique lightest edge will always be selected first so will be included in the MST</p>\n<p></p>\n<p>e)</p>\n<p></p>\n<p>f) True, Kruskel&#39;s algorithm will select this edge to the MST.</p>\n<p></p>\n<p>g) False, Dijkstra&#39;s algorithm gives the shortest path beween nodes. \u00a0</p>\n<p></p>\n<p>h) False, An example would be\u00a02 heavy edges that are side by side may not be included in the MST and therefore the shortest path between the nodes of these edges is not going to be part of the MST either.</p>\n<p></p>\n<p>i) True, Negative weights do not affect Prim&#39;s or Kruskel&#39;s algorithm because it uses the minimum weight edge without caring about the sign.</p>\n<p></p>\n<p>j) True,\u00a0Assume for the purposes of contradiction, we have found an MST\u00a0T\u00a0containing a path from\u00a0s\u00a0to\u00a0t\u00a0whose edge of minimum weight has weight\u00a0&gt;r, so at least one edge\u00a0e=(u,v)\u00a0[such that the path from\u00a0u\u00a0to\u00a0v\u00a0in\u00a0T\u00a0has minimum edge weight\u00a0&gt;r] of weight\u00a0\u2264r\u00a0along the path from\u00a0s\u00a0to\u00a0t\u00a0in the original graph, is not in the tree\u00a0T. Then we may add\u00a0e\u00a0to\u00a0T, making a cycle; then remove an edge\u00a0e\u2032\u00a0of weight\u00a0&gt;r\u00a0so that we now produce an MST of lesser weight contradicting the assumption</p>", 
+          "anon": "no", 
+          "created": "2017-10-17T17:52:01Z", 
+          "uid": "hqj2wfy7NUZ", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>a) False,\u00a0you can have a vertex\u00a0that is connected to only one other vertex. \u00a0Since including this edge does not form a cycle, it will always get selected even if it is a unique heaviest weight edge</p>\n<p></p>\n<p>b) True, applying Kruskel&#39;s algorithm, the other edges that would make the cycle with this heaviest edge are taken first so that this heaviest edge cannot be selected.</p>\n<p></p>\n<p>c) False, assume there are many of these same minimum weight edges, it is possible that the other minimum weight edges are selected first and then this particular edge then makes a cycle.</p>\n<p></p>\n<p>d) True, applying Kruskel&#39;s algorithm this unique lightest edge will always be selected first so will be included in the MST</p>\n<p></p>\n<p>e)</p>\n<p></p>\n<p>f) True, Kruskel&#39;s algorithm will select this edge to the MST.</p>\n<p></p>\n<p>g) False, Dijkstra&#39;s algorithm gives the shortest path beween nodes. \u00a0</p>\n<p></p>\n<p>h) False, An example would be\u00a02 heavy edges that are side by side may not be included in the MST and therefore the shortest path between the nodes of these edges is not going to be part of the MST either.</p>\n<p></p>\n<p>i) True, Negative weights do not affect Prim&#39;s or Kruskel&#39;s algorithm because it uses the minimum weight edge without caring about the sign.</p>\n<p></p>\n<p>j)</p>", 
+          "anon": "no", 
+          "created": "2017-10-17T13:17:31Z", 
+          "uid": "hqj2wfy7NUZ", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>a) False,\u00a0you can have a vertex\u00a0that is connected to only one other vertex. \u00a0Since including this edge does not form a cycle, it will always get selected even if it is a unique heaviest weight edge</p>\n<p></p>\n<p>b) True, applying Kruskel&#39;s algorithm, the other edges that would make the cycle with this heaviest edge are taken first so that this heaviest edge cannot be selected.</p>\n<p></p>\n<p>c) False, assume there are many of these same minimum weight edges, it is possible that the other minimum weight edges are selected first and then this particular edge then makes a cycle.</p>\n<p></p>\n<p>d) True, applying Kruskel&#39;s algorithm this unique lightest edge will always be selected first so will be included in the MST</p>\n<p></p>\n<p>e)</p>\n<p></p>\n<p>f) True, Kruskel&#39;s algorithm will select this edge to the MST.</p>\n<p></p>\n<p>g) False, Dijkstra&#39;s algorithm gives the shortest path beween nodes. \u00a0</p>\n<p></p>\n<p>h) False, An example would be\u00a02 heavy edges that are side by side may not be included in the MST and therefore the shortest path between them is not going to be part of the MST either.</p>\n<p></p>\n<p>i) True, Negative weights do not affect Prim&#39;s or Kruskel&#39;s algorithm because it uses the minimum weight edge without caring about the sign.</p>\n<p></p>\n<p>j)</p>", 
+          "anon": "no", 
+          "created": "2017-10-17T13:15:26Z", 
+          "uid": "hqj2wfy7NUZ", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>a) False,\u00a0you can have a vertex\u00a0that is connected to only one other vertex. \u00a0Since including this edge does not form a cycle, it will always get selected even if it is a unique heaviest weight edge</p>\n<p></p>\n<p>b) True, applying Kruskel&#39;s algorithm, the other edges that would make the cycle with this heaviest edge are taken first so that this heaviest edge cannot be selected.</p>\n<p></p>\n<p>c) False, assume there are many of these same minimum weight edges, it is possible that the other minimum weight edges are selected first and then this particular edge then makes a cycle.</p>\n<p></p>\n<p>d) True, applying Kruskel&#39;s algorithm this unique lightest edge will always be selected first so will be included in the MST</p>\n<p></p>\n<p>e)</p>\n<p></p>\n<p>f) True, Kruskel&#39;s algorithm will select this edge to the MST.</p>\n<p></p>\n<p>g) False, Dijkstra&#39;s algorithm gives the shortest path beween nodes. \u00a0</p>\n<p></p>\n<p>h) False, An example would be 2 heavy nodes next to each other. \u00a0These nodes may not\u00a0be part of the MST.</p>\n<p></p>\n<p>i) True, Negative weights do not affect Prim&#39;s or Kruskel&#39;s algorithm because it uses the minimum weight edge without caring about the sign.</p>\n<p></p>\n<p>j)</p>", 
+          "anon": "no", 
+          "created": "2017-10-17T13:11:25Z", 
+          "uid": "hqj2wfy7NUZ", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>a) False,\u00a0you can have a vertex\u00a0that is connected to only one other vertex. \u00a0Since including this edge does not form a cycle, it will always get selected even if it is a unique heaviest weight edge</p>\n<p></p>\n<p>b) True, applying Kruskel&#39;s algorithm, the other edges that would make the cycle with this heaviest edge are taken first so that this heaviest edge cannot be selected.</p>\n<p></p>\n<p>c) False, assume there are many of these same minimum weight edges, it is possible that the other minimum weight edges are selected first and then this particular edge then makes a cycle.</p>\n<p></p>\n<p>d) True, applying Kruskel&#39;s algorithm this unique lightest edge will always be selected first so will be included in the MST</p>\n<p></p>\n<p>e)</p>\n<p></p>\n<p>f)</p>\n<p></p>\n<p>g) \u00a0False, Dijkstra&#39;s algorithm gives the shortest path beween nodes. \u00a0</p>\n<p></p>\n<p>h) False, An example would be 2 heavy nodes next to each other. \u00a0These nodes may not\u00a0be part of the MST.</p>\n<p></p>\n<p>i) Negative weights do not affect Prim&#39;s or Kruskel&#39;s algorithm because it uses the minimum weight edge without caring about the sign.</p>\n<p></p>\n<p>j)</p>", 
+          "anon": "no", 
+          "created": "2017-10-17T13:08:35Z", 
+          "uid": "hqj2wfy7NUZ", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>a) False,\u00a0you can have a vertex\u00a0that is connected to only one other vertex. \u00a0Since including this edge does not form a cycle, it will always get selected even if it is a unique heaviest weight edge</p>\n<p></p>\n<p>b) True, applying Kruskel&#39;s algorithm, the other edges that would make the cycle with this heaviest edge are taken first so that this heaviest edge cannot be selected.</p>\n<p></p>\n<p>c) False, assune there are many of these same minimum weight edges, it is possible that the other minimum weight edges are selected first and this particular edge then makes a cycle.</p>\n<p></p>\n<p>d) True, applying Kruskel&#39;s algorithm this unique lightest edge will always be selected first so will be included in the MST</p>\n<p></p>\n<p>e)</p>\n<p></p>\n<p>f)</p>\n<p></p>\n<p>g) \u00a0False, Dijkstra&#39;s algorithm gives the shortest path beween nodes. \u00a0</p>\n<p></p>\n<p>h) False, An example would be 2 heavy nodes next to each other. \u00a0These nodes may not\u00a0be part of the MST.</p>\n<p></p>\n<p>i) Negative weights do not affect Prim&#39;s or Kruskel&#39;s algorithm because it uses the minimum weight edge without caring about the sign.</p>\n<p></p>\n<p>j)</p>", 
+          "anon": "no", 
+          "created": "2017-10-17T13:08:15Z", 
+          "uid": "hqj2wfy7NUZ", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>a) False,\u00a0you can have a vertex\u00a0that is connected to only one other vertex. \u00a0Since including this edge does not form a cycle, it will always get selected even if it is a unique heaviest weight edge</p>\n<p></p>\n<p>b) True, applying Kruskel&#39;s algorithm, the other edges that would make the cycle with this heaviest edge are taken first so that this heaviest edge cannot be selected.</p>\n<p></p>\n<p>c)</p>\n<p></p>\n<p>d) True, applying Kruskel&#39;s algorithm this unique lightest edge will always be selected first so will be included in the MST</p>\n<p></p>\n<p>e)</p>\n<p></p>\n<p>f)</p>\n<p></p>\n<p>g) \u00a0False, Dijkstra&#39;s algorithm gives the shortest path beween nodes. \u00a0</p>\n<p></p>\n<p>h) False, An example would be 2 heavy nodes next to each other. \u00a0These nodes may not\u00a0be part of the MST.</p>\n<p></p>\n<p>i) Negative weights do not affect Prim&#39;s or Kruskel&#39;s algorithm because it uses the minimum weight edge without caring about the sign.</p>\n<p></p>\n<p>j)</p>", 
+          "anon": "no", 
+          "created": "2017-10-17T13:06:20Z", 
+          "uid": "hqj2wfy7NUZ", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>a) False,\u00a0you can have a vertex\u00a0that is connected to only one other vertex. \u00a0Since including this edge does not form a cycle, it will always get selected even if it is a unique heaviest weight edge</p>\n<p></p>\n<p>b)</p>\n<p></p>\n<p>c)</p>\n<p></p>\n<p>d) True, applying Kruskel&#39;s algorithm this unique lightest edge will always be selected first so will be included in the MST</p>\n<p></p>\n<p>e)</p>\n<p></p>\n<p>f)</p>\n<p></p>\n<p>g) \u00a0False, Dijkstra&#39;s algorithm gives the shortest path beween nodes. \u00a0</p>\n<p></p>\n<p>h) False, An example would be 2 heavy nodes next to each other. \u00a0These nodes may not\u00a0be part of the MST.</p>\n<p></p>\n<p>i) Negative weights do not affect Prim&#39;s or Kruskel&#39;s algorithm because it uses the minimum weight edge without caring about the sign.</p>\n<p></p>\n<p>j)</p>", 
+          "anon": "no", 
+          "created": "2017-10-17T13:00:40Z", 
+          "uid": "hqj2wfy7NUZ", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>a) False,\u00a0you can have a vertex\u00a0that is connected to only one other vertex. \u00a0Since including this edge does not form a cycle, it will always get selected even if it is a unique heaviest weight edge</p>\n<p></p>\n<p>b)</p>\n<p></p>\n<p>c)</p>\n<p></p>\n<p>d) True, applying Kruskel&#39;s algorithm this unique lightest edge will always be selected first so will be included in \u00a0the MST</p>\n<p></p>\n<p>e)</p>\n<p></p>\n<p>f)</p>\n<p></p>\n<p>g) \u00a0False, Dijisstra&#39;s algorithm gives the shortest path beween nodes. \u00a0</p>\n<p></p>\n<p>h) False, An example would be 2 heavy nodes next to each other. \u00a0These nodes may not\u00a0be part of the MST.</p>\n<p></p>\n<p>i) Negative weights do not affect Prim&#39;s or Kruskel&#39;s algorithm because it uses the minimum weight edge without caring about the sign.</p>\n<p></p>\n<p>j)</p>", 
+          "anon": "no", 
+          "created": "2017-10-17T12:58:05Z", 
+          "uid": "hqj2wfy7NUZ", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>a) False, if you apply Kruskel&#39;s algorithm after sorting all the edges in order of weight, it is possible that the other edges form cycles while the unique heaviest edge does not so would get incorporated into the MST.</p>\n<p></p>\n<p>b)</p>\n<p></p>\n<p>c)</p>\n<p></p>\n<p>d) True, applying Kruskel&#39;s algorithm this unique lightest edge will always be selected first so will be included in \u00a0the MST</p>\n<p></p>\n<p>e)</p>\n<p></p>\n<p>f)</p>\n<p></p>\n<p>g) \u00a0False, Dijisstra&#39;s algorithm gives the shortest path beween nodes. \u00a0</p>\n<p></p>\n<p>h) False, An example would be 2 heavy nodes next to each other. \u00a0These nodes may not\u00a0be part of the MST.</p>\n<p></p>\n<p>i) Negative weights do not affect Prim&#39;s or Kruskel&#39;s algorithm because it uses the minimum weight edge without caring about the sign.</p>\n<p></p>\n<p>j)</p>", 
+          "anon": "no", 
+          "created": "2017-10-17T12:48:21Z", 
+          "uid": "hqj2wfy7NUZ", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>a) False, if you apply Kruskel&#39;s algorithm after sorting all the edges in order of weight, it is possible that the other edges form cycles while the unique heaviest edge does not so would get incorporated into the MST.</p>\n<p></p>\n<p>b)</p>\n<p></p>\n<p>c)</p>\n<p></p>\n<p>d) True, applying Kruskel&#39;s algorithm this unique lightest edge will always be selected first so will be included in \u00a0the MST</p>\n<p></p>\n<p>e)</p>\n<p></p>\n<p>f)</p>\n<p></p>\n<p>g)</p>\n<p></p>\n<p>h)</p>\n<p></p>\n<p>i)</p>\n<p></p>\n<p>j)</p>", 
+          "anon": "no", 
+          "created": "2017-10-17T12:44:52Z", 
+          "uid": "hqj2wfy7NUZ", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>a) False, if you apply Kruskel&#39;s algorithm after sorting all the edges in order of weight, it is possible that the other edges form cycles while the unique heaviest edge does not.</p>\n<p></p>\n<p>b)</p>\n<p></p>\n<p>c)</p>\n<p></p>\n<p>d)</p>\n<p></p>\n<p>e)</p>\n<p></p>\n<p>f)</p>\n<p></p>\n<p>g)</p>\n<p></p>\n<p>h)</p>\n<p></p>\n<p>i)</p>\n<p></p>\n<p>j)</p>", 
+          "anon": "no", 
+          "created": "2017-10-17T12:42:31Z", 
+          "uid": "hqj2wfy7NUZ", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>a)\u00a0</p>\n<p></p>\n<p>b)</p>\n<p></p>\n<p>c)</p>\n<p></p>\n<p>d)</p>\n<p></p>\n<p>e)</p>\n<p></p>\n<p>f)</p>\n<p></p>\n<p>g)</p>\n<p></p>\n<p>h)</p>\n<p></p>\n<p>i)</p>\n<p></p>\n<p>j)</p>", 
+          "anon": "no", 
+          "created": "2017-10-17T12:38:11Z", 
+          "uid": "hqj2wfy7NUZ", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-17T13:07:17Z", 
+      "no_upvotes": 0, 
+      "uid": "i4hdvab632i522", 
+      "created": "2017-10-17T13:07:17Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8vmidniv5i3ti", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-17T13:15:02Z", 
+          "uid": "hqj2wfy7NUZ", 
+          "created": "2017-10-17T13:15:02Z", 
+          "type": "feedback", 
+          "id": "j8vmsd6v3lz18a", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Yes, I need to fix it. \u00a0 I mean 2 heavy edges that are side by side may not be included in the MST and therefore the shortest path between the nodes of these edges is not going to be part of the MST either.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-17T13:16:44Z", 
+          "uid": "hqj2wfy7NUZ", 
+          "created": "2017-10-17T13:16:44Z", 
+          "type": "feedback", 
+          "id": "j8vmujo6tt3qb", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>feel free to edit the student&#39;s answer. \u00a0I was meaning for this to be crowd sourced</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-17T13:19:31Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-10-17T13:19:31Z", 
+          "type": "feedback", 
+          "id": "j8vmy4a0z0z40t", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Well, it may be best you edit the answers :-)\n\nIncidentally c, you may have misread the question, it&#39;s &#34;some&#34; MST, not &#34;every&#34; MST"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-17T13:21:08Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-10-17T13:21:08Z", 
+          "type": "feedback", 
+          "id": "j8vn07av3fs4vl", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Then  f, what happens when $$e$$ is a heaviest edge in some different cycle, then b would be applicable? Incidentally, that may be a reason you need to prove b more carefully"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-17T13:38:29Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-10-17T13:38:29Z", 
+          "type": "feedback", 
+          "id": "j8vnmi9ea4763", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>The answer to (f) should be FALSE, not TRUE.</p>\n<p></p>\n<p>Here is a G that proves\u00a0this:</p>\n<p></p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/i4nkipeofrkrz/j8vnlrsmo2y8/Blank_Diagram__Page_1.png\" alt=\"\" /></p>\n<p>Notice that BC is the lightest edge of one cycle, but it is not part of the MST of G.</p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-17T13:44:01Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-10-17T13:44:01Z", 
+          "type": "feedback", 
+          "id": "j8vntmmqcmn3bg", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Precisely, it is a heaviest edge in the cycle $$BCD$$\n\nIncidentally, j is true\n\nAssume for the purposes of contradiction, we have found an MST $$T$$ containing a path from $$s$$ to $$t$$ whose edge of minimum weight has weight $$&gt;r$$, so at least one edge $$e =(u,v)$$ [such that the path from $$u$$ to $$v$$ in $$T$$ has minimum edge weight $$&gt;r$$] of weight $$\\le r$$ along the path from $$s$$ to $$t$$ in the original graph, is not in the tree $$T$$. Then we may add $$e$$ to $$T$$, making a cycle; then remove an edge $$e&#39;$$ of weight $$&gt; r$$ so that we now produce an MST of lesser weight contradicting the assumption"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-17T15:16:40Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-10-17T15:16:40Z", 
+          "type": "feedback", 
+          "id": "j8vr4sd35pc5gd", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "BTW the correct answers are\n a) False\n b) True\n c) True\n d) True\n e) True\n f) False\n g) False\n\nLet me know if you want me to explain any of the solutions, or Tiancheng can go through in office hours tonight.\n(How do I tag Tiancheng?)"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-17T15:22:43Z", 
+          "uid": "hv5exp71kfz754", 
+          "created": "2017-10-17T15:22:43Z", 
+          "type": "feedback", 
+          "id": "j8vrckfqq6n4w3", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>That would be a good topic for office hours.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-17T15:28:02Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-10-17T15:28:02Z", 
+          "type": "feedback", 
+          "id": "j8vrjee92tf18c", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I started &#64;744 with my proof for (d).\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-17T18:14:54Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-10-17T18:14:54Z", 
+          "type": "feedback", 
+          "id": "j8vxhzvq6li2ox", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "(b) True, consider removing e from the MST T.  $$T-e$$ has 2 components.  There must be at least one more edge of the cycle C that crosses between these 2 components.  Call it e&#39;.  Let $$T&#39;=T\\cup e&#39; - e$$.  T&#39; is a tree with less total weight than T.\n(c) True, e will belong to the MST produced by Kruskal."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-17T18:15:54Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-10-17T18:15:54Z", 
+          "type": "feedback", 
+          "id": "j8vxja37fvh3jx", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Note, (c) talks about a MST so we can use Kruskal&#39;s algorithm.  (d) talks about every MST so we can&#39;t use Kruskal&#39;s alg."
+        }
+      ], 
+      "subject": "Michael, what are you trying to say when you say &#34;2 heavy nodes&#34; ?\nIncidentally a useful graph for g &amp; h may be\n<img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/i4hdvab632i522/j8vmgjobr413/DPV_5_9_g_h_j.png\" alt=\"\" />\nconsider $$A$$ as the source for g, $$AE$$,$$CE$$ or $$CD$$ as the path for h"
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-17T15:12:47Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j8vqzsfytit17q", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "(d) is incorrect.  The statement is true but your proof is incorrect.  This is a very important point.\n\nKruskal&#39;s algorithm finds a MST.  There can be other MST&#39;s not produced by Kruskal&#39;s.  So how can you prove that every MST must contain this unique lightest edge e?\n\nCan you make a new post to discuss the solution?  I can tell you the solution but it&#39;s better if you all can discuss first and hopefully figure it out.  And Tiancheng can go through it in his office hours tonight.\n\n(f) has a similar issue.  Your proof is incorrect.  Actually I&#39;m not sure if it&#39;s a true statement.  I would guess False, probably can construct a counterexample with a bit of effort.  There&#39;s no reason the rest of that particular cycle is part of a MST so this edge being lightest on this cycle doesn&#39;t matter, it may be heaviest on some other cycle.\n\n--Eric", 
+          "anon": "no", 
+          "created": "2017-10-17T15:12:47Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-17T17:59:01Z", 
+      "no_upvotes": 0, 
+      "uid": "hkjzzued3ef4xh", 
+      "created": "2017-10-17T17:59:01Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8vwxkhjm1t5jc", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>I will cover this problem during today&#39;s office hour.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-20T01:30:57Z", 
+      "no_upvotes": 0, 
+      "uid": "ijbr5ddtwyt6pa", 
+      "created": "2017-10-20T01:30:57Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8z7ygcv6qz6i0", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-20T01:30:57Z", 
+          "uid": "ijbr5ddtwyt6pa", 
+          "created": "2017-10-20T01:30:57Z", 
+          "type": "dupe", 
+          "id": "j8z7ygn0guz6i7", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "@743"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-20T01:30:57Z", 
+          "uid": "i4iys7m3lpq2ij", 
+          "created": "2017-10-20T01:30:57Z", 
+          "type": "feedback", 
+          "id": "j8z7ygo7nxj6ia", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>See &#64;743</p>"
+        }
+      ], 
+      "subject": "DPV 5.9\n<p>This has a ton of graph related questions, so I thought it would be another good practice one. To be honest, I think it is very poorly worded in many cases, and a lot of these answers are different if / if not unique, so I tried to answer for both.</p>\n<p></p>\n<p><em>The following statements may or may not be correct. In each case, either prove it (if it is cor- rect) or give a counterexample (if it isn\u2019t correct). Always assume that the graph G = (V, E) is undirected. Do not assume that edge weights are distinct unless this is specifically stated.</em></p>\n<ol><li>\n<p><em>If graph G has more than |V | \u2212 1 edges, and there is a unique heaviest edge, then this edge cannot be part of a minimum spanning tree.<br /></em><strong>False</strong>, there can be an instance where the heaviest edge e&#96; is the only edge connecting to a single node, and, therefore, must be in the MST\u00a0</p>\n</li><li>\n<p><em>If G has a cycle with a unique heaviest edge e, then e cannot be part of any</em> MST.<br /><strong>True</strong>, If there is a cycle C in G, then that means we can have an tree T&#96; which contains e, and one T* which does not contain e. Because e is the heaviest edge in G, then T&#96; will always weigh more than T*, which is a contradiction.\u00a0</p>\n</li><li>\n<p><em>Let e be any edge of minimum weight in G. Then e must be part of some MST.<br /></em><strong>False</strong>, if e is not unique, that means that there could be another edge e&#96; which also connects to the same node as e. Because of this, it is possible that there is another MST which does not contain e</p>\n</li><li>\n<p><em>If the lightest edge in a graph is unique, then it must be part of every MST.<br /></em><strong>True</strong>, The lightest edge to any node n will be used in the MST algorithms Prim&#39;s as well as\u00a0Kruskal&#39;s algorithms, as they both will select the lightest weight first (being unique, it is the only weight of w(e)<br /><br /></p>\n</li><li>\n<p><em>If e is part of some MST of G, then it must be a lightest edge across some cut of G.<br /></em><b>**Homework question***</b><br /><br /></p>\n</li><li>\n<p><em>If G has a cycle with a unique lightest edge e, then e must be part of every</em> MST.<br /><strong>True</strong>, For a cycle C in G, if we generate a tree T&#96; not including e, and a tree T* which does include T, w(T&#96;) &gt; w(T*) and therefore not the minimum spanning tree<br /><br /></p>\n</li><li>\n<p><em>The shortest-path tree computed by Dijkstra\u2019s algorithm is necessarily an MST.<br /></em><strong>False</strong>, The MST does not need to follow a direct path from s -&gt; t, as the shortest path does. Because e is not unique, there could be MST generated from these e values which does not follow the shortest path. Example, for G let all edges e = 1, and let all vertices V be connected in cycles C. In this case, there is a MST which is different from the shortest path<br /><strong>False</strong>, (if unique): The MST will interact with every node in G, which the shortest path does not have to. There can be a case where the shortest path is from S -&gt; A -&gt; T, while nodes C, B, and D in a graph all have higher weights(e). The MST will have to connect to these edges.<br /><br /></p>\n</li><li>\n<p><em>The shortest path between two nodes is necessarily part of some MST.<br /><br /></em>I have no idea what this question is asking...<em><br /><br /></em><strong>False</strong>, Generate a graph G with all edges = 1, and all vs in V being connected by cycles. In this case, there is a MST which does not follow the shortest path</p>\n<strong>False(?)</strong>, (if unique): Depends on what &#34;part of a path&#34; means. If the smallest edge is in two nodes connected to all other nodes by a weight that is 100*s the weights of all other nodes (let node C be connected to B with w(e) = 1, and other nodes connecting to C and B being &lt; 100 while there is a path from A to T with a weight of 2). In this case, the shortest path between C and B will not be included in the shortest path.\u00a0<br /><br /></li><li>\n<p><em>Prim\u2019s algorithm works correctly when there are negative edges.<br /></em><b>True</b>, Prim&#39;s looks for the smallest edges attached to all of the vertices in it&#39;s saved list, so a negative edge will qualify as the smallest edge in that list.\u00a0<br /><br /></p>\n</li><li>\n<p><em>(For any r &gt; 0, define an r-path to be a path whose edges all have weight &lt; r.) If G contains an r-path from node s to t, then every MST of G must also contain an r-path from node s to node t.\u00a0<br /></em><strong>False</strong>, same reason as every other question where e is not unique<br /><strong>False</strong>, (if unique) - Just because a path is &lt; r, does not mean it is also the smallest path, or contains the smallest edges in a graph G. There can be edges e which are also &lt; r and smaller than the r-path</p>\n</li></ol>"
+    }
+  ], 
+  "nr": 743, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw5"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 11, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw5", 
+    "student"
+  ], 
+  "created": "2017-10-17T12:31:55Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145142655, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>Here is my attempt for practice problem 5.9. \u00a0 Please correct if you see something wrong</p>\n<p></p>\n<p>The following statements may or may not be correct. In each case, either prove it (if it is correct) or give a counterexample (if it isn&#39;t correct). \u00a0Always assume that the graph G=(V,E) is undirected and connected. \u00a0Do not assume that edge weights are distinct unless this is specifically stated.</p>\n<p></p>\n<p>a) If graph G has more than |V|-1 edges, and there is a unique heaviest edge, then this edge cannot be part of the minimum spanning tree.</p>\n<p></p>\n<p>b) If G has a cycle with a unique heaviest edge e, then e cannot be part of any MST.</p>\n<p></p>\n<p>c) Let e be any edge of minimum weight in G. \u00a0The e must be part of some MST.</p>\n<p></p>\n<p>d) If the lightest edge in a grpah is unique, then it must be part of every MST.</p>\n<p></p>\n<p>e) If e is part of some MST of G, then it must be a lightest edge across some cut of G</p>\n<p></p>\n<p>f) If G has a cycle with a unique lightest edge e, then e must be part of every MST.</p>\n<p></p>\n<p>g) The shortest path between two nodes is necessarily part of some MST.</p>\n<p></p>\n<p>h) The shortest path between two nodes is necessarily part of some MST.</p>\n<p></p>\n<p>i) Prim&#39;s algorithm works correctly when there are negative edges.</p>\n<p></p>\n<p>j) (For any r&gt;0, define an r-path to be a path whose edges all have weight &lt; r.) \u00a0If G contains an r-path from node s to t, then every MST of G must also contain an r-path from node s to node t.</p>\n<p></p>", 
+      "anon": "no", 
+      "created": "2017-10-17T12:37:34Z", 
+      "uid": "hqj2wfy7NUZ", 
+      "subject": "Practice Problem 5.9"
+    }, 
+    {
+      "content": "<p>Here is my attempt for practice problem 5.9. \u00a0 Please correct if you see something wrong</p>\n<p></p>\n<p>The following statements may or may not be correct. In each case, either prove it (if it is correct) or give a counterexample (if it isn&#39;t correct). \u00a0Always assume that the graph G=(V,E) is undirected and connected. \u00a0Do not assume that edge weights are distinct unless this is specifically stated.</p>\n<p></p>\n<p>a) If graph G has more than |V|-1 edges, and there is a unique heaviest edge, then this edge cannot be part of the minimum spanning tree.</p>\n<p></p>\n<p>b) If G has a cycle with a unique heaviest edge e, then e cannot be part of any MST.</p>\n<p></p>\n<p>c) Let e be any edge of minimum weight in G. \u00a0The e must be part of some MST.</p>\n<p></p>\n<p>d) If the lightest edge in a grpah is unique, then it must be part of every MST.</p>\n<p></p>\n<p>e) If e is part of some MST of G, then it must be a lightest edge across some cut of G</p>\n<p></p>\n<p>f) If G has a cycle with a unique lightest edge e, then e must be part of every MST.</p>\n<p></p>\n<p>g) The shortest path between two nodes is necessarily part of some MST.</p>\n<p></p>\n<p>h) The shortest path between two nodes is necessarily part of some MST.</p>\n<p></p>", 
+      "anon": "no", 
+      "created": "2017-10-17T12:35:41Z", 
+      "uid": "hqj2wfy7NUZ", 
+      "subject": "Practice Problem 5.9"
+    }, 
+    {
+      "content": "<p>Here is my attempt for practice problem 5.9. \u00a0 Please correct if you see something wrong</p>\n<p></p>\n<p>The following statements may or may not be correct. In each case, either prove it (if it is correct) or give a counterexample (if it isn&#39;t correct). \u00a0Always assume that the graph G=(V,E) is undirected and connected. \u00a0Do not assume that edge weights are distinct unless this is specifically stated.</p>\n<p></p>\n<p>a) If graph G has more than |V|-1 edges, and there is a unique heaviest edge, then this edge cannot be part of the minimum spanning tree.</p>", 
+      "anon": "no", 
+      "created": "2017-10-17T12:31:55Z", 
+      "uid": "hqj2wfy7NUZ", 
+      "subject": "Practice Problem 5.9"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "status": "active", 
+  "unique_views": 72, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-26T23:39:33Z", 
+      "data": "j99425hoa4u48g", 
+      "uid": "i4ps9nqsv397k6"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-26T23:40:27Z", 
+      "data": "j9943bb7wcc52p", 
+      "uid": "i4ps9nqsv397k6"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-26T23:42:53Z", 
+      "data": "j9946g26mg474n", 
+      "uid": "i4ps9nqsv397k6"
+    }, 
+    {
+      "uid": "i4hdvab632i522", 
+      "type": "s_answer", 
+      "when": "2017-10-27T10:46:32Z", 
+      "to": "j99425he8ej48f", 
+      "anon": "no", 
+      "data": "j99rvwn89w928p"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j99425he8ej48f", 
+  "bookmarked": 4, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-27T10:46:32Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j99rvwn5rrp28o", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "Alright, so, according to what errors you&#39;re getting, you need to confirm that you&#39;re inputting column vectors for <b>c</b> &amp; <b>b</b>, as the first stage; so for instance <pre>c = [[713],\n     [712],\n     [711]]</pre>\n\nThen to check the actual figures, first of all rewrite the equations themselves as &#39;maximize &lt;some function of $$x$$&gt;&#39; subject to constraints &lt;some function of $$x$$&gt; $$\\le$$ &lt;some value&gt;\n\nThen you just need to transfer the coefficients from those equations, into the linear algebra presentation of them; for instance,\n\nmaximize $$713x_1 &#43; 712x_2 &#43; 711x_3$$\nsubject to the constraints\n$$371x_1 &#43; 372x_2 &#43; 373x_3 \\le 500$$,\n$$571x_1 &#43; 573x_3 \\le 300$$\n\ngives  <pre>c = [[713],\n     [712],\n     [711]]\nA = [[371, 372, 373],\n     [571, 0, 573]]\nb = [[500],\n     [300]]</pre>\n\nNB when a coefficient for a particular variable is &#39;missing&#39; from an equation, it is 0", 
+          "anon": "no", 
+          "created": "2017-10-27T10:46:32Z", 
+          "uid": "i4hdvab632i522", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 826, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw7", 
+    "udacity"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 0, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw7", 
+    "student", 
+    "udacity"
+  ], 
+  "created": "2017-10-26T23:39:33Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145124714, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>In Lesson 22 (LP 1: Linear Programming), there are quizzes for parts 15 and 16.\u00a0\u00a0My brain isn&#39;t quite working out the solutions, but to make matters worse, there doesn&#39;t appear to be a solutions video or even a brief &#34;here&#39;s what the answers are if you don&#39;t want to try or your brain isn&#39;t working&#34; section.</p>\n<p></p>\n<p>I assume there has to be somebody who has gotten the correct answer and could maybe talk to it a little bit?</p>\n<p></p>\n<p>Also, I&#39;ve just realized that the upcoming homework is for the N# lectures... I made the bad assumption of looking at the order in Udacity over the lecture schedule and the L#s come first.</p>", 
+      "anon": "no", 
+      "created": "2017-10-26T23:42:53Z", 
+      "uid": "i4ps9nqsv397k6", 
+      "subject": "Linear Programming conversion quizes"
+    }, 
+    {
+      "content": "<p>In Lesson 22 (LP 1: Linear Programming), there are quizzes for parts 15 and 16.\u00a0\u00a0My brain isn&#39;t quite working out the solutions, but to make matters worse, there doesn&#39;t appear to be a solutions video or even a brief &#34;here&#39;s what the answers are if you don&#39;t want to try or your brain isn&#39;t working&#34; section.</p>\n<p></p>\n<p>I assume there has to be somebody who has gotten the correct answer and could maybe talk to it a little bit?</p>", 
+      "anon": "no", 
+      "created": "2017-10-26T23:40:27Z", 
+      "uid": "i4ps9nqsv397k6", 
+      "subject": "Linear Programming conversion quizes"
+    }, 
+    {
+      "content": "<p>In Lesson 22 (LP 1: Linear Programming), there are quizzes for parts 15 and 16.\u00a0\u00a0My brain isn&#39;t quite working out the solutions, but to make matters worse, there doesn&#39;t appear to be a solutions video or even a brief &#34;here&#39;s what the answers are if you don&#39;t want to try or your brain isn&#39;t working&#34; section.</p>\n<p></p>\n<p>I assume there has to be somebody who has gotten the correct answer and could maybe talk to it a little bit?</p>", 
+      "anon": "no", 
+      "created": "2017-10-26T23:39:33Z", 
+      "uid": "i4ps9nqsv397k6", 
+      "subject": "Linear Programming conversion quizes"
+    }
+  ]
+}

@@ -1,0 +1,991 @@
+{
+  "status": "active", 
+  "unique_views": 151, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-16T20:02:28Z", 
+      "data": "j8ulwh24z1g6np", 
+      "uid": "hkvdb9dig3v511"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-16T20:02:52Z", 
+      "data": "j8ulwz4s5qm74d", 
+      "uid": "hkvdb9dig3v511"
+    }, 
+    {
+      "uid": "i4iys7m3lpq2ij", 
+      "type": "s_answer", 
+      "when": "2017-10-16T20:10:03Z", 
+      "to": "j8ulwh22m076no", 
+      "anon": "no", 
+      "data": "j8um67rqp2hvu"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-10-16T20:10:44Z", 
+      "data": "j8um73q29c41kz", 
+      "uid": "i4iys7m3lpq2ij"
+    }, 
+    {
+      "to": "j8ulwh22m076no", 
+      "anon": "no", 
+      "when": "2017-10-16T20:15:49Z", 
+      "type": "followup", 
+      "uid": "i18w67avy8e1uk"
+    }, 
+    {
+      "to": "j8ulwh22m076no", 
+      "anon": "no", 
+      "when": "2017-10-16T20:16:00Z", 
+      "type": "followup", 
+      "uid": "hzetpo9z5sK"
+    }, 
+    {
+      "to": "j8ulwh22m076no", 
+      "anon": "no", 
+      "when": "2017-10-16T20:16:13Z", 
+      "type": "followup", 
+      "uid": "hkvdb9dig3v511"
+    }, 
+    {
+      "to": "j8ulwh22m076no", 
+      "anon": "no", 
+      "when": "2017-10-16T20:17:13Z", 
+      "type": "feedback", 
+      "uid": "hkvdb9dig3v511"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-10-16T20:18:01Z", 
+      "data": "j8umggl2z4w2oy", 
+      "uid": "i4iys7m3lpq2ij"
+    }, 
+    {
+      "to": "j8ulwh22m076no", 
+      "anon": "no", 
+      "when": "2017-10-16T20:18:02Z", 
+      "type": "feedback", 
+      "uid": "i18w67avy8e1uk"
+    }, 
+    {
+      "to": "j8ulwh22m076no", 
+      "anon": "no", 
+      "when": "2017-10-16T20:18:34Z", 
+      "type": "feedback", 
+      "uid": "hzetpo9z5sK"
+    }, 
+    {
+      "to": "j8ulwh22m076no", 
+      "anon": "no", 
+      "when": "2017-10-16T20:19:03Z", 
+      "type": "feedback", 
+      "uid": "hkvdb9dig3v511"
+    }, 
+    {
+      "to": "j8ulwh22m076no", 
+      "anon": "no", 
+      "when": "2017-10-16T20:19:24Z", 
+      "type": "feedback", 
+      "uid": "hzetpo9z5sK"
+    }, 
+    {
+      "to": "j8ulwh22m076no", 
+      "anon": "no", 
+      "when": "2017-10-16T20:20:22Z", 
+      "type": "feedback", 
+      "uid": "i18w67avy8e1uk"
+    }, 
+    {
+      "to": "j8ulwh22m076no", 
+      "anon": "no", 
+      "when": "2017-10-16T20:21:18Z", 
+      "type": "feedback", 
+      "uid": "hzetpo9z5sK"
+    }, 
+    {
+      "to": "j8ulwh22m076no", 
+      "anon": "no", 
+      "when": "2017-10-16T20:23:00Z", 
+      "type": "feedback", 
+      "uid": "i4iys7m3lpq2ij"
+    }, 
+    {
+      "to": "j8ulwh22m076no", 
+      "anon": "no", 
+      "when": "2017-10-16T20:39:14Z", 
+      "type": "followup", 
+      "uid": "hkvdb9dig3v511"
+    }, 
+    {
+      "to": "j8ulwh22m076no", 
+      "anon": "no", 
+      "when": "2017-10-16T20:54:07Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j8ulwh22m076no", 
+      "anon": "no", 
+      "when": "2017-10-16T21:00:03Z", 
+      "type": "feedback", 
+      "uid": "i4gzn4buf4Q"
+    }, 
+    {
+      "to": "j8ulwh22m076no", 
+      "anon": "no", 
+      "when": "2017-10-16T21:01:58Z", 
+      "type": "feedback", 
+      "uid": "i18w67avy8e1uk"
+    }, 
+    {
+      "to": "j8ulwh22m076no", 
+      "anon": "no", 
+      "when": "2017-10-16T21:15:28Z", 
+      "type": "feedback", 
+      "uid": "i4iys7m3lpq2ij"
+    }, 
+    {
+      "to": "j8ulwh22m076no", 
+      "anon": "no", 
+      "when": "2017-10-16T21:25:04Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j8ulwh22m076no", 
+      "anon": "no", 
+      "when": "2017-10-16T23:23:51Z", 
+      "type": "followup", 
+      "uid": "hkvdb9dig3v511"
+    }, 
+    {
+      "to": "j8ulwh22m076no", 
+      "anon": "no", 
+      "when": "2017-10-16T23:27:23Z", 
+      "type": "followup", 
+      "uid": "ij9b2ekdTWF"
+    }, 
+    {
+      "to": "j8ulwh22m076no", 
+      "anon": "no", 
+      "when": "2017-10-16T23:36:47Z", 
+      "type": "feedback", 
+      "uid": "hkvdb9dig3v511"
+    }, 
+    {
+      "to": "j8ulwh22m076no", 
+      "anon": "no", 
+      "when": "2017-10-16T23:49:25Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j8ulwh22m076no", 
+      "anon": "no", 
+      "when": "2017-10-16T23:53:23Z", 
+      "type": "feedback", 
+      "uid": "i4iys7m3lpq2ij"
+    }, 
+    {
+      "to": "j8ulwh22m076no", 
+      "anon": "no", 
+      "when": "2017-10-17T15:12:32Z", 
+      "type": "feedback", 
+      "uid": "hve4kb0lopy4sl"
+    }, 
+    {
+      "to": "j8ulwh22m076no", 
+      "anon": "no", 
+      "when": "2017-10-17T15:18:25Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j8ulwh22m076no", 
+      "anon": "no", 
+      "when": "2017-10-17T15:23:53Z", 
+      "type": "feedback", 
+      "uid": "hve4kb0lopy4sl"
+    }, 
+    {
+      "to": "j8ulwh22m076no", 
+      "anon": "no", 
+      "when": "2017-10-17T15:27:06Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j8ulwh22m076no", 
+      "anon": "no", 
+      "when": "2017-10-17T15:29:57Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j8ulwh22m076no", 
+      "anon": "no", 
+      "when": "2017-10-17T15:33:56Z", 
+      "type": "feedback", 
+      "uid": "hve4kb0lopy4sl"
+    }, 
+    {
+      "to": "j8ulwh22m076no", 
+      "anon": "no", 
+      "when": "2017-10-17T15:39:03Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j8ulwh22m076no", 
+      "anon": "no", 
+      "when": "2017-10-17T16:23:47Z", 
+      "type": "feedback", 
+      "uid": "ij9b2ekdTWF"
+    }, 
+    {
+      "to": "j8ulwh22m076no", 
+      "anon": "no", 
+      "when": "2017-10-17T16:30:13Z", 
+      "type": "feedback", 
+      "uid": "hve4kb0lopy4sl"
+    }, 
+    {
+      "to": "j8ulwh22m076no", 
+      "anon": "no", 
+      "when": "2017-10-19T01:15:13Z", 
+      "type": "followup", 
+      "uid": "ijarmqggjkc3gz"
+    }, 
+    {
+      "to": "j8ulwh22m076no", 
+      "anon": "no", 
+      "when": "2017-10-19T13:30:30Z", 
+      "type": "feedback", 
+      "uid": "hve4kb0lopy4sl"
+    }, 
+    {
+      "to": "j8ulwh22m076no", 
+      "anon": "no", 
+      "when": "2017-10-19T13:43:47Z", 
+      "type": "feedback", 
+      "uid": "ijarmqggjkc3gz"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8ulwh22m076no", 
+  "bookmarked": 11, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-16T20:10:03Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j8um67ri8a8vt", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>$$T$$ is the vertices reachable from $$t$$ in the <strong>reverse</strong> residual graph, aka the vertices that can reach $$T$$ in the residual graph, which is just $$t$$ in the example you provide.</p>", 
+          "anon": "no", 
+          "created": "2017-10-16T20:18:01Z", 
+          "uid": "i4iys7m3lpq2ij", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>$$T$$ is the vertices reachable from $$t$$ in the reverse residual graph, aka the vertices that can reach $$T$$ in the residual graph, which is just $$t$$ in the example you provide.</p>", 
+          "anon": "no", 
+          "created": "2017-10-16T20:10:44Z", 
+          "uid": "i4iys7m3lpq2ij", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>$$T$$ is the vertices reachable from $$t$$ in the reverse residual graph, aka the vertices that can reach $$T$$ in the residual graph, which is the empty set in the example you provide.</p>", 
+          "anon": "no", 
+          "created": "2017-10-16T20:10:03Z", 
+          "uid": "i4iys7m3lpq2ij", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-16T20:15:48Z", 
+      "no_upvotes": 0, 
+      "uid": "i18w67avy8e1uk", 
+      "created": "2017-10-16T20:15:48Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8umdmeur36rd", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-17T15:12:32Z", 
+          "uid": "hve4kb0lopy4sl", 
+          "created": "2017-10-17T15:12:32Z", 
+          "type": "feedback", 
+          "id": "j8vqzgrhg8l4ma", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>The solution says we do a DFS from t in the reverse graph of Gf (I don&#39;t see any mention of the word residual anywhere in the solution).\u00a0 Is this reverse graph the same thing as a reverse residual graph?</p>"
+        }
+      ], 
+      "subject": "<p>Ah, I missed the <strong>reverse</strong> residual graph! I was reading the description of the solution and didn&#39;t get to the algorithm\u00a0part yet and saw this post. If we reverse the residual graph, there is no reachable vertices from t then.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-16T20:16:00Z", 
+      "no_upvotes": 0, 
+      "uid": "hzetpo9z5sK", 
+      "created": "2017-10-16T20:16:00Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8umdvhlc616v4", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-16T20:23:00Z", 
+          "uid": "i4iys7m3lpq2ij", 
+          "created": "2017-10-16T20:23:00Z", 
+          "type": "feedback", 
+          "id": "j8ummvaa26n6zi", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>That wouldn&#39;t tell you anything about bottlenecks since\u00a0the graph you describe has\u00a0no info about the edge capacities, except that they must be $$\\ge$$ the flow. For instance, if the original graph were:</p>\n<p></p>\n<p>\u00a0 \u00a011\u00a0 \u00a0 \u00a0 \u00a0 \u00a05\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a011\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a011</p>\n<p>s -----&gt; A -----&gt; B -----&gt; C -----&gt; t</p>\n<p></p>\n<p>Then (A,B) is a bottleneck, but the max flow\u00a0graph you describe would be the same as for Hamel&#39;s example with no bottlenecks.</p>"
+        }
+      ], 
+      "subject": "<p>My understanding is that you run steps 2 and 3 in the resulting flow Graph $$G^f$$, not in the residual graph. So in the example you put the flow graph would be:</p>\n<p></p>\n<p>s---&gt;A---&gt;B---&gt;C---t</p>\n<p></p>\n<p>With each edge having 5 weight flow.</p>\n<p></p>\n<p></p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-16T20:16:13Z", 
+      "no_upvotes": 0, 
+      "uid": "hkvdb9dig3v511", 
+      "created": "2017-10-16T20:16:13Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8ume579z6s7ch", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-16T20:17:13Z", 
+          "uid": "hkvdb9dig3v511", 
+          "created": "2017-10-16T20:17:13Z", 
+          "type": "feedback", 
+          "id": "j8umffzntw4ij", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>OMG the Reverse of G-f .\u00a0 \u00a0 Tricky.\u00a0 Missed it too!</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-16T20:18:02Z", 
+          "uid": "i18w67avy8e1uk", 
+          "created": "2017-10-16T20:18:02Z", 
+          "type": "feedback", 
+          "id": "j8umgh9d7jb2pp", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>The way I understood it, step 3 in the solution, is that we need to reverse the residual graph:</p>\n<p></p>\n<p>s &lt;----- A -----&gt; B -----&gt; C -----&gt; t</p>\n<p>-----&gt;</p>\n<p></p>\n<p>Then if we traverse from t, then it is just t, right? So, there is no bottleneck.</p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-16T20:18:34Z", 
+          "uid": "hzetpo9z5sK", 
+          "created": "2017-10-16T20:18:34Z", 
+          "type": "feedback", 
+          "id": "j8umh6h5df71l0", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>$$G^f$$ is not the residual graph</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-16T20:19:03Z", 
+          "uid": "hkvdb9dig3v511", 
+          "created": "2017-10-16T20:19:03Z", 
+          "type": "feedback", 
+          "id": "j8umhssaj552bv", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>What is it then?\u00a0\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-16T20:19:24Z", 
+          "uid": "hzetpo9z5sK", 
+          "created": "2017-10-16T20:19:24Z", 
+          "type": "feedback", 
+          "id": "j8umi8ypfu228y", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>As I understood it is the resulting max-flow graph.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-16T20:20:22Z", 
+          "uid": "i18w67avy8e1uk", 
+          "created": "2017-10-16T20:20:22Z", 
+          "type": "feedback", 
+          "id": "j8umjh8bpjs4se", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>$$G^f$$ is function of flow, which is referred to as residual graph. That is my understanding.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-16T20:21:18Z", 
+          "uid": "hzetpo9z5sK", 
+          "created": "2017-10-16T20:21:18Z", 
+          "type": "feedback", 
+          "id": "j8umkp38lct4om", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>True, my mistake\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-17T15:18:25Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-10-17T15:18:25Z", 
+          "type": "feedback", 
+          "id": "j8vr70puofp77t", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Yes, $$G^f$$ is the residual graph for the flow f.  We should&#39;ve spelled it out more to avoid confusion."
+        }
+      ], 
+      "subject": "<p>&#64;Kate what do you mean?</p>\n<p></p>\n<p>the nodes A, B, and C are reachable from T so T = {t, A, B, C}</p>\n<p></p>\n<p>likewise, S = {s, A)</p>\n<p></p>\n<p>What am I missing?</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-16T20:39:14Z", 
+      "no_upvotes": 0, 
+      "uid": "hkvdb9dig3v511", 
+      "created": "2017-10-16T20:39:14Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8un7r3njwb7mu", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-16T20:54:07Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-10-16T20:54:07Z", 
+          "type": "feedback", 
+          "id": "j8unqw5vxru5md", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>This is <span style=\"text-decoration:underline\">exactly</span> how I solved it and would be curious if this is correct too.\u00a0 I hope a TA can chime in! :)</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-16T21:00:03Z", 
+          "uid": "i4gzn4buf4Q", 
+          "created": "2017-10-16T21:00:03Z", 
+          "type": "feedback", 
+          "id": "j8unyif6sf307", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I limited this to edges in the residual graph that could reach T (and thus had spare capacity to reach T) that were also able to reach into L in the residual graph (meaning completely consumed capacity).</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-16T21:01:58Z", 
+          "uid": "i18w67avy8e1uk", 
+          "created": "2017-10-16T21:01:58Z", 
+          "type": "feedback", 
+          "id": "j8uo0zp34wc5uh", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>At hight-level, the plan\u00a0is sound.\u00a0What algorithm would you use to find edges in 2 and vertices in 3?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-16T21:15:28Z", 
+          "uid": "i4iys7m3lpq2ij", 
+          "created": "2017-10-16T21:15:28Z", 
+          "type": "feedback", 
+          "id": "j8uoicnlprq3xt", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Assuming that you&#39;re talking about being able to reach $$t$$ in the residual graph in step 3, then\u00a0yes, I think this works.\u00a0$$L$$ in your min cut is the same as $$S$$ in the provided solution: vertices reachable from $$S$$ in residual graph. Your &#34;vertices in $$R$$ that can reach $$t$$ in residual graph&#34;\u00a0is the same as $$T$$ in the provided solution (since $$R$$ is all vertices not in $$L=S$$ and if a vertex were in $$S$$ and $$T$$ then we&#39;d have an augmenting path). So you&#39;re ultimately\u00a0finding edges that (in the original graph) originate in $$S$$ and end in $$T$$, same as the provided solution.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-16T21:25:04Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-10-16T21:25:04Z", 
+          "type": "feedback", 
+          "id": "j8uouooqhyw14q", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Yes, as Kate said, it seems right.  Sounds like the same general approach as the hw solution set.  Except how do you do the steps quickly?  You don&#39;t want to run DFS or Explore for each vertex w in step 3."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-16T23:49:25Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-10-16T23:49:25Z", 
+          "type": "feedback", 
+          "id": "j8uu0bnzbnp19k", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Ah, nuts. Yeah, I didnt think about that.</p>"
+        }
+      ], 
+      "subject": "<p>My answer was more convoluted.\u00a0 \u00a0But its equivalent:</p>\n<p></p>\n<ol><li>Perform max-flow, find the min-cut.\u00a0 You get two partitions, (1) L and (2) R</li><li>find edges that traverse the min-cut boundary.\u00a0\u00a0</li><li>find all the\u00a0vertices in R that are associated with an edge in step 2, if you can reach t from this vertex then the associated edge is a bottleneck.</li></ol>\n<p></p>\n<p>If anyone thinks this is wrong, let me know!</p>\n<p></p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-16T23:23:51Z", 
+      "no_upvotes": 0, 
+      "uid": "hkvdb9dig3v511", 
+      "created": "2017-10-16T23:23:51Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8ut3ggnayy1ud", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>Thanks this thread helped - the solution I came with is indeed slower than the given solution.\u00a0 Like\u00a0Prof Vigoda said, my approach would entail performing DFS many times in step 3.\u00a0 \u00a0Its far better to just take the reverse of the reverse and see what can be reached by t.\u00a0 \u00a0</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-16T23:27:23Z", 
+      "no_upvotes": 0, 
+      "uid": "ij9b2ekdTWF", 
+      "created": "2017-10-16T23:27:23Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8ut7zsdoct7ju", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-16T23:36:47Z", 
+          "uid": "hkvdb9dig3v511", 
+          "created": "2017-10-16T23:36:47Z", 
+          "type": "feedback", 
+          "id": "j8utk2vbkc24yr", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>how did you check to see if t\u00a0is reachable from\u00a0u?\u00a0 \u00a0This would entail looking at forward edges in G-f .\u00a0 \u00a0I don&#39;t see a way to be efficient unless you start at t and see what is reachable from t, because if you start at u, you have to repeat DFS many times.\u00a0\u00a0</p>\n<p></p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-16T23:53:23Z", 
+          "uid": "i4iys7m3lpq2ij", 
+          "created": "2017-10-16T23:53:23Z", 
+          "type": "feedback", 
+          "id": "j8uu5fi5hqp4cv", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>So basically, you&#39;re saying that to be a bottleneck, an edge $$(u,v)$$ in the original network must have $$f(uv)&gt;0$$\u00a0aka it must have some flow in the max flow, $$f$$, which is how it ended up with a back-edge $$(v,u) \\in E^f$$ for you to explore. This seems\u00a0correct to me. If we think about it another way, if\u00a0$$f(uv)=0$$ (only way $$(u,v)$$ doesn&#39;t have a back-edge in the residual network), then it will have a forward-edge in the residual network: $$(u,v) \\in E^f$$. This means that when $$u$$ is reachable from $$s$$, $$v$$ is too,\u00a0meaning that $$(u,v)$$ couldn&#39;t be a bottleneck. In sum, there&#39;s no need to explore edges that do not have back-edges in the residual network as possible bottlenecks. And in fact, there&#39;s no need to explore edges that have forward-edges in the residual network either (aka edges with $$f(uv)&lt;c(uv)$$), by the same reasoning.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-17T15:23:53Z", 
+          "uid": "hve4kb0lopy4sl", 
+          "created": "2017-10-17T15:23:53Z", 
+          "type": "feedback", 
+          "id": "j8vre2f1khd3j2", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>My solution was more similar to Wes&#39;s but not the same .\u00a0 I scanned for all edges (u,v) in the residual graph and then check to see if u is reachable from s AND if v is reachable from t (by virtue of residual capacity). I still don&#39;t have a great understanding of reverse residual graphs so I wonder if this HW will be graded before exam 2 just so I can find out how much credit I get for my solution..ie, if it works but it is slower than what the professor intended, then how much of a deduction would that be? (since I may end up thinking the same way on the exam unfortunately).</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-17T15:27:06Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-10-17T15:27:06Z", 
+          "type": "feedback", 
+          "id": "j8vri6qbyoo2e", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Don&#39;t expect the homeworks to be graded before the exam.  Also the homeworks are graded much quicker than the exams.\n\nWhat does &#34;reverse residual graph&#34; mean?  The reverse of the residual graph?  Or backward edges in the residual graph?"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-17T15:29:57Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-10-17T15:29:57Z", 
+          "type": "feedback", 
+          "id": "j8vrluyvur72v3", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>The &#34;reverse residual graph&#34; means:<br /><br /></p>\n<ul><li>You take the residual graph $$G_f$$</li><li>You reverse it to obtain $$G^R_f$$</li></ul>\n<p></p>\n<p>$$G^R_f$$ will be the &#34;reverse residual graph&#34;.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-17T15:33:56Z", 
+          "uid": "hve4kb0lopy4sl", 
+          "created": "2017-10-17T15:33:56Z", 
+          "type": "feedback", 
+          "id": "j8vrqzilqgh67c", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>My reverse residual graph comment was about trying to understand the comments up higher in this thread explaining how the published solution works.\u00a0 My turned-in solution had nothing to do with reverse of anything, it just looks at all the residuals (in the forward direction graph) after running max flow so I&#39;m trying to compare that to the published solution and deduce if I got any part of my solution right or not (this feedback is useful in my exam prep).</p>\n<p></p>\n<p>I do understand what a challenge it must be to hand grade all these homeworks, its just that there are probably a lot of different ways to solve all these problems.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-17T15:39:03Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-10-17T15:39:03Z", 
+          "type": "feedback", 
+          "id": "j8vrxkgzaxl29f", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "If you didn&#39;t use the &#34;Reverse Graph&#34; then you will lose lots or all points -- and similar if there&#39;s an analogous problem on the exam.  The reverse graph is a key concept, obviously."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-17T16:23:47Z", 
+          "uid": "ij9b2ekdTWF", 
+          "created": "2017-10-17T16:23:47Z", 
+          "type": "feedback", 
+          "id": "j8vtj33itt43m", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#64;Hamel\u00a0 I found all the nodes that have a path to $$t$$ in the residual graph by running DFS on the reverse of the residual graph, just like in the published solution.\u00a0 The only difference in my solution is that I looked for back edges in the residual graph that satisfied certain properties, as opposed to looking for forward edges in the original graph.</p>\n<p></p>\n<p>&#64;Kate\u00a0 I think you noticed some properties that I didn&#39;t even think about.\u00a0 My reasoning was just that if you examine the residual graph and find a back edge $$(u, v) \\in G^f$$, where you can reach $$v$$ from $$s$$ and you can reach $$t$$ from $$u$$, then\u00a0the forward edge $$(v, u) \\in G^f$$ can&#39;t exist.\u00a0 If it did, there would still be an augmenting path and the algorithm would not have terminated.\u00a0 So $$(u, v) \\in G^f$$ is the only edge stopping the augmenting path in the residual graph, and $$(v, u) \\in G$$ in the <em>original</em> graph\u00a0must\u00a0therefore be a bottleneck, since increasing it&#39;s capacity would increase the max flow.\u00a0 After looking at a few examples, I THINK this is equivalent to the published answer, was just looking for some confirmation.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-17T16:30:13Z", 
+          "uid": "hve4kb0lopy4sl", 
+          "created": "2017-10-17T16:30:13Z", 
+          "type": "feedback", 
+          "id": "j8vtrd839lx6nl", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I check connectivity (using residual capacity) from t to v so maybe that can be viewed as the same thing as using a reverse graph (since it is a reverse direction from the max s-&gt;t flow)?\u00a0 I presume this is covered in MF1 so I will re-watch those lectures again and hopefully will reconcile all of this (ie. my intuitive way of looking at it versus how I&#39;m expected to solve this problem).\u00a0 Thanks.</p>"
+        }
+      ], 
+      "subject": "<p>My solution was just slightly different from the released solution as well.\u00a0 Instead of scanning the edges in $$G$$, I scanned the edges $$(u, v)$$ in $$G^f$$ looking for edges where $$v$$ is reachable from $$s$$ and $$t$$ is reachable from $$u$$, which would make $$(v, u)$$ (EDIT: Had this backwards earlier...) a bottleneck in $$G$$.\u00a0 So I looked for back edges in $$G^f$$ instead of forward edges in $$G$$, but I believe everything else works just the same.\u00a0 Did anybody else do this?\u00a0 Or does anybody know if this might be wrong?</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-19T01:15:13Z", 
+      "no_upvotes": 0, 
+      "uid": "ijarmqggjkc3gz", 
+      "created": "2017-10-19T01:15:13Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8xryd7lzvh76b", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-19T13:30:30Z", 
+          "uid": "hve4kb0lopy4sl", 
+          "created": "2017-10-19T13:30:30Z", 
+          "type": "feedback", 
+          "id": "j8yi7yedt2que", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Jeff, I would consider this as pretty similar to the way I solved the problem too (but using connectivity to s as the source and t as the sink in the forward residual graph), so if you look at the comments above, professor Vigoda said we will lose lots or all points if we don&#39;t use the reverse residual graph in the solution.\u00a0 So based on recent exam comments, he may be considering these kinds of solutions as naive.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-19T13:43:47Z", 
+          "uid": "ijarmqggjkc3gz", 
+          "created": "2017-10-19T13:43:47Z", 
+          "type": "feedback", 
+          "id": "j8yip17cvu73kz", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>If you study the provided solution you&#39;ll notice that in step 2 it is finding the sink SCC of the residual graph (by running DFS from s).\u00a0 In step 3 it is finding the source SCC of the residual graph (by running DFS from t on the reverse residual graph).\u00a0 Also, the SCC algorithm itself reverses the graph as one of its steps.\u00a0 The time complexity of the provided solution and the one I&#39;ve stated here are both O(|E|&#43;|V|).\u00a0 However, the provided solution to find only the source and sink SCCs will always be more efficient than finding all SCCs.</p>"
+        }
+      ], 
+      "subject": "FYI: There&#39;s a solution that I think is much simpler conceptually but equivalent to the provided solution being discussed.<div><br /></div><div><br /></div><div>- Run SCC on the residual graph</div><div>- All residual edges directly connecting the sink SCC to the source SCC correspond to bottle neck edges in the original graph.</div><div><br /></div><div><br /></div><div>The main concepts being:</div><div><br /></div><div>- Any edge not at capacity will have strongly connected vertices in the residual graph.</div><div>- Incremental flow can be provided to any SCC vertex and distributed to any other vertex in that same SCC by making use of the residual flow path that connect them.</div>"
+    }
+  ], 
+  "nr": 737, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw5"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 4, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw5", 
+    "student"
+  ], 
+  "created": "2017-10-16T20:02:28Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145145287, 
+  "tag_good": [
+    {
+      "name": "Shihgian Lee", 
+      "admin": false, 
+      "photo": "1420394909_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i18w67avy8e1uk"
+    }, 
+    {
+      "name": "Terry H Sharp", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "ideu7aauepq5hm"
+    }
+  ], 
+  "tag_good_arr": [
+    "i18w67avy8e1uk", 
+    "ideu7aauepq5hm"
+  ], 
+  "history": [
+    {
+      "content": "<p>I have a question about the solution that was released.\u00a0\u00a0</p>\n<p></p>\n<p>Let&#39;s say you have a graph of the form:</p>\n<p>\u00a0 \u00a0</p>\n<p>\u00a0 \u00a0 \u00a011\u00a0 \u00a0 \u00a0 \u00a0 \u00a05\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a05\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a05</p>\n<p>s -----&gt; A -----&gt; B -----&gt; C -----&gt; t</p>\n<p></p>\n<p>Now the residual graph will look like this:</p>\n<p></p>\n<p>\u00a0 \u00a0 \u00a06\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 5\u00a0 \u00a0 \u00a0 \u00a0 \u00a05\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a05</p>\n<p>s -----&gt; A &lt;----- B &lt;----- C &lt;----- t</p>\n<p>\u00a0 \u00a0&lt;-----</p>\n<p>\u00a0 \u00a0 \u00a0 \u00a05</p>\n<p></p>\n<p>Now, the way I understand it, there are no bottlenecks in this network, because increasing the capacity of any one edge by itself will not increase the max flow.\u00a0 However, when I follow the instructions in the solution this results in edge (A, B) being a bottleneck.\u00a0 What am I getting wrong?\u00a0\u00a0</p>\n<p></p>\n<p>Thanks</p>", 
+      "anon": "no", 
+      "created": "2017-10-16T20:02:52Z", 
+      "uid": "hkvdb9dig3v511", 
+      "subject": "Homework 5 Problem 1, DPV 7.17(e)"
+    }, 
+    {
+      "content": "<p>I have a question about the solution that was released.\u00a0\u00a0</p>\n<p></p>\n<p>Let&#39;s say you have a graph of the form:</p>\n<p>\u00a0 \u00a0</p>\n<p>\u00a0 \u00a0 \u00a011\u00a0 \u00a0 \u00a0 \u00a0 \u00a05\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a05\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a05</p>\n<p>s -----&gt; A -----&gt; B -----&gt; C -----&gt; t</p>\n<p></p>\n<p>Now the residual graph will look like this:</p>\n<p></p>\n<p>\u00a0 \u00a0 \u00a06\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 5\u00a0 \u00a0 \u00a0 \u00a0 \u00a05\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a05</p>\n<p>s -----&gt; A &lt;----- B &lt;----- C &lt;----- t</p>\n<p>\u00a0 \u00a0&lt;-----</p>\n<p>\u00a0 \u00a0 \u00a0 \u00a05</p>\n<p></p>\n<p>Now, the way I understand it, there are no bottlenecks in this network, because increasing the capacity of any one edge by itself will not increase the max flow.\u00a0 However, when I follow the instructions in the solution this results in edge (A, B) being a bottleneck.\u00a0 What am I getting wrong?\u00a0\u00a0</p>\n<p></p>\n<p>Thanks</p>", 
+      "anon": "no", 
+      "created": "2017-10-16T20:02:28Z", 
+      "uid": "hkvdb9dig3v511", 
+      "subject": "Problem 1 7.17(e)"
+    }
+  ]
+}

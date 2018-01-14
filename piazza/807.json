@@ -1,0 +1,803 @@
+{
+  "status": "active", 
+  "unique_views": 118, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-24T19:07:04Z", 
+      "data": "j95zg18o7uv5u5", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "uid": "i4hdvab632i522", 
+      "type": "s_answer", 
+      "when": "2017-10-24T19:25:52Z", 
+      "to": "j95zg18idaf5u4", 
+      "anon": "no", 
+      "data": "j96047g5ay96w9"
+    }, 
+    {
+      "to": "j95zg18idaf5u4", 
+      "anon": "no", 
+      "when": "2017-10-24T19:32:16Z", 
+      "type": "followup", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j95zg18idaf5u4", 
+      "anon": "no", 
+      "when": "2017-10-24T19:32:36Z", 
+      "type": "followup", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j95zg18idaf5u4", 
+      "anon": "no", 
+      "when": "2017-10-24T19:33:20Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j95zg18idaf5u4", 
+      "anon": "no", 
+      "when": "2017-10-24T19:33:58Z", 
+      "type": "feedback", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "to": "j95zg18idaf5u4", 
+      "anon": "no", 
+      "when": "2017-10-24T19:35:54Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j95zg18idaf5u4", 
+      "anon": "no", 
+      "when": "2017-10-24T19:36:01Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j95zg18idaf5u4", 
+      "anon": "no", 
+      "when": "2017-10-24T19:36:49Z", 
+      "type": "feedback", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "to": "j95zg18idaf5u4", 
+      "anon": "no", 
+      "when": "2017-10-24T19:37:31Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j95zg18idaf5u4", 
+      "anon": "no", 
+      "when": "2017-10-24T19:39:53Z", 
+      "type": "feedback", 
+      "uid": "idg5nm2lC96"
+    }, 
+    {
+      "to": "j95zg18idaf5u4", 
+      "anon": "no", 
+      "when": "2017-10-24T19:45:15Z", 
+      "type": "feedback", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "to": "j95zg18idaf5u4", 
+      "anon": "no", 
+      "when": "2017-10-24T19:48:04Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j95zg18idaf5u4", 
+      "anon": "no", 
+      "when": "2017-10-24T19:51:33Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j95zg18idaf5u4", 
+      "anon": "no", 
+      "when": "2017-10-24T19:52:23Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j95zg18idaf5u4", 
+      "anon": "no", 
+      "when": "2017-10-24T19:56:52Z", 
+      "type": "feedback", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "to": "j95zg18idaf5u4", 
+      "anon": "no", 
+      "when": "2017-10-24T21:51:20Z", 
+      "type": "feedback", 
+      "uid": "i8597qyse9c1v2"
+    }, 
+    {
+      "to": "j95zg18idaf5u4", 
+      "anon": "no", 
+      "when": "2017-10-25T00:04:14Z", 
+      "type": "feedback", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j95zg18idaf5u4", 
+      "anon": "no", 
+      "when": "2017-10-25T00:13:44Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j95zg18idaf5u4", 
+      "anon": "no", 
+      "when": "2017-10-25T00:14:10Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j95zg18idaf5u4", 
+      "anon": "no", 
+      "when": "2017-10-25T00:21:29Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j95zg18idaf5u4", 
+      "anon": "no", 
+      "when": "2017-10-25T01:17:51Z", 
+      "type": "feedback", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j95zg18idaf5u4", 
+      "anon": "no", 
+      "when": "2017-10-25T01:20:46Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j95zg18idaf5u4", 
+      "anon": "no", 
+      "when": "2017-10-25T10:06:07Z", 
+      "type": "feedback", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "to": "j95zg18idaf5u4", 
+      "anon": "no", 
+      "when": "2017-10-25T12:23:29Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j95zg18idaf5u4", 
+      "anon": "no", 
+      "when": "2017-10-25T13:54:17Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j95zg18idaf5u4", 
+      "anon": "no", 
+      "when": "2017-10-25T13:56:46Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j95zg18idaf5u4", 
+      "anon": "no", 
+      "when": "2017-10-25T13:59:14Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j95zg18idaf5u4", 
+      "anon": "no", 
+      "when": "2017-10-25T14:01:47Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j95zg18idaf5u4", 
+      "anon": "no", 
+      "when": "2017-10-25T14:04:57Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j95zg18idaf5u4", 
+  "bookmarked": 11, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-24T19:25:52Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j96047g0dvf6w8", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "Basically it&#39;s possible to reduce SAT to 3-SAT, so as 2-SAT $$\\subset$$ SAT, 2-SAT is in a manner of speaking reducible to 3-SAT.\n\nI think that brings in the question of when a reduction is meaningful, as we discard some information about 2-SAT when we reduce to 3-SAT; namely that 2-SAT itself is in P", 
+          "anon": "no", 
+          "created": "2017-10-24T19:25:52Z", 
+          "uid": "i4hdvab632i522", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-24T19:32:16Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "i4nkipeofrkrz", 
+      "created": "2017-10-24T19:32:16Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j960cfzukuc198", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-24T19:33:58Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-10-24T19:33:58Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j960ems5tad73t", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "$$(x_1 \\vee x_1 \\vee x_1)$$ is 3-SAT, for instance; that&#39;s part of how you reduce all of SAT to 3-SAT"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-24T19:36:01Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-10-24T19:36:01Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j960h99wj2p2pf", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Can you repeat the same variable within the same clause? I thought the definition said that a variable can appear at most once on each clause. Maybe I&#39;m wrong.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-24T19:36:49Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-10-24T19:36:49Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j960iadhpjy73m", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Whose definition?"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-24T19:37:31Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-10-24T19:37:31Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j960j6p6k2y4ec", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Not sure. I thought I saw that. I&#39;ll Google it and see if anything comes up.</p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-24T19:45:15Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-10-24T19:45:15Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j960t54z3an58q", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Then to convert $$(x_1 \\vee x_2 \\vee x_3 \\vee x_4)$$ to 3-SAT you simply add dummy variable/s as in $$(x_1 \\vee x_2 \\vee z) \\wedge (\\bar z \\vee x_3 \\vee x_4)$$ similarly for even larger clauses. It is all described in the literature"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-24T19:48:04Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-10-24T19:48:04Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j960wrngya5ok", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "I even saw something about using the constants true or false (or 0 or 1). However, that was for circuit satisfiability, and I&#39;m not clear on how that&#39;s related to k-SAT."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-24T19:52:23Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-10-24T19:52:23Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j9612bjjgue4rv", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I know where I saw it: Exercise 8.8 in the homework defines EXACT 4SAT as to have each variable at most once in each clause (that means that $$(x_1 \\vee x_1 \\vee x_2 \\vee x_3)$$ is not EXACT 4SAT because $$x_1$$ is twice in the clause.</p>\n<p></p>\n<p>But this is not true for regular 4SAT (where apparently, the variables may repeat).</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-24T19:56:52Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-10-24T19:56:52Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j961833t10u1z7", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Nolan, Circuit satisfiability is a useful way of proving that\nA) 3-SAT may be defined in terms of a circuit, so circuit-SAT is reducible to 3-SAT\nB) All of NP, including 3-SAT, is reducible to circuit-SAT"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-24T21:51:20Z", 
+          "uid": "i8597qyse9c1v2", 
+          "created": "2017-10-24T21:51:20Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j965b9wep7x45o", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Mark is on fire!</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-25T00:04:14Z", 
+          "uid": "i4ket0u1z5q31a", 
+          "created": "2017-10-25T00:04:14Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j96a26pkvcv1zy", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I think having x1 twice in the same clause would be redundant and not change the size of k.</p>\n<p>Having x1 and x1bar in the same clause would be an immediate contradiction.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-25T00:13:44Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-10-25T00:13:44Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j96aeevkiim4ai", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "David, it wouldn&#39;t be a contradiction, since we&#39;re using OR inside of the clauses. Instead, it would amount to a &#34;Don&#39;t Care&#34;."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-25T00:14:10Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-10-25T00:14:10Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j96aeyub9af4ox", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "You&#39;re right, Mark is on fire. He should be promoted to &#34;TA&#34;."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-25T01:17:51Z", 
+          "uid": "i4ket0u1z5q31a", 
+          "created": "2017-10-25T01:17:51Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j96cov8v9i65os", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#64;Nolan, technically you are right, but it doesn&#39;t make sense to have both &#34;true or false&#34; in one clause for the same variable and if you have both true and false required overall it is not satisfiable.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-25T01:20:46Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-10-25T01:20:46Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j96csmayk4f1vn", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>The thing is that you can have it. A valid 3-SAT problem is $$(x_1 \\vee x_1 \\vee x_2)$$. Another valid 3-SAT:\u00a0$$(x_1 \\vee \\overline{x_1} \\vee x_2)$$. So we need to take this into account in 8.8.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-25T10:06:07Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-10-25T10:06:07Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j96vk7w927555n", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Pedro &amp; Nolan you&#39;re very kind, it looks as though Professor Vigoda has of course anticipated all of it too, now that I&#39;ve seen the NP2 videos :-)"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-25T12:23:29Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-10-25T12:23:29Z", 
+          "type": "feedback", 
+          "id": "j970gvr6l7l12h", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "The reason they add the restriction to E4-SAT about not repeating a variable is otherwise you can make a trivial reduction by just repeating a literal.  You can safely assume that 3-SAT also does not have a repeated variable.  Why?  Perhaps we should put it in the problem definition since it&#39;s a minor point.  But if not, if you have a formula f with a clause C where a variable repeats, then do the following: (i) if it&#39;s the same literal more than once, such as $$(x_1 \\vee \\overline{x_3} \\vee x_1)$$ just replace it by $$(x_1 \\vee \\overline{x_3})$$ it&#39;s an equivalent formula; (ii) if it&#39;s a literal and its negation, such as  $$(x_1 \\vee \\overline{x_3} \\vee \\overline{x_1})$$ then drop the clause since it&#39;s always satisfied.\n\n--Eric"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-25T13:54:17Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-10-25T13:54:17Z", 
+          "type": "feedback", 
+          "id": "j973pnjuvdf4h0", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Professor, I did exactly what you suggested, and that solves 99% of the cases, except the case where the input is $$(x_1 \\vee \\overline{x_1})$$. In this case, we can&#39;t simply drop the term because the input to E4-SAT can&#39;t be empty. So basically, I had to create another term using the same variable that I dropped. Something like:\u00a0$$(x_1 \\vee y_1 \\vee y_2 \\vee y_3)$$. This is equivalent to the original\u00a0$$(x_1 \\vee \\overline{x_1})$$.</p>\n<p></p>\n<p>That being said, since you will allow it, I&#39;m changing my answer to assume that the 3-SAT problem doesn&#39;t repeat variables.\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-25T13:56:46Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-10-25T13:56:46Z", 
+          "type": "feedback", 
+          "id": "j973stza9km26p", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "In this case where there is a clause $$C=(x_1\\vee\\overline{x_1})$$ just drop the entire clause C. It&#39;s always satisfied so the original formula f is satisfiable iff the new f&#39; is satisfiable.  Good?"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-25T13:59:14Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-10-25T13:59:14Z", 
+          "type": "feedback", 
+          "id": "j973w0o1vs415", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Yes, that makes sense. The example that is interesting is when the input has only one clause $$C$$, and $$C = (x_1 \\vee \\overline{x_1})$$. In this case, we can&#39;t simply drop the clause $$C$$ because the input for E4-SAT can&#39;t be empty. Does that make sense?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-25T14:01:47Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-10-25T14:01:47Z", 
+          "type": "feedback", 
+          "id": "j973za6zq771h7", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Just output True if the formula f is empty.  Or make 4 new variables just for this clause."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-25T14:04:57Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-10-25T14:04:57Z", 
+          "type": "feedback", 
+          "id": "j9743cxl9lf5q6", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>That I can do. Thanks professor!</p>\n<p></p>"
+        }
+      ], 
+      "subject": "<p>Mark, I don&#39;t think that answers my question (or maybe I didn&#39;t understand). Basically, I want to know if something like $$(x_1 \\vee x_2 \\vee x_3)$$ is also considered 4SAT, and 5SAT, and $$k$$SAT as long as k &gt;= 3 (It is clearly a 3SAT, but I wonder whether it is a 4SAT as well).</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-24T19:32:36Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "hq8hn0qyfuvyr", 
+      "created": "2017-10-24T19:32:36Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j960cvlk84w25d", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-24T19:33:20Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-10-24T19:33:20Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j960dt6el7t2a6", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>This answers my question. Thanks!</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-24T19:35:54Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-10-24T19:35:54Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j960h41qeic5xu", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "You&#39;re welcome. It&#39;s kind of just my opinion, but it makes sense to me."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-24T19:39:53Z", 
+          "uid": "idg5nm2lC96", 
+          "created": "2017-10-24T19:39:53Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j960m8rzeuqrn", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I just went through the 3-SAT lecture and can confirm what Nolan said: The definition of 3-SAT says\u00a0&#34;each clause has $$\\leq$$ 3 literals.&#34; However, from a quick search, it seems equally valid to say that at least one of the clauses in $$k$$-SAT must have <em>exactly</em> $$k$$ variables. Here&#39;s from <a href=\"https://en.wikipedia.org/wiki/Boolean_satisfiability_problem#3-satisfiability\" target=\"_blank\">Wiki</a>; see the last two paragraphs in 3-satisfiability sub-section.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-24T19:51:33Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-10-24T19:51:33Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j96118kdlwb3xl", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "I think the Wikipedia article pretty much summarizes it. It depends on who is writing the definition, and different authors might be different. I also noticed this in how Cut Property is defined."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-25T00:21:29Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-10-25T00:21:29Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j96aodwio5w1n4", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Nolan is correct.  We defined k-SAT as at most k literals in a clause so a 2-SAT input is also a valid input to 3-SAT.  So reducing 2-SAT to 3-SAT is trivial, but reducing 3-SAT to 2-SAT is difficult (impossible unless P=NP).    Now if you consider E3-SAT (Exact-3-SAT) then a 2-SAT input is not a valid input to E3-SAT."
+        }
+      ], 
+      "subject": "I believe that any 2-SAT problem is by definition also a 3-SAT problem. Of course, someone could define the terms so that&#39;s not true, but I doubt anyone would intentionally do that. I think I remember that in the lecture the Professor said that an n-SAT problem has at most n literals in each clause, but I don&#39;t think that exactly answers your question.\n\nJust remember that when it&#39;s said that 3-SAT is intractable, that means 3-SAT in general. Specific problems in 3-SAT might be very easy to solve, and in particular any that are also 2-SAT problems, and known to be 2-SAT problems, would be solvable in polynomial time."
+    }
+  ], 
+  "nr": 807, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw_solutions6"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 3, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw_solutions6", 
+    "student"
+  ], 
+  "created": "2017-10-24T19:07:04Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145129372, 
+  "tag_good": [
+    {
+      "name": "Shihgian Lee", 
+      "admin": false, 
+      "photo": "1420394909_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i18w67avy8e1uk"
+    }
+  ], 
+  "tag_good_arr": [
+    "i18w67avy8e1uk"
+  ], 
+  "history": [
+    {
+      "content": "<p>1. The problem\u00a0$$(x_1 \\vee x_2) \\wedge (x_3)$$ is clearly 2SAT.</p>\n<p>2. The problem\u00a0$$(x_1 \\vee x_2 \\vee x_3) \\wedge (x_4)$$ is clearly 3SAT.</p>\n<p></p>\n<p>Can we consider #1 also a 3SAT problem? Can we consider #2 also a 4SAT problem?</p>\n<p></p>\n<p>Or for the problem to be $$k$$SAT is has to have at least one clause with $$k$$\u00a0variables?</p>", 
+      "anon": "no", 
+      "created": "2017-10-24T19:07:04Z", 
+      "uid": "i4nkipeofrkrz", 
+      "subject": "Is a 2SAT problem a 3SAT problem?"
+    }
+  ]
+}

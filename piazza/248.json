@@ -1,0 +1,545 @@
+{
+  "status": "active", 
+  "unique_views": 190, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-10T20:37:45Z", 
+      "data": "j7f7b67ugj31ob", 
+      "uid": "i4iys7m3lpq2ij"
+    }, 
+    {
+      "uid": "i4nkipeofrkrz", 
+      "type": "s_answer", 
+      "when": "2017-09-10T20:51:26Z", 
+      "to": "j7f7b67t64k1oa", 
+      "anon": "no", 
+      "data": "j7f7srhxy3w4vm"
+    }, 
+    {
+      "to": "j7f7b67t64k1oa", 
+      "anon": "no", 
+      "when": "2017-09-10T20:52:41Z", 
+      "type": "followup", 
+      "uid": "i4iys7m3lpq2ij"
+    }, 
+    {
+      "to": "j7f7b67t64k1oa", 
+      "anon": "no", 
+      "when": "2017-09-10T20:54:56Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j7f7b67t64k1oa", 
+      "anon": "no", 
+      "when": "2017-09-10T20:55:38Z", 
+      "type": "followup", 
+      "uid": "i4g1simdqek6ey"
+    }, 
+    {
+      "to": "j7f7b67t64k1oa", 
+      "anon": "no", 
+      "when": "2017-09-10T22:10:17Z", 
+      "type": "followup", 
+      "uid": "idg5nm2lC96"
+    }, 
+    {
+      "uid": "isce58miop454k", 
+      "type": "i_answer", 
+      "when": "2017-09-10T22:27:25Z", 
+      "to": "j7f7b67t64k1oa", 
+      "anon": "no", 
+      "data": "j7fb87gvnf46qe"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-09-10T22:28:00Z", 
+      "data": "j7fb8yewp9j758", 
+      "uid": "isce58miop454k"
+    }, 
+    {
+      "to": "j7f7b67t64k1oa", 
+      "anon": "no", 
+      "when": "2017-09-10T22:32:24Z", 
+      "type": "followup", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j7f7b67t64k1oa", 
+      "anon": "no", 
+      "when": "2017-09-10T22:52:49Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j7f7b67t64k1oa", 
+      "anon": "no", 
+      "when": "2017-09-10T22:53:04Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j7f7b67t64k1oa", 
+      "anon": "no", 
+      "when": "2017-09-10T23:02:02Z", 
+      "type": "followup", 
+      "uid": "i4iys7m3lpq2ij"
+    }, 
+    {
+      "to": "j7f7b67t64k1oa", 
+      "anon": "no", 
+      "when": "2017-09-10T23:14:23Z", 
+      "type": "followup", 
+      "uid": "iddoy2bdneb2tv"
+    }, 
+    {
+      "to": "j7f7b67t64k1oa", 
+      "anon": "no", 
+      "when": "2017-09-10T23:17:41Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "type": "i_answer_update", 
+      "anon": "no", 
+      "when": "2017-09-11T02:44:58Z", 
+      "data": "j7fkff89w5a6q2", 
+      "uid": "isce58miop454k"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-09-11T02:46:28Z", 
+      "data": "j7fkhcpvw1a5e", 
+      "uid": "isce58miop454k"
+    }, 
+    {
+      "type": "i_answer_update", 
+      "anon": "no", 
+      "when": "2017-09-11T02:46:52Z", 
+      "data": "j7fkhv5sz3flw", 
+      "uid": "isce58miop454k"
+    }, 
+    {
+      "to": "j7f7b67t64k1oa", 
+      "anon": "no", 
+      "when": "2017-09-11T14:26:23Z", 
+      "type": "feedback", 
+      "uid": "i4iys7m3lpq2ij"
+    }, 
+    {
+      "to": "j7f7b67t64k1oa", 
+      "anon": "no", 
+      "when": "2017-09-11T14:56:05Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "type": "i_answer_update", 
+      "anon": "no", 
+      "when": "2017-09-11T19:49:55Z", 
+      "data": "j7gl1itrdfy39k", 
+      "uid": "ijaqo3bm4133g3"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j7f7b67t64k1oa", 
+  "bookmarked": 9, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-10T20:51:26Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j7f7srhunjy4vl", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>Here the base cases that I used (and I got all the points):</p>\n<p></p>\n<p>$$T(0, b) = \\infty$$</p>\n<p>$$T(i, 0) = 0$$</p>\n<p></p>\n<p>Kate, I think you are right.</p>\n<p></p>\n<p></p>\n<p></p>", 
+          "anon": "no", 
+          "created": "2017-09-11T02:46:28Z", 
+          "uid": "isce58miop454k", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>Here the base cases that I used (and I got all the points):</p>\n<p></p>\n<p>$$T(0, b) = \\infty$$</p>\n<p>$$T(i, 0) = 0$$</p>\n<p></p>\n<p>Kate, I think you are right.</p>\n<p></p>\n<p></p>\n<p>Hmmmmmm Santiago I don&#39;t think you have got the full points...</p>\n<p>Xinyu Wang</p>", 
+          "anon": "no", 
+          "created": "2017-09-10T22:28:00Z", 
+          "uid": "isce58miop454k", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>Here the base cases that I used (and I got all the points):</p>\n<p></p>\n<p>$$T(0, b) = \\infty$$</p>\n<p>$$T(i, 0) = 0$$</p>\n<p></p>\n<p>Kate, I think you are right.</p>", 
+          "anon": "no", 
+          "created": "2017-09-10T20:51:26Z", 
+          "uid": "i4nkipeofrkrz", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-10T20:52:41Z", 
+      "no_upvotes": 0, 
+      "uid": "i4iys7m3lpq2ij", 
+      "created": "2017-09-10T20:52:41Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7f7udp436323p", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-10T20:54:56Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-09-10T20:54:56Z", 
+          "type": "feedback", 
+          "id": "j7f7x9mi9mw3pk", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I bet it is. I&#39;d open a private post with the instructors. Although the homework is not worth much, I&#39;d rather get as many points as I can. That&#39;s usually all it takes to go from a B to an A at the end of the class.</p>\n<p></p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-10T22:52:49Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-09-10T22:52:49Z", 
+          "type": "feedback", 
+          "id": "j7fc4vcqyd147f", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>It turns out that Xinyu is right and I didn&#39;t get all the points (-0.25). Asking for a regrade now.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-11T14:56:05Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-09-11T14:56:05Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j7gajndsnzr3ol", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Regrade complete and all the points are back :)</p>"
+        }
+      ], 
+      "subject": "<p>haha, I used same base cases and lost 0.25. It&#39;s tough to grade this many HWs, for sure.\u00a0</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-10T20:55:38Z", 
+      "no_upvotes": 0, 
+      "uid": "i4g1simdqek6ey", 
+      "created": "2017-09-10T20:55:38Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7f7y6b0j8g2y0", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>This definitely solves the the case where Xi == b issue you responded to cleanly.\u00a0</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-10T22:10:17Z", 
+      "no_upvotes": 0, 
+      "uid": "idg5nm2lC96", 
+      "created": "2017-09-10T22:10:17Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7fam62vvdy8y", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>Got deducted 0.25 for my base case as well. Filed for a regrade, and got my 0.25 points back in a matter of minutes. Thanks for the quick turn-around, TA!</p>"
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-10T22:27:25Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "hyzyc8nwswo6z5"
+      ], 
+      "id": "j7fb87gukga6qd", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Zack Gow", 
+          "admin": false, 
+          "photo": "1476241357_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hyzyc8nwswo6z5"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>Hi everyone,</p>\n<p></p>\n<p>Thanks for you guy&#39;s input. It seems that there is some typo in the solution. We will take them into consideration and discuss about it. And we will look at\u00a0your solutions again.</p>\n<p></p>\n<p>Thanks,</p>\n<p>Xinyu Wang</p>\n<p></p>\n<p>-update</p>\n<p>In the solution there is base case T(0,0) &lt;- 0. It should be from i = 0 to n there is T(i,0) = 0. Also if you didn&#39;t initialize the whole table but initialized T(0,b) = positive infinity for b = 1 to B it also works. Besides, we will not subtract points for base cases for this homework. Hope it helps!</p>", 
+          "anon": "no", 
+          "created": "2017-09-11T19:49:55Z", 
+          "uid": "ijaqo3bm4133g3", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>Hi everyone,</p>\n<p></p>\n<p>Thanks for you guy&#39;s input. It seems that there is some typo in the solution. We will take them into consideration and discuss about it. And we will look at\u00a0your solutions again.</p>\n<p></p>\n<p>Thanks,</p>\n<p>Xinyu Wang</p>", 
+          "anon": "no", 
+          "created": "2017-09-11T02:46:52Z", 
+          "uid": "isce58miop454k", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>Hi everyone,</p>\n<p></p>\n<p>Thanks for you guy&#39;s input. It seems that there is some typo in the solution. We will take them into consideration and revised it. And we will look at\u00a0your solutions again.</p>\n<p></p>\n<p>Thanks,</p>\n<p>Xinyu Wang</p>", 
+          "anon": "no", 
+          "created": "2017-09-11T02:44:58Z", 
+          "uid": "isce58miop454k", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>Hi everyone,</p>\n<p></p>\n<p>I noticed a common issue regarding base cases is that many people didn&#39;t initialize the whole table. If so, the algorithm will not be running properly. If you have done that and everything else correct, a deduction may result from oversight. Otherwise this may be a possible reason for your deducted points. Hope it helps!</p>\n<p></p>\n<p>Thanks,</p>\n<p>Xinyu Wang</p>", 
+          "anon": "no", 
+          "created": "2017-09-10T22:27:25Z", 
+          "uid": "isce58miop454k", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-10T22:32:24Z", 
+      "no_upvotes": 0, 
+      "uid": "i4nkipeofrkrz", 
+      "created": "2017-09-10T22:32:24Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7fbemeqv4s4k7", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-10T22:53:04Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-09-10T22:53:04Z", 
+          "type": "feedback", 
+          "id": "j7fc57bri5d4ei", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I guess the answer here is 1.5 for question 3.</p>"
+        }
+      ], 
+      "subject": "<p>What is the maximum you can get?</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-10T23:02:02Z", 
+      "no_upvotes": 0, 
+      "uid": "i4iys7m3lpq2ij", 
+      "created": "2017-09-10T23:02:02Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7fcgpwj553s4", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-10T23:17:41Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-09-10T23:17:41Z", 
+          "type": "feedback", 
+          "id": "j7fd0ul4xrf7jg", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#43;1</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-11T14:26:23Z", 
+          "uid": "i4iys7m3lpq2ij", 
+          "created": "2017-09-11T14:26:23Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j7g9hg7w6nd3gn", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Update: the base cases listed in the student answer are correct.</p>"
+        }
+      ], 
+      "subject": "<p>Xinyu,\u00a0Why does the whole table need to be initialized to $$\\infty$$? Seems like as long as you have the base case $$T(0,b)=\\infty$$ $$\\forall b &gt; 0$$ (and of course, at given point $$(i,b)$$, you&#39;ve visited all previous $$i$$ and $$b$$ as in the posted solution) you are covered. What am I missing?</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-10T23:14:23Z", 
+      "no_upvotes": 0, 
+      "uid": "iddoy2bdneb2tv", 
+      "created": "2017-09-10T23:14:23Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7fcwlpn8yr4qn", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>Xinyu, I agree with Kate. I dont see a case where it could be undefined if we are accessing the row before which will already be initiated to either 0 at (0, 0) or infinity at (0, b). Also we never had an example where we initialize the whole table.</p>"
+    }
+  ], 
+  "nr": 248, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw1", 
+    "hw_solutions1"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 0, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw1", 
+    "hw_solutions1", 
+    "student"
+  ], 
+  "created": "2017-09-10T20:37:45Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145264260, 
+  "tag_good": [
+    {
+      "name": "Jesse Peinado", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "iddoy2bdneb2tv"
+    }, 
+    {
+      "name": "Xinyu Wang", 
+      "admin": true, 
+      "photo": null, 
+      "us": false, 
+      "role": "ta", 
+      "facebook_id": null, 
+      "id": "isce58miop454k"
+    }, 
+    {
+      "name": "Shihgian Lee", 
+      "admin": false, 
+      "photo": "1420394909_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i18w67avy8e1uk"
+    }
+  ], 
+  "tag_good_arr": [
+    "iddoy2bdneb2tv", 
+    "isce58miop454k", 
+    "i18w67avy8e1uk"
+  ], 
+  "history": [
+    {
+      "content": "<p>Dear instructors,</p>\n<p></p>\n<p>I notice that the HW1 Problem 3 solution pseudocode states:</p>\n<p>Initialize the whole table to positive infinity.</p>\n<p>//Base case</p>\n<p>T(0, 0) = 0</p>\n<p></p>\n<p>However, shouldn&#39;t the base case: T(i,0) = 0 for all i (not just 0) be included as well? It takes 0 coins to make change for value 0. Without this, you&#39;d never get a 1-coin solution once i&gt;1.</p>\n<p></p>\n<p>Am I missing something? (and if not, can i get my 0.25 hw pts back? ;) kidding, kidding, I know it&#39;s not really worth anything)</p>", 
+      "anon": "no", 
+      "created": "2017-09-10T20:37:45Z", 
+      "uid": "i4iys7m3lpq2ij", 
+      "subject": "HW1: Problem 3 solution - missing base case?"
+    }
+  ]
+}

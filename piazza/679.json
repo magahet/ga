@@ -1,0 +1,103 @@
+{
+  "status": "active", 
+  "unique_views": 193, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-09T04:47:51Z", 
+      "data": "j8jp5apz77e4ut", 
+      "uid": "iebwjhg152x642"
+    }, 
+    {
+      "uid": "hkjzzued3ef4xh", 
+      "type": "i_answer", 
+      "when": "2017-10-09T19:33:05Z", 
+      "to": "j8jp5apwz054us", 
+      "anon": "no", 
+      "data": "j8kkrpuxvt62yo"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8jp5apwz054us", 
+  "bookmarked": 4, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-09T19:33:05Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "iebwjhg152x642"
+      ], 
+      "id": "j8kkrpkqomy2yf", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Hugh Woltzen", 
+          "admin": false, 
+          "photo": null, 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "iebwjhg152x642"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>You can make a private post to us to check on this. Or you can first watch the office hour video\u00a0<a href=\"https://youtu.be/ZFAO2KlOAN0\" target=\"_blank\">https://youtu.be/ZFAO2KlOAN0</a></p>", 
+          "anon": "no", 
+          "created": "2017-10-09T19:33:05Z", 
+          "uid": "hkjzzued3ef4xh", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 679, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "exam"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 8, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "exam", 
+    "student"
+  ], 
+  "created": "2017-10-09T04:47:51Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145160385, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>Are we permitted to post answers to the exam 1 questions on Piazza? I&#39;m asking because I just went through the extra credit problem and was hoping to post my solution to get feedback to determine if it is correct.</p>", 
+      "anon": "no", 
+      "created": "2017-10-09T04:47:51Z", 
+      "uid": "iebwjhg152x642", 
+      "subject": "Extra Credit Problem on Exam"
+    }
+  ]
+}

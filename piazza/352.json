@@ -1,0 +1,1080 @@
+{
+  "status": "active", 
+  "unique_views": 301, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-19T12:55:06Z", 
+      "data": "j7rlqv5f4eb3y0", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j7rlqv5cbjp3xz", 
+      "anon": "no", 
+      "when": "2017-09-19T14:09:35Z", 
+      "type": "followup", 
+      "uid": "hvfeyx7qglF"
+    }, 
+    {
+      "to": "j7rlqv5cbjp3xz", 
+      "anon": "no", 
+      "when": "2017-09-19T15:58:54Z", 
+      "type": "feedback", 
+      "uid": "idej2kl6hh1"
+    }, 
+    {
+      "to": "j7rlqv5cbjp3xz", 
+      "anon": "no", 
+      "when": "2017-09-19T16:18:28Z", 
+      "type": "feedback", 
+      "uid": "hkjzzued3ef4xh"
+    }, 
+    {
+      "to": "j7rlqv5cbjp3xz", 
+      "anon": "no", 
+      "when": "2017-09-20T01:50:57Z", 
+      "type": "followup", 
+      "uid": "iddox7abejr2mj"
+    }, 
+    {
+      "to": "j7rlqv5cbjp3xz", 
+      "anon": "no", 
+      "when": "2017-09-20T02:33:35Z", 
+      "type": "feedback", 
+      "uid": "hz0pec4uduL"
+    }, 
+    {
+      "to": "j7rlqv5cbjp3xz", 
+      "anon": "no", 
+      "when": "2017-09-20T03:28:45Z", 
+      "type": "followup", 
+      "uid": "i4h4smgqDQv"
+    }, 
+    {
+      "to": "j7rlqv5cbjp3xz", 
+      "anon": "no", 
+      "when": "2017-09-20T03:34:04Z", 
+      "type": "feedback", 
+      "uid": "i4iufvhm2nj4s1"
+    }, 
+    {
+      "to": "j7rlqv5cbjp3xz", 
+      "anon": "no", 
+      "when": "2017-09-20T03:59:23Z", 
+      "type": "followup", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j7rlqv5cbjp3xz", 
+      "anon": "no", 
+      "when": "2017-09-20T05:51:06Z", 
+      "type": "feedback", 
+      "uid": "i4pvwmg5VTb"
+    }, 
+    {
+      "to": "j7rlqv5cbjp3xz", 
+      "anon": "no", 
+      "when": "2017-09-20T06:52:57Z", 
+      "type": "followup", 
+      "uid": "idfwkf5jgsm3gg"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-20T12:42:24Z", 
+      "data": "j7t0qdzdy1g52z", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j7rlqv5cbjp3xz", 
+      "anon": "no", 
+      "when": "2017-09-20T12:44:36Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j7rlqv5cbjp3xz", 
+      "anon": "no", 
+      "when": "2017-09-20T15:26:23Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j7rlqv5cbjp3xz", 
+      "anon": "no", 
+      "when": "2017-09-20T15:52:04Z", 
+      "type": "followup", 
+      "uid": "i4j6x8uvfv6743"
+    }, 
+    {
+      "to": "j7rlqv5cbjp3xz", 
+      "anon": "no", 
+      "when": "2017-09-20T17:12:39Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j7rlqv5cbjp3xz", 
+      "anon": "no", 
+      "when": "2017-09-20T17:57:54Z", 
+      "type": "followup", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j7rlqv5cbjp3xz", 
+      "anon": "no", 
+      "when": "2017-09-20T17:59:02Z", 
+      "type": "followup", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j7rlqv5cbjp3xz", 
+      "anon": "no", 
+      "when": "2017-09-20T17:59:45Z", 
+      "type": "feedback", 
+      "uid": "hz0jkj9dnctqp"
+    }, 
+    {
+      "to": "j7rlqv5cbjp3xz", 
+      "anon": "no", 
+      "when": "2017-09-20T18:54:53Z", 
+      "type": "feedback", 
+      "uid": "hkjzzued3ef4xh"
+    }, 
+    {
+      "to": "j7rlqv5cbjp3xz", 
+      "anon": "no", 
+      "when": "2017-09-20T19:26:29Z", 
+      "type": "followup", 
+      "uid": "idgauptz2ou3po"
+    }, 
+    {
+      "to": "j7rlqv5cbjp3xz", 
+      "anon": "no", 
+      "when": "2017-09-20T22:42:53Z", 
+      "type": "feedback", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "to": "j7rlqv5cbjp3xz", 
+      "anon": "no", 
+      "when": "2017-09-20T23:49:22Z", 
+      "type": "followup", 
+      "uid": "hz2wlft5i565vr"
+    }, 
+    {
+      "to": "j7rlqv5cbjp3xz", 
+      "anon": "no", 
+      "when": "2017-09-21T00:19:11Z", 
+      "type": "feedback", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j7rlqv5cbjp3xz", 
+      "anon": "no", 
+      "when": "2017-09-21T00:24:11Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j7rlqv5cbjp3xz", 
+      "anon": "no", 
+      "when": "2017-09-21T00:31:50Z", 
+      "type": "feedback", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j7rlqv5cbjp3xz", 
+      "anon": "no", 
+      "when": "2017-09-21T00:46:13Z", 
+      "type": "feedback", 
+      "uid": "iddtex53uvo4xe"
+    }, 
+    {
+      "to": "j7rlqv5cbjp3xz", 
+      "anon": "no", 
+      "when": "2017-09-21T00:48:55Z", 
+      "type": "feedback", 
+      "uid": "iddtex53uvo4xe"
+    }, 
+    {
+      "to": "j7rlqv5cbjp3xz", 
+      "anon": "no", 
+      "when": "2017-09-21T01:01:37Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j7rlqv5cbjp3xz", 
+      "anon": "no", 
+      "when": "2017-09-21T01:28:07Z", 
+      "type": "feedback", 
+      "uid": "iddtex53uvo4xe"
+    }, 
+    {
+      "to": "j7rlqv5cbjp3xz", 
+      "anon": "no", 
+      "when": "2017-09-21T01:53:48Z", 
+      "type": "feedback", 
+      "uid": "hz0jkj9dnctqp"
+    }, 
+    {
+      "to": "j7rlqv5cbjp3xz", 
+      "anon": "no", 
+      "when": "2017-09-21T18:40:59Z", 
+      "type": "followup", 
+      "uid": "hvvxmpxfuyb2eo"
+    }, 
+    {
+      "to": "j7rlqv5cbjp3xz", 
+      "anon": "no", 
+      "when": "2017-09-21T23:16:45Z", 
+      "type": "followup", 
+      "uid": "groxksg3ex8"
+    }, 
+    {
+      "to": "j7rlqv5cbjp3xz", 
+      "anon": "no", 
+      "when": "2017-09-22T00:44:21Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j7rlqv5cbjp3xz", 
+      "anon": "no", 
+      "when": "2017-09-22T00:54:17Z", 
+      "type": "feedback", 
+      "uid": "grmp0khbn71"
+    }, 
+    {
+      "to": "j7rlqv5cbjp3xz", 
+      "anon": "no", 
+      "when": "2017-09-22T01:38:30Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j7rlqv5cbjp3xz", 
+      "anon": "no", 
+      "when": "2017-09-22T01:53:02Z", 
+      "type": "feedback", 
+      "uid": "hz0jkj9dnctqp"
+    }, 
+    {
+      "to": "j7rlqv5cbjp3xz", 
+      "anon": "no", 
+      "when": "2017-09-22T02:30:39Z", 
+      "type": "feedback", 
+      "uid": "grmp0khbn71"
+    }, 
+    {
+      "to": "j7rlqv5cbjp3xz", 
+      "anon": "no", 
+      "when": "2017-09-22T03:18:49Z", 
+      "type": "feedback", 
+      "uid": "i18w67avy8e1uk"
+    }, 
+    {
+      "to": "j7rlqv5cbjp3xz", 
+      "anon": "no", 
+      "when": "2017-09-25T15:38:10Z", 
+      "type": "feedback", 
+      "uid": "j6m1j9wkzk46tu"
+    }, 
+    {
+      "to": "j7rlqv5cbjp3xz", 
+      "anon": "no", 
+      "when": "2017-09-25T17:02:20Z", 
+      "type": "feedback", 
+      "uid": "hz0pn3deX7A"
+    }, 
+    {
+      "to": "j7rlqv5cbjp3xz", 
+      "anon": "no", 
+      "when": "2017-09-25T17:32:19Z", 
+      "type": "feedback", 
+      "uid": "hqa9heaccvg2g7"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-03T16:08:30Z", 
+      "data": "j8bsti4e4xh1z7", 
+      "uid": "hkjzzued3ef4xh"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j7rlqv5cbjp3xz", 
+  "bookmarked": 28, 
+  "tags": [
+    "exam", 
+    "instructor-note"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-09-19T14:09:35Z", 
+      "no_upvotes": 0, 
+      "uid": "hvfeyx7qglF", 
+      "created": "2017-09-19T14:09:35Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7roensk1ec17j", 
+      "anon": "no", 
+      "bucket_name": "Week 9/17 - 9/23", 
+      "config": {}, 
+      "bucket_order": 7, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-19T15:58:54Z", 
+          "uid": "idej2kl6hh1", 
+          "created": "2017-09-19T15:58:54Z", 
+          "type": "feedback", 
+          "id": "j7rsb8lpnn7ir", 
+          "anon": "no", 
+          "bucket_name": "Week 9/17 - 9/23", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Same, can&#39;t upload test scans. Also, I wasn&#39;t prompted to hold my work up for the Proctor Track camera.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-19T16:18:28Z", 
+          "uid": "hkjzzued3ef4xh", 
+          "created": "2017-09-19T16:18:28Z", 
+          "type": "feedback", 
+          "id": "j7rt0ehodrv238", 
+          "anon": "no", 
+          "bucket_name": "Week 9/17 - 9/23", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I&#39;ve added the outline. It should work now.</p>"
+        }
+      ], 
+      "subject": "<p>I&#39;m in the middle of doing the onboarding test, but I&#39;m unable to complete the process.\u00a0 I had to restart the proctortrack app in order to get it to show me the questions, but it worked the second time.\u00a0 I don&#39;t think this will be an issue since I finally got it to work.\u00a0 However, I can&#39;t upload my test scans to gradescope due to the following errors:</p>\n<p></p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/hvfeyx7qglF/j7rocnq6qasq/Capture.png\" alt=\"\" /></p>\n<p>After clicking submit images, there is no place to click to choose the images and when I click submit assignment I get the following red error at the top of the page:</p>\n<p></p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/hvfeyx7qglF/j7rodvpno5hn/Capture2.png\" alt=\"\" /></p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-20T01:50:57Z", 
+      "no_upvotes": 0, 
+      "uid": "iddox7abejr2mj", 
+      "created": "2017-09-20T01:50:57Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7sdglwycynrr", 
+      "anon": "no", 
+      "bucket_name": "Week 9/17 - 9/23", 
+      "config": {}, 
+      "bucket_order": 7, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-20T02:33:35Z", 
+          "uid": "hz0pec4uduL", 
+          "created": "2017-09-20T02:33:35Z", 
+          "type": "feedback", 
+          "id": "j7sezgexqby6nv", 
+          "anon": "no", 
+          "bucket_name": "Week 9/17 - 9/23", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I did not time myself when I did the scan and upload, but I had some issues with logging in and passwords. I&#39;m going to have the passwords ready, so I don&#39;t have that problem next time, but it would be helpful to have extra time to scan the exam and upload. Even if we get more than 10 minutes for scanning/uploading, I&#39;m planning to stop working on the test at 110 minutes and start the scan/upload process.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-21T00:46:13Z", 
+          "uid": "iddtex53uvo4xe", 
+          "created": "2017-09-21T00:46:13Z", 
+          "type": "feedback", 
+          "id": "j7tql7qh50t7dx", 
+          "anon": "no", 
+          "bucket_name": "Week 9/17 - 9/23", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p><strong attention=\"gy4twfv45cg5o6\">&#64;Eric Vigoda</strong> \u00a0<br />I am also concerned about the scan time. I use the camscanner app and at times it does not scan clearly on the first trial. So scanning the exam can easily take longer than expected.</p>\n<p>Question 1: How much time after the exam will we get to scan and upload our submission?<br />Question 2: I plan to follow the following process for submission Scan using android app -&gt; upload to drive from phone -&gt; download from drive on PC -&gt; Upload from PC to Gradescope. Is this process acceptable where I access my drive for transferring my scan from phone to PC ? Or can I email my scan to myself for the purpose of transferring it from my phone to my PC ?\u00a0</p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-21T01:28:07Z", 
+          "uid": "iddtex53uvo4xe", 
+          "created": "2017-09-21T01:28:07Z", 
+          "type": "feedback", 
+          "id": "j7ts33leb8z1i3", 
+          "anon": "no", 
+          "bucket_name": "Week 9/17 - 9/23", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I see the my scan related question has been answered in &#64;344.\u00a0</p>\n<p>Only thing that remains is how much time will we get to upload our submission? Many people have suggested that 10 minutes won&#39;t be enough and I agree.<br />Will wait for final instructions from prof on this.</p>"
+        }
+      ], 
+      "subject": "<p>I just did the on-boarding test, and I am so glad that I did. Here is my experience and some feedback:</p>\n<p></p>\n<p>1st try - Unsuccessful: I was using my Surface tablet that has Microsoft Edge browser. The Procter track didn&#39;t work well on Edge and I got an error. Then I tried on a chrome and it worked fine. After login, I saw the test, but when I tried to scan the document I got an error, (Scanner not available or something). So I ended the test and thought of trying it from my Windows 10 laptop. This is the error due to the computer I was using.</p>\n<p></p>\n<p>2nd try (Successful) : Used my Windows laptop, chrome browser and the test opened just fine. I was able to scan documents as well. I scanned 6 pages, front and back, converted them to PDF, uploaded to the gradescope, matched the pages as per the questions and did submit. The entire process from feeding the document to scanner to submit took about &#34;16 minutes&#34;. Although it took more time then I expected, but I was successful in completing all the steps.\u00a0</p>\n<p></p>\n<p>Lesson learnt - Use a laptop, chrome browser, and do a test scan before you start the proctoring. Do not wait till the end (120 mins) to start the scanning. It may take 20 mins or so... so plan accordingly.\u00a0</p>\n<p></p>\n<p>Also, my scanner is NOT visible from my desk as it is sitting under a table in the corner of the room. I will move my scanner in the line of sight before the exam, so that I can be visible while I am scanning the documents.\u00a0</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-20T03:28:45Z", 
+      "no_upvotes": 0, 
+      "uid": "i4h4smgqDQv", 
+      "created": "2017-09-20T03:28:45Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7sgydxuq2c4ni", 
+      "anon": "no", 
+      "bucket_name": "Week 9/17 - 9/23", 
+      "config": {}, 
+      "bucket_order": 7, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-20T03:34:04Z", 
+          "uid": "i4iufvhm2nj4s1", 
+          "created": "2017-09-20T03:34:04Z", 
+          "type": "feedback", 
+          "id": "j7sh58j2n246vi", 
+          "anon": "no", 
+          "bucket_name": "Week 9/17 - 9/23", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>What I did was take a picture of my test using my phone, then opened up gradescope on my phone and submitting them there, while still being proctored. \u00a0Is this permissible?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-20T05:51:06Z", 
+          "uid": "i4pvwmg5VTb", 
+          "created": "2017-09-20T05:51:06Z", 
+          "type": "feedback", 
+          "id": "j7sm1gg5lee4ol", 
+          "anon": "no", 
+          "bucket_name": "Week 9/17 - 9/23", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>yes, just remember you need to still have protortrack\u00a0opened during this period.</p>"
+        }
+      ], 
+      "subject": "<p>My scanner scans to my email. Can I scan the test\u00a0to my email, download i from my email and then uploaded on gradescope? At what point during the tesst do I show my test to the camera? just whenever am done?</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-20T03:59:23Z", 
+      "no_upvotes": 0, 
+      "uid": "hq8hn0qyfuvyr", 
+      "created": "2017-09-20T03:59:23Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7si1s9fh2w5a7", 
+      "anon": "no", 
+      "bucket_name": "Week 9/17 - 9/23", 
+      "config": {}, 
+      "bucket_order": 7, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-20T12:44:36Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-09-20T12:44:36Z", 
+          "type": "feedback", 
+          "id": "j7t0t7isef4532", 
+          "anon": "no", 
+          "bucket_name": "Week 9/17 - 9/23", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "No.  You have scrap paper to use."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-20T15:26:23Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-09-20T15:26:23Z", 
+          "type": "feedback", 
+          "id": "j7t6l9i1u5u440", 
+          "anon": "no", 
+          "bucket_name": "Week 9/17 - 9/23", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>That makes sense. Thank you.</p>"
+        }
+      ], 
+      "subject": "<p>At the beginning of the onboarding test, ProctorTrack displayed a popup that said I could use an editor such as Notepad to take notes. Will that be allowed during the real test?</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-20T06:52:57Z", 
+      "no_upvotes": 0, 
+      "uid": "idfwkf5jgsm3gg", 
+      "created": "2017-09-20T06:52:57Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7so8zmsue24t2", 
+      "anon": "no", 
+      "bucket_name": "Week 9/17 - 9/23", 
+      "config": {}, 
+      "bucket_order": 7, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>#pin</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-20T15:52:04Z", 
+      "no_upvotes": 0, 
+      "uid": "i4j6x8uvfv6743", 
+      "created": "2017-09-20T15:52:04Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7t7ib4ooqa2dp", 
+      "anon": "no", 
+      "bucket_name": "Week 9/17 - 9/23", 
+      "config": {}, 
+      "bucket_order": 7, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-20T17:12:39Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-09-20T17:12:39Z", 
+          "type": "feedback", 
+          "id": "j7tadxyrxry6mo", 
+          "anon": "no", 
+          "bucket_name": "Week 9/17 - 9/23", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>There&#39;s a button in the upper right that will turn off the video feed display. I prefer to have it disabled when I&#39;m taking the test because it&#39;s less distracting.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-21T00:48:55Z", 
+          "uid": "iddtex53uvo4xe", 
+          "created": "2017-09-21T00:48:55Z", 
+          "type": "feedback", 
+          "id": "j7tqoou2c901wa", 
+          "anon": "no", 
+          "bucket_name": "Week 9/17 - 9/23", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>You can also move that video frame around to a different part of the screen. So I hope it won&#39;t be an issue.</p>"
+        }
+      ], 
+      "subject": "<p>One &#34;issue&#34; that I had is that when submitting to Gradescope, if you have Chrome in fullscreen, your video feed in the bottom right corner will block the &#34;Submit&#34; button of Gradescope. So you have to resize your Chrome window so that you can see the &#34;Submit&#34; button.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-20T17:57:54Z", 
+      "no_upvotes": 0, 
+      "uid": "hvil6y6khgk2ri", 
+      "created": "2017-09-20T17:57:54Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7tc04a9bg37hi", 
+      "anon": "no", 
+      "bucket_name": "Week 9/17 - 9/23", 
+      "config": {}, 
+      "bucket_order": 7, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-20T18:54:53Z", 
+          "uid": "hkjzzued3ef4xh", 
+          "created": "2017-09-20T18:54:53Z", 
+          "type": "feedback", 
+          "id": "j7te1edidzm7h6", 
+          "anon": "no", 
+          "bucket_name": "Week 9/17 - 9/23", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Leave it blank, we won&#39;t grade on\u00a0proctortrack.</p>"
+        }
+      ], 
+      "subject": "<p></p><p dir=\"ltr\">I just took the test.<br /><br />I noticed that there are spaces to fill out essay questions in proctortrack itself.\u00a0 Are we expected to put something in there for the real test, or should we just leave those blank?</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-20T17:59:02Z", 
+      "no_upvotes": 0, 
+      "uid": "hvil6y6khgk2ri", 
+      "created": "2017-09-20T17:59:02Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7tc1l02zl71mr", 
+      "anon": "no", 
+      "bucket_name": "Week 9/17 - 9/23", 
+      "config": {}, 
+      "bucket_order": 7, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-20T17:59:45Z", 
+          "uid": "hz0jkj9dnctqp", 
+          "created": "2017-09-20T17:59:45Z", 
+          "type": "feedback", 
+          "id": "j7tc2icpune2n1", 
+          "anon": "no", 
+          "bucket_name": "Week 9/17 - 9/23", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>If you&#39;ve taken a test on proctortrack, you&#39;re in the system. It doesn&#39;t matter if it&#39;s a little blurry. At least this is what I was told the last time it came up for me.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-20T22:42:53Z", 
+          "uid": "ijbr5ddtwyt6pa", 
+          "created": "2017-09-20T22:42:53Z", 
+          "type": "feedback", 
+          "id": "j7tm6lwlyz94i3", 
+          "anon": "no", 
+          "bucket_name": "Week 9/17 - 9/23", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thats just how the program works. The license is always annoying. I typically angle my computer screen, as well as the license so that the reflection is not visible. After taking many classes w/ these tests you just get used to it.</p>\n<p></p>\n<p>Also, it gives you a screenshot of what you are about to submit before doing so, so if you cannot read your license in that image, I doubt anyone else can</p>"
+        }
+      ], 
+      "subject": "<p>I am glad I did this, as I tried a different computer for the test but the camera quality on this laptop was very poor, and I am not sure if my license was 100% readable or not.<br /><br />Is there any way to see if it was, or should I just use another computer for the test?</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-20T19:26:29Z", 
+      "no_upvotes": 0, 
+      "uid": "idgauptz2ou3po", 
+      "created": "2017-09-20T19:26:29Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7tf61y9orb21x", 
+      "anon": "no", 
+      "bucket_name": "Week 9/17 - 9/23", 
+      "config": {}, 
+      "bucket_order": 7, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-21T00:19:11Z", 
+          "uid": "i4ket0u1z5q31a", 
+          "created": "2017-09-21T00:19:11Z", 
+          "type": "feedback", 
+          "id": "j7tpmgnnelfi9", 
+          "anon": "no", 
+          "bucket_name": "Week 9/17 - 9/23", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I don&#39;t have a phone so if my scanners won&#39;t work I&#39;m left with a camera to &#34;scan&#34; with so I hope that is okay.</p>\n<p>I plan to test the scanners tonight.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-21T00:24:11Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-09-21T00:24:11Z", 
+          "type": "feedback", 
+          "id": "j7tpsw2pnrx4im", 
+          "anon": "no", 
+          "bucket_name": "Week 9/17 - 9/23", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "You need something with good enough quality so we can read it clearly.  That is your responsibility to check and figure out."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-21T00:31:50Z", 
+          "uid": "i4ket0u1z5q31a", 
+          "created": "2017-09-21T00:31:50Z", 
+          "type": "feedback", 
+          "id": "j7tq2puyq572ws", 
+          "anon": "no", 
+          "bucket_name": "Week 9/17 - 9/23", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I have no worries about quality and readability, it&#39;s ProctorTrack flagging me for pulling out a camera, taking pictures, and plugging the memory card into my computer etc. etc. that I&#39;m concerned with.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-21T01:01:37Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-09-21T01:01:37Z", 
+          "type": "feedback", 
+          "id": "j7tr516c14o6ot", 
+          "anon": "no", 
+          "bucket_name": "Week 9/17 - 9/23", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>As I understand it, ProctorTrack flagging something just means that it notifies the instructors so they can review the video.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-21T01:53:48Z", 
+          "uid": "hz0jkj9dnctqp", 
+          "created": "2017-09-21T01:53:48Z", 
+          "type": "feedback", 
+          "id": "j7tt05844wf6kx", 
+          "anon": "no", 
+          "bucket_name": "Week 9/17 - 9/23", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Don&#39;t worry about it David. Everyone&#39;s going to get flagged. They just mark that as a spot for human review.</p>"
+        }
+      ], 
+      "subject": "<p>I have a network scanner/printer, but it will be much easier for me to scan to a USB stick, transfer the USB stick to my laptop (all in full view of the camera) then transfer the PDF from there.</p>\n<p></p>\n<p>Would it be permissible for me to introduce a USB stick into this testing scenario? ProctorTrack didn&#39;t seem to mind, but it does mention we should have no personal devices -- a rule we seem willing to break with the phone-scanning exemption.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-20T23:49:22Z", 
+      "no_upvotes": 0, 
+      "uid": "hz2wlft5i565vr", 
+      "created": "2017-09-20T23:49:22Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7tok3wqcud6cc", 
+      "anon": "no", 
+      "bucket_name": "Week 9/17 - 9/23", 
+      "config": {}, 
+      "bucket_order": 7, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>Took 17 minutes to do both the &#34;show 10 pages to the webcam&#34; and the &#34;take picture with phone and email to myself&#34;. (and the upload to gradescope too!) This process is definitely worth doing if you haven&#39;t. I&#39;m going to use my phone instead of the scanner because it&#39;s so much faster!</p>\n<p>I&#39;d use a black pen for this; I tested that out here to see what pencil looks like on webcam and in pdf...not as easy to read. So the black ink suggestion is best IMO.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-21T18:40:59Z", 
+      "no_upvotes": 0, 
+      "uid": "hvvxmpxfuyb2eo", 
+      "created": "2017-09-21T18:40:59Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7usze4ney01th", 
+      "anon": "no", 
+      "bucket_name": "Week 9/17 - 9/23", 
+      "config": {}, 
+      "bucket_order": 7, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>Took 10 to 15 mins for the whole process - showing around 12 pages in front of webcam and carefully scanning them with camscanner without moving face away from camera (also ensuring the sheets dont fall down from table:-)). I tried scanning sheets writted with pen and pencil. Pencil wasnt bad really, so I will use pencil so that its easier to erase rather than striking out things.\u00a0</p>\n<p></p>\n<p>1) Remember to put your cell phone in airplane mode with only wifi enabled (also enabled\u00a0&#34;do not disturb&#34; to avoid any notification noise).\u00a0</p>\n<p>2) Also, after scanning with camscanner, I uploaded to google drive and waited for upload to be complete (around 2MB). Then instead of clicking gradescope link from proctortrack, i opened another tab in chrome and then opened gradescope myself. It luckily had autofil of my password and automatically logged in. Once i submitted, I came back to proctor track tab. Then I noticed that I had to open gradescope from the link provided. After selecting &#34;yes&#34; for &#34;submitted to gradescope&#34; option, I clicked the link to gradescope again from Q4 page of proctortrack (just to test it out). To my surprise, it asked for my uname/password which I didnt remember. So another thing to remember is to write down any uname/password and also to click gradescope link from proctortrack directly.</p>\n<p></p>\n<p>All the best!</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-21T23:16:45Z", 
+      "no_upvotes": 0, 
+      "uid": "groxksg3ex8", 
+      "created": "2017-09-21T23:16:45Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7v2u125js22pq", 
+      "anon": "no", 
+      "bucket_name": "Week 9/17 - 9/23", 
+      "config": {}, 
+      "bucket_order": 7, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-22T00:44:21Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-09-22T00:44:21Z", 
+          "type": "feedback", 
+          "id": "j7v5yoa6v6p5sp", 
+          "anon": "no", 
+          "bucket_name": "Week 9/17 - 9/23", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "You should be able to see the Onboarding exam."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-22T00:54:17Z", 
+          "uid": "grmp0khbn71", 
+          "created": "2017-09-22T00:54:17Z", 
+          "type": "feedback", 
+          "id": "j7v6bfyybvz73w", 
+          "anon": "no", 
+          "bucket_name": "Week 9/17 - 9/23", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Am I suppose to go somewhere specific on ProctorTrack. This is the 3rd time Ive done it and I get the same message.</p>\n<p></p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/grmp0khbn71/j7v6arlwlaxq/Screen_Shot_20170921_at_7.08.55_PM.png\" alt=\"\" /></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-22T01:38:30Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-09-22T01:38:30Z", 
+          "type": "feedback", 
+          "id": "j7v7wble4rei5", 
+          "anon": "no", 
+          "bucket_name": "Week 9/17 - 9/23", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Maybe you are using the wrong GT email address?  \nCan anyone help him?"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-22T01:53:02Z", 
+          "uid": "hz0jkj9dnctqp", 
+          "created": "2017-09-22T01:53:02Z", 
+          "type": "feedback", 
+          "id": "j7v8f05hrcd3p6", 
+          "anon": "no", 
+          "bucket_name": "Week 9/17 - 9/23", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Do you have gt aliases setup? If not, you should contact proctortrack support. You can also try ... different browser, clearing cache/cookies, opening an incognito session to see if any of those work.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-22T02:30:39Z", 
+          "uid": "grmp0khbn71", 
+          "created": "2017-09-22T02:30:39Z", 
+          "type": "feedback", 
+          "id": "j7v9rd9uu7wv7", 
+          "anon": "no", 
+          "bucket_name": "Week 9/17 - 9/23", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I had to contact ProctorTrack support. Once that screen appears I had to hit the back button and then click &#34;begin test.&#34;</p>\n<p></p>\n<p>First time that&#39;s happened to me.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-22T03:18:49Z", 
+          "uid": "i18w67avy8e1uk", 
+          "created": "2017-09-22T03:18:49Z", 
+          "type": "feedback", 
+          "id": "j7vbhbl7bcl796", 
+          "anon": "no", 
+          "bucket_name": "Week 9/17 - 9/23", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>It happened to me too. Clicking back button seemed to fix it. I used ProctorTrack in the past and never encountered this problem.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-25T15:38:10Z", 
+          "uid": "j6m1j9wkzk46tu", 
+          "created": "2017-09-25T15:38:10Z", 
+          "type": "feedback", 
+          "id": "j80c7ogdljc50d", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "This post saved me during exam.. I couldn&#39;t find test initially then came to piazza to check if there is related post and found this luckily... thanks a ton for posting!"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-25T17:02:20Z", 
+          "uid": "hz0pn3deX7A", 
+          "created": "2017-09-25T17:02:20Z", 
+          "type": "feedback", 
+          "id": "j80f7xe03r363s", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I ran into this on the exam (not during onboarding though). I tried hitting back (as I had learned about in this post), but it did not work. However, I got ProctorTrack support involved and it looked like they hit back and got it to work. It is still a little mysterious to me how they got it to work.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-25T17:32:19Z", 
+          "uid": "hqa9heaccvg2g7", 
+          "created": "2017-09-25T17:32:19Z", 
+          "type": "feedback", 
+          "id": "j80gahf5y2gvk", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I also ran into this issue during the exam, there was no issue during on-boarding. Clicking back button didn&#39;t work due to current proctoring in progress. Called ProctorTrack support, they asked me to stop proctoring, log off and on to ProctorTrack\u00a0again, go through all 3 scans and start new proctoring.</p>\n<p></p>\n<p>I&#39;m sure there was some issue with the ProctorTrack this time with so many complaints.</p>"
+        }
+      ], 
+      "subject": "<p>Just to verify, once ProtctorTrack is started I will see the test on that page? I got the message &#34;You do not have any test session that is active, please start the session by following steps from the beginning.&#34;</p>"
+    }
+  ], 
+  "nr": 352, 
+  "bucket_order": 2, 
+  "type": "note", 
+  "folders": [
+    "exam"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 5, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-09-19T12:55:06Z", 
+  "is_tag_good": false, 
+  "config": {
+    "bypass_email": 1
+  }, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145231723, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "Make sure you do the onboarding exam.  This is your opportunity to make sure you can access and use the system and that your scan/upload process works OK.  You cannot expect a quick response from us during the exam weekend.  Any issues need to be discovered now.  If necessary I&#39;ll make the scan/upload window longer, but first provide us genuine feedback about how long it takes you to do in the onboarding exam.  \n\nThe key points about the exam process: you have no outside references/devices etc. during the exam.  You show your completed exam to your computer&#39;s camera so you can record a copy of your completed exam (and, if need be, we can verify that nothing changed during the scanning process).  During the scanning/uploading process you need to keep Proctortrack on and, of course, stay within view of the camera.  How exactly you scan/upload is up to you.  Try out the onboarding system, and get advice from your fellow students if you don&#39;t have a good setup.\n\nYou have the nice benefit of taking the exam at your own desk in your own surroundings, as opposed to squeezing into a desk in the classroom.  Now I&#39;ve taken advantage of this by making the exam a bit longer than usual (one more DP problem than I would normally ask for a 1.5 hour in-class exam).  I think this is beneficial to you, more questions then each is worth less, so more room for error.  \n\nSome tips that David Joyner gathered from other classes:\n--Practice the entire process, including taking the photos/scans and transferring them to the computer during proctoring. Proctoring can make it a little hard to use your computer regularly since it hides the screen edges, so practice is helpful.\n\n--Use an erasable pen. Bobbie recommends Frixion.\nIf you use pencil, make sure to write dark enough for it to be legible.\nIf you won&#39;t be able to erase, print extra copies of the template sheets to have on hand if you need to start over on a question.  FROM ERIC: I think this is the best approach: use black pen and clearly cross out mistakes, or start over on a new sheet if need be.  It&#39;s OK to have some blank scrap paper too.\n", 
+      "anon": "no", 
+      "created": "2017-10-03T16:08:30Z", 
+      "uid": "hkjzzued3ef4xh", 
+      "subject": "Testing onboard system"
+    }, 
+    {
+      "content": "Make sure you do the onboarding exam.  This is your opportunity to make sure you can access and use the system and that your scan/upload process works OK.  You cannot expect a quick response from us during the exam weekend.  Any issues need to be discovered now.  If necessary I&#39;ll make the scan/upload window longer, but first provide us genuine feedback about how long it takes you to do in the onboarding exam.  \n\nThe key points about the exam process: you have no outside references/devices etc. during the exam.  You show your completed exam to your computer&#39;s camera so you can record a copy of your completed exam (and, if need be, we can verify that nothing changed during the scanning process).  During the scanning/uploading process you need to keep Proctortrack on and, of course, stay within view of the camera.  How exactly you scan/upload is up to you.  Try out the onboarding system, and get advice from your fellow students if you don&#39;t have a good setup.\n\nYou have the nice benefit of taking the exam at your own desk in your own surroundings, as opposed to squeezing into a desk in the classroom.  Now I&#39;ve taken advantage of this by making the exam a bit longer than usual (one more DP problem than I would normally ask for a 1.5 hour in-class exam).  I think this is beneficial to you, more questions then each is worth less, so more room for error.  \n\nSome tips that David Joyner gathered from other classes:\n--Practice the entire process, including taking the photos/scans and transferring them to the computer during proctoring. Proctoring can make it a little hard to use your computer regularly since it hides the screen edges, so practice is helpful.\n\n--Use an erasable pen. Bobbie recommends Frixion.\nIf you use pencil, make sure to write dark enough for it to be legible.\nIf you won&#39;t be able to erase, print extra copies of the template sheets to have on hand if you need to start over on a question.  FROM ERIC: I think this is the best approach: use black pen and clearly cross out mistakes, or start over on a new sheet if need be.  It&#39;s OK to have some blank scrap paper too.\n\n#pin", 
+      "anon": "no", 
+      "created": "2017-09-20T12:42:24Z", 
+      "uid": "gy4twfv45cg5o6", 
+      "subject": "Testing onboard system"
+    }, 
+    {
+      "content": "Make sure you do the onboarding exam.  This is your opportunity to make sure you can access and use the system and that your scan/upload process works OK.  You cannot expect a quick response from us during the exam weekend.  Any issues need to be discovered now.  If necessary I&#39;ll make the scan/upload window longer, but first provide us genuine feedback about how long it takes you to do in the onboarding exam.  \n\nThe key points about the exam process: you have no outside references/devices etc. during the exam.  You show your completed exam to your computer&#39;s camera so you can record a copy of your completed exam (and, if need be, we can verify that nothing changed during the scanning process).  During the scanning/uploading process you need to keep Proctortrack on and, of course, stay within view of the camera.  How exactly you scan/upload is up to you.  Try out the onboarding system, and get advice from your fellow students if you don&#39;t have a good setup.\n\nYou have the nice benefit of taking the exam at your own desk in your own surroundings, as opposed to squeezing into a desk in the classroom.  Now I&#39;ve taken advantage of this by making the exam a bit longer than usual (one more DP problem than I would normally ask for a 1.5 hour in-class exam).  I think this is beneficial to you, more questions then each is worth less, so more room for error.  \n\nSome tips that David Joyner gathered from other classes:\n--Practice the entire process, including taking the photos/scans and transferring them to the computer during proctoring. Proctoring can make it a little hard to use your computer regularly since it hides the screen edges, so practice is helpful.\n\n--Use an erasable pen. Bobbie recommends Frixion.\nIf you use pencil, make sure to write dark enough for it to be legible.\nIf you won&#39;t be able to erase, print extra copies of the template sheets to have on hand if you need to start over on a question.  FROM ERIC: I think this is the best approach: use black pen and clearly cross out mistakes, or start over on a new sheet if need be.  It&#39;s OK to have some blank scrap paper too.", 
+      "anon": "no", 
+      "created": "2017-09-19T12:55:06Z", 
+      "uid": "gy4twfv45cg5o6", 
+      "subject": "Testing onboard system"
+    }
+  ]
+}

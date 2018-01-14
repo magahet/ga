@@ -1,0 +1,338 @@
+{
+  "status": "active", 
+  "unique_views": 130, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-10T21:22:19Z", 
+      "data": "j7f8whhm1xd2jv", 
+      "uid": "i4iufvhm2nj4s1"
+    }, 
+    {
+      "uid": "i4gzn4buf4Q", 
+      "type": "s_answer", 
+      "when": "2017-09-10T22:16:50Z", 
+      "to": "j7f8whhh2v42ju", 
+      "anon": "no", 
+      "data": "j7faulfrr607en"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-09-10T22:24:06Z", 
+      "data": "j7fb3xnxj7n587", 
+      "uid": "i4gzn4buf4Q"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-09-10T22:24:22Z", 
+      "data": "j7fb4a0piv85ev", 
+      "uid": "i4gzn4buf4Q"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-09-10T22:25:40Z", 
+      "data": "j7fb5y2d4kk6m4", 
+      "uid": "i4gzn4buf4Q"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-09-10T22:27:30Z", 
+      "data": "j7fb8bkae7cb6", 
+      "uid": "i4gzn4buf4Q"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-09-10T22:28:13Z", 
+      "data": "j7fb98v5ln0po", 
+      "uid": "i4gzn4buf4Q"
+    }, 
+    {
+      "to": "j7f8whhh2v42ju", 
+      "anon": "no", 
+      "when": "2017-09-10T22:31:07Z", 
+      "type": "followup", 
+      "uid": "i4iufvhm2nj4s1"
+    }, 
+    {
+      "to": "j7f8whhh2v42ju", 
+      "anon": "no", 
+      "when": "2017-09-10T22:35:01Z", 
+      "type": "feedback", 
+      "uid": "i4gzn4buf4Q"
+    }, 
+    {
+      "to": "j7f8whhh2v42ju", 
+      "anon": "no", 
+      "when": "2017-09-10T22:36:30Z", 
+      "type": "feedback", 
+      "uid": "i4iufvhm2nj4s1"
+    }, 
+    {
+      "to": "j7f8whhh2v42ju", 
+      "anon": "no", 
+      "when": "2017-09-10T22:37:19Z", 
+      "type": "feedback", 
+      "uid": "i4gzn4buf4Q"
+    }, 
+    {
+      "to": "j7f8whhh2v42ju", 
+      "anon": "no", 
+      "when": "2017-09-11T02:15:30Z", 
+      "type": "feedback", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j7f8whhh2v42ju", 
+      "anon": "no", 
+      "when": "2017-09-11T10:57:14Z", 
+      "type": "feedback", 
+      "uid": "i4gzn4buf4Q"
+    }, 
+    {
+      "to": "j7f8whhh2v42ju", 
+      "anon": "no", 
+      "when": "2017-09-11T21:02:12Z", 
+      "type": "feedback", 
+      "uid": "i4m49pmqc4h14p"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j7f8whhh2v42ju", 
+  "bookmarked": 4, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-10T22:16:50Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j7faulfk8k57em", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>It&#39;s the output of the extended eucid algorithm.\u00a0 \\alpha is the inverse of x mod y.\u00a0\u00a0 \\beta is the inverse of y mod x.\u00a0\u00a0 The output for \\alpha was -2.\u00a0 The output for \\beta was 103.\u00a0\u00a0</p>\n<p></p>\n<p>$$360 \\equiv 3 \\bmod 7$$ is just simplifying (doing the mod math to reduce 360 to 3 mod7).</p>\n<p></p>\n<p>so $$360 \\bmod 7 \\equiv 3 \\bmod 7$$, $$360^{-1} \\bmod 7 \\equiv -2 \\bmod 7$$ and $$-2 \\equiv 5 \\bmod 7$$\u00a0 so $$3^{-1} \\equiv 5 \\bmod 7$$</p>\n<p></p>", 
+          "anon": "no", 
+          "created": "2017-09-10T22:28:13Z", 
+          "uid": "i4gzn4buf4Q", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>It&#39;s the output of the extended eucid algorithm.\u00a0 \\alpha is the inverse of x mod y.\u00a0\u00a0 \\beta is the inverse of y mod x.\u00a0\u00a0 The output for \\alpha was -2.\u00a0 The output for \\beta was 103.\u00a0\u00a0</p>\n<p></p>\n<p>$$360 \\equiv 3 mod 7$$ is just simplifying (doing the mod math to reduce 360 to 3 mod7).</p>\n<p></p>\n<p>so $$360 \\bmod 7 \\equiv 3 \\bmod 7$$, $$360^{-1} \\bmod 7 \\equiv -2 \\bmod 7$$ and $$-2 \\equiv 5 \\bmod 7$$\u00a0 so $$3^{-1} \\equiv 5 \\bmod 7$$</p>\n<p></p>", 
+          "anon": "no", 
+          "created": "2017-09-10T22:27:30Z", 
+          "uid": "i4gzn4buf4Q", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>It&#39;s the output of the extended eucid algorithm.\u00a0 \\alpha is the inverse of x mod y.\u00a0\u00a0 \\beta is the inverse of y mod x.\u00a0\u00a0 The output for \\alpha was -2.\u00a0 The output for \\beta was 103.\u00a0\u00a0</p>\n<p></p>\n<p>$$360 \\equiv 3 mod 7$$ is just simplifying (doing the mod math to reduce 360 to 3 mod7).</p>\n<p></p>\n<p>so $$360 mod 7 \\equiv 3 mod 7$$, $$360^{-1} mod 7 \\equiv -2 mod 7$$ and $$-2 \\equiv 5 mod 7$$\u00a0 so $$3^{-1} \\equiv 5 mod 7$$</p>\n<p></p>", 
+          "anon": "no", 
+          "created": "2017-09-10T22:25:40Z", 
+          "uid": "i4gzn4buf4Q", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>It&#39;s the output of the extended eucid algorithm.\u00a0 \\alpha is the inverse of x mod y.\u00a0\u00a0 \\beta is the inverse of y mod x.\u00a0\u00a0 The output for \\alpha was -2.\u00a0 The output for \\beta was 103.\u00a0\u00a0</p>\n<p></p>\n<p>$$360 \\equiv 3 mod 7$$ is just simplifying (doing the mod math to reduce 360 to 3 mod7).</p>\n<p></p>\n<p>so $$360 mod 7 \\equiv 3 mod 7$$ and $$360^{-1} mod 7 \\equiv 2 mod 7$$\u00a0\u00a0 so $$3^{-1} \\equiv -2 mod 7$$</p>\n<p></p>", 
+          "anon": "no", 
+          "created": "2017-09-10T22:24:22Z", 
+          "uid": "i4gzn4buf4Q", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>It&#39;s the output of the extended eucid algorithm.\u00a0 \\alpha is the inverse of x mod y.\u00a0\u00a0 \\beta is the inverse of y mod x.\u00a0\u00a0 The output for \\alpha was -2.\u00a0 The output for \\beta was 103.\u00a0\u00a0</p>\n<p></p>\n<p>$$360 \\equiv 3 mod 7$$ is just simplifying (doing the mod math to reduce 360 to 3 mod7).</p>\n<p></p>\n<p>so $$360 mod 7 \\\\equiv 3 mod 7$$ and $$360^{-1} mod 7 \\equiv 2 mod 7$$\u00a0\u00a0 so $$3^{-1} \\equiv -2 mod 7$$</p>\n<p></p>", 
+          "anon": "no", 
+          "created": "2017-09-10T22:24:06Z", 
+          "uid": "i4gzn4buf4Q", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>It&#39;s the output of the extended eucid algorithm.\u00a0 \\alpha is the inverse of x mod y.\u00a0\u00a0 \\beta is the inverse of y mod x.\u00a0\u00a0 The output for \\alpha was -2.\u00a0 The output for \\beta was 103.\u00a0\u00a0</p>\n<p></p>", 
+          "anon": "no", 
+          "created": "2017-09-10T22:16:50Z", 
+          "uid": "i4gzn4buf4Q", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-10T22:31:07Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "i4iufvhm2nj4s1", 
+      "created": "2017-09-10T22:31:07Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7fbcz4k9vf2sd", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-10T22:35:01Z", 
+          "uid": "i4gzn4buf4Q", 
+          "created": "2017-09-10T22:35:01Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j7fbhyzvi2b68c", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>we had that $$360^{-1} \\equiv -2 \\bmod 7$$.</p>\n<p></p>\n<p>$$-2 \\bmod 7$$ is converted to $$5 \\bmod 7$$ using modular math (normalizing into $$1 \\leq z \\leq N-1$$)</p>\n<p></p>\n<p>so now we have $$360^{-1} \\equiv 5 \\bmod 7$$.</p>\n<p></p>\n<p>$$360 \\equiv 3 \\bmod 7$$ so we can substitute 3 for 360</p>\n<p></p>\n<p>so now we have $$3^{-1} \\equiv 5 \\bmod 7$$</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-10T22:36:30Z", 
+          "uid": "i4iufvhm2nj4s1", 
+          "created": "2017-09-10T22:36:30Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j7fbjvrein86nw", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Interesting. \u00a0I didn&#39;t think the substitution rule applied to inverses as well. \u00a0Thanks!</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-10T22:37:19Z", 
+          "uid": "i4gzn4buf4Q", 
+          "created": "2017-09-10T22:37:19Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j7fbky1mtr7af", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>if two numbers are congruent they will have the same inverse.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-11T02:15:30Z", 
+          "uid": "i4ket0u1z5q31a", 
+          "created": "2017-09-11T02:15:30Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j7fjdj7lzjq5j1", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>The same inverse or a congruent inverse?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-11T10:57:14Z", 
+          "uid": "i4gzn4buf4Q", 
+          "created": "2017-09-11T10:57:14Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j7g20h1hmqj5iq", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Both.\u00a0 Congruent numbers are the same in mod math.\u00a0 So the inverse will also have other congruent values.</p>\n<p></p>\n<p>There is no difference between 3 and 360 when they are both mod 7.\u00a0\u00a0 Hence they are congruent (aka, for our purposes, equal to each other when modded by 7).</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-11T21:02:12Z", 
+          "uid": "i4m49pmqc4h14p", 
+          "created": "2017-09-11T21:02:12Z", 
+          "type": "feedback", 
+          "id": "j7gnmh2e9kb6wd", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Also, there is only 1 multiplicative inverse for a number, and it lies in the range {1,...,N-1}. So if 360 and 3 have congruent inverses, it also has to be the same (aka identical) inverse.</p>"
+        }
+      ], 
+      "subject": "<p>So where does 3^-1\u00a0\u2261 5 mod 7 come from?</p>"
+    }
+  ], 
+  "nr": 252, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "random_algorithms"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 2, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "random_algorithms", 
+    "student"
+  ], 
+  "created": "2017-09-10T21:22:19Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145262837, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>In Lecture, after showing the solution to 7^-1 mod 360, this is offered at the end:</p>\n<p></p>\n<p>&#34;Note, we also get that:\u00a0360\u200b\u22121\u200b\u200b\u2261\u22122\u00a0mod\u00a07. Simplifying, we have:\u00a0360\u22613\u00a0mod\u00a07\u00a0and\u00a0\u22122\u22615\u00a0mod\u00a07. Therefore,3\u200b\u22121\u200b\u200b\u22615\u00a0mod\u00a07.&#34;</p>\n<p></p>\n<p>I do not see how these final congruent relationships are established from 360^-1 = -2 mod 7. \u00a0How are they derived?</p>", 
+      "anon": "no", 
+      "created": "2017-09-10T21:22:19Z", 
+      "uid": "i4iufvhm2nj4s1", 
+      "subject": "How to calculate simplification at the end of Euclid&#39;s Extended Algorithm?"
+    }
+  ]
+}

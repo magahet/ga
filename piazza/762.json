@@ -1,0 +1,250 @@
+{
+  "status": "active", 
+  "unique_views": 166, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-19T15:05:45Z", 
+      "data": "j8ylmfpsqu65tr", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j8ylmfppet25tq", 
+      "anon": "no", 
+      "when": "2017-10-19T15:36:31Z", 
+      "type": "followup", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j8ylmfppet25tq", 
+      "anon": "no", 
+      "when": "2017-10-19T16:30:16Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j8ylmfppet25tq", 
+      "anon": "no", 
+      "when": "2017-10-19T16:43:49Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j8ylmfppet25tq", 
+      "anon": "no", 
+      "when": "2017-10-19T16:49:45Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j8ylmfppet25tq", 
+      "anon": "no", 
+      "when": "2017-10-19T23:47:37Z", 
+      "type": "feedback", 
+      "uid": "hju4w9odatf30"
+    }, 
+    {
+      "uid": "hju4w9odatf30", 
+      "type": "i_answer", 
+      "when": "2017-10-19T23:48:08Z", 
+      "to": "j8ylmfppet25tq", 
+      "anon": "no", 
+      "data": "j8z4a7z54howb"
+    }, 
+    {
+      "to": "j8ylmfppet25tq", 
+      "anon": "no", 
+      "when": "2017-10-23T15:45:22Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8ylmfppet25tq", 
+  "bookmarked": 7, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-10-19T15:36:31Z", 
+      "no_upvotes": 0, 
+      "uid": "hq8hn0qyfuvyr", 
+      "created": "2017-10-19T15:36:31Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8ymq07dbcq6tr", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-19T16:30:16Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-10-19T16:30:16Z", 
+          "type": "feedback", 
+          "id": "j8yon532t6x37k", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>hmmm, so each vertex is not a clause, its a singular variable (in htis case, A or B)?</p>\n<p></p>\n<p>And each vertex has exactly two outgoing edges - one edge for &#39;true&#39;, and another for &#39;false&#39;?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-19T16:43:49Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-10-19T16:43:49Z", 
+          "type": "feedback", 
+          "id": "j8yp4keoak35v5", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Not quite. Each vertex is half of a variable. So, you have one vertex to represent that the variable is true. You have another vertex to represent that the variable is false. The outgoing edge from each vertex means &#34;if this vertex is true, then the vertex I&#39;m pointing at must also be true&#34;.</p>\n<p></p>\n<p>For the vertex which is labeled &#34;!A&#34;, with an edge pointing to the vertex &#34;B&#34;, that means that if !A is true (or A is false, in other words), then B must also be true.\u00a0</p>\n<p></p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-19T16:49:45Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-10-19T16:49:45Z", 
+          "type": "feedback", 
+          "id": "j8ypc6zpnw16o3", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Ah, I think I see....let me see if I can graph out an example</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-19T23:47:37Z", 
+          "uid": "hju4w9odatf30", 
+          "created": "2017-10-19T23:47:37Z", 
+          "type": "feedback", 
+          "id": "j8z49k1lwcfgt", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Nice explanation Nolan!"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T15:45:22Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-10-23T15:45:22Z", 
+          "type": "feedback", 
+          "id": "j94cst1eogf53y", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Thank you, Murali. I&#39;m glad I could come up with an explanation that resonated."
+        }
+      ], 
+      "subject": "Let&#39;s suppose you have you have A V B as a clause. If you assume that a particular one of those two literals is false, then the other one MUST be true. Let&#39;s assume that A is false. Then B must be true. So, !A =&gt; B. This would be drawn in the graph by an arrow from the vertex &#34;!A&#34; to the vertex &#34;B&#34;. Likewise, we would draw an arrow from &#34;!B&#34; to &#34;A&#34;.\n\nIf the clause is !A V B, it&#39;s just slightly more complicated, because then A =&gt; B. \n\nIn the graph, you must have a vertex for each variable that appears in the problem and it&#39;s opposite. After you&#39;ve drawn the two edges implied by each clause, the graph is complete."
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-19T23:48:08Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j8z4a7z273ewa", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "Check the follow up below!", 
+          "anon": "no", 
+          "created": "2017-10-19T23:48:08Z", 
+          "uid": "hju4w9odatf30", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 762, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "dynamic_programming"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 6, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "dynamic_programming", 
+    "student"
+  ], 
+  "created": "2017-10-19T15:05:45Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145136381, 
+  "tag_good": [
+    {
+      "name": "William Miller", 
+      "admin": false, 
+      "photo": "1408322716_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hv1gl7gmpkj41y"
+    }
+  ], 
+  "tag_good_arr": [
+    "hv1gl7gmpkj41y"
+  ], 
+  "history": [
+    {
+      "content": "<p>Hi All,</p>\n<p></p>\n<p>So the one thing that continues to vex me is the 2-SAT problem; specifically, I have no grasp on how to convert 2-SAT into states / transitions in a graph.\u00a0 Is anyone able to explain how this is done / have a resource for this?</p>", 
+      "anon": "no", 
+      "created": "2017-10-19T15:05:45Z", 
+      "uid": "hvil6y6khgk2ri", 
+      "subject": "Making States from the 2-SAT problem"
+    }
+  ]
+}

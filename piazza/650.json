@@ -1,0 +1,290 @@
+{
+  "status": "active", 
+  "unique_views": 155, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-07T07:01:04Z", 
+      "data": "j8gz0wnausk2hb", 
+      "uid": "iddoxdh5wry2oa"
+    }, 
+    {
+      "to": "j8gz0wn759k2ha", 
+      "anon": "no", 
+      "when": "2017-10-07T12:44:47Z", 
+      "type": "followup", 
+      "uid": "ijjd1u5dbTq"
+    }, 
+    {
+      "to": "j8gz0wn759k2ha", 
+      "anon": "no", 
+      "when": "2017-10-07T16:22:33Z", 
+      "type": "feedback", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j8gz0wn759k2ha", 
+      "anon": "no", 
+      "when": "2017-10-07T18:48:11Z", 
+      "type": "feedback", 
+      "uid": "hve4kbcvx7l4t3"
+    }, 
+    {
+      "to": "j8gz0wn759k2ha", 
+      "anon": "no", 
+      "when": "2017-10-07T22:27:03Z", 
+      "type": "feedback", 
+      "uid": "iddoxdh5wry2oa"
+    }, 
+    {
+      "to": "j8gz0wn759k2ha", 
+      "anon": "no", 
+      "when": "2017-10-08T01:51:01Z", 
+      "type": "feedback", 
+      "uid": "ij7cut79cxk36j"
+    }, 
+    {
+      "to": "j8gz0wn759k2ha", 
+      "anon": "no", 
+      "when": "2017-10-08T02:08:09Z", 
+      "type": "feedback", 
+      "uid": "ij7cut79cxk36j"
+    }, 
+    {
+      "to": "j8gz0wn759k2ha", 
+      "anon": "no", 
+      "when": "2017-10-08T02:42:53Z", 
+      "type": "feedback", 
+      "uid": "hve4kb0lopy4sl"
+    }, 
+    {
+      "to": "j8gz0wn759k2ha", 
+      "anon": "no", 
+      "when": "2017-10-08T05:44:54Z", 
+      "type": "feedback", 
+      "uid": "iddoxdh5wry2oa"
+    }, 
+    {
+      "uid": "i4hdvab632i522", 
+      "type": "s_answer", 
+      "when": "2017-10-09T06:47:16Z", 
+      "to": "j8gz0wn759k2ha", 
+      "anon": "no", 
+      "data": "j8jtevj6oq63sl"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8gz0wn759k2ha", 
+  "bookmarked": 8, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-10-07T12:44:47Z", 
+      "no_upvotes": 0, 
+      "uid": "ijjd1u5dbTq", 
+      "created": "2017-10-07T12:44:47Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8hbaxq29co5fr", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-07T16:22:33Z", 
+          "uid": "gns9oa0pgsO", 
+          "created": "2017-10-07T16:22:33Z", 
+          "type": "feedback", 
+          "id": "j8hj2z7o8dl7no", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>or, in other words, set one or both values you are dividing to floats before you divide : x = (a/(1.0*b))</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-07T18:48:11Z", 
+          "uid": "hve4kbcvx7l4t3", 
+          "created": "2017-10-07T18:48:11Z", 
+          "type": "feedback", 
+          "id": "j8hoaa0di2n2wd", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Are we supposed to take average of false positive across 10 trials or median?\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-07T22:27:03Z", 
+          "uid": "iddoxdh5wry2oa", 
+          "created": "2017-10-07T22:27:03Z", 
+          "type": "feedback", 
+          "id": "j8hw3qhia3p2sq", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thanks for your suggestions.</p>\n<p></p>\n<p>Yes, I already handled the int to float problem. I don&#39;t think this is the problem. I counted the false True of the second m, those numbers I got are 914, 1162, 967 and so on.\u00a0</p>\n<p>For example, use 914/100000 = 0.00914. But the theoretic value for the same c and k is 0.15966.Any thoughts?</p>\n<p></p>\n<p>If we put the experiment line and the theoretic line in the same plot, the experiment line looks like a flat line.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-08T01:51:01Z", 
+          "uid": "ij7cut79cxk36j", 
+          "created": "2017-10-08T01:51:01Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j8i3e1cbxoa5qj", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I have the same problem not as you. not sure what i&#39;m doing wrong since i pass task 2 fine.\u00a0</p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-08T02:08:09Z", 
+          "uid": "ij7cut79cxk36j", 
+          "created": "2017-10-08T02:08:09Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j8i402cmw0h1nk", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>YO i just fixed it, it is 100% a way you are calculating the theoretical, its way too high it should match yor data if you pass task 2. look over it again and just add *1.0 everywhere.\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-08T02:42:53Z", 
+          "uid": "hve4kb0lopy4sl", 
+          "created": "2017-10-08T02:42:53Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j8i58qylqok3g2", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I had the same problem trying to do too much without the math library.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-08T05:44:54Z", 
+          "uid": "iddoxdh5wry2oa", 
+          "created": "2017-10-08T05:44:54Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j8ibqtoj2yi6q5", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Jonathan, yes, I also figured this out! It&#39;s not the problem of the experimental data, it is because we got the wrong theoretical value. Haha, that&#39;s funny, but painful!\u00a0\u00a0</p>"
+        }
+      ], 
+      "subject": "I was having the same problem. If you are dividing two integers and expecting a float, make sure to account for that by casting your answer to a float."
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-09T06:47:16Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j8jtevj3ysz3sk", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "Marking as resolved; see followup", 
+          "anon": "no", 
+          "created": "2017-10-09T06:47:16Z", 
+          "uid": "i4hdvab632i522", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 650, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "project"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 5, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "project", 
+    "student"
+  ], 
+  "created": "2017-10-07T07:01:04Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145167689, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>I have already read this post: &#64;591</p>\n<p>And as Santiago mentioned there are two ways to calculate the false positive.</p>\n<p></p>\n<p>Right now,</p>\n<p>1. I ignored the false positive for the first m values.</p>\n<p>2. I already checked there are no false negative in the first m values</p>\n<p>3. false positive = the number of &#34;True&#34; of the second m values /\u00a0 m</p>\n<p></p>\n<p>I ran all experiments for all pairs of c and k for both type 1 and type 2, they all outperform the theoretical values a lot. And I got almost flat plot.\u00a0</p>\n<p></p>\n<p>I couldn&#39;t find anything wrong. Any suggestion?\u00a0\u00a0</p>", 
+      "anon": "no", 
+      "created": "2017-10-07T07:01:04Z", 
+      "uid": "iddoxdh5wry2oa", 
+      "subject": "Task 3, question for false positive, got flat plots"
+    }
+  ]
+}

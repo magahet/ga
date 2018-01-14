@@ -1,0 +1,55 @@
+{
+  "status": "active", 
+  "unique_views": 285, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-08-16T15:21:04Z", 
+      "data": "j6f5zm9jzfe4gl", 
+      "uid": "gd6v7134AUa"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j6f5zm9hiw64gk", 
+  "bookmarked": 0, 
+  "tags": [
+    "student"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [], 
+  "nr": 1, 
+  "bucket_order": 2, 
+  "type": "note", 
+  "folders": [], 
+  "no_answer_followup": 0, 
+  "num_favorites": 0, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-08-16T15:21:04Z", 
+  "is_tag_good": false, 
+  "config": {
+    "is_default": 1
+  }, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145340084, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "\nPiazza is a Q&A platform designed to get you great answers from classmates and instructors fast. We've put together this list of tips you might find handy as you get started:\n\n<ol style=\"margin:0;padding:0;list-style-position:inside;\"> <li style=\"margin:0;padding:0\"><strong>Ask questions!</strong>\n\nThe best way to get answers is to ask questions! Ask questions on Piazza rather than emailing your teaching staff so everyone can benefit from the response (and so you can get answers from classmates who are up as late as you are).\n\n</li><li style=\"margin:0;padding:0\"><strong>Edit questions and answers wiki-style.</strong>\n\nThink of Piazza as a Q&A wiki for your class. Every question has just a single <strong>students' answer</strong> that students can edit collectively (and a single <strong>instructors\u2019 answer</strong> for instructors).\n\n</li><li style=\"margin:0;padding:0\"> <strong>Add a followup to comment or ask further questions.</strong>\n\nTo comment on or ask further questions about a post, start a <strong>followup discussion</strong>. Mark it resolved when the issue has been addressed, and add any relevant information back into the Q&A above.\n\n</li><li style=\"margin:0;padding:0\"> <strong>Go anonymous.</strong>\n\nShy? No problem. You can always opt to post or edit anonymously.\n\n</li><li style=\"margin:0;padding:0\"> <strong>Tag your posts.</strong>\n\nIt's far more convenient to find all posts about your Homework 3 or Midterm 1 when the posts are tagged. Type a \u201c#\u201d before a key word to tag. Click a blue tag in a post or the question feed to filter for all posts that share that tag.\n\n</li><li style=\"margin:0;padding:0\"> <strong>Format code and equations.</strong>\n\nAdding a code snippet? Click the <strong>pre</strong> or <strong>tt</strong> button in the question editor to add pre-formatted or inline teletype text. \nMathematical equation? Click the <strong>Fx</strong> button to access the LaTeX editor to build a nicely formatted equation.\n\n</li><li style=\"margin:0;padding:0\"> <strong>View and download class details and resources.</strong> </li></ol>\n\nClick the <strong>Course Page</strong> button in your top bar to access the class syllabus, staff contact information, office hours details, and course resources\u2014all in one place!\n\n\nContact the Piazza Team anytime with questions or comments at <strong>team@piazza.com</strong>. We love feedback!", 
+      "anon": "no", 
+      "created": "2017-08-16T15:21:04Z", 
+      "uid": "gd6v7134AUa", 
+      "subject": "Welcome to Piazza!"
+    }
+  ]
+}

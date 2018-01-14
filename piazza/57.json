@@ -1,0 +1,285 @@
+{
+  "status": "active", 
+  "unique_views": 167, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "stud", 
+      "when": "2017-08-23T21:03:52Z", 
+      "data": "j6pibfnfsk219u"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-08-24T12:59:45Z", 
+      "data": "j6qggpn03k058a", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "uid": "gy4twfv45cg5o6", 
+      "type": "i_answer", 
+      "when": "2017-08-24T13:03:53Z", 
+      "to": "j6pibfnbkwg19t", 
+      "anon": "no", 
+      "data": "j6qgm0g7vol6u6"
+    }, 
+    {
+      "to": "j6pibfnbkwg19t", 
+      "anon": "stud", 
+      "when": "2017-08-24T15:35:31Z", 
+      "type": "followup"
+    }, 
+    {
+      "to": "j6pibfnbkwg19t", 
+      "anon": "no", 
+      "when": "2017-08-24T15:36:31Z", 
+      "type": "feedback", 
+      "uid": "hv5exp71kfz754"
+    }, 
+    {
+      "to": "j6pibfnbkwg19t", 
+      "anon": "no", 
+      "when": "2017-08-24T16:07:24Z", 
+      "type": "feedback", 
+      "uid": "i4iys7m3lpq2ij"
+    }, 
+    {
+      "to": "j6pibfnbkwg19t", 
+      "anon": "no", 
+      "when": "2017-08-25T15:36:07Z", 
+      "type": "feedback", 
+      "uid": "hv5exp71kfz754"
+    }, 
+    {
+      "to": "j6pibfnbkwg19t", 
+      "anon": "no", 
+      "when": "2017-08-25T17:04:41Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j6pibfnbkwg19t", 
+      "anon": "no", 
+      "when": "2017-08-27T07:17:50Z", 
+      "type": "feedback", 
+      "uid": "i8597qyse9c1v2"
+    }, 
+    {
+      "to": "j6pibfnbkwg19t", 
+      "anon": "no", 
+      "when": "2017-08-27T20:14:45Z", 
+      "type": "feedback", 
+      "uid": "hv5exp71kfz754"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j6pibfnbkwg19t", 
+  "bookmarked": 4, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-08-24T13:03:53Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "hv5exp71kfz754"
+      ], 
+      "id": "j6qgm0g3r706u5", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Kris Peterson", 
+          "admin": false, 
+          "photo": null, 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hv5exp71kfz754"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p></p>\n<p>I made it public, thank you for the question.</p>\n<p></p>\n<p>The subproblem definition in words should just look at the minimum cost, it doesn&#39;t involve the depth.</p>\n<p>And for the recurrence think about what we did for chain matrix multiply. \u00a0Try all the options for the root</p>\n<p>and then &#34;look up&#34; the min cost for the left and right subtrees. \u00a0The depth of everything in the left and\u00a0</p>\n<p>right subtrees went up by &#43;1, that&#39;s all you need to know to figure out the additional cost. \u00a0Got it now? \u00a0--Eric</p>", 
+          "anon": "no", 
+          "created": "2017-08-24T13:03:53Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-24T15:35:31Z", 
+      "no_upvotes": 0, 
+      "created": "2017-08-24T15:35:31Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6qm10ubma53e0", 
+      "anon": "stud", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-08-24T15:36:31Z", 
+          "uid": "hv5exp71kfz754", 
+          "created": "2017-08-24T15:36:31Z", 
+          "type": "feedback", 
+          "id": "j6qm2austzf3yi", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>This helps though. \u00a0Thanks.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-24T16:07:24Z", 
+          "uid": "i4iys7m3lpq2ij", 
+          "created": "2017-08-24T16:07:24Z", 
+          "type": "feedback", 
+          "id": "j6qn60ek78e50d", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>In terms of computing cost, I think\u00a0at a given\u00a0root, the cost is the sum of the costs of the subtrees plus the sum of the probabilities of all the elements in the current tree (with root = given root). If that helps? Just another way to look at it (as opposed to depth increasing by 1)</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-25T15:36:07Z", 
+          "uid": "hv5exp71kfz754", 
+          "created": "2017-08-25T15:36:07Z", 
+          "type": "feedback", 
+          "id": "j6s1hn6wule18h", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thanks for the suggestion, maybe I \u00a0am missing the formula I can&#39;t get the math to work.</p>\n<p></p>\n<p>On another note, after watching CMM again, \u00a0I think I see the depth now using\u00a0the row/column in my table.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-25T17:04:41Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-08-25T17:04:41Z", 
+          "type": "feedback", 
+          "id": "j6s4njhmof9195", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Kris, To see what Kate is saying you might try a small example with say 4 words. \u00a0First, look at the expected cost for the best tree with just nodes 2,3 vs. a tree with all 4 words where nodes 2 and 3 are the left subtree. \u00a0The extra cost for putting this tree of nodes 2,3 one level down is just at the root you have 1 extra comparison -- what&#39;s the expected cost of that?</p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-27T07:17:50Z", 
+          "uid": "i8597qyse9c1v2", 
+          "created": "2017-08-27T07:17:50Z", 
+          "type": "feedback", 
+          "id": "j6uekjng2z5rm", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>At a given\u00a0root, &#34;the cost is the sum of the costs of the subtrees plus the sum of the probabilities of all the elements in the current tree&#34;. The sum of the probabilities of all frequencies between i and j was tricky (to me anyways).</p>\n<p></p>\n<p>For anyone who did not follow, what happens is when you add the costs of left and right subtrees, p_k (being at the root), will be only counted once, however, p_{k-1} and p_{k&#43;1} will necessarily be counted again. So you&#39;re left with something like</p>\n<p></p>\n<p>1 * p_k &#43; 2 * (p_{k-1} &#43;\u00a0p_{k&#43;1} &#43; ... ) &#43; ...</p>\n<p></p>\n<p>which attains the desired solution.</p>\n<p></p>\n<p>Pedro</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-27T20:14:45Z", 
+          "uid": "hv5exp71kfz754", 
+          "created": "2017-08-27T20:14:45Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j6v6boej9fg4qz", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thanks for the explanations. \u00a0It <em><strong>finally</strong></em> clicked.</p>\n<p></p>\n<p>I worked through the math again for &#34;the cost is the sum of the costs of the subtrees plus the sum of the probabilities of all the elements in the current tree&#34; and it worked out correctly. \u00a0 \u00a0</p>\n<p></p>\n<p>However, I don&#39;t think i could have worked that formula myself. \u00a0 \u00a0After thinking about it, it makes sense, \u00a0I can work it out now that I had the answer.</p>\n<p></p>\n<p>Appreciate the help.</p>"
+        }
+      ], 
+      "subject": "<p>I think I&#39;m going in the right direction, but when i work the cost for a simple example tree the math doesn&#39;t work out for me.</p>"
+    }
+  ], 
+  "nr": 57, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw1"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 3, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw1", 
+    "student"
+  ], 
+  "created": "2017-08-23T21:03:52Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145319627, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>I think I&#39;m going down the right path to solve the problem. \u00a0I can break it into sub-problems and I have a recurrence formula which relies on the depth of the current node. \u00a0 I&#39;m struggling to get the depth into the sub-problems.</p>\n<p></p>\n<p>Splitting the problem up into left and right sub-trees and then trying to calculate the best cost of each. \u00a0The only way I can figure to get it into the sub-problems is to add a variable to track the max depth and also solve for all values of depth.</p>\n<p></p>\n<p>I can make this public if it&#39;s acceptable.</p>", 
+      "anon": "no", 
+      "created": "2017-08-24T12:59:45Z", 
+      "uid": "gy4twfv45cg5o6", 
+      "subject": "Problem 6.20 Optimal BST - approach"
+    }, 
+    {
+      "content": "<p>I think I&#39;m going down the right path to solve the problem. \u00a0I can break it into sub-problems and I have a recurrence formula which relies on the depth of the current node. \u00a0 I&#39;m struggling to get the depth into the sub-problems.</p>\n<p></p>\n<p>Splitting the problem up into left and right sub-trees and then trying to calculate the best cost of each. \u00a0The only way I can figure to get it into the sub-problems is to add a variable to track the max depth and also solve for all values of depth.</p>\n<p></p>\n<p>I can make this public if it&#39;s acceptable.</p>", 
+      "anon": "stud", 
+      "created": "2017-08-23T21:03:52Z", 
+      "subject": "Problem 6.20 Optimal BST - approach"
+    }
+  ]
+}

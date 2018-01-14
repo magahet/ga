@@ -1,0 +1,58 @@
+{
+  "status": "active", 
+  "unique_views": 131, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-19T00:54:07Z", 
+      "data": "j7qvzold3246tn", 
+      "uid": "hkkbz4bujtv5dn"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j7qvzolaqkc6tm", 
+  "bookmarked": 2, 
+  "tags": [
+    "course", 
+    "instructor-note", 
+    "logistics"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [], 
+  "nr": 348, 
+  "bucket_order": 2, 
+  "type": "note", 
+  "folders": [
+    "course", 
+    "logistics"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 0, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-09-19T00:54:07Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145233864, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>Hi\u00a0everyone,</p>\n<p></p>\n<p>Just a reminder that I will be holding office hours today at 9 PM EST.</p>\n<p></p>\n<p>Slide code: CS8803-Mon</p>\n<p>Youtube:\u00a0https://youtu.be/mnmdUt7r4T0</p>\n<p></p>\n<p>-Jeremy</p>", 
+      "anon": "no", 
+      "created": "2017-09-19T00:54:07Z", 
+      "uid": "hkkbz4bujtv5dn", 
+      "subject": "Office Hours Today: 9 PM - 10 PM EST"
+    }
+  ]
+}

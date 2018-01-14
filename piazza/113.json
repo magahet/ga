@@ -1,0 +1,145 @@
+{
+  "status": "active", 
+  "unique_views": 232, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-08-30T01:24:30Z", 
+      "data": "j6yc9pdz71z49w", 
+      "uid": "hv5exp71kfz754"
+    }, 
+    {
+      "to": "j6yc9pdxi0649v", 
+      "anon": "no", 
+      "when": "2017-08-30T04:25:21Z", 
+      "type": "followup", 
+      "uid": "h65bydtml4u1g0"
+    }, 
+    {
+      "uid": "i4nkipeofrkrz", 
+      "type": "s_answer", 
+      "when": "2017-08-30T11:31:38Z", 
+      "to": "j6yc9pdxi0649v", 
+      "anon": "no", 
+      "data": "j6yxyhx8ce12sh"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j6yc9pdxi0649v", 
+  "bookmarked": 3, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-08-30T04:25:21Z", 
+      "no_upvotes": 0, 
+      "uid": "h65bydtml4u1g0", 
+      "created": "2017-08-30T04:25:21Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6yiqa7388p1ve", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>We will discuss this later.</p>"
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-08-30T11:31:38Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j6yxyhx4uzv2sg", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>You can also take a look at the homework latex files for hints about how to write in latex. You&#39;ll find the text of every exercise, and that will definitively help understanding how to do things.</p>\n<p></p>\n<p>There are some Tex files that you can also download from the Internet. And ultimately, Google seems to have a whole lot of information about latex.</p>\n<p></p>\n<p></p>", 
+          "anon": "no", 
+          "created": "2017-08-30T11:31:38Z", 
+          "uid": "i4nkipeofrkrz", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 113, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw_solutions1", 
+    "hw_solutions2", 
+    "hw_solutions4", 
+    "hw_solutions8", 
+    "hw_solutions7", 
+    "hw_solutions3", 
+    "hw_solutions6", 
+    "hw_solutions5", 
+    "logistics"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw_solutions1", 
+    "hw_solutions2", 
+    "hw_solutions3", 
+    "hw_solutions4", 
+    "hw_solutions5", 
+    "hw_solutions6", 
+    "hw_solutions7", 
+    "hw_solutions8", 
+    "logistics", 
+    "student"
+  ], 
+  "created": "2017-08-30T01:24:30Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145301131, 
+  "tag_good": [
+    {
+      "name": "Vincent Romeo", 
+      "admin": false, 
+      "photo": "1400337266_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hv8z1thijfq6ns"
+    }
+  ], 
+  "tag_good_arr": [
+    "hv8z1thijfq6ns"
+  ], 
+  "history": [
+    {
+      "content": "<p>This might save some time trying to learn latex. \u00a0The formatting and spacing. \u00a0Getting some strange spacing issues before and after typing and when using lists.</p>", 
+      "anon": "no", 
+      "created": "2017-08-30T01:24:30Z", 
+      "uid": "hv5exp71kfz754", 
+      "subject": "Is there any chance we can get the  solutions in a latex file"
+    }
+  ]
+}

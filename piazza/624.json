@@ -1,0 +1,225 @@
+{
+  "status": "active", 
+  "unique_views": 163, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-06T02:54:36Z", 
+      "data": "j8fas3sxt0a2ai", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "uid": "hvfeyx7qglF", 
+      "type": "s_answer", 
+      "when": "2017-10-06T05:08:54Z", 
+      "to": "j8fas3swhbu2ah", 
+      "anon": "no", 
+      "data": "j8ffktc6c2g33w"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-10-06T05:10:38Z", 
+      "data": "j8ffn1mhz4m43a", 
+      "uid": "hvfeyx7qglF"
+    }, 
+    {
+      "uid": "gns9oa0pgsO", 
+      "type": "i_answer", 
+      "when": "2017-10-06T05:20:29Z", 
+      "to": "j8fas3swhbu2ah", 
+      "anon": "no", 
+      "data": "j8ffzpikrge1mg"
+    }, 
+    {
+      "to": "j8fas3swhbu2ah", 
+      "anon": "no", 
+      "when": "2017-10-08T02:25:11Z", 
+      "type": "followup", 
+      "uid": "hve4kb0lopy4sl"
+    }, 
+    {
+      "to": "j8fas3swhbu2ah", 
+      "anon": "no", 
+      "when": "2017-10-08T09:31:36Z", 
+      "type": "feedback", 
+      "uid": "hqj2wfy7NUZ"
+    }, 
+    {
+      "to": "j8fas3swhbu2ah", 
+      "anon": "no", 
+      "when": "2017-10-10T02:23:20Z", 
+      "type": "feedback", 
+      "uid": "ijbr5ddtwyt6pa"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8fas3swhbu2ah", 
+  "bookmarked": 6, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-06T05:08:54Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [
+        "idfwkf5jgsm3gg"
+      ], 
+      "id": "j8ffktbzni233v", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Nikita Nerkar", 
+          "admin": false, 
+          "photo": "1455312357_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "idfwkf5jgsm3gg"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>You only need to turn in code for task 2 and the 3 page report pdf.\u00a0 However, like you said...\u00a0 I went ahead and turned in my full bloom.py with the task 1 and 3 code in it.\u00a0 I just re-ran the task 2 check to make sure it still worked right before turning it in.</p>", 
+          "anon": "no", 
+          "created": "2017-10-06T05:10:38Z", 
+          "uid": "hvfeyx7qglF", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>You only need to turn in code for task 2 and the 3 page report pdf.</p>", 
+          "anon": "no", 
+          "created": "2017-10-06T05:08:54Z", 
+          "uid": "hvfeyx7qglF", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-06T05:20:29Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j8ffzpikad01mf", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>i&#39;m only going to look at task 2 performance.</p>", 
+          "anon": "no", 
+          "created": "2017-10-06T05:20:29Z", 
+          "uid": "gns9oa0pgsO", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-08T02:25:11Z", 
+      "no_upvotes": 0, 
+      "uid": "hve4kb0lopy4sl", 
+      "created": "2017-10-08T02:25:11Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8i4lz9fs876tx", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-08T09:31:36Z", 
+          "uid": "hqj2wfy7NUZ", 
+          "created": "2017-10-08T09:31:36Z", 
+          "type": "feedback", 
+          "id": "j8ijucy25xq6cw", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I&#39;m going to leave the code in for 1\u00a0 and 3 but comment it all out.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-10T02:23:20Z", 
+          "uid": "ijbr5ddtwyt6pa", 
+          "created": "2017-10-10T02:23:20Z", 
+          "type": "feedback", 
+          "id": "j8kzfb3lbvh4mc", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Did the same thing. That way, if they want, the can uncomment and see where I got my data from</p>"
+        }
+      ], 
+      "subject": "<p>I&#39;m also leaving my task 1 and task 3 code in bloom.py so that there is no discrepancy whatsoever about where my plots and analysis came from. Call it cya since I&#39;ve seen others get called out for plagiarism in other OMS classes. I tested task2 again after all the additions for the other tasks and the only import I used is matplotlib which was approved multiple times in piazza and office hours so presumably is available in the auto grader.</p>"
+    }
+  ], 
+  "nr": 624, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "project"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 0, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "project", 
+    "student"
+  ], 
+  "created": "2017-10-06T02:54:36Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145174129, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>I am assuming that the code for task 1 and 3 is not important. Do the TAs and professor want us to remove that code entirely, or keep it but comment it out (if it will cause breaking issues? Not sure if they were interested in reviewing how we gathered the data and all that</p>", 
+      "anon": "no", 
+      "created": "2017-10-06T02:54:36Z", 
+      "uid": "ijbr5ddtwyt6pa", 
+      "subject": "About the  code for Task 1 and Task 3"
+    }
+  ]
+}

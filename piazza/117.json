@@ -1,0 +1,273 @@
+{
+  "status": "active", 
+  "unique_views": 217, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-08-30T17:10:34Z", 
+      "data": "j6za2d9g92l3au", 
+      "uid": "i4iys7m3lpq2ij"
+    }, 
+    {
+      "to": "j6za2d9fq3q3at", 
+      "anon": "no", 
+      "when": "2017-08-30T19:01:49Z", 
+      "type": "followup", 
+      "uid": "hkvhtvraa6x6cg"
+    }, 
+    {
+      "to": "j6za2d9fq3q3at", 
+      "anon": "no", 
+      "when": "2017-08-30T22:15:42Z", 
+      "type": "followup", 
+      "uid": "ija2ufzr6l0f7"
+    }, 
+    {
+      "to": "j6za2d9fq3q3at", 
+      "anon": "no", 
+      "when": "2017-08-30T22:53:46Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j6za2d9fq3q3at", 
+      "anon": "no", 
+      "when": "2017-08-31T01:08:31Z", 
+      "type": "followup", 
+      "uid": "hviwm6agQCk"
+    }, 
+    {
+      "to": "j6za2d9fq3q3at", 
+      "anon": "no", 
+      "when": "2017-09-01T17:50:48Z", 
+      "type": "followup", 
+      "uid": "hyv35odtttv79h"
+    }, 
+    {
+      "to": "j6za2d9fq3q3at", 
+      "anon": "no", 
+      "when": "2017-09-01T18:28:37Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "uid": "gy4twfv45cg5o6", 
+      "type": "i_answer", 
+      "when": "2017-09-01T19:13:30Z", 
+      "to": "j6za2d9fq3q3at", 
+      "anon": "no", 
+      "data": "j729c5xyjjj3av"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-01T19:57:34Z", 
+      "data": "j72awu31psd303", 
+      "uid": "i4iys7m3lpq2ij"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j6za2d9fq3q3at", 
+  "bookmarked": 6, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-08-30T19:01:49Z", 
+      "no_upvotes": 0, 
+      "uid": "hkvhtvraa6x6cg", 
+      "created": "2017-08-30T19:01:49Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6ze1f98rqt7n4", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "&#43;1"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-30T22:15:42Z", 
+      "no_upvotes": 0, 
+      "uid": "ija2ufzr6l0f7", 
+      "created": "2017-08-30T22:15:42Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6zkyrp3fp45e7", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-08-30T22:53:46Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-08-30T22:53:46Z", 
+          "type": "feedback", 
+          "id": "j6zmbprejz017u", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p></p>\n<p>I&#39;ll try to figure it out on Friday. \u00a0But in any case you can watch the FFT lectures, they probably take some time to digest.</p>"
+        }
+      ], 
+      "subject": "<p>&#43; 1</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-31T01:08:31Z", 
+      "no_upvotes": 0, 
+      "uid": "hviwm6agQCk", 
+      "created": "2017-08-31T01:08:31Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6zr50ntd705g", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "Careful some of us don&#39;t even get Labor Day off"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-01T17:50:48Z", 
+      "no_upvotes": 0, 
+      "uid": "hyv35odtttv79h", 
+      "created": "2017-09-01T17:50:48Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j726dsvaetv6je", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-01T18:28:37Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-09-01T18:28:37Z", 
+          "type": "feedback", 
+          "id": "j727qfpgov5467", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I tend to agree with Ed.\u00a0</p>"
+        }
+      ], 
+      "subject": "<p>And some of us are still working on HW1 and/or HW2. \u00a0From my experience in early versions of other classes, having some students work far ahead the rest creates a fairly confusing environment. \u00a0Also, the TA&#39;s will be getting questions about HW1, HW2, and HW3 at the same time, office hours are not as successful and everyone is all over the place. \u00a0Keeping most students at the same pace tends to make the class run better in my opinion.</p>"
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-01T19:13:30Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "ijalzed08k3wp"
+      ], 
+      "id": "j729c5xv4mt3au", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Jon Erickson", 
+          "admin": false, 
+          "photo": "1503255168_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "ijalzed08k3wp"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p></p>\n<p>Are you done with homeworks 1 and 2? \u00a0Is there really a need for hw 3 at this point?</p>", 
+          "anon": "no", 
+          "created": "2017-09-01T19:13:30Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 117, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw3", 
+    "hw_solutions3"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw3", 
+    "hw_solutions3", 
+    "student"
+  ], 
+  "created": "2017-08-30T17:10:34Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145299839, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>Dear instructors,</p>\n<p></p>\n<p>Might it be possible to release HW3 early so that we could\u00a0use the Labor Day\u00a0weekend to get a bit ahead? Your consideration is very much appreciated.</p>\n<p></p>\n<p>Thanks!</p>\n<p></p>\n<p>UPDATE in response to instructor question: Yes, HW1 and HW2 are done, and I was thinking it&#39;d be nice to have the HW3 as I start watching the next lectures. But it&#39;s certainly not necessary and I don&#39;t want to cause tumult.\u00a0</p>", 
+      "anon": "no", 
+      "created": "2017-09-01T19:57:34Z", 
+      "uid": "i4iys7m3lpq2ij", 
+      "subject": "Early release of HW3"
+    }, 
+    {
+      "content": "<p>Dear instructors,</p>\n<p></p>\n<p>Might it be possible to release HW3 early so that we could\u00a0use the Labor Day\u00a0weekend to get a bit ahead? Your consideration is very much appreciated.</p>\n<p></p>\n<p>Thanks!</p>", 
+      "anon": "no", 
+      "created": "2017-08-30T17:10:34Z", 
+      "uid": "i4iys7m3lpq2ij", 
+      "subject": "Early release of HW3"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "status": "active", 
+  "unique_views": 148, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-05T01:05:40Z", 
+      "data": "j76w8lw62vj1ln", 
+      "uid": "hkkbz4bujtv5dn"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j76w8lw4kqu1lm", 
+  "bookmarked": 1, 
+  "tags": [
+    "instructor-note", 
+    "logistics"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [], 
+  "nr": 188, 
+  "bucket_order": 2, 
+  "type": "note", 
+  "folders": [
+    "logistics"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 0, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-09-05T01:05:40Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145280962, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "Hi,<div><br /></div><div>I will not be holding office hours today September 4th. Sorry about the late notice. I will make up the office hours session at a later date.</div><div><br /></div><div>Thanks,</div><div>-Jeremy</div>", 
+      "anon": "no", 
+      "created": "2017-09-05T01:05:40Z", 
+      "uid": "hkkbz4bujtv5dn", 
+      "subject": "Office Hours Sept 4 Canceled"
+    }
+  ]
+}

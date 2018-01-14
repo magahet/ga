@@ -1,0 +1,298 @@
+{
+  "status": "active", 
+  "unique_views": 161, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-11T00:45:29Z", 
+      "data": "j7fg5r1nquypv", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "to": "j7fg5r1kroepu", 
+      "anon": "no", 
+      "when": "2017-09-11T01:23:45Z", 
+      "type": "followup", 
+      "uid": "hz07uekkjnrpb"
+    }, 
+    {
+      "to": "j7fg5r1kroepu", 
+      "anon": "no", 
+      "when": "2017-09-11T01:47:24Z", 
+      "type": "feedback", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-11T01:57:11Z", 
+      "data": "j7fipytfbcf6qs", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "to": "j7fg5r1kroepu", 
+      "anon": "no", 
+      "when": "2017-09-11T05:35:28Z", 
+      "type": "followup", 
+      "uid": "ijawwe19w053cm"
+    }, 
+    {
+      "uid": "hkjzzued3ef4xh", 
+      "type": "i_answer", 
+      "when": "2017-09-11T16:20:04Z", 
+      "to": "j7fg5r1kroepu", 
+      "anon": "no", 
+      "data": "j7gdjmte93i1so"
+    }, 
+    {
+      "type": "i_answer_update", 
+      "anon": "no", 
+      "when": "2017-09-11T16:20:12Z", 
+      "data": "j7gdjtes7bl1wp", 
+      "uid": "hkjzzued3ef4xh"
+    }, 
+    {
+      "to": "j7fg5r1kroepu", 
+      "anon": "no", 
+      "when": "2017-09-13T04:15:15Z", 
+      "type": "feedback", 
+      "uid": "ig9fx44bzwr74x"
+    }, 
+    {
+      "to": "j7fg5r1kroepu", 
+      "anon": "no", 
+      "when": "2017-09-15T01:53:48Z", 
+      "type": "followup", 
+      "uid": "idg61g3ot1qp6"
+    }, 
+    {
+      "to": "j7fg5r1kroepu", 
+      "anon": "no", 
+      "when": "2017-09-17T17:47:58Z", 
+      "type": "followup", 
+      "uid": "hqa9hei3ww2gk"
+    }, 
+    {
+      "to": "j7fg5r1kroepu", 
+      "anon": "no", 
+      "when": "2017-09-17T17:55:25Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j7fg5r1kroepu", 
+  "bookmarked": 9, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-09-11T01:23:45Z", 
+      "no_upvotes": 0, 
+      "uid": "hz07uekkjnrpb", 
+      "created": "2017-09-11T01:23:45Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7fhiyv45yw4ej", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-11T01:47:24Z", 
+          "uid": "ijbr5ddtwyt6pa", 
+          "created": "2017-09-11T01:47:24Z", 
+          "type": "feedback", 
+          "id": "j7fide0172t3jf", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Well, that won&#39;t work either. You do not know the value of n according to the question, but thats probably drifting too far into the actual question (i.e we shouldn&#39;t talk about it until after the HW is due)</p>"
+        }
+      ], 
+      "subject": "<p>I don&#39;t know if this helps, but if you think of it from a bottom up perspective, instead of top down, then you can still split the array up since the first n are sorted. Start with a small division and then get bigger?</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-11T05:35:28Z", 
+      "no_upvotes": 0, 
+      "uid": "ijawwe19w053cm", 
+      "created": "2017-09-11T05:35:28Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7fqioq4zhn334", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-13T04:15:15Z", 
+          "uid": "ig9fx44bzwr74x", 
+          "created": "2017-09-13T04:15:15Z", 
+          "type": "feedback", 
+          "id": "j7iij85wztj166", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>that sounds like git bisect</p>"
+        }
+      ], 
+      "subject": "<p>https://leetcode.com/problems/first-bad-version/description/</p>"
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-11T16:20:03Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j7gdjmsbwub1sn", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>The array is infinite length, but you can try to define an upper bound for the useful values.</p>", 
+          "anon": "no", 
+          "created": "2017-09-11T16:20:12Z", 
+          "uid": "hkjzzued3ef4xh", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>The array is infinite length, but you can try to define a upper bound for the useful values.</p>", 
+          "anon": "no", 
+          "created": "2017-09-11T16:20:04Z", 
+          "uid": "hkjzzued3ef4xh", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-15T01:53:48Z", 
+      "no_upvotes": 0, 
+      "uid": "idg61g3ot1qp6", 
+      "created": "2017-09-15T01:53:48Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7l8d0vwywf3wr", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>There are two keys I&#39;ve found to this problem</p>\n<p></p>\n<p>(1) The array eventually turns from integers to values of infinity</p>\n<p>(2) The array is already sorted</p>\n<p></p>\n<p>So thinking about it another way. \u00a0Can you think of a way or ways to search through the array to find the end or the midpoint? \u00a0Then, once you know it, what could you use knowing the list is already sorted?</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-17T17:47:58Z", 
+      "no_upvotes": 0, 
+      "uid": "hqa9hei3ww2gk", 
+      "created": "2017-09-17T17:47:58Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7p1bssaj1t73o", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-17T17:55:25Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-09-17T17:55:25Z", 
+          "type": "feedback", 
+          "id": "j7p1ld9pu8f60a", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Having duplicates shouldn&#39;t change your answer. In other words: yes, you can have duplicates.</p>"
+        }
+      ], 
+      "subject": "<p>Can we have duplicates in the array of n values? \u00a0I was assuming there were no duplicates since it asks to return the index of the value x if found, which seems to imply that answer is unique but maybe that is not a correct assumption.\u00a0</p>"
+    }
+  ], 
+  "nr": 256, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw3"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw3", 
+    "student"
+  ], 
+  "created": "2017-09-11T00:45:29Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145261598, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>Probably a silly question, but will we be able to &#34;split&#34; this array? I.e. its almost impossible to split up the problem into sub problems if we cannot actually do just that, and making an array infinite makes it seem like the length of the array cannot be defined.</p>\n<p></p>\n<p>To add onto that, most, if not all finds have a return value that specifies if there was not a found value. Is returning false ok for this course?</p>", 
+      "anon": "no", 
+      "created": "2017-09-11T01:57:11Z", 
+      "uid": "ijbr5ddtwyt6pa", 
+      "subject": "[DPV] Problem 2.16 (find x in an infinite array)"
+    }, 
+    {
+      "content": "<p>Probably a silly question, but will we be able to &#34;split&#34; this array? I.e. its almost impossible to split up the problem into sub problems if we cannot actually do just that, and making an array infinite makes it seem like the length of the array cannot be defined</p>", 
+      "anon": "no", 
+      "created": "2017-09-11T00:45:29Z", 
+      "uid": "ijbr5ddtwyt6pa", 
+      "subject": "[DPV] Problem 2.16 (find x in an infinite array)"
+    }
+  ]
+}

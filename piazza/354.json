@@ -1,0 +1,319 @@
+{
+  "status": "active", 
+  "unique_views": 162, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-19T15:24:59Z", 
+      "data": "j7rr3mmuatb1ty", 
+      "uid": "hz9y0742TXb"
+    }, 
+    {
+      "to": "j7rr3mmq31s1tx", 
+      "anon": "no", 
+      "when": "2017-09-19T15:35:48Z", 
+      "type": "followup", 
+      "uid": "ijjd1u5dbTq"
+    }, 
+    {
+      "uid": "iddoy2bdneb2tv", 
+      "type": "s_answer", 
+      "when": "2017-09-19T15:58:34Z", 
+      "to": "j7rr3mmq31s1tx", 
+      "anon": "no", 
+      "data": "j7rsatemnh810c"
+    }, 
+    {
+      "to": "j7rr3mmq31s1tx", 
+      "anon": "no", 
+      "when": "2017-09-19T21:12:18Z", 
+      "type": "feedback", 
+      "uid": "ijjd1u5dbTq"
+    }, 
+    {
+      "to": "j7rr3mmq31s1tx", 
+      "anon": "no", 
+      "when": "2017-09-19T23:38:30Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j7rr3mmq31s1tx", 
+      "anon": "no", 
+      "when": "2017-09-20T00:45:12Z", 
+      "type": "feedback", 
+      "uid": "ijjd1u5dbTq"
+    }, 
+    {
+      "to": "j7rr3mmq31s1tx", 
+      "anon": "no", 
+      "when": "2017-09-20T01:07:24Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j7rr3mmq31s1tx", 
+      "anon": "no", 
+      "when": "2017-09-20T01:41:12Z", 
+      "type": "feedback", 
+      "uid": "hz9y0742TXb"
+    }, 
+    {
+      "to": "j7rr3mmq31s1tx", 
+      "anon": "no", 
+      "when": "2017-09-20T01:53:00Z", 
+      "type": "feedback", 
+      "uid": "iddox7abejr2mj"
+    }, 
+    {
+      "to": "j7rr3mmq31s1tx", 
+      "anon": "no", 
+      "when": "2017-09-21T02:59:46Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j7rr3mmq31s1tx", 
+  "bookmarked": 6, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-09-19T15:35:48Z", 
+      "no_upvotes": 0, 
+      "uid": "ijjd1u5dbTq", 
+      "created": "2017-09-19T15:35:48Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7rrhj46oro5q4", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-19T21:12:18Z", 
+          "uid": "ijjd1u5dbTq", 
+          "created": "2017-09-19T21:12:18Z", 
+          "type": "feedback", 
+          "id": "j7s3i9hktwl2bz", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>There is a disconnect for me somewhere. Could someone break down the steps for me?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-19T23:38:30Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-09-19T23:38:30Z", 
+          "type": "feedback", 
+          "id": "j7s8qa0y8gk7f6", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/hvil6y6khgk2ri/j7s8q4ce7kpb/matrix.jpg\" alt=\"\" /></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-20T00:45:12Z", 
+          "uid": "ijjd1u5dbTq", 
+          "created": "2017-09-20T00:45:12Z", 
+          "type": "feedback", 
+          "id": "j7sb42m1m4j41j", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Huge help Brent, Thank you! I think I&#39;ll format the rest of my studying like this.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-20T01:07:24Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-09-20T01:07:24Z", 
+          "type": "feedback", 
+          "id": "j7sbwlwt4hq23s", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>no prob!</p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-20T01:41:12Z", 
+          "uid": "hz9y0742TXb", 
+          "created": "2017-09-20T01:41:12Z", 
+          "type": "feedback", 
+          "id": "j7sd42r6xfr2z", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thank you all for explaining it !!!</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-20T01:53:00Z", 
+          "uid": "iddox7abejr2mj", 
+          "created": "2017-09-20T01:53:00Z", 
+          "type": "feedback", 
+          "id": "j7sdj9a1wox29i", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>This is really helpful Brent. Are you are using an excel template...?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-21T02:59:46Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-09-21T02:59:46Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j7tvcz1u6i96a1", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Eh I just create it in Excel on the fly in an attempt to visualize it.</p>"
+        }
+      ], 
+      "subject": "<p>I also had trouble with this. Thanks for asking.</p>"
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-19T15:58:34Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [
+        "hz9y0742TXb", 
+        "hqa65fnalg83fr", 
+        "hju4w9odatf30"
+      ], 
+      "id": "j7rsateh67d10b", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Vinh Nguyen", 
+          "admin": false, 
+          "photo": null, 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hz9y0742TXb"
+        }, 
+        {
+          "name": "Amin Mansuri", 
+          "admin": false, 
+          "photo": "1400911910_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hqa65fnalg83fr"
+        }, 
+        {
+          "name": "Murali Raghu Babu B", 
+          "admin": true, 
+          "photo": "1503448397_35.png", 
+          "us": false, 
+          "role": "ta", 
+          "facebook_id": null, 
+          "id": "hju4w9odatf30"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>once you computed the FFT values which are 20, -5 -i, -2, -5 &#43; i, you have to compute the FFT inverse to convert to Coefficients. To do this you multiply the values with M(n) ^ -1 and 1/N which will be,</p>\n<p></p>\n<p>[1 \u00a01 \u00a01 \u00a01] \u00a0 \u00a0 [ 20]</p>\n<p>[1 -i \u00a0-1 \u00a0i ] \u00a0 X [-5- i]\u00a0</p>\n<p>[1 \u00a0-1 1 -1] \u00a0 \u00a0 \u00a0[ - 2]</p>\n<p>[1 \u00a0i \u00a0-1 \u00a0-i] \u00a0 \u00a0 \u00a0[-5 &#43;i]</p>\n<p></p>\n<p>and then you will get [8, 20, 28, 24], and finally multiplying by 1/4 (N= 4), will give you 2, 5, 7, 6.\u00a0</p>", 
+          "anon": "no", 
+          "created": "2017-09-19T15:58:34Z", 
+          "uid": "iddoy2bdneb2tv", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 354, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw3"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 3, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw3", 
+    "student"
+  ], 
+  "created": "2017-09-19T15:24:59Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145231246, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>Greetings all.\u00a0</p>\n<p>Checking HW3 solution on\u00a0Problem 1 [DPV] Problem 2.9 part (b), can someone kindly help me to understand how is column circled in red [8 20 28 24]\u00a0derived?\u00a0</p>\n<p>Thank you!</p>\n<p></p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/hz9y0742TXb/j7rqv8eh5t0d/Capture.PNG\" alt=\"\" /></p>", 
+      "anon": "no", 
+      "created": "2017-09-19T15:24:59Z", 
+      "uid": "hz9y0742TXb", 
+      "subject": "Question on solution of Problem 1 [DPV] Problem 2.9 part (b)"
+    }
+  ]
+}

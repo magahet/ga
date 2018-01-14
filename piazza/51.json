@@ -1,0 +1,117 @@
+{
+  "status": "active", 
+  "unique_views": 242, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-08-23T17:21:27Z", 
+      "data": "j6pade64qco4m", 
+      "uid": "i4m8xop4ndthr"
+    }, 
+    {
+      "uid": "gy4twfv45cg5o6", 
+      "type": "i_answer", 
+      "when": "2017-08-23T17:28:07Z", 
+      "to": "j6pade62z8h4l", 
+      "anon": "no", 
+      "data": "j6palys3gtb1h7"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j6pade62z8h4l", 
+  "bookmarked": 4, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-08-23T17:28:07Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "hz9y0742TXb"
+      ], 
+      "id": "j6palyrsfzi1h6", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Vinh Nguyen", 
+          "admin": false, 
+          "photo": null, 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hz9y0742TXb"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p></p>\n<p>That is memoization. \u00a0Don&#39;t use it \u00a0-- for this class. \u00a0Try to come up with a DP solution.</p>\n<p></p>\n<p>If you are stuck on the max product problem, my suggestion is to first try 6.4 (sequence of</p>\n<p>words). \u00a0Can you figure out 6.4, part (a)?</p>\n<p></p>\n<p>--Eric</p>", 
+          "anon": "no", 
+          "created": "2017-08-23T17:28:07Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 51, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw1", 
+    "hw_solutions1"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 0, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw1", 
+    "hw_solutions1", 
+    "student"
+  ], 
+  "created": "2017-08-23T17:21:27Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145322040, 
+  "tag_good": [
+    {
+      "name": "Chris Anderson", 
+      "admin": false, 
+      "photo": "1408759905_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hz07uekkjnrpb"
+    }
+  ], 
+  "tag_good_arr": [
+    "hz07uekkjnrpb"
+  ], 
+  "history": [
+    {
+      "content": "<p>I found a very elegant recursive solution with memoization, but I am having hell coming up with iterative solution.</p>\n<p></p>\n<p>If I were to implement such thing with constraints of using iteration and some kind of cache data structure, I&#39;d use dictionary, where each substring contained list of max product, and list index would be the number of multeplication operators... But I have no confidence at all, if that is correct approach. And it seems a bit like memoization.\u00a0</p>\n<p></p>\n<p>Another questions are:</p>\n<p>1. does using the recursion or memoization makes it non-DP approach?</p>\n<p>2.\u00a0Can or can we not use the recursion or memoization while completing DP problems?</p>\n<p></p>", 
+      "anon": "no", 
+      "created": "2017-08-23T17:21:27Z", 
+      "uid": "i4m8xop4ndthr", 
+      "subject": "Max product puzzle"
+    }
+  ]
+}

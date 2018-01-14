@@ -1,0 +1,359 @@
+{
+  "status": "active", 
+  "unique_views": 191, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-08-31T17:29:33Z", 
+      "data": "j70q6n09ctn21", 
+      "uid": "i4m8xop4ndthr"
+    }, 
+    {
+      "uid": "isgwdf47kb42f", 
+      "type": "i_answer", 
+      "when": "2017-08-31T19:14:48Z", 
+      "to": "j70q6n06c3920", 
+      "anon": "no", 
+      "data": "j70txzc4tmu7ef"
+    }, 
+    {
+      "type": "i_answer_update", 
+      "anon": "no", 
+      "when": "2017-08-31T19:18:52Z", 
+      "data": "j70u37nghje4mr", 
+      "uid": "isgwdf47kb42f"
+    }, 
+    {
+      "type": "i_answer_update", 
+      "anon": "no", 
+      "when": "2017-08-31T19:19:27Z", 
+      "data": "j70u3yldnf5ck", 
+      "uid": "isgwdf47kb42f"
+    }, 
+    {
+      "type": "i_answer_update", 
+      "anon": "no", 
+      "when": "2017-08-31T19:24:04Z", 
+      "data": "j70u9w3kk9chj", 
+      "uid": "isgwdf47kb42f"
+    }, 
+    {
+      "type": "i_answer_update", 
+      "anon": "no", 
+      "when": "2017-08-31T19:24:52Z", 
+      "data": "j70uaxad75k1d5", 
+      "uid": "isgwdf47kb42f"
+    }, 
+    {
+      "type": "i_answer_update", 
+      "anon": "no", 
+      "when": "2017-08-31T19:25:06Z", 
+      "data": "j70ub81rmnq1hz", 
+      "uid": "isgwdf47kb42f"
+    }, 
+    {
+      "type": "i_answer_update", 
+      "anon": "no", 
+      "when": "2017-08-31T19:26:12Z", 
+      "data": "j70ucnh5q3q28b", 
+      "uid": "isgwdf47kb42f"
+    }, 
+    {
+      "to": "j70q6n06c3920", 
+      "anon": "no", 
+      "when": "2017-09-01T20:02:34Z", 
+      "type": "followup", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j70q6n06c3920", 
+      "anon": "no", 
+      "when": "2017-09-04T22:35:18Z", 
+      "type": "followup", 
+      "uid": "hve4k9bj2u4qu"
+    }, 
+    {
+      "to": "j70q6n06c3920", 
+      "anon": "no", 
+      "when": "2017-09-04T23:17:09Z", 
+      "type": "feedback", 
+      "uid": "isgwdf47kb42f"
+    }, 
+    {
+      "uid": "i4nkipeofrkrz", 
+      "type": "s_answer", 
+      "when": "2017-09-04T23:23:39Z", 
+      "to": "j70q6n06c3920", 
+      "anon": "no", 
+      "data": "j76slf1yoj161h"
+    }, 
+    {
+      "to": "j70q6n06c3920", 
+      "anon": "no", 
+      "when": "2017-09-10T01:30:18Z", 
+      "type": "feedback", 
+      "uid": "hve4kbcvx7l4t3"
+    }, 
+    {
+      "to": "j70q6n06c3920", 
+      "anon": "no", 
+      "when": "2017-09-10T22:23:03Z", 
+      "type": "feedback", 
+      "uid": "hve4kbcvx7l4t3"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j70q6n06c3920", 
+  "bookmarked": 6, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-08-31T19:14:48Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "ij832p58ncG"
+      ], 
+      "id": "j70txzc1xvj7ee", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Greg", 
+          "admin": false, 
+          "photo": "1464416700_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "ij832p58ncG"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>For\u00a0$$ y &lt; N-1 $$ I&#39;d say that whether or not Fermat&#39;s little theorem is useful depends on how expensive the fast modular exponentiation is for\u00a0$$ a^y \\mod N $$.</p>\n<p></p>\n<p>In your example, this could be computed with the fast modular exponentiation algorithm by starting with 3 and repeatedly squaring and multiplying\u00a0from the relevant\u00a0results of repeated squaring.</p>\n<p></p>\n<p>If fast modular exponentiation is too expensive we could also note that for a prime p, $$a^{p-1} \\equiv 1 \\mod p$$, so we can multiply anything $$ \\mod p $$ by $$ a^{p-1} \\mod p $$ as many times as we like. It follows also that $$ a^{-(p-1)} \\equiv 1 \\mod p $$. So when we have $$ a^n \\mod p $$ we can add or\u00a0subtract p-1\u00a0from n as many times as we please.*</p>\n<p></p>\n<p>Going back to $$ 3^{99} $$,\u00a0what happens when we subtract p-1\u00a0from the exponent? It will be helpful to recall that $$ a^{-b} = ({a^{-1}})^b = ({a^b})^{-1} $$. In this specific case we&#39;ll go from needing 9 multiplications mod 103 to only 2 multiplications mod 103.</p>\n<p></p>\n<p>*(This is simply stating that $$ a^y \\equiv a^{y \\mod p-1} \\mod p $$, a direct result of Fermat&#39;s Little Theorem.)</p>", 
+          "anon": "no", 
+          "created": "2017-08-31T19:26:12Z", 
+          "uid": "isgwdf47kb42f", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>For\u00a0$$ y &lt; N-1 $$ I&#39;d say that whether or not Fermat&#39;s little theorem is useful depends on how expensive the fast modular exponentiation is for\u00a0$$ a^y \\mod N $$.</p>\n<p></p>\n<p>In your example, this could be computed with the fast modular exponentiation algorithm by starting with 3 and repeatedly squaring and multiplying\u00a0from the relevant\u00a0results of repeated squaring.</p>\n<p></p>\n<p>If fast modular exponentiation is too expensive we could also note that for a prime p, $$a^{p-1} \\equiv 1 \\mod p$$ we can multiply anything $$ \\mod p $$ by $$ a^{p-1} \\mod p $$ as many times as we like. It follows also that $$ a^{-(p-1)} \\equiv 1 \\mod p $$. So when we have $$ a^n \\mod p $$ we can add or\u00a0subtract p-1\u00a0from n as many times as we please.*</p>\n<p></p>\n<p>Going back to $$ 3^{99} $$,\u00a0what happens when we subtract p-1\u00a0from the exponent? It will be helpful to recall that $$ a^{-b} = ({a^{-1}})^b = ({a^b})^{-1} $$. In this specific case we&#39;ll go from needing 9 multiplications mod 103 to only 2 multiplications mod 103.</p>\n<p></p>\n<p>*(This is simply stating that $$ a^y \\equiv a^{y \\mod p-1} \\mod p $$, a direct result of Fermat&#39;s Little Theorem.)</p>", 
+          "anon": "no", 
+          "created": "2017-08-31T19:25:06Z", 
+          "uid": "isgwdf47kb42f", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>For\u00a0$$ y &lt; N-1 $$ I&#39;d say that whether or not Fermat&#39;s little theorem is useful depends on how expensive the fast modular exponentiation is for\u00a0$$ a^y \\mod N $$.</p>\n<p></p>\n<p>In your example, this could be computed with the fast modular exponentiation algorithm by starting with 3 and repeatedly squaring and multiplying\u00a0from the relevant\u00a0results of repeated squaring.</p>\n<p></p>\n<p>If fast modular exponentiation is too expensive we could also note that for a prime p, $$a^{p-1} \\equiv 1 \\mod p$$ we can multiply anything $$ \\mod p $$ by $$ a^{p-1} \\mod p $$ as many times as we like. It follows also that $$ a^{-(p-1)} \\equiv 1 \\mod p $$. So when we have $$ a^n \\mod p $$ we can add or\u00a0subtract p-1\u00a0from n as many times as we please.*</p>\n<p></p>\n<p>Going back to $$ 3^{99} $$,\u00a0what happens when we subtract p-1\u00a0from the exponent? It will be helpful to recall that $$ a^{-b} = {a^{-1}}^b = ({a^b})^{-1} $$. In this specific case we&#39;ll go from needing 9 multiplications mod 103 to only 2 multiplications mod 103.</p>\n<p></p>\n<p>*(This is simply stating that $$ a^y \\equiv a^{y \\mod p-1} \\mod p $$, a direct result of Fermat&#39;s Little Theorem.)</p>", 
+          "anon": "no", 
+          "created": "2017-08-31T19:24:52Z", 
+          "uid": "isgwdf47kb42f", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>For\u00a0$$ y &lt; N-1 $$ I&#39;d say that whether or not Fermat&#39;s little theorem is useful depends on how expensive the fast modular exponentiation is for\u00a0$$ a^y \\mod N $$.</p>\n<p></p>\n<p>In your example, this could be computed with the fast modular exponentiation algorithm by starting with 3 and repeatedly squaring and multiplying\u00a0from the relevant\u00a0results of repeated squaring.</p>\n<p></p>\n<p>If fast modular exponentiation is too expensive we could also note that for a prime p, $$a^{p-1} \\equiv 1 \\mod p$$ we can multiply anything $$ \\mod p $$ by $$ a^{p-1} \\mod p $$ as many times as we like. It follows also that $$ a^{-(p-1)} \\equiv 1 \\mod p $$. So when we have $$ a^n \\mod p $$ we can add or\u00a0subtract p-1\u00a0from n as many times as we please.*</p>\n<p></p>\n<p>Going back to $$ 3^{99} $$,\u00a0what happens when we subtract p-1\u00a0from the exponent? It will be helpful to recall that $$ a^{-b} = {a^{-1}}^b = {a^b}^{-1} $$. In this specific case we&#39;ll go from needing 9 multiplications mod 103 to only 2 multiplications mod 103.</p>\n<p></p>\n<p>*(This is simply stating that $$ a^y \\equiv a^{y \\mod p-1} \\mod p $$, a direct result of Fermat&#39;s Little Theorem.)</p>", 
+          "anon": "no", 
+          "created": "2017-08-31T19:24:04Z", 
+          "uid": "isgwdf47kb42f", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>For\u00a0$$ y &lt; N-1 $$ I&#39;d say that whether or not Fermat&#39;s little theorem is useful depends on how expensive the fast modular exponentiation is for\u00a0$$ a^y \\mod N $$.</p>\n<p></p>\n<p>In your example, this could be computed with the fast modular exponentiation algorithm by starting with 3 and repeatedly squaring (i.e.\u00a0$$3^2 \\mod N, (3^2)^2 \\mod N, ((3^2)^2)^2 \\mod N \\ldots$$) and then noting that $$3^{99} = {3^2}^0 {3^2}^1{3^2}^5{3^2}^6$$ and multiplying\u00a0from the corresponding results of repeated squaring.</p>\n<p></p>\n<p>If fast modular exponentiation is too expensive we could also note that since\u00a0$$3^{102} \\equiv 1 \\mod 103$$ we can multiply anything $$ \\mod 103 $$ by $$ 3^{102} \\mod 103 $$ as many times as we like. It follows also that $$ 3^{-102} \\equiv 1 \\mod 103 $$. So when we have $$ a^n \\mod 103 $$ we can add or\u00a0subtract 102 from n as many times as we please.*</p>\n<p></p>\n<p>Going back to $$ 3^{99} $$,\u00a0what happens when we subtract 102 from the exponent? It will be helpful to recall that $$ a^{-b} = {a^{-1}}^b = {a^b}^{-1} $$.</p>\n<p></p>\n<p>*(This is simply stating that $$ a^y \\equiv a^{y \\mod 102} \\mod 103 $$, a direct result of Fermat&#39;s Little Theorem.)</p>", 
+          "anon": "no", 
+          "created": "2017-08-31T19:19:27Z", 
+          "uid": "isgwdf47kb42f", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>For\u00a0$$ y &lt; N-1 $$ I&#39;d say that whether or not Fermat&#39;s little theorem is useful depends on how expensive the fast modular exponentiation is for\u00a0$$ a^y \\mod N $$.</p>\n<p></p>\n<p>In your example, this could be computed with the fast modular exponentiation algorithm by starting with 3 and repeatedly squaring (i.e.\u00a0$$3^2 \\mod N, (3^2)^2 \\mod N, ((3^2)^2)^2 \\mod N \\ldots$$) and then noting that $$3^{99} = {3^2}^0 {3^2}^1{3^2}^5{3^2}^6$$ and multiplying\u00a0from the corresponding results of repeated squaring.</p>\n<p></p>\n<p>If fast modular exponentiation is too expensive we could also note that since\u00a0$$3^{102} \\equiv 1 \\mod 103$$ we can multiply anything $$ \\mod 103 $$ by $$ 3^{102} \\mod 103 $$ as many times as we like. It follows also that $$ 3^{-102} \\equiv 1 \\mod 103 $$. So when we have $$ a^n \\mod 103 $$ we can add or\u00a0subtract 102 from n as many times as we please.*</p>\n<p></p>\n<p>Going back to $$ 3^{99} $$,\u00a0what happens when we subtract 102 from the exponent? It will be helpful to recall that $$ a^{-b} = {a^{-1}}^b = {a^b}^{1} $$.</p>\n<p></p>\n<p>*(This is simply stating that $$ a^y \\equiv a^{y \\mod 102} \\mod 103 $$, a direct result of Fermat&#39;s Little Theorem.)</p>", 
+          "anon": "no", 
+          "created": "2017-08-31T19:18:52Z", 
+          "uid": "isgwdf47kb42f", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>For\u00a0$$ y &lt; N-1 $$ I&#39;d say that whether or not Fermat&#39;s little theorem is useful depends on how expensive the fast modular exponentiation is for\u00a0$$ a^y \\mod N $$.</p>\n<p></p>\n<p>In your example, this could be computed with the fast modular exponentiation algorithm by starting with 3 and repeatedly squaring (i.e.\u00a0$$3^2 \\mod N, (3^2)^2 \\mod N, ((3^2)^2)^2 \\mod N \\ldots$$) and then noting that $$3^{99} = {3^2}^0 {3^2}^1{3^2}^5{3^2}^6$$ and multiplying\u00a0from the corresponding results of repeated squaring.</p>\n<p></p>\n<p>If fast modular exponentiation is too expensive we could also note that since\u00a0$$3^{102} \\equiv 1 \\mod 103$$ we can multiply anything $$ \\mod 103 $$ by $$ 3^{102} \\mod 103 $$ as many times as we like. It follows also that $$ 3^{-102} \\equiv 1 \\mod 103 $$. So when we have $$ a^n \\mod 103 $$ we can add or\u00a0subtract 102 from n as many times as we please.*</p>\n<p></p>\n<p>Going back to $$ 3^{99} $$, if we subtract 102 from the exponent we get $$ 3^{-3} $$ which we can compute mod 103 by either finding the inverse of 3 and cubing it, or cubing 3 and finding the inverse (using the extended Euclidean algorithm to compute inverses). Note in this case, we go from 9 multiplications mod 103 [6 in the repeated squaring &#43;\u00a03\u00a0more to combine them] to only 2 multiplications mod 103 and the cost we add to the calculation is the cost of finding the inverse of either 3 or 3^3.</p>\n<p></p>\n<p>*(This is simply stating that $$ a^y \\equiv a^{y \\mod 102} \\mod 103 $$, a direct result of Fermat&#39;s Little Theorem.)</p>", 
+          "anon": "no", 
+          "created": "2017-08-31T19:14:48Z", 
+          "uid": "isgwdf47kb42f", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-01T20:02:34Z", 
+      "no_upvotes": 0, 
+      "uid": "gy4twfv45cg5o6", 
+      "created": "2017-09-01T20:02:34Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j72b39ctfzy18g", 
+      "anon": "no", 
+      "bucket_name": "Week 8/27 - 9/2", 
+      "config": {}, 
+      "bucket_order": 7, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p></p>\n<p>I don&#39;t know a good way to give you a hint without giving it away; Michael did better than I can for this one. \u00a0You might try some smaller examples to see if you notice something, maybe instead of 128 try a smaller power of 2.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-04T22:35:18Z", 
+      "no_upvotes": 0, 
+      "uid": "hve4k9bj2u4qu", 
+      "created": "2017-09-04T22:35:18Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j76qv8bxe7g2k4", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-04T23:17:09Z", 
+          "uid": "isgwdf47kb42f", 
+          "created": "2017-09-04T23:17:09Z", 
+          "type": "feedback", 
+          "id": "j76sd1l0wl81y2", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>In the specific case fast modular exponentiation requires 9 multiplications. Applying Fermat&#39;s little theorem makes it so we only need to do 2 multiplications. You will, however, need to compute an inverse.</p>\n<p></p>\n<p>In your follow up, you can either compute 2^5 using 3 multiplications with the fast modular exponentiation, or you can compute an inverse.</p>\n<p></p>\n<p>Also remember that\u00a0$$-a \\equiv N-a\\mod N$$.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-10T01:30:18Z", 
+          "uid": "hve4kbcvx7l4t3", 
+          "created": "2017-09-10T01:30:18Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j7e2bjaqi1d5x", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>In the example given in the Algorithms textbook (section 1.2.5 Pg 23) how do they go from -34.11 = 1 mod 25 to -34 = 16 mod 5 is the inverse of 11 mod 25. I am thinking it may have to do with converting negative remainders for e.g -8 mod 5 how do you convert -3 to a positive remainder?</p>\n<p>If someone can please provide some clarity that will be much appreciated. TIA.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-10T22:23:03Z", 
+          "uid": "hve4kbcvx7l4t3", 
+          "created": "2017-09-10T22:23:03Z", 
+          "type": "feedback", 
+          "id": "j7fb2lktwpq585", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Ok never mind. I figured out to convert a negative remainder to equivalent positive value you keep adding N. So for the example in the textbook it will be -34 &#43; 25 = -9. Again -9 &#43; 25 = 16. So the inverse of 11 mod 25 is 16.</p>"
+        }
+      ], 
+      "subject": "<p>Michael, when you say &#34;In this specific case we&#39;ll go from needing 9 multiplications mod 103 to only 2 multiplications mod 103.&#34; what do you mean? I&#39;m seeing your hint here and I&#39;m working through smaller sub problems. For instance: 2^5 mod 7 (answer 4) yields 2^-1 which is an inverse in mod 7. I was going down a path of egcd but that isn&#39;t necessarily a simpler solution to the problem at hand. I&#39;m seeing inverses of 2 to be things like -3 and 4 which are in the same class. Might be going down a rabbit hole here.</p>\n<p></p>"
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-04T23:23:39Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [
+        "ij832p58ncG"
+      ], 
+      "id": "j76slf1x9xb61g", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Greg", 
+          "admin": false, 
+          "photo": "1464416700_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "ij832p58ncG"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>Great, you know have an expression that&#39;s equivalent to $$1 \\mod 103$$.</p>\n<p></p>\n<p>Now:</p>\n<ul><li>Can you transform $$3^{102}$$ into $$3^{99}$$ somehow?</li><li>After you do, think about how the extended\u00a0Euclid&#39;s algorithm can help you. Why would you need this algorithm?</li></ul>\n<p></p>\n<p>That&#39;s pretty much all you need to solve this problem.</p>\n<p></p>\n<p>You can also do Fast Modular Exponentiation here.</p>\n<p></p>", 
+          "anon": "no", 
+          "created": "2017-09-04T23:23:39Z", 
+          "uid": "i4nkipeofrkrz", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 128, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw2"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 5, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw2", 
+    "no_history", 
+    "student"
+  ], 
+  "created": "2017-08-31T17:29:33Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145296881, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>Suppose I want to compute following: 3^99 mod 103</p>\n<p>By applying Fermat&#39;s Little Theorem \u00a0I found out that $$3^{102}\\equiv 1 mod 103$$\u00a0</p>\n<p>how can it help me to figure out 3^99 mod 103?</p>\n<p></p>\n<p>I only have the problem figuring it out when the exponent(y) is less than N-1...when I have y&gt;N then there is no problem no problem doing that....</p>", 
+      "anon": "no", 
+      "created": "2017-08-31T17:29:33Z", 
+      "uid": "i4m8xop4ndthr", 
+      "subject": "Multiplicative exp: Fermat&#39;s approach"
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "status": "active", 
+  "unique_views": 290, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-27T15:42:06Z", 
+      "data": "j8378fr9z8y2gd", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-27T15:50:19Z", 
+      "data": "j837j0fa43s16i", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j8378fr4yir2gc", 
+      "anon": "no", 
+      "when": "2017-09-27T15:52:02Z", 
+      "type": "followup", 
+      "uid": "idgk9rl6Wdv"
+    }, 
+    {
+      "to": "j8378fr4yir2gc", 
+      "anon": "no", 
+      "when": "2017-09-27T16:02:34Z", 
+      "type": "feedback", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j8378fr4yir2gc", 
+      "anon": "no", 
+      "when": "2017-09-27T16:15:56Z", 
+      "type": "feedback", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j8378fr4yir2gc", 
+      "anon": "stud", 
+      "when": "2017-10-02T22:54:35Z", 
+      "type": "followup"
+    }, 
+    {
+      "to": "j8378fr4yir2gc", 
+      "anon": "stud", 
+      "when": "2017-10-02T22:55:17Z", 
+      "type": "feedback"
+    }, 
+    {
+      "to": "j8378fr4yir2gc", 
+      "anon": "no", 
+      "when": "2017-10-02T23:03:11Z", 
+      "type": "feedback", 
+      "uid": "hklp7yk0n6o2j8"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-10T19:57:43Z", 
+      "data": "j8m1396uhie1r3", 
+      "uid": "gy4twfv45cg5o6"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8378fr4yir2gc", 
+  "bookmarked": 6, 
+  "tags": [
+    "instructor-note", 
+    "project"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-09-27T15:52:02Z", 
+      "no_upvotes": 0, 
+      "uid": "idgk9rl6Wdv", 
+      "created": "2017-09-27T15:52:02Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j837l7u5coz3gl", 
+      "anon": "no", 
+      "bucket_name": "Week 9/24 - 9/30", 
+      "config": {}, 
+      "bucket_order": 7, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-27T16:02:34Z", 
+          "uid": "gns9oa0pgsO", 
+          "created": "2017-09-27T16:02:34Z", 
+          "type": "feedback", 
+          "id": "j837yrk8zc55no", 
+          "anon": "no", 
+          "bucket_name": "Week 9/24 - 9/30", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>yeah, i&#39;m doing that presently.\u00a0 just a change to the instructions, hopefully i can re-announce it from there too to make sure everyone gets it.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-27T16:15:56Z", 
+          "uid": "gns9oa0pgsO", 
+          "created": "2017-09-27T16:15:56Z", 
+          "type": "feedback", 
+          "id": "j838fy4bn4m1ga", 
+          "anon": "no", 
+          "bucket_name": "Week 9/24 - 9/30", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>It has been updated, and a notification should have been sent out to everyone.\u00a0</p>"
+        }
+      ], 
+      "subject": "<p>Thanks! Is it possible you can update the resources for the project on T-square to reflect this change?</p>"
+    }
+  ], 
+  "nr": 457, 
+  "bucket_order": 2, 
+  "type": "note", 
+  "folders": [
+    "project"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 7, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-09-27T15:42:06Z", 
+  "is_tag_good": false, 
+  "config": {
+    "is_announcement": 1, 
+    "bypass_email": 1
+  }, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145212143, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "Hi Folks\n\nI realized I left something out of the directions for the plots for Task 3 - you should plot the experimental results you find, the theoretically derived optimal k value and its false positive rate, <strong>and the theoretical values for false positive rate across all k values.</strong>  The equation for this is in the notes for the bloom filter lecture.  The point here is that your plots should show the performance of your bloom filter matching fairly closely the results predicted by theory.\n\nSorry for the confusion", 
+      "anon": "no", 
+      "created": "2017-10-10T19:57:43Z", 
+      "uid": "gy4twfv45cg5o6", 
+      "subject": "Bloom Filter Project : Task 3 important clarification"
+    }, 
+    {
+      "content": "<p>Hi Folks</p>\n<p></p>\n<p>I realized I left something out of the directions for the plots for Task 3 - you should plot the experimental results you find, the theoretically derived optimal k value and its false positive rate, <strong>and the theoretical values for false positive rate across all k values.</strong>\u00a0 The equation for this is in the notes for the bloom filter lecture.\u00a0 The point here is that your plots should show the performance of your bloom filter matching fairly closely the results predicted by theory.</p>\n<p></p>\n<p>Sorry for the confusion\u00a0</p>\n<p>#pin</p>", 
+      "anon": "no", 
+      "created": "2017-09-27T15:50:19Z", 
+      "uid": "gns9oa0pgsO", 
+      "subject": "Bloom Filter Project : Task 3 important clarification"
+    }, 
+    {
+      "content": "<p>Hi Folks</p>\n<p></p>\n<p>I realized I left something out of the directions for the plots for Task 3 - you should plot the experimental results you find, the theoretically derived optimal k value and its false positive rate, <strong>and the theoretical values for false positive rate across all k values.</strong>\u00a0 The equation for this is in the notes for the bloom filter lecture.\u00a0 The point here is that your plots should show the performance of your bloom filter matching fairly closely the results predicted by theory.</p>\n<p></p>\n<p>Sorry for the confusion\u00a0</p>", 
+      "anon": "no", 
+      "created": "2017-09-27T15:42:06Z", 
+      "uid": "gns9oa0pgsO", 
+      "subject": "Bloom Filter Project : Task 3 important clarification"
+    }
+  ]
+}

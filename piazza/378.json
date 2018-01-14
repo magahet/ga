@@ -1,0 +1,147 @@
+{
+  "status": "active", 
+  "unique_views": 184, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-21T19:13:03Z", 
+      "data": "j7uu4m2ureanp", 
+      "uid": "hviwm6agQCk"
+    }, 
+    {
+      "uid": "hvil6y6khgk2ri", 
+      "type": "s_answer", 
+      "when": "2017-09-21T19:13:36Z", 
+      "to": "j7uu4m2tctono", 
+      "anon": "no", 
+      "data": "j7uu5c4znxi69y"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-09-21T19:14:11Z", 
+      "data": "j7uu62yiwds78g", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-09-21T19:14:46Z", 
+      "data": "j7uu6tp15kk7b", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-09-21T19:26:10Z", 
+      "data": "j7uulh8xefpn7", 
+      "uid": "hvil6y6khgk2ri"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j7uu4m2tctono", 
+  "bookmarked": 3, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-21T19:13:36Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [
+        "hviwm6agQCk"
+      ], 
+      "id": "j7uu5c4xx9569x", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Jaya Rao", 
+          "admin": false, 
+          "photo": "1503185676_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hviwm6agQCk"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>60 &#43; -17 = 43, meaning they are in the same equivalence class (and non-negative numbers are prettier).</p>\n<p></p>\n<p>(And, consequently, (p-1)*(q-1) = 60 in this case)</p>", 
+          "anon": "no", 
+          "created": "2017-09-21T19:26:10Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>60 &#43; -17 = 43, meaning they are in the same equivalence class (and non-negative numbers are prettier).</p>", 
+          "anon": "no", 
+          "created": "2017-09-21T19:14:46Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>60 &#43; -17 = 43, meaning they are in the same equivalence class.</p>", 
+          "anon": "no", 
+          "created": "2017-09-21T19:14:11Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>60 &#43; -17 = 43</p>", 
+          "anon": "no", 
+          "created": "2017-09-21T19:13:36Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 378, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw2", 
+    "hw_solutions2"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw2", 
+    "hw_solutions2", 
+    "student"
+  ], 
+  "created": "2017-09-21T19:13:03Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145223399, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>I noticed the answer to the third hw problem was 43, but I put -17 and still got it right. I can&#39;t see how you got 43 as a solution because the hw solution doesn&#39;t show work. Is the answer either -17 or 43, and how did you calculate 43? If I follow the lecture example I get -17.</p>", 
+      "anon": "no", 
+      "created": "2017-09-21T19:13:03Z", 
+      "uid": "hviwm6agQCk", 
+      "subject": "Extended Euclid Negative"
+    }
+  ]
+}

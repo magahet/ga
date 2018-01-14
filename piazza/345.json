@@ -1,0 +1,139 @@
+{
+  "status": "active", 
+  "unique_views": 193, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-18T23:26:08Z", 
+      "data": "j7qsuj5d11a7gk", 
+      "uid": "idgjs16yZ4K"
+    }, 
+    {
+      "uid": "idgjs16yZ4K", 
+      "type": "s_answer", 
+      "when": "2017-09-19T00:17:47Z", 
+      "to": "j7qsuj5cpi7gj", 
+      "anon": "no", 
+      "data": "j7quoyayp264cp"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-19T00:20:08Z", 
+      "data": "j7qurzdh4u06cz", 
+      "uid": "idgjs16yZ4K"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j7qsuj5cpi7gj", 
+  "bookmarked": 2, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-19T00:17:47Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j7quoyaut5h4co", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "Looks like they were just added... thank you all!!!", 
+          "anon": "no", 
+          "created": "2017-09-19T00:17:47Z", 
+          "uid": "idgjs16yZ4K", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 345, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw3", 
+    "hw_solutions3"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 0, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw3", 
+    "hw_solutions3", 
+    "student"
+  ], 
+  "created": "2017-09-18T23:26:08Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145234693, 
+  "tag_good": [
+    {
+      "name": "Jesse Peinado", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "iddoy2bdneb2tv"
+    }, 
+    {
+      "name": "Eddie Spencer", 
+      "admin": false, 
+      "photo": "1432002672_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4j6x8uvfv6743"
+    }, 
+    {
+      "name": "Conor Cahill", 
+      "admin": false, 
+      "photo": "1420377819_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4gzn4buf4Q"
+    }
+  ], 
+  "tag_good_arr": [
+    "iddoy2bdneb2tv", 
+    "i4j6x8uvfv6743", 
+    "i4gzn4buf4Q"
+  ], 
+  "history": [
+    {
+      "content": "Just curious if we might get solutions for  HW3 prior to the exam. I would really like to see how off I am and by that hopefully focus in on the areas where my understanding is weak.\n\nI missed the HW3 deadline due to an issue at work. (I had the hard copy done except for problem 1, but got pulled into an urgent work issue and missed the upload deadline by 15 minutes. Ah well.)\n\nI would really like to validate my understanding of these problems if that is possible.", 
+      "anon": "no", 
+      "created": "2017-09-19T00:20:08Z", 
+      "uid": "idgjs16yZ4K", 
+      "subject": "HW3 solutions"
+    }, 
+    {
+      "content": "Just curious if we might get solutions for  HW3 prior to the exam. I would really like to see how off I am and by that hopefully focus in on the areas where my understanding is weak.\n\nI missed the HW3 deadline due to an issue at work. (I had the hard copy done except for problem 1, but got pulled into an urgent work issue and missed the upload deadline by 15 minutes. Ah well.)\n\nI would really like to validate my understanding of these problems if that is possible.", 
+      "anon": "no", 
+      "created": "2017-09-18T23:26:08Z", 
+      "uid": "idgjs16yZ4K", 
+      "subject": "Homework solutions"
+    }
+  ]
+}

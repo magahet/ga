@@ -1,0 +1,91 @@
+{
+  "status": "active", 
+  "unique_views": 217, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-27T16:13:29Z", 
+      "data": "j838ct20oc477e", 
+      "uid": "hvfeyx7qglF"
+    }, 
+    {
+      "uid": "gns9oa0pgsO", 
+      "type": "i_answer", 
+      "when": "2017-09-27T16:24:24Z", 
+      "to": "j838ct1yiaw77c", 
+      "anon": "no", 
+      "data": "j838quqf9o6bh"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j838ct1yiaw77c", 
+  "bookmarked": 4, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-27T16:24:24Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j838quq9j03bg", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>1.\u00a0 That&#39;s fine - remember, you are not making a full table for task 1, you are only implementing you hash function, and monitoring the results as it hashes data points.</p>\n<p></p>\n<p>2.\u00a0You could build a dictionary using the hash results as keys and the value can be the # of items hashed to that result.\u00a0 every time you add an item to the dictionary, check first if it is there, and if so increment its count, otherwise add it and set its count (its value) to 1.</p>\n<p></p>\n<p>3. The &#34;type1&#34; files are intended to test that your bloom filter is working correctly for type 1 hash functions - that&#39;s task 2.\u00a0</p>", 
+          "anon": "no", 
+          "created": "2017-09-27T16:24:24Z", 
+          "uid": "gns9oa0pgsO", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 458, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "project"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 8, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "project", 
+    "student"
+  ], 
+  "created": "2017-09-27T16:13:29Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145211686, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>I&#39;m trying to figure out how to approach the project and I&#39;ve got several questions about it. Hopefully I&#39;m not asking too much here in a single post.</p>\n<p></p>\n<p>1. n is provided for task 2.\u00a0 Is it OK to use the same n for task 1? The instructions only say n &lt;&lt; N. So If we can&#39;t use the same n, how should n be determined?\u00a0\u00a0</p>\n<p></p>\n<p>2. For task 1, the instructions state we can analyze the max/min load.\u00a0 If this is the case, then I&#39;m wondering what data structure should be used for the hash table.\u00a0 I don&#39;t know how I could analyze the load if a simple bitarray is used since the bits are just flipped from 0 to 1 and then just stay at 1 in the event of a collision.\u00a0 In order to be able to analyze the max load should I use the chain hashing and be a list of lists or would a list of numbers that get incremented when there is a collision be sufficient?</p>\n<p></p>\n<p>3. I&#39;ve read on the forums that it&#39;s OK to use one hash function for task 1.\u00a0 However, I&#39;ve also read that we can use the\u00a0&#34;type1&#34; related files to test that our function is working correctly for task 1, but the k in that file is set to 13.\u00a0 So do we need to use all of the data from the config file when testing for valid results and then make a new custom config file with k\u00a0 = 1 when trying to get the data for the plots?</p>", 
+      "anon": "no", 
+      "created": "2017-09-27T16:13:29Z", 
+      "uid": "hvfeyx7qglF", 
+      "subject": "Project Questions"
+    }
+  ]
+}

@@ -1,0 +1,619 @@
+{
+  "status": "active", 
+  "unique_views": 225, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-13T21:38:15Z", 
+      "data": "j8qf03itsb754y", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-13T21:38:41Z", 
+      "data": "j8qf0ng5zn35q8", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-13T22:01:36Z", 
+      "data": "j8qfu4fnvh8284", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "uid": "i4ogin8rDC4", 
+      "type": "s_answer", 
+      "when": "2017-10-14T04:17:46Z", 
+      "to": "j8qf03is5po54x", 
+      "anon": "no", 
+      "data": "j8qt9vbawe3739"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-10-14T04:18:04Z", 
+      "data": "j8qta9f6q4w78t", 
+      "uid": "i4ogin8rDC4"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-10-14T04:18:40Z", 
+      "data": "j8qtb0pcbuu7jt", 
+      "uid": "i4ogin8rDC4"
+    }, 
+    {
+      "to": "j8qf03is5po54x", 
+      "anon": "no", 
+      "when": "2017-10-14T04:19:45Z", 
+      "type": "followup", 
+      "uid": "i4ogin8rDC4"
+    }, 
+    {
+      "to": "j8qf03is5po54x", 
+      "anon": "no", 
+      "when": "2017-10-14T06:05:36Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j8qf03is5po54x", 
+      "anon": "no", 
+      "when": "2017-10-14T14:52:44Z", 
+      "type": "feedback", 
+      "uid": "i4ogin8rDC4"
+    }, 
+    {
+      "to": "j8qf03is5po54x", 
+      "anon": "no", 
+      "when": "2017-10-14T21:42:33Z", 
+      "type": "followup", 
+      "uid": "idgjs16yZ4K"
+    }, 
+    {
+      "to": "j8qf03is5po54x", 
+      "anon": "no", 
+      "when": "2017-10-14T22:41:01Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j8qf03is5po54x", 
+      "anon": "no", 
+      "when": "2017-10-15T13:57:13Z", 
+      "type": "feedback", 
+      "uid": "idgjs16yZ4K"
+    }, 
+    {
+      "to": "j8qf03is5po54x", 
+      "anon": "no", 
+      "when": "2017-10-16T04:51:11Z", 
+      "type": "followup", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j8qf03is5po54x", 
+      "anon": "no", 
+      "when": "2017-10-16T06:51:14Z", 
+      "type": "followup", 
+      "uid": "hz6fs7qs6ps161"
+    }, 
+    {
+      "to": "j8qf03is5po54x", 
+      "anon": "no", 
+      "when": "2017-10-16T08:50:57Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j8qf03is5po54x", 
+      "anon": "no", 
+      "when": "2017-10-16T10:35:18Z", 
+      "type": "feedback", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "to": "j8qf03is5po54x", 
+      "anon": "no", 
+      "when": "2017-10-16T11:30:28Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j8qf03is5po54x", 
+      "anon": "no", 
+      "when": "2017-10-16T13:26:30Z", 
+      "type": "feedback", 
+      "uid": "i4m49pmqc4h14p"
+    }, 
+    {
+      "to": "j8qf03is5po54x", 
+      "anon": "no", 
+      "when": "2017-10-17T08:17:57Z", 
+      "type": "feedback", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-25T11:37:33Z", 
+      "data": "j96ytsp18es3t", 
+      "uid": "hvil6y6khgk2ri"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8qf03is5po54x", 
+  "bookmarked": 10, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-14T04:17:46Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [
+        "is6gi1lcscq4yp"
+      ], 
+      "id": "j8qt9vb7in9738", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Nate Craun", 
+          "admin": false, 
+          "photo": "1471974882_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "is6gi1lcscq4yp"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>I was going to say &#34;see &#64;438&#34; but then realized you are the author of that post. Whoops. FWIW this looks correct to me.</p>", 
+          "anon": "no", 
+          "created": "2017-10-14T04:18:40Z", 
+          "uid": "i4ogin8rDC4", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p></p>", 
+          "anon": "no", 
+          "created": "2017-10-14T04:18:04Z", 
+          "uid": "i4ogin8rDC4", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>See &#64;438</p>", 
+          "anon": "no", 
+          "created": "2017-10-14T04:17:46Z", 
+          "uid": "i4ogin8rDC4", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-14T04:19:45Z", 
+      "no_upvotes": 0, 
+      "uid": "i4ogin8rDC4", 
+      "created": "2017-10-14T04:19:45Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8qtcexf4aff1", 
+      "anon": "no", 
+      "bucket_name": "Week 10/8 - 10/14", 
+      "config": {}, 
+      "bucket_order": 7, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-14T06:05:36Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-10-14T06:05:36Z", 
+          "type": "feedback", 
+          "id": "j8qx4jmhe2j5wq", 
+          "anon": "no", 
+          "bucket_name": "Week 10/8 - 10/14", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Ha np.\n\nYeah i made that post too but i didn&#39;t include both weeks in the old post; also I listed the sections by name here as well as the omitted sections. I am hoping this way (listing the section names) it makes it easier for an authority to quickly look at it and say &#34;yeah&#34; or &#34;nah&#34;."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-14T14:52:44Z", 
+          "uid": "i4ogin8rDC4", 
+          "created": "2017-10-14T14:52:44Z", 
+          "type": "feedback", 
+          "id": "j8rfyfy1rs91hf", 
+          "anon": "no", 
+          "bucket_name": "Week 10/8 - 10/14", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Much appreciated!</p>"
+        }
+      ], 
+      "subject": "<p>Unable to delete\u00a0my worthless\u00a0student answer, sorry about that.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-14T21:42:33Z", 
+      "no_upvotes": 0, 
+      "uid": "idgjs16yZ4K", 
+      "created": "2017-10-14T21:42:33Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8rulh9kc115eo", 
+      "anon": "no", 
+      "bucket_name": "Week 10/8 - 10/14", 
+      "config": {}, 
+      "bucket_order": 7, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-14T22:41:01Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-10-14T22:41:01Z", 
+          "type": "feedback", 
+          "id": "j8rwonxz94s3y2", 
+          "anon": "no", 
+          "bucket_name": "Week 10/8 - 10/14", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Its not officially, BUT its listed as the source of some of the HW problems from last week; so, by proxy, we had to read it (possibly; it may be possible to rely mostly on the lecture too).</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-15T13:57:13Z", 
+          "uid": "idgjs16yZ4K", 
+          "created": "2017-10-15T13:57:13Z", 
+          "type": "feedback", 
+          "id": "j8stew1swtz5rp", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Gotcha. I see the topics and I agree that we needed to know that stuff. I just couldn&#39;t find it in the reading list. Thanks for putting this together."
+        }
+      ], 
+      "subject": "I don&#39;t see any references to DPV chapter 4 in the lecture schedule. \n\nhttps://8803ga.wordpress.com/lecture-schedule/"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-16T04:51:11Z", 
+      "no_upvotes": 0, 
+      "uid": "i4ket0u1z5q31a", 
+      "created": "2017-10-16T04:51:11Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8tpck23qr93ti", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-16T10:35:18Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-10-16T10:35:18Z", 
+          "type": "feedback", 
+          "id": "j8u1n35lma42c1", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "I agree; DPV 4.6 esp Bellman-Ford pp118-119"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-16T11:30:28Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-10-16T11:30:28Z", 
+          "type": "feedback", 
+          "id": "j8u3m0zci882nz", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Uh oh, I only vaguely remember that from gr4. We aren&#39;t being tested on that right?"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-16T13:26:30Z", 
+          "uid": "i4m49pmqc4h14p", 
+          "created": "2017-10-16T13:26:30Z", 
+          "type": "feedback", 
+          "id": "j8u7r9cjp6r10x", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Good qt. Tagging on to this</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-17T08:17:57Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-10-17T08:17:57Z", 
+          "type": "feedback", 
+          "id": "j8vc6aplj6m2qq", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "I think the videos are DP Shortest Paths, that we should already have understood, so some reference to it may be included; the fact that it is in the relevant book chapter should be an indication it&#39;s the kind of DP topic we need to remember for the impending test.\n<pre>resources/subtitles $ grep -irn &#34;bellman&#34; .\n./73 - All Pairs Shortest Path: Base Case - lang_en_vs1.srt:43:think back to the Bellman-Ford algorithm for the single source problem.\n./70 - What is the running time for n runs of Bellman-Ford? - lang_en_vs1.srt:7:So what was the running time of the Bellman-Ford algorithm?\n./70 - What is the running time for n runs of Bellman-Ford? - lang_en_vs1.srt:11:And now if we run Bellman-Ford algorithm N times,\n./71 - What is the running time for n runs of Bellman-Ford? Solution - lang_en_vs1.srt:3:For Bellman-Ford, first off,\n./71 - What is the running time for n runs of Bellman-Ford? Solution - lang_en_vs1.srt:19:Bellman-Ford, is not important.\n./71 - What is the running time for n runs of Bellman-Ford? Solution - lang_en_vs1.srt:151:which one is Bellman-Ford, which one is Floyd-Warshall,\n./67 - Single Source Shortest Paths: DP Pseudocode  - lang_en_vs1.srt:15:This algorithm is called the Bellman-Ford algorithm.\n./67 - Single Source Shortest Paths: DP Pseudocode  - lang_en_vs1.srt:35:It was devised by Richard Bellman and Lester Ford.\n./67 - Single Source Shortest Paths: DP Pseudocode  - lang_en_vs1.srt:43:Richard Bellman who devised this algorithm,\n./74 - All Pairs Shortest Path: Base Case Solution - lang_en_vs1.srt:3:As in the Bellman-Ford algorithm,\n./72 - All Pairs Shortest Path: Subproblem Definition - lang_en_vs1.srt:11:First, let&#39;s go back and look at the Bellman-Ford algorithm.\n./69 - All Pairs Shortest Path - lang_en_vs1.srt:11:So what we did before with Bellman-Ford was we had\n./69 - All Pairs Shortest Path - lang_en_vs1.srt:87:Now last lecture we saw Bellman-Ford algorithm,\n./69 - All Pairs Shortest Path - lang_en_vs1.srt:103:Bellman-Ford algorithm which has\n./69 - All Pairs Shortest Path - lang_en_vs1.srt:111:So we run Bellman-Ford-\n./85 - Detecting Whether a Graph Contains a Negative Weight Cycle  - lang_en_vs1.srt:243:We also have the Bellman-Ford algorithm,\n./68 - Single Source Shortest Paths: Finding Negative Weight Cycles - lang_en_vs1.srt:23:Bellman Ford algorithm that we just defined on this example?\n./68 - Single Source Shortest Paths: Finding Negative Weight Cycles - lang_en_vs1.srt:27:Let&#39;s look at the Bellman Ford algorithm on this example.\n./68 - Single Source Shortest Paths: Finding Negative Weight Cycles - lang_en_vs1.srt:351:our Bellman Ford algorithm,\n./68 - Single Source Shortest Paths: Finding Negative Weight Cycles - lang_en_vs1.srt:383:So that completes the dynamic programming algorithm known as Bellman Ford for finding\n./86 - Comparing Algorithms for Detecting a Negative Weight Cycle - lang_en_vs1.srt:23:First algorithm is Bellman-Ford.\n./86 - Comparing Algorithms for Detecting a Negative Weight Cycle - lang_en_vs1.srt:35:Bellman-Ford does single source shortest path.\n./86 - Comparing Algorithms for Detecting a Negative Weight Cycle - lang_en_vs1.srt:51:suppose we run Bellman-Ford with\n./86 - Comparing Algorithms for Detecting a Negative Weight Cycle - lang_en_vs1.srt:71:So Bellman-Ford only finds negative weight cycles reachable from the start vertex.\n./86 - Comparing Algorithms for Detecting a Negative Weight Cycle - lang_en_vs1.srt:83:If we had run Bellman-Ford from a or b or c or even e,\n./86 - Comparing Algorithms for Detecting a Negative Weight Cycle - lang_en_vs1.srt:91:So Bellman-Ford finds negative weight cycles which are reachable from the start vertex,</pre>"
+        }
+      ], 
+      "subject": "<p>I recall the lectures having something about shortest paths with negative numbers...</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-16T06:51:14Z", 
+      "no_upvotes": 0, 
+      "uid": "hz6fs7qs6ps161", 
+      "created": "2017-10-16T06:51:14Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8ttmxekw1r7nw", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-16T08:50:57Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-10-16T08:50:57Z", 
+          "type": "feedback", 
+          "id": "j8txww42gy0411", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "No, that&#39;s next exam"
+        }
+      ], 
+      "subject": "<p>Are Linear Programming part of Exam 2?</p>"
+    }
+  ], 
+  "nr": 712, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "exam"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 21, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "exam", 
+    "student"
+  ], 
+  "created": "2017-10-13T21:38:15Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145151172, 
+  "tag_good": [
+    {
+      "name": "Eddie Spencer", 
+      "admin": false, 
+      "photo": "1432002672_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4j6x8uvfv6743"
+    }, 
+    {
+      "name": "Josh Clum", 
+      "admin": false, 
+      "photo": "1431566311_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hve4k9bj2u4qu"
+    }, 
+    {
+      "name": "Balaji Sundaresan", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hz03lfq2z6r446"
+    }, 
+    {
+      "name": "Chris Anderson", 
+      "admin": false, 
+      "photo": "1408759905_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hz07uekkjnrpb"
+    }, 
+    {
+      "name": "Ed Pimentel", 
+      "admin": false, 
+      "photo": "1421987771_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hyv35odtttv79h"
+    }, 
+    {
+      "name": "Derek Thayer", 
+      "admin": false, 
+      "photo": "1434138801_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4iufvhm2nj4s1"
+    }, 
+    {
+      "name": "Bhavani Subramanian", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "ijawb89brbO"
+    }, 
+    {
+      "name": "Karan Suraj", 
+      "admin": false, 
+      "photo": "1473688850_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hl3n6qayshy5b4"
+    }, 
+    {
+      "name": "Daniel Morris", 
+      "admin": false, 
+      "photo": "1471813923_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "is52ojuybmv5er"
+    }, 
+    {
+      "name": "Piyush Makhija", 
+      "admin": false, 
+      "photo": "1471808861_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "iddtex53uvo4xe"
+    }, 
+    {
+      "name": "Nate Craun", 
+      "admin": false, 
+      "photo": "1471974882_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "is6gi1lcscq4yp"
+    }, 
+    {
+      "name": "Nelson Cheng", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4kxfs7hlxngu"
+    }
+  ], 
+  "tag_good_arr": [
+    "i4j6x8uvfv6743", 
+    "hve4k9bj2u4qu", 
+    "hz03lfq2z6r446", 
+    "hz07uekkjnrpb", 
+    "hyv35odtttv79h", 
+    "i4iufvhm2nj4s1", 
+    "ijawb89brbO", 
+    "hl3n6qayshy5b4", 
+    "is52ojuybmv5er", 
+    "iddtex53uvo4xe", 
+    "is6gi1lcscq4yp", 
+    "i4kxfs7hlxngu"
+  ], 
+  "history": [
+    {
+      "content": "<p>Hi All,</p>\n<p></p>\n<p>I am trying to put together a reading list for exam 2, but am a bit confused as to the relevant subsections in the chapters.\u00a0 These are the ones I know of - are there more?</p>\n<p></p>\n<p><strong>ch3: All sections</strong></p>\n<p><br /><strong>ch4: Paths in Graphs</strong></p>\n<p><strong>4.1 Distances</strong></p>\n<p><strong>4.2 Breadth-First Search</strong></p>\n<p><strong>4.3 Lengths on Edges</strong></p>\n<p><strong>4.4 Dijkstra&#39;s Algorithm</strong></p>\n<p><strong>4.5 Priority Queue Implementations</strong></p>\n<p><strong>4.7 Shortest Path in Dags</strong></p>\n<p></p>\n<p><strong>ch5: Greedy Algorithms</strong></p>\n<p><strong>5.1 Minimum Spanning Trees</strong></p>\n<p></p>\n<p><strong>ch7: Linear Programming and Reductions</strong></p>\n<p><strong>7.2: Flows In Networks</strong></p>\n<p></p>\n<p>The above is what I believe we need to have read; below are the subsections in the chapters I think we do not have to read:</p>\n<p></p>\n<p><span style=\"text-decoration:line-through\">ch4:</span></p>\n<p><span style=\"text-decoration:line-through\">4.6 Shortest Paths In the Presence of Negative Numbers</span></p>\n<p></p>\n<p><span style=\"text-decoration:line-through\">ch5:</span></p>\n<p><span style=\"text-decoration:line-through\">5.2 Huffman Encoding</span></p>\n<p><span style=\"text-decoration:line-through\">5.3 Horn Formulas</span></p>\n<p><span style=\"text-decoration:line-through\">5.4 Set Cover</span></p>\n<p></p>\n<p><span style=\"text-decoration:line-through\">ch7:</span></p>\n<p><span style=\"text-decoration:line-through\">7.1 An Introduction To Linear Programming</span></p>\n<p><span style=\"text-decoration:line-through\">7.3 Bipartite Matching</span></p>\n<p><span style=\"text-decoration:line-through\">7.4 Duality</span></p>\n<p><span style=\"text-decoration:line-through\">7.5 Zero-Sum Games</span></p>\n<p><span style=\"text-decoration:line-through\">7.6 The Simplex Algorithm</span></p>\n<p><span style=\"text-decoration:line-through\">7.7 Postscript: Circuit Evaluation</span></p>\n<p></p>\n<p>Am I correct?</p>\n<p></p>\n<p>Thanks,</p>\n<p>Brent</p>", 
+      "anon": "no", 
+      "created": "2017-10-25T11:37:33Z", 
+      "uid": "hvil6y6khgk2ri", 
+      "subject": "Readings For Exam 2"
+    }, 
+    {
+      "content": "<p>Hi All,</p>\n<p></p>\n<p>I am trying to put together a reading list for exam 2, but am a bit confused as to the relevant subsections in the chapters.\u00a0 These are the ones I know of - are there more?</p>\n<p></p>\n<p><strong>ch3: All sections</strong></p>\n<p><br /><strong>ch4: Paths in Graphs</strong></p>\n<p><strong>4.1 Distances</strong></p>\n<p><strong>4.2 Breadth-First Search</strong></p>\n<p><strong>4.3 Lengths on Edges</strong></p>\n<p><strong>4.4 Dijkstra&#39;s Algorithm</strong></p>\n<p><strong>4.7 Shortest Path in Dags</strong></p>\n<p></p>\n<p><strong>ch5: Greedy Algorithms</strong></p>\n<p><strong>5.1 Minimum Spanning Trees</strong></p>\n<p></p>\n<p><strong>ch7: Linear Programming and Reductions</strong></p>\n<p><strong>7.2: Flows In Networks</strong></p>\n<p></p>\n<p>The above is what I believe we need to have read; below are the subsections in the chapters I think we do not have to read:</p>\n<p></p>\n<p><span style=\"text-decoration:line-through\">ch4:</span></p>\n<p><span style=\"text-decoration:line-through\">4.5 Priority Queue Implementations</span></p>\n<p><span style=\"text-decoration:line-through\">4.6 Shortest Paths In the Presence of Negative Numbers</span></p>\n<p></p>\n<p><span style=\"text-decoration:line-through\">ch5:</span></p>\n<p><span style=\"text-decoration:line-through\">5.2 Huffman Encoding</span></p>\n<p><span style=\"text-decoration:line-through\">5.3 Horn Formulas</span></p>\n<p><span style=\"text-decoration:line-through\">5.4 Set Cover</span></p>\n<p></p>\n<p><span style=\"text-decoration:line-through\">ch7:</span></p>\n<p><span style=\"text-decoration:line-through\">7.1 An Introduction To Linear Programming</span></p>\n<p><span style=\"text-decoration:line-through\">7.3 Bipartite Matching</span></p>\n<p><span style=\"text-decoration:line-through\">7.4 Duality</span></p>\n<p><span style=\"text-decoration:line-through\">7.5 Zero-Sum Games</span></p>\n<p><span style=\"text-decoration:line-through\">7.6 The Simplex Algorithm</span></p>\n<p><span style=\"text-decoration:line-through\">7.7 Postscript: Circuit Evaluation</span></p>\n<p></p>\n<p>Am I correct?</p>\n<p></p>\n<p>Thanks,</p>\n<p>Brent</p>", 
+      "anon": "no", 
+      "created": "2017-10-13T22:01:36Z", 
+      "uid": "hvil6y6khgk2ri", 
+      "subject": "Readings For Exam 2"
+    }, 
+    {
+      "content": "<p>Hi All,</p>\n<p></p>\n<p>I am trying to put together a reading list for exam 2, but am a bit confused as to the relevant subsections in the chapter.\u00a0 These are the ones I know of - are there more?</p>\n<p></p>\n<p><strong>ch3: All sections</strong></p>\n<p><br /><strong>ch4: Paths in Graphs</strong></p>\n<p><strong>4.1 Distances</strong></p>\n<p><strong>4.2 Breadth-First Search</strong></p>\n<p><strong>4.3 Lengths on Edges</strong></p>\n<p><strong>4.4 Dijkstra&#39;s Algorithm</strong></p>\n<p><strong>4.7 Shortest Path in Dags</strong></p>\n<p></p>\n<p><strong>ch5: Greedy Algorithms</strong></p>\n<p><strong>5.1 Minimum Spanning Trees</strong></p>\n<p></p>\n<p><strong>ch7: Linear Programming and Reductions</strong></p>\n<p><strong>7.2: Flows In Networks</strong></p>\n<p></p>\n<p>The above is what I believe we need to have read; below are the chapters I think we do not have to read:</p>\n<p></p>\n<p><span style=\"text-decoration:line-through\">ch4:</span></p>\n<p><span style=\"text-decoration:line-through\">4.5 Priority Queue Implementations</span></p>\n<p><span style=\"text-decoration:line-through\">4.6 Shortest Paths In the Presence of Negative Numbers</span></p>\n<p></p>\n<p><span style=\"text-decoration:line-through\">ch5:</span></p>\n<p><span style=\"text-decoration:line-through\">5.2 Huffman Encoding</span></p>\n<p><span style=\"text-decoration:line-through\">5.3 Horn Formulas</span></p>\n<p><span style=\"text-decoration:line-through\">5.4 Set Cover</span></p>\n<p></p>\n<p><span style=\"text-decoration:line-through\">ch7:</span></p>\n<p><span style=\"text-decoration:line-through\">7.1 An Introduction To Linear Programming</span></p>\n<p><span style=\"text-decoration:line-through\">7.3 Bipartite Matching</span></p>\n<p><span style=\"text-decoration:line-through\">7.4 Duality</span></p>\n<p><span style=\"text-decoration:line-through\">7.5 Zero-Sum Games</span></p>\n<p><span style=\"text-decoration:line-through\">7.6 The Simplex Algorithm</span></p>\n<p><span style=\"text-decoration:line-through\">7.7 Postscript: Circuit Evaluation</span></p>\n<p></p>\n<p>Am I correct?</p>\n<p></p>\n<p>Thanks,</p>\n<p>Brent</p>", 
+      "anon": "no", 
+      "created": "2017-10-13T21:38:41Z", 
+      "uid": "hvil6y6khgk2ri", 
+      "subject": "Readings For Exam 2"
+    }, 
+    {
+      "content": "<p>Hi All,</p>\n<p></p>\n<p>I am trying to put together a reading list for exam 2, but am a bit confused as to the relevant subsections in the chapter.\u00a0 These are the ones I know of - are there more?</p>\n<p></p>\n<p><strong>ch3: All sections</strong></p>\n<p><br /><strong>ch4: Paths in Graphs</strong></p>\n<p><strong>4.1 Distances</strong></p>\n<p><strong>4.2 Breadth-First Search</strong></p>\n<p><strong>4.3 Lengths on Edges</strong></p>\n<p><strong>4.4 Dijkstra&#39;s Algorithm</strong></p>\n<p><strong>4.7 Shortest Path in Dags</strong></p>\n<p></p>\n<p><strong>ch5: Greedy Algorithms</strong></p>\n<p><strong>5.1 Minimum Spanning Trees</strong></p>\n<p></p>\n<p><strong>ch7: Linear Programming and Reductions</strong></p>\n<p><strong>7.2: Flows In Networks</strong></p>\n<p></p>\n<p>The above is what I believe we need to have read; below are the chapters I think we do not have to read:</p>\n<p></p>\n<p><span style=\"text-decoration:line-through\">ch4:</span></p>\n<p><span style=\"text-decoration:line-through\">4.5 Priority Queue Implementations</span></p>\n<p><span style=\"text-decoration:line-through\">4.6 Shortest Paths In the Presence of Negative Numbers</span></p>\n<p></p>\n<p><span style=\"text-decoration:line-through\">ch5:</span></p>\n<p><span style=\"text-decoration:line-through\">5.2 Huffman Encoding</span></p>\n<p><span style=\"text-decoration:line-through\">5.3 Horn Formulas</span></p>\n<p><span style=\"text-decoration:line-through\">5.4 Set Cover</span></p>\n<p></p>\n<p><span style=\"text-decoration:line-through\">ch7:</span></p>\n<p><span style=\"text-decoration:line-through\">7.1 An Introduction To Linear Programming</span></p>\n<p><span style=\"text-decoration:line-through\">7.3 Bipartite Matching</span></p>\n<p><span style=\"text-decoration:line-through\">7.4 Duality</span></p>\n<p><span style=\"text-decoration:line-through\">7.5 Zero-Sum Games</span></p>\n<p><span style=\"text-decoration:line-through\">7.6 The Simplex Algorithm</span></p>\n<p><span style=\"text-decoration:line-through\">7.7 Postscript: Circuit Evaluation</span></p>\n<p><span style=\"text-decoration:line-through\"></span></p>\n<p><span style=\"text-decoration:line-through\">Am I correct?</span></p>\n<p><span style=\"text-decoration:line-through\"></span></p>\n<p>Thanks,</p>\n<p>Brent</p>", 
+      "anon": "no", 
+      "created": "2017-10-13T21:38:15Z", 
+      "uid": "hvil6y6khgk2ri", 
+      "subject": "Readings For Exam 2"
+    }
+  ]
+}

@@ -1,0 +1,669 @@
+{
+  "status": "active", 
+  "unique_views": 202, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-02T21:07:59Z", 
+      "data": "j8ao2sa48tf73j", 
+      "uid": "iddoxdh5wry2oa"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-02T21:12:04Z", 
+      "data": "j8ao81fbthod5", 
+      "uid": "iddoxdh5wry2oa"
+    }, 
+    {
+      "uid": "gns9oa0pgsO", 
+      "type": "i_answer", 
+      "when": "2017-10-02T22:50:08Z", 
+      "to": "j8ao2sa19u473h", 
+      "anon": "no", 
+      "data": "j8arq62nvak4az"
+    }, 
+    {
+      "to": "j8ao2sa19u473h", 
+      "anon": "no", 
+      "when": "2017-10-03T00:50:24Z", 
+      "type": "followup", 
+      "uid": "i4jbu18kld03sy"
+    }, 
+    {
+      "to": "j8ao2sa19u473h", 
+      "anon": "no", 
+      "when": "2017-10-03T01:20:25Z", 
+      "type": "feedback", 
+      "uid": "grmp0ka9kb8"
+    }, 
+    {
+      "to": "j8ao2sa19u473h", 
+      "anon": "no", 
+      "when": "2017-10-03T03:33:29Z", 
+      "type": "followup", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j8ao2sa19u473h", 
+      "anon": "no", 
+      "when": "2017-10-03T06:34:47Z", 
+      "type": "followup", 
+      "uid": "iddoxdh5wry2oa"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-03T06:38:59Z", 
+      "data": "j8b8h3vap7r3q6", 
+      "uid": "iddoxdh5wry2oa"
+    }, 
+    {
+      "to": "j8ao2sa19u473h", 
+      "anon": "no", 
+      "when": "2017-10-03T09:46:57Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j8ao2sa19u473h", 
+      "anon": "no", 
+      "when": "2017-10-03T14:50:45Z", 
+      "type": "feedback", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j8ao2sa19u473h", 
+      "anon": "no", 
+      "when": "2017-10-03T14:52:46Z", 
+      "type": "feedback", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j8ao2sa19u473h", 
+      "anon": "no", 
+      "when": "2017-10-03T17:47:42Z", 
+      "type": "followup", 
+      "uid": "iddoxdh5wry2oa"
+    }, 
+    {
+      "to": "j8ao2sa19u473h", 
+      "anon": "no", 
+      "when": "2017-10-03T18:30:10Z", 
+      "type": "feedback", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j8ao2sa19u473h", 
+      "anon": "no", 
+      "when": "2017-10-03T18:37:02Z", 
+      "type": "feedback", 
+      "uid": "iddoxdh5wry2oa"
+    }, 
+    {
+      "to": "j8ao2sa19u473h", 
+      "anon": "no", 
+      "when": "2017-10-03T18:50:09Z", 
+      "type": "feedback", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j8ao2sa19u473h", 
+      "anon": "stud", 
+      "when": "2017-10-03T23:29:59Z", 
+      "type": "followup"
+    }, 
+    {
+      "to": "j8ao2sa19u473h", 
+      "anon": "no", 
+      "when": "2017-10-04T00:01:40Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j8ao2sa19u473h", 
+      "anon": "stud", 
+      "when": "2017-10-04T00:06:38Z", 
+      "type": "feedback"
+    }, 
+    {
+      "to": "j8ao2sa19u473h", 
+      "anon": "no", 
+      "when": "2017-10-04T00:09:16Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j8ao2sa19u473h", 
+      "anon": "no", 
+      "when": "2017-10-04T00:15:07Z", 
+      "type": "feedback", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j8ao2sa19u473h", 
+      "anon": "no", 
+      "when": "2017-10-04T02:37:29Z", 
+      "type": "feedback", 
+      "uid": "i4jbu18kld03sy"
+    }, 
+    {
+      "to": "j8ao2sa19u473h", 
+      "anon": "no", 
+      "when": "2017-10-04T03:19:37Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j8ao2sa19u473h", 
+      "anon": "no", 
+      "when": "2017-10-04T03:35:19Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j8ao2sa19u473h", 
+      "anon": "no", 
+      "when": "2017-10-04T06:32:01Z", 
+      "type": "feedback", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "to": "j8ao2sa19u473h", 
+      "anon": "no", 
+      "when": "2017-10-04T06:32:14Z", 
+      "type": "feedback", 
+      "uid": "iddoxdh5wry2oa"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8ao2sa19u473h", 
+  "bookmarked": 9, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-02T22:50:08Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "hyzyc8nwswo6z5"
+      ], 
+      "id": "j8arq62k8254ay", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Zack Gow", 
+          "admin": false, 
+          "photo": "1476241357_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hyzyc8nwswo6z5"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>1. yes we want only 1 of each of those, but you should pick them as proscribed in documentation.</p>\n<p></p>\n<p>2. yes.</p>", 
+          "anon": "no", 
+          "created": "2017-10-02T22:50:08Z", 
+          "uid": "gns9oa0pgsO", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-03T00:50:24Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "i4jbu18kld03sy", 
+      "created": "2017-10-03T00:50:24Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8aw0to5shap0", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-03T01:20:25Z", 
+          "uid": "grmp0ka9kb8", 
+          "created": "2017-10-03T01:20:25Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j8ax3fl2el04lj", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I think you&#39;re right, according to the given code, passing in -t 1 would result in the task1 code to run (not the testing of the bloom filter), unless of course you call the compareResults like task2 does.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-03T14:50:45Z", 
+          "uid": "gns9oa0pgsO", 
+          "created": "2017-10-03T14:50:45Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j8bq1iosa3a6f4", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>no.\u00a0 it only runs 1 task at a time, and it defaults to t=2, so if you run things with the command line as described in the documentation, it will automatically run task 2.\u00a0 this is the only task that you need to be sure executes within the template code as it will be the only code that is graded.</p>"
+        }
+      ], 
+      "subject": "<p>For question 2, will we get that message? Since the -t task flag is set to 1 I wouldn&#39;t think it would get to that part of the code. <br /><br />But just to make sure, if we <em>did</em> set the -t task flag to 2, that message would indicate that both Task 1 and 2 are working correctly?</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-03T03:33:29Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "hvil6y6khgk2ri", 
+      "created": "2017-10-03T03:33:29Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8b1uju6mlr5tc", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>FYI, running the given set of args in the project document (NOT what is above), you will get a message about the bloom filter performing as expected; you will ONLY get this once you have correctly implemented the bloom filter in task 2.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-03T06:34:47Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "iddoxdh5wry2oa", 
+      "created": "2017-10-03T06:34:47Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8b8bp5j9491bk", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-03T09:46:57Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-10-03T09:46:57Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j8bf6ubz3fe320", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "I am not sure i understand what you are asking,  but it is possible that r (s_i &#43; x_a) = r (s_ somethingElse &#43; x_b). Its also possible that the random you are generating after r (s_i &#43; x_a) and r (s_i &#43; x_b) selects the same number."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-03T14:52:46Z", 
+          "uid": "gns9oa0pgsO", 
+          "created": "2017-10-03T14:52:46Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j8bq44f446d7j0", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>yes, you will get 100% match if your bloom filter is implemented correctly, it is purely deterministic if you use the given config files and input data.\u00a0 that&#39;s the reason why they were given.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-04T02:37:29Z", 
+          "uid": "i4jbu18kld03sy", 
+          "created": "2017-10-04T02:37:29Z", 
+          "type": "feedback", 
+          "id": "j8cfadomr2u510", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "For both hash types?"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-04T03:19:37Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-10-04T03:19:37Z", 
+          "type": "feedback", 
+          "id": "j8cgskacoau1c1", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "For both hash types - sort of. The only problem is that for hash type 1, you have to make a choice about how to do something. If you choose to do it in the way that seems to me to be obvious, then you&#39;ll get a perfect match. But if you do it slightly differently, you probably won&#39;t get a perfect match."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-04T03:35:19Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-10-04T03:35:19Z", 
+          "type": "feedback", 
+          "id": "j8chcrsmgxz190", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "I made a mistake. So, I&#39;ll update my answer. Yes, they should match."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-04T06:32:01Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-10-04T06:32:01Z", 
+          "type": "feedback", 
+          "id": "j8cnnztpshp1nt", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "In principle<pre>$ python bloom.py -c testConfigHashType1.txt -v validResHashType1.txt</pre> should give the 100% match, as must <pre>$ python bloom.py</pre> although the type 1 test for task 2 is not necessary, as the rubric for task 2 says &#34;The files with \u201cType1.txt\u201d in their name can be used to test your Type 1 hash function implementation if you wish, but this will not be graded here.&#34;"
+        }
+      ], 
+      "subject": "<p>Yes, I still get a bunch of mismatches, and after think about this twice, I don&#39;t believe we can get 100% match.\u00a0</p>\n<p></p>\n<p>For the hashfunction type 1:\u00a0 h = r(s&#43;x) , since\u00a0s&#43;x is bigger than n and we need to hash them into the range of 0-n, there must be for a pair of x_a and x_b, which can get r(s&#43;x_a) == r(s&#43;x_b). This causes if we only hashed x_a and stored in our system, and then we check x_b, we can get false true.</p>\n<p></p>\n<p>Any instructor please confirm this?\u00a0</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-03T17:47:42Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "iddoxdh5wry2oa", 
+      "created": "2017-10-03T17:47:42Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8bwd2z1ava224", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-03T18:30:10Z", 
+          "uid": "gns9oa0pgsO", 
+          "created": "2017-10-03T18:30:10Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j8bxvop48fg41o", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p></p><div> \n <div>\n   This is for task 1 .\u00a0 There are no false positives in task 1 as there is no bloom filter yet.\u00a0 \n </div> \n <div> \n  <br /> \n </div> \n <div> \n </div> \n</div> \n<br /> \n<div>\n  ----- Reply message ----- \n</div>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-03T18:37:02Z", 
+          "uid": "iddoxdh5wry2oa", 
+          "created": "2017-10-03T18:37:02Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j8by4ivy1b87e3", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thanks! this post is also for task 1.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-03T18:50:09Z", 
+          "uid": "gns9oa0pgsO", 
+          "created": "2017-10-03T18:50:09Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j8byldx6hn649c", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p></p><div> \n <div> \n  <div>\n    The dictionary suggestion in the post you linked was an implementation detail to help folks keep track of how many collisions each hash function has experienced.\u00a0 This is necessary for the reporting for task 1. \n  </div> \n  <div> \n   <br /> \n  </div> \n  <div>\n    What is your question?\u00a0 \n  </div> \n  <div> \n   <br /> \n  </div> \n  <div> \n  </div> \n </div> \n</div> \n<br /> \n<div>\n  ----- Reply message ----- \n</div>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-04T06:32:14Z", 
+          "uid": "iddoxdh5wry2oa", 
+          "created": "2017-10-04T06:32:14Z", 
+          "type": "feedback", 
+          "id": "j8cno9vbvcn41h", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thanks, John!</p>\n<p>I already figured this out. Thanks for your time.</p>"
+        }
+      ], 
+      "subject": "<p>OK, looks like I found the explanation which I want in an old post, here is the link, &#64;458\u00a0</p>\n<p></p>\n<p>Still a little bit weird about how to handle the collision. &#34;Use a dictionary as the data structure to store hash, if collision, just increment the value by 1&#34;\u00a0 Actually I think this will cause false positive. But if this is only under the situation of using config files we are given, it is reasonable. Right?</p>\n<p></p>\n<p></p>\n<p></p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-03T23:29:59Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "created": "2017-10-03T23:29:59Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8c8l91zrfd6o7", 
+      "anon": "stud", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-04T00:01:40Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-10-04T00:01:40Z", 
+          "type": "feedback", 
+          "id": "j8c9q0ip5hx6lb", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "I think you need to omit &#34;-t 1&#34;. That option causes the Task 1 code to be executed. What you want is for the default, Task 2, to be executed."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-04T00:06:38Z", 
+          "created": "2017-10-04T00:06:38Z", 
+          "type": "feedback", 
+          "id": "j8c9wea130o68r", 
+          "anon": "stud", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>In my case, i just want to verify the two hash functions designed for Task1 were correct before proceed to the Task2.\u00a0</p>\n<p>So i was a bit confused what would be the right command to verify at least two hash function are correct or not.\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-04T00:09:16Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-10-04T00:09:16Z", 
+          "type": "feedback", 
+          "id": "j8c9zsbu9gs68l", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>you will not get that output for task 1, I believe.<br /><br />In reality, you are required to move on to task 2, finish the bloom filter, test it to see if it works, then go back to task 1 and finish up the finer points of the report.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-04T00:15:07Z", 
+          "uid": "gns9oa0pgsO", 
+          "created": "2017-10-04T00:15:07Z", 
+          "type": "feedback", 
+          "id": "j8ca7b2vomp2hg", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p></p><div> \n <div>\n   That is only for task 2.\u00a0\u00a0 \n </div> \n <div> \n  <br /> \n </div> \n <div> \n </div> \n</div> \n<br /> \n<div>\n  ----- Reply message ----- \n</div>"
+        }
+      ], 
+      "subject": "<p>As mentioned in the Q2, for the debugging process of the Task 1.\u00a0</p>\n<p>After I run the\u00a0&#34;python bloom.py -t 1 -c testConfigHashType1.txt -i testInput.txt -o testOutput.txt -v validResHashType1.txt&#34;, would there a file named testOutput.txt be automatic generated? </p>\n<p>Somehow, after I run the command above, there is no such file testOutput.txt.. \u00a0</p>"
+    }
+  ], 
+  "nr": 542, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "project"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 5, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "project", 
+    "student"
+  ], 
+  "created": "2017-10-02T21:07:59Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145192962, 
+  "tag_good": [
+    {
+      "name": "Zachary Gow", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "", 
+      "facebook_id": null, 
+      "id": "io8sblee7kl5wc"
+    }
+  ], 
+  "tag_good_arr": [
+    "io8sblee7kl5wc"
+  ], 
+  "history": [
+    {
+      "content": "<p>Just start this project, have read some posts, still feel confused.</p>\n<p></p>\n<p>I am using the template.</p>\n<p></p>\n<p>1. For task1, k = 1, which means we only have a single hash function. So no matter type1 or type2, we only use one seed (Si) and a single pair of (ai and bi), right?\u00a0 And there is no limitations for how to pick the three number?</p>\n<p></p>\n<p>2. After I run the file, &#34;python bloom.py -t 1 -c testConfigHashType1.txt -i testInput.txt -o testOutput.txt -v validResHashType1.txt&#34;, if everything goes right, I should expect to see &#34;compareResults: your bloom filter performs as expected&#34; ?</p>\n<p></p>\n<p></p>\n<p></p>\n<p>Update:</p>\n<p></p>\n<p>Based on the instructor&#39;s answer, I still have question for No.2:</p>\n<p></p>\n<p>I still get a bunch of mismatches, and after think about this twice, I don&#39;t believe we can get 100% match.\u00a0</p>\n<p>\u00a0</p>\n<p>For the hashfunction type 1:\u00a0 h = r(s&#43;x) , since\u00a0s&#43;x is bigger than n and we need to hash them into the range of 0-n, there must be for a pair of x_a and x_b, which can get r(s&#43;x_a) == r(s&#43;x_b). This causes if we only hashed x_a and stored in our system, and then we check x_b, we can get false true.</p>\n<p>\u00a0</p>\n<p>Need instructor to confirm this!</p>\n<p></p>\n<p>Thanks</p>\n<p></p>\n<p></p>", 
+      "anon": "no", 
+      "created": "2017-10-03T06:38:59Z", 
+      "uid": "iddoxdh5wry2oa", 
+      "subject": "task 1 question"
+    }, 
+    {
+      "content": "<p>Just start this project, have read some posts, still feel confused.</p>\n<p></p>\n<p>I am using the template.</p>\n<p></p>\n<p>1. For task1, k = 1, which means we only have a single hash function. So no matter type1 or type2, we only use one seed (Si) and a single pair of (ai and bi), right?\u00a0 And there is no limitations for how to pick the three number?</p>\n<p></p>\n<p>2. After I run the file, &#34;python bloom.py -t 1 -c testConfigHashType1.txt -i testInput.txt -o testOutput.txt -v validResHashType1.txt&#34;, if everything goes right, I should expect to see &#34;compareResults: your bloom filter performs as expected&#34; ?</p>\n<p></p>", 
+      "anon": "no", 
+      "created": "2017-10-02T21:12:04Z", 
+      "uid": "iddoxdh5wry2oa", 
+      "subject": "task 1 question"
+    }, 
+    {
+      "content": "<p>Just start this project, have read some posts, still feel confused.</p>\n<p></p>\n<p>I am using the template.</p>\n<p></p>\n<p>1. For task1, k = 1, which means we only have a single hash function. So no matter type1 or type2, we only use one seed (Si) and a single pair of (ai and bi), right?\u00a0 And there is no limitations for how to pick the three number?</p>\n<p></p>\n<p>2. After I run the file, &#34;python bloom.py -t 1 -c testConfigHashType1.txt -i testInput.txt -o testOutput.txt -v validResHashType1.txt&#34;, if everything goes right, I should expect to see &#34;compareResults: your bloom filter performs as expected&#34; ?</p>\n<p></p>", 
+      "anon": "no", 
+      "created": "2017-10-02T21:07:59Z", 
+      "uid": "iddoxdh5wry2oa", 
+      "subject": "tast 1 question"
+    }
+  ]
+}

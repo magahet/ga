@@ -1,0 +1,136 @@
+{
+  "status": "active", 
+  "unique_views": 301, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-08-21T23:02:49Z", 
+      "data": "j6mrooql60g1dq", 
+      "uid": "i4j6wtt31ts6tl"
+    }, 
+    {
+      "uid": "ij7kflqnsgm3av", 
+      "type": "s_answer", 
+      "when": "2017-08-22T01:01:17Z", 
+      "to": "j6mrooqjt0i1dp", 
+      "anon": "no", 
+      "data": "j6mvx1h68p82o4"
+    }, 
+    {
+      "uid": "gy4twfv45cg5o6", 
+      "type": "i_answer", 
+      "when": "2017-08-22T01:46:31Z", 
+      "to": "j6mrooqjt0i1dp", 
+      "anon": "no", 
+      "data": "j6mxj7pn4xe46u"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j6mrooqjt0i1dp", 
+  "bookmarked": 3, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-08-22T01:01:17Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j6mvx1h3vn22o3", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "It&#39;s getting submitted through gradescope which is attached to your email / GTID.\u00a0<div><br /></div><div>Why not just put both to be safe?</div>", 
+          "anon": "no", 
+          "created": "2017-08-22T01:01:17Z", 
+          "uid": "ij7kflqnsgm3av", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-08-22T01:46:31Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "i4j6wtt31ts6tl"
+      ], 
+      "id": "j6mxj7pmzqb46t", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Thomas Davis", 
+          "admin": false, 
+          "photo": "1484104716_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i4j6wtt31ts6tl"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p></p>\n<p>I think it doesn&#39;t matter since it&#39;s assigned to you when you submit it through Gradescope.</p>\n<p>It&#39;s just a leftover from the in-class exam templates.</p>\n<p></p>\n<p>--Eric</p>", 
+          "anon": "no", 
+          "created": "2017-08-22T01:46:31Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 21, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw1"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw1", 
+    "student"
+  ], 
+  "created": "2017-08-21T23:02:49Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145333620, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>Are we supposed to provide our gt username (tdavis64) for example or our actual GT Id on the homeworks?</p>", 
+      "anon": "no", 
+      "created": "2017-08-21T23:02:49Z", 
+      "uid": "i4j6wtt31ts6tl", 
+      "subject": "Id on HW"
+    }
+  ]
+}

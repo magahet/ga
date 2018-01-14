@@ -1,0 +1,426 @@
+{
+  "status": "active", 
+  "unique_views": 183, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-11T18:14:30Z", 
+      "data": "j7ghmt9qykr35w", 
+      "uid": "i4t8eakz3ex6lk"
+    }, 
+    {
+      "to": "j7ghmt9pd5835v", 
+      "anon": "no", 
+      "when": "2017-09-11T19:03:13Z", 
+      "type": "followup", 
+      "uid": "hvfeyx7qglF"
+    }, 
+    {
+      "to": "j7ghmt9pd5835v", 
+      "anon": "no", 
+      "when": "2017-09-11T19:18:36Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j7ghmt9pd5835v", 
+      "anon": "no", 
+      "when": "2017-09-12T02:40:46Z", 
+      "type": "followup", 
+      "uid": "hv5exp71kfz754"
+    }, 
+    {
+      "to": "j7ghmt9pd5835v", 
+      "anon": "no", 
+      "when": "2017-09-12T14:38:45Z", 
+      "type": "followup", 
+      "uid": "hqa9hej5ny2gl"
+    }, 
+    {
+      "to": "j7ghmt9pd5835v", 
+      "anon": "no", 
+      "when": "2017-09-12T15:08:29Z", 
+      "type": "followup", 
+      "uid": "groxksg3ex8"
+    }, 
+    {
+      "to": "j7ghmt9pd5835v", 
+      "anon": "no", 
+      "when": "2017-09-12T15:09:41Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j7ghmt9pd5835v", 
+      "anon": "no", 
+      "when": "2017-09-12T18:26:13Z", 
+      "type": "followup", 
+      "uid": "i4j6wvmu7he6v1"
+    }, 
+    {
+      "uid": "hkjzzued3ef4xh", 
+      "type": "i_answer", 
+      "when": "2017-09-12T19:49:53Z", 
+      "to": "j7ghmt9pd5835v", 
+      "anon": "no", 
+      "data": "j7i0hbs2pxb7fa"
+    }, 
+    {
+      "to": "j7ghmt9pd5835v", 
+      "anon": "no", 
+      "when": "2017-09-12T20:07:12Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j7ghmt9pd5835v", 
+      "anon": "no", 
+      "when": "2017-09-12T21:14:59Z", 
+      "type": "feedback", 
+      "uid": "grmp0khbn71"
+    }, 
+    {
+      "to": "j7ghmt9pd5835v", 
+      "anon": "no", 
+      "when": "2017-09-12T22:41:34Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j7ghmt9pd5835v", 
+      "anon": "no", 
+      "when": "2017-09-13T04:52:50Z", 
+      "type": "feedback", 
+      "uid": "i18w67avy8e1uk"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-15T18:16:24Z", 
+      "data": "j7m7gnvwqsu69i", 
+      "uid": "idg61g3ot1qp6"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j7ghmt9pd5835v", 
+  "bookmarked": 15, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-09-11T19:03:13Z", 
+      "no_upvotes": 0, 
+      "uid": "hvfeyx7qglF", 
+      "created": "2017-09-11T19:03:13Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7gjdgatnqf5g2", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-11T19:18:36Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-09-11T19:18:36Z", 
+          "type": "feedback", 
+          "id": "j7gjx8cwbdv7nx", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p></p>\n<p>Why don&#39;t you submit a question for the TA for their office hours?</p>\n<p>Tiancheng has office hours tonight, though I&#39;m not sure if he&#39;ll be able to because of the weather -- power outages and GT is closed. \u00a0</p>"
+        }
+      ], 
+      "subject": "<p>I&#39;ve found the old course videos very helpful for attempting to grasp this... \u00a0For example,\u00a0<a href=\"https://www.youtube.com/watch?v=3bwuwRaOyew\">https://www.youtube.com/watch?v=3bwuwRaOyew</a>. \u00a0There are others that would be beneficial that can be accessed from the udacity site at <a href=\"https://classroom.udacity.com/courses/ud061\">https://classroom.udacity.com/courses/ud061</a>. \u00a0Note: one of the quiz solutions has a mistake noted below the video.</p>\n<p></p>\n<p>I still think it would be nice if a TA could provide us with another / better example explained during an office hours video. \u00a0The notes provided helped some, but the narration to go along with it to help understand the why/how of it all would be 10X better.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-12T02:40:46Z", 
+      "no_upvotes": 0, 
+      "uid": "hv5exp71kfz754", 
+      "created": "2017-09-12T02:40:46Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7gzpv40da3qr", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>They worked an example FFT on Thursday&#39;s office hours but there is no sound. \u00a0We can ask again for the next office hours. \u00a0 \u00a0</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-12T14:38:45Z", 
+      "no_upvotes": 0, 
+      "uid": "hqa9hej5ny2gl", 
+      "created": "2017-09-12T14:38:45Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7hpd76ilr4l7", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-12T15:09:41Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-09-12T15:09:41Z", 
+          "type": "feedback", 
+          "id": "j7hqgzqi7ec6ke", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>This is a very good example, thanks for sharing! I&#39;d like to hear whether this is an acceptable way to approach polynomial multiplication in the exam and HW3.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-13T04:52:50Z", 
+          "uid": "i18w67avy8e1uk", 
+          "created": "2017-09-13T04:52:50Z", 
+          "type": "feedback", 
+          "id": "j7ijvkibebi2fq", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#64;Qingyun Thanks for sharing the example. It is a very good example.</p>"
+        }
+      ], 
+      "subject": "<p>How about this example?</p>\n<p><a href=\"http://www-inst.cs.berkeley.edu/~cs170/fa14/tutorials/tutorial2.pdf\">http://www-inst.cs.berkeley.edu/~cs170/fa14/tutorials/tutorial2.pdf</a></p>\n<p></p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-12T15:08:29Z", 
+      "no_upvotes": 0, 
+      "uid": "groxksg3ex8", 
+      "created": "2017-09-12T15:08:29Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7hqfg5p65q2ox", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-12T20:07:12Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-09-12T20:07:12Z", 
+          "type": "feedback", 
+          "id": "j7i13l0f6df2ei", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>You need to use the coefficients from C.</p>\n<p></p>\n<p>$$C(x) = A(x) \\cdot B(x)$$</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-12T21:14:59Z", 
+          "uid": "grmp0khbn71", 
+          "created": "2017-09-12T21:14:59Z", 
+          "type": "feedback", 
+          "id": "j7i3irbwvo711s", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I thought the point of FFT was multiplication? If I have to do multiplication for the coefficient then what&#39;s the FFT doing?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-12T22:41:34Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-09-12T22:41:34Z", 
+          "type": "feedback", 
+          "id": "j7i6m3lqmx543b", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>No, sorry.</p>\n<p></p>\n<p>First, you evaluate each polynomial $$A(x)$$ and $$B(x)$$. Then you do multiplication $$C(x) = A(x) \\cdot B(x)$$. Finally, you do interpolation by running $$1/n \\cdot FFT(C, w^{-1})$$.</p>\n<p></p>\n<p>With\u00a0$$C(x) = A(x) \\cdot B(x)$$ you are only multiplying each term of $$A(x)$$ with $$B(x)$$.</p>\n<p></p>\n<p>Take a look at this example for more information on how to come up with $C(x)$:\u00a0<a href=\"http://www-inst.cs.berkeley.edu/~cs170/fa14/tutorials/tutorial2.pdf\" target=\"_blank\">http://www-inst.cs.berkeley.edu/~cs170/fa14/tutorials/tutorial2.pdf</a></p>"
+        }
+      ], 
+      "subject": "<p>In the videos, it says to take the FFT of A(x) and B(x), do t_j=r_j * s_j, then do the inverse FFT.</p>\n<p></p>\n<p>I need to use polynomial coefficients to do the inverse. Am I suppose to use the coefficients from A or B?</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-12T18:26:13Z", 
+      "no_upvotes": 0, 
+      "uid": "i4j6wvmu7he6v1", 
+      "created": "2017-09-12T18:26:13Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7hxhqdg2qc1ew", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "This helped me quite a bit.\u00a0<div><br /></div><div><a href=\"https://youtu.be/PLTpmCmBd60\">https://youtu.be/PLTpmCmBd60</a></div>"
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-12T19:49:53Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j7i0hbrxgiz7f9", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>&#64;277</p>", 
+          "anon": "no", 
+          "created": "2017-09-12T19:49:53Z", 
+          "uid": "hkjzzued3ef4xh", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 272, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw3", 
+    "divide_and_conquer"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 9, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "divide_and_conquer", 
+    "hw3", 
+    "student"
+  ], 
+  "created": "2017-09-11T18:14:30Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145256124, 
+  "tag_good": [
+    {
+      "name": "Shihgian Lee", 
+      "admin": false, 
+      "photo": "1420394909_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i18w67avy8e1uk"
+    }, 
+    {
+      "name": "Hamel", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hkvdb9dig3v511"
+    }, 
+    {
+      "name": "abarysevich", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4t8eakz3ex6lk"
+    }, 
+    {
+      "name": "Brandon Richards", 
+      "admin": false, 
+      "photo": "1408392221_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hvfeyx7qglF"
+    }
+  ], 
+  "tag_good_arr": [
+    "i18w67avy8e1uk", 
+    "hkvdb9dig3v511", 
+    "i4t8eakz3ex6lk", 
+    "hvfeyx7qglF"
+  ], 
+  "history": [
+    {
+      "content": "<p>Is any example (step by step) of the real polynomials multiplication with recursive FFT. I saw this #<a href=\"https://www.piazza.com/class/j6f5zm92gj34gi?cid=242\" target=\"_blank\">242</a> - unfortunately it does not help (even posted <a href=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/hju4w9odatf30/j7f19n8xvd24/fft_example.pdf\" target=\"_blank\">fft_example.pdf</a>\u00a0 does not include any recursion and very poorly written (no matrixes with roots of unity / no expanded interpolation) ).</p>\n<p></p>\n<p>Edit (Rich):</p>\n<p>Changed the folder (tag) from hw4 to hw3.</p>", 
+      "anon": "no", 
+      "created": "2017-09-15T18:16:24Z", 
+      "uid": "idg61g3ot1qp6", 
+      "subject": "Examples of Polynomial Multiplication with recursive FFT."
+    }, 
+    {
+      "content": "<p>Is any example (step by step) of the real polynomials multiplication with recursive FFT. I saw this #<a href=\"https://www.piazza.com/class/j6f5zm92gj34gi?cid=242\" target=\"_blank\">242</a> - unfortunately it does not help (even posted <a href=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/hju4w9odatf30/j7f19n8xvd24/fft_example.pdf\" target=\"_blank\">fft_example.pdf</a>\u00a0 does not include any recursion and very poorly written (no matrixes with roots of unity / no expanded interpolation) ).</p>", 
+      "anon": "no", 
+      "created": "2017-09-11T18:14:30Z", 
+      "uid": "i4t8eakz3ex6lk", 
+      "subject": "Examples of Polynomial Multiplication with recursive FFT."
+    }
+  ]
+}

@@ -1,0 +1,389 @@
+{
+  "status": "active", 
+  "unique_views": 168, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-05T00:41:56Z", 
+      "data": "j76ve2pgnqa6t", 
+      "uid": "hz0pec4uduL"
+    }, 
+    {
+      "uid": "isgwdf47kb42f", 
+      "type": "i_answer", 
+      "when": "2017-09-05T00:58:13Z", 
+      "to": "j76ve2pcnn16s", 
+      "anon": "no", 
+      "data": "j76vz0znk1g6hs"
+    }, 
+    {
+      "to": "j76ve2pcnn16s", 
+      "anon": "no", 
+      "when": "2017-09-05T02:52:11Z", 
+      "type": "followup", 
+      "uid": "hz0pec4uduL"
+    }, 
+    {
+      "to": "j76ve2pcnn16s", 
+      "anon": "no", 
+      "when": "2017-09-05T03:06:00Z", 
+      "type": "feedback", 
+      "uid": "isgwdf47kb42f"
+    }, 
+    {
+      "to": "j76ve2pcnn16s", 
+      "anon": "no", 
+      "when": "2017-09-05T04:35:10Z", 
+      "type": "followup", 
+      "uid": "hz0pec4uduL"
+    }, 
+    {
+      "to": "j76ve2pcnn16s", 
+      "anon": "no", 
+      "when": "2017-09-05T12:18:35Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j76ve2pcnn16s", 
+      "anon": "no", 
+      "when": "2017-09-06T03:00:23Z", 
+      "type": "feedback", 
+      "uid": "hz0pec4uduL"
+    }, 
+    {
+      "to": "j76ve2pcnn16s", 
+      "anon": "no", 
+      "when": "2017-09-06T06:27:26Z", 
+      "type": "feedback", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "to": "j76ve2pcnn16s", 
+      "anon": "no", 
+      "when": "2017-09-07T02:57:20Z", 
+      "type": "feedback", 
+      "uid": "hz0pec4uduL"
+    }, 
+    {
+      "to": "j76ve2pcnn16s", 
+      "anon": "no", 
+      "when": "2017-09-07T03:16:50Z", 
+      "type": "feedback", 
+      "uid": "i4iys7m3lpq2ij"
+    }, 
+    {
+      "to": "j76ve2pcnn16s", 
+      "anon": "no", 
+      "when": "2017-09-07T03:32:13Z", 
+      "type": "feedback", 
+      "uid": "hz0pec4uduL"
+    }, 
+    {
+      "to": "j76ve2pcnn16s", 
+      "anon": "no", 
+      "when": "2017-09-07T06:14:05Z", 
+      "type": "feedback", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "to": "j76ve2pcnn16s", 
+      "anon": "no", 
+      "when": "2017-09-08T02:29:10Z", 
+      "type": "feedback", 
+      "uid": "hz0pec4uduL"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j76ve2pcnn16s", 
+  "bookmarked": 7, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-05T00:58:13Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "hz0pec4uduL"
+      ], 
+      "id": "j76vz0zkcgh6hr", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Hugh Woltzen", 
+          "admin": false, 
+          "photo": "1423117810_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hz0pec4uduL"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>The goal in picking the public and private k is to satisfy the relation\u00a0$$ed\\equiv1\\mod\\phi(N)$$. Thus when should have $$0\\leq e\\leq\\phi(N)-1$$ and\u00a0$$0\\leq d\\leq\\phi(N)-1$$ since we are working\u00a0$$\\mod \\phi(N)$$. If the exponents lie outside the range, simple take the modulus.</p>", 
+          "anon": "no", 
+          "created": "2017-09-05T00:58:13Z", 
+          "uid": "isgwdf47kb42f", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-05T02:52:11Z", 
+      "no_upvotes": 0, 
+      "uid": "hz0pec4uduL", 
+      "created": "2017-09-05T02:52:11Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7701l7yryhn", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-05T03:06:00Z", 
+          "uid": "isgwdf47kb42f", 
+          "created": "2017-09-05T03:06:00Z", 
+          "type": "feedback", 
+          "id": "j770jcorqkm1p4", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I&#39;m not sure it&#39;s quite what I was saying. If you have a number\u00a0$$a\\lt0$$ and are working $$\\mod M$$\u00a0then you can add integer multiples of M\u00a0until you get something between 0 and M-1 since\u00a0$$a\\equiv a&#43;kM \\mod M$$.</p>\n<p></p>\n<p>When we&#39;re working modulo M, any integer not between 0 and M-1 (inclusive) is equivalent to an integer that is. So if I write\u00a0$$7 \\mod 5$$ I can simplify that as\u00a0$$2 \\mod 5$$ and if I write\u00a0$$-3 \\mod 5$$ I can simplify that as\u00a0$$2 \\mod 5$$ as well. (Since 7-5=2, and -3&#43;5=2.)</p>\n<p></p>\n<p>So when you get a negative d that satisfies $$ed\\equiv1\\mod\\phi(N)$$ you take\u00a0$$d \\mod \\phi(N)$$ to get a d&#39;\u00a0between 0 and\u00a0\u03a6(N)-1.</p>\n<p></p>\n<p>Mathematically you can use the negative decryption exponent and the algorithm will work identically as if you did take that integer mod\u00a0\u03a6(N) but computationally raising a ciphertext c to a negative power might not be as straightforward as raising it to a positive power.</p>"
+        }
+      ], 
+      "subject": "Thanks Michael. I was getting a negative number when taking a mod b. When flipping it to b mod a, the number comes out positive. Is this what you were referring to when you said to take the inverse if the result comes out negative?"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-05T04:35:10Z", 
+      "no_upvotes": 0, 
+      "uid": "hz0pec4uduL", 
+      "created": "2017-09-05T04:35:10Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j773q16hcwx3kz", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-05T12:18:35Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-09-05T12:18:35Z", 
+          "type": "feedback", 
+          "id": "j77k9zmuofg49o", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p></p>\n<p>It&#39;s not a homework problem, right? \u00a0So then go ahead.</p>\n<p></p>\n<p>Usually when you run Extended Euclid alg., one of the numbers returned will be negative. \u00a0But we usually simplify it to an equivalent number between 0...N-1.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-06T03:00:23Z", 
+          "uid": "hz0pec4uduL", 
+          "created": "2017-09-06T03:00:23Z", 
+          "type": "feedback", 
+          "id": "j78frzlcuj61ln", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thank you Dr. Vigoda. It is not a homework problem.</p>\n<p></p>\n<p>This problem asks to find d from p=17, q=23, N=391 and e = 3. Initially I did the following:</p>\n<p></p>\n<p>d = 3 mod (17-1)(23-1)</p>\n<p>\u00a0 \u00a0= 3 mod 352</p>\n<p>3 = (0)352 &#43; 3</p>\n<p>352 = (117)3 &#43; 1</p>\n<p>3 = (3)1 &#43; 0</p>\n<p>1 = 352 - (117)3</p>\n<p>so, d = -117</p>\n<p></p>\n<p>I figured out if I swap d and (p-1)(q-1), then I get a positive number (ex 352 mod 3). Since the numbers are relatively prime swapping them should work. Is swapping them a valid approach?</p>\n<p></p>\n<p>Are there any other methods that I could use to get the number to be between 0..N-1?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-06T06:27:26Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-09-06T06:27:26Z", 
+          "type": "feedback", 
+          "id": "j78n698z6295z0", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Once you&#39;ve got the result, what you call $$d = -117$$, you then calculate $$d\\!\\! \\mod (p - 1)(q - 1)$$ to give a positive number, $$ -117 \\!\\! \\mod 352 = 235$$"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-07T02:57:20Z", 
+          "uid": "hz0pec4uduL", 
+          "created": "2017-09-07T02:57:20Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j79v3wyg3l6jh", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thank you Mark. How do you get -117 mod 352 = 235 using Euclid&#39;s algorithm? The reason that I ask is that I&#39;m getting -3 using the following calculations:</p>\n<p>-117 = (0)352 - 117</p>\n<p>352 = (-3)(-117) &#43; 1</p>\n<p></p>\n<p>1 = 352 - (3)(-117)</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-07T03:16:50Z", 
+          "uid": "i4iys7m3lpq2ij", 
+          "created": "2017-09-07T03:16:50Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j79vszfcijq7jv", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Hugh, you get $$d=-117$$ from Ext Euclid as you pointed out above. Then to get $$0\\le d \\le N-1$$, you just take $$-117 \\mod 352$$ . You can compute\u00a0$$-117 \\mod 352$$ using\u00a0$$x - \\left \\lfloor \\frac{x}{N} \\right \\rfloor * N$$, which will just be $$N &#43; x$$ ($$352-117=235$$) for $$ -N &lt; x &lt; 0 $$.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-07T03:32:13Z", 
+          "uid": "hz0pec4uduL", 
+          "created": "2017-09-07T03:32:13Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j79wcrxu7ak6ee", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Thanks Kate. That is really cool. Do you happen to know why that works?"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-07T06:14:05Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-09-07T06:14:05Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j7a24xflwgdvo", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "That&#39;s part of the basic definition of modular arithmetic"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-08T02:29:10Z", 
+          "uid": "hz0pec4uduL", 
+          "created": "2017-09-08T02:29:10Z", 
+          "type": "feedback", 
+          "id": "j7b9jjcsu8m2dc", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thank you. I&#39;ve got it now. a mod b = a*x &#43; y. In this example, -117 mod 352 = (0)352 &#43; 352-117 = 235.</p>"
+        }
+      ], 
+      "subject": "Thanks Michael. The problem that I&#39;m working is 1.27. Do you see any issues with me posting specific calculations for this problem?"
+    }
+  ], 
+  "nr": 187, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "random_algorithms"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 2, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "random_algorithms", 
+    "student"
+  ], 
+  "created": "2017-09-05T00:41:56Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145281387, 
+  "tag_good": [
+    {
+      "name": "Di Wang", 
+      "admin": false, 
+      "photo": "1453179229_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "ija2ufzr6l0f7"
+    }
+  ], 
+  "tag_good_arr": [
+    "ija2ufzr6l0f7"
+  ], 
+  "history": [
+    {
+      "content": "<p>Hi,</p>\n<p>When doing RSA is it possible to have a value of d that is negative? I&#39;m getting a negative d for a practice problem I&#39;m working and trying to figure out if this is valid or indicates a problem with my calculations.</p>\n<p></p>\n<p>Thanks,</p>\n<p>Hugh</p>", 
+      "anon": "no", 
+      "created": "2017-09-05T00:41:56Z", 
+      "uid": "hz0pec4uduL", 
+      "subject": "Negative d"
+    }
+  ]
+}

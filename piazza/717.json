@@ -1,0 +1,185 @@
+{
+  "status": "active", 
+  "unique_views": 217, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-14T19:13:51Z", 
+      "data": "j8rpa8ct1583mo", 
+      "uid": "isgwdf47kb42f"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-14T19:15:24Z", 
+      "data": "j8rpc8byjex58c", 
+      "uid": "isgwdf47kb42f"
+    }, 
+    {
+      "to": "j8rpa8cpsku3mn", 
+      "anon": "no", 
+      "when": "2017-10-15T04:51:20Z", 
+      "type": "followup", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j8rpa8cpsku3mn", 
+      "anon": "no", 
+      "when": "2017-10-15T16:22:42Z", 
+      "type": "followup", 
+      "uid": "hz4ug66rg6o26j"
+    }, 
+    {
+      "to": "j8rpa8cpsku3mn", 
+      "anon": "no", 
+      "when": "2017-10-15T21:40:20Z", 
+      "type": "feedback", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-27T20:00:22Z", 
+      "data": "j9abo58du9x2y2", 
+      "uid": "isgwdf47kb42f"
+    }
+  ], 
+  "id": "j8rpa8cpsku3mn", 
+  "bookmarked": 4, 
+  "tags": [
+    "course", 
+    "instructor-poll"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-10-15T04:51:20Z", 
+      "no_upvotes": 0, 
+      "uid": "i4ket0u1z5q31a", 
+      "created": "2017-10-15T04:51:20Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8s9wwcst0k375", 
+      "anon": "no", 
+      "bucket_name": "Week 10/8 - 10/14", 
+      "config": {}, 
+      "bucket_order": 7, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>How about Sunday office hours instead?</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-15T16:22:42Z", 
+      "no_upvotes": 0, 
+      "uid": "hz4ug66rg6o26j", 
+      "created": "2017-10-15T16:22:42Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8sylzee33f1qn", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-15T21:40:20Z", 
+          "uid": "i4ket0u1z5q31a", 
+          "created": "2017-10-15T21:40:20Z", 
+          "type": "feedback", 
+          "id": "j8t9ygqsy6x4v6", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#43;1</p>"
+        }
+      ], 
+      "subject": "<p>With the exam blackout window starting this upcoming Friday, can we get an extra office hours midweek?\u00a0 Even though I often can&#39;t make the office hours, I always replay them later...especially when prepping for the exams.\u00a0</p>"
+    }
+  ], 
+  "nr": 717, 
+  "bucket_order": 2, 
+  "type": "poll", 
+  "folders": [
+    "course"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "answer": "", 
+    "admin": "", 
+    "has_voted": [], 
+    "result": {
+      "1": 15, 
+      "0": 20, 
+      "3": 13, 
+      "2": 14, 
+      "5": 11, 
+      "4": 9, 
+      "6": 25
+    }, 
+    "total_votes": 60
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-10-14T19:13:51Z", 
+  "is_tag_good": false, 
+  "config": {
+    "show_results": "ac", 
+    "anonymous": "stud", 
+    "multiple_selections": 1, 
+    "unpublished": 0, 
+    "toggle_visibility_on": 1, 
+    "revote": 0, 
+    "allow_followups": "yes", 
+    "bypass_email": 1, 
+    "always_open": 0, 
+    "close_after": "168", 
+    "publish_later": 0
+  }, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145149910, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>Hello everyone,</p>\n<p></p>\n<p>When I selected my usual office hours time slot the choice of 2 PM EST Saturday was a bit arbitrary. I want to pick the Saturday time slot which would allow for most the participation during office hours, so I&#39;m opening a poll for Saturday time slots. Please vote for all time slots you both could and would participate in.</p>\n<p></p>\n<p>Note: Saturday office hours will not be held next week because of the exam.</p>\n<p></p>\n<p></p>\n<p>\n [*] 1 PM EST\n [*] 2 PM EST\n [*] 3 PM EST\n [*] 4 PM EST\n [*] 5 PM EST\n [*] 6 PM EST\n [*] 7 PM EST</p>", 
+      "anon": "no", 
+      "created": "2017-10-27T20:00:22Z", 
+      "uid": "isgwdf47kb42f", 
+      "subject": "Best Saturday Office Hours Time"
+    }, 
+    {
+      "content": "<p>Hello everyone,</p>\n<p></p>\n<p>When I selected my usual office hours time slot the choice of 2 PM EST Saturday was a bit arbitrary. I want to pick the Saturday time slot which would allow for most the participation during office hours, so I&#39;m opening a poll for Saturday time slots. Please vote for all time slots you both could and would participate in.</p>\n<p></p>\n<p>Note: Saturday office hours will not be held next week because of the exam.</p>\n<p></p>\n<p>#pin</p>\n<p>\n [*] 1 PM EST\n [*] 2 PM EST\n [*] 3 PM EST\n [*] 4 PM EST\n [*] 5 PM EST\n [*] 6 PM EST\n [*] 7 PM EST</p>", 
+      "anon": "no", 
+      "created": "2017-10-14T19:15:24Z", 
+      "uid": "isgwdf47kb42f", 
+      "subject": "Best Saturday Office Hours Time"
+    }, 
+    {
+      "content": "<p>Hello everyone,</p>\n<p></p>\n<p>When I selected my usual office hours time slot the choice of 2 PM EST Saturday was a bit arbitrary. I want to pick the Saturday time slot which would allow for most the participation during office hours, so I&#39;m opening a poll for Saturday time slots. Please vote for all time slots you both could and would participate in.</p>\n<p></p>\n<p>#pin</p>\n<br/> [*] 1 PM EST\n[*] 2 PM EST\n[*] 3 PM EST\n[*] 4 PM EST\n[*] 5 PM EST\n[*] 6 PM EST\n[*] 7 PM EST", 
+      "anon": "no", 
+      "created": "2017-10-14T19:13:51Z", 
+      "uid": "isgwdf47kb42f", 
+      "subject": "Best Saturday Office Hours Time"
+    }
+  ]
+}

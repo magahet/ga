@@ -1,0 +1,263 @@
+{
+  "status": "active", 
+  "unique_views": 233, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-16T00:06:14Z", 
+      "data": "j7mjyjpw2de3wg", 
+      "uid": "hqa65fnalg83fr"
+    }, 
+    {
+      "to": "j7mjyjpuclh3wf", 
+      "anon": "no", 
+      "when": "2017-09-16T00:39:29Z", 
+      "type": "followup", 
+      "uid": "hqa9hej5ny2gl"
+    }, 
+    {
+      "to": "j7mjyjpuclh3wf", 
+      "anon": "no", 
+      "when": "2017-09-16T00:53:01Z", 
+      "type": "followup", 
+      "uid": "iddox7abejr2mj"
+    }, 
+    {
+      "uid": "gy4twfv45cg5o6", 
+      "type": "i_answer", 
+      "when": "2017-09-16T01:27:17Z", 
+      "to": "j7mjyjpuclh3wf", 
+      "anon": "no", 
+      "data": "j7mmus85fd4qi"
+    }, 
+    {
+      "to": "j7mjyjpuclh3wf", 
+      "anon": "no", 
+      "when": "2017-09-16T04:45:01Z", 
+      "type": "feedback", 
+      "uid": "hqa65fnalg83fr"
+    }, 
+    {
+      "to": "j7mjyjpuclh3wf", 
+      "anon": "no", 
+      "when": "2017-09-16T04:46:03Z", 
+      "type": "followup", 
+      "uid": "hqa65fnalg83fr"
+    }, 
+    {
+      "type": "i_answer_update", 
+      "anon": "no", 
+      "when": "2017-09-16T11:30:00Z", 
+      "data": "j7n8dvt216u225", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j7mjyjpuclh3wf", 
+      "anon": "no", 
+      "when": "2017-09-16T13:09:53Z", 
+      "type": "feedback", 
+      "uid": "i4jridi579yhq"
+    }, 
+    {
+      "to": "j7mjyjpuclh3wf", 
+      "anon": "no", 
+      "when": "2017-09-16T13:28:02Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j7mjyjpuclh3wf", 
+  "bookmarked": 9, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-09-16T00:39:29Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "hqa9hej5ny2gl", 
+      "created": "2017-09-16T00:39:29Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7ml5am9y28111", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>Try T-square assignments</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-16T00:53:01Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "iddox7abejr2mj", 
+      "created": "2017-09-16T00:53:01Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7mlmpryf4u2ev", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-16T04:45:01Z", 
+          "uid": "hqa65fnalg83fr", 
+          "created": "2017-09-16T04:45:01Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j7mtx2mkws04vp", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Very odd that we&#39;re getting assignments from different places.</p>\n<p></p>\n<p>Hence the purpose of this post.</p>"
+        }
+      ], 
+      "subject": "<p>I see two different due dates for the assignment. I see Oct 9th on the T-Square assignment section, but the PDF document says Oct 2nd. I suspect the date on T-Square is correct...but I still wanted to confirm.\u00a0</p>\n<p></p>\n<p>Please let us know what is the due date for the assignment.<img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/iddox7abejr2mj/j7mlm93o9580/Capture.PNG\" alt=\"\" /><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/iddox7abejr2mj/j7mlmkf8j9c2/Capture2.PNG\" alt=\"\" /></p>"
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-16T01:27:17Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j7mmus806rv4qh", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p><strong attention=\"gns9oa0pgsO\">&#64;john turner</strong>\u00a0 will reply about the project. - &#64;320</p>\n<p></p>\n<p></p>\n<p>No practice test. \u00a0Just playing with Proctortrack etc.</p>", 
+          "anon": "no", 
+          "created": "2017-09-16T11:30:00Z", 
+          "uid": "gns9oa0pgsO", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p><strong attention=\"gns9oa0pgsO\">&#64;john turner</strong>\u00a0 will reply about the project.</p>\n<p></p>\n<p>No practice test. \u00a0Just playing with Proctortrack etc.</p>", 
+          "anon": "no", 
+          "created": "2017-09-16T01:27:17Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-16T04:46:03Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "hqa65fnalg83fr", 
+      "created": "2017-09-16T04:46:03Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7mtydvyaf34oj", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-16T13:09:53Z", 
+          "uid": "i4jridi579yhq", 
+          "created": "2017-09-16T13:09:53Z", 
+          "type": "feedback", 
+          "id": "j7nbybxmnd5z6", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I&#39;d really like to run through the process beforehand even if we&#39;re just uploading a blank sheet of paper.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-16T13:28:02Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-09-16T13:28:02Z", 
+          "type": "feedback", 
+          "id": "j7nclny2obt59", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p></p>\n<p>That&#39;s what we&#39;re trying to do. \u00a0<strong attention=\"hkjzzued3ef4xh\">&#64;Tiancheng Gong</strong>\u00a0 will post about this later today.</p>"
+        }
+      ], 
+      "subject": "<p>I understand it wasn&#39;t to be a real test. But I imagined it would be a practice of the upload procedure. Like scan a page and upload it.</p>\n<p></p>\n<p>I saw this in Gradescope, not Proctortrack.</p>"
+    }
+  ], 
+  "nr": 316, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "project", 
+    "exam"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "exam", 
+    "project", 
+    "student"
+  ], 
+  "created": "2017-09-16T00:06:14Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145241506, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>Hi,</p>\n<p></p>\n<p>where can I find the writeup for the Bloom Filters project and the practice test? I looked in Gradescope and it says &#34;contact your instructor&#34; for the practice test.</p>\n<p></p>\n<p><a href=\"https://8803ga.wordpress.com/hws/\">https://8803ga.wordpress.com/hws/</a></p>\n<p></p>\n<p>Doesn&#39;t have it either. So where do I find them?</p>", 
+      "anon": "no", 
+      "created": "2017-09-16T00:06:14Z", 
+      "uid": "hqa65fnalg83fr", 
+      "subject": "Bloom filters project and Practice Test"
+    }
+  ]
+}

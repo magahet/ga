@@ -1,0 +1,265 @@
+{
+  "status": "active", 
+  "unique_views": 170, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-11T13:03:03Z", 
+      "data": "j7g6iadoorrqm", 
+      "uid": "idgq0ufin8U"
+    }, 
+    {
+      "to": "j7g6iadm5dql", 
+      "anon": "no", 
+      "when": "2017-09-11T13:22:43Z", 
+      "type": "followup", 
+      "uid": "i4ocg4bx2t93x9"
+    }, 
+    {
+      "to": "j7g6iadm5dql", 
+      "anon": "no", 
+      "when": "2017-09-11T14:09:32Z", 
+      "type": "feedback", 
+      "uid": "idgq0ufin8U"
+    }, 
+    {
+      "uid": "idgq0ufin8U", 
+      "type": "s_answer", 
+      "when": "2017-09-11T14:09:41Z", 
+      "to": "j7g6iadm5dql", 
+      "anon": "no", 
+      "data": "j7g8vyqxjs51q5"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-11T14:09:57Z", 
+      "data": "j7g8wb1z1db1xk", 
+      "uid": "idgq0ufin8U"
+    }, 
+    {
+      "to": "j7g6iadm5dql", 
+      "anon": "no", 
+      "when": "2017-09-11T14:50:00Z", 
+      "type": "feedback", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "to": "j7g6iadm5dql", 
+      "anon": "no", 
+      "when": "2017-09-11T18:42:32Z", 
+      "type": "followup", 
+      "uid": "hkvdb9dig3v511"
+    }, 
+    {
+      "to": "j7g6iadm5dql", 
+      "anon": "no", 
+      "when": "2017-09-11T19:56:55Z", 
+      "type": "feedback", 
+      "uid": "i4m49pmqc4h14p"
+    }, 
+    {
+      "to": "j7g6iadm5dql", 
+      "anon": "no", 
+      "when": "2017-09-11T21:30:29Z", 
+      "type": "feedback", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "type": "update", 
+      "anon": "stud", 
+      "when": "2017-09-14T04:21:08Z", 
+      "data": "j7jy6n79r2u514"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j7g6iadm5dql", 
+  "bookmarked": 8, 
+  "tags": [
+    "hw2", 
+    "student"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-09-11T13:22:43Z", 
+      "no_upvotes": 0, 
+      "uid": "i4ocg4bx2t93x9", 
+      "created": "2017-09-11T13:22:43Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7g77kh6jj06bm", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-11T14:09:32Z", 
+          "uid": "idgq0ufin8U", 
+          "created": "2017-09-11T14:09:32Z", 
+          "type": "feedback", 
+          "id": "j7g8vrz978s1ms", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>ok just wanted confirmation. thanks. I know the base case wont apply to when x is negative</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-11T14:50:00Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-09-11T14:50:00Z", 
+          "type": "feedback", 
+          "id": "j7gabtk6bds22u", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "It&#39;s worth noticing that Euclid&#39;s algorithm $$GCD(a, modulus)$$ works equally well when $$a &lt; modulus$$, though we&#39;ve seen it specified as $$a &gt; modulus$$ that may be more for manageability of the $$\\alpha, \\beta$$ return values"
+        }
+      ], 
+      "subject": "<p>You might have to update your question if I&#39;m misunderstanding.</p>\n<p></p>\n<p>If x &lt; N (where &#34;x&#34; is the dividend [e.g. 2] and &#34;N&#34; is the divisor\u00a0[e.g. 3]) then\u00a0it doesn&#39;t &#34;wrap around&#34; (from <a href=\"https://en.wikipedia.org/wiki/Euclidean_division\" target=\"_blank\">Euclidean Division</a>), so it&#39;s just\u00a0x<em>.\u00a0</em>This comes up as base cases in some of the formulas in the unit.</p>"
+    }, 
+    {
+      "folders": [], 
+      "created": "2017-09-11T14:09:41Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j7g8vyqvl3d1q4", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>See below</p>", 
+          "anon": "no", 
+          "created": "2017-09-11T14:09:41Z", 
+          "uid": "idgq0ufin8U", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-11T18:42:32Z", 
+      "no_upvotes": 0, 
+      "uid": "hkvdb9dig3v511", 
+      "created": "2017-09-11T18:42:32Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7gimupl1bi6zv", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-11T19:56:55Z", 
+          "uid": "i4m49pmqc4h14p", 
+          "created": "2017-09-11T19:56:55Z", 
+          "type": "feedback", 
+          "id": "j7glaifwt011hv", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I had this lingering doubt as well. How do you get M from M mod N if M &gt; N? We don&#39;t have a unique M then. And we can sure that we get messages that are more than 1000 bits long through encrypted methods.</p>\n<p>My guess is that they break down the message into &#39;words&#39; that are &lt;N bits each.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-11T21:30:29Z", 
+          "uid": "i4ket0u1z5q31a", 
+          "created": "2017-09-11T21:30:29Z", 
+          "type": "feedback", 
+          "id": "j7gomuc3bdb267", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Yes, you have to encrypt the message in chunks smaller than your key.</p>\n<p>The m^e mod p operation encrypts chunk m of the complete message.</p>\n<p>The decryption step me^d mod p decrypts chunk m of the complete message.</p>"
+        }
+      ], 
+      "subject": "<p>This is pretty important to know, because for example in RSA it is assumed that for after decryption, you are left with M mod N with M &lt; N, therefore M mod N = M</p>\n<p></p>\n<p>If I am wrong someone please correct me.</p>"
+    }
+  ], 
+  "nr": 267, 
+  "bucket_order": 2, 
+  "type": "note", 
+  "folders": [
+    "hw2"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 0, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-09-11T13:03:03Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145257394, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>How do we solve for 2%3.\u00a0</p>", 
+      "anon": "stud", 
+      "created": "2017-09-14T04:21:08Z", 
+      "subject": "How to solve for Mod when x &lt; N ex 2%3"
+    }, 
+    {
+      "content": "<p>How do we solve for 2%3.\u00a0</p>", 
+      "anon": "no", 
+      "created": "2017-09-11T14:09:57Z", 
+      "uid": "idgq0ufin8U", 
+      "subject": "How to solve for Mod when x &lt; N ex 2%3"
+    }, 
+    {
+      "content": "<p>How do we solve for 2%3.\u00a0</p>", 
+      "anon": "no", 
+      "created": "2017-09-11T13:03:03Z", 
+      "uid": "idgq0ufin8U", 
+      "subject": "How to solve for Mod when x &lt; N ex 2%3"
+    }
+  ]
+}

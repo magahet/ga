@@ -1,0 +1,898 @@
+{
+  "status": "active", 
+  "unique_views": 230, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-23T12:54:16Z", 
+      "data": "j946or0upo619g", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j946or0snx119f", 
+      "anon": "no", 
+      "when": "2017-10-23T13:13:12Z", 
+      "type": "followup", 
+      "uid": "i4k05w06D2B"
+    }, 
+    {
+      "to": "j946or0snx119f", 
+      "anon": "no", 
+      "when": "2017-10-23T14:13:45Z", 
+      "type": "feedback", 
+      "uid": "idg61g3ot1qp6"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-23T14:17:52Z", 
+      "data": "j949oa2v2dh42x", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-23T14:21:06Z", 
+      "data": "j949sfhv1a36us", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j946or0snx119f", 
+      "anon": "no", 
+      "when": "2017-10-23T15:27:22Z", 
+      "type": "followup", 
+      "uid": "hkvdb9dig3v511"
+    }, 
+    {
+      "to": "j946or0snx119f", 
+      "anon": "no", 
+      "when": "2017-10-23T15:29:03Z", 
+      "type": "feedback", 
+      "uid": "hkvdb9dig3v511"
+    }, 
+    {
+      "to": "j946or0snx119f", 
+      "anon": "no", 
+      "when": "2017-10-23T15:56:08Z", 
+      "type": "feedback", 
+      "uid": "i4pvwmg5VTb"
+    }, 
+    {
+      "to": "j946or0snx119f", 
+      "anon": "no", 
+      "when": "2017-10-23T15:58:28Z", 
+      "type": "feedback", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "to": "j946or0snx119f", 
+      "anon": "no", 
+      "when": "2017-10-23T16:09:03Z", 
+      "type": "feedback", 
+      "uid": "ij9b2ekdTWF"
+    }, 
+    {
+      "to": "j946or0snx119f", 
+      "anon": "no", 
+      "when": "2017-10-23T16:11:59Z", 
+      "type": "feedback", 
+      "uid": "idg61g3ot1qp6"
+    }, 
+    {
+      "to": "j946or0snx119f", 
+      "anon": "no", 
+      "when": "2017-10-23T16:14:57Z", 
+      "type": "followup", 
+      "uid": "hyzzr9z7x6a1mz"
+    }, 
+    {
+      "to": "j946or0snx119f", 
+      "anon": "no", 
+      "when": "2017-10-23T16:18:47Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j946or0snx119f", 
+      "anon": "no", 
+      "when": "2017-10-23T16:19:23Z", 
+      "type": "feedback", 
+      "uid": "hyzzr9z7x6a1mz"
+    }, 
+    {
+      "to": "j946or0snx119f", 
+      "anon": "no", 
+      "when": "2017-10-23T16:19:48Z", 
+      "type": "feedback", 
+      "uid": "idg61g3ot1qp6"
+    }, 
+    {
+      "to": "j946or0snx119f", 
+      "anon": "no", 
+      "when": "2017-10-23T16:19:50Z", 
+      "type": "feedback", 
+      "uid": "ija2ufzr6l0f7"
+    }, 
+    {
+      "to": "j946or0snx119f", 
+      "anon": "no", 
+      "when": "2017-10-23T16:20:40Z", 
+      "type": "feedback", 
+      "uid": "idg61g3ot1qp6"
+    }, 
+    {
+      "to": "j946or0snx119f", 
+      "anon": "no", 
+      "when": "2017-10-23T16:21:39Z", 
+      "type": "followup", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j946or0snx119f", 
+      "anon": "no", 
+      "when": "2017-10-23T16:22:19Z", 
+      "type": "feedback", 
+      "uid": "idg61g3ot1qp6"
+    }, 
+    {
+      "to": "j946or0snx119f", 
+      "anon": "no", 
+      "when": "2017-10-23T19:56:47Z", 
+      "type": "feedback", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j946or0snx119f", 
+      "anon": "no", 
+      "when": "2017-10-23T22:12:26Z", 
+      "type": "feedback", 
+      "uid": "hve4kb0lopy4sl"
+    }, 
+    {
+      "to": "j946or0snx119f", 
+      "anon": "no", 
+      "when": "2017-10-23T23:07:16Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j946or0snx119f", 
+      "anon": "no", 
+      "when": "2017-10-24T02:19:18Z", 
+      "type": "feedback", 
+      "uid": "hve4kb0lopy4sl"
+    }, 
+    {
+      "to": "j946or0snx119f", 
+      "anon": "no", 
+      "when": "2017-10-24T03:48:40Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j946or0snx119f", 
+      "anon": "no", 
+      "when": "2017-10-24T05:17:45Z", 
+      "type": "followup", 
+      "uid": "j6m1j9wkzk46tu"
+    }, 
+    {
+      "to": "j946or0snx119f", 
+      "anon": "no", 
+      "when": "2017-10-24T11:17:50Z", 
+      "type": "feedback", 
+      "uid": "hyvx0owj4ot1a0"
+    }, 
+    {
+      "to": "j946or0snx119f", 
+      "anon": "no", 
+      "when": "2017-10-24T11:51:01Z", 
+      "type": "feedback", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j946or0snx119f", 
+      "anon": "no", 
+      "when": "2017-10-24T12:01:59Z", 
+      "type": "feedback", 
+      "uid": "hyvx0owj4ot1a0"
+    }, 
+    {
+      "to": "j946or0snx119f", 
+      "anon": "no", 
+      "when": "2017-10-24T12:35:19Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j946or0snx119f", 
+      "anon": "no", 
+      "when": "2017-10-24T12:49:33Z", 
+      "type": "feedback", 
+      "uid": "j6m1j9wkzk46tu"
+    }, 
+    {
+      "to": "j946or0snx119f", 
+      "anon": "no", 
+      "when": "2017-10-24T17:27:50Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j946or0snx119f", 
+      "anon": "no", 
+      "when": "2017-10-24T19:53:10Z", 
+      "type": "followup", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j946or0snx119f", 
+      "anon": "no", 
+      "when": "2017-10-24T20:31:32Z", 
+      "type": "feedback", 
+      "uid": "hyvx0owj4ot1a0"
+    }, 
+    {
+      "to": "j946or0snx119f", 
+      "anon": "no", 
+      "when": "2017-10-24T20:32:10Z", 
+      "type": "feedback", 
+      "uid": "i4ijgkcwkz15lx"
+    }, 
+    {
+      "to": "j946or0snx119f", 
+      "anon": "no", 
+      "when": "2017-10-26T15:15:55Z", 
+      "type": "feedback", 
+      "uid": "hz46706oA2e"
+    }, 
+    {
+      "to": "j946or0snx119f", 
+      "anon": "no", 
+      "when": "2017-10-26T15:37:58Z", 
+      "type": "feedback", 
+      "uid": "i4omjkc5OQ8"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j946or0snx119f", 
+  "bookmarked": 19, 
+  "tags": [
+    "instructor-note", 
+    "project"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-10-23T13:13:12Z", 
+      "no_upvotes": 0, 
+      "uid": "i4k05w06D2B", 
+      "created": "2017-10-23T13:13:12Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j947d46dors4xy", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-23T14:13:45Z", 
+          "uid": "idg61g3ot1qp6", 
+          "created": "2017-10-23T14:13:45Z", 
+          "type": "feedback", 
+          "id": "j949izfyazt5eu", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I remember the Prof. stating earlier this semester that the grades will be a sum of all of our scores, and then thresholds will be determined at the end of the semester. <br />So, I looked it up and found that post in &#64;525<br /><span style=\"text-decoration:line-through\">Therefore, bonus points are most likely added to the sum of the other grades at the end.</span></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T15:56:08Z", 
+          "uid": "i4pvwmg5VTb", 
+          "created": "2017-10-23T15:56:08Z", 
+          "type": "feedback", 
+          "id": "j94d6n3dbcn6mr", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "How would it be the sum of all our scores if this is only 30 points and hws are like 4-5 points each. When this is supposed to be 10% of grade and hw is 5%"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T15:58:28Z", 
+          "uid": "ijbr5ddtwyt6pa", 
+          "created": "2017-10-23T15:58:28Z", 
+          "type": "feedback", 
+          "id": "j94d9mudcai7ma", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thats what I am confused on. If it is just by points, then the project itself isn&#39;t worth much at all. Probably a few home works. If it is 10% it is worth a lot more than 30 points it seems, since an exam that was 15% of our grade was out of 95 points.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T16:09:03Z", 
+          "uid": "ij9b2ekdTWF", 
+          "created": "2017-10-23T16:09:03Z", 
+          "type": "feedback", 
+          "id": "j94dn8s8ryi6eu", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I&#39;ve also been curious about whether the exams are evenly weighted, given the difference in total points (95 for Exam 1, 85 for Exam 2).</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T16:11:59Z", 
+          "uid": "idg61g3ot1qp6", 
+          "created": "2017-10-23T16:11:59Z", 
+          "type": "feedback", 
+          "id": "j94dr0phgk85c3", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Sorry. It should be scores. Not points.<br />Zaid&#39;s original question is likely correct, in that his score would be like getting a 110%, or 1% more on his total overall grade.<br /><br />The grade is based on the scores. Follow the syllabus to figure out what % of your grade it makes up like every other course. However, you don&#39;t know what letter grade this translates to yet anyway, as stated in &#64;525.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T16:22:19Z", 
+          "uid": "idg61g3ot1qp6", 
+          "created": "2017-10-23T16:22:19Z", 
+          "type": "feedback", 
+          "id": "j94e4b7u8s52rs", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#64;Zaid.</p>\n<p>In retrospect, I should have just said &#34;Yes&#34; until told otherwise by a TA or the Prof.</p>"
+        }
+      ], 
+      "subject": "<p>I have a question about how the extra credit will be factored into our grade. The project is worth 10% of the grade. If we got, say, 33/30 on the project for 110%, does that mean we&#39;ll get 1% of extra credit on our final grade?</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-23T15:27:22Z", 
+      "no_upvotes": 0, 
+      "uid": "hkvdb9dig3v511", 
+      "created": "2017-10-23T15:27:22Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j94c5npvtkt60j", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-23T15:29:03Z", 
+          "uid": "hkvdb9dig3v511", 
+          "created": "2017-10-23T15:29:03Z", 
+          "type": "feedback", 
+          "id": "j94c7tm4woe7c2", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Nevermind, it will be uploaded to t-square later\u00a0- it says in the post</p>"
+        }
+      ], 
+      "subject": "<p>Where do we find the grade for the coding part?</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-23T16:14:57Z", 
+      "no_upvotes": 0, 
+      "uid": "hyzzr9z7x6a1mz", 
+      "created": "2017-10-23T16:14:57Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j94dutz1uvl1c0", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-23T16:18:47Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-10-23T16:18:47Z", 
+          "type": "feedback", 
+          "id": "j94dzrjcg2l5pr", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I believe a &#39;perfect&#39; was 15, but there were 3 extra credit points possible as well</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T16:19:23Z", 
+          "uid": "hyzzr9z7x6a1mz", 
+          "created": "2017-10-23T16:19:23Z", 
+          "type": "feedback", 
+          "id": "j94e0jo5waz515", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Nice! so it was 15/12?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T16:19:48Z", 
+          "uid": "idg61g3ot1qp6", 
+          "created": "2017-10-23T16:19:48Z", 
+          "type": "feedback", 
+          "id": "j94e12jz4uulh", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>15/15 (no extra credit) and 18/15 (if you got extra credit)</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T16:19:50Z", 
+          "uid": "ija2ufzr6l0f7", 
+          "created": "2017-10-23T16:19:50Z", 
+          "type": "feedback", 
+          "id": "j94e14hhisz6l1", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>The most you can get is 18/15 I think.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T16:20:40Z", 
+          "uid": "idg61g3ot1qp6", 
+          "created": "2017-10-23T16:20:40Z", 
+          "type": "feedback", 
+          "id": "j94e26z5faw1hp", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Also, this is just for the report.\u00a0 Coding portion is separate.\u00a0</p>"
+        }
+      ], 
+      "subject": "<p>Just to confirm. The maximum score (including the extra credit bonus) for this assignment was 15/15? The Rubic comments are still confusing.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-23T16:21:39Z", 
+      "no_upvotes": 0, 
+      "uid": "gns9oa0pgsO", 
+      "created": "2017-10-23T16:21:39Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j94e3g9yjc6269", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-23T19:56:47Z", 
+          "uid": "i4ket0u1z5q31a", 
+          "created": "2017-10-23T19:56:47Z", 
+          "type": "feedback", 
+          "id": "j94ls48iqwl3sv", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I wish I had understood I could implement a 3rd hash for bonus points, I took the comment &#34;You don&#39;t need to do that&#34; in office hours to mean don&#39;t do it because it isn&#39;t worth extra points.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T22:12:26Z", 
+          "uid": "hve4kb0lopy4sl", 
+          "created": "2017-10-23T22:12:26Z", 
+          "type": "feedback", 
+          "id": "j94qmk9txbadq", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Me too...\u00a0 and I also thought I wouldn&#39;t have enough space on the page for graphs either if I had done a third hashing function.\u00a0 I really could have used extra bonus points too and would certainly have done it if I knew there was the possibility of extra credit. There are multiple posts on piazza saying that extra credit wouldn&#39;t be offered in this class either. \u00a0 What about pagerank?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T23:07:16Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-10-23T23:07:16Z", 
+          "type": "feedback", 
+          "id": "j94sl33adtj1j1", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Dimitri, what do you mean by &#34;What about pagerank&#34;?"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-24T02:19:18Z", 
+          "uid": "hve4kb0lopy4sl", 
+          "created": "2017-10-24T02:19:18Z", 
+          "type": "feedback", 
+          "id": "j94zg1i7vpb1b6", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>In this semester&#39;s lecture schedule it is listed as an optional section near the end, but some of the wordpress html files also link to a <em>Spring 2017 CS 6505</em> schedule (which looks very similar to this 8803 class and not so much like the former 6505).\u00a0 And in that course schedule pagerank is listed as a programming project along with bloom filters. It sounds like an interesting assignment too so I&#39;m just wondering if there is any discussion going on about the possibility of making it an optional project for extra credit for example since I don&#39;t want to miss out on the opportunity for extra credit again.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-24T03:48:40Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-10-24T03:48:40Z", 
+          "type": "feedback", 
+          "id": "j952mytp9mq4l6", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Ahh... Thank you. I was afraid I had missed something."
+        }
+      ], 
+      "subject": "<p>Two things :</p>\n<p></p>\n<p>1 It is listed in T-square to be worth 30 points because that&#39;s an arbitrary number that matched the ad-hoc grading rubric i estimated before the project was released.\u00a0</p>\n<p></p>\n<p>2 The final % of your grade will be determined (i think it is 10 % for the project) and the grade will be scaled to fit that (so at best a 33/30 would give a student 1% bonus on their final grade.)</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-24T05:17:45Z", 
+      "no_upvotes": 0, 
+      "uid": "j6m1j9wkzk46tu", 
+      "created": "2017-10-24T05:17:45Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j955tiyg2ua55z", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-24T11:17:50Z", 
+          "uid": "hyvx0owj4ot1a0", 
+          "created": "2017-10-24T11:17:50Z", 
+          "type": "feedback", 
+          "id": "j95iolwx1o2a", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Hasn&#39;t been released yet.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-24T11:51:01Z", 
+          "uid": "gns9oa0pgsO", 
+          "created": "2017-10-24T11:51:01Z", 
+          "type": "feedback", 
+          "id": "j95jv9qwkmpej", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>yeah, sorry.\u00a0 i&#39;ll get it this afternoon.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-24T12:01:59Z", 
+          "uid": "hyvx0owj4ot1a0", 
+          "created": "2017-10-24T12:01:59Z", 
+          "type": "feedback", 
+          "id": "j95k9d9plgj6k7", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p><strong attention=\"gns9oa0pgsO\">&#64;john turner</strong>\u00a0 not a problem.\u00a0 As the only TA who graded this assignment, I imagine you&#39;ve been swamped the last few weeks.\u00a0 We can wait a little while longer.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-24T12:35:19Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-10-24T12:35:19Z", 
+          "type": "feedback", 
+          "id": "j95lg8xlyd82uj", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Plus i think it was said 90% of us got a perfect code score? I wouldn&#39;t be too worried about the code."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-24T12:49:33Z", 
+          "uid": "j6m1j9wkzk46tu", 
+          "created": "2017-10-24T12:49:33Z", 
+          "type": "feedback", 
+          "id": "j95lyjewd3c2og", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "who knows who is in 10% - LoL"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-24T17:27:50Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-10-24T17:27:50Z", 
+          "type": "feedback", 
+          "id": "j95vwfbx3q31r6", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "My thoughts exactly! (Worried I&#39;m in the 10%. Not really.)"
+        }
+      ], 
+      "subject": "When are coding grades getting released?  It was mentioned by yesterday itself but I don&#39;t find it on T-Square"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-24T19:53:10Z", 
+      "no_upvotes": 0, 
+      "uid": "gns9oa0pgsO", 
+      "created": "2017-10-24T19:53:10Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j9613bxjhd06rs", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-24T20:31:32Z", 
+          "uid": "hyvx0owj4ot1a0", 
+          "created": "2017-10-24T20:31:32Z", 
+          "type": "feedback", 
+          "id": "j962gnvp5p32bp", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thanks <strong attention=\"gns9oa0pgsO\">&#64;john turner</strong> \u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-24T20:32:10Z", 
+          "uid": "i4ijgkcwkz15lx", 
+          "created": "2017-10-24T20:32:10Z", 
+          "type": "feedback", 
+          "id": "j962hh0w1t035r", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thanks</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-26T15:15:55Z", 
+          "uid": "hz46706oA2e", 
+          "created": "2017-10-26T15:15:55Z", 
+          "type": "feedback", 
+          "id": "j98m2hcnay8m", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thanks for the prompt grading!</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-26T15:37:58Z", 
+          "uid": "i4omjkc5OQ8", 
+          "created": "2017-10-26T15:37:58Z", 
+          "type": "feedback", 
+          "id": "j98mutwt40l17c", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Never mind my earlier post. I see my grade now.</p>"
+        }
+      ], 
+      "subject": "<p>Code grade is now released as well, on t-square.\u00a0 grade is out of 15.</p>"
+    }
+  ], 
+  "nr": 784, 
+  "bucket_order": 2, 
+  "type": "note", 
+  "folders": [
+    "project"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-10-23T12:54:16Z", 
+  "is_tag_good": false, 
+  "config": {
+    "is_announcement": 1, 
+    "bypass_email": 1
+  }, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145133709, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>Hi folks - I am releasing the bloom filter project grades presently.\u00a0 You already should have received an email notifying you of your writeup grade (out of 15, and yes there was some extra credit points awarded here).\u00a0 The coding portion &#43; the writeup grade will be uploaded to T-Square some time today (hopefully).</p>\n<p></p>\n<p>Recap :</p>\n<p>- the writeup and the code portion were each worth 15 points, for a total of 30 (&#43; up to 3 points for extra credit on writeup).</p>\n<p>- up to 3 points of extra credit were achievable on the project writeup based on insights and thoroughness of plots</p>\n<p>- no extra credit was awarded on the coding portion.\u00a0 about 90% of students who submitted code got full credit for the coding portion.\u00a0 Those who didn&#39;t either timed out or had errors in their implementation.\u00a0 The penalties for these varied but some credit was always awarded.</p>\n<p></p>\n<p>Edit : apparently the rubric was initially hidden - this was not intended, and should be visible now.</p>", 
+      "anon": "no", 
+      "created": "2017-10-23T14:21:06Z", 
+      "uid": "gns9oa0pgsO", 
+      "subject": "Bloom Filter project grades being released"
+    }, 
+    {
+      "content": "<p>Hi folks - I am releasing the bloom filter project grades presently.\u00a0 You already should have received an email notifying you of your writeup grade (out of 15, and yes there was some extra credit points awarded here).\u00a0 The coding portion &#43; the writeup grade will be uploaded to T-Square some time today (hopefully).</p>\n<p></p>\n<p>Recap :</p>\n<p>- the writeup and the code portion were each worth 15 points, for a total of 30 (&#43; up to 3 points for extra credit on writeup).</p>\n<p>- up to 3 points of extra credit were achievable on the project writeup based on insights and thoroughness of plots</p>\n<p>- no extra credit was awarded on the coding portion.\u00a0 about 90% of students who submitted code got full credit for the coding portion.\u00a0 Those who didn&#39;t either timed out or had errors in their implementation.\u00a0 The penalties for these varied but some credit was always awarded.</p>\n<p></p>\n<p>Edit : apparently the rubric is hidden - this was not intended.\u00a0 I will attempt to remedy this presently.</p>", 
+      "anon": "no", 
+      "created": "2017-10-23T14:17:52Z", 
+      "uid": "gns9oa0pgsO", 
+      "subject": "Bloom Filter project grades being released"
+    }, 
+    {
+      "content": "<p>Hi folks - I am releasing the bloom filter project grades presently.\u00a0 You already should have received an email notifying you of your writeup grade (out of 15, and yes there was some extra credit points awarded here).\u00a0 The coding portion &#43; the writeup grade will be uploaded to T-Square some time today (hopefully).</p>\n<p></p>\n<p>Recap :</p>\n<p>- the writeup and the code portion were each worth 15 points, for a total of 30 (&#43; up to 3 points for extra credit on writeup).</p>\n<p>- up to 3 points of extra credit were achievable on the project writeup based on insights and thoroughness of plots</p>\n<p>- no extra credit was awarded on the coding portion.\u00a0 about 90% of students who submitted code got full credit for the coding portion.\u00a0 Those who didn&#39;t either timed out or had errors in their implementation.\u00a0 The penalties for these varied but some credit was always awarded.</p>", 
+      "anon": "no", 
+      "created": "2017-10-23T12:54:16Z", 
+      "uid": "gns9oa0pgsO", 
+      "subject": "Bloom Filter project grades being released"
+    }
+  ]
+}

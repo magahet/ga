@@ -1,0 +1,173 @@
+{
+  "status": "active", 
+  "unique_views": 169, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-28T22:24:47Z", 
+      "data": "j85125qb94s1td", 
+      "uid": "groxksg3ex8"
+    }, 
+    {
+      "to": "j85125q8jl31tc", 
+      "anon": "no", 
+      "when": "2017-09-29T14:21:26Z", 
+      "type": "followup", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j85125q8jl31tc", 
+      "anon": "no", 
+      "when": "2017-09-29T23:02:26Z", 
+      "type": "feedback", 
+      "uid": "groxksg3ex8"
+    }, 
+    {
+      "to": "j85125q8jl31tc", 
+      "anon": "no", 
+      "when": "2017-09-30T02:19:21Z", 
+      "type": "followup", 
+      "uid": "hv5exp71kfz754"
+    }, 
+    {
+      "to": "j85125q8jl31tc", 
+      "anon": "no", 
+      "when": "2017-09-30T15:40:48Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "uid": "gy4twfv45cg5o6", 
+      "type": "i_answer", 
+      "when": "2017-10-10T19:33:47Z", 
+      "to": "j85125q8jl31tc", 
+      "anon": "no", 
+      "data": "j8m08gtrv5z431"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j85125q8jl31tc", 
+  "bookmarked": 5, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-09-29T14:21:26Z", 
+      "no_upvotes": 0, 
+      "uid": "i4nkipeofrkrz", 
+      "created": "2017-09-29T14:21:26Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j85z8f5hplw22i", 
+      "anon": "no", 
+      "bucket_name": "Week 9/24 - 9/30", 
+      "config": {}, 
+      "bucket_order": 7, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-29T23:02:26Z", 
+          "uid": "groxksg3ex8", 
+          "created": "2017-09-29T23:02:26Z", 
+          "type": "feedback", 
+          "id": "j86hufkag7n5t1", 
+          "anon": "no", 
+          "bucket_name": "Week 9/24 - 9/30", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>yes</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-30T15:40:48Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-09-30T15:40:48Z", 
+          "type": "feedback", 
+          "id": "j87hibqchxx1wt", 
+          "anon": "no", 
+          "bucket_name": "Week 9/24 - 9/30", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Try to test both hashes with an input that follows a specific pattern. For example, try an input with odd/even numbers only, or sequential numbers, or any other patter that you can come up with and see if that gives you something.</p>"
+        }
+      ], 
+      "subject": "<p>Is this related to Task 1?</p>"
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-10T19:33:47Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j8m08gt4m05430", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "Resolved. --Eric", 
+          "anon": "no", 
+          "created": "2017-10-10T19:33:47Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 477, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "project"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 3, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "project", 
+    "student"
+  ], 
+  "created": "2017-09-28T22:24:47Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145206814, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>I&#39;m having some issues with this. I&#39;m trying to find the load and plots to get a comparison between Hash1 and Hash2 but I&#39;m not getting anything. I&#39;ve tried the Load with 1,2,3,... data sources but both hashes seem to be averaging the same.\u00a0</p>\n<p></p>\n<p>ie. for a load with 4 data sources, both hashes average out to 7</p>\n<p></p>\n<p>Also, my values are fluctuating as k increases.\u00a0</p>\n<p></p>\n<p>Can someone help me get more consistent data?</p>", 
+      "anon": "no", 
+      "created": "2017-09-28T22:24:47Z", 
+      "uid": "groxksg3ex8", 
+      "subject": "Comparing Hash Functions"
+    }
+  ]
+}

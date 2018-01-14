@@ -1,0 +1,160 @@
+{
+  "status": "active", 
+  "unique_views": 213, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-08-23T14:59:25Z", 
+      "data": "j6p5aqrnw5w2sd", 
+      "uid": "iddoy33j6hv2tz"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-08-23T14:59:39Z", 
+      "data": "j6p5b14sgb83a1", 
+      "uid": "iddoy33j6hv2tz"
+    }, 
+    {
+      "uid": "gy4twfv45cg5o6", 
+      "type": "i_answer", 
+      "when": "2017-08-23T15:15:20Z", 
+      "to": "j6p5aqrm8432sc", 
+      "anon": "no", 
+      "data": "j6p5v7ed9lq1y6"
+    }, 
+    {
+      "uid": "iddoy33j6hv2tz", 
+      "type": "s_answer", 
+      "when": "2017-08-23T18:41:25Z", 
+      "to": "j6p5aqrm8432sc", 
+      "anon": "no", 
+      "data": "j6pd883wkma5be"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j6p5aqrm8432sc", 
+  "bookmarked": 2, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-08-23T15:15:20Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "iddoy33j6hv2tz", 
+        "is5krsxofrj2r4"
+      ], 
+      "id": "j6p5v7e9qyj1y5", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Parag Kalra", 
+          "admin": false, 
+          "photo": null, 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "iddoy33j6hv2tz"
+        }, 
+        {
+          "name": "Rajesh Joban", 
+          "admin": false, 
+          "photo": null, 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "is5krsxofrj2r4"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p></p>\n<p>We can make the final exam open from Thursday afternoon 12/7. \u00a0</p>\n<p>Send me a reminder closer to. \u00a0It looks like the first final exam is at 2:50pm</p>\n<p>on Thursday Dec. 7, so we&#39;ll make it available from then through the</p>\n<p>weekend:</p>\n<p>\u00a0\u00a0http://www.registrar.gatech.edu/students/exams.php</p>\n<p></p>\n<p>--Eric</p>", 
+          "anon": "no", 
+          "created": "2017-08-23T15:15:20Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-08-23T18:41:25Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j6pd883uril5bd", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>Thank you very much Professor!!</p>", 
+          "anon": "no", 
+          "created": "2017-08-23T18:41:25Z", 
+          "uid": "iddoy33j6hv2tz", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 50, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "exam"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 0, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "exam", 
+    "student"
+  ], 
+  "created": "2017-08-23T14:59:25Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145322456, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>Hello Professor,</p>\n<p></p>\n<p>I know it is too early but just wanted to confirm the exact day and time when the final exam window would open for students based in US.</p>\n<p></p>\n<p>Accordingly to official schedule, it will be on Dec 8th, Friday but on the thread &#64;14, you have mentioned that it would open around noon on Dec 7th, Thu.</p>\n<p></p>\n<p>So does that mean that students who are based in US would also be able to give the exam starting noon on Dec 7th, Thu?</p>\n<p></p>\n<p>I will be flying out of US on Dec 8th, Fri so wanted to confirm the dates again before booking the international flight tickets.</p>\n<p></p>\n<p>Many thanks in advance.</p>", 
+      "anon": "no", 
+      "created": "2017-08-23T14:59:39Z", 
+      "uid": "iddoy33j6hv2tz", 
+      "subject": "When will the final exam window open for US students"
+    }, 
+    {
+      "content": "<p>Hello Professor,</p>\n<p></p>\n<p>I know it is too early but just wanted to confirm the exact day and time when the final exam window would open for students based in US.</p>\n<p></p>\n<p>Accordingly to official schedule, it will be on Dec 8th, Friday but on the thread &#64;14, you have mentioned that it would open around noon on Dec 7th, Thu.</p>\n<p></p>\n<p>So does that mean that students who are based in US would also be able to give the exam starting noon on Dec 7th, Thu?</p>\n<p></p>\n<p>I will be flying out of US on Dec 8th, Fri so wanted to confirm the dates again before booking the international flight tickets.</p>\n<p></p>\n<p>Many thanks in advance.</p>", 
+      "anon": "no", 
+      "created": "2017-08-23T14:59:25Z", 
+      "uid": "iddoy33j6hv2tz", 
+      "subject": "When will the final exam window exactly open for US students"
+    }
+  ]
+}

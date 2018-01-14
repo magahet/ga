@@ -1,0 +1,1219 @@
+{
+  "status": "active", 
+  "unique_views": 279, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-18T14:19:21Z", 
+      "data": "j8x4ix4pyu4w8", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j8x4ix4n3rv4w7", 
+      "anon": "no", 
+      "when": "2017-10-18T14:38:48Z", 
+      "type": "followup", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j8x4ix4n3rv4w7", 
+      "anon": "no", 
+      "when": "2017-10-18T14:45:29Z", 
+      "type": "followup", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j8x4ix4n3rv4w7", 
+      "anon": "no", 
+      "when": "2017-10-18T14:50:29Z", 
+      "type": "feedback", 
+      "uid": "idg61g3ot1qp6"
+    }, 
+    {
+      "to": "j8x4ix4n3rv4w7", 
+      "anon": "no", 
+      "when": "2017-10-18T14:50:38Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j8x4ix4n3rv4w7", 
+      "anon": "no", 
+      "when": "2017-10-18T14:51:04Z", 
+      "type": "followup", 
+      "uid": "hq73eu599lv"
+    }, 
+    {
+      "to": "j8x4ix4n3rv4w7", 
+      "anon": "no", 
+      "when": "2017-10-18T14:53:04Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j8x4ix4n3rv4w7", 
+      "anon": "no", 
+      "when": "2017-10-18T14:53:32Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j8x4ix4n3rv4w7", 
+      "anon": "no", 
+      "when": "2017-10-18T15:18:21Z", 
+      "type": "followup", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j8x4ix4n3rv4w7", 
+      "anon": "no", 
+      "when": "2017-10-18T15:27:45Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j8x4ix4n3rv4w7", 
+      "anon": "no", 
+      "when": "2017-10-18T15:28:33Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j8x4ix4n3rv4w7", 
+      "anon": "no", 
+      "when": "2017-10-18T16:09:25Z", 
+      "type": "followup", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j8x4ix4n3rv4w7", 
+      "anon": "no", 
+      "when": "2017-10-18T17:24:43Z", 
+      "type": "followup", 
+      "uid": "i4jridi579yhq"
+    }, 
+    {
+      "to": "j8x4ix4n3rv4w7", 
+      "anon": "no", 
+      "when": "2017-10-18T17:28:41Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j8x4ix4n3rv4w7", 
+      "anon": "no", 
+      "when": "2017-10-18T17:37:37Z", 
+      "type": "feedback", 
+      "uid": "i4jridi579yhq"
+    }, 
+    {
+      "to": "j8x4ix4n3rv4w7", 
+      "anon": "no", 
+      "when": "2017-10-18T17:39:19Z", 
+      "type": "feedback", 
+      "uid": "idg61g3ot1qp6"
+    }, 
+    {
+      "to": "j8x4ix4n3rv4w7", 
+      "anon": "no", 
+      "when": "2017-10-18T17:41:08Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j8x4ix4n3rv4w7", 
+      "anon": "no", 
+      "when": "2017-10-18T17:43:24Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j8x4ix4n3rv4w7", 
+      "anon": "no", 
+      "when": "2017-10-18T17:44:09Z", 
+      "type": "feedback", 
+      "uid": "i4jridi579yhq"
+    }, 
+    {
+      "to": "j8x4ix4n3rv4w7", 
+      "anon": "no", 
+      "when": "2017-10-18T17:47:33Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j8x4ix4n3rv4w7", 
+      "anon": "no", 
+      "when": "2017-10-18T17:49:20Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j8x4ix4n3rv4w7", 
+      "anon": "no", 
+      "when": "2017-10-18T19:03:08Z", 
+      "type": "followup", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "to": "j8x4ix4n3rv4w7", 
+      "anon": "no", 
+      "when": "2017-10-18T19:04:52Z", 
+      "type": "feedback", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "to": "j8x4ix4n3rv4w7", 
+      "anon": "no", 
+      "when": "2017-10-18T19:12:55Z", 
+      "type": "feedback", 
+      "uid": "idgauptz2ou3po"
+    }, 
+    {
+      "to": "j8x4ix4n3rv4w7", 
+      "anon": "no", 
+      "when": "2017-10-18T19:25:17Z", 
+      "type": "feedback", 
+      "uid": "hz46706oA2e"
+    }, 
+    {
+      "to": "j8x4ix4n3rv4w7", 
+      "anon": "no", 
+      "when": "2017-10-18T19:30:14Z", 
+      "type": "feedback", 
+      "uid": "ijarmqggjkc3gz"
+    }, 
+    {
+      "to": "j8x4ix4n3rv4w7", 
+      "anon": "no", 
+      "when": "2017-10-18T22:08:10Z", 
+      "type": "feedback", 
+      "uid": "ijjd1u5dbTq"
+    }, 
+    {
+      "to": "j8x4ix4n3rv4w7", 
+      "anon": "no", 
+      "when": "2017-10-18T23:41:22Z", 
+      "type": "feedback", 
+      "uid": "i4g1simdqek6ey"
+    }, 
+    {
+      "to": "j8x4ix4n3rv4w7", 
+      "anon": "no", 
+      "when": "2017-10-19T00:33:21Z", 
+      "type": "feedback", 
+      "uid": "hvegstfnkcc5uc"
+    }, 
+    {
+      "to": "j8x4ix4n3rv4w7", 
+      "anon": "no", 
+      "when": "2017-10-19T00:36:27Z", 
+      "type": "feedback", 
+      "uid": "hz0f837zrvz4rn"
+    }, 
+    {
+      "to": "j8x4ix4n3rv4w7", 
+      "anon": "no", 
+      "when": "2017-10-19T04:31:17Z", 
+      "type": "feedback", 
+      "uid": "i4jbu18kld03sy"
+    }, 
+    {
+      "to": "j8x4ix4n3rv4w7", 
+      "anon": "no", 
+      "when": "2017-10-19T05:45:50Z", 
+      "type": "feedback", 
+      "uid": "i4gyatgdfzz"
+    }, 
+    {
+      "to": "j8x4ix4n3rv4w7", 
+      "anon": "no", 
+      "when": "2017-10-19T06:59:50Z", 
+      "type": "feedback", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "to": "j8x4ix4n3rv4w7", 
+      "anon": "no", 
+      "when": "2017-10-19T13:24:40Z", 
+      "type": "feedback", 
+      "uid": "i4jridi579yhq"
+    }, 
+    {
+      "to": "j8x4ix4n3rv4w7", 
+      "anon": "no", 
+      "when": "2017-10-19T13:37:46Z", 
+      "type": "followup", 
+      "uid": "hyzzr9z7x6a1mz"
+    }, 
+    {
+      "to": "j8x4ix4n3rv4w7", 
+      "anon": "no", 
+      "when": "2017-10-19T15:04:20Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j8x4ix4n3rv4w7", 
+      "anon": "no", 
+      "when": "2017-10-19T16:21:14Z", 
+      "type": "feedback", 
+      "uid": "hv1gl7gmpkj41y"
+    }, 
+    {
+      "to": "j8x4ix4n3rv4w7", 
+      "anon": "no", 
+      "when": "2017-10-19T17:44:22Z", 
+      "type": "followup", 
+      "uid": "hyzzr9z7x6a1mz"
+    }, 
+    {
+      "to": "j8x4ix4n3rv4w7", 
+      "anon": "no", 
+      "when": "2017-10-19T17:49:03Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j8x4ix4n3rv4w7", 
+      "anon": "no", 
+      "when": "2017-10-19T17:51:00Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j8x4ix4n3rv4w7", 
+      "anon": "no", 
+      "when": "2017-10-19T17:52:34Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j8x4ix4n3rv4w7", 
+      "anon": "no", 
+      "when": "2017-10-19T18:25:35Z", 
+      "type": "feedback", 
+      "uid": "hyzzr9z7x6a1mz"
+    }, 
+    {
+      "to": "j8x4ix4n3rv4w7", 
+      "anon": "no", 
+      "when": "2017-10-19T19:57:31Z", 
+      "type": "followup", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j8x4ix4n3rv4w7", 
+      "anon": "no", 
+      "when": "2017-10-19T22:41:18Z", 
+      "type": "feedback", 
+      "uid": "idg61g3ot1qp6"
+    }, 
+    {
+      "to": "j8x4ix4n3rv4w7", 
+      "anon": "no", 
+      "when": "2017-10-19T22:48:15Z", 
+      "type": "feedback", 
+      "uid": "ijjd1u5dbTq"
+    }, 
+    {
+      "to": "j8x4ix4n3rv4w7", 
+      "anon": "no", 
+      "when": "2017-10-20T00:08:04Z", 
+      "type": "followup", 
+      "uid": "hz03lfq2z6r446"
+    }, 
+    {
+      "to": "j8x4ix4n3rv4w7", 
+      "anon": "no", 
+      "when": "2017-10-20T00:26:10Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j8x4ix4n3rv4w7", 
+      "anon": "no", 
+      "when": "2017-10-24T15:30:42Z", 
+      "type": "feedback", 
+      "uid": "i4hdvab632i522"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8x4ix4n3rv4w7", 
+  "bookmarked": 24, 
+  "tags": [
+    "exam", 
+    "instructor-note", 
+    "pin"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-10-18T14:38:48Z", 
+      "no_upvotes": 0, 
+      "uid": "i4nkipeofrkrz", 
+      "created": "2017-10-18T14:38:48Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8x57xiypjy5eu", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-18T14:50:38Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-10-18T14:50:38Z", 
+          "type": "feedback", 
+          "id": "j8x5n5nn8bu4b7", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "I don&#39;t want to say any more about the specific problems, or the exact format.  I think I gave enough info, it&#39;s more than I usually do.\n\nNo extra credit at the moment.\n\nYes, you need to specify the run time.  That will be pointed out in the problems."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-18T19:04:52Z", 
+          "uid": "ijbr5ddtwyt6pa", 
+          "created": "2017-10-18T19:04:52Z", 
+          "type": "feedback", 
+          "id": "j8xeq3hiwuk6vu", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>For these materials, what chapters should we focus on in the book. I would assume 3, 4, 5, and 7 (when it comes to running through practice problems)? Have any students found other good sites with practice problems?</p>"
+        }
+      ], 
+      "subject": "<p>Here are a few questions:<br /><br /></p>\n<ol><li>Are all of these 4 problems the same format (use an existing algorithm as a black box to solve something else)?<br /><br /></li><li>Is any of these 4 problems considered extra credit?<br /><br /></li><li>Do we need to specify the run time of our algorithms as part of the solution?</li></ol>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-18T14:45:29Z", 
+      "no_upvotes": 0, 
+      "uid": "hvil6y6khgk2ri", 
+      "created": "2017-10-18T14:45:29Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8x5gis54si1nx", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-18T14:50:29Z", 
+          "uid": "idg61g3ot1qp6", 
+          "created": "2017-10-18T14:50:29Z", 
+          "type": "feedback", 
+          "id": "j8x5myaso046t", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Naive would be like if you run linear search on a very long sorted array instead of using binary search</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-18T14:53:32Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-10-18T14:53:32Z", 
+          "type": "feedback", 
+          "id": "j8x5qvy9v2h6lu", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Exactly."
+        }
+      ], 
+      "subject": "<p>Also, what would be considered a &#34;naive algorithm&#34;?</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-18T14:51:04Z", 
+      "no_upvotes": 0, 
+      "uid": "hq73eu599lv", 
+      "created": "2017-10-18T14:51:04Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8x5npeopp01ll", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-18T14:53:04Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-10-18T14:53:04Z", 
+          "type": "feedback", 
+          "id": "j8x5q9plwo86ag", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Of course I only want your solutions.  I don&#39;t want your scrap pages.  So ideally you just need to scan 4 sides of a page, one side per problem."
+        }
+      ], 
+      "subject": "<p>The last test had I think 16 pages in the template.\u00a0 Can we only turn in (i.e. scan) the pages we use during the test, or do we have to turn in all 16?</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-18T15:18:21Z", 
+      "no_upvotes": 0, 
+      "uid": "hvil6y6khgk2ri", 
+      "created": "2017-10-18T15:18:21Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8x6msl1696e8", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-18T15:27:45Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-10-18T15:27:45Z", 
+          "type": "feedback", 
+          "id": "j8x6yvjff5z10x", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "You mean for shortest paths?  I will say positive edge weights as I believe was done on the homework?"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-18T15:28:33Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-10-18T15:28:33Z", 
+          "type": "feedback", 
+          "id": "j8x6zwwywro1fv", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I did mean for shortest paths, and yes, that does answer the question then. Thanks!</p>"
+        }
+      ], 
+      "subject": "<p>Oh, there is some confusion on whether or not we will need to know how to handle negative values in graphs - it wasnt in any homework or practice problem (that I recall), but are we expected to know how to handle those going into the test?</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-18T16:09:25Z", 
+      "no_upvotes": 0, 
+      "uid": "hvil6y6khgk2ri", 
+      "created": "2017-10-18T16:09:25Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8x8ggpu8et4ab", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>Just wanted to give a warning to all Windows users - it seems windows just laid out some hefty updates (big).\u00a0 If you use a computer for the test that you do not use regularly, you will want to get that updated now so it doesnt take a few hours to update come test day.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-18T17:24:43Z", 
+      "no_upvotes": 0, 
+      "uid": "i4jridi579yhq", 
+      "created": "2017-10-18T17:24:43Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8xb5axxd0s6jk", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-18T17:28:41Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-10-18T17:28:41Z", 
+          "type": "feedback", 
+          "id": "j8xbaeiqd7dys", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Type into what system?  We need to use Gradescope to make the grading simpler.  Tell me a complete solution and I will listen."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-18T17:37:37Z", 
+          "uid": "i4jridi579yhq", 
+          "created": "2017-10-18T17:37:37Z", 
+          "type": "feedback", 
+          "id": "j8xblwfrp9n25a", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I was thinking ProctorTrack.\u00a0If we want to stick with Gradescope for submissions, we could use a LaTeX template like we do for the homework. That would simplify scanning and make grading easier, but that solution doesn&#39;t eliminate the timer issues\u00a0and might make things more complicated.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-18T17:39:19Z", 
+          "uid": "idg61g3ot1qp6", 
+          "created": "2017-10-18T17:39:19Z", 
+          "type": "feedback", 
+          "id": "j8xbo32pbed1nr", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Suggestion:</p>\n<p>On the last exam, I saw a prompt before starting the exam saying we have access to two text editors, MS Word(?) and one other program (Notepad?).</p>\n<p>If we have access to MS Word, we could type our answers and then use the print to PDF option.</p>\n<p>Then, upload the PDF directly to Gradescope.\u00a0 No scanning needed.</p>\n<p>Everything would be recorded by ProctorTrack while we type out the answers.\u00a0 Also, I believe Copy/Paste is disabled by ProctorTrack as well.</p>\n<p>It would make it easier for students to get the info to you, and for graders to read the answers.</p>\n<p></p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-18T17:41:08Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-10-18T17:41:08Z", 
+          "type": "feedback", 
+          "id": "j8xbqep1tj5ny", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Hmm, I do know for my homework I have taken to screenshotting the questions then pasting in Word; from there, I can simply type everything up (superscripts, subscripts, whatever - all works).<br /><br />If Word is allowed (opening ONLY a blank doc), we could open a blank doc and then type our answers in that.\u00a0 For the nonstandard characters (union, &#39;element of&#39;, &#39;not an element of&#39;, sum, pi, etc), there could be a character to hex mapping posted on the test in proctortrack (the page I use to find these are <a href=\"http://www.alanwood.net/unicode/mathematical_operators.html\" target=\"_blank\">here</a>). How they work is the hex number is typed, then you immediately press alt&#43;x and it transforms it to its character (this is what I do when I type my notes).</p>\n<p></p>\n<p>Its easy (at least for me) so long as you have those hex codes handy.</p>\n<p></p>\n<p>I am sure there is something similar for Mac.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-18T17:43:24Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-10-18T17:43:24Z", 
+          "type": "feedback", 
+          "id": "j8xbtbrzr972pt", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>It may also be the case that proctortrack can do that natively (although I have no idea if its true). If that is the case, the whole thing may be done with proctortrack and some of the headaches may be eliminated from the process.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-18T17:44:09Z", 
+          "uid": "i4jridi579yhq", 
+          "created": "2017-10-18T17:44:09Z", 
+          "type": "feedback", 
+          "id": "j8xbuap2op64y", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p></p><blockquote>\n<p>We need to use Gradescope to make the grading simpler.</p>\n</blockquote>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-18T17:47:33Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-10-18T17:47:33Z", 
+          "type": "feedback", 
+          "id": "j8xbyo7kba4638", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "You can enter solutions in Proctortrack, but then we get ALL of the solutions as .csv file.  How do we transfer that to Gradescope?\nSame problem with entering solutions in TSquare.\n\nFor MS Word idea, try it out with the Exam 1 onboarding exam -- it should be open still."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-18T17:49:20Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-10-18T17:49:20Z", 
+          "type": "feedback", 
+          "id": "j8xc0yuhz103uu", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>OK, I will try that tonight when I get home</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-18T19:30:14Z", 
+          "uid": "ijarmqggjkc3gz", 
+          "created": "2017-10-18T19:30:14Z", 
+          "type": "feedback", 
+          "id": "j8xfmq4dja12fv", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Brent, The MS equation editor has gotten much better over the years and now has keyword shortcuts that are very similar to latex.\u00a0 It\u00a0seems much more intuitive than memorizing hex codes and there&#39;s always the GUI to help you when you forget.</p>\n<p></p>\n<p><a href=\"http://www.iun.edu/~mathiho/useful/Equation%20Editor%20Shortcut%20Commands.pdf\">http://www.iun.edu/~mathiho/useful/Equation%20Editor%20Shortcut%20Commands.pdf</a>\u00a0</p>\n<p></p>\n<p>I think the main point that Dr. Vigoda is implying is that we&#39;re allowed to use Word or Notepad to type our solutions, save to PDF, and upload to Gradescope as an alternative to handwriting solutions and scanning.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-19T06:59:50Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-10-19T06:59:50Z", 
+          "type": "feedback", 
+          "id": "j8y49jt187g65g", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Not everyone has MS Word; however there is <a href=\"https://extensions.libreoffice.org/extensions/texmaths-1\">TexMaths</a> for LibreOffice, that of course has its own equation editor too"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-19T13:24:40Z", 
+          "uid": "i4jridi579yhq", 
+          "created": "2017-10-19T13:24:40Z", 
+          "type": "feedback", 
+          "id": "j8yi0g9yc7c74m", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I think everyone has access to Word through OIT.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-19T22:41:18Z", 
+          "uid": "idg61g3ot1qp6", 
+          "created": "2017-10-19T22:41:18Z", 
+          "type": "feedback", 
+          "id": "j8z1wabo1yt15t", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p><em>For MS Word idea, try it out with the Exam 1 onboarding exam -- it should be open still.</em></p>\n<p></p>\n<p><span style=\"text-decoration:underline\">As a Follow-Up:</span></p>\n<p>I went through the onboarding exam again.</p>\n<p>There is a dialog popup with a note right before starting that says MS Word and Notepad are allowed for taking notes.</p>\n<p>I tried to take a screenshot of it to share using Snipping Tool, but ProctorTrack killed that with fire.\u00a0</p>\n<p></p>\n<p>I then typed out some random data in MS Word and Notepad, and used the Print --&gt; Print to PDF options in both.</p>\n<p>ProctorTrack did not give me any issues with either program.</p>\n<p>Finally, I uploaded the PDF from MS Word to\u00a0GradeScope and submitted the final question in ProctorTrack to stop the exam.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-20T00:26:10Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-10-20T00:26:10Z", 
+          "type": "feedback", 
+          "id": "j8z5n4vqfzz5u0", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Unfortunately I got my behind kicked last night by a stomach bug (my wife is a schoolteacher and my son is in childcare, so I get hit with this often).\u00a0 Sadly, I did not get a chance to try this out last night and now I am trying to play catch-up with studying. For next exam I will try to get something together.<br /><br />I am not sure if we will have to draw graphs for this exam (the hw had a few problems with drawing), so if that could be a part of the exam I guess Word is moot for this one.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-24T15:30:42Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-10-24T15:30:42Z", 
+          "type": "feedback", 
+          "id": "j95rps3u4371z8", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Incidentally, although version 1705 of word that I seemed to have already installed in windows from OIT was not updating, when I uninstalled then reinstalled version 1709, even though according to <a href=\"https://superuser.com/a/509805\">https://superuser.com/a/509805</a> as of version 1707 it should have $$\\LaTeX$$ <a href=\"https://support.office.com/en-us/article/Linear-format-equations-using-UnicodeMath-and-LaTeX-in-Word-2e00618d-b1fd-49d8-8cb4-8d17f25754f8\">support</a>, there was no sign of the &#39;conversions&#39; element in the equation ribbon/toolbar, so possibly support has already been withdrawn? The post does say it was buggy.\n\nIt&#39;s very good that Microsoft is increasingly trying to &#39;bridge the gap&#39; although you get the feeling it&#39;s not quite all there, yet"
+        }
+      ], 
+      "subject": "<p>It&#39;s probably too late for this test, but it sounds like the answers will be in plain english. If that&#39;s true, it might make sense to type the answers instead of scanning them in. That would avoid all of the unknowns with the scanning software and the timer.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-18T19:03:08Z", 
+      "no_upvotes": 0, 
+      "uid": "ijbr5ddtwyt6pa", 
+      "created": "2017-10-18T19:03:08Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8xenuwof5u5w8", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-18T19:12:55Z", 
+          "uid": "idgauptz2ou3po", 
+          "created": "2017-10-18T19:12:55Z", 
+          "type": "feedback", 
+          "id": "j8xf0g9fwl0mv", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "For me, a multifunction printer that scans directly to PDF files on a USB flash drive works really well.<div><br /></div><div>But this test will require scanning 4 pages, which is the same as a homework, so maybe your homework scanning solution will be fine.\u00a0</div>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-18T19:25:17Z", 
+          "uid": "hz46706oA2e", 
+          "created": "2017-10-18T19:25:17Z", 
+          "type": "feedback", 
+          "id": "j8xfgcdpauy4gb", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I picked up an Epson DS-30 portable scanner - worked well for me.\u00a0 Could also be useful if you ever need a portable scanner...</p>\n<p></p>\n<p><a href=\"https://epson.com/For-Work/Scanners/Mobile-Document/Epson-WorkForce-DS-30-Color-Portable-Scanner/p/B11B206201\" target=\"_blank\">https://epson.com/For-Work/Scanners/Mobile-Document/Epson-WorkForce-DS-30-Color-Portable-Scanner/p/B11B206201</a></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-18T22:08:10Z", 
+          "uid": "ijjd1u5dbTq", 
+          "created": "2017-10-18T22:08:10Z", 
+          "type": "feedback", 
+          "id": "j8xl9tgb1vrob", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I have used the camera on my phone for each submission so far and haven&#39;t had any problems yet. I have a newer phone though (OnePlus 5).</p>\n<p></p>\n<p>The photos are automatically synced to Google Photos. After finishing my test, I take the photos, navigate to Google Photos in a new tab, download the photos, upload to Gradescope and done. It&#39;s pretty seamless.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-18T23:41:22Z", 
+          "uid": "i4g1simdqek6ey", 
+          "created": "2017-10-18T23:41:22Z", 
+          "type": "feedback", 
+          "id": "j8xolo7r4vw1t1", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I downloaded this program: <a href=\"https://sourceforge.net/projects/naps2/\">https://sourceforge.net/projects/naps2/</a>. It allowed me to use the auto-feed feature and rearrange pages if need be (like if you want to scan front and back). I haven&#39;t ran into any problems with the software yet.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-19T00:33:21Z", 
+          "uid": "hvegstfnkcc5uc", 
+          "created": "2017-10-19T00:33:21Z", 
+          "type": "feedback", 
+          "id": "j8xqgj0jgt57b7", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I also use NAPS2 (Not Another PDF Scanner 2).\u00a0 This is the way to go if you have a flat-bed scanner.\u00a0 Simple, open-source, and easy to use.\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-19T00:36:27Z", 
+          "uid": "hz0f837zrvz4rn", 
+          "created": "2017-10-19T00:36:27Z", 
+          "type": "feedback", 
+          "id": "j8xqkivzt0h9", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Used NAPS2 as well for the last test.\u00a0\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-19T04:31:17Z", 
+          "uid": "i4jbu18kld03sy", 
+          "created": "2017-10-19T04:31:17Z", 
+          "type": "feedback", 
+          "id": "j8xyyi71byd7e7", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "I downloaded the iScanner app on my iPhone and it worked well."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-19T05:45:50Z", 
+          "uid": "i4gyatgdfzz", 
+          "created": "2017-10-19T05:45:50Z", 
+          "type": "feedback", 
+          "id": "j8y1me60pb119q", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Google drive has a somewhat hidden but very nice scan function.\nCamScanner does the same but more professionally.\nBoth on Android, perhaps iOS as well."
+        }
+      ], 
+      "subject": "<p>What has everyone been using to scan and upload their tests? I was using Microsoft Lens, which is great for homeworks, but a potato for larger uploads (like the test).</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-19T13:37:46Z", 
+      "no_upvotes": 0, 
+      "uid": "hyzzr9z7x6a1mz", 
+      "created": "2017-10-19T13:37:46Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8yihahn1bl1vv", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-19T15:04:20Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-10-19T15:04:20Z", 
+          "type": "feedback", 
+          "id": "j8ylkm2suor48h", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I am sweatting this, as I didnt fully understand how to make the 2-SAT problem into states.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-19T16:21:14Z", 
+          "uid": "hv1gl7gmpkj41y", 
+          "created": "2017-10-19T16:21:14Z", 
+          "type": "feedback", 
+          "id": "j8yobilcha25mr", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#43;1</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-19T22:48:15Z", 
+          "uid": "ijjd1u5dbTq", 
+          "created": "2017-10-19T22:48:15Z", 
+          "type": "feedback", 
+          "id": "j8z2589g85p6sq", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Would also like to know.</p>"
+        }
+      ], 
+      "subject": "<p>Will 2-SAT, k-SAT be part of the exam?</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-19T17:44:22Z", 
+      "no_upvotes": 0, 
+      "uid": "hyzzr9z7x6a1mz", 
+      "created": "2017-10-19T17:44:22Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8yraf4ho922a1", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-19T17:49:03Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-10-19T17:49:03Z", 
+          "type": "feedback", 
+          "id": "j8yrgfrpkjy72m", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I dont think so as I believe the professor has expressly said it will not be part of the exam.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-19T17:51:00Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-10-19T17:51:00Z", 
+          "type": "feedback", 
+          "id": "j8yriyedqj9165", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>From &#64;430 :</p>\n<p></p>\n<pre>Note, we will not cover the PageRank algorithm.  There is a lecture there (see GR4) if you&#39;re interested in PageRank, and perhaps we&#39;ll add \nit in to future iterations of the course (if I somehow do this again...).</pre>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-19T17:52:34Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-10-19T17:52:34Z", 
+          "type": "feedback", 
+          "id": "j8yrkyq992h2gt", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Also the <a href=\"https://8803ga.wordpress.com/lecture-schedule/\" target=\"_blank\">official schedule</a> says:</p>\n<p></p>\n<pre>Extra (optional): PageRank and Markov Chains</pre>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-19T18:25:35Z", 
+          "uid": "hyzzr9z7x6a1mz", 
+          "created": "2017-10-19T18:25:35Z", 
+          "type": "feedback", 
+          "id": "j8ysrfa6h3a609", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thanks for sharing.</p>"
+        }
+      ], 
+      "subject": "<p>Will\u00a0PageRank and/or Markov Chain be part of the exam?</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-19T19:57:31Z", 
+      "no_upvotes": 0, 
+      "uid": "gy4twfv45cg5o6", 
+      "created": "2017-10-19T19:57:31Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8yw1nvuxjf1a9", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "The template is posted on TSquare.  You should&#39;ve gotten an email notification just now.  --Eric"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-20T00:08:04Z", 
+      "no_upvotes": 0, 
+      "uid": "hz03lfq2z6r446", 
+      "created": "2017-10-20T00:08:04Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8z4zv8cc0m4q5", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>Is the exam for 85 points ?\u00a0</p>"
+    }
+  ], 
+  "nr": 752, 
+  "bucket_order": 0, 
+  "type": "note", 
+  "folders": [
+    "exam"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 4, 
+  "bucket_name": "Pinned", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-10-18T14:19:21Z", 
+  "is_tag_good": false, 
+  "config": {
+    "is_announcement": 1, 
+    "bypass_email": 1
+  }, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145115029, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "Hi all,\n\nExam 2 will start at 8am on this Friday (10/20) and close at 8am on Monday.  The exam will cover graph algorithms and max-flow.  The exam will have 4 problems.  You will be given a new problem and then you need to design an algorithm for that new problem.  You will use the algorithms from class as a black-box as you&#39;ve been doing on the homeworks.  You will explain your algorithm in words, no pseudocode.  I won&#39;t tell you the desired running time; that&#39;s part of the challenge.  Faster -- and correct -- is worth more credit.  Note, naive algorithms may not receive (much or any) credit.  \n\nThe exam process will be the same as exam 1.  You will be given a blank exam template, probably tomorrow afternoon, that you can print out beforehand.  The exam will be administered through Proctortrack.  The exam counter will be set for 145 minutes, but you have only 120 minutes for the exam --- so make sure to finish writing the exam when the counter reaches 25 minutes.  (Yes, it&#39;d be great to have two counters, but I have no control over that, so no whining over the process please.)  And then you have the last 25 minutes to scan and upload your solutions to Gradescope.  I expect that you have figured out a reasonable system to do this by now.\n\nHere is the standard disclaimer that will I put at the top of the problems:\n\nStandard disclaimer: use the algorithms from class, such as DFS, Explore, BFS, Dijkstra\u2019s (using min-heaps), connected components, etc., as a black- box subroutine for your algorithm. If you attempt to modify one of these algorithms you will not receive full credit, even if it is correct. Make sure to explain your algorithm in words, no pseudocode.   Faster -- and correct -- is worth more credit.\n\nAs before I request that you stop posting publicly to Piazza on Thursday at midnight.  \n\nGood luck,  --Eric\n\n#pin", 
+      "anon": "no", 
+      "created": "2017-10-18T14:19:21Z", 
+      "uid": "gy4twfv45cg5o6", 
+      "subject": "Exam 2 Info"
+    }
+  ]
+}

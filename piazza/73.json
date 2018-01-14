@@ -1,0 +1,169 @@
+{
+  "status": "active", 
+  "unique_views": 240, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "stud", 
+      "when": "2017-08-25T04:40:26Z", 
+      "data": "j6re2fmb7zm28p"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-08-25T12:37:00Z", 
+      "data": "j6rv3arje2q29s", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "uid": "gy4twfv45cg5o6", 
+      "type": "i_answer", 
+      "when": "2017-08-25T12:48:08Z", 
+      "to": "j6re2fm88j428o", 
+      "anon": "no", 
+      "data": "j6rvhm6bns27ib"
+    }, 
+    {
+      "type": "i_answer_update", 
+      "anon": "no", 
+      "when": "2017-08-25T12:49:31Z", 
+      "data": "j6rvjdvranbgy", 
+      "uid": "gy4twfv45cg5o6"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j6re2fm88j428o", 
+  "bookmarked": 3, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-08-25T12:48:08Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "i18w67avy8e1uk", 
+        "hv5exp71kfz754", 
+        "i4fxg6tfzh211n", 
+        "hz9y0742TXb", 
+        "iddoy33j6hv2tz"
+      ], 
+      "id": "j6rvhm69ky7ia", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Shihgian Lee", 
+          "admin": false, 
+          "photo": "1420394909_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i18w67avy8e1uk"
+        }, 
+        {
+          "name": "Kris Peterson", 
+          "admin": false, 
+          "photo": null, 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hv5exp71kfz754"
+        }, 
+        {
+          "name": "Estelle Yeh", 
+          "admin": false, 
+          "photo": "1421544945_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i4fxg6tfzh211n"
+        }, 
+        {
+          "name": "Vinh Nguyen", 
+          "admin": false, 
+          "photo": null, 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hz9y0742TXb"
+        }, 
+        {
+          "name": "Parag Kalra", 
+          "admin": false, 
+          "photo": null, 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "iddoy33j6hv2tz"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p></p>\n<p>I changed it to public, this is fine. \u00a0Yes, you can do it using LCS but no</p>\n<p>point in that since the goal is to get practice doing DP.</p>\n<p></p>\n<p>You&#39;re starting off correct, comparing the first and last characters. \u00a0</p>\n<p>I don&#39;t like the view that you make 2 strings (I can see that you can view</p>\n<p>it that way) because you suddenly end up with 4 strings so it looks</p>\n<p>like you&#39;re getting some sort of exponential approach. \u00a0</p>\n<p>Let&#39;s first do the case that they match. \u00a0So say $$x_i = x_j$$. \u00a0Then</p>\n<p>can you express T(i,j) in terms of &#34;smaller&#34; subproblems?</p>\n<p></p>\n<p>After you do that case, for the case when $$x_{i}\\neq x_{j}$$</p>\n<p>you have the correct 2 subproblems to consider, but don&#39;t recursively</p>\n<p>solve them, assume you already have their solution because your</p>\n<p>algorithm went bottom-up. \u00a0So can you use the solution to these 2\u00a0</p>\n<p>subproblems to get the solution to T(i,j) in this case where \u00a0$$x_{i}\\neq x_{j}$$?</p>\n<p>You might make sure you understand the chain matrix multiply example,</p>\n<p>how you build the table up based on the width s=j-i.</p>\n<p></p>\n<p>--Eric</p>", 
+          "anon": "no", 
+          "created": "2017-08-25T12:49:31Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p></p>\n<p>I changed it to public, this is fine. \u00a0Yes, you can do it using LCS but no</p>\n<p>point in that since the goal is to get practice doing DP.</p>\n<p></p>\n<p>You&#39;re starting off correct, comparing the first and last characters. \u00a0</p>\n<p>I don&#39;t like the view that you make 2 strings (I can see that you can view</p>\n<p>it that way) because you suddenly end up with 4 strings so it looks</p>\n<p>like you&#39;re getting some sort of exponential approach. \u00a0</p>\n<p>Let&#39;s first do the case that they match. \u00a0So say $$x_i = x_j$$. \u00a0Then</p>\n<p>can you express T(i,j) in terms of &#34;smaller&#34; subproblems?</p>\n<p>After you do that case, for the case when $$x_{i}\\neq x_{j}$$</p>\n<p>you have the correct 2 subproblems to consider, but don&#39;t recursively</p>\n<p>solve them, assume you already have their solution because you&#39;re</p>\n<p>algorithm went bottom-up. \u00a0So can you use the solution to these 2\u00a0</p>\n<p>subproblems to get the solution to T(i,j) in the case when\u00a0\u00a0$$x_{i}\\neq x_{j}$$?</p>\n<p>You might make sure you understand the chain matrix multiply example,</p>\n<p>how you build the table up based on the width s=j-i.</p>\n<p></p>\n<p>--Eric</p>", 
+          "anon": "no", 
+          "created": "2017-08-25T12:48:08Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 73, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw1"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 8, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw1", 
+    "student"
+  ], 
+  "created": "2017-08-25T04:40:26Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145314201, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>Hi TAs/Professor,</p>\n<p></p>\n<p>The reason I am constructing a private message is because I am not sure what can/cannot be shared. Please feel free to edit and make it public. Once I have an idea what is allowed/disallowed, I will\u00a0construct public messages for questions.</p>\n<p></p>\n<p>I have been trying different approaches on\u00a0homework 1 (palindrome substring) for a while but am still stuck. Let&#39;s take {A, C, G, C, T} for\u00a0example. My approach is to compare first and last characters of the string, i.e. A and T. If they are different,\u00a0then I create two strings by dropping the last\u00a0and first\u00a0characters, respectively, i.e.\u00a0{A, C, G, C} and\u00a0{C, G, C, T}. Then I check the first and last character for each string. If they are different, I drop the last\u00a0and first\u00a0characters\u00a0of\u00a0each string and create two strings for each string, i.e.\u00a0{A, C, G},\u00a0{C, G, C},\u00a0{C, G, C},\u00a0{G, C, T}. If I compare first and last character of each string again, I will have matches for CGC. At this point, I would like to add 1 count to both character C. For example, L(i, j) = 1 &#43; L(?, ?). But, I can double count, too.\u00a0I can\u00a0see the pattern of the subproblem but am having difficulty to define it in recurrent relation. Am I on the right track? Could you give me some hints?</p>\n<p></p>\n<p>While working on the problem, it occurred to me that I can solve it using Longest Common Subsequence by passing in the original string and reversed string. But, that will be cheating.</p>\n<p></p>\n<p>Thank you!</p>\n<p>Shihgian\u00a0</p>\n<p></p>\n<p></p>", 
+      "anon": "no", 
+      "created": "2017-08-25T12:37:00Z", 
+      "uid": "gy4twfv45cg5o6", 
+      "subject": "[HW1.1] Palindrome substring hints request (potential spoiler)"
+    }, 
+    {
+      "content": "<p>Hi TAs/Professor,</p>\n<p></p>\n<p>The reason I am constructing a private message is because I am not sure what can/cannot be shared. Please feel free to edit and make it public. Once I have an idea what is allowed/disallowed, I will\u00a0construct public messages for questions.</p>\n<p></p>\n<p>I have been trying different approaches on\u00a0homework 1 (palindrome substring) for a while but am still stuck. Let&#39;s take {A, C, G, C, T} for\u00a0example. My approach is to compare first and last characters of the string, i.e. A and T. If they are different,\u00a0then I create two strings by dropping the last\u00a0and first\u00a0characters, respectively, i.e.\u00a0{A, C, G, C} and\u00a0{C, G, C, T}. Then I check the first and last character for each string. If they are different, I drop the last\u00a0and first\u00a0characters\u00a0of\u00a0each string and create two strings for each string, i.e.\u00a0{A, C, G},\u00a0{C, G, C},\u00a0{C, G, C},\u00a0{G, C, T}. If I compare first and last character of each string again, I will have matches for CGC. At this point, I would like to add 1 count to both character C. For example, L(i, j) = 1 &#43; L(?, ?). But, I can double count, too.\u00a0I can\u00a0see the pattern of the subproblem but am having difficulty to define it in recurrent relation. Am I on the right track? Could you give me some hints?</p>\n<p></p>\n<p>While working on the problem, it occurred to me that I can solve it using Longest Common Subsequence by passing in the original string and reversed string. But, that will be cheating.</p>\n<p></p>\n<p>Thank you!</p>\n<p>Shihgian\u00a0</p>\n<p></p>\n<p></p>", 
+      "anon": "stud", 
+      "created": "2017-08-25T04:40:26Z", 
+      "subject": "[HW1.1] Palindrome substring hints request (potential spoiler)"
+    }
+  ]
+}

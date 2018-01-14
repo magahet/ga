@@ -1,0 +1,194 @@
+{
+  "status": "active", 
+  "unique_views": 186, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-08-26T21:42:57Z", 
+      "data": "j6tu18tqsk5a8", 
+      "uid": "iddrzsmg4mgfr"
+    }, 
+    {
+      "to": "j6tu18tojfga7", 
+      "anon": "no", 
+      "when": "2017-08-26T22:39:20Z", 
+      "type": "followup", 
+      "uid": "idfwkujs17e3ky"
+    }, 
+    {
+      "to": "j6tu18tojfga7", 
+      "anon": "no", 
+      "when": "2017-08-27T01:10:49Z", 
+      "type": "feedback", 
+      "uid": "h65bydtml4u1g0"
+    }, 
+    {
+      "uid": "hkjzzued3ef4xh", 
+      "type": "i_answer", 
+      "when": "2017-08-27T14:32:51Z", 
+      "to": "j6tu18tojfga7", 
+      "anon": "no", 
+      "data": "j6uu3zen1r6219"
+    }, 
+    {
+      "type": "i_answer_update", 
+      "anon": "no", 
+      "when": "2017-08-27T14:33:12Z", 
+      "data": "j6uu4fh67xj257", 
+      "uid": "hkjzzued3ef4xh"
+    }, 
+    {
+      "to": "j6tu18tojfga7", 
+      "anon": "no", 
+      "when": "2017-08-27T16:10:28Z", 
+      "type": "feedback", 
+      "uid": "idfwkujs17e3ky"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j6tu18tojfga7", 
+  "bookmarked": 4, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-08-26T22:39:20Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "idfwkujs17e3ky", 
+      "created": "2017-08-26T22:39:20Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6tw1qrohrz7jh", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-08-27T01:10:49Z", 
+          "uid": "h65bydtml4u1g0", 
+          "created": "2017-08-27T01:10:49Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j6u1gkde4vo2c0", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Your &#34;answerList&#34; will include all subsequences that end with the last the number. For example if the initial sequence is {1,2,3,-1}, your runningTotal will be 1&#43;2&#43;3&#43;(-1)=5. Then when you try to add numbers to &#34;answerList&#34;, you will only add 4(5-1), 2(4-2), -1(2-3), and 0(-1-(-1)). But we actually want {1,2,3} which add to 6.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-27T16:10:28Z", 
+          "uid": "idfwkujs17e3ky", 
+          "created": "2017-08-27T16:10:28Z", 
+          "type": "feedback", 
+          "id": "j6uxlizcvv66zh", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thanks for the feedback! You&#39;re right, when I plugged in the 1,2,3,-1 input my algorithm didn&#39;t work. Upon viewing the 6.1 pseudocode on T-Square the lecture video answer makes a lot more sense to me.</p>"
+        }
+      ], 
+      "subject": "<p>I also solved the problem in a similar fashion... I found the max, and then eliminated each element of the array from the total until I found the max total which ended up being O(2n) and without the constant O(n)</p>\n<p></p>\n<p>I hope this is acceptable because I can&#39;t wrap my head around the provided solution in the lecture videos which seems to ignore negative numbers which I believe would only get a max of 50 on the example problem in the book rather than 55, which is the answer.</p>\n<p></p>\n<pre>answerList = []<br />for number in problemSequence:<br />\ttotal = total &#43; number<br />runningTotal = total<br />for number in problemSequence:<br />\trunningTotal = runningTotal - number<br />\tanswerList.append(runningTotal)<br />return max(answerList)</pre>\n<p></p>"
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-08-27T14:32:51Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "iddrzsmg4mgfr"
+      ], 
+      "id": "j6uu3zejl5z218", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Ahmad Aldabbagh", 
+          "admin": false, 
+          "photo": "1440459101_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "iddrzsmg4mgfr"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>1. Your algorithm contains $$sum(L)$$ at Case 2A, which makes your algorithm&#39;s complexity $$O(n^2)$$.</p>\n<p>2. Consider an list with all negative numbers as the input, the $$L$$ in your algorithm will contains 0s, which will not give you the correct answer.</p>\n<p></p>\n<p>If you want us to help you with your algorithm design, please make it abstract instead of posting the code because it&#39;s really difficult and inefficient reading the code and finding the problems. And we are not able to know whether problem is a typo or\u00a0a logically incorrect one.</p>\n<p>You can define your DP table, and give your recurrence relation just as homework requires. That will help a lot.</p>\n<p></p>", 
+          "anon": "no", 
+          "created": "2017-08-27T14:33:12Z", 
+          "uid": "hkjzzued3ef4xh", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>1. Your algorithm contains $$sum(L)$$ at Case 2A, which makes your algorithm&#39;s complexity $$O(n^2)$$.</p>\n<p>2. Consider an list with all negative numbers as the input, the $$L$$ in your algorithm will contains 0s, which will not give you the correct answer.</p>\n<p></p>\n<p>If you want us to help you with your algorithm design, please make is abstract instead of posting the code because it&#39;s really difficult and inefficient reading the code and finding the problems. And we are not able to know whether problem is a typo or\u00a0a logically incorrect one.</p>\n<p>You can define your DP table, and give your recurrence relation just as homework requires. That will help a lot.</p>\n<p></p>", 
+          "anon": "no", 
+          "created": "2017-08-27T14:32:51Z", 
+          "uid": "hkjzzued3ef4xh", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 88, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "dynamic_programming"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "dynamic_programming", 
+    "student"
+  ], 
+  "created": "2017-08-26T21:42:57Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145309833, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p></p><pre>&#34;&#34;&#34;\nDPV 6.1\n&#34;&#34;&#34;\n\ndef DPV_6_1(S):\n    maximum = 0\n    L = []\n    elements = []\n    for i in range(len(S)):\n        # BASE CASE WHEN WE EXAMINE FIRST ELEMENT\n        if i==0:\n            if S[i]&gt;=0:\n                L.append(S[i])\n            else:\n                L.append(0)\n        else:\n            # Case 1: When element is positive\n            if S[i]&gt;=0:\n                #Case 1A: if previous is positive, we immediatly add to previous sum\n                if L[i-1]&gt;0:\n                    L.append(L[i-1]&#43;S[i])\n                #Case 1B: if previous is negative, we make current positive number our new start\n                else:\n                    L.append(S[i])\n            # Case 2: When element is negative\n            else:\n                # Case 2A: When sum is netpositive (i.e. do we still want to consider previous elements)\n                if S[i]&#43;sum(L)&gt;=0:\n                    L.append(S[i]&#43;L[i-1])\n                # Case 2B: When sum is netnegative(i.e. there is no point in considering previous values and we want to\n                #                                  ignore previous values)\n                else:\n                    L.append(0)\n        if L[i]&gt;=maximum:\n            maximum = i\n    \n    j = maximum-1\n    found = False\n    minimum = 0\n    while j&gt;=0:\n        if not found:\n            if L[j]==0:\n                found = True\n                minimum = j\n        j = j-1\n    if S[minimum]&gt;0:\n        return L,maximum,minimum\n    else:\n        return L,maximum,minimum&#43;1\n\nS = [5,15,-30,10,-5,40,10]\n#S = [-1,-3,-5,-5,-4,100]\nL, maximum,minimum = DPV_6_1(S)\nprint &#34;Solution: &#34;, L\nprint &#34;Elements: &#34;, S[minimum:maximum&#43;1]</pre>\n<p></p>\n<p>This is my solution in linear runtime but still has 2 loops at the end to first: find the max. second loop: to find the start of the sequence.</p>\n<p></p>\n<p>is it acceptable ?\u00a0</p>\n<p></p>\n<p>thanks,</p>", 
+      "anon": "no", 
+      "created": "2017-08-26T21:42:57Z", 
+      "uid": "iddrzsmg4mgfr", 
+      "subject": "6.1 Different Solution (SPOILER!)"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "status": "active", 
+  "unique_views": 167, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-18T18:06:07Z", 
+      "data": "j7qhezkl1pu4qc", 
+      "uid": "hv8z1solbrv6n4"
+    }, 
+    {
+      "uid": "i4jbtxqavqb3r0", 
+      "type": "s_answer", 
+      "when": "2017-09-18T18:11:47Z", 
+      "to": "j7qhezkjwf14qb", 
+      "anon": "no", 
+      "data": "j7qhm9moh65p8"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j7qhezkjwf14qb", 
+  "bookmarked": 3, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-18T18:11:47Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [
+        "hv8z1solbrv6n4"
+      ], 
+      "id": "j7qhm9mj5q4p7", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Sayed Mohammad Musavi", 
+          "admin": false, 
+          "photo": "1402407176_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hv8z1solbrv6n4"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p><a href=\"https://8803ga.wordpress.com/hws/\">https://8803ga.wordpress.com/hws/</a>\u00a0</p>", 
+          "anon": "no", 
+          "created": "2017-09-18T18:11:47Z", 
+          "uid": "i4jbtxqavqb3r0", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 343, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw2", 
+    "hw3", 
+    "hw1"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 0, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw1", 
+    "hw2", 
+    "hw3", 
+    "student"
+  ], 
+  "created": "2017-09-18T18:06:07Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145235659, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>I know this is late, but I had an emergency and I could not complete the homeworks. but I need them to prepare for first exam.\u00a0</p>\n<p>Where I can find the homework question? I looked in resources and I could not see the questions there, but the solutions are there.\u00a0</p>\n<p>Can someone please direct me to only question somewhere in piazza.\u00a0</p>\n<p></p>\n<p>Thanks</p>", 
+      "anon": "no", 
+      "created": "2017-09-18T18:06:07Z", 
+      "uid": "hv8z1solbrv6n4", 
+      "subject": "Where can I Homework Questions?"
+    }
+  ]
+}

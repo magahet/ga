@@ -1,0 +1,162 @@
+{
+  "status": "active", 
+  "unique_views": 129, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-06T00:55:08Z", 
+      "data": "j8f6ih2ba9d45q", 
+      "uid": "is52ojuybmv5er"
+    }, 
+    {
+      "uid": "hvfeyx7qglF", 
+      "type": "s_answer", 
+      "when": "2017-10-06T02:15:27Z", 
+      "to": "j8f6ih28j9x45p", 
+      "anon": "no", 
+      "data": "j8f9dqu7w9s3xe"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-10-06T02:16:00Z", 
+      "data": "j8f9egxgt5z4la", 
+      "uid": "hvfeyx7qglF"
+    }, 
+    {
+      "uid": "gns9oa0pgsO", 
+      "type": "i_answer", 
+      "when": "2017-10-06T05:26:07Z", 
+      "to": "j8f6ih28j9x45p", 
+      "anon": "no", 
+      "data": "j8fg6yhul7k5ne"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8f6ih28j9x45p", 
+  "bookmarked": 4, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-06T02:15:27Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [
+        "is52ojuybmv5er"
+      ], 
+      "id": "j8f9dqu3ew03xd", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Daniel Morris", 
+          "admin": false, 
+          "photo": "1471813923_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "is52ojuybmv5er"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>You don&#39;t have to create the universe...\u00a0 ;)\u00a0 It just defines the range of possible values you would ever possibly pull from to be a member of the set.\u00a0 The lecture videos have a good example using passwords as the topic.\u00a0 If you made up rules that a password could be at most 8 characters long then the universe of possible passwords could be any permutation of 8 characters from the allowed character sets.\u00a0\u00a0</p>", 
+          "anon": "no", 
+          "created": "2017-10-06T02:16:00Z", 
+          "uid": "hvfeyx7qglF", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>You don&#39;t have to create the universe...\u00a0 ;)\u00a0 It just defines the range of possible values you would ever possibly pull from to be a member of the set.\u00a0 If you have watched the lecture videos it has a good example using passwords as the topic.\u00a0 If you made up rules that a password could be at most 8 characters long then the universe of possible passwords could be any permutation of 8 characters from the allowed character sets.\u00a0\u00a0</p>", 
+          "anon": "no", 
+          "created": "2017-10-06T02:15:27Z", 
+          "uid": "hvfeyx7qglF", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-06T05:26:07Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "is52ojuybmv5er"
+      ], 
+      "id": "j8fg6yht9oq5nd", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Daniel Morris", 
+          "admin": false, 
+          "photo": "1471813923_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "is52ojuybmv5er"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>you can use the data given with the project - the pre-draw numbers in the input text file - for all tasks.\u00a0 task 1 will also require you to use some kind of correlated data, but you can create that yourself.</p>", 
+          "anon": "no", 
+          "created": "2017-10-06T05:26:07Z", 
+          "uid": "gns9oa0pgsO", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 622, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw3"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 0, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw3", 
+    "student"
+  ], 
+  "created": "2017-10-06T00:55:08Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145175385, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>I&#39;ve searched the forums and haven&#39;t found anything on this so hopefully, I haven&#39;t missed a relevant post. This is for Task1</p>\n<p></p>\n<p>I tried to initialize U by creating an array from (0, N-1) without repeats where N=2147483647. This took a long time in python. I&#39;m guessing this isn&#39;t how it should be done. Do we have to maintain an array for U at all or just draw random number from range (0, N-1)? If we are supposed to draw randomly then couldn&#39;t a number be drawn twice and end up hashed to two different locations in n?\u00a0</p>\n<p></p>\n<p>Thanks</p>", 
+      "anon": "no", 
+      "created": "2017-10-06T00:55:08Z", 
+      "uid": "is52ojuybmv5er", 
+      "subject": "Initializing N"
+    }
+  ]
+}

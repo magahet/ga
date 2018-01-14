@@ -1,0 +1,129 @@
+{
+  "status": "active", 
+  "unique_views": 222, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-08-22T13:20:31Z", 
+      "data": "j6nmbpde99056t", 
+      "uid": "isgwdf47kb42f"
+    }, 
+    {
+      "to": "j6nmbpdcxfy56s", 
+      "anon": "no", 
+      "when": "2017-08-22T14:35:15Z", 
+      "type": "followup", 
+      "uid": "i18w67avy8e1uk"
+    }, 
+    {
+      "to": "j6nmbpdcxfy56s", 
+      "anon": "no", 
+      "when": "2017-08-22T15:19:24Z", 
+      "type": "followup", 
+      "uid": "i4ket0u1z5q31a"
+    }
+  ], 
+  "id": "j6nmbpdcxfy56s", 
+  "bookmarked": 3, 
+  "tags": [
+    "course", 
+    "instructor-poll", 
+    "polls"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-08-22T14:35:15Z", 
+      "no_upvotes": 0, 
+      "uid": "i18w67avy8e1uk", 
+      "created": "2017-08-22T14:35:15Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6nozsu9lk22mc", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>Weekend will work better for me since I am in the pacific time. But, if\u00a0I can post questions ahead of time and the office hours are recorded, I am fine with that too. Thanks!</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-22T15:19:24Z", 
+      "no_upvotes": 0, 
+      "uid": "i4ket0u1z5q31a", 
+      "created": "2017-08-22T15:19:24Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6nqkldomx11e6", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>Sunday would work for me.</p>\n<p>Sunday through Thursday would work for me.</p>\n<p>But both Friday night and Saturday are non-starters for me.</p>"
+    }
+  ], 
+  "nr": 26, 
+  "bucket_order": 2, 
+  "type": "poll", 
+  "folders": [
+    "course", 
+    "polls"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 0, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "answer": "", 
+    "admin": "", 
+    "has_voted": [], 
+    "result": {
+      "1": 56, 
+      "0": 50
+    }, 
+    "total_votes": 106
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-08-22T13:20:31Z", 
+  "is_tag_good": false, 
+  "config": {
+    "show_results": "av", 
+    "anonymous": "yes", 
+    "multiple_selections": 0, 
+    "unpublished": 0, 
+    "toggle_visibility_on": 1, 
+    "revote": 0, 
+    "allow_followups": "yes", 
+    "bypass_email": 0, 
+    "always_open": 0, 
+    "close_after": "48", 
+    "publish_later": 0
+  }, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145331527, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>Hello all,</p>\n<p></p>\n<p>The TAs are still finalizing an office hours schedule but there should be two sessions held this week on Wednesday and Thursday at 9PM ET. I will also be holding a third session this week on either Friday evening or Saturday and wanted to see what time students would prefer. (Times are in ET.) The office hours will be conducted via YouTube Live with\u00a0questions submitted via a Q&amp;A session in Google Docs.</p>\n<p></p>\n<p>(As a note, this is specifically for this week. It may or may not become a regularly scheduled office hour time.)</p>\n<br/> [o] Friday 9PM\n[o] Saturday 2PM", 
+      "anon": "no", 
+      "created": "2017-08-22T13:20:31Z", 
+      "uid": "isgwdf47kb42f", 
+      "subject": "Preferred office hours time"
+    }
+  ]
+}

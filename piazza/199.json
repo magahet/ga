@@ -1,0 +1,166 @@
+{
+  "status": "active", 
+  "unique_views": 183, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-06T00:30:13Z", 
+      "data": "j78aev5w1hh184", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j78aev5tdrs183", 
+      "anon": "no", 
+      "when": "2017-09-06T03:43:43Z", 
+      "type": "followup", 
+      "uid": "hve4k9bj2u4qu"
+    }, 
+    {
+      "to": "j78aev5tdrs183", 
+      "anon": "no", 
+      "when": "2017-09-06T03:48:55Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "uid": "gy4twfv45cg5o6", 
+      "type": "i_answer", 
+      "when": "2017-09-06T07:44:15Z", 
+      "to": "j78aev5tdrs183", 
+      "anon": "no", 
+      "data": "j78px1cm8582u0"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j78aev5tdrs183", 
+  "bookmarked": 4, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-09-06T03:43:43Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "hve4k9bj2u4qu", 
+      "created": "2017-09-06T03:43:43Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j78hbpi7pmq2x7", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-06T03:48:55Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-09-06T03:48:55Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j78hieknfzk75s", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I think so, yes, because this HW is due on Sep 18 and the exam is 4 days later. I hope we don&#39;t have another assignment the week of the exam because that will conflict with our time to study.</p>\n<p></p>\n<p>Will see.</p>"
+        }
+      ], 
+      "subject": "<p>For 2, I think this is the last HW\u00a0before the exam. Might be wrong.</p>"
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-06T07:44:15Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "i18w67avy8e1uk", 
+        "i4hdvab632i522"
+      ], 
+      "id": "j78px1cihyp2tz", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Shihgian Lee", 
+          "admin": false, 
+          "photo": "1420394909_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i18w67avy8e1uk"
+        }, 
+        {
+          "name": "MarkBenjamin1@gatech.edu", 
+          "admin": false, 
+          "photo": "1420465436_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i4hdvab632i522"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p></p>\n<p>1. Don&#39;t write the code for such algorithms. \u00a0You can say do binary search or do BFS etc., and you don&#39;t need to write out the pseudocode (I don&#39;t want you to write the pseudocode for such standard algorithms).</p>\n<p></p>\n<p>2. Yes, you need to watch the median video and also the FFT video to do homework 3. \u00a0This is the last homework before the first exam. \u00a0</p>\n<p>Bloom filters are not on the exam, they are just for the programming project. \u00a0We will post the project later\u00a0and you will have 2 weeks after the exam to do it.</p>", 
+          "anon": "no", 
+          "created": "2017-09-06T07:44:15Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 199, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw3"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 2, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw3", 
+    "student"
+  ], 
+  "created": "2017-09-06T00:30:13Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145278027, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>1. In case we need to use an existing (and well known) algorithm like MergeSort, QuickSort, or Binary Search to solve one of the exercises, do we need to write the pseudocode of the algorithm or is it sufficient to make a call to a function that will run this algorithm?</p>\n<div></div>\n<div>2. Problem 5 is about finding the Median but we have this lecture in Week 4. I&#39;m guessing we will need to watch the lecture before solving this problem. Was this intended?</div>", 
+      "anon": "no", 
+      "created": "2017-09-06T00:30:13Z", 
+      "uid": "i4nkipeofrkrz", 
+      "subject": "A couple of questions about HW3"
+    }
+  ]
+}

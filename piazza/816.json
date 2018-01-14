@@ -1,0 +1,293 @@
+{
+  "status": "active", 
+  "unique_views": 113, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-25T14:53:41Z", 
+      "data": "j975u189dg41zg", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "uid": "i4hdvab632i522", 
+      "type": "s_answer", 
+      "when": "2017-10-25T15:08:05Z", 
+      "to": "j975u184bpc1zf", 
+      "anon": "no", 
+      "data": "j976cjktz1845v"
+    }, 
+    {
+      "to": "j975u184bpc1zf", 
+      "anon": "no", 
+      "when": "2017-10-25T15:10:15Z", 
+      "type": "followup", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j975u184bpc1zf", 
+      "anon": "no", 
+      "when": "2017-10-25T15:12:21Z", 
+      "type": "feedback", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "to": "j975u184bpc1zf", 
+      "anon": "no", 
+      "when": "2017-10-25T15:16:47Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j975u184bpc1zf", 
+      "anon": "no", 
+      "when": "2017-10-25T15:18:09Z", 
+      "type": "feedback", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "to": "j975u184bpc1zf", 
+      "anon": "no", 
+      "when": "2017-10-25T15:23:46Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j975u184bpc1zf", 
+      "anon": "no", 
+      "when": "2017-10-25T15:30:07Z", 
+      "type": "feedback", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "uid": "gy4twfv45cg5o6", 
+      "type": "i_answer", 
+      "when": "2017-10-25T15:54:10Z", 
+      "to": "j975u184bpc1zf", 
+      "anon": "no", 
+      "data": "j977ztraqxa24w"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j975u184bpc1zf", 
+  "bookmarked": 5, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-25T15:08:05Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j976cjko2eq45u", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<a href=\"https://en.wikipedia.org/wiki/NP_%28complexity%29\">wikipedia</a>\n\nInformally, NP is the set of all decision problems for which the instances where the answer is &#34;yes&#34; have efficiently verifiable proofs. More precisely, these proofs have to be verifiable by deterministic computations that can be performed in polynomial time.\n\nEquivalently, the formal definition of NP is the set of decision problems solvable in polynomial time by a theoretical non-deterministic Turing machine. This second definition is the basis for the abbreviation NP, which stands for &#34;nondeterministic, polynomial time.&#34; However, the verifier-based definition tends to be more intuitive and practical in common applications compared to the formal machine definition. The two definitions are equivalent because the algorithm for the machine definition consists of two phases, the first of which consists of a guess about the solution, which is generated in a non-deterministic way, while the second phase consists of a deterministic algorithm that verifies or rejects the guess as a valid solution to the problem", 
+          "anon": "no", 
+          "created": "2017-10-25T15:08:05Z", 
+          "uid": "i4hdvab632i522", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-25T15:10:15Z", 
+      "no_upvotes": 0, 
+      "uid": "i4nkipeofrkrz", 
+      "created": "2017-10-25T15:10:15Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j976fbwks3s5se", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-25T15:12:21Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-10-25T15:12:21Z", 
+          "type": "feedback", 
+          "id": "j976i1ai7un4lk", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "What does it say?"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-25T15:16:47Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-10-25T15:16:47Z", 
+          "type": "feedback", 
+          "id": "j976nqjnvls2jk", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Sorry, but if I&#39;m asking is because I&#39;d like to hear what others think. I guess that the answer is NO based on the Wikipedia article that you linked here and my own research, but I&#39;d like to hear what others think about this.</p>\n<p></p>\n<p>So what do you think?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-25T15:18:09Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-10-25T15:18:09Z", 
+          "type": "feedback", 
+          "id": "j976pi6mmkm1b4", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Me, I agree with what wikipedia says, that&#39;s the reason I posted the quote. What makes you guess no though, do you think there is some kind of semantic difference that it&#39;s worthwhile trying to describe in more detail? Is your capslock key stuck? :-D"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-25T15:23:46Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-10-25T15:23:46Z", 
+          "type": "feedback", 
+          "id": "j976wpttomc4p9", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Yes, sorry, you are right. I misread the article. Apparently the answer is YES, and it is sufficient to say that if a problem is verifiable in polynomial time, then it is an NP problem.</p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-25T15:30:07Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-10-25T15:30:07Z", 
+          "type": "feedback", 
+          "id": "j9774w6byd13wq", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Sounds good to me :-)"
+        }
+      ], 
+      "subject": "<p>So, is this a YES? Can I consider EVERY problem that can be verified in polynomial time an NP problem?</p>\n<p></p>\n<p></p>"
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-25T15:54:10Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j977ztr9e3e24v", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "As Mark points out:     If you can verify solutions in poly-time then it&#39;s in NP.  \n\nNote:  Wikipedia talks about decision problems.  In this class and the textbook it&#39;s about search problems.    So be careful the distinction.", 
+          "anon": "no", 
+          "created": "2017-10-25T15:54:10Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 816, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw6"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 2, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw6", 
+    "student"
+  ], 
+  "created": "2017-10-25T14:53:41Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145128090, 
+  "tag_good": [
+    {
+      "name": "JC Connell", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "ijjd1u5dbTq"
+    }, 
+    {
+      "name": "Kevin Weed", 
+      "admin": false, 
+      "photo": "1471922157_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4jb1z0rGta"
+    }
+  ], 
+  "tag_good_arr": [
+    "ijjd1u5dbTq", 
+    "i4jb1z0rGta"
+  ], 
+  "history": [
+    {
+      "content": "<p>What are all the conditions that a problem has the meet for it to be in the NP class?</p>\n<p></p>\n<p>Right now, we know that we should be able to verify a solution to the problem in polynomial time. Is this the only condition?</p>\n<p></p>\n<p>Does this mean that EVERY problem that we can verify its solution in polynomial time belongs to the NP class?</p>", 
+      "anon": "no", 
+      "created": "2017-10-25T14:53:41Z", 
+      "uid": "i4nkipeofrkrz", 
+      "subject": "NP class"
+    }
+  ]
+}

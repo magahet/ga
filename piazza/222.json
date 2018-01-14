@@ -1,0 +1,579 @@
+{
+  "status": "active", 
+  "unique_views": 120, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-08T13:07:55Z", 
+      "data": "j7bwczb4ck116o", 
+      "uid": "is52ojuybmv5er"
+    }, 
+    {
+      "uid": "i4hdvab632i522", 
+      "type": "s_answer", 
+      "when": "2017-09-08T13:48:41Z", 
+      "to": "j7bwczb1mmb16n", 
+      "anon": "no", 
+      "data": "j7bxteyafvu1in"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-09-08T13:56:08Z", 
+      "data": "j7by2zgf3dz4cz", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "uid": "hkkbz4bujtv5dn", 
+      "type": "i_answer", 
+      "when": "2017-09-08T14:50:01Z", 
+      "to": "j7bwczb1mmb16n", 
+      "anon": "no", 
+      "data": "j7c00a9gfzq20c"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-09-08T16:15:11Z", 
+      "data": "j7c31t0n5zx49q", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "to": "j7bwczb1mmb16n", 
+      "anon": "no", 
+      "when": "2017-09-15T07:06:03Z", 
+      "type": "followup", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j7bwczb1mmb16n", 
+      "anon": "no", 
+      "when": "2017-09-15T07:06:03Z", 
+      "type": "dupe", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "to": "j7bwczb1mmb16n", 
+      "anon": "no", 
+      "when": "2017-09-15T07:06:04Z", 
+      "type": "feedback", 
+      "uid": "hju4w9odatf30"
+    }, 
+    {
+      "to": "j7bwczb1mmb16n", 
+      "anon": "no", 
+      "when": "2017-09-15T07:06:04Z", 
+      "type": "feedback", 
+      "uid": "i8597qyse9c1v2"
+    }, 
+    {
+      "to": "j7bwczb1mmb16n", 
+      "anon": "no", 
+      "when": "2017-09-15T07:06:04Z", 
+      "type": "feedback", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j7bwczb1mmb16n", 
+      "anon": "no", 
+      "when": "2017-09-15T07:06:04Z", 
+      "type": "feedback", 
+      "uid": "hju4w9odatf30"
+    }, 
+    {
+      "to": "j7bwczb1mmb16n", 
+      "anon": "no", 
+      "when": "2017-09-15T14:33:40Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j7bwczb1mmb16n", 
+      "anon": "no", 
+      "when": "2017-09-17T09:07:46Z", 
+      "type": "followup", 
+      "uid": "i4pvwmg5VTb"
+    }, 
+    {
+      "to": "j7bwczb1mmb16n", 
+      "anon": "no", 
+      "when": "2017-09-17T09:07:46Z", 
+      "type": "dupe", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "to": "j7bwczb1mmb16n", 
+      "anon": "no", 
+      "when": "2017-09-17T09:07:46Z", 
+      "type": "feedback", 
+      "uid": "i4ocg4bx2t93x9"
+    }, 
+    {
+      "to": "j7bwczb1mmb16n", 
+      "anon": "no", 
+      "when": "2017-09-17T09:07:46Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j7bwczb1mmb16n", 
+      "anon": "no", 
+      "when": "2017-09-17T09:07:46Z", 
+      "type": "feedback", 
+      "uid": "i4t8eakz3ex6lk"
+    }, 
+    {
+      "to": "j7bwczb1mmb16n", 
+      "anon": "no", 
+      "when": "2017-09-17T09:07:46Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j7bwczb1mmb16n", 
+      "anon": "no", 
+      "when": "2017-09-17T09:07:46Z", 
+      "type": "feedback", 
+      "uid": "i4t8eakz3ex6lk"
+    }, 
+    {
+      "to": "j7bwczb1mmb16n", 
+      "anon": "no", 
+      "when": "2017-09-17T17:26:41Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j7bwczb1mmb16n", 
+  "bookmarked": 5, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-08T13:48:41Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [
+        "hkkbz4bujtv5dn", 
+        "is52ojuybmv5er"
+      ], 
+      "id": "j7bxtey7zoj1im", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Jeremy Stephens", 
+          "admin": true, 
+          "photo": null, 
+          "us": false, 
+          "role": "ta", 
+          "facebook_id": null, 
+          "id": "hkkbz4bujtv5dn"
+        }, 
+        {
+          "name": "Daniel Morris", 
+          "admin": false, 
+          "photo": "1471813923_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "is52ojuybmv5er"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "$$5! = 120$$ is a constant; merge sort&#39;s $$O(5 \\log 5)$$ (in fact, 8 comparisons I think are sufficient to merge sort 5 elements) would be a better constant, of course", 
+          "anon": "no", 
+          "created": "2017-09-08T16:15:11Z", 
+          "uid": "i4hdvab632i522", 
+          "subject": ""
+        }, 
+        {
+          "content": "$$5! = 120$$ is a constant; merge sort&#39;s $$5 \\log 5$$ (in fact, 9 comparisons I think) would be a better constant, of course", 
+          "anon": "no", 
+          "created": "2017-09-08T13:56:08Z", 
+          "uid": "i4hdvab632i522", 
+          "subject": ""
+        }, 
+        {
+          "content": "$$5! = 120$$ is a constant; merge sort $$5 \\log 5$$ would be a better constant, of course", 
+          "anon": "no", 
+          "created": "2017-09-08T13:48:41Z", 
+          "uid": "i4hdvab632i522", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-08T14:50:01Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "i18w67avy8e1uk", 
+        "i8597qyse9c1v2", 
+        "idfwkf5jgsm3gg"
+      ], 
+      "id": "j7c00a9fqzl20b", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Shihgian Lee", 
+          "admin": false, 
+          "photo": "1420394909_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i18w67avy8e1uk"
+        }, 
+        {
+          "name": "Pedro Henrique Rocha Moy", 
+          "admin": false, 
+          "photo": "1452626521_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i8597qyse9c1v2"
+        }, 
+        {
+          "name": "Nikita Nerkar", 
+          "admin": false, 
+          "photo": "1455312357_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "idfwkf5jgsm3gg"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>The median algorithm breaks the list $$A$$ into groups of 5 elements each.\u00a0Sorting one of these groups takes constant time because there are a\u00a0constant\u00a0number of elements (5) in\u00a0each\u00a0group. \u00a0I think the lecture is saying\u00a0that even the &#34;brute force&#34; method of sorting (by looking at all 5! permutations)\u00a0takes constant time because the size of the\u00a0group is constant. Running mergesort on one of the groups would take $$O(5log5)$$ time, which is also a constant.</p>", 
+          "anon": "no", 
+          "created": "2017-09-08T14:50:01Z", 
+          "uid": "hkkbz4bujtv5dn", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-15T07:06:03Z", 
+      "no_upvotes": 0, 
+      "uid": "i4ket0u1z5q31a", 
+      "created": "2017-09-15T07:06:03Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7ljila6ce37jh", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-15T07:06:03Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-09-15T07:06:03Z", 
+          "type": "dupe", 
+          "id": "j7ljilavcqe7ji", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": ""
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-15T07:06:04Z", 
+          "uid": "hju4w9odatf30", 
+          "created": "2017-09-15T07:06:04Z", 
+          "type": "feedback", 
+          "id": "j7ljilbjnyx7jj", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Sorting a set of 5 numbers is always a constant (5! in the worst case). This is always a constant independent of the input. Hence, the asymptotic time complexity would then be O(1)."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-15T07:06:04Z", 
+          "uid": "i8597qyse9c1v2", 
+          "created": "2017-09-15T07:06:04Z", 
+          "type": "feedback", 
+          "id": "j7ljilc65r97jk", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Think about as you increase $$n$$, that procedure will take at most $$5!$$ operations. Keep increasing $$n$$, you&#39;re still only performing the\u00a0$$5!$$ operations per group. Thus, it only counts as a constant $$5!$$ operations as you increase $$n$$ indefinitely.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-15T07:06:04Z", 
+          "uid": "i4ket0u1z5q31a", 
+          "created": "2017-09-15T07:06:04Z", 
+          "type": "feedback", 
+          "id": "j7ljilckyr97jl", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I get the argument about it being a constant that doesn&#39;t change as n increases but that completely ignores how ridiculously inefficient a sort algorithm that is O(n!) is and it really feels like it ignores the n/5 sorting\u00a0and recursive calls. \u00a0Even though\u00a0n dominates, the other stuff would still have a noteworthy cost in a real implementation that would make\u00a0this\u00a0algorithm not that appealing. \u00a0This is what really bothers me about big O vs. real world performance tuning. \u00a0Two O(n) algorithms are not necessarily going to perform the same in practice because big O completely ignored the number of O(1) operations, the memory accesses, etc.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-15T07:06:04Z", 
+          "uid": "hju4w9odatf30", 
+          "created": "2017-09-15T07:06:04Z", 
+          "type": "feedback", 
+          "id": "j7ljild96ea7jm", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>We are only looking at the asymptotic time complexity here and hence when analyzing the asymptotic time taken to find the median using the fast-select algorithm, it takes linear time.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-15T14:33:40Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-09-15T14:33:40Z", 
+          "type": "feedback", 
+          "id": "j7lzi86dg495e6", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>The 1 in $$O(1)$$ doesn&#39;t really mean &#34;1 operation&#34;. It\u00a0means &#34;constant&#34; time. It could be &#34;1&#34; or &#34;1000&#34;. If it doesn&#39;t increase with the input, then it is $$O(1)$$.</p>\n<p></p>\n<p>I agree that in real life, a 5! will have a different impact than an 8, but when analyzing algorithms at a high level, it really doesn&#39;t.</p>\n<p></p>\n<p></p>"
+        }
+      ], 
+      "subject": "Median Running Time\n<p>How can median fast select be\u00a0O(n) when the lecture says that sorting each group of 5 could be sorted as badly as O(5!)?</p>\n<p>How can O(5!) for sorting be considered O(1)? \u00a0That&#39;s two orders of magnitude worse than O(1).</p>\n<p>If you were analyzing a sorting algorithm and it did n! then\u00a0wouldn&#39;t you call that sort O(n!)?</p>\n<p>So shouldn&#39;t you have to treat these sorts as something other O(1)?</p>\n<p>It doesn&#39;t seem right to\u00a0call the sort O(1) or to call the overall fast select O(n) when clearly many more operations are being done.</p>\n<p>And if fast select is called recursively then it looks really questionable to me to still call it O(n) overall.</p>\n<p>I know we &#34;take liberties&#34; with the dominant term\u00a0for reporting O(n) but this instance seems to be a stretch above and beyond.</p>\n<p>Please explain.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-17T09:07:46Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "i4pvwmg5VTb", 
+      "created": "2017-09-17T09:07:46Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7oiqtiqady5hi", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-17T09:07:46Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-09-17T09:07:46Z", 
+          "type": "dupe", 
+          "d-bucket": "Yesterday", 
+          "id": "j7oiqtjkxmi5hl", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": ""
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-17T09:07:46Z", 
+          "uid": "i4ocg4bx2t93x9", 
+          "created": "2017-09-17T09:07:46Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j7oiqtk760k5hm", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>It&#39;s a fixed size, so it doesn&#39;t scale by\u00a0<em>n</em>.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-17T09:07:46Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-09-17T09:07:46Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j7oiqtkk6235hn", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Suppose that you have 100 items. Split them into groups of 5. Sort each group. What is the maximum amount of time it could take to do that? The maximum is 20t, where t is the maximum amount of time that it could take to sort 5 items.\n\nNow suppose that you have 1000 items that you split into groups of 5, and sort each group. What&#39;s the maximum time? It&#39;s 200t.\n\nIn each case, what is the maximum time to sort each group of 5? It&#39;s t. So, the time to sort each group of 5 does not depend on the number of items that you started with."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-17T09:07:46Z", 
+          "uid": "i4t8eakz3ex6lk", 
+          "created": "2017-09-17T09:07:46Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j7oiqtl757i5hp", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>But you should do it n/5 times. Does not it give O(n) total complexity?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-17T09:07:46Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-09-17T09:07:46Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j7oiqtlubgo5hq", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Remember that $$O(1)$$ doesn&#39;t mean &#34;1 operation&#34; but rather &#34;a constant number of operations not related to the input size&#34;.</p>\n<p></p>\n<p>So whatever algorithm you are looking at, with input of size $$n$$. If you need to sort a list of 5 elements only, the total cost will be constant because it doesn&#39;t depend on the input: for $$n = 10$$ the cost of sorting 5 elements will be exactly the same as it would be for $$n = 2^{100}$$ or any other value of $$n$$.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-17T09:07:46Z", 
+          "uid": "i4t8eakz3ex6lk", 
+          "created": "2017-09-17T09:07:46Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j7oiqtmatgq5hr", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>But you should do it n/5 times. Does not it give O(n) total complexity?</p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-17T17:26:41Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-09-17T17:26:41Z", 
+          "type": "feedback", 
+          "id": "j7p0kff4v4q5oe", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>We are referring only to the cost of sorting 5 elements: it is $$O(1)$$.</p>\n<p></p>"
+        }
+      ], 
+      "subject": "Why is sorting a group of 5 O(1)?\n<p>I dont get it. I get how sorting a group of 2 or 3 is O(1), but i don&#39;t understand why 5 is O(1).</p>"
+    }
+  ], 
+  "nr": 222, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "divide_and_conquer"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 3, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "divide_and_conquer", 
+    "student"
+  ], 
+  "created": "2017-09-08T13:07:55Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145269938, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>In the linear-time median algorithm, the lecture states that the sorting step runs in linear time because you can create every possible permutation by creating 5!. I don&#39;t understand how this is different that regular sorting which when using mergesort takes nlogn time. Why do they have different run times?\u00a0</p>", 
+      "anon": "no", 
+      "created": "2017-09-08T13:07:55Z", 
+      "uid": "is52ojuybmv5er", 
+      "subject": "run time of sorting"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "status": "active", 
+  "unique_views": 174, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-03T22:49:33Z", 
+      "data": "j8c759d9tqb3oo", 
+      "uid": "ijalzed08k3wp"
+    }, 
+    {
+      "to": "j8c759d3gxa3on", 
+      "anon": "stud", 
+      "when": "2017-10-03T22:52:09Z", 
+      "data": "j8c78lqnz4z3fx", 
+      "type": "s_answer"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "stud", 
+      "when": "2017-10-03T22:53:53Z", 
+      "data": "j8c7auggauw5gn"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8c759d3gxa3on", 
+  "bookmarked": 2, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-03T22:52:09Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j8c78lqj6f13fw", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>They went over them in office hours (the last one with Jeremy went over the solutions) and explicitly stated they wouldn&#39;t be posted. \u00a0All of this was described in &#64;525.</p>", 
+          "anon": "stud", 
+          "created": "2017-10-03T22:53:53Z", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>They went over them in office hours (the last one with Jeremy went over the solutions) and explicitly stated they wouldn&#39;t be posted.</p>", 
+          "anon": "stud", 
+          "created": "2017-10-03T22:52:09Z", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 578, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "exam"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 4, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "exam", 
+    "student"
+  ], 
+  "created": "2017-10-03T22:49:33Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145185866, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>are they available anywhere? don&#39;t see them in T-Square resources</p>", 
+      "anon": "no", 
+      "created": "2017-10-03T22:49:33Z", 
+      "uid": "ijalzed08k3wp", 
+      "subject": "Exam Solutions"
+    }
+  ]
+}

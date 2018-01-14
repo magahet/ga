@@ -1,0 +1,384 @@
+{
+  "status": "active", 
+  "unique_views": 185, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-04T18:52:34Z", 
+      "data": "j8de4coi61o6ew", 
+      "uid": "hz03lfq2z6r446"
+    }, 
+    {
+      "to": "j8de4coexfp6ev", 
+      "anon": "no", 
+      "when": "2017-10-04T19:05:10Z", 
+      "type": "followup", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "uid": "gns9oa0pgsO", 
+      "type": "i_answer", 
+      "when": "2017-10-04T20:57:20Z", 
+      "to": "j8de4coexfp6ev", 
+      "anon": "no", 
+      "data": "j8dikt5x8b7ce"
+    }, 
+    {
+      "to": "j8de4coexfp6ev", 
+      "anon": "no", 
+      "when": "2017-10-07T16:03:39Z", 
+      "type": "followup", 
+      "uid": "hqa46xmysgg2af"
+    }, 
+    {
+      "to": "j8de4coexfp6ev", 
+      "anon": "no", 
+      "when": "2017-10-07T16:20:37Z", 
+      "type": "feedback", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j8de4coexfp6ev", 
+      "anon": "no", 
+      "when": "2017-10-07T17:39:36Z", 
+      "type": "feedback", 
+      "uid": "hqa46xmysgg2af"
+    }, 
+    {
+      "to": "j8de4coexfp6ev", 
+      "anon": "no", 
+      "when": "2017-10-07T20:10:54Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j8de4coexfp6ev", 
+      "anon": "no", 
+      "when": "2017-10-07T20:13:59Z", 
+      "type": "feedback", 
+      "uid": "is52ojuybmv5er"
+    }, 
+    {
+      "to": "j8de4coexfp6ev", 
+      "anon": "no", 
+      "when": "2017-10-07T20:21:30Z", 
+      "type": "feedback", 
+      "uid": "hqa46xmysgg2af"
+    }, 
+    {
+      "to": "j8de4coexfp6ev", 
+      "anon": "no", 
+      "when": "2017-10-07T20:48:19Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j8de4coexfp6ev", 
+      "anon": "no", 
+      "when": "2017-10-07T21:00:00Z", 
+      "type": "feedback", 
+      "uid": "is52ojuybmv5er"
+    }, 
+    {
+      "to": "j8de4coexfp6ev", 
+      "anon": "no", 
+      "when": "2017-10-07T21:23:43Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j8de4coexfp6ev", 
+      "anon": "no", 
+      "when": "2017-10-07T21:33:06Z", 
+      "type": "feedback", 
+      "uid": "is52ojuybmv5er"
+    }, 
+    {
+      "to": "j8de4coexfp6ev", 
+      "anon": "no", 
+      "when": "2017-10-07T21:55:38Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8de4coexfp6ev", 
+  "bookmarked": 8, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-10-04T19:05:10Z", 
+      "no_upvotes": 0, 
+      "uid": "hvil6y6khgk2ri", 
+      "created": "2017-10-04T19:05:10Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8dekk1hjrw1qy", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>I cant say for certain, although its heavily implied we should have a scatter plot for each hash type: hash value generated vs x value used to generate the hash (but again, let me stress, I dont know if this is fully required or not).<br /><br />If you have more graphs (although hard to fit on the page), I am sure you are welcome to include them. <br /><br />Also, its a strict 3-page limit!</p>"
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-04T20:57:20Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j8dikt5jl7rcd", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>do scatter plots and do load plots, and see if there&#39;s anything interesting you can say about the differences you find.\u00a0 then use the plots to back up your claims.</p>", 
+          "anon": "no", 
+          "created": "2017-10-04T20:57:20Z", 
+          "uid": "gns9oa0pgsO", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-07T16:03:39Z", 
+      "no_upvotes": 0, 
+      "uid": "hqa46xmysgg2af", 
+      "created": "2017-10-07T16:03:39Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8hieogvq7r371", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-07T16:20:37Z", 
+          "uid": "gns9oa0pgsO", 
+          "created": "2017-10-07T16:20:37Z", 
+          "type": "feedback", 
+          "id": "j8hj0huurgu65t", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>use the first 10k points to plot.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-07T17:39:36Z", 
+          "uid": "hqa46xmysgg2af", 
+          "created": "2017-10-07T17:39:36Z", 
+          "type": "feedback", 
+          "id": "j8hlu2gx43e5x9", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Still same result. Do we need plot each elements value before hash and value after hash for task1?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-07T20:10:54Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-10-07T20:10:54Z", 
+          "type": "feedback", 
+          "id": "j8hr8ncbag569r", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#64;Amit, are you doing a scatter plot, where one axis is the given element value, and the other is the hash value?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-07T20:13:59Z", 
+          "uid": "is52ojuybmv5er", 
+          "created": "2017-10-07T20:13:59Z", 
+          "type": "feedback", 
+          "id": "j8hrclmb5utdt", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I&#39;m having difficulties with this too. I create the two hash functions and then create a dictionary that increments when x is hashed to an already existing value. I get very similar results using the data that is given. I&#39;m graphing the hashes and the number of values for each hash.\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-07T20:21:30Z", 
+          "uid": "hqa46xmysgg2af", 
+          "created": "2017-10-07T20:21:30Z", 
+          "type": "feedback", 
+          "id": "j8hrm9lwaus7m3", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>yes, I am using x axis as given value and Y axis as result coming from Y axis.\u00a0 Because of 10k (x,y) it all over graphs and hard to analyzed different between HashType1 and HashType2.\u00a0 Does anyone have sample how it should looks?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-07T20:48:19Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-10-07T20:48:19Z", 
+          "type": "feedback", 
+          "id": "j8hskrpftax6je", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#64;Amit, I think the honor code and the instructors&#39;\u00a0implementation of it for this class would prohibit anyone from showing what the graphs look like. There was a post where one of them said we couldn&#39;t post graphs.</p>\n<p></p>\n<p>Are you using matplotlib to plot?</p>\n<p></p>\n<p>Are you attempting to plot both hash types on the same graph? If so, use separate graphs.</p>\n<p></p>\n<p>Are you plotting only a single hash function of each type? You should. In other words, don&#39;t use k=13 and try to plot multiple hash functions on a plot.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-07T21:00:00Z", 
+          "uid": "is52ojuybmv5er", 
+          "created": "2017-10-07T21:00:00Z", 
+          "type": "feedback", 
+          "id": "j8hszs5wyo67jh", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I just want to clarify. For the graphs. Using random data we should see a difference in the two types of hashes? or only when we use data with some correlation</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-07T21:23:43Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-10-07T21:23:43Z", 
+          "type": "feedback", 
+          "id": "j8htuam123d2k0", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I think the instructors are intentionally not saying, and don&#39;t want us to say, either. But if you see differences either way, that&#39;s enough for you to discuss in the report.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-07T21:33:06Z", 
+          "uid": "is52ojuybmv5er", 
+          "created": "2017-10-07T21:33:06Z", 
+          "type": "feedback", 
+          "id": "j8hu6cogun71vo", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>gotcha. don&#39;t want to break honor code.\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-07T21:55:38Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-10-07T21:55:38Z", 
+          "type": "feedback", 
+          "id": "j8huzc6kl8m5pd", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Yeah. It&#39;s hard sometimes to know where the line is, but just kind of reading between the lines, that&#39;s how it seems to me.</p>"
+        }
+      ], 
+      "subject": "<p>If i use the data provided in task1 and generate graph is hard to analyzed different\u00a0 between Hash1 and Hash2. Is i am missing anything?</p>"
+    }
+  ], 
+  "nr": 596, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "project"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 5, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "project", 
+    "student"
+  ], 
+  "created": "2017-10-04T18:52:34Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145181287, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>For Task1, we can either plot max/min load or scatter plot of input vs hash value, is that correct?</p>\n<p></p>\n<p>I am assuming there is a strict page limit of 3 and we have to choose the best plot which compliments our write up.\u00a0</p>\n<p></p>\n<p>Thanks</p>\n<p></p>", 
+      "anon": "no", 
+      "created": "2017-10-04T18:52:34Z", 
+      "uid": "hz03lfq2z6r446", 
+      "subject": "Task1 Plots"
+    }
+  ]
+}

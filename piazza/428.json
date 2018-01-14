@@ -1,0 +1,459 @@
+{
+  "status": "active", 
+  "unique_views": 163, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-25T20:36:32Z", 
+      "data": "j80mvebgrdy7cy", 
+      "uid": "hqa9hej5ny2gl"
+    }, 
+    {
+      "to": "j80mvebcuwr7cx", 
+      "anon": "no", 
+      "when": "2017-09-25T21:11:14Z", 
+      "type": "followup", 
+      "uid": "hq9zldy4rr4w1"
+    }, 
+    {
+      "uid": "gy4twfv45cg5o6", 
+      "type": "i_answer", 
+      "when": "2017-09-25T22:32:47Z", 
+      "to": "j80mvebcuwr7cx", 
+      "anon": "no", 
+      "data": "j80r0w2yqtg5kv"
+    }, 
+    {
+      "to": "j80mvebcuwr7cx", 
+      "anon": "no", 
+      "when": "2017-09-26T00:31:48Z", 
+      "type": "followup", 
+      "uid": "hv5exp71kfz754"
+    }, 
+    {
+      "to": "j80mvebcuwr7cx", 
+      "anon": "no", 
+      "when": "2017-09-26T00:40:04Z", 
+      "type": "feedback", 
+      "uid": "hqa9hej5ny2gl"
+    }, 
+    {
+      "to": "j80mvebcuwr7cx", 
+      "anon": "no", 
+      "when": "2017-09-27T17:53:13Z", 
+      "type": "followup", 
+      "uid": "hqa65fnalg83fr"
+    }, 
+    {
+      "to": "j80mvebcuwr7cx", 
+      "anon": "no", 
+      "when": "2017-09-27T17:53:59Z", 
+      "type": "feedback", 
+      "uid": "hqa65fnalg83fr"
+    }, 
+    {
+      "to": "j80mvebcuwr7cx", 
+      "anon": "no", 
+      "when": "2017-09-27T18:03:26Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j80mvebcuwr7cx", 
+      "anon": "no", 
+      "when": "2017-09-28T01:41:55Z", 
+      "type": "feedback", 
+      "uid": "hqa65fnalg83fr"
+    }, 
+    {
+      "to": "j80mvebcuwr7cx", 
+      "anon": "no", 
+      "when": "2017-09-28T12:35:21Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j80mvebcuwr7cx", 
+      "anon": "no", 
+      "when": "2017-10-05T19:48:43Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j80mvebcuwr7cx", 
+      "anon": "no", 
+      "when": "2017-10-05T20:04:07Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j80mvebcuwr7cx", 
+      "anon": "no", 
+      "when": "2017-10-05T20:19:16Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j80mvebcuwr7cx", 
+      "anon": "no", 
+      "when": "2017-10-05T20:24:12Z", 
+      "type": "feedback", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "to": "j80mvebcuwr7cx", 
+      "anon": "no", 
+      "when": "2017-10-05T20:29:08Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j80mvebcuwr7cx", 
+      "anon": "no", 
+      "when": "2017-10-05T23:05:07Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j80mvebcuwr7cx", 
+      "anon": "no", 
+      "when": "2017-10-05T23:30:17Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j80mvebcuwr7cx", 
+  "bookmarked": 9, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-09-25T21:11:14Z", 
+      "no_upvotes": 0, 
+      "uid": "hq9zldy4rr4w1", 
+      "created": "2017-09-25T21:11:14Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j80o40i3cry358", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>Topological ordering, lower post # and sink vertex. You will find your answer in module# 11.</p>"
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-25T22:32:47Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j80r0w2vtpt5ku", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "Can you clarify your question?  Are you asking about the postorder number&#39;s for DFS on this graph?", 
+          "anon": "no", 
+          "created": "2017-09-25T22:32:47Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-26T00:31:48Z", 
+      "no_upvotes": 0, 
+      "uid": "hv5exp71kfz754", 
+      "created": "2017-09-26T00:31:48Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j80v9xumagn2su", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-26T00:40:04Z", 
+          "uid": "hqa9hej5ny2gl", 
+          "created": "2017-09-26T00:40:04Z", 
+          "type": "feedback", 
+          "id": "j80vkkmk2f1i1", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>My original question was about the second question:\u00a0</p>\n<p>How many valid topological orderings are there?</p>\n<p>I came up with 6 because in my head I was still using the pre-order number based on which node I visit first. \u00a0But I reviewed the modules after Harshan&#39;s comment and it hit me it&#39;s the post order number that topological ordering cares about, not which vertex is visited first. \u00a0So the post order number of W is always smaller than that of Z regardless of if I visit Z or W first. \u00a0Therefore the total valid topological ordering is 3 as the video stated (sorry about the spoiler for those who read this thread before watching the modules).</p>\n<p>I am glad I got that straightened out without going too far off the track.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-27T17:53:59Z", 
+          "uid": "hqa65fnalg83fr", 
+          "created": "2017-09-27T17:53:59Z", 
+          "type": "feedback", 
+          "id": "j83by25hksl5ja", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>From what I recall of the topological sort algorithm. You MUST start from the node with the lowest in-degree. In the quiz that is X. You can&#39;t start from any other node.<br /><br />Maybe the Professor can clarify?</p>"
+        }
+      ], 
+      "subject": "<p>Seems like you should be able to explore\u00a0$$Y \\to W$$ before\u00a0$$Y \\to Z$$\u00a0 and in that case W does not have to be before Z.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-27T17:53:13Z", 
+      "no_upvotes": 0, 
+      "uid": "hqa65fnalg83fr", 
+      "created": "2017-09-27T17:53:13Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j83bx27hy224zk", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-27T18:03:26Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-09-27T18:03:26Z", 
+          "type": "feedback", 
+          "id": "j83ca76znxm348", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "No.  You can run DFS starting from any node.  And you can use any ordering on the vertices or on the neighbors in the adjacency list.  For any DFS on a DAG G, if you order the vertices by their decreasing postorder # you get a correct topological sort.  That&#39;s the beauty of all of these algorithms."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-28T01:41:55Z", 
+          "uid": "hqa65fnalg83fr", 
+          "created": "2017-09-28T01:41:55Z", 
+          "type": "feedback", 
+          "id": "j83sntiorrk2r4", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Then the quiz is incorrect. Because there are up to 9 possible topological sorts depending on where you start.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-28T12:35:21Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-09-28T12:35:21Z", 
+          "type": "feedback", 
+          "id": "j84g04x22c9774", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "What are the other valid topological orderings?\nThe only ones are\n  X,Y,Z,U,W\n  X,Y,Z,W,U\n  X,Y,U,Z,W\n\nDo a different DFS and show me the postorder #&#39;s that lead to a different topological ordering."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-05T19:48:43Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-10-05T19:48:43Z", 
+          "type": "feedback", 
+          "id": "j8evkesgbuq57a", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I am kind of confused by this....<br /><br />for reference, here is the graph:</p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/hvil6y6khgk2ri/j8evbyv413zr/TopoOrdering.jpg\" alt=\"\" /><br /><br /><br />Using this graph, how would it be possible to have the ordering X, Y, Z, U, W?<br /><br />I would think that once we traverse X, Y, Z - that is to say, once we are on Z, and assuming we have not visited W or U in any way - the algorithm would force the discovery of children of Z before moving on to other nodes, and since W is a child of Z, the algorithm would force the discovery of W before leaving W, leaving Z, and then finding U and leaving U; so, in my mind, X,Y,Z,U,W would be impossible but X, Y, Z, W, U would work.<br /><br />Where is my logic going off the rails, or what rule of DAG am I ignoring?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-05T20:04:07Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-10-05T20:04:07Z", 
+          "type": "feedback", 
+          "id": "j8ew4844o3u4oh", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>ok working through it, I may see my problem...I will post what I am typing out.<br /><br />Sometimes you gotta open your mouth to show your own ignorance, but you gotta push through so you actually learn something.\u00a0 I do this every day of my life, so just throw this time onto that pile :)</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-05T20:19:16Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-10-05T20:19:16Z", 
+          "type": "feedback", 
+          "id": "j8ewnpij7ft6uf", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Ok, so here is why:</p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/hvil6y6khgk2ri/j8ewnfbfowqk/TopoOrderingSolution.jpg\" alt=\"\" /><br />It has to be noted that a vertex is only assigned a post-number after all if its children have been assigned post-numbers.<br /><br />Also, I had a bit of trouble being convinced about the statement regarding &#39;it doesnt matter where you start&#39;, but after working it out by hand I now see why that is true.\u00a0 If, for example, the first vertex you find is w, and the second is u, the third is z, and then either:<br />A) you find x first -OR-</p>\n<p>B) you find y, then x last<br /><br />that situation - regardless if you pick A) or B) - will work out to attempt #4. In case B), we never actually explore ANY neighbors (as they have all already been visited) but regardless, clock&#43;&#43; still happens (twice) so the pre/post are still set correctly.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-05T20:24:12Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-10-05T20:24:12Z", 
+          "type": "feedback", 
+          "id": "j8ewu1dm2ji2m0", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "A valid topological ordering is not necessarily an ordering that would result from DFS post order numbers; it&#39;s valid as long as all edges go from [left] to [right]"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-05T20:29:08Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-10-05T20:29:08Z", 
+          "type": "feedback", 
+          "id": "j8ex0e9yktl2t8", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Hmm, not quite sure I follow, Mark.<br /><br />Oh, do you mean my example above - while it works logically - it doesnt represent how the post numbers would actually shake out, as demonstrated in me working it out by hand above?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-05T23:05:07Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-10-05T23:05:07Z", 
+          "type": "feedback", 
+          "id": "j8f2kzk34zq1tr", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "So, Brent, is the conclusion that you were able to find a DFS run which produces X,Y,Z,U,W?\nI think every topological ordering can be produced by a DFS, but you may need to reorder the vertices and reorder the neighbors in the adjacency list.  But the key that we use is that every ordering of the vertices and adjacency lists, every DFS produces a valid topological ordering (assuming the graph is a DAG)."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-05T23:30:17Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-10-05T23:30:17Z", 
+          "type": "feedback", 
+          "id": "j8f3hcdg7p46p5", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Yes, Dr. Vigoda. Thanks! :) I think I just had to manually write it out, which helped.</p>"
+        }
+      ], 
+      "subject": "<p>Doesn&#39;t the formulation of topological sort say you MUST begin from a vertex with no incoming edges?\u00a0<br /><br />I think in GR1-Topological Sorting Quiz it isn&#39;t clear where you should start from. But from what I recall you MUST start from X, because it has the lowest # of incoming vertices.<br /><br />Should there be a clarification on this point ? (add a note)</p>"
+    }
+  ], 
+  "nr": 428, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "graph_algorithms"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 2, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "graph_algorithms", 
+    "student"
+  ], 
+  "created": "2017-09-25T20:36:32Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145220465, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>In lesson#13 <a href=\"https://classroom.udacity.com/courses/ud401/lessons/10159691481/concepts/3e7dc2cb-1037-4c33-9470-370333e10c89\" target=\"_blank\">module#10</a>, it seems the solution assumes\u00a0that node W can only be visited after node Z. \u00a0I would understand if the edge Y-&gt;W were not there, but not sure why the assumption is valid given the presence of a direct edge Y-&gt;W. Can someone clarify? \u00a0</p>", 
+      "anon": "no", 
+      "created": "2017-09-25T20:36:32Z", 
+      "uid": "hqa9hej5ny2gl", 
+      "subject": "Why does W has to be visited after Z?"
+    }
+  ]
+}

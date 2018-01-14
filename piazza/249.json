@@ -1,0 +1,113 @@
+{
+  "status": "active", 
+  "unique_views": 156, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "stud", 
+      "when": "2017-09-10T20:56:38Z", 
+      "data": "j7f7zg4u62r4yi"
+    }, 
+    {
+      "uid": "hkjzzued3ef4xh", 
+      "type": "i_answer", 
+      "when": "2017-09-10T21:07:47Z", 
+      "to": "j7f7zg4sh274yh", 
+      "anon": "no", 
+      "data": "j7f8dsxk88o75c"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j7f7zg4sh274yh", 
+  "bookmarked": 3, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-10T21:07:47Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "hz34nbersnc6t2"
+      ], 
+      "id": "j7f8dsxfja775b", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "David Justice", 
+          "admin": false, 
+          "photo": "1427657435_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hz34nbersnc6t2"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>Read the solution provided on T-square first and read your answer carefully and check the place where you got points deducted. Most regrade requests are unnecessary if these two steps are done.</p>\n<p></p>\n<p>If you find something that you did correct but got points deducted, you can use the regrade function provided by gradescope. Let us know if you have any further questions. :)</p>", 
+          "anon": "no", 
+          "created": "2017-09-10T21:07:47Z", 
+          "uid": "hkjzzued3ef4xh", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 249, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw1"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw1", 
+    "student"
+  ], 
+  "created": "2017-09-10T20:56:37Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145263730, 
+  "tag_good": [
+    {
+      "name": "Eddie Spencer", 
+      "admin": false, 
+      "photo": "1432002672_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4j6x8uvfv6743"
+    }
+  ], 
+  "tag_good_arr": [
+    "i4j6x8uvfv6743"
+  ], 
+  "history": [
+    {
+      "content": "<p>What is the correct procedure for regrades request or clarifications on graded assignments?</p>", 
+      "anon": "stud", 
+      "created": "2017-09-10T20:56:37Z", 
+      "subject": "Regrade Requests / Grading Clarifications"
+    }
+  ]
+}

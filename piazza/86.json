@@ -1,0 +1,86 @@
+{
+  "status": "active", 
+  "unique_views": 204, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-08-26T20:22:02Z", 
+      "data": "j6tr56gs8mj6h7", 
+      "uid": "hkkbz4bujtv5dn"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-08-26T20:22:06Z", 
+      "data": "j6tr59lcd8471o", 
+      "uid": "hkkbz4bujtv5dn"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-08-29T14:34:37Z", 
+      "data": "j6xp1y7vlx26nc", 
+      "uid": "hkjzzued3ef4xh"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j6tr56gphz06h6", 
+  "bookmarked": 1, 
+  "tags": [
+    "course", 
+    "instructor-note", 
+    "logistics"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [], 
+  "nr": 86, 
+  "bucket_order": 2, 
+  "type": "note", 
+  "folders": [
+    "logistics", 
+    "course"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-08-26T20:22:02Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145310838, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>Hi everyone,</p>\n<p>\u00a0</p>\n<p>I will hold office hours Monday the 28th\u00a0from 9PM to 10PM EST via YouTube live.</p>\n<p>Please post your questions\u00a0at\u00a0<a href=\"http://slido.com/\" target=\"_blank\">slido.com</a>\u00a0using event code:\u00a0<strong>CS8803-Mon</strong></p>\n<p>The link to the livestream is here:\u00a0<a href=\"https://www.youtube.com/watch?v=SyeHo630M_w\">https://www.youtube.com/watch?v=SyeHo630M_w</a></p>\n<p>\u00a0</p>\n<p>Thanks,</p>\n<p>Jeremy</p>", 
+      "anon": "no", 
+      "created": "2017-08-29T14:34:37Z", 
+      "uid": "hkjzzued3ef4xh", 
+      "subject": "Office Hours 28th Aug 9PM EST"
+    }, 
+    {
+      "content": "<p>Hi everyone,</p>\n<p>\u00a0</p>\n<p>I will hold office hours Monday the 28th\u00a0from 9PM to 10PM EST via YouTube live.</p>\n<p>Please post your questions\u00a0at\u00a0<a href=\"http://slido.com/\" target=\"_blank\">slido.com</a>\u00a0using event code:\u00a0<strong>CS8803-Mon</strong></p>\n<p>The link to the livestream is here:\u00a0<a href=\"https://www.youtube.com/watch?v=SyeHo630M_w\">https://www.youtube.com/watch?v=SyeHo630M_w</a></p>\n<p>\u00a0</p>\n<p>Thanks,</p>\n<p>Jeremy</p>\n#pin", 
+      "anon": "no", 
+      "created": "2017-08-26T20:22:06Z", 
+      "uid": "hkkbz4bujtv5dn", 
+      "subject": "Office Hours 28th Aug 9PM EST"
+    }, 
+    {
+      "content": "<p>Hi everyone,</p>\n<p>\u00a0</p>\n<p>I will hold office hours Monday the 28th\u00a0from 9PM to 10PM EST via YouTube live.</p>\n<p>Please post your questions\u00a0at\u00a0<a href=\"http://slido.com/\" target=\"_blank\">slido.com</a>\u00a0using event code:\u00a0<strong>CS8803-Mon</strong></p>\n<p>The link to the livestream is here:\u00a0<a href=\"https://www.youtube.com/watch?v=SyeHo630M_w\">https://www.youtube.com/watch?v=SyeHo630M_w</a></p>\n<p>\u00a0</p>\n<p>Thanks,</p>\n<p>Jeremy</p>", 
+      "anon": "no", 
+      "created": "2017-08-26T20:22:02Z", 
+      "uid": "hkkbz4bujtv5dn", 
+      "subject": "Office Hours 28th Aug 9PM EST"
+    }
+  ]
+}

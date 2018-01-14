@@ -1,0 +1,149 @@
+{
+  "status": "active", 
+  "unique_views": 214, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-13T16:48:21Z", 
+      "data": "j7j9fpraw5q4c8", 
+      "uid": "i4pvwmg5VTb"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-13T16:48:30Z", 
+      "data": "j7j9fwrqmo04r7", 
+      "uid": "i4pvwmg5VTb"
+    }, 
+    {
+      "uid": "idg61g3ot1qp6", 
+      "type": "s_answer", 
+      "when": "2017-09-13T22:09:41Z", 
+      "to": "j7j9fpr3wbx4c7", 
+      "anon": "no", 
+      "data": "j7jkwy7u8mu4ju"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j7j9fpr3wbx4c7", 
+  "bookmarked": 3, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-13T22:09:41Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [
+        "idgjs16yZ4K"
+      ], 
+      "id": "j7jkwy7ibka4jt", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Jonathan McMahon", 
+          "admin": false, 
+          "photo": "1498602698_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "idgjs16yZ4K"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>See &#64;293</p>", 
+          "anon": "no", 
+          "created": "2017-09-13T22:09:41Z", 
+          "uid": "idg61g3ot1qp6", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 288, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "exam"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "exam", 
+    "student"
+  ], 
+  "created": "2017-09-13T16:48:21Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145250269, 
+  "tag_good": [
+    {
+      "name": "Andrew Keith", 
+      "admin": false, 
+      "photo": "1421793402_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4pvwmg5VTb"
+    }, 
+    {
+      "name": "Shihgian Lee", 
+      "admin": false, 
+      "photo": "1420394909_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i18w67avy8e1uk"
+    }, 
+    {
+      "name": "Matthew Clarke", 
+      "admin": false, 
+      "photo": "1468354733_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4knvwlqXZ8"
+    }
+  ], 
+  "tag_good_arr": [
+    "i4pvwmg5VTb", 
+    "i18w67avy8e1uk", 
+    "i4knvwlqXZ8"
+  ], 
+  "history": [
+    {
+      "content": "<p>Given that the exam date is quickly approaching, will a study guide be provided so we will know specifically what to focus on while preparing?</p>", 
+      "anon": "no", 
+      "created": "2017-09-13T16:48:30Z", 
+      "uid": "i4pvwmg5VTb", 
+      "subject": "Study Guide for Exam?"
+    }, 
+    {
+      "content": "<p>Given that the exam date is quickly approaching, we a study guide be provided so we will know specifically what to focus on while preparing?</p>", 
+      "anon": "no", 
+      "created": "2017-09-13T16:48:21Z", 
+      "uid": "i4pvwmg5VTb", 
+      "subject": "Study Guide for Exam?"
+    }
+  ]
+}

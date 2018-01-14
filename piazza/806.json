@@ -1,0 +1,117 @@
+{
+  "status": "active", 
+  "unique_views": 163, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-24T18:58:12Z", 
+      "data": "j95z4mrcsvw4rb", 
+      "uid": "idffdmbb26m6lw"
+    }, 
+    {
+      "uid": "hv5exp71kfz754", 
+      "type": "s_answer", 
+      "when": "2017-10-24T18:59:29Z", 
+      "to": "j95z4mr2rik4ra", 
+      "anon": "no", 
+      "data": "j95z6a1mqiz5zt"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-10-24T19:23:52Z", 
+      "data": "j9601n398dq62p", 
+      "uid": "hq8hn0qyfuvyr"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j95z4mr2rik4ra", 
+  "bookmarked": 6, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-24T18:59:29Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [
+        "hyywem7iw0v1jj"
+      ], 
+      "id": "j95z6a1gxwh5zs", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Babak Keyvani", 
+          "admin": false, 
+          "photo": "1408337737_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hyywem7iw0v1jj"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "They are in the office hours from 10/2.\n\nThere is also a resource in T-Square with the solutions.", 
+          "anon": "no", 
+          "created": "2017-10-24T19:23:52Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>They are in the office hours from 10/2.</p>", 
+          "anon": "no", 
+          "created": "2017-10-24T18:59:29Z", 
+          "uid": "hv5exp71kfz754", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 806, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "exam"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 4, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "exam", 
+    "student"
+  ], 
+  "created": "2017-10-24T18:58:12Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145129780, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p></p>", 
+      "anon": "no", 
+      "created": "2017-10-24T18:58:12Z", 
+      "uid": "idffdmbb26m6lw", 
+      "subject": "where to find answers of exam 1?"
+    }
+  ]
+}

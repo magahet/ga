@@ -1,0 +1,152 @@
+{
+  "status": "active", 
+  "unique_views": 164, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "stud", 
+      "when": "2017-10-05T20:55:27Z", 
+      "data": "j8exy88rrhf2oq"
+    }, 
+    {
+      "type": "update", 
+      "anon": "stud", 
+      "when": "2017-10-05T21:43:20Z", 
+      "data": "j8eznswd5311zc"
+    }, 
+    {
+      "uid": "gns9oa0pgsO", 
+      "type": "i_answer", 
+      "when": "2017-10-05T22:57:54Z", 
+      "to": "j8exy88oyl92op", 
+      "anon": "no", 
+      "data": "j8f2bp8tmz06sb"
+    }, 
+    {
+      "to": "j8exy88oyl92op", 
+      "anon": "no", 
+      "when": "2017-10-06T00:48:13Z", 
+      "type": "followup", 
+      "uid": "hv8z1thijfq6ns"
+    }, 
+    {
+      "to": "j8exy88oyl92op", 
+      "anon": "no", 
+      "when": "2017-10-06T00:53:45Z", 
+      "type": "feedback", 
+      "uid": "gns9oa0pgsO"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8exy88oyl92op", 
+  "bookmarked": 4, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-05T22:57:54Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j8f2bp8rnzp6sa", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>neither - both of these measure only the accuracy of your bloom filter implementation compared to the results that are expected.\u00a0 incorrect trues and incorrect falses\u00a0mean your implementation classified something as a true, or false, respectively\u00a0that should not have been.</p>\n<p></p>\n<p>false positive rate is how many elements in your withheld set\u00a0 came up as present in the bloom filter.\u00a0</p>", 
+          "anon": "no", 
+          "created": "2017-10-05T22:57:54Z", 
+          "uid": "gns9oa0pgsO", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-06T00:48:13Z", 
+      "no_upvotes": 0, 
+      "uid": "hv8z1thijfq6ns", 
+      "created": "2017-10-06T00:48:13Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8f69kztecy3av", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-06T00:53:45Z", 
+          "uid": "gns9oa0pgsO", 
+          "created": "2017-10-06T00:53:45Z", 
+          "type": "feedback", 
+          "id": "j8f6gp40t0z4v0", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>yes</p>"
+        }
+      ], 
+      "subject": "<p>Just to clarify -- it&#39;s</p>\n<p></p>\n<p>(how many elements in your withheld set\u00a0 came up as present in the bloom filter) / (how many elements are in your withheld set)</p>\n<p></p>\n<p> correct?</p>"
+    }
+  ], 
+  "nr": 615, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "project"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 5, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "project", 
+    "student"
+  ], 
+  "created": "2017-10-05T20:55:27Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145176302, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>When using the provided code compareResults from Task2 to complete Task3, the result compareResults shows: &#34;Number of mismatches in bloomfilter compared to validation file: xxx| # of incorrect true results: yyy| # of incorrect False results: zzz&#34;.</p>\n<p></p>\n<p>Would the false positive rate mean zzz/xxx? or the zzz/ total number data entry?\u00a0</p>", 
+      "anon": "stud", 
+      "created": "2017-10-05T21:43:20Z", 
+      "subject": "Definition of the false positive rate of Task3"
+    }, 
+    {
+      "content": "<p>When using the provided code compareResults from Task2 to complete Task3, the result compareResults shows: &#34;Number of mismatches in bloomfilter compared to validation file: xxx| # of incorrect true results: yyy| # of incorrect False results: zzz&#34;.</p>\n<p></p>\n<p>Would the false positive rate mean zzz/xxx? or the zzz/ total number data entry?\u00a0</p>", 
+      "anon": "stud", 
+      "created": "2017-10-05T20:55:27Z", 
+      "subject": "Definition of the false position rate of Task3"
+    }
+  ]
+}

@@ -1,0 +1,470 @@
+{
+  "status": "active", 
+  "unique_views": 197, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-10T21:33:23Z", 
+      "data": "j8m4i9ungm817o", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j8m4i9ulsg817n", 
+      "anon": "no", 
+      "when": "2017-10-10T21:35:18Z", 
+      "type": "followup", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j8m4i9ulsg817n", 
+      "anon": "no", 
+      "when": "2017-10-10T23:24:20Z", 
+      "type": "followup", 
+      "uid": "isgwdf47kb42f"
+    }, 
+    {
+      "to": "j8m4i9ulsg817n", 
+      "anon": "no", 
+      "when": "2017-10-11T00:17:14Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j8m4i9ulsg817n", 
+      "anon": "no", 
+      "when": "2017-10-11T00:25:01Z", 
+      "type": "feedback", 
+      "uid": "isgwdf47kb42f"
+    }, 
+    {
+      "to": "j8m4i9ulsg817n", 
+      "anon": "no", 
+      "when": "2017-10-11T00:26:02Z", 
+      "type": "followup", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j8m4i9ulsg817n", 
+      "anon": "no", 
+      "when": "2017-10-11T01:21:29Z", 
+      "type": "followup", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "uid": "gy4twfv45cg5o6", 
+      "type": "i_answer", 
+      "when": "2017-10-11T01:30:37Z", 
+      "to": "j8m4i9ulsg817n", 
+      "anon": "no", 
+      "data": "j8mczcnm9qb11d"
+    }, 
+    {
+      "to": "j8m4i9ulsg817n", 
+      "anon": "no", 
+      "when": "2017-10-11T02:00:06Z", 
+      "type": "followup", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j8m4i9ulsg817n", 
+      "anon": "no", 
+      "when": "2017-10-11T20:19:29Z", 
+      "type": "feedback", 
+      "uid": "i4j6x8uvfv6743"
+    }, 
+    {
+      "to": "j8m4i9ulsg817n", 
+      "anon": "no", 
+      "when": "2017-10-16T09:24:05Z", 
+      "type": "feedback", 
+      "uid": "hz3xzg3uwdmpt"
+    }, 
+    {
+      "to": "j8m4i9ulsg817n", 
+      "anon": "no", 
+      "when": "2017-10-16T22:22:26Z", 
+      "type": "feedback", 
+      "uid": "idg5nm2lC96"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8m4i9ulsg817n", 
+  "bookmarked": 10, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-10-10T21:35:18Z", 
+      "no_upvotes": 0, 
+      "uid": "hvil6y6khgk2ri", 
+      "created": "2017-10-10T21:35:18Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8m4kqfgeq3my", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-11T20:19:29Z", 
+          "uid": "i4j6x8uvfv6743", 
+          "created": "2017-10-11T20:19:29Z", 
+          "type": "feedback", 
+          "id": "j8nhb37oseg4zm", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#43;1 :(</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-16T09:24:05Z", 
+          "uid": "hz3xzg3uwdmpt", 
+          "created": "2017-10-16T09:24:05Z", 
+          "type": "feedback", 
+          "id": "j8tz3hpcxg1g9", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Haha, incidentally I had a random nightmare last night where some random masked person was asking me to solve a problem that I never saw and every time I would talk to someone else or ask for help that person would be killed. Was crazy.</p>"
+        }
+      ], 
+      "subject": "<p>I would bet most of us who took CCA and are now here have flashbacks of proofs and the horrors they brought. Not gonna lie, sometimes it creeps up on me on particularly cool nights :)</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-10T23:24:20Z", 
+      "no_upvotes": 0, 
+      "uid": "isgwdf47kb42f", 
+      "created": "2017-10-10T23:24:20Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8m8gy7kfzg3gl", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-11T00:17:14Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-10-11T00:17:14Z", 
+          "type": "feedback", 
+          "id": "j8maczlwhzo6me", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Ah, by that I mean...</p>\n<p></p>\n<p>Proof by induction, for example, means you first need a base case (basis step), then you need to prove that moving from one element to another works and works every time (inductive step). <br />Proof by contradiction, which somehow requires a false statement to be entertained, and then you keep drawing &#39;logical&#39; conclusions until you get to a conclusion that is absurd (and in some cases, &#39;but that is absurd&#39; is literally said in the proof itself).</p>\n<p>Then there are a whole series of specific proofs on sets that frankly I have never done, but I know *of* them.<br />And there are many more types of proofs, all of which have specific steps, specific language for specific proofs (&#39;Suppose that...&#39; and &#39;that is absurd&#39; and &#39;but that is impossible&#39; are ones for proof by contradiction), and different strategies for each proof.<br /><br />Then sometimes there are lemmas which need to be proved, which I never quite got the hang of. Evidently these are statements that need to be proved for the larger proof to be true, but, I never quite got the hang of knowing when I could assume a truth as accepted true, or when I had to prove it. <br /><br />Then there are other things.\u00a0 So for example, one of the things I got burned on when I did them was my proofs weren&#39;t &#34;math-y&#34; enough; by that I mean I would say things like &#34;the sum of all of the foreground probabilities contained in the set of foregrounds&#34; instead of $$\\sum_{i \\varepsilon{} F } f_{i}$$ . I lost many points consistently for stuff like this.<br /><br />Its this kind of stuff I was asking about, and there are definite rules to them; I did learn these somewhat this past January / February, but I lost it and wasnt sure if I had to re-sharpen this into, well, at least an intimidating spoon. Knowing that we will have to do these again though I will start re-learning the language.<br /><br />Let me see if I can find that official, sanctioned free link for the class for &#39;Book of Proof&#39;.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-11T00:25:01Z", 
+          "uid": "isgwdf47kb42f", 
+          "created": "2017-10-11T00:25:01Z", 
+          "type": "feedback", 
+          "id": "j8mamzowua06fs", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I won&#39;t personally be grading this assignment but to the best of my knowledge I would say they would be less formal. You still need to use valid proof techniques but they are relatively basic techniques.</p>"
+        }
+      ], 
+      "subject": "<p>I&#39;m not sure what you mean by &#34;a specific structure and method&#34;. There&#39;s not a specific proof method that is required to be used but your proofs should still be valid proofs.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-11T00:26:02Z", 
+      "no_upvotes": 0, 
+      "uid": "hvil6y6khgk2ri", 
+      "created": "2017-10-11T00:26:02Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8maob2yx605vb", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-16T22:22:26Z", 
+          "uid": "idg5nm2lC96", 
+          "created": "2017-10-16T22:22:26Z", 
+          "type": "feedback", 
+          "id": "j8uqwglc27k5sa", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Ooh, I loved that book when I read it a couple of years ago. I recall it being very well written and lucid. I had to force Prof. Hammack to take my money, but he kept refusing :).</p>"
+        }
+      ], 
+      "subject": "<p>For those that want the free &#39;Book of Proof&#39;:<br /><a href=\"https://www.people.vcu.edu/~rhammack/BookOfProof/\">https://www.people.vcu.edu/~rhammack/BookOfProof/</a></p>\n<p><br />And an interview with the author explaining why its free:</p>\n<p><a href=\"https://www.youtube.com/watch?v=em8_aTPE978&amp;feature=youtu.be\">https://www.youtube.com/watch?v=em8_aTPE978&amp;feature=youtu.be</a></p>\n<p></p>\n<p>I ended up buying it on Amazon for $15 as well.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-11T01:21:29Z", 
+      "no_upvotes": 0, 
+      "uid": "hq8hn0qyfuvyr", 
+      "created": "2017-10-11T01:21:29Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8mcnls3t477o4", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "For what it&#39;s worth, HW2 Problem 4 required a proof."
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-11T01:30:37Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "hvfeyx7qglF", 
+        "hz07uekkjnrpb", 
+        "i18w67avy8e1uk", 
+        "i4k3wmovHgP", 
+        "hvil6y6khgk2ri", 
+        "j8asouglzmcwj", 
+        "i4kxfs7hlxngu"
+      ], 
+      "id": "j8mczcnc5va11b", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Brandon Richards", 
+          "admin": false, 
+          "photo": "1408392221_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hvfeyx7qglF"
+        }, 
+        {
+          "name": "Chris Anderson", 
+          "admin": false, 
+          "photo": "1408759905_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hz07uekkjnrpb"
+        }, 
+        {
+          "name": "Shihgian Lee", 
+          "admin": false, 
+          "photo": "1420394909_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i18w67avy8e1uk"
+        }, 
+        {
+          "name": "Kaniska Mandal", 
+          "admin": false, 
+          "photo": "1421090824_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i4k3wmovHgP"
+        }, 
+        {
+          "name": "Brent Wagenseller", 
+          "admin": false, 
+          "photo": "1408396390_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hvil6y6khgk2ri"
+        }, 
+        {
+          "name": "Arvind Kumar Sharma", 
+          "admin": false, 
+          "photo": null, 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "j8asouglzmcwj"
+        }, 
+        {
+          "name": "Nelson Cheng", 
+          "admin": false, 
+          "photo": null, 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i4kxfs7hlxngu"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "Don&#39;t get hung up on the word proof.  Explain why it&#39;s true.  For 5.22(a), I lay out the outline for you: explain how to construct the tree T&#39;.  And for 5.9(e) do something similar to the basic outline of 5.22(a).  Stop worrying about the various types of proof etc.  For 5.22(a), can you take tree T and construct the tree T&#39; as outlined?", 
+          "anon": "no", 
+          "created": "2017-10-11T01:30:37Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-11T02:00:06Z", 
+      "no_upvotes": 0, 
+      "uid": "hvil6y6khgk2ri", 
+      "created": "2017-10-11T02:00:06Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8me19roch611d", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>Ah, thanks Dr. Vigoda.\u00a0 I can certainly do that (or, at least, I have a decent idea of how to do that).\u00a0 Thanks!</p>"
+    }
+  ], 
+  "nr": 693, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw5", 
+    "exam"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 6, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "exam", 
+    "hw5", 
+    "student"
+  ], 
+  "created": "2017-10-10T21:33:23Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145157861, 
+  "tag_good": [
+    {
+      "name": "Chris Anderson", 
+      "admin": false, 
+      "photo": "1408759905_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hz07uekkjnrpb"
+    }, 
+    {
+      "name": "Shihgian Lee", 
+      "admin": false, 
+      "photo": "1420394909_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i18w67avy8e1uk"
+    }, 
+    {
+      "name": "Arvind Kumar Sharma", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "j8asouglzmcwj"
+    }, 
+    {
+      "name": "Brian Trinh", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hq9zldq5n9mvn"
+    }, 
+    {
+      "name": "Nelson Cheng", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4kxfs7hlxngu"
+    }
+  ], 
+  "tag_good_arr": [
+    "hz07uekkjnrpb", 
+    "i18w67avy8e1uk", 
+    "j8asouglzmcwj", 
+    "hq9zldq5n9mvn", 
+    "i4kxfs7hlxngu"
+  ], 
+  "history": [
+    {
+      "content": "<p>Hi All,</p>\n<p></p>\n<p>So confession time.</p>\n<p></p>\n<p>My undergrad is 15 years in my rear view mirror, and some of the more academic aspects of GA Tech I have had to re-learn.\u00a0 Nothing drives this point home harder than proofs (matter of fact, after reviewing my undergrad curriculum for computer science, there were no proofs at all, so they are completely new to me).\u00a0 When I was in CCA, proofs were easily over half the grade, and I found that I need far more practice on them than I care to admit.</p>\n<p></p>\n<p>I see that problems 3 and 4 on HW5 require a proof (or, at least, mention the word proof). So my question is: <em>are these proofs in the sense that we need a specific structure and method to answer them or are they a bit more casual?</em><br /><br />I ask because if so, I need to budget time this week to reading Book of Proof, which is freely and legally available as a PDF (last time I checked).</p>\n<p></p>\n<p>Thanks,</p>\n<p>Brent</p>", 
+      "anon": "no", 
+      "created": "2017-10-10T21:33:23Z", 
+      "uid": "hvil6y6khgk2ri", 
+      "subject": "Proving The Elephant in the Room: Proofs For HW5 / Exam 2"
+    }
+  ]
+}

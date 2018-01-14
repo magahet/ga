@@ -1,0 +1,129 @@
+{
+  "status": "active", 
+  "unique_views": 124, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-03T03:44:39Z", 
+      "data": "j8b28wty1ndir", 
+      "uid": "hve4k9bj2u4qu"
+    }, 
+    {
+      "to": "j8b28wtwcdwiq", 
+      "anon": "no", 
+      "when": "2017-10-03T04:06:19Z", 
+      "type": "followup", 
+      "uid": "hqa9hej5ny2gl"
+    }, 
+    {
+      "uid": "i4hdvab632i522", 
+      "type": "s_answer", 
+      "when": "2017-10-03T06:27:16Z", 
+      "to": "j8b28wtwcdwiq", 
+      "anon": "no", 
+      "data": "j8b821l9z9s2y2"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8b28wtwcdwiq", 
+  "bookmarked": 3, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-10-03T04:06:19Z", 
+      "no_upvotes": 0, 
+      "uid": "hqa9hej5ny2gl", 
+      "created": "2017-10-03T04:06:19Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8b30rodzmf7kk", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>The second step of SCCN is running the undirected connected components algorithm which maintains the CCN for each node.\u00a0 So if the the CCN(u) is not equal to the CCN(v) for any edge (u,v), then edge(u,v) should be an edge in the metagraph between two strongly connected components (SCC).\u00a0</p>"
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-03T06:27:16Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j8b821l57bs2y1", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "As Qingyun says, you just iterate over the edges of the original graph $$G$$ to produce the edges of the $$G_{SCC}$$ according to the CCNs of the ends of the edge", 
+          "anon": "no", 
+          "created": "2017-10-03T06:27:16Z", 
+          "uid": "i4hdvab632i522", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 562, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw4"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 2, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw4", 
+    "student"
+  ], 
+  "created": "2017-10-03T03:44:39Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145189718, 
+  "tag_good": [
+    {
+      "name": "Kris Peterson", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hv5exp71kfz754"
+    }
+  ], 
+  "tag_good_arr": [
+    "hv5exp71kfz754"
+  ], 
+  "history": [
+    {
+      "content": "<p>So the output of SCC on a directed graph is a list of edges numbered in reverse topological order\u00a0which represents the metagraph which happens to be a DAG. Cool. How do we know the edges of the metagraph? Might be missing something simple here.... That doesn&#39;t seem to be tracked by the algorithm.</p>", 
+      "anon": "no", 
+      "created": "2017-10-03T03:44:39Z", 
+      "uid": "hve4k9bj2u4qu", 
+      "subject": "Edges In SCC Metagraph"
+    }
+  ]
+}

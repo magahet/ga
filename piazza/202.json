@@ -1,0 +1,235 @@
+{
+  "status": "active", 
+  "unique_views": 171, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-06T00:38:44Z", 
+      "data": "j78aptyfrrbr9", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j78aptxyncsr8", 
+      "anon": "no", 
+      "when": "2017-09-06T00:49:14Z", 
+      "type": "followup", 
+      "uid": "hz4ug66rg6o26j"
+    }, 
+    {
+      "to": "j78aptxyncsr8", 
+      "anon": "no", 
+      "when": "2017-09-06T00:50:15Z", 
+      "type": "followup", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j78aptxyncsr8", 
+      "anon": "no", 
+      "when": "2017-09-06T01:03:37Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j78aptxyncsr8", 
+      "anon": "no", 
+      "when": "2017-09-06T01:04:06Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j78aptxyncsr8", 
+      "anon": "no", 
+      "when": "2017-09-06T04:18:49Z", 
+      "type": "followup", 
+      "uid": "j6m1j9wkzk46tu"
+    }, 
+    {
+      "to": "j78aptxyncsr8", 
+      "anon": "no", 
+      "when": "2017-09-06T17:30:49Z", 
+      "type": "feedback", 
+      "uid": "hyzyc8nwswo6z5"
+    }, 
+    {
+      "to": "j78aptxyncsr8", 
+      "anon": "no", 
+      "when": "2017-09-08T20:21:07Z", 
+      "type": "followup", 
+      "uid": "hkvhtvraa6x6cg"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j78aptxyncsr8", 
+  "bookmarked": 8, 
+  "tags": [
+    "hw1", 
+    "student"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-09-06T00:49:14Z", 
+      "no_upvotes": 0, 
+      "uid": "hz4ug66rg6o26j", 
+      "created": "2017-09-06T00:49:14Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j78b3btwvcp10c", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-06T01:03:37Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-09-06T01:03:37Z", 
+          "type": "feedback", 
+          "id": "j78bltjphi15m3", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>R(i, b) is not a table. Just a function.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-06T17:30:49Z", 
+          "uid": "hyzyc8nwswo6z5", 
+          "created": "2017-09-06T17:30:49Z", 
+          "type": "feedback", 
+          "id": "j79avdnaopk5cu", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>My solution was very similar to yours, Santiago. Find the minimum number of coins to make change B, and at the end compare the minimum to the allowed K.</p>"
+        }
+      ], 
+      "subject": "<p>Thanks for posting. \u00a0I had the same solution except that C(n,B) \u2264\u00a0k \u00a0in your case could be the return value. \u00a0Did you find extra value in maintaining a separate R table?</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-06T00:50:15Z", 
+      "no_upvotes": 0, 
+      "uid": "hq8hn0qyfuvyr", 
+      "created": "2017-09-06T00:50:15Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j78b4n0csku17t", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-06T01:04:06Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-09-06T01:04:06Z", 
+          "type": "feedback", 
+          "id": "j78bmfswrkv6qo", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>No table. R(i, b) is just a function.</p>"
+        }
+      ], 
+      "subject": "<p>This is essentially what I came up with, too. However, the deadline passed before I saw the thread about an O(nB) solution, so the one that I wrote up and turned in was O(nkB), and I did the O(nB) only in my head. But, I think if I had written it out, it would have been very similar to yours.</p>\n<p></p>\n<p>Like Nick, I would not have used a separate table for R, but I&#39;m assuming that you didn&#39;t really use a separate table, either.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-06T04:18:49Z", 
+      "no_upvotes": 0, 
+      "uid": "j6m1j9wkzk46tu", 
+      "created": "2017-09-06T04:18:49Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j78ikup4on62np", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "I had the exact same solution but missed 1 in min(1&#43;C(i-1,b-xi),C(i-1,b)) while submitting :-( ... I hope it won&#39;t impact much..."
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-08T20:21:07Z", 
+      "no_upvotes": 0, 
+      "uid": "hkvhtvraa6x6cg", 
+      "created": "2017-09-08T20:21:07Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7cbu2rg29x4ar", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "I had basically the same as well. It certainly took me a second to get this one."
+    }
+  ], 
+  "nr": 202, 
+  "bucket_order": 2, 
+  "type": "note", 
+  "folders": [
+    "hw1"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 4, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-09-06T00:38:44Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145277171, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>I think this was probably the trickiest problem in HW1. It wasn&#39;t hard to find a solution, but in my opinion, finding a solution in $$O(nB)$$ was the tricky part.</p>\n<p></p>\n<p>Here is what I did. Hopefully, this works:</p>\n<p></p>\n<p>for $$i$$ where $$1 \\leq i \\leq n$$ and $$b$$ where $$1 \\leq b &lt; B$$</p>\n<p>let $$C(i,b)$$ be the minimum number of coins needed to make change $$b$$ with coins $$x_1, \\dots,x_i$$, and $$R(i, b)$$ be $$True$$ if change $$b$$ can be made with coins $$x_1, \\dots,x_i$$, and at most $$k$$ coins were used, and $$False$$ otherwise.</p>\n<p></p>\n<p>$$C(i, 0) = 0$$</p>\n<p></p>\n<p>$$C(0, b) = \\infty$$</p>\n<p></p>\n<p>$$ C(i,b) = \n\\begin{cases}\nmin(1 &#43; C(i-1, b - x_i), C(i-1, b)) &amp; \\text{if $x_i \\leq b$}\\\\\nC(i-1, b) &amp; otherwise\n\\end{cases}$$</p>\n<p></p>\n<p>$$R(i, b) = \n\\begin{cases}\nTrue &amp; C(i,b) \\leq k\\\\\nFalse &amp; otherwise\n\\end{cases}$$</p>\n<p></p>\n<p>If you write an algorithm with the above recurrence, it will be\u00a0$$O(nB)$$.</p>\n<p></p>\n<p>Notice how I never used an array dimension to keep track of $$k$$. Instead, I determined the minimum number of coins\u00a0needed to make the change\u00a0and simply compared this value with $$k$$. If the minimum number of coins was larger than $$k$$, then the result was $$False$$.</p>\n<p></p>\n<p>I&#39;d like to see what others came up with.</p>", 
+      "anon": "no", 
+      "created": "2017-09-06T00:38:44Z", 
+      "uid": "i4nkipeofrkrz", 
+      "subject": "HW1 - Coin changing variant - Solution"
+    }
+  ]
+}

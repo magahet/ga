@@ -1,0 +1,110 @@
+{
+  "status": "active", 
+  "unique_views": 240, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-02T14:52:50Z", 
+      "data": "j8aaoccdswm6ac", 
+      "uid": "i4nkipeofrkrz"
+    }
+  ], 
+  "id": "j8aaocc9l1j6ab", 
+  "bookmarked": 2, 
+  "tags": [
+    "exam", 
+    "polls", 
+    "student"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [], 
+  "nr": 526, 
+  "bucket_order": 2, 
+  "type": "poll", 
+  "folders": [
+    "exam", 
+    "polls"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 3, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "answer": "", 
+    "admin": "", 
+    "has_voted": [], 
+    "result": {
+      "1": 33, 
+      "0": 13, 
+      "3": 65, 
+      "2": 42, 
+      "4": 18
+    }, 
+    "total_votes": 171
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-10-02T14:52:50Z", 
+  "is_tag_good": false, 
+  "config": {
+    "show_results": "av", 
+    "anonymous": "yes", 
+    "multiple_selections": 0, 
+    "unpublished": 0, 
+    "toggle_visibility_on": 1, 
+    "revote": 0, 
+    "allow_followups": "yes", 
+    "always_open": 0, 
+    "close_after": "48", 
+    "publish_later": 0
+  }, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145194241, 
+  "tag_good": [
+    {
+      "name": "Michael Buss", 
+      "admin": false, 
+      "photo": "1435529089_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hz0pn3deX7A"
+    }, 
+    {
+      "name": "abarysevich", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4t8eakz3ex6lk"
+    }, 
+    {
+      "name": "Diego M. Perilla", 
+      "admin": false, 
+      "photo": "1452570752_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "ij7curo6tdo360"
+    }
+  ], 
+  "tag_good_arr": [
+    "hz0pn3deX7A", 
+    "i4t8eakz3ex6lk", 
+    "ij7curo6tdo360"
+  ], 
+  "history": [
+    {
+      "content": "<p>What was your score?</p>\n<br/> [o] 95 - 110\n[o] 80 - 94\n[o] 65 - 79\n[o] 40 - 64\n[o] Less than 40 points", 
+      "anon": "no", 
+      "created": "2017-10-02T14:52:50Z", 
+      "uid": "i4nkipeofrkrz", 
+      "subject": "After seen your grade, how did you do on the exam?"
+    }
+  ]
+}

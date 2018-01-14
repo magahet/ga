@@ -1,0 +1,127 @@
+{
+  "status": "active", 
+  "unique_views": 135, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-04T20:34:35Z", 
+      "data": "j76mjztzh6255d", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "uid": "i4nkipeofrkrz", 
+      "type": "s_answer", 
+      "when": "2017-09-04T22:18:36Z", 
+      "to": "j76mjztyqug55c", 
+      "anon": "no", 
+      "data": "j76q9rkgdde248"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-09-04T22:18:42Z", 
+      "data": "j76q9w6m2l126e", 
+      "uid": "i4nkipeofrkrz"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j76mjztyqug55c", 
+  "bookmarked": 2, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-04T22:18:36Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [
+        "i4g1slpjbgk6g0", 
+        "hvil6y6khgk2ri"
+      ], 
+      "id": "j76q9rkc81f247", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "David Shinn", 
+          "admin": false, 
+          "photo": "1494851039_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i4g1slpjbgk6g0"
+        }, 
+        {
+          "name": "Brent Wagenseller", 
+          "admin": false, 
+          "photo": "1408396390_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hvil6y6khgk2ri"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>They are both different.</p>\n<p></p>\n<p>One of those MAXs is to determine which term is larger: max(a, b).</p>\n<p></p>\n<p>The other is to determine the larger value\u00a0over a list. In this case, you need to use a variable to refer to each one of the values: $$T(i,k) = \\max_{1 \\leq j &lt; n~} \\{ T(j, ...) \\}$$</p>", 
+          "anon": "no", 
+          "created": "2017-09-04T22:18:42Z", 
+          "uid": "i4nkipeofrkrz", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>They are both different.</p>\n<p></p>\n<p>One of those MAXs is to determine which term is larger: max(a, b).</p>\n<p></p>\n<p>The other is to determine the larger value\u00a0over a list. In this case, you need to use a variable to refer to each one of the values:$$T(i,k) = \\max_{1 \\leq j &lt; n~} \\{ T(j, ...) \\}$$</p>", 
+          "anon": "no", 
+          "created": "2017-09-04T22:18:36Z", 
+          "uid": "i4nkipeofrkrz", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 182, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "dynamic_programming"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "dynamic_programming", 
+    "student"
+  ], 
+  "created": "2017-09-04T20:34:35Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145282759, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>Hi All,</p>\n<p></p>\n<p>Dumb question, but when are ranges used in recurrences?\u00a0 For example, as far as I can tell in the lecture notes for the recurrence for knapsack - no repeat, there is a bare MAX with no range; however, in the recurrence for knapsack - with repeats, there is a range listed (1 &lt; i &lt; n, immediately following the word &#39;max&#39;). When do we have to put the range and when is it ok to not put it in?\u00a0 I am genuinely confused on when to do so.</p>\n<p></p>\n<p>Thanks,</p>\n<p>Brent</p>", 
+      "anon": "no", 
+      "created": "2017-09-04T20:34:35Z", 
+      "uid": "hvil6y6khgk2ri", 
+      "subject": "When Are Ranges Used in Recurrences?"
+    }
+  ]
+}

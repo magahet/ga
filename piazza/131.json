@@ -1,0 +1,507 @@
+{
+  "status": "active", 
+  "unique_views": 194, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-08-31T21:01:48Z", 
+      "data": "j70xrkyzlqo3kx", 
+      "uid": "hyzqrr6e3u13as"
+    }, 
+    {
+      "uid": "hju4w9odatf30", 
+      "type": "i_answer", 
+      "when": "2017-08-31T22:21:12Z", 
+      "to": "j70xrkyxdce3kw", 
+      "anon": "no", 
+      "data": "j710lpbjpvr3ra"
+    }, 
+    {
+      "to": "j70xrkyxdce3kw", 
+      "anon": "no", 
+      "when": "2017-08-31T22:27:18Z", 
+      "type": "followup", 
+      "uid": "i4iys7m3lpq2ij"
+    }, 
+    {
+      "to": "j70xrkyxdce3kw", 
+      "anon": "no", 
+      "when": "2017-08-31T22:31:14Z", 
+      "type": "feedback", 
+      "uid": "hju4w9odatf30"
+    }, 
+    {
+      "type": "i_answer_update", 
+      "anon": "no", 
+      "when": "2017-08-31T22:32:57Z", 
+      "data": "j7110t6qcuk63k", 
+      "uid": "hju4w9odatf30"
+    }, 
+    {
+      "to": "j70xrkyxdce3kw", 
+      "anon": "no", 
+      "when": "2017-08-31T23:26:36Z", 
+      "type": "followup", 
+      "uid": "idg5nm2lC96"
+    }, 
+    {
+      "to": "j70xrkyxdce3kw", 
+      "anon": "no", 
+      "when": "2017-09-01T00:59:21Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j70xrkyxdce3kw", 
+      "anon": "no", 
+      "when": "2017-09-01T01:01:27Z", 
+      "type": "feedback", 
+      "uid": "idg5nm2lC96"
+    }, 
+    {
+      "to": "j70xrkyxdce3kw", 
+      "anon": "no", 
+      "when": "2017-09-01T01:04:41Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j70xrkyxdce3kw", 
+      "anon": "no", 
+      "when": "2017-09-01T01:08:41Z", 
+      "type": "feedback", 
+      "uid": "idg5nm2lC96"
+    }, 
+    {
+      "to": "j70xrkyxdce3kw", 
+      "anon": "no", 
+      "when": "2017-09-01T01:10:13Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j70xrkyxdce3kw", 
+      "anon": "no", 
+      "when": "2017-09-01T01:10:59Z", 
+      "type": "feedback", 
+      "uid": "idg5nm2lC96"
+    }, 
+    {
+      "to": "j70xrkyxdce3kw", 
+      "anon": "no", 
+      "when": "2017-09-01T01:23:21Z", 
+      "type": "feedback", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "to": "j70xrkyxdce3kw", 
+      "anon": "no", 
+      "when": "2017-09-01T01:24:39Z", 
+      "type": "feedback", 
+      "uid": "idg5nm2lC96"
+    }, 
+    {
+      "to": "j70xrkyxdce3kw", 
+      "anon": "no", 
+      "when": "2017-09-01T01:53:47Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j70xrkyxdce3kw", 
+      "anon": "no", 
+      "when": "2017-09-01T03:57:38Z", 
+      "type": "feedback", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "type": "i_answer_update", 
+      "anon": "no", 
+      "when": "2017-09-01T15:41:47Z", 
+      "data": "j721rvxf8jr5lo", 
+      "uid": "hju4w9odatf30"
+    }, 
+    {
+      "to": "j70xrkyxdce3kw", 
+      "anon": "no", 
+      "when": "2017-09-01T19:59:15Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j70xrkyxdce3kw", 
+      "anon": "no", 
+      "when": "2017-09-03T07:52:38Z", 
+      "type": "feedback", 
+      "uid": "i4hdvab632i522"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j70xrkyxdce3kw", 
+  "bookmarked": 9, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-08-31T22:21:12Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j710lpbhbzo3r9", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>Edited again*: No. Please don&#39;t use another table. Try to rephrase the subproblem such that one lookup table is sufficient.</p>", 
+          "anon": "no", 
+          "created": "2017-09-01T15:41:47Z", 
+          "uid": "hju4w9odatf30", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>Edited: Yea, should be fine I guess. Check the followup below for the kind of problems where you might need multiple look up tables.</p>", 
+          "anon": "no", 
+          "created": "2017-08-31T22:32:57Z", 
+          "uid": "hju4w9odatf30", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>I don&#39;t think you would need to. You can frame the subproblem in such a way where one lookup table should suffice.</p>", 
+          "anon": "no", 
+          "created": "2017-08-31T22:21:12Z", 
+          "uid": "hju4w9odatf30", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-31T22:27:18Z", 
+      "no_upvotes": 0, 
+      "uid": "i4iys7m3lpq2ij", 
+      "created": "2017-08-31T22:27:18Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j710tjjlh4s65y", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-08-31T22:31:14Z", 
+          "uid": "hju4w9odatf30", 
+          "created": "2017-08-31T22:31:14Z", 
+          "type": "feedback", 
+          "id": "j710yl4kcux3za", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thanks for pointing out!</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-03T07:52:38Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-09-03T07:52:38Z", 
+          "type": "feedback", 
+          "id": "j74fw9mno8l3hj", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "The CLRS (3rd Ed, pp397-403) working of the Optimal Binary Tree question (a variant of [DPV] 6.20) uses an additional table too."
+        }
+      ], 
+      "subject": "<p>Seems like sometimes you need - or at least, it helps to have - multiple tables, like Boolean &#34;Parenthesization&#34; or &#64;98</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-31T23:26:36Z", 
+      "no_upvotes": 0, 
+      "uid": "idg5nm2lC96", 
+      "created": "2017-08-31T23:26:36Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j712xsgegcf2s2", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-01T00:59:21Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-09-01T00:59:21Z", 
+          "type": "feedback", 
+          "id": "j716932yexa78h", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>This was brought up in another thread, and the answer is no. You shouldn&#39;t have such &#34;side-effects&#34;.\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-01T01:01:27Z", 
+          "uid": "idg5nm2lC96", 
+          "created": "2017-09-01T01:01:27Z", 
+          "type": "feedback", 
+          "id": "j716brtjvzi5uz", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Could you please link the thread? Thanks!</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-01T01:04:41Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-09-01T01:04:41Z", 
+          "type": "feedback", 
+          "id": "j716fxcet7z1ky", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Oh, I lost track of it. I don&#39;t think I can go back and find it now. You might want to open a new thread with this specific question if you need the professor to answer it.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-01T01:08:41Z", 
+          "uid": "idg5nm2lC96", 
+          "created": "2017-09-01T01:08:41Z", 
+          "type": "feedback", 
+          "id": "j716l2i9tum5tw", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Yeah, I couldn&#39;t find anything; I don&#39;t think there was a prior thread on this.</p>\n<p></p>\n<p>I&#39;m not using a side effect, and was just curious.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-01T01:10:13Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-09-01T01:10:13Z", 
+          "type": "feedback", 
+          "id": "j716n1kk8dc4gi", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I think I remember it was a comment on a different thread.</p>\n<p></p>\n<p>Here is the thinking: your Recurrence definition should capture how the problem should be solved. If you need something extra (like a variable) that can&#39;t be expressed as part of the recurrence, then you shouldn&#39;t use it.</p>\n<p></p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-01T01:10:59Z", 
+          "uid": "idg5nm2lC96", 
+          "created": "2017-09-01T01:10:59Z", 
+          "type": "feedback", 
+          "id": "j716o0zjeir30", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Agreed completely.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-01T01:23:21Z", 
+          "uid": "ijbr5ddtwyt6pa", 
+          "created": "2017-09-01T01:23:21Z", 
+          "type": "feedback", 
+          "id": "j7173xzoxnt4d5", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#64;120</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-01T01:24:39Z", 
+          "uid": "idg5nm2lC96", 
+          "created": "2017-09-01T01:24:39Z", 
+          "type": "feedback", 
+          "id": "j7175ls6fjd7gn", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thanks, Jason!</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-01T01:53:47Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-09-01T01:53:47Z", 
+          "type": "feedback", 
+          "id": "j71872jwdu643n", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>That was it! :)</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-01T03:57:38Z", 
+          "uid": "ijbr5ddtwyt6pa", 
+          "created": "2017-09-01T03:57:38Z", 
+          "type": "feedback", 
+          "id": "j71cmc9h554u6", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I only remembered because I was the one who asked it</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-01T19:59:15Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-09-01T19:59:15Z", 
+          "type": "feedback", 
+          "id": "j72az086foe10k", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p></p>\n<p>As Santiago said, no side-effect. \u00a0You don&#39;t need it. \u00a0If you need to keep track of the # of coins used then add an extra dimension to your table. \u00a0If you need to find some max value in your table you might scan through the table after building it, as we did for LIS.</p>\n<p></p>\n<p></p>"
+        }
+      ], 
+      "subject": "<p>Another discussion that was brought up, in addition to this, during our group meeting was having a side effect in our recursion. For example, decrement\u00a0$$k$$ when recursing one way, and then compare it against some other value in our recursion&#39;s condition (i.e. assume that $$k$$&#39;s value is up to date). Personally, it feels out of place and not DP-esque somehow. But is this okay to do?</p>"
+    }
+  ], 
+  "nr": 131, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw1"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw1", 
+    "student"
+  ], 
+  "created": "2017-08-31T21:01:48Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145296044, 
+  "tag_good": [
+    {
+      "name": "Dennis Sidharta", 
+      "admin": false, 
+      "photo": "1463366773_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "idg5nm2lC96"
+    }, 
+    {
+      "name": "Shihgian Lee", 
+      "admin": false, 
+      "photo": "1420394909_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i18w67avy8e1uk"
+    }
+  ], 
+  "tag_good_arr": [
+    "idg5nm2lC96", 
+    "i18w67avy8e1uk"
+  ], 
+  "history": [
+    {
+      "content": "<p>Is it ok for a recurrence relation to\u00a0use a secondary lookup table?</p>\n<p></p>\n<p>i.e. T(i, j) = ... T(i - 1, j) if S(i - 1, j ) &gt; 0</p>\n<p></p>\n<p></p>", 
+      "anon": "no", 
+      "created": "2017-08-31T21:01:48Z", 
+      "uid": "hyzqrr6e3u13as", 
+      "subject": "Recurrence with two tables"
+    }
+  ]
+}

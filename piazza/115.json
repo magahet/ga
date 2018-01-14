@@ -1,0 +1,187 @@
+{
+  "status": "active", 
+  "unique_views": 190, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "stud", 
+      "when": "2017-08-30T05:13:20Z", 
+      "data": "j6ykfzotzp84t4"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-08-30T05:13:47Z", 
+      "data": "j6ykgkt3u5v1d4", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-08-30T05:17:04Z", 
+      "data": "j6ykksgyicl1qf", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "uid": "i4m8xop4ndthr", 
+      "type": "s_answer", 
+      "when": "2017-08-30T05:27:14Z", 
+      "to": "j6ykfzoqkp54t3", 
+      "anon": "no", 
+      "data": "j6ykxv4v2u62fu"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-08-30T05:28:10Z", 
+      "data": "j6ykz28vdo62ty", 
+      "uid": "i4m8xop4ndthr"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-08-30T05:29:44Z", 
+      "data": "j6yl130xeal40r", 
+      "uid": "i4m8xop4ndthr"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j6ykfzoqkp54t3", 
+  "bookmarked": 2, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-08-30T05:27:14Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [
+        "gy4twfv45cg5o6", 
+        "hyzyc8nwswo6z5", 
+        "i4fxg6tfzh211n", 
+        "iej41k6jtiz3dc"
+      ], 
+      "id": "j6ykxv4sk6b2ft", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Eric Vigoda", 
+          "admin": true, 
+          "photo": null, 
+          "us": false, 
+          "role": "instructor", 
+          "facebook_id": null, 
+          "id": "gy4twfv45cg5o6"
+        }, 
+        {
+          "name": "Zack Gow", 
+          "admin": false, 
+          "photo": "1476241357_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hyzyc8nwswo6z5"
+        }, 
+        {
+          "name": "Estelle Yeh", 
+          "admin": false, 
+          "photo": "1421544945_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i4fxg6tfzh211n"
+        }, 
+        {
+          "name": "Grady Johnson", 
+          "admin": false, 
+          "photo": null, 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "iej41k6jtiz3dc"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>Your function should return just the max possible product. So, if you feed parameters (&#34;126&#34;, 1 ),\u00a0your function should return 72, since 6*12 would be\u00a0the optimal insertion.\u00a0</p>\n<p>For the table, you just need to explain what would be the entries of T(i) or T(i, j). The function should not return the whole table.</p>\n<p></p>\n<p>As far as I understood, we don&#39;t have\u00a0validate\u00a0inputs as we would do in the real software, so we assume that the length of S is at least k&#43;1. If you have k=0 - simply return int(S), as it would be the optimal insertion of 0 multiplication operators into string S.</p>", 
+          "anon": "no", 
+          "created": "2017-08-30T05:29:44Z", 
+          "uid": "i4m8xop4ndthr", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>Your function should return just the max possible product. So, if you feed parameters (&#34;126&#34;, 1 ),\u00a0your function should return 72, since 6*12 would be\u00a0the optimal insertion.\u00a0</p>\n<p>For the table, you just need to explain what would be the entries of T(i) or T(i, j). The function should not return the whole table.</p>\n<p></p>\n<p>As far as I understood, we don&#39;t have\u00a0validate\u00a0inputs as we would do in the real software, so we assume that the length of S is at least k&#43;1. If you have k=0 - simply return int(S).</p>", 
+          "anon": "no", 
+          "created": "2017-08-30T05:28:10Z", 
+          "uid": "i4m8xop4ndthr", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>Your function should return just the max possible product. So, if you feed (&#34;126&#34;, 1 ) to your function, it has to return 72, since 6*12 is the optimal insertion.\u00a0</p>\n<p>For the table, you just need to explain what would be the entries of T(i) or T(i, j). The function should not return the whole table.</p>\n<p></p>\n<p>As far as I understood, we don&#39;t have\u00a0validate\u00a0inputs as we would do in the real software, so we assume that the length of S is at least k&#43;1. If you have k=0 - simply return int(S).</p>", 
+          "anon": "no", 
+          "created": "2017-08-30T05:27:14Z", 
+          "uid": "i4m8xop4ndthr", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 115, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw1"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 2, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw1", 
+    "student"
+  ], 
+  "created": "2017-08-30T05:13:20Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145300268, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>What are we actually returning for problem 2 (max product)?</p>\n<p></p>\n<p>I assume that we will have a pseudo function max_product(s, k) where s is the string, and k is the number of multiplications, but I wanted to make sure. I could also see how this is asking us to return the whole table, so that we then knew all possible combos.</p>\n<p></p>\n<p>Assuming this doesn&#39;t need to be private, but I can make is so.</p>\n<p></p>\n<p>Also, we can assume there is no i = \u00a00 correct? Since it is not possible, even when k = 0 to multiply by empty string</p>", 
+      "anon": "no", 
+      "created": "2017-08-30T05:17:04Z", 
+      "uid": "ijbr5ddtwyt6pa", 
+      "subject": "Max Product Clarifications"
+    }, 
+    {
+      "content": "<p>What are we actually returning for problem 2 (max product)?</p>\n<p></p>\n<p>I assume that we will have a pseudo function max_product(s, k) where s is the string, and k is the number of multiplications, but I wanted to make sure. I could also see how this is asking us to return the whole table, so that we then knew all possible combos.</p>\n<p></p>\n<p>Assuming this doesn&#39;t need to be private, but I can make is so</p>", 
+      "anon": "no", 
+      "created": "2017-08-30T05:13:47Z", 
+      "uid": "ijbr5ddtwyt6pa", 
+      "subject": "Problem 2: What to return"
+    }, 
+    {
+      "content": "<p>What are we actually returning for problem 2 (max product)?</p>\n<p></p>\n<p>I assume that we will have a pseudo function max_product(s, k) where s is the string, and k is the number of multiplications, but I wanted to make sure. I could also see how this is asking us to return the whole table, so that we then knew all possible combos</p>", 
+      "anon": "stud", 
+      "created": "2017-08-30T05:13:20Z", 
+      "subject": "Problem 2: What to return"
+    }
+  ]
+}

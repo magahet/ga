@@ -1,0 +1,58 @@
+{
+  "status": "active", 
+  "unique_views": 68, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-27T01:58:57Z", 
+      "data": "j9991f58i854g4", 
+      "uid": "hqa9hej5ny2gl"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j9991f5659f4g3", 
+  "bookmarked": 3, 
+  "no_answer": 1, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [], 
+  "nr": 828, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw6"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw6", 
+    "student", 
+    "unanswered"
+  ], 
+  "created": "2017-10-27T01:58:57Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145123884, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>The text book and lecture both depict only a pre-processing function<strong> <tt>g</tt> </strong>and post-processing function<strong> <tt>h</tt></strong> used in reduction from problem A to problem B.\u00a0 This might be sufficient for the reduction itself, but shouldn&#39;t also define a reverse function for each to prove the correctness of the reduction in the reverse direction?\u00a0</p>\n<p>My understanding of the proof in reverse direction starts with a solution S&#39; satisfies problem B, then to prove the correlated solution S\u00a0satisfies\u00a0problem A.\u00a0 But how we get S for a given S&#39; is not explicitly defined in the diagram.\u00a0</p>\n<p>Any feedback?\u00a0\u00a0</p>", 
+      "anon": "no", 
+      "created": "2017-10-27T01:58:57Z", 
+      "uid": "hqa9hej5ny2gl", 
+      "subject": "The need for the reverse functions in reduction pre- and post-processing"
+    }
+  ]
+}

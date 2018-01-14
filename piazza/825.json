@@ -1,0 +1,98 @@
+{
+  "status": "active", 
+  "unique_views": 92, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-26T20:52:22Z", 
+      "data": "j98y35l23xm6bo", 
+      "uid": "hqa9hej5ny2gl"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-27T00:30:23Z", 
+      "data": "j995viufi9c6a3", 
+      "uid": "hqa9hej5ny2gl"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j98y35kz1mv6bn", 
+  "bookmarked": 5, 
+  "no_answer": 1, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [], 
+  "nr": 825, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw6", 
+    "exam", 
+    "logistics"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 3, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "exam", 
+    "hw6", 
+    "logistics", 
+    "student", 
+    "unanswered"
+  ], 
+  "created": "2017-10-26T20:52:22Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145125160, 
+  "tag_good": [
+    {
+      "name": "Josh Clum", 
+      "admin": false, 
+      "photo": "1431566311_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hve4k9bj2u4qu"
+    }, 
+    {
+      "name": "I Sung", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hve4kaugku64sg"
+    }
+  ], 
+  "tag_good_arr": [
+    "hve4k9bj2u4qu", 
+    "hve4kaugku64sg"
+  ], 
+  "history": [
+    {
+      "content": "<p>I went over the NP modules a few times trying to grasp the exact steps to prove if a problem A is NP-complete and came up with the template below.\u00a0 I would really appreciate any feedback or corrections from instructors or classmates,\u00a0 on the correctness and usability of it for homework and exam:</p>\n<p></p>\n<p><tt>Template to prove a problem A is NP-complete given a set NP-C of known NP-complete problems:</tt><br /><tt>1. prove A is NP:</tt><br /><tt> 1a. define an algorithm P(S) to verify if a solution S satisfies problem A;</tt><br /><tt> 1b. prove P(S) runs in polynomial time.</tt><br /><tt>2. prove B can reduce to A (B==&gt;A) for a B in NP-C, assuming an algorithm Q(S&#39;) is available to verify if solution S&#39; satisfies problem B:</tt><br /><tt> 2a. define a polynomial algorithm G, such a valid input I&#39; to A can be constructed as I&#39;=G(I) for any valid input I to B. A reverse function\u00a0$$G^R$$ is also be defined such I=$$G^R$$(I&#39;);</tt><br /><tt> 2b. define a polynomial algorithm H, such a solution S to B(I) can be constructed as S=H(S&#39;) for a solution S&#39; to problem A(I&#39;).\u00a0\u00a0A reverse function\u00a0$$H^R$$ is also be defined such S&#39;=$$H^R$$(S);\u00a0</tt><br /><tt> 3c. prove/show S&lt;==&gt;S&#39;, i.e.:</tt><br /><span style=\"text-decoration:line-through\"><tt> 3c-forward: </tt></span><br /><span style=\"text-decoration:line-through\"><tt> if S satisfies B</tt></span><br /><span style=\"text-decoration:line-through\"><tt> then S&#39; satisfies A </tt></span><br /><span style=\"text-decoration:line-through\"><tt> else S&#39; does not satisfy A</tt></span></p>\n<p><br /><span style=\"text-decoration:line-through\"><tt> 3c-reverse: </tt></span><br /><span style=\"text-decoration:line-through\"><tt> if S&#39; satisfies A</tt></span><br /><span style=\"text-decoration:line-through\"><tt> then S satisfies B </tt></span><br /><span style=\"text-decoration:line-through\"><tt> else S does not satisfy B\u00a0</tt></span></p>\n<p></p>\n<p>The term &#34;satisfy&#34; seems rather vague, so I\u00a0made the following changes for 3c-forward and 3c-backward:</p>\n<p><tt>3c-forward:\u00a0</tt><br /><tt>Given a solution S\u00a0for problem\u00a0B(I), verify P(S)=Q(S&#39;), with S&#39;=$$H^R$$(S);\u00a0</tt></p>\n<p><tt>3c-reverse:\u00a0</tt></p>\n<p><tt>Given a solution S&#39;\u00a0for problem\u00a0A(I&#39;), verify P(S)=Q(S&#39;), with S=H</tt><tt>(S&#39;).</tt></p>\n<p></p>\n<p>If the template prove correct and valid, then the proof would be a matter of defining algorithms P(S), Q(S&#39;),\u00a0 G(I), $$G^R$$(I&#39;), H(S&#39;), $$H^R$$(S).\u00a0 I think then we can focus on the algorithms rather than the formality\u00a0of the proof.</p>", 
+      "anon": "no", 
+      "created": "2017-10-27T00:30:23Z", 
+      "uid": "hqa9hej5ny2gl", 
+      "subject": "A template to prove a problem is NP-complete"
+    }, 
+    {
+      "content": "<p>I went over the NP modules a few times trying to grasp the exact steps to prove if a problem A is NP-complete and came up with the template below.\u00a0 I would really appreciate any feedback or corrections from instructors or classmates,\u00a0 on the correctness and usability of it for homework and exam:</p>\n<p></p>\n<p><tt>Template to prove a problem A is NP-complete given a set NP-C of known NP-complete problems:</tt><br /><tt>1. prove A is NP:</tt><br /><tt> 1a. define an algorithm P(S) to verify if a solution S satisfies problem A;</tt><br /><tt> 1b. prove P(S) runs in polynomial time.</tt><br /><tt>2. prove B can reduce to A (B==&gt;A) for a B in NP-C, assuming an algorithm Q(S&#39;) is available to verify if solution S&#39; satisfies problem B:</tt><br /><tt> 2a. define a polynomial algorithm G, such a valid input I&#39; to A can be constructed as I&#39;=G(I) for any valid input I to B;</tt><br /><tt> 2b. define a polynomial algorithm F, such a solution S to B(I) can be constructed as S=F(S&#39;) for a solution S&#39; to problem A(I&#39;);</tt><br /><tt> 3c. prove/show S&lt;==&gt;S&#39;, i.e.:</tt><br /><tt> 3c-forward: </tt><br /><tt> if S satisfies B</tt><br /><tt> then S&#39; satisfies A </tt><br /><tt> else S&#39; does not satisfy A</tt><br /><tt> 3c-reverse: </tt><br /><tt> if S&#39; satisfies A</tt><br /><tt> then S satisfies B </tt><br /><tt> else S does not satisfy B\u00a0</tt></p>", 
+      "anon": "no", 
+      "created": "2017-10-26T20:52:22Z", 
+      "uid": "hqa9hej5ny2gl", 
+      "subject": "A template to prove a problem is NP-complete"
+    }
+  ]
+}

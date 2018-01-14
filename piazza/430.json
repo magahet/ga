@@ -1,0 +1,1048 @@
+{
+  "status": "active", 
+  "unique_views": 269, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-25T22:15:07Z", 
+      "data": "j80qe5psnz2t4", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j80qe5pm7fc2t3", 
+      "anon": "no", 
+      "when": "2017-09-25T22:24:05Z", 
+      "type": "followup", 
+      "uid": "i8597yy2i2f1z6"
+    }, 
+    {
+      "to": "j80qe5pm7fc2t3", 
+      "anon": "no", 
+      "when": "2017-09-25T22:25:13Z", 
+      "type": "followup", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j80qe5pm7fc2t3", 
+      "anon": "no", 
+      "when": "2017-09-25T22:25:34Z", 
+      "type": "followup", 
+      "uid": "ij9b2ekdTWF"
+    }, 
+    {
+      "to": "j80qe5pm7fc2t3", 
+      "anon": "no", 
+      "when": "2017-09-25T22:27:20Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j80qe5pm7fc2t3", 
+      "anon": "no", 
+      "when": "2017-09-25T22:37:40Z", 
+      "type": "followup", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j80qe5pm7fc2t3", 
+      "anon": "no", 
+      "when": "2017-09-25T22:50:50Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j80qe5pm7fc2t3", 
+      "anon": "no", 
+      "when": "2017-09-25T22:56:20Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j80qe5pm7fc2t3", 
+      "anon": "no", 
+      "when": "2017-09-25T23:02:27Z", 
+      "type": "feedback", 
+      "uid": "idg61g3ot1qp6"
+    }, 
+    {
+      "to": "j80qe5pm7fc2t3", 
+      "anon": "no", 
+      "when": "2017-09-25T23:08:41Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j80qe5pm7fc2t3", 
+      "anon": "no", 
+      "when": "2017-09-25T23:12:27Z", 
+      "type": "feedback", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j80qe5pm7fc2t3", 
+      "anon": "no", 
+      "when": "2017-09-25T23:13:20Z", 
+      "type": "feedback", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j80qe5pm7fc2t3", 
+      "anon": "no", 
+      "when": "2017-09-25T23:14:21Z", 
+      "type": "feedback", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j80qe5pm7fc2t3", 
+      "anon": "no", 
+      "when": "2017-09-25T23:16:07Z", 
+      "type": "feedback", 
+      "uid": "idg61g3ot1qp6"
+    }, 
+    {
+      "to": "j80qe5pm7fc2t3", 
+      "anon": "no", 
+      "when": "2017-09-25T23:19:55Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j80qe5pm7fc2t3", 
+      "anon": "no", 
+      "when": "2017-09-25T23:36:16Z", 
+      "type": "feedback", 
+      "uid": "i18w602j3bp1s2"
+    }, 
+    {
+      "to": "j80qe5pm7fc2t3", 
+      "anon": "no", 
+      "when": "2017-09-25T23:39:54Z", 
+      "type": "feedback", 
+      "uid": "idg61g3ot1qp6"
+    }, 
+    {
+      "to": "j80qe5pm7fc2t3", 
+      "anon": "no", 
+      "when": "2017-09-25T23:42:54Z", 
+      "type": "feedback", 
+      "uid": "hz07uekkjnrpb"
+    }, 
+    {
+      "to": "j80qe5pm7fc2t3", 
+      "anon": "no", 
+      "when": "2017-09-25T23:49:18Z", 
+      "type": "feedback", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j80qe5pm7fc2t3", 
+      "anon": "no", 
+      "when": "2017-09-25T23:59:38Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j80qe5pm7fc2t3", 
+      "anon": "no", 
+      "when": "2017-09-26T00:10:19Z", 
+      "type": "feedback", 
+      "uid": "idgk9rl6Wdv"
+    }, 
+    {
+      "to": "j80qe5pm7fc2t3", 
+      "anon": "no", 
+      "when": "2017-09-26T00:18:05Z", 
+      "type": "feedback", 
+      "uid": "hvvxmpxfuyb2eo"
+    }, 
+    {
+      "to": "j80qe5pm7fc2t3", 
+      "anon": "no", 
+      "when": "2017-09-26T00:23:28Z", 
+      "type": "followup", 
+      "uid": "hv5exp71kfz754"
+    }, 
+    {
+      "to": "j80qe5pm7fc2t3", 
+      "anon": "no", 
+      "when": "2017-09-26T00:25:12Z", 
+      "type": "feedback", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j80qe5pm7fc2t3", 
+      "anon": "no", 
+      "when": "2017-09-26T00:44:54Z", 
+      "type": "followup", 
+      "uid": "hveop63kovn61t"
+    }, 
+    {
+      "to": "j80qe5pm7fc2t3", 
+      "anon": "no", 
+      "when": "2017-09-26T00:49:37Z", 
+      "type": "followup", 
+      "uid": "hq9zldzvy63w7"
+    }, 
+    {
+      "to": "j80qe5pm7fc2t3", 
+      "anon": "no", 
+      "when": "2017-09-26T01:02:18Z", 
+      "type": "feedback", 
+      "uid": "i4j6x5bv5ua71n"
+    }, 
+    {
+      "to": "j80qe5pm7fc2t3", 
+      "anon": "no", 
+      "when": "2017-09-26T01:23:33Z", 
+      "type": "feedback", 
+      "uid": "iddox7abejr2mj"
+    }, 
+    {
+      "to": "j80qe5pm7fc2t3", 
+      "anon": "no", 
+      "when": "2017-09-26T01:38:52Z", 
+      "type": "feedback", 
+      "uid": "iddox7abejr2mj"
+    }, 
+    {
+      "to": "j80qe5pm7fc2t3", 
+      "anon": "no", 
+      "when": "2017-09-26T03:11:05Z", 
+      "type": "feedback", 
+      "uid": "i4iqvrxeAWr"
+    }, 
+    {
+      "to": "j80qe5pm7fc2t3", 
+      "anon": "no", 
+      "when": "2017-09-26T04:50:33Z", 
+      "type": "followup", 
+      "uid": "j6m1j9wkzk46tu"
+    }, 
+    {
+      "to": "j80qe5pm7fc2t3", 
+      "anon": "no", 
+      "when": "2017-09-26T11:24:01Z", 
+      "type": "feedback", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "to": "j80qe5pm7fc2t3", 
+      "anon": "no", 
+      "when": "2017-09-26T16:52:56Z", 
+      "type": "followup", 
+      "uid": "i4k05w06D2B"
+    }, 
+    {
+      "to": "j80qe5pm7fc2t3", 
+      "anon": "no", 
+      "when": "2017-09-26T18:49:45Z", 
+      "type": "feedback", 
+      "uid": "i4pvwmg5VTb"
+    }, 
+    {
+      "to": "j80qe5pm7fc2t3", 
+      "anon": "no", 
+      "when": "2017-09-26T19:17:03Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j80qe5pm7fc2t3", 
+      "anon": "no", 
+      "when": "2017-09-26T23:10:46Z", 
+      "type": "feedback", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j80qe5pm7fc2t3", 
+      "anon": "no", 
+      "when": "2017-09-27T15:20:32Z", 
+      "type": "feedback", 
+      "uid": "hzetpo9z5sK"
+    }, 
+    {
+      "to": "j80qe5pm7fc2t3", 
+      "anon": "no", 
+      "when": "2017-09-27T16:16:26Z", 
+      "type": "feedback", 
+      "uid": "hqa65fnalg83fr"
+    }, 
+    {
+      "to": "j80qe5pm7fc2t3", 
+      "anon": "no", 
+      "when": "2017-09-27T18:51:20Z", 
+      "type": "feedback", 
+      "uid": "idi5567wFgu"
+    }, 
+    {
+      "to": "j80qe5pm7fc2t3", 
+      "anon": "no", 
+      "when": "2017-09-27T22:14:03Z", 
+      "type": "feedback", 
+      "uid": "i4fxg6tfzh211n"
+    }, 
+    {
+      "to": "j80qe5pm7fc2t3", 
+      "anon": "no", 
+      "when": "2017-09-28T13:53:06Z", 
+      "type": "feedback", 
+      "uid": "i4j6x9zosul74s"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j80qe5pm7fc2t3", 
+  "bookmarked": 26, 
+  "tags": [
+    "exam", 
+    "instructor-note"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-09-25T22:24:05Z", 
+      "no_upvotes": 0, 
+      "uid": "i8597yy2i2f1z6", 
+      "created": "2017-09-25T22:24:05Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j80qpot95aj585", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-25T23:02:27Z", 
+          "uid": "idg61g3ot1qp6", 
+          "created": "2017-09-25T23:02:27Z", 
+          "type": "feedback", 
+          "id": "j80s316weyr2zv", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>One thing this class makes up for from most of the others, is the participation from the Professor. \u00a0A lot of the other courses I&#39;ve taken, I always feel like we are left in the hands of the TAs and a dozen or so competent/post-happy/helpful students. \u00a0Which, sometimes works out just fine. \u00a0So, I was pleasantly surprised in this first run the amount of interaction and responses we&#39;ve had so far, and we&#39;ve only finished the first 5 weeks.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-25T23:08:41Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-09-25T23:08:41Z", 
+          "type": "feedback", 
+          "id": "j80sb1lec616xw", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Yeah! I am very happy Dr. Vigoda is active on Piazza.\u00a0 I have been in a few where that was not the case, and those are also the classes from which I learned the least.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-25T23:16:07Z", 
+          "uid": "idg61g3ot1qp6", 
+          "created": "2017-09-25T23:16:07Z", 
+          "type": "feedback", 
+          "id": "j80skmbo2so77h", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I just feel bad that I didn&#39;t do well on the exam. \u00a0I know that. \u00a0I panicked on too many of the short answer questions. \u00a0Among other glaring issues in retrospect.\u00a0</p>\n<p></p>\n<p>However, I <em>was</em> also enrolled in a second course because I was trying to graduate this semester. \u00a0Well despite my (read, my wife&#39;s and daughter&#39;s) wishes it&#39;s going to have to wait until next Spring at the earliest.</p>\n<p></p>\n<p>However, since doing better in <em>this</em> course means more to me, I dropped the <em>other</em> class to focus on just this one. \u00a0</p>\n<p>I might be the first student to drop the course they were actually doing perfect in to spend more time on the course they wanted to be better in?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-25T23:19:55Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-09-25T23:19:55Z", 
+          "type": "feedback", 
+          "id": "j80spi3l8in7j3", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Great question... :) I think it was a smart decision.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-25T23:36:16Z", 
+          "uid": "i18w602j3bp1s2", 
+          "created": "2017-09-25T23:36:16Z", 
+          "type": "feedback", 
+          "id": "j80taj5lajp3qn", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#43;1 Great job with this course so far Dr. Vigoda and thank you for being so engaged.</p>\n<p></p>\n<p>Rich I actually contemplated the same scenario you mentioned above...in 2 classes right now in order to graduate in December. This is the one I&#39;m more interested in mastering (and completing!).</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-25T23:39:54Z", 
+          "uid": "idg61g3ot1qp6", 
+          "created": "2017-09-25T23:39:54Z", 
+          "type": "feedback", 
+          "id": "j80tf73tf1132i", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I got rid of it on Sunday night. \u00a0I realized I was stretched way too thin. \u00a0</p>\n<p>I have completed 3 other semesters taking 2 courses so I thought I could do it again. \u00a0It just wasn&#39;t in the cards. \u00a0</p>\n<p></p>\n<p>My only regret, was not dropping the other one a week ago so I could have done better on the first exam here. \u00a0</p>\n<p>I just hope I can recover, and make up for it the rest of the semester. \u00a0It&#39;s my fault. \u00a0I should have realized it sooner.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-25T23:59:38Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-09-25T23:59:38Z", 
+          "type": "feedback", 
+          "id": "j80u4ky8hbe7lv", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "I agree about the quality of the course, and I&#39;m sure that will be reflected in the survey that students complete at the end of the course.\n\nEven online, managing a course with almost 400 students is a BIG project."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-26T00:25:12Z", 
+          "uid": "i4ket0u1z5q31a", 
+          "created": "2017-09-26T00:25:12Z", 
+          "type": "feedback", 
+          "id": "j80v1gbdgn11qj", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Definitely, this is a good course (hand-writing aside ;) ).</p>\n<p>I think it is being run and managed very well, especially for a first offering.</p>\n<p>And to reiterate what has already been said,\u00a0the engagement level of the professor is awesome!</p>\n<p>That alone makes or breaks most classes.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-26T01:23:33Z", 
+          "uid": "iddox7abejr2mj", 
+          "created": "2017-09-26T01:23:33Z", 
+          "type": "feedback", 
+          "id": "j80x4ht77fy1en", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I can&#39;t say much that&#39;s not said already in the posts, but my 2 cents - This is definitely the most interesting (and challenging) class I have taken in the program so far.\u00a0</p>\n<p></p>\n<p>Although we are just few week in the class so far, I think I have a different perspective on looking at real life problems, an example I can think of is last week I had an issue at work, and I started thinking about how can I break it into smaller problems and find a recurrence... :). For another task at home, I tried to apply the D&amp;C logic....This might sound funny but these are true real life incidents from my life.\u00a0</p>\n<p></p>\n<p>Like few of my class mates, I do not think I did well in the exam - I spent too much time on each problem, got confused in defining the recurrence, did (i&#43;1) where I wanted to do (i-1), and couldn&#39;t complete 4th and 5th questions. I did gain some experience and I hope to better in future.</p>\n<p></p>\n<p>Dr Vigoda, I really appreciate your participation in the class flexibility and willingness to help us.\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-26T11:24:01Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-09-26T11:24:01Z", 
+          "type": "feedback", 
+          "id": "j81ikoxnbz0fv", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "This is a brilliant course, really caringly &amp; accessibly presented, so much so that all the tales of woe from the old OMSCS 6505 seemed to hail from a different universe. The course seemed to have prepared us really well for the test; particularly all the encouragement to try DP practice. Maybe the scare stories had helped, in that we as an initial class have possibly read up as much as possible beforehand.\n\nThanks for your very active participation in piazza, Professor, that has really managed to clear up all reasonable ambiguity before it turned into a piazza stress-fest \u2013 a prominent feature of some OMSCS courses :-)\n\nI would say that compelling everyone to write their test answers in $$\\LaTeX$$, whether it be TexStudio or one of the websites, would be more secure as ProctorTrack has no phase of filming your desktop, the way ProctorU used to"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-27T15:20:32Z", 
+          "uid": "hzetpo9z5sK", 
+          "created": "2017-09-27T15:20:32Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j836gpsrhpu2di", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Maybe it has already been said (didn&#39;t read all the posts, but I agree with all I read). The quality of the lectures is amazing, you have explained all topics very clearly. The class is not easy, but I&#39;m learning a lot and that is the whole purpose. Hope you continue with the course and other students have the opportunity to get the course first hand from you.</p>"
+        }
+      ], 
+      "subject": "<p>I&#39;m sure running this large of a course can be overwhelming, but this has been one of the best &#34;first-run&#34; courses that I have taken. Obviously there are bugs and hiccups that everyone should be expecting, but they have been dealt with very smoothly. I hope that you decide to continue teaching the course in the coming semesters.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-25T22:25:13Z", 
+      "no_upvotes": 0, 
+      "uid": "hvil6y6khgk2ri", 
+      "created": "2017-09-25T22:25:13Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j80qr5ykxvy4b0", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-25T22:27:20Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-09-25T22:27:20Z", 
+          "type": "feedback", 
+          "id": "j80qtvhp3vr623", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>PS - online students are a bit older and we tend to get confused and cranky.\u00a0 Sorry! :)</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-25T23:12:27Z", 
+          "uid": "i4ket0u1z5q31a", 
+          "created": "2017-09-25T23:12:27Z", 
+          "type": "feedback", 
+          "id": "j80sfwj78neky", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#43;1 to the quality of the course so far, I think it has been great.</p>\n<p>I think the exam format could be improved (typing instead of hand-writing) but that is a different discussion.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-25T23:42:54Z", 
+          "uid": "hz07uekkjnrpb", 
+          "created": "2017-09-25T23:42:54Z", 
+          "type": "feedback", 
+          "id": "j80tj212u2r2qd", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "almost every class I&#39;ve had at gt has had exam issues with the proctoring service one way or another. I would have been more shocked had it gone perfectly smooth. \n\non an unrelated note: I really appreciate all the time the TAs and the Prof are putting into this course. it&#39;s only been a few weeks but I have a feeling this course might make it to the top on my &#34;list of classes&#34; that had a huge impact on me personally. DP has been worth it alone in my book."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-26T00:10:19Z", 
+          "uid": "idgk9rl6Wdv", 
+          "created": "2017-09-26T00:10:19Z", 
+          "type": "feedback", 
+          "id": "j80uibmgbdc2hh", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#43;1</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-26T00:18:05Z", 
+          "uid": "hvvxmpxfuyb2eo", 
+          "created": "2017-09-26T00:18:05Z", 
+          "type": "feedback", 
+          "id": "j80usap97jw3o7", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>This is my last course in this program. I have to rate this course as one of the best. The quality of the material is top notch and this whole subject is just intriguing. Kudos to Dr. Vigolda and TAs for being super active! I dont really feel as though this is the first offering of this class.</p>\n<p></p>\n<p>Regarding PT: I had issues even during this exam - every 10 minutes, camera will stop working for 2 seconds and I will be prompted to select a video device (but prompt will disappear immediately and camera will start working again). File upload took around 2 to 3 minutes, and I was kinda scared. With OMS, PT issues have been inevitable. So I resigned to the fact that we can get some kind of help from PT support. Worst case, we can reason out with Prof and TAs on the problem. Keeping PT issues aside, 25 mins for scanning our answers was really sufficient kind of eased the tension.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-26T01:02:18Z", 
+          "uid": "i4j6x5bv5ua71n", 
+          "created": "2017-09-26T01:02:18Z", 
+          "type": "feedback", 
+          "id": "j80wd5rbh7n4eb", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "I agree, great class, great professor! Definitely will prepare a bit more for the second exam :)"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-26T03:11:05Z", 
+          "uid": "i4iqvrxeAWr", 
+          "created": "2017-09-26T03:11:05Z", 
+          "type": "feedback", 
+          "id": "j810ys6wi9k5ju", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>This is a very good class, in my opinion. I&#39;m so interested in the topics so far - which is exactly opposite to what I thought I would be, after hearing all the previous discussion about the 6505 course. I showed my wife the first half of the Graph I lecture - it was clear, and well designed - I wanted to show her what our good lectures are like! I found that there was a build up from lecture to lecture - It was like &#34;after this break, tune in to see what happens next!&#34; It was fun and interesting.</p>\n<p></p>\n<p>Also <strong attention=\"gy4twfv45cg5o6\">&#64;Eric Vigoda</strong>\u00a0 - You&#39;re teaching a unique set of students in this class - a probably very high percentage of students who have 1 or 2 classes left - OMSCS veterans - many of whom have taken the previous 6505 and needed to take this course to graduate - You probably won&#39;t get that distribution of veteran students who were &#34;waiting&#34; to take this class again in the future. Some of those students might have a level of involvement on Piazza that is guided by their previous experience in 6505 and their level of &#34;desperation (need a better word)&#34; to be successful in this class in order to \u00a0graduate.</p>\n<p></p>\n<p>I would encourage you to tune out the noise - we&#39;ve learned \u00a0the signal to noise on Piazza isn&#39;t a good indicator of the course content or teaching. I would hope that you have different signals that you use to determine your success rather than Piazza posts. I would encourage you to start a &#34;Things students like about this course so far&#34; thread - I think you&#39;ll be very encouraged!</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-28T13:53:06Z", 
+          "uid": "i4j6x9zosul74s", 
+          "created": "2017-09-28T13:53:06Z", 
+          "type": "feedback", 
+          "id": "j84is4ohgbd54r", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I have to agree with Brent, Erik and all of you. \u00a0I enjoy this course so far. The topics are so interesting, and most importantly, I owe it to Dr.\u00a0Vigoda\u00a0whose detailed and nice explaination makes hard things easy. The topics are so\u00a0beneficial and Dr. Vigoda&#39;s teaching is so enlightening that I am encouraged\u00a0rather than\u00a0intimidated to do more work on algorithm.\u00a0</p>"
+        }
+      ], 
+      "subject": "<p>Dr. Vigoda,<br /><br />Just wanted to say so far, as far as difficult subject material goes, its been a pleasure.\u00a0 Personally, if I dont do well, it will be by my own hand (carelessness, not focusing, etc); its certainly not because of the teaching as its been superb. I am very happy with the quality of the course overall, it is fantastic!<br /><br />Speaking to the online aspect - I am sure the first class or two will be hard on you, but all of these issues - ProctorTrack issues et all - will be ironed out eventually, and a after a semester or two it will be smooth sailing.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-25T22:25:34Z", 
+      "no_upvotes": 0, 
+      "uid": "ij9b2ekdTWF", 
+      "created": "2017-09-25T22:25:34Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j80qrllc7wj726", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-25T23:13:20Z", 
+          "uid": "i4ket0u1z5q31a", 
+          "created": "2017-09-25T23:13:20Z", 
+          "type": "feedback", 
+          "id": "j80sh0xf31v1ul", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Yes please keep teaching this course (especially since I might want to take it again ;) )!</p>"
+        }
+      ], 
+      "subject": "<p>I was one of these fiascoes and I&#39;m sorry for the trouble!\u00a0 It was really my mistake.\u00a0 I hope that you continue to teach this course, because it has been excellent so far.\u00a0 Thank you for the update!</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-25T22:37:40Z", 
+      "no_upvotes": 0, 
+      "uid": "i4nkipeofrkrz", 
+      "created": "2017-09-25T22:37:40Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j80r75z9gdzk1", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-25T22:50:50Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-09-25T22:50:50Z", 
+          "type": "feedback", 
+          "id": "j80ro3u1med7f3", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I guess it depends on what &#39;OK&#39; is.<br /><br />To me, I am now thinking I got a 75%ish....which, in this type of class where the material is more difficult than most other classes, I count that as a win.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-25T22:56:20Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-09-25T22:56:20Z", 
+          "type": "feedback", 
+          "id": "j80rv5z9s9e2mc", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Yeah, hard to measure that. But at least it says that people don&#39;t think they completely bombed the exam.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-25T23:14:21Z", 
+          "uid": "i4ket0u1z5q31a", 
+          "created": "2017-09-25T23:14:21Z", 
+          "type": "feedback", 
+          "id": "j80sic5vdsz2tu", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I figure I knew or understood most of it fairly well but I think I made enough dumb mistakes to make my grade significantly lower than my actual learning should have reflected.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-25T23:49:18Z", 
+          "uid": "i4ket0u1z5q31a", 
+          "created": "2017-09-25T23:49:18Z", 
+          "type": "feedback", 
+          "id": "j80traglwpc5i4", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I&#39;m hoping to be pleasantly surprised with a higher grade than I am tempted to fear. ;)</p>"
+        }
+      ], 
+      "subject": "<p>Good news is that &#64;423 seems to suggest that most of the students did OK or better in the exam. I&#39;ve taken classes where the opposite has been true, so I&#39;d say this hasn&#39;t been too bad so far ;)</p>\n<p></p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-26T00:23:28Z", 
+      "no_upvotes": 0, 
+      "uid": "hv5exp71kfz754", 
+      "created": "2017-09-26T00:23:28Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j80uz89xyib7od", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>Enjoying the class so far.\u00a0 It&#39;s a lot of work and I find the material tough, but I feel though I understand it pretty well up to this point.\u00a0 \u00a0\u00a0</p>\n<p></p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-26T00:44:54Z", 
+      "no_upvotes": 0, 
+      "uid": "hveop63kovn61t", 
+      "created": "2017-09-26T00:44:54Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j80vqsryo3e5dx", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>This is my last class of OMS(hopefully :) ) and I can say without a doubt it&#39;s been the most beneficial with regards to what I have learned and how useful the material is.</p>\n<p></p>\n<p>The staff does a great job at managing the class and it&#39;s refreshing to see how much effort has been put into revamping the algorithm offering for the program.\u00a0</p>\n<p></p>\n<p>Hopefully the process kinks will be worked out and Exam 2 will be focused on the content.</p>\n<p></p>\n<p>Thanks for all your hard work.\u00a0</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-26T00:49:37Z", 
+      "no_upvotes": 0, 
+      "uid": "hq9zldzvy63w7", 
+      "created": "2017-09-26T00:49:37Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j80vwuiywyu2ha", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-26T01:38:52Z", 
+          "uid": "iddox7abejr2mj", 
+          "created": "2017-09-26T01:38:52Z", 
+          "type": "feedback", 
+          "id": "j80xo78eoob50m", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I totally agree, I have used Procter track in over 4 classes and every-time there have been some or the other issues, but I think I the idea of the proctertrack is to ensure that we are not googling the answers for the exam and we are doing the exam by ourselves. I think some of these issues are manageable. Like you said... &#34;All you can do is push on&#34; :)</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-26T18:49:45Z", 
+          "uid": "i4pvwmg5VTb", 
+          "created": "2017-09-26T18:49:45Z", 
+          "type": "feedback", 
+          "id": "j81yhx2x5tc7bm", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Yes, every class I have had used protortrack (9 of them!) and it always sucks. I think all of academia needs to figure out a better way to test a students understanding of material other than sitting down and taking a stressful test while being monitored (either in classroom or online). I don&#39;t know what the answer to this is yet, but I&#39;m hopeful for the future.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-26T19:17:03Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-09-26T19:17:03Z", 
+          "type": "feedback", 
+          "id": "j81zh0tzkyr3ie", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Believe it or not, the first system GA Tech used was ProctorU, where there was a live person watching you as you took your test.<br /><br />And, as you slept. True story.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-26T23:10:46Z", 
+          "uid": "i4ket0u1z5q31a", 
+          "created": "2017-09-26T23:10:46Z", 
+          "type": "feedback", 
+          "id": "j827tkqrf2f6pf", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>ProctorU was a horrible system.\u00a0 I had to use it once, I&#39;m so glad GA Tech switched to ProctorTrack instead, despite all of it&#39;s issues that still haven&#39;t been fixed in two years...</p>"
+        }
+      ], 
+      "subject": "Honestly, This is my last class in the course and all the ones that have used Proctor have had issues. \u00a0It is just a painful process but nothing that reflects on your teaching or the course. \u00a0I believe in CCA we had to send email with the test in addition to the upload because of all the issues. \u00a0My first class in the program lost an entire exam. \u00a0<div><br /></div><div>All you can do is push on. \u00a0First time classes have growing pains for everyone. \u00a0</div>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-26T04:50:33Z", 
+      "no_upvotes": 0, 
+      "uid": "j6m1j9wkzk46tu", 
+      "created": "2017-09-26T04:50:33Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j814ipa6ikc50x", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "This is my first class in OMSCS and honestly my experience is much better than I expected with Professor and TAs so much engaged and helping students, frankly I can say it&#39;s great learning and enriching experience. With each passing day, I am becoming more confident of my decision to start with this class."
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-26T16:52:56Z", 
+      "no_upvotes": 0, 
+      "uid": "i4k05w06D2B", 
+      "created": "2017-09-26T16:52:56Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j81ubomhmb0532", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-27T16:16:26Z", 
+          "uid": "hqa65fnalg83fr", 
+          "created": "2017-09-27T16:16:26Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j838gly254krb", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#43;1</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-27T18:51:20Z", 
+          "uid": "idi5567wFgu", 
+          "created": "2017-09-27T18:51:20Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j83dzst91o719l", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "&#43;1"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-27T22:14:03Z", 
+          "uid": "i4fxg6tfzh211n", 
+          "created": "2017-09-27T22:14:03Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j83l8hrciw36d", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Agreed!</p>"
+        }
+      ], 
+      "subject": "<p>The lectures are some of the best in the program that I&#39;ve seen.</p>"
+    }
+  ], 
+  "nr": 430, 
+  "bucket_order": 2, 
+  "type": "note", 
+  "folders": [
+    "exam"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 5, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-09-25T22:15:07Z", 
+  "is_tag_good": false, 
+  "config": {
+    "is_announcement": 1, 
+    "bypass_email": 1
+  }, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145219521, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "Hi all,\n\nI hope you all did well on the exam.  We will do our best to grade it quickly, probably by Monday (10/2).  \n\nThere were many people who had issues with the system (Proctortrack crashing, scanning/uploading fiascoes, etc.).   Honestly, I&#39;m overwhelmed just reading all of them, and I&#39;m not sure how to respond to most since this is my first experience with an OMS class.  I don&#39;t want to penalize anyone because of system issues, but give me some time to discuss some of these issues with David Joyner etc. before I respond.  At this point, don&#39;t stress about it.   \n\nI have updated the class schedule to include the links to the videos for the next section of the class, see:  https://8803ga.wordpress.com/lecture-schedule/\nThe next exam will be on graph algorithms and max-flow algorithms.  Note, we will not cover the PageRank algorithm.  There is a lecture there (see GR4) if you&#39;re interested in PageRank, and perhaps we&#39;ll add it in to future iterations of the course (if I somehow do this again...).  I will post the next homework as soon as I get a handle on things. \n\nOnce you recover from the exam, you should focus on the Bloom filter project.  This topic will not be on the exam or homework, just on the project.  John Turner will run it; he&#39;ll do office hours this week and next to help you out (probably this Wednesday evening will be the first one).  Bloom filters are a really simple hashing scheme, that&#39;s quite useful.  Once you understand it, it should be quick to code it up.  In the lecture I prove some results about the theoretical performance of a Bloom filter.  (Sorry if I get a bit carried away with some of the probability stuff but that&#39;s the sort of stuff I love, and I wanted you to get some of the real intuition underlying it.)  These theoretical results are for random hash functions, which we, of course, don&#39;t have.  Your project will compare the actual performance of a simple Bloom filter implementation with the theoretical results.  John made a Python template to hopefully make it easier for you and for us (for the auto-grading).   You will also make a short report, this grading component will be subjective, but there are suggestions in the project description to help.  I hope you enjoy it.  Please do us a favor and don&#39;t post your code afterwards (such as on Github) in case we use this project again.\n\n--Eric", 
+      "anon": "no", 
+      "created": "2017-09-25T22:15:07Z", 
+      "uid": "gy4twfv45cg5o6", 
+      "subject": "Class update"
+    }
+  ]
+}

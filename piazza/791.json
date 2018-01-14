@@ -1,0 +1,1907 @@
+{
+  "status": "active", 
+  "unique_views": 229, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-23T15:59:18Z", 
+      "data": "j94dapmzjk4of", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j94dapmxxndoe", 
+      "anon": "no", 
+      "when": "2017-10-23T16:05:37Z", 
+      "type": "followup", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j94dapmxxndoe", 
+      "anon": "no", 
+      "when": "2017-10-23T16:05:52Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j94dapmxxndoe", 
+      "anon": "no", 
+      "when": "2017-10-23T16:06:53Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j94dapmxxndoe", 
+      "anon": "no", 
+      "when": "2017-10-23T16:07:27Z", 
+      "type": "feedback", 
+      "uid": "hyzzr9z7x6a1mz"
+    }, 
+    {
+      "to": "j94dapmxxndoe", 
+      "anon": "no", 
+      "when": "2017-10-23T16:09:30Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j94dapmxxndoe", 
+      "anon": "no", 
+      "when": "2017-10-23T16:16:51Z", 
+      "type": "feedback", 
+      "uid": "hvduxyr7r4s6q7"
+    }, 
+    {
+      "to": "j94dapmxxndoe", 
+      "anon": "no", 
+      "when": "2017-10-23T16:32:02Z", 
+      "type": "feedback", 
+      "uid": "hyzzr9z7x6a1mz"
+    }, 
+    {
+      "to": "j94dapmxxndoe", 
+      "anon": "no", 
+      "when": "2017-10-23T17:34:09Z", 
+      "type": "feedback", 
+      "uid": "idjrfx2fR1Z"
+    }, 
+    {
+      "to": "j94dapmxxndoe", 
+      "anon": "no", 
+      "when": "2017-10-23T17:40:01Z", 
+      "type": "followup", 
+      "uid": "i9jej4o7cmx14m"
+    }, 
+    {
+      "to": "j94dapmxxndoe", 
+      "anon": "no", 
+      "when": "2017-10-23T18:34:35Z", 
+      "type": "feedback", 
+      "uid": "i4jco3u0esh373"
+    }, 
+    {
+      "to": "j94dapmxxndoe", 
+      "anon": "no", 
+      "when": "2017-10-23T20:00:10Z", 
+      "type": "followup", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j94dapmxxndoe", 
+      "anon": "no", 
+      "when": "2017-10-23T20:29:11Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j94dapmxxndoe", 
+      "anon": "no", 
+      "when": "2017-10-23T20:35:27Z", 
+      "type": "feedback", 
+      "uid": "i8597yy2i2f1z6"
+    }, 
+    {
+      "to": "j94dapmxxndoe", 
+      "anon": "no", 
+      "when": "2017-10-23T20:59:21Z", 
+      "type": "feedback", 
+      "uid": "hvvxmpxfuyb2eo"
+    }, 
+    {
+      "to": "j94dapmxxndoe", 
+      "anon": "no", 
+      "when": "2017-10-23T21:00:38Z", 
+      "type": "feedback", 
+      "uid": "hvduxyr7r4s6q7"
+    }, 
+    {
+      "to": "j94dapmxxndoe", 
+      "anon": "no", 
+      "when": "2017-10-23T21:10:31Z", 
+      "type": "feedback", 
+      "uid": "idgauptz2ou3po"
+    }, 
+    {
+      "to": "j94dapmxxndoe", 
+      "anon": "no", 
+      "when": "2017-10-23T21:17:15Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j94dapmxxndoe", 
+      "anon": "no", 
+      "when": "2017-10-23T21:17:56Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j94dapmxxndoe", 
+      "anon": "no", 
+      "when": "2017-10-23T21:19:05Z", 
+      "type": "feedback", 
+      "uid": "i4ijgkcwkz15lx"
+    }, 
+    {
+      "to": "j94dapmxxndoe", 
+      "anon": "no", 
+      "when": "2017-10-23T21:20:22Z", 
+      "type": "feedback", 
+      "uid": "i8597yy2i2f1z6"
+    }, 
+    {
+      "to": "j94dapmxxndoe", 
+      "anon": "no", 
+      "when": "2017-10-23T21:29:08Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j94dapmxxndoe", 
+      "anon": "no", 
+      "when": "2017-10-23T21:30:07Z", 
+      "type": "feedback", 
+      "uid": "hvduxyr7r4s6q7"
+    }, 
+    {
+      "to": "j94dapmxxndoe", 
+      "anon": "no", 
+      "when": "2017-10-23T21:37:52Z", 
+      "type": "feedback", 
+      "uid": "idgauptz2ou3po"
+    }, 
+    {
+      "to": "j94dapmxxndoe", 
+      "anon": "no", 
+      "when": "2017-10-23T21:38:48Z", 
+      "type": "feedback", 
+      "uid": "hvduxyr7r4s6q7"
+    }, 
+    {
+      "to": "j94dapmxxndoe", 
+      "anon": "no", 
+      "when": "2017-10-23T21:39:39Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j94dapmxxndoe", 
+      "anon": "no", 
+      "when": "2017-10-23T22:08:40Z", 
+      "type": "feedback", 
+      "uid": "hzetpo9z5sK"
+    }, 
+    {
+      "to": "j94dapmxxndoe", 
+      "anon": "no", 
+      "when": "2017-10-23T22:16:56Z", 
+      "type": "feedback", 
+      "uid": "hvvxmpxfuyb2eo"
+    }, 
+    {
+      "to": "j94dapmxxndoe", 
+      "anon": "no", 
+      "when": "2017-10-23T23:25:01Z", 
+      "type": "feedback", 
+      "uid": "ij9b2ekdTWF"
+    }, 
+    {
+      "to": "j94dapmxxndoe", 
+      "anon": "no", 
+      "when": "2017-10-23T23:29:47Z", 
+      "type": "followup", 
+      "uid": "ij9b2ekdTWF"
+    }, 
+    {
+      "to": "j94dapmxxndoe", 
+      "anon": "no", 
+      "when": "2017-10-23T23:41:38Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j94dapmxxndoe", 
+      "anon": "no", 
+      "when": "2017-10-24T02:07:02Z", 
+      "type": "feedback", 
+      "uid": "j8asouglzmcwj"
+    }, 
+    {
+      "to": "j94dapmxxndoe", 
+      "anon": "no", 
+      "when": "2017-10-24T05:43:24Z", 
+      "type": "followup", 
+      "uid": "hqj2wfy7NUZ"
+    }, 
+    {
+      "to": "j94dapmxxndoe", 
+      "anon": "no", 
+      "when": "2017-10-24T06:45:41Z", 
+      "type": "feedback", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "to": "j94dapmxxndoe", 
+      "anon": "no", 
+      "when": "2017-10-24T06:52:59Z", 
+      "type": "feedback", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "to": "j94dapmxxndoe", 
+      "anon": "no", 
+      "when": "2017-10-24T06:57:54Z", 
+      "type": "feedback", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "to": "j94dapmxxndoe", 
+      "anon": "no", 
+      "when": "2017-10-24T07:44:37Z", 
+      "type": "feedback", 
+      "uid": "j6m1j9wkzk46tu"
+    }, 
+    {
+      "to": "j94dapmxxndoe", 
+      "anon": "no", 
+      "when": "2017-10-24T08:05:41Z", 
+      "type": "feedback", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "to": "j94dapmxxndoe", 
+      "anon": "no", 
+      "when": "2017-10-24T09:35:19Z", 
+      "type": "feedback", 
+      "uid": "j6m1j9wkzk46tu"
+    }, 
+    {
+      "to": "j94dapmxxndoe", 
+      "anon": "no", 
+      "when": "2017-10-24T09:54:09Z", 
+      "type": "feedback", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "to": "j94dapmxxndoe", 
+      "anon": "no", 
+      "when": "2017-10-24T09:55:59Z", 
+      "type": "feedback", 
+      "uid": "j6m1j9wkzk46tu"
+    }, 
+    {
+      "to": "j94dapmxxndoe", 
+      "anon": "no", 
+      "when": "2017-10-24T10:01:37Z", 
+      "type": "feedback", 
+      "uid": "j6m1j9wkzk46tu"
+    }, 
+    {
+      "to": "j94dapmxxndoe", 
+      "anon": "no", 
+      "when": "2017-10-24T12:40:29Z", 
+      "type": "feedback", 
+      "uid": "is653ar0mae7ei"
+    }, 
+    {
+      "to": "j94dapmxxndoe", 
+      "anon": "no", 
+      "when": "2017-10-24T12:57:27Z", 
+      "type": "feedback", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "to": "j94dapmxxndoe", 
+      "anon": "no", 
+      "when": "2017-10-24T13:42:23Z", 
+      "type": "feedback", 
+      "uid": "j6m1j9wkzk46tu"
+    }, 
+    {
+      "to": "j94dapmxxndoe", 
+      "anon": "no", 
+      "when": "2017-10-24T15:34:57Z", 
+      "type": "feedback", 
+      "uid": "hz4ug66rg6o26j"
+    }, 
+    {
+      "to": "j94dapmxxndoe", 
+      "anon": "no", 
+      "when": "2017-10-24T17:43:08Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j94dapmxxndoe", 
+      "anon": "no", 
+      "when": "2017-10-24T17:52:46Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j94dapmxxndoe", 
+      "anon": "no", 
+      "when": "2017-10-24T17:58:27Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j94dapmxxndoe", 
+      "anon": "no", 
+      "when": "2017-10-24T18:58:15Z", 
+      "type": "feedback", 
+      "uid": "idgauptz2ou3po"
+    }, 
+    {
+      "to": "j94dapmxxndoe", 
+      "anon": "no", 
+      "when": "2017-10-24T21:06:45Z", 
+      "type": "followup", 
+      "uid": "i4ijgkcwkz15lx"
+    }, 
+    {
+      "to": "j94dapmxxndoe", 
+      "anon": "no", 
+      "when": "2017-10-24T21:30:04Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j94dapmxxndoe", 
+      "anon": "no", 
+      "when": "2017-10-24T21:50:45Z", 
+      "type": "feedback", 
+      "uid": "is653ar0mae7ei"
+    }, 
+    {
+      "to": "j94dapmxxndoe", 
+      "anon": "no", 
+      "when": "2017-10-25T02:28:13Z", 
+      "type": "feedback", 
+      "uid": "j8asouglzmcwj"
+    }, 
+    {
+      "to": "j94dapmxxndoe", 
+      "anon": "no", 
+      "when": "2017-10-25T16:08:54Z", 
+      "type": "feedback", 
+      "uid": "i4ijgkcwkz15lx"
+    }, 
+    {
+      "to": "j94dapmxxndoe", 
+      "anon": "no", 
+      "when": "2017-10-25T16:26:44Z", 
+      "type": "feedback", 
+      "uid": "is653ar0mae7ei"
+    }, 
+    {
+      "to": "j94dapmxxndoe", 
+      "anon": "no", 
+      "when": "2017-10-25T19:08:00Z", 
+      "type": "feedback", 
+      "uid": "ij9b2ekdTWF"
+    }, 
+    {
+      "to": "j94dapmxxndoe", 
+      "anon": "no", 
+      "when": "2017-10-25T19:12:22Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j94dapmxxndoe", 
+      "anon": "no", 
+      "when": "2017-10-25T19:13:14Z", 
+      "type": "feedback", 
+      "uid": "ij9b2ekdTWF"
+    }, 
+    {
+      "to": "j94dapmxxndoe", 
+      "anon": "no", 
+      "when": "2017-10-25T19:18:16Z", 
+      "type": "feedback", 
+      "uid": "ij9b2ekdTWF"
+    }, 
+    {
+      "to": "j94dapmxxndoe", 
+      "anon": "no", 
+      "when": "2017-10-25T19:33:20Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j94dapmxxndoe", 
+      "anon": "no", 
+      "when": "2017-10-25T19:38:13Z", 
+      "type": "feedback", 
+      "uid": "ij9b2ekdTWF"
+    }, 
+    {
+      "to": "j94dapmxxndoe", 
+      "anon": "no", 
+      "when": "2017-10-25T19:44:11Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j94dapmxxndoe", 
+      "anon": "no", 
+      "when": "2017-10-25T19:46:20Z", 
+      "type": "feedback", 
+      "uid": "ij9b2ekdTWF"
+    }, 
+    {
+      "to": "j94dapmxxndoe", 
+      "anon": "no", 
+      "when": "2017-10-25T19:49:07Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j94dapmxxndoe", 
+      "anon": "no", 
+      "when": "2017-10-25T19:50:57Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j94dapmxxndoe", 
+      "anon": "no", 
+      "when": "2017-10-25T19:51:40Z", 
+      "type": "feedback", 
+      "uid": "ij9b2ekdTWF"
+    }, 
+    {
+      "to": "j94dapmxxndoe", 
+      "anon": "no", 
+      "when": "2017-10-25T19:54:06Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j94dapmxxndoe", 
+      "anon": "no", 
+      "when": "2017-10-25T20:04:23Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j94dapmxxndoe", 
+      "anon": "no", 
+      "when": "2017-10-25T20:22:04Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j94dapmxxndoe", 
+      "anon": "no", 
+      "when": "2017-10-25T20:23:18Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j94dapmxxndoe", 
+      "anon": "no", 
+      "when": "2017-10-25T21:09:58Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j94dapmxxndoe", 
+      "anon": "no", 
+      "when": "2017-10-25T22:27:34Z", 
+      "type": "feedback", 
+      "uid": "ij9b2ekdTWF"
+    }, 
+    {
+      "to": "j94dapmxxndoe", 
+      "anon": "no", 
+      "when": "2017-10-25T22:28:47Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j94dapmxxndoe", 
+      "anon": "no", 
+      "when": "2017-10-26T04:07:30Z", 
+      "type": "feedback", 
+      "uid": "j6m1j9wkzk46tu"
+    }, 
+    {
+      "to": "j94dapmxxndoe", 
+      "anon": "no", 
+      "when": "2017-10-26T04:36:56Z", 
+      "type": "feedback", 
+      "uid": "i4ijgkcwkz15lx"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j94dapmxxndoe", 
+  "bookmarked": 20, 
+  "tags": [
+    "exam", 
+    "student"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-10-23T16:05:37Z", 
+      "no_upvotes": 0, 
+      "uid": "hq8hn0qyfuvyr", 
+      "created": "2017-10-23T16:05:37Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j94diudcjgbre", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-23T16:05:52Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-10-23T16:05:52Z", 
+          "type": "feedback", 
+          "id": "j94dj5wcxb16nh", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>doh!</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T16:06:53Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-10-23T16:06:53Z", 
+          "type": "feedback", 
+          "id": "j94dkgpac0l1w7", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Yup. When I uploaded the scan, I saw the problem, but I remembered that they used this as an example of how we should not write anything on the paper after showing it to the camera."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T16:07:27Z", 
+          "uid": "hyzzr9z7x6a1mz", 
+          "created": "2017-10-23T16:07:27Z", 
+          "type": "feedback", 
+          "id": "j94dl7a04bp38x", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Realizing you misread the problem statement after you almost completed a solution. lol. Luckily, I had enough time to erase and redo.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T16:09:30Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-10-23T16:09:30Z", 
+          "type": "feedback", 
+          "id": "j94dntxjh4247o", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>oh no ronny.\u00a0 I print out the exam portion twice and just use the problem space for my scrap paper (instead of printing the designated scrap pages); in the event I would have to erase a whole page I just replace with the back-up scrap paper I made.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T16:16:51Z", 
+          "uid": "hvduxyr7r4s6q7", 
+          "created": "2017-10-23T16:16:51Z", 
+          "type": "feedback", 
+          "id": "j94dxa2poij35h", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I made a greater than/less than mistake on that problem as well. Luckily I caught it when I read through my answers before submitting (still had time left on the clock)</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T16:32:02Z", 
+          "uid": "hyzzr9z7x6a1mz", 
+          "created": "2017-10-23T16:32:02Z", 
+          "type": "feedback", 
+          "id": "j94egt4md7d2jo", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Good idea Brent. I will do the same for next time. I didn&#39;t had to erase the whole thing, just a few lines.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T17:34:09Z", 
+          "uid": "idjrfx2fR1Z", 
+          "created": "2017-10-23T17:34:09Z", 
+          "type": "feedback", 
+          "id": "j94goox3is02ro", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>For p4, I checked dist(v, z*) &gt; dist(z*,v), missing a factor of two. Realized it when I was scanning it, which left a very sour aftertaste :((</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T18:34:35Z", 
+          "uid": "i4jco3u0esh373", 
+          "created": "2017-10-23T18:34:35Z", 
+          "type": "feedback", 
+          "id": "j94iueipey35jl", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Wrote the correct runtime for Dijkstra&#39;s algorithm in scrap paper, but in the actual problem, I wrote O(|V| * |E| log |V|) instead of O((|V| &#43; |E|) log |V|)</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T22:08:40Z", 
+          "uid": "hzetpo9z5sK", 
+          "created": "2017-10-23T22:08:40Z", 
+          "type": "feedback", 
+          "id": "j94qhpw8kli6oq", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Wrote $$O(m \\log n)$$ for running time of MST instead of $$O(m \\log m)$$, forgot\u00a0to add my\u00a0name also.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-24T06:52:59Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-10-24T06:52:59Z", 
+          "type": "feedback", 
+          "id": "j959804f6b15iq", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "$$\\log m = \\Theta(\\log n)$$ though, so you should be alright for that"
+        }
+      ], 
+      "subject": "I forgot to write my name."
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-23T17:40:01Z", 
+      "no_upvotes": 0, 
+      "uid": "i9jej4o7cmx14m", 
+      "created": "2017-10-23T17:40:01Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j94gw8ateie5zl", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-23T20:29:11Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-10-23T20:29:11Z", 
+          "type": "feedback", 
+          "id": "j94mxs1uu8b3e1", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "As far as I know right now, there really wasn&#39;t a way to do it with one of the other algorithms as a completely-black box. Maybe I overlooked something, though."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T20:35:27Z", 
+          "uid": "i8597yy2i2f1z6", 
+          "created": "2017-10-23T20:35:27Z", 
+          "type": "feedback", 
+          "id": "j94n5un7uh45z", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>It wasn&#39;t entirely clear to me either, but I solved it by creating a cycle. In order to find the edges in the cycle, I used DFS as my black box. Everything else was either O(1) or simple loops.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T20:59:21Z", 
+          "uid": "hvvxmpxfuyb2eo", 
+          "created": "2017-10-23T20:59:21Z", 
+          "type": "feedback", 
+          "id": "j94o0knhcjy5z9", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#43;1 I did same solution as Patrick.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T21:00:38Z", 
+          "uid": "hvduxyr7r4s6q7", 
+          "created": "2017-10-23T21:00:38Z", 
+          "type": "feedback", 
+          "id": "j94o28lm3kv3nl", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#43;1 I found a path from x to y using DFS creating a cycle with every edge on that path and the new edge.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T21:10:31Z", 
+          "uid": "idgauptz2ou3po", 
+          "created": "2017-10-23T21:10:31Z", 
+          "type": "feedback", 
+          "id": "j94oexltq9m67p", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "I used DFS to find the path from y to z in graph T, which would be coincident with the cycle. Since T is a tree, there is only one path from y to z. In the process you also find the heaviest edge in the path. Add the new edge and delete the heavy edge and you have T&#39;."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T21:17:15Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-10-23T21:17:15Z", 
+          "type": "feedback", 
+          "id": "j94onm043wn1zs", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "I also used DFS to find the cycle. However, the problem is what to do after you determine there&#39;s a cycle. (Of course, we already know there is one, but what I mean is that in DFS you detect the cycle.) How exactly can you then get the heaviest edge on the cycle? Basically you have to have a stack of some sort, which DFS does have, but then as you&#39;re popping the stack, you have to pay attention to which edge is the heaviest. That kind of sounds to me like modifying the algorithm, but I strongly suspect that&#39;s the expected answer.\n\nIn the last couple of minutes, I also scribbled that you could do this with just Explore() in the same way, before adding the new edge. If you start Explore at y, when you see y again, you&#39;ve found the cycle. There is no need to keep pre and post-order numbers, in other words."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T21:17:56Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-10-23T21:17:56Z", 
+          "type": "feedback", 
+          "id": "j94oohhy4s52md", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "I&#39;m probably just over-thinking things, though."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T21:19:05Z", 
+          "uid": "i4ijgkcwkz15lx", 
+          "created": "2017-10-23T21:19:05Z", 
+          "type": "feedback", 
+          "id": "j94opyvfg5c4gk", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>If you are adding an edge e* from y to z. Just use DFS to find the path from y to z in the MST T. On this path find the edge with the largest\u00a0weight, if this weight is greater than b, remove this edge and replace it with e* and you get your new MST T&#39;</p>\n<p>The runtime of this algorithm is O(n &#43; m ), for a tree m is n-1, run time is O(n)</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T21:20:22Z", 
+          "uid": "i8597yy2i2f1z6", 
+          "created": "2017-10-23T21:20:22Z", 
+          "type": "feedback", 
+          "id": "j94orlq46kh5r0", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Finding the heaviest edge from the list of edges is just a simple loop, which can be considered as the function that you use to modify the output of the blackbox to fit the problem. No modification of DFS/Explore is needed, just return the edges visited.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T21:29:08Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-10-23T21:29:08Z", 
+          "type": "feedback", 
+          "id": "j94p2w57m031bq", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "I missed the fact that you can reduce it to O(n). That&#39;s a good point."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T21:30:07Z", 
+          "uid": "hvduxyr7r4s6q7", 
+          "created": "2017-10-23T21:30:07Z", 
+          "type": "feedback", 
+          "id": "j94p452b8g46b", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Yeah, you don&#39;t need to modify an algorithm but you do need to have your own &#34;code&#34; to use it in a smart way. I realized for some reason I just replaced an edge heavier than the new edge, not the heaviest. I even thought about doing heaviest, but for some reason I was getting so caught up in thinking through the cycle logic I forgot to make it a MST. Mine is a lighter tree, not the lightest. Hopefully that isn&#39;t too costly.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T21:37:52Z", 
+          "uid": "idgauptz2ou3po", 
+          "created": "2017-10-23T21:37:52Z", 
+          "type": "feedback", 
+          "id": "j94pe4hhkem6k0", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "I vaguely recall that e* was specified to be lighter than any edge in T, so it was not necessary to ensure it was lighter than the edge it replaced. Hmm.\u00a0"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T21:38:48Z", 
+          "uid": "hvduxyr7r4s6q7", 
+          "created": "2017-10-23T21:38:48Z", 
+          "type": "feedback", 
+          "id": "j94pfbk5huc6k6", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I don&#39;t think it said that. In fact I&#39;m pretty sure I checked it. We just know e* is lighter than it used to be. Was a now is b &lt; a</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T21:39:39Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-10-23T21:39:39Z", 
+          "type": "feedback", 
+          "id": "j94pgevhchc48y", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "I remember it the same way Scott does."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T22:16:56Z", 
+          "uid": "hvvxmpxfuyb2eo", 
+          "created": "2017-10-23T22:16:56Z", 
+          "type": "feedback", 
+          "id": "j94qsd05a39791", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I added e* to create cycle. Then walked the cycle to find an e such that a &gt;= w(e) &gt;= b. Then replaced e with e*.\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T23:25:01Z", 
+          "uid": "ij9b2ekdTWF", 
+          "created": "2017-10-23T23:25:01Z", 
+          "type": "feedback", 
+          "id": "j94t7x37t0l64y", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I didn&#39;t use any of the algorithms as a black box either.\u00a0 I thought about DFS, but didn&#39;t use it because it was unclear to me how DFS could identify a cycle without modification.\u00a0 DFS from y would find all of the vertices on the\u00a0path to z, but it would also identify vertices that weren&#39;t on that path and therefore not part of the cycle that adding the new edge created.\u00a0 I just scanned the list of edges that were given to us in the\u00a0problem setup.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T23:41:38Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-10-23T23:41:38Z", 
+          "type": "feedback", 
+          "id": "j94ttaduw0xav", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p></p><ul><li>I used BFS to find a path from y to z.</li><li>Then computed the heaviest\u00a0edge e&#39; in that path.</li><li>Then if w(e&#39;) &gt;= w(e*), T&#39; = T u e* - e&#39;</li><li>If w(e&#39;) &lt; w(e*), T&#39; = T</li></ul>\n<p></p>\n<p></p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-24T02:07:02Z", 
+          "uid": "j8asouglzmcwj", 
+          "created": "2017-10-24T02:07:02Z", 
+          "type": "feedback", 
+          "id": "j94z09ppyrepp", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I was skeptical about using DFS to return cycle but that looked only solution less costly in terms of time than anything else so went ahead with that anyways... Feeling relaxed to see that so many people followed the same :-)</p>\n<p>My steps:</p>\n<p></p>\n<p>1. Run DFS on TUe* to find the cycle C - O(n) time</p>\n<p>2. Find heaviest edge in C - O(n) time</p>\n<p>3. Remove heaviest edge in C - O(1)</p>\n<p></p>\n<p>So solution is O(n) time</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-24T06:57:54Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-10-24T06:57:54Z", 
+          "type": "feedback", 
+          "id": "j959ebl4ndl93", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Are many of you assuming that DFS \u2013 or BFS \u2013 automatically returns a path, though? As I think you need to postprocess the results from DFS, that at least in one of its standard implementations gives you pre- &amp; post-order numbers, to derive the actual path. For BFS, wouldn&#39;t you need to modify the algorithm to return the parents of nodes in the BFS tree?"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-24T07:44:37Z", 
+          "uid": "j6m1j9wkzk46tu", 
+          "created": "2017-10-24T07:44:37Z", 
+          "type": "feedback", 
+          "id": "j95b2ecdrkg313", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Let&#39;s see.. returning path from DFS does not change the inherent nature of algo. just some more book-keeping like we do in pre &amp; post numbers.. otherwise I still don&#39;t know solution which is better than constructing MST from scratch.. Does somebody has ?"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-24T08:05:41Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-10-24T08:05:41Z", 
+          "type": "feedback", 
+          "id": "j95bthz64bg71b", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "That sounds very similar to my thinking; that at least with DFS there&#39;s no need to modify the algorithm itself, though it seems you do need [to specify] postprocessing"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-24T09:35:19Z", 
+          "uid": "j6m1j9wkzk46tu", 
+          "created": "2017-10-24T09:35:19Z", 
+          "type": "feedback", 
+          "id": "j95f0rlergl1i3", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Cycle can be returned by inserting vertex in stack at the start of explore function and popping the same if you hit end of the recursion path i.e. at the end of explore function , if there is same vertex encounter i.e. cycle detected then vertices in the stack will represent the cycle. This can not be mentioned in solution as pseudo code is not expected."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-24T09:54:09Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-10-24T09:54:09Z", 
+          "type": "feedback", 
+          "id": "j95fozbxbbs1zk", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "That&#39;s a modification of the algorithm itself isn&#39;t it?"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-24T09:55:59Z", 
+          "uid": "j6m1j9wkzk46tu", 
+          "created": "2017-10-24T09:55:59Z", 
+          "type": "feedback", 
+          "id": "j95frcjemj4ov", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Actually I am not very sure.. even pre-order and post-order numbers are not part of vanilla DFS version.."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-24T10:01:37Z", 
+          "uid": "j6m1j9wkzk46tu", 
+          "created": "2017-10-24T10:01:37Z", 
+          "type": "feedback", 
+          "id": "j95fyktbvik4wg", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Aren&#39;t we doing something at the start/end of explore function for pre/post order numbers.."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-24T12:40:29Z", 
+          "uid": "is653ar0mae7ei", 
+          "created": "2017-10-24T12:40:29Z", 
+          "type": "feedback", 
+          "id": "j95lmvwj4e92mi", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>We use DFS to find paths in the residual graph for max flow, so finding paths with DFS is\u00a0an unmodified in-class algorithm.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-24T12:57:27Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-10-24T12:57:27Z", 
+          "type": "feedback", 
+          "id": "j95m8p4h6ne6o3", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "That sounds persuasive, Silviu :-D\n\nThat logic should include &#39;vanilla&#39; BFS too, as it&#39;s the path-finding subroutine for Edmonds-Karp\n\nArvind, according to the implementation in DPV, Figure 3.5 page 85 is <tt>DFS()</tt> that leverages the <tt>Explore()</tt> in Figure 3.3 page 84, that has <tt>previsit()</tt> &amp; <tt>postvisit()</tt> calls included in it; sample implementations of <tt>previsit()</tt> &amp; <tt>postvisit()</tt> at page 87 basically setting pre-order &amp; post-order numbers"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-24T13:42:23Z", 
+          "uid": "j6m1j9wkzk46tu", 
+          "created": "2017-10-24T13:42:23Z", 
+          "type": "feedback", 
+          "id": "j95nuhreeaj1p4", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "I leave it on instructors.. would be curious to know the solution from them in case it differs"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-24T17:43:08Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-10-24T17:43:08Z", 
+          "type": "feedback", 
+          "id": "j95wg3e6vo4o5", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "So far no one in this thread has given a good alternative to saying something about running DFS to find the cycle. Therefore, I think all of us who did that are probably safe. I think Silviu&#39;s observation is very relevant."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-24T17:52:46Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-10-24T17:52:46Z", 
+          "type": "feedback", 
+          "id": "j95wshaiplqps", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Heh Nolan, its possible that 100% of us saying that got it wrong (not knocking the idea, I did it too but am pretty sure there is something better out there)</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-24T17:58:27Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-10-24T17:58:27Z", 
+          "type": "feedback", 
+          "id": "j95wzspululs9", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "True, but I hope that&#39;s not the case, and I think it&#39;s unlikely."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-24T18:58:15Z", 
+          "uid": "idgauptz2ou3po", 
+          "created": "2017-10-24T18:58:15Z", 
+          "type": "feedback", 
+          "id": "j95z4pfto3q20", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "If you start DFS on node y, it will become the root of the MST in your search. Then you can find z in the data returned from your unmodified DFS and climb its ancestors back to the root y. All together that gives you the path in linear time, assuming the DFS data is an array as in the lectures.\u00a0"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-25T02:28:13Z", 
+          "uid": "j8asouglzmcwj", 
+          "created": "2017-10-25T02:28:13Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j96f7d906wvng", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Prof. Eric confirmed in other thread &#64;802. Finding cycle using BFS/DFS is absolutely fine.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-25T19:08:00Z", 
+          "uid": "ij9b2ekdTWF", 
+          "created": "2017-10-25T19:08:00Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j97ex35uf6f5tz", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Re: using DFS to find a path in max-flow - DFS tells us that a path from s to t <strong>exists</strong> in the residual graph, but it doesn&#39;t tell us exactly <strong>what that path is</strong>, right?\u00a0 In max-flow, we don&#39;t care what that path is - we just need to know that it exists.\u00a0 But in Exam 2 problem 2, we need to know what exactly the path is.\u00a0 We already know that there is a path from y to z in T, because it&#39;s a tree.\u00a0 A path necessarily exists.\u00a0 The questions is what is that path.</p>\n<p></p>\n<p>Edit: I take it back, we do need to know what the s-t path is in the residual graph, but I guess the details\u00a0for this were hand-waved as well... It still seems to me that DFS/Explore without modification return all nodes explored, not a specific path.\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-25T19:12:22Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-10-25T19:12:22Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j97f2pcnsmn1yc", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Wes, it appears from &#64;802 that Professor is saying that we don&#39;t need need to provide a lot of details about how to find a path, but can just mention that the path is found either by Explore() when the starting node is found again, or by DFS when a back edge is seen.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-25T19:13:14Z", 
+          "uid": "ij9b2ekdTWF", 
+          "created": "2017-10-25T19:13:14Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j97f3tl1w873e4", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Yes, I saw that, but I still don&#39;t follow.\u00a0 I posted in that thread as well.\u00a0 &#34;when the starting node is found&#34; and &#34;when a back edge is seen&#34; both sound like modifications to me...\u00a0 The unmodified algorithms, in my understanding, just give you all the nodes that were found - they don&#39;t give you details about backedges, etc.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-25T19:33:20Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-10-25T19:33:20Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j97fto95dxqx4", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I think the bottom line is that some modification of the &#34;black box&#34; algorithm must be done, at least to the extent of adding something else to it. I suppose when we&#39;re told not to modify the black box, that means don&#39;t modify it in a major way. I think adding some action that has to be done when the black box algorithm finds something is considered acceptable. It&#39;s a little fuzzy.\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-25T19:38:13Z", 
+          "uid": "ij9b2ekdTWF", 
+          "created": "2017-10-25T19:38:13Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j97fzxzqtok5nj", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Yeah, apparently you are correct.\u00a0 But\u00a0you can&#39;t add anything to or otherwise modify a black box, by definition.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-25T19:44:11Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-10-25T19:44:11Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j97g7mpdpz819y", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Are you modifying the algorithm, though?</p>\n<p></p>\n<p>I can run Explore, or DFS, or BFS, and construct the path <strong>using the result of those algorithms</strong>. No?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-25T19:46:20Z", 
+          "uid": "ij9b2ekdTWF", 
+          "created": "2017-10-25T19:46:20Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j97gae78i2f5yf", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>How? You run DFS/Explore from y, and it returns all the nodes it found.\u00a0 So you get back every node that is\u00a0reachable from\u00a0y, which is every node in the tree in this case.\u00a0 How do construct the path from the result?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-25T19:49:07Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-10-25T19:49:07Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j97gdyk8vci5ua", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Don&#39;t you get the postorder numbers as well?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-25T19:50:57Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-10-25T19:50:57Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j97ggbyyihb23j", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>You do get the preorder and postorder numbers, but I can&#39;t, for instance, determine a way to use those to construct the entire path. The back-edge would be missing.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-25T19:51:40Z", 
+          "uid": "ij9b2ekdTWF", 
+          "created": "2017-10-25T19:51:40Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j97gh8xf7gmzf", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Right, how do I get the path from the postorder numbers?</p>\n<p></p>\n<p>if I start DFS/Explore from y, get halfway down the path to z, but then explore some other branch that is not on the path to z, and then eventually come back to the original path, the descending post order number tells me nothing about which nodes were actually on the path to z and which were on the &#34;dead end&#34; branch, do they?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-25T19:54:06Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-10-25T19:54:06Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j97gkdtcbbr565", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I do see how you could determine SOME path with pre and postorder numbers, since they can be used to determine ancestry. But starting from vertex y, you could form a bunch of paths, but I suppose only one leads back around to y.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-25T20:04:23Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-10-25T20:04:23Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j97gxlluean6aq", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>How about using the previsit() and postvisit() methods of the DFS algorithm? Those are technically not modifying the blackbox algorithm because they are created for people to add additional code without having to mess with the core.</p>\n<p></p>\n<p>What do you think?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-25T20:22:04Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-10-25T20:22:04Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j97hkbvq2qdx5", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Good idea. I wish I&#39;d thought to mention those. But, I suspect that mentioning those is not necessary to get a good grade.</p>\n<p></p>\n<p>While discussing all of this, I was thinking about callbacks, but I forgot that those are callbacks.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-25T20:23:18Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-10-25T20:23:18Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j97hlx21wu4zz", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Right, I don&#39;t think you had to mentioned those to get full credit. The idea is that you can use DFS to solve this problem without needing to modify it.</p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-25T21:09:58Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-10-25T21:09:58Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j97j9y33bur4hj", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>That makes sense. It provides a justification for saying that our algorithms used DFS as a black box. Thanks!</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-25T22:27:34Z", 
+          "uid": "ij9b2ekdTWF", 
+          "created": "2017-10-25T22:27:34Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j97m1q99rtu6sc", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Someone on Slack cleared this up for me and it&#39;s very straightforward. If you run DFS on T starting from y, you get back all the nodes in T with their preorder and postorder numbers. The nodes on the path from y to z are all of the nodes with a higher postorder number than z AND a lower preorder number than z. Nodes that aren&#39;t on the path from y to z will have a lower postorder number than z OR a higher preorder number than z, but not both. So you can&#39;t do it with just the postorder numbers - you need the postorder numbers AND the preorder numbers.</p>\n<p></p>\n<p>I just sort of forgot all about preorder numbers, especially after Dr. Vigoda&#39;s comments in the GR1 lectures: &#34;The only application I know of for preorder numbers are to try and trick you on exams&#34;. Got me!!!</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-25T22:28:47Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-10-25T22:28:47Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j97m3asomo65ti", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Makes sense. Thanks!</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-26T04:07:30Z", 
+          "uid": "j6m1j9wkzk46tu", 
+          "created": "2017-10-26T04:07:30Z", 
+          "type": "feedback", 
+          "id": "j97y6vwiiuy47m", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "I think DFS/BFS are traversal algorithms and what you do during traversal is up to you.. it could be something like keeping count of pre/post order #s, printing nodes or recording nodes etc.. so that is additional processing which is depending on your application and shouldn&#39;t count into modification of DFS/BFS algorithms.. this is my understanding"
+        }
+      ], 
+      "subject": "<p>I think for question 2 I\u00a0didn&#39;t actually use an existing algorithm as a blackbox to explain a particular step and instead just described what to do intuitively, which in hindsight seems like I might lose a lot of points for. Really dumb mistake, I hope I don&#39;t get burned too badly.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-23T20:00:10Z", 
+      "no_upvotes": 0, 
+      "uid": "i4ket0u1z5q31a", 
+      "created": "2017-10-23T20:00:10Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j94lwgvjanh7f1", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>I might not have written things in the desired wording format, that seems to be one of my undoings in this class.\u00a0 But I sure hope I didn&#39;t screw up like exam 1 with dumb mistakes.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-23T23:29:47Z", 
+      "no_upvotes": 0, 
+      "uid": "ij9b2ekdTWF", 
+      "created": "2017-10-23T23:29:47Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j94te1ej9xe1d5", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-24T06:45:41Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-10-24T06:45:41Z", 
+          "type": "feedback", 
+          "id": "j958ym7ks6q8l", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "I think you needed to treat Brent&#39;s list of subsections of DPV as a guide to what you needed to have revised most carefully, rather than a guide to what you needed to have read at all.\n\nFrom the looks of it, there&#39;s no real substitute for trying to at least read DPV cover to cover, as well as understanding everything covered in the videos \u2013 some more directly from Kleinberg/Tardos, so try to at least read the relevant chapters, although it seems you could treat that a bit more superficially than DPV"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-25T19:18:16Z", 
+          "uid": "ij9b2ekdTWF", 
+          "created": "2017-10-25T19:18:16Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j97faadwrt4q0", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I wasn&#39;t talking about Brent&#39;s list.\u00a0 I just mean that when reading Chapter 7 some of it clearly related to what was in the lectures and some of it clearly had nothing to do with the lectures.\u00a0 I tried to focus on what was most needed, though I agree that just reading all of it would have been a safer bet.</p>"
+        }
+      ], 
+      "subject": "<p>I think one of the main issues I had with Exam 2 is that it was much less clear what I needed to be focusing on than it was with Exam 1.\u00a0 Like the fact that DPV Chapters 4 and 5 were basically required reading, despite not being on the schedule.\u00a0 Or the fact that we apparently only needed to read a portion of Chapter 7, though we were never explicitly told which portions, so I totally skipped the bipartite graph section which basically was the answer to question 1.\u00a0 I felt very prepared going into Exam 1 and knew what to expect - that wasn&#39;t really the case with Exam 2.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-24T05:43:24Z", 
+      "no_upvotes": 0, 
+      "uid": "hqj2wfy7NUZ", 
+      "created": "2017-10-24T05:43:24Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j956qigj3pu6qd", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-24T15:34:57Z", 
+          "uid": "hz4ug66rg6o26j", 
+          "created": "2017-10-24T15:34:57Z", 
+          "type": "feedback", 
+          "id": "j95rv99wzd32fl", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Same here...I know it will be said that it was solvable without knowing exactly what Bipartite-Perfect-Matching is but if you can&#39;t figure out what this type of graph aims to accomplish, you\u00a0don&#39;t feel very confident setting it up as a Max Flow problem.\u00a0 I also don&#39;t know what the word incident in this context means:\u00a0 v 2 V is incident\u00a0exactly one edge in S.\u00a0 \u00a0\u00a0</p>"
+        }
+      ], 
+      "subject": "<p>I really had trouble with the wording of question 1. \u00a0I never understood the definition of terms that were introduced. \u00a0 And I was wondering what they were looking for with valid flow. \u00a0I talked about conserved flow.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-24T21:06:45Z", 
+      "no_upvotes": 0, 
+      "uid": "i4ijgkcwkz15lx", 
+      "created": "2017-10-24T21:06:45Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j963pyi46od1fl", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-24T21:30:04Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-10-24T21:30:04Z", 
+          "type": "feedback", 
+          "id": "j964jxvsbck1uq", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Yup. I fortunately realized that in time."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-24T21:50:45Z", 
+          "uid": "is653ar0mae7ei", 
+          "created": "2017-10-24T21:50:45Z", 
+          "type": "feedback", 
+          "id": "j965aj4iduw4n5", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Using BFS (EK)\u00a0is also O(nm) by same argument as FF (though avg case should be much slower).</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-25T16:08:54Z", 
+          "uid": "i4ijgkcwkz15lx", 
+          "created": "2017-10-25T16:08:54Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j978ir8jgbf2lh", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#64;Silviu Could you elaborate please. The number of rounds for Edmond Karp is O(nm) and O(m) work each round, leading to O(nm^2). I would look at the derivation again, but it would be great if you could help me understand how EK is also O(nm) in this case.</p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-25T16:26:43Z", 
+          "uid": "is653ar0mae7ei", 
+          "created": "2017-10-25T16:26:43Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j9795orgsr04nq", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>FF allows you to use BFS or DFS, and EK is just a different analysis of FF using BFS, not an entirely different algorithm. It follows that if FF with BFS is O(nm), so is EK.</p>\n<p></p>\n<p>You could also look at where the O(mn) rounds came from in the EK analysis: m because there are m edges, and n because there are maximum of n\u00a0<em>levels</em> in the BFS graph --&gt; but here there are a bounded number of\u00a0levels because the graph is bipartite, so you get O(m) * O(m) = O(m^2)... not as good as O(mn) but better than O(m^2n) (this same analysis might be useful in other special cases where the number of levels is bounded).</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-26T04:36:56Z", 
+          "uid": "i4ijgkcwkz15lx", 
+          "created": "2017-10-26T04:36:56Z", 
+          "type": "feedback", 
+          "id": "j97z8qr4il71af", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thanks\u00a0&#64;Silviu\u00a0</p>"
+        }
+      ], 
+      "subject": "<p>In addition to other mistakes, just realized for Q1, Ford Fulkerson is a better algorithm, as it has a complexity of O(Cm), and for this problem C &lt;= n, so complexity is O(nm).\u00a0</p>"
+    }
+  ], 
+  "nr": 791, 
+  "bucket_order": 2, 
+  "type": "note", 
+  "folders": [
+    "exam"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 3, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-10-23T15:59:18Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145132509, 
+  "tag_good": [
+    {
+      "name": "Nick Ramirez", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hv8z1sxi8u36nb"
+    }
+  ], 
+  "tag_good_arr": [
+    "hv8z1sxi8u36nb"
+  ], 
+  "history": [
+    {
+      "content": "<p>Hi All,</p>\n<p></p>\n<p>Soooo you messed up on exam 2.\u00a0 What cringe-worthy things did you do wrong that you realized as you were scanning / 30 mins after the test?<br /><br />For me:</p>\n<ol><li>I realized that I said &#34;if edge e&#96; is less than e* remove&#34; instead of &#34;if edge e&#96; is <strong>greater</strong> than e* remove&#34;...one word screw-up really destroyed that. Not that I think I had a great solution for #2 anyway....</li><li>#3.b I screwed up returning the true/false.\u00a0 I think I did it correctly otherwise but I returned true when I should have returned false and vice versa....</li></ol>\n<p></p>\n<p>What stupid mistakes did you make on exam 2 that haunted you in your dreams last night?</p>\n<p></p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/hvil6y6khgk2ri/j94d6fvww8cm/wemessedup.jpg\" alt=\"\" /></p>\n<p></p>", 
+      "anon": "no", 
+      "created": "2017-10-23T15:59:18Z", 
+      "uid": "hvil6y6khgk2ri", 
+      "subject": "Soooo You Messed Up on Exam 2..."
+    }
+  ]
+}

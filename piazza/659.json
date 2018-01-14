@@ -1,0 +1,167 @@
+{
+  "status": "active", 
+  "unique_views": 130, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-07T20:36:43Z", 
+      "data": "j8hs5uhuowf58p", 
+      "uid": "isb30n9eruy4my"
+    }, 
+    {
+      "uid": "i4j6x4gsbrz70z", 
+      "type": "s_answer", 
+      "when": "2017-10-07T21:02:14Z", 
+      "to": "j8hs5uhruor58o", 
+      "anon": "no", 
+      "data": "j8ht2njbpx52h7"
+    }, 
+    {
+      "to": "j8hs5uhruor58o", 
+      "anon": "no", 
+      "when": "2017-10-07T22:31:45Z", 
+      "type": "followup", 
+      "uid": "isb30n9eruy4my"
+    }, 
+    {
+      "to": "j8hs5uhruor58o", 
+      "anon": "no", 
+      "when": "2017-10-08T17:11:23Z", 
+      "type": "feedback", 
+      "uid": "i4j6x4gsbrz70z"
+    }, 
+    {
+      "to": "j8hs5uhruor58o", 
+      "anon": "no", 
+      "when": "2017-10-08T23:03:12Z", 
+      "type": "feedback", 
+      "uid": "isb30n9eruy4my"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8hs5uhruor58o", 
+  "bookmarked": 3, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-07T21:02:14Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j8ht2nj8hm62h6", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>Your second assumption is the correct one. hash table size is n. And getHashList(x) returns a list with 13 hash values (for task2) and you\u00a0set each of these index in bloom filter to 1</p>", 
+          "anon": "no", 
+          "created": "2017-10-07T21:02:14Z", 
+          "uid": "i4j6x4gsbrz70z", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-07T22:31:45Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "isb30n9eruy4my", 
+      "created": "2017-10-07T22:31:45Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8hw9ryuv3u6id", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-08T17:11:23Z", 
+          "uid": "i4j6x4gsbrz70z", 
+          "created": "2017-10-08T17:11:23Z", 
+          "type": "feedback", 
+          "id": "j8j09myqftn4w9", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Hope you are still talking about task2. For task2, you should not get any false positives or you should get output &#34;compareResults : Your bloom filter performs as expected&#34;. Make sure you are using the matching config file and validation file as input. Also make sure that you are using the provided seeds from config file for task2, and this will ensure that your hash values are same for same input value (x).</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-08T23:03:12Z", 
+          "uid": "isb30n9eruy4my", 
+          "created": "2017-10-08T23:03:12Z", 
+          "type": "feedback", 
+          "id": "j8jcu317i0w1rq", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thank you Suneesh! I fixed the code finally.</p>"
+        }
+      ], 
+      "subject": "Thanks! I used the second assumption for the design. However, get a few thousand incorrect positive and a few incorrect negative... I\u2019ve read posts and seems like this means my bloom filter is incorrect. Any suggestions on how to get the bloom filter performance 0 incorrect positive/negatives?"
+    }
+  ], 
+  "nr": 659, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "project"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "project", 
+    "student"
+  ], 
+  "created": "2017-10-07T20:36:43Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145166437, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>Are we supposed to create a hash table with length n in k dimensions to be able to store True/False for k hash functions?</p>\n<p>Or just a list with length n to store True/False. And when we add element, we will set H[h(x)]=1 for all k hash functions?\u00a0</p>\n<p></p>", 
+      "anon": "no", 
+      "created": "2017-10-07T20:36:43Z", 
+      "uid": "isb30n9eruy4my", 
+      "subject": "task 2 hash table size"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "status": "active", 
+  "unique_views": 188, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-21T19:07:55Z", 
+      "data": "j7uty0mfz3e36x", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-21T19:08:15Z", 
+      "data": "j7utyg2fdat3j2", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-21T19:22:09Z", 
+      "data": "j7uugblvmj339f", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j7uty0mdc4p36w", 
+      "anon": "no", 
+      "when": "2017-09-21T21:35:23Z", 
+      "type": "followup", 
+      "uid": "hvduxyr7r4s6q7"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j7uty0mdc4p36w", 
+  "bookmarked": 3, 
+  "tags": [
+    "dynamic_programming", 
+    "exam", 
+    "student"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-09-21T21:35:23Z", 
+      "no_upvotes": 0, 
+      "uid": "hvduxyr7r4s6q7", 
+      "created": "2017-09-21T21:35:23Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7uz7o7be8h40b", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>My oldest son went to his first cub scout meeting last night. Lots of nostalgia seeing him come in the door after the meeting with his new uniform and wolf book. This post reminds me that I need to start googling how to win at pinewood derby so that I can build my son&#39;s car for him :)</p>"
+    }
+  ], 
+  "nr": 377, 
+  "bucket_order": 2, 
+  "type": "note", 
+  "folders": [
+    "exam", 
+    "dynamic_programming"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 2, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-09-21T19:07:55Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145223816, 
+  "tag_good": [
+    {
+      "name": "Derek Thayer", 
+      "admin": false, 
+      "photo": "1434138801_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4iufvhm2nj4s1"
+    }
+  ], 
+  "tag_good_arr": [
+    "i4iufvhm2nj4s1"
+  ], 
+  "history": [
+    {
+      "content": "<p>I was in the Boy Scouts as a kid. One event which was always fun was the pinewood derby, and one year, I observed an event I will never forget: one boy, who obviously had no help, placed his car at the starting line. Once the cars were released, his almost instantly lost a wheel and was self-ejected from the track.</p>\n<p></p>\n<p>In trying to come to grips with CMM, I have come to see it as the pinewood derby racer.</p>\n<p></p>\n<p>In the beginning of the first race, the pinewood derby racer only uses two (or a few) wheels, but he does not realize that the racetrack is unforgiving: almost immediately, the track overpowers a wheel, causing the wheel to fall off and the car to be thrown off the track. The valiant pinewood derby racer, humiliated but determined, puts the wheel back on the car and puts the car back on the track, but it keeps falling off. He loses the race.<br /> <br /> In the next race, he puts one more wheel on the car in the beginning, and this helps. The wheels still fall off and the car still falls off the track. Not to be beaten, he picks the car back up, fixes the wheel, and resumes from where it had left. After each fall, he puts the wheel in a slightly different configuration in an attempt to find a better setup. He loses, but he takes comfort in the fact that the car lasted slightly longer this time.</p>\n<p></p>\n<p>In subsequent races, he keeps adding one more wheel and the car stays on a bit longer (and every time a wheel falls off, he tries placing it in a slightly different spot); finally, in the last race of the year, the track is unable to unseat enough wheels and the car sails across the finish line.</p>\n<p>\u00a0</p>\n<p>The story of the pinewood derby racer is the story of CMM: the wheels are the window size, and the different wheel configurations are the different combinations of i and j. Each race \u2013 each FULL iteration of the inner loop \u2013 sees the car fall off less times than it did previously (meaning the inner loop size shrinks), mostly thanks to the window size growing and returning a better answer. In the final inner loop \u2013 the final race \u2013 there is only one start - one iteration - meaning the car was never thrown off the track, and you now know what it takes to tackle the racetrack.</p>", 
+      "anon": "no", 
+      "created": "2017-09-21T19:22:09Z", 
+      "uid": "hvil6y6khgk2ri", 
+      "subject": "How I Think of CMM"
+    }, 
+    {
+      "content": "<p>I was in the Boy Scouts as a kid. One event which was always fun was the pinewood derby, and one year, I observed an event I will never forget: one boy, who obviously had no help, placed his car at the starting line. Once the cars were released, his almost instantly lost a wheel and was self-ejected from the track.</p>\n<p></p>\n<p>In trying to come to grips with CMM, I have come to see it as the pinewood derby racer.</p>\n<p></p>\n<p>In the beginning of the race, the pinewood derby racer only uses two (or a few) wheels, but he does not realize that the racetrack is unforgiving: almost immediately, the track overpowers a wheel, causing the wheel to fall off and the car to be thrown off the track. The valiant pinewood derby racer, humiliated but determined, puts the wheel back on the car and puts the car back on the track, but it keeps falling off. He loses the race.<br /> <br /> In the next race, he puts one more wheel on the car in the beginning, and this helps. The wheels still fall off and the car still falls off the track. Not to be beaten, he picks the car back up, fixes the wheel, and resumes from where it had left. After each fall, he puts the wheel in a slightly different configuration in an attempt to find a better setup. He loses, but he takes comfort in the fact that the car lasted slightly longer this time.</p>\n<p></p>\n<p>In subsequent races, he keeps adding one more wheel and the car stays on a bit longer (and every time a wheel falls off, he tries placing it in a slightly different spot); finally, in the last race of the year, the track is unable to unseat enough wheels and the car sails across the finish line.</p>\n<p>\u00a0</p>\n<p>The story of the pinewood derby racer is the story of CMM: the wheels are the window size, and the different wheel configurations are the different combinations of i and j. Each race \u2013 each FULL iteration of the inner loop \u2013 sees the car fall off less times than it did previously (meaning the inner loop size shrinks), mostly thanks to the window size growing and returning a better answer. In the final inner loop \u2013 the final race \u2013 there is only one start - one iteration - meaning the car was never thrown off the track, and you now know what it takes to tackle the racetrack.</p>", 
+      "anon": "no", 
+      "created": "2017-09-21T19:08:15Z", 
+      "uid": "hvil6y6khgk2ri", 
+      "subject": "How I Think of CMM"
+    }, 
+    {
+      "content": "<p>I was in the Boy Scouts as a kid. One event which was always fun was the pinewood derby, and one year, I observed an event I will never forget: one boy, who obviously had no help, placed his car at the starting line. Once the cars were released, his almost instantly lost a wheel and was self-ejected from the track.</p>\n<p>In trying to come to grips with CMM, I have come to see it as the pinewood derby racer.</p>\n<p>In the beginning of the race, the pinewood derby racer only uses two (or a few) wheels, but he does not realize that the racetrack is unforgiving: almost immediately, the track overpowers a wheel, causing the wheel to fall off and the car to be thrown off the track. The valiant pinewood derby racer, humiliated but determined, puts the wheel back on the car and puts the car back on the track, but it keeps falling off. He loses the race.<br /> <br /> In the next race, he puts one more wheel on the car in the beginning, and this helps. The wheels still fall off and the car still falls off the track. Not to be beaten, he picks the car back up, fixes the wheel, and resumes from where it had left. After each fall, he puts the wheel in a slightly different configuration in an attempt to find a better setup. He loses, but he takes comfort in the fact that the car lasted slightly longer this time.</p>\n<p>In subsequent races, he keeps adding one more wheel and the car stays on a bit longer (and every time a wheel falls off, he tries placing it in a slightly different spot); finally, in the last race of the year, the track is unable to unseat enough wheels and the car sails across the finish line.</p>\n<p>\u00a0</p>\n<p>The story of the pinewood derby racer is the story of CMM: the wheels are the window size, and the different wheel configurations are the different combinations of i and j. Each race \u2013 each FULL iteration of the inner loop \u2013 sees the car fall off less times than it did previously (meaning the inner loop size shrinks), mostly thanks to the window size growing and returning a better answer. In the final inner loop \u2013 the final race \u2013 there is only one start - one iteration - meaning the car was never thrown off the track, and you now know what it takes to tackle the racetrack.<br /> <br /><br /></p>", 
+      "anon": "no", 
+      "created": "2017-09-21T19:07:55Z", 
+      "uid": "hvil6y6khgk2ri", 
+      "subject": "How I Think of CMM"
+    }
+  ]
+}

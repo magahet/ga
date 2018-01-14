@@ -1,0 +1,190 @@
+{
+  "status": "active", 
+  "unique_views": 163, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-08-29T04:10:22Z", 
+      "data": "j6x2r5yxd0m1t5", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "uid": "ijbr5ddtwyt6pa", 
+      "type": "s_answer", 
+      "when": "2017-08-29T04:49:25Z", 
+      "to": "j6x2r5yvhuj1t4", 
+      "anon": "no", 
+      "data": "j6x45e54frt3fi"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-08-29T04:49:59Z", 
+      "data": "j6x4646m8en3n2", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "uid": "gy4twfv45cg5o6", 
+      "type": "i_answer", 
+      "when": "2017-08-29T12:15:15Z", 
+      "to": "j6x2r5yvhuj1t4", 
+      "anon": "no", 
+      "data": "j6xk2qdwgch420"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j6x2r5yvhuj1t4", 
+  "bookmarked": 4, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-08-29T04:49:25Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j6x45e51mtd3fh", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>From the same office hours (~1:05:28) TA Jeremy said it was ok to use words, so I am going to assume that it will be accepted (though apparently min, max, and things like that are encouraged).</p>\n<p></p>\n<p>Not sure if the TA&#39;s or professors have any more input</p>", 
+          "anon": "no", 
+          "created": "2017-08-29T04:49:59Z", 
+          "uid": "ijbr5ddtwyt6pa", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>From the same office hours (~1:25:28) TA Jeremy said it was ok to use words, so I am going to assume that it will be accepted (though apparently min, max, and things like that are encouraged).</p>\n<p></p>\n<p>Not sure if the TA&#39;s or professors have any more input</p>", 
+          "anon": "no", 
+          "created": "2017-08-29T04:49:25Z", 
+          "uid": "ijbr5ddtwyt6pa", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-08-29T12:15:15Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "ijbr5ddtwyt6pa", 
+        "i4j6x8uvfv6743", 
+        "hz03lfq2z6r446", 
+        "i4j6wvmu7he6v1", 
+        "iej41k6jtiz3dc"
+      ], 
+      "id": "j6xk2qdvk7841z", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Jason Buoni", 
+          "admin": false, 
+          "photo": "1463440659_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "ijbr5ddtwyt6pa"
+        }, 
+        {
+          "name": "Eddie Spencer", 
+          "admin": false, 
+          "photo": "1432002672_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i4j6x8uvfv6743"
+        }, 
+        {
+          "name": "Balaji Sundaresan", 
+          "admin": false, 
+          "photo": null, 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hz03lfq2z6r446"
+        }, 
+        {
+          "name": "Laremy Rowe", 
+          "admin": false, 
+          "photo": "1431835684_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i4j6wvmu7he6v1"
+        }, 
+        {
+          "name": "Grady Johnson", 
+          "admin": false, 
+          "photo": null, 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "iej41k6jtiz3dc"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p></p>\n<p>Absolutely, all of the above are good. \u00a0Words are good, you can just write a big OR or AND or min over j and say in words which j you consider. \u00a0--Eric</p>", 
+          "anon": "no", 
+          "created": "2017-08-29T12:15:15Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 107, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "dynamic_programming"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 4, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "dynamic_programming", 
+    "student"
+  ], 
+  "created": "2017-08-29T04:10:22Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145303210, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>I am noticing a mix of how recurrences are defined. For example,\u00a0the pdf has the recurrence for 6.4 as</p>\n<p></p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/ijbr5ddtwyt6pa/j6x2q2zxi3ah/first.png\" alt=\"\" /></p>\n<p></p>\n<p>But in the office hours we were given\u00a0</p>\n<p></p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/ijbr5ddtwyt6pa/j6x2qh72gwei/second.png\" alt=\"\" /></p>\n<p></p>\n<p>Are both solutions acceptable? I.e. if we struggle with some of the mathematical logic terms, can we use words instead and get credit?</p>", 
+      "anon": "no", 
+      "created": "2017-08-29T04:10:22Z", 
+      "uid": "ijbr5ddtwyt6pa", 
+      "subject": "Recurrences: How can we define them? (6.4 spoiler)"
+    }
+  ]
+}

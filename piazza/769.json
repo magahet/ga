@@ -1,0 +1,436 @@
+{
+  "status": "active", 
+  "unique_views": 241, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-20T02:42:35Z", 
+      "data": "j8zaikvtg4e41p", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j8zaikvpn9741o", 
+      "anon": "no", 
+      "when": "2017-10-23T14:11:59Z", 
+      "type": "followup", 
+      "uid": "ijarmqggjkc3gz"
+    }, 
+    {
+      "to": "j8zaikvpn9741o", 
+      "anon": "no", 
+      "when": "2017-10-23T15:08:17Z", 
+      "type": "followup", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j8zaikvpn9741o", 
+      "anon": "no", 
+      "when": "2017-10-23T15:22:18Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j8zaikvpn9741o", 
+      "anon": "no", 
+      "when": "2017-10-23T15:25:50Z", 
+      "type": "feedback", 
+      "uid": "ija2ufzr6l0f7"
+    }, 
+    {
+      "to": "j8zaikvpn9741o", 
+      "anon": "no", 
+      "when": "2017-10-23T15:38:22Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j8zaikvpn9741o", 
+      "anon": "no", 
+      "when": "2017-10-24T06:20:14Z", 
+      "type": "feedback", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "to": "j8zaikvpn9741o", 
+      "anon": "no", 
+      "when": "2017-10-24T11:50:07Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j8zaikvpn9741o", 
+      "anon": "no", 
+      "when": "2017-10-24T14:53:05Z", 
+      "type": "followup", 
+      "uid": "hve4kb0lopy4sl"
+    }, 
+    {
+      "to": "j8zaikvpn9741o", 
+      "anon": "no", 
+      "when": "2017-10-24T15:05:32Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j8zaikvpn9741o", 
+      "anon": "no", 
+      "when": "2017-10-24T15:07:17Z", 
+      "type": "feedback", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "to": "j8zaikvpn9741o", 
+      "anon": "no", 
+      "when": "2017-10-24T15:07:58Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j8zaikvpn9741o", 
+      "anon": "no", 
+      "when": "2017-10-24T15:08:43Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j8zaikvpn9741o", 
+      "anon": "no", 
+      "when": "2017-10-24T15:16:22Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j8zaikvpn9741o", 
+      "anon": "no", 
+      "when": "2017-10-24T15:16:46Z", 
+      "type": "feedback", 
+      "uid": "hve4kb0lopy4sl"
+    }, 
+    {
+      "to": "j8zaikvpn9741o", 
+      "anon": "no", 
+      "when": "2017-10-24T15:17:53Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8zaikvpn9741o", 
+  "bookmarked": 9, 
+  "tags": [
+    "exam", 
+    "instructor-note", 
+    "pin"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-10-23T14:11:59Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "ijarmqggjkc3gz", 
+      "created": "2017-10-23T14:11:59Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j949gpf397077h", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-23T15:25:50Z", 
+          "uid": "ija2ufzr6l0f7", 
+          "created": "2017-10-23T15:25:50Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j94c3nztvd14tw", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Great, I was really busy in interviewing recently.\u00a0Hopefully I can survive this course.</p>"
+        }
+      ], 
+      "subject": "<p>Everyone OK?\u00a0 Much less Monday morning chatter this time.... like a peaceful post apocalyptic silence.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-23T15:08:17Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "hvil6y6khgk2ri", 
+      "created": "2017-10-23T15:08:17Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j94bh3jl9sd3oj", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-23T15:22:18Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-10-23T15:22:18Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j94bz51gvoj5jh", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>We should be good. Embargo is over.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-23T15:38:22Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-10-23T15:38:22Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j94cjseaa2t4sw", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I am about to make my &#39;what did you do wrong&#39; post but just want official word :) already have the pic!<br /><br /><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/hvil6y6khgk2ri/j94cjjrpzl4j/wemessedup.jpg\" alt=\"\" /></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-24T06:20:14Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-10-24T06:20:14Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j9581vriykf1sx", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "shouldn&#39;t it be Midterm part II?\n<img src=\"https://images-na.ssl-images-amazon.com/images/M/MV5BMjE5NzQ3NjY2N15BMl5BanBnXkFtZTcwNDA4NzMyNQ&#64;&#64;._V1_SX1777_CR0,0,1777,999_AL_.jpg\" />\n:-D"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-24T11:50:07Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-10-24T11:50:07Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j95ju4ch3xy5h8", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "lol!"
+        }
+      ], 
+      "subject": "<p>Officially: are we allowed to talk about the test now?</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-24T14:53:05Z", 
+      "no_upvotes": 0, 
+      "uid": "hve4kb0lopy4sl", 
+      "created": "2017-10-24T14:53:05Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j95qdendbht4ww", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-24T15:05:32Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-10-24T15:05:32Z", 
+          "type": "feedback", 
+          "id": "j95qtf3cdqqz0", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Bradley Cooper in The Hangover (movie)</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-24T15:07:16Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-10-24T15:07:16Z", 
+          "type": "feedback", 
+          "id": "j95qvnuu1l73jp", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Very appropriate that it is a trilogy <a href=\"https://en.wikipedia.org/wiki/The_Hangover_%28film_series%29\">https://en.wikipedia.org/wiki/The_Hangover_(film_series)</a>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-24T15:07:58Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-10-24T15:07:58Z", 
+          "type": "feedback", 
+          "id": "j95qwk0nhdd1sn", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>In the beginning of the movie (actually all 3 of them), this guy has to make a call to someone explaining that he and his friends really, really messed up and have to now deal with the consequences. From there the plot unfolds.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-24T15:08:43Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-10-24T15:08:43Z", 
+          "type": "feedback", 
+          "id": "j95qxii8sdn2f4", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>heh mark I never thought of that.\u00a0 Well looks like I gotta find the pic from movie 3 for next exam (although now we need to find something for the final as well :) )</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-24T15:16:22Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-10-24T15:16:22Z", 
+          "type": "feedback", 
+          "id": "j95r7d0rsz94g1", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Use a pic of Chow for the final. The guy is absolutely nuts.\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-24T15:16:46Z", 
+          "uid": "hve4kb0lopy4sl", 
+          "created": "2017-10-24T15:16:46Z", 
+          "type": "feedback", 
+          "id": "j95r7vdss2t16v", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thanks, now I get it...I&#39;ll keep an eye out for these movies but certainly won&#39;t have time to watch until after this class is over..lol</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-24T15:17:53Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-10-24T15:17:53Z", 
+          "type": "feedback", 
+          "id": "j95r9ano7mb5t5", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I love that guy Chow!<br /><br />The first and second ones are fantastic, Dimitri.\u00a0 The third one is OK too but not as good.\u00a0 Anyhoo, great movies to watch, slightly twisted sense of humor required :)</p>"
+        }
+      ], 
+      "subject": "<p>ok, I&#39;ll bite...who is this guy?</p>"
+    }
+  ], 
+  "nr": 769, 
+  "bucket_order": 0, 
+  "type": "note", 
+  "folders": [
+    "exam"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Pinned", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-10-20T02:42:35Z", 
+  "is_tag_good": false, 
+  "config": {
+    "is_announcement": 1
+  }, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145114597, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "Reminder, let&#39;s close up Piazza, no more public posts, during the exam.  The exam opens at 8am on Friday (tomorrow) and you need to complete it by 8am EST on Monday (but don&#39;t wait till the last minute in case you have system issues).  If you need to contact us then make a **Private** post on Piazza.  If you have any issues with Proctortrack you need to contact them.  You can post again on Piazza on Monday at 10am EST. \n\nThe exam template is on TSquare.  The exam has 4 problems and you have 120 minutes to complete it so think about your time during the exam.  \n\nGood luck.  --Eric\n\n#pin", 
+      "anon": "no", 
+      "created": "2017-10-20T02:42:35Z", 
+      "uid": "gy4twfv45cg5o6", 
+      "subject": "Closing Piazza for exam"
+    }
+  ]
+}

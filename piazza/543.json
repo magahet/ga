@@ -1,0 +1,273 @@
+{
+  "status": "active", 
+  "unique_views": 204, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-02T21:25:24Z", 
+      "data": "j8aop7cvoga6g2", 
+      "uid": "hyvx0owj4ot1a0"
+    }, 
+    {
+      "uid": "gns9oa0pgsO", 
+      "type": "i_answer", 
+      "when": "2017-10-02T23:02:19Z", 
+      "to": "j8aop7ctuik6g1", 
+      "anon": "no", 
+      "data": "j8as5toip0f1fd"
+    }, 
+    {
+      "to": "j8aop7ctuik6g1", 
+      "anon": "no", 
+      "when": "2017-10-03T06:56:40Z", 
+      "type": "followup", 
+      "uid": "i8597qyse9c1v2"
+    }, 
+    {
+      "to": "j8aop7ctuik6g1", 
+      "anon": "no", 
+      "when": "2017-10-03T07:36:58Z", 
+      "type": "feedback", 
+      "uid": "i8597qyse9c1v2"
+    }, 
+    {
+      "to": "j8aop7ctuik6g1", 
+      "anon": "no", 
+      "when": "2017-10-03T15:22:02Z", 
+      "type": "feedback", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j8aop7ctuik6g1", 
+      "anon": "no", 
+      "when": "2017-10-04T00:37:30Z", 
+      "type": "feedback", 
+      "uid": "hveop63kovn61t"
+    }, 
+    {
+      "to": "j8aop7ctuik6g1", 
+      "anon": "no", 
+      "when": "2017-10-04T01:40:40Z", 
+      "type": "feedback", 
+      "uid": "i8597qyse9c1v2"
+    }, 
+    {
+      "to": "j8aop7ctuik6g1", 
+      "anon": "no", 
+      "when": "2017-10-08T04:56:00Z", 
+      "type": "feedback", 
+      "uid": "idgjs16yZ4K"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8aop7ctuik6g1", 
+  "bookmarked": 6, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-02T23:02:19Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "hyvx0owj4ot1a0", 
+        "hv8z1ryhi6h6mi"
+      ], 
+      "id": "j8as5tod6ob1fc", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Chris Ruegsegger", 
+          "admin": false, 
+          "photo": "1484310630_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hyvx0owj4ot1a0"
+        }, 
+        {
+          "name": "Kimberly Dorn", 
+          "admin": false, 
+          "photo": null, 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hv8z1ryhi6h6mi"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>m is the amount of data you are putting in the bloom filter.\u00a0 n needs to be replaced by next largest prime &gt;= n.</p>", 
+          "anon": "no", 
+          "created": "2017-10-02T23:02:19Z", 
+          "uid": "gns9oa0pgsO", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-03T06:56:40Z", 
+      "no_upvotes": 0, 
+      "uid": "i8597qyse9c1v2", 
+      "created": "2017-10-03T06:56:40Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8b93uewq8317s", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-03T07:36:58Z", 
+          "uid": "i8597qyse9c1v2", 
+          "created": "2017-10-03T07:36:58Z", 
+          "type": "feedback", 
+          "id": "j8bajojlw8q6bv", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Actually, I take this back. I think that we would have a completely random set for the training of the filter, and then another completely random set (independent of the first) for the testing.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-03T15:22:02Z", 
+          "uid": "gns9oa0pgsO", 
+          "created": "2017-10-03T15:22:02Z", 
+          "type": "feedback", 
+          "id": "j8br5rb0yqs1tr", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>not completely independent of the first - you want an &#34;inserted&#34; dataset of unique values and a &#34;withheld&#34; dataset of unique values.\u00a0 you need to know for certain which data was added and which data was withheld.\u00a0 otherwise duplicates in each dataset could muddy your results.</p>\n<p></p>\n<p>you are welcome to use the provided dataset for this purpose.\u00a0 also, for task 1 you need to use a correlated dataset to compare your hash functions to.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-04T00:37:30Z", 
+          "uid": "hveop63kovn61t", 
+          "created": "2017-10-04T00:37:30Z", 
+          "type": "feedback", 
+          "id": "j8cb02w22ne4qv", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>John,</p>\n<p></p>\n<p>If I understand correctly we can reuse the behavior from task 2 to check our false positive rate, assuming we are using\u00a0testInput.txt and the default m value is this correct?</p>\n<p></p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-04T01:40:40Z", 
+          "uid": "i8597qyse9c1v2", 
+          "created": "2017-10-04T01:40:40Z", 
+          "type": "feedback", 
+          "id": "j8cd9bb0dg57cc", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>John, I know for certain which data was added and which wasn&#39;t. Because I have both datasets (training and testing) as well as the filter (which behaves like a predictor), I can just look into the training dataset, and compare that against the response from the filter. From this, I gather TP, TN, FP, and FN, just like a learning a problem. TP happens to be very small, that is, for a large N, the random selection makes it unlikely I have overlapping\u00a0items (but they don&#39;t matter), TN is large, FP matches the theoretical\u00a0results extremely well, and FN is zero (as expected). This worked out well for me.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-08T04:56:00Z", 
+          "uid": "idgjs16yZ4K", 
+          "created": "2017-10-08T04:56:00Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j8i9zxlkba5jq", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "(nevermind)"
+        }
+      ], 
+      "subject": "<p>I looked through the forum and I did not find an answer to this. It seems reasonable to me to create our own datasets for task 3 (and task 1 for this matter). Now on task 3, when computing the false positive rate, should we compare that to a validation set with something like 50% of the data belonging to the original dataset that filter was built on, and 50% of data composed of data the filter did not see? Is this reasonable?</p>"
+    }
+  ], 
+  "nr": 543, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "project"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 4, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "project", 
+    "student"
+  ], 
+  "created": "2017-10-02T21:25:24Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145192403, 
+  "tag_good": [
+    {
+      "name": "Kimberly Dorn", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hv8z1ryhi6h6mi"
+    }
+  ], 
+  "tag_good_arr": [
+    "hv8z1ryhi6h6mi"
+  ], 
+  "history": [
+    {
+      "content": "<p>I understand that we&#39;re varying the variables c and k.\u00a0 Then we use c for the calculation of\u00a0n = cm.\u00a0\u00a0Do we set\u00a0m = 100000 and then we&#39;re just calculating n?\u00a0 If we are calculating n, does n need to be replaced with the next largest prime &gt;= n?</p>", 
+      "anon": "no", 
+      "created": "2017-10-02T21:25:24Z", 
+      "uid": "hyvx0owj4ot1a0", 
+      "subject": "Task 3 - c k m n"
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "status": "active", 
+  "unique_views": 152, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-02T13:52:53Z", 
+      "data": "j73dbpa6h1e2g", 
+      "uid": "hz0pn3deX7A"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-02T13:53:08Z", 
+      "data": "j73dc0klaqmhk", 
+      "uid": "hz0pn3deX7A"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-02T13:53:36Z", 
+      "data": "j73dcmihfp8rv", 
+      "uid": "hz0pn3deX7A"
+    }, 
+    {
+      "to": "j73dbpa5qto2f", 
+      "anon": "no", 
+      "when": "2017-09-02T13:58:50Z", 
+      "type": "followup", 
+      "uid": "ijarmqggjkc3gz"
+    }, 
+    {
+      "uid": "isgwdf47kb42f", 
+      "type": "i_answer", 
+      "when": "2017-09-02T14:19:50Z", 
+      "to": "j73dbpa5qto2f", 
+      "anon": "no", 
+      "data": "j73eacxwn9l5wn"
+    }, 
+    {
+      "to": "j73dbpa5qto2f", 
+      "anon": "no", 
+      "when": "2017-09-02T16:37:05Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j73dbpa5qto2f", 
+      "anon": "no", 
+      "when": "2017-09-02T20:22:51Z", 
+      "type": "feedback", 
+      "uid": "hz0pn3deX7A"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j73dbpa5qto2f", 
+  "bookmarked": 3, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-09-02T13:58:50Z", 
+      "no_upvotes": 0, 
+      "uid": "ijarmqggjkc3gz", 
+      "created": "2017-09-02T13:58:50Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j73djcjv7d81si", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-02T16:37:05Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-09-02T16:37:05Z", 
+          "type": "feedback", 
+          "id": "j73j6vanqof7bc", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p></p>\n<p>As Michael pointed out the while loop over \\ell is not getting restarted, \\ell simply increases. \u00a0That is why the for loop with the nested while loop is a total of O(n) time.</p>\n<p></p>\n<p>I&#39;m not expecting solutions like this (with any sort of pre-processing) for the homework or exam problems; this is just included in the solutions as a side note.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-02T20:22:51Z", 
+          "uid": "hz0pn3deX7A", 
+          "created": "2017-09-02T20:22:51Z", 
+          "type": "feedback", 
+          "id": "j73r972bn0k5yp", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thanks for the\u00a0explanation.</p>"
+        }
+      ], 
+      "subject": "I don&#39;t thing you&#39;re missing anything.\u00a0"
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-02T14:19:50Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j73eacxtuhd5wm", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>Note that l=0 is outside of both loops, so the incremented value of l persists between iterations of the for loop. I think the first part of the conditional of the while statement (with the j typo) can be dropped.</p>\n<p></p>\n<p>The for loop with the while loop inside is filling out our last(\u00b7) array which should just take O(n) time as the persistent l iterator means that the while loop should only be taking constant time.</p>", 
+          "anon": "no", 
+          "created": "2017-09-02T14:19:50Z", 
+          "uid": "isgwdf47kb42f", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 150, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "dynamic_programming", 
+    "dp-solutions"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 2, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "dp-solutions", 
+    "dynamic_programming", 
+    "student"
+  ], 
+  "created": "2017-09-02T13:52:53Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145290359, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>My question is regarding the total run time of Algorithm 5 FasterYuckDonalds (from DPV-DP-6.1-6.4.pdf) as written. Keep in mind that there is a typo in the solution, see (&#64;85). I believe the calculation of last(i) takes O(n^2) run time giving the algorithm a total run time of O(n^2).</p>\n<p></p>\n<p>I believe this is so since the for loop goes from i=1 to i=n [giving the for loop O(n) run time] and the while loop goes from l=0 to l=i-1. Since the while loop goes to i-1 and i is at worst n this gives the while loop O(n) run time.</p>\n<p></p>\n<p>Or am I missing something and it is O(n) total run time?</p>", 
+      "anon": "no", 
+      "created": "2017-09-02T13:53:36Z", 
+      "uid": "hz0pn3deX7A", 
+      "subject": "6.3 YuckDonald&#39;s - Algorithm 5 FasterYuckDonalds Solution in DPV-DP-6.1-6.4.pdf"
+    }, 
+    {
+      "content": "<p>My question is regarding the total run time of Algorithm 5 FasterYuckDonalds (from DPV-DP-6.1-6.4.pdf) as written. Keep in mind that there is a typo in the solution, see (&#64;85). I believe the calculation of last(i) takes O(n^2) run time giving the algorithm a total run time of O(n^2).</p>\n<p></p>\n<p>I believe this is so since the for loop goes from i=1 to i=n [giving the for loop O(n) run time] and the while loop goes from l=0 to l=i-1. Since the while loop goes to i-1 and i is at worst n this gives the while loop O(n) run time.</p>\n<p></p>\n<p>Or am I missing something and it is O(n) total run time?</p>", 
+      "anon": "no", 
+      "created": "2017-09-02T13:53:08Z", 
+      "uid": "hz0pn3deX7A", 
+      "subject": ".3 YuckDonald&#39;s - Algorithm 5 FasterYuckDonalds Solution in DPV-DP-6.1-6.4.pdf"
+    }, 
+    {
+      "content": "<p>My question is regarding the total run time of Algorithm 5 FasterYuckDonalds (from DPV-DP-6.1-6.4.pdf) as written. Keep in mind that there is a typo in the solution, see (&#64;85). I believe the calculation of last(i) takes O(n^2) run time giving the algorithm a total run time of O(n^2).</p>\n<p></p>\n<p></p>\n<p>I believe this is so since the for loop goes from i=1 to i=n [giving the for loop O(n) run time] and the while loop goes from l=0 to l=i-1. Since the while loop goes to i-1 and i is at worst n this gives the while loop O(n) run time.</p>\n<p></p>\n<p>Or am I missing something and it is O(n) total run time?</p>", 
+      "anon": "no", 
+      "created": "2017-09-02T13:52:53Z", 
+      "uid": "hz0pn3deX7A", 
+      "subject": ".3 YuckDonald&#39;s - Algorithm 5 FasterYuckDonalds Solution in DPV-DP-6.1-6.4.pdf"
+    }
+  ]
+}

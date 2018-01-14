@@ -1,0 +1,472 @@
+{
+  "status": "active", 
+  "unique_views": 244, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-08-22T06:04:29Z", 
+      "data": "j6n6qynd42567u", 
+      "uid": "i4t8eakz3ex6lk"
+    }, 
+    {
+      "to": "j6n6qyn5t1j67t", 
+      "anon": "no", 
+      "when": "2017-08-22T07:00:46Z", 
+      "type": "followup", 
+      "uid": "i4mub6lmaxh"
+    }, 
+    {
+      "to": "j6n6qyn5t1j67t", 
+      "anon": "no", 
+      "when": "2017-08-22T08:26:20Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "uid": "hju4w9odatf30", 
+      "type": "i_answer", 
+      "when": "2017-08-22T08:40:04Z", 
+      "to": "j6n6qyn5t1j67t", 
+      "anon": "no", 
+      "data": "j6ncb1oamho4zv"
+    }, 
+    {
+      "to": "j6n6qyn5t1j67t", 
+      "anon": "no", 
+      "when": "2017-08-22T09:44:32Z", 
+      "type": "feedback", 
+      "uid": "i4mub6lmaxh"
+    }, 
+    {
+      "to": "j6n6qyn5t1j67t", 
+      "anon": "no", 
+      "when": "2017-08-22T11:18:10Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j6n6qyn5t1j67t", 
+      "anon": "no", 
+      "when": "2017-08-22T16:06:18Z", 
+      "type": "followup", 
+      "uid": "ij7kfkx61zz365"
+    }, 
+    {
+      "to": "j6n6qyn5t1j67t", 
+      "anon": "no", 
+      "when": "2017-08-22T17:17:44Z", 
+      "type": "feedback", 
+      "uid": "hju4w9odatf30"
+    }, 
+    {
+      "to": "j6n6qyn5t1j67t", 
+      "anon": "no", 
+      "when": "2017-08-22T17:28:55Z", 
+      "type": "feedback", 
+      "uid": "idgauptz2ou3po"
+    }, 
+    {
+      "type": "i_answer_update", 
+      "anon": "no", 
+      "when": "2017-08-22T18:31:31Z", 
+      "data": "j6nxfnh52ei5fm", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j6n6qyn5t1j67t", 
+      "anon": "no", 
+      "when": "2017-08-22T18:34:44Z", 
+      "type": "feedback", 
+      "uid": "ij7kfkx61zz365"
+    }, 
+    {
+      "to": "j6n6qyn5t1j67t", 
+      "anon": "no", 
+      "when": "2017-08-23T01:47:04Z", 
+      "type": "followup", 
+      "uid": "hqa65fnalg83fr"
+    }, 
+    {
+      "to": "j6n6qyn5t1j67t", 
+      "anon": "no", 
+      "when": "2017-08-23T21:22:48Z", 
+      "type": "followup", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j6n6qyn5t1j67t", 
+      "anon": "no", 
+      "when": "2017-08-23T21:28:54Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j6n6qyn5t1j67t", 
+      "anon": "no", 
+      "when": "2017-08-26T16:26:57Z", 
+      "type": "feedback", 
+      "uid": "hvvxmpxfuyb2eo"
+    }, 
+    {
+      "to": "j6n6qyn5t1j67t", 
+      "anon": "no", 
+      "when": "2017-09-04T20:27:09Z", 
+      "type": "feedback", 
+      "uid": "i4j6wygy4l46wq"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j6n6qyn5t1j67t", 
+  "bookmarked": 11, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-08-22T07:00:46Z", 
+      "no_upvotes": 0, 
+      "uid": "i4mub6lmaxh", 
+      "created": "2017-08-22T07:00:46Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6n8rcd0nw645q", 
+      "anon": "no", 
+      "bucket_name": "Week 8/20 - 8/26", 
+      "config": {}, 
+      "bucket_order": 7, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-08-22T08:26:20Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-08-22T08:26:20Z", 
+          "type": "feedback", 
+          "id": "j6nbtdoeq5e70k", 
+          "anon": "no", 
+          "bucket_name": "Week 8/20 - 8/26", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Ah I think I see; so the above uses a global hash table and additional &#39;if&#39; statements to see if the result is in the hash,  effectively bypassing the redundant recursion; this is memoisation. Is this your understanding (slightly restated)?\n\nThanks, \nBrent"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-22T09:44:32Z", 
+          "uid": "i4mub6lmaxh", 
+          "created": "2017-08-22T09:44:32Z", 
+          "type": "feedback", 
+          "id": "j6nelyaonc4n2", 
+          "anon": "no", 
+          "bucket_name": "Week 8/20 - 8/26", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Yeah, that&#39;s it. If we already computed the result then get it from the dictionary (hash table).</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-22T11:18:10Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-08-22T11:18:10Z", 
+          "type": "feedback", 
+          "id": "j6nhyd5jmcx5i7", 
+          "anon": "no", 
+          "bucket_name": "Week 8/20 - 8/26", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Thanks,  and thanks for the wonderful explanation!"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-26T16:26:57Z", 
+          "uid": "hvvxmpxfuyb2eo", 
+          "created": "2017-08-26T16:26:57Z", 
+          "type": "feedback", 
+          "id": "j6tiqv9pk5f1pd", 
+          "anon": "no", 
+          "bucket_name": "Week 8/20 - 8/26", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thank you!</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-04T20:27:09Z", 
+          "uid": "i4j6wygy4l46wq", 
+          "created": "2017-09-04T20:27:09Z", 
+          "type": "feedback", 
+          "id": "j76mafrj7kxdo", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Agreed. \u00a0&#43;1 to Pico</p>"
+        }
+      ], 
+      "subject": "<p>I guess the difference is that for dynamic programming we have to redesign our algorithm to only calculate each value once but with Memoization we just add a cache of computed values.</p>\n<p>Here&#39;s a small python fib function with memoization added:</p>\n<p></p>\n<pre>mem = {}<br />def fib(n):\n    if args.mem:\n        if n in mem:\n            return mem[n]\n    if n &lt;2:<br />        return n;<br />    val = fib(n-1) &#43; fib(n-2)<br />    mem[n] = val<br />    return val</pre>\n<p>This article seems useful : <a href=\"http://programming.guide/dynamic-programming-vs-memoization-vs-tabulation.html\">http://programming.guide/dynamic-programming-vs-memoization-vs-tabulation.html</a></p>\n<p>Dynamic programming should be faster because you don&#39;t have so many hits on the cache but I guess from an algorithmic view point it&#39;s only faster by as constant factor.</p>"
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-08-22T08:40:04Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "i4kd2g0n8rw3f6", 
+        "i4t8eakz3ex6lk"
+      ], 
+      "id": "j6ncb1o633z4zu", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Rishikesh Kulkarni", 
+          "admin": false, 
+          "photo": "1422222032_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i4kd2g0n8rw3f6"
+        }, 
+        {
+          "name": "abarysevich", 
+          "admin": false, 
+          "photo": null, 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i4t8eakz3ex6lk"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>The link in the followup below\u00a0explains it well.</p>\n<p>Here is another link that might be useful:\u00a0<a href=\"https://stackoverflow.com/questions/6184869/what-is-the-difference-between-memoization-and-dynamic-programming\">https://stackoverflow.com/questions/6184869/what-is-the-difference-between-memoization-and-dynamic-programming</a>\u00a0(check out the first answer here).</p>\n<p></p>\n<p>The main point is that memoisation uses recursion in the algorithm with a table to check if that</p>\n<p>subproblem was already solved or not. \u00a0In DP, there is no recursion in the actual algorithm.</p>\n<p></p>", 
+          "anon": "no", 
+          "created": "2017-08-22T18:31:31Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>The link in the followup below\u00a0explains it well.</p>\n<p>Here is another link that might be useful:\u00a0<a href=\"https://stackoverflow.com/questions/6184869/what-is-the-difference-between-memoization-and-dynamic-programming\">https://stackoverflow.com/questions/6184869/what-is-the-difference-between-memoization-and-dynamic-programming</a>\u00a0(check out the first answer here).</p>", 
+          "anon": "no", 
+          "created": "2017-08-22T08:40:04Z", 
+          "uid": "hju4w9odatf30", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-22T16:06:18Z", 
+      "no_upvotes": 0, 
+      "uid": "ij7kfkx61zz365", 
+      "created": "2017-08-22T16:06:18Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6ns8wgzl591ak", 
+      "anon": "no", 
+      "bucket_name": "Week 8/20 - 8/26", 
+      "config": {}, 
+      "bucket_order": 7, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-08-22T17:17:44Z", 
+          "uid": "hju4w9odatf30", 
+          "created": "2017-08-22T17:17:44Z", 
+          "type": "feedback", 
+          "id": "j6nusrciodo624", 
+          "anon": "no", 
+          "bucket_name": "Week 8/20 - 8/26", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#34;Is this type of function, intended for being used multiple times by the same program, also considered DP?&#34;</p>\n<p>It\u00a0would still be Dynamic Programming. because for a\u00a0n: the fib(n) was computed by solving the problem in a bottom-up fashion, i.e. fib(n) was computed by solving the smaller subproblems (here, smaller n) and using them to solve the larger problems (here, bigger n).</p>\n<p></p>\n<p>And yes, you are right, In Memoization: you solve the problem in a top-down fashion\u00a0and you end up solving sub-problems that are only needed.</p>\n<p></p>\n<p>Hope this clarifies your questions. Thanks!</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-22T17:28:55Z", 
+          "uid": "idgauptz2ou3po", 
+          "created": "2017-08-22T17:28:55Z", 
+          "type": "feedback", 
+          "id": "j6nv75dfv7u5j7", 
+          "anon": "no", 
+          "bucket_name": "Week 8/20 - 8/26", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "My impression is that they are both DP but use a different method of storing subproblem results.\u00a0<div>With memoization you will more likely build a recursive solution with the memos serving to backstop how deep your recursive function has to go when solving a subproblem previously encountered.</div><div>With the table approach you will construct the solution to all subproblems before you can solve the final problem you are interested in.\u00a0</div><div>So, for this unit, we are not supposed to do memoization since that relies on a recursion technique we should already be comfortable with. \u00a0</div><div><br /></div>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-22T18:34:44Z", 
+          "uid": "ij7kfkx61zz365", 
+          "created": "2017-08-22T18:34:44Z", 
+          "type": "feedback", 
+          "id": "j6nxjs9mvm57a8", 
+          "anon": "no", 
+          "bucket_name": "Week 8/20 - 8/26", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thanks, Murali and Eric!\u00a0</p>"
+        }
+      ], 
+      "subject": "<p>Say for fib method, you could be saving the two previous results (fib(n-1) and fib(n-2) in variables like one_back and two_back as you proceed up iteratively for low n to the n you&#39;re looking for. I&#39;m clear that that would be DP.</p>\n<p></p>\n<p>But what if instead of storing results\u00a0in only two variables, you store them in a python list, so you end with an O(n) list filled in iteratively from smallest n up to the n you&#39;re looking for. In python if you pass a list as a param, the list still exists afterwards. Now if you call fib a second time, you will either instantly have the answer by looking n up in the list, or you start calculating using the last two entries in the list and going up to the new n from there (saving in list as you go). Is this type of function, intended for being used multiple times by the same program, also considered DP?</p>\n<p></p>\n<p>I think it is considered DP, but just want to be clear.<br />My understanding is that memoization you don&#39;t solve all the subproblems, which is why you use a hash table. Also you start with the high n and go down to low.<br /><br />Can someone confirm my understanding? Thanks!</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-23T01:47:04Z", 
+      "no_upvotes": 0, 
+      "uid": "hqa65fnalg83fr", 
+      "created": "2017-08-23T01:47:04Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6oczrupgzl63m", 
+      "anon": "no", 
+      "bucket_name": "Week 8/20 - 8/26", 
+      "config": {}, 
+      "bucket_order": 7, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>I&#39;m thinking that sometimes its easy to express an algorithm as recursive. And a quick and dirty optimization can be to use Memoization. Then you can use the memoized version to verify that your DP version is working correctly. Since DP would require a significant reformulation in most cases.</p>\n<p></p>\n<p>Which also means it would be prone to introduce bugs.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-23T21:22:48Z", 
+      "no_upvotes": 0, 
+      "uid": "hq8hn0qyfuvyr", 
+      "created": "2017-08-23T21:22:48Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6pizrknle66au", 
+      "anon": "no", 
+      "bucket_name": "Week 8/20 - 8/26", 
+      "config": {}, 
+      "bucket_order": 7, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-08-23T21:28:54Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-08-23T21:28:54Z", 
+          "type": "feedback", 
+          "id": "j6pj7mivwhq6cr", 
+          "anon": "no", 
+          "bucket_name": "Week 8/20 - 8/26", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>This is true. Memoization will be more performant for certain problems. It is just another tool that we can use in real life.</p>"
+        }
+      ], 
+      "subject": "I have a comment about performance. Clearly the non-memoization method for something like Fib will be faster. But I can imagine, I think, situations where memoization would be faster. For instance, if not every subproblem needs to be solved and there&#39;s no easy way to understand which subproblems must be solved apart from exploring the universe of subproblems by recursively solving the main problem."
+    }
+  ], 
+  "nr": 24, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "dynamic_programming"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 6, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "dynamic_programming", 
+    "student"
+  ], 
+  "created": "2017-08-22T06:04:29Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145332367, 
+  "tag_good": [
+    {
+      "name": "Nick Ramirez", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hv8z1sxi8u36nb"
+    }, 
+    {
+      "name": "abarysevich", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4t8eakz3ex6lk"
+    }
+  ], 
+  "tag_good_arr": [
+    "hv8z1sxi8u36nb", 
+    "i4t8eakz3ex6lk"
+  ], 
+  "history": [
+    {
+      "content": "<p>As lecture <strong>FIB2:Recap</strong> states we do not use recursion and do not want to apply <strong>Memoisation</strong> approach. As far as I understand <strong>Memoisation</strong> is an approach when base operations results are preserved in some kind of a table in order not to recompute them every time when they are needed. However even in the Fibonacci example I can clearly see that the result for every number is saved in some kind of a temp memory. Please help me to understand this.</p>", 
+      "anon": "no", 
+      "created": "2017-08-22T06:04:29Z", 
+      "uid": "i4t8eakz3ex6lk", 
+      "subject": "Memoisation approach."
+    }
+  ]
+}

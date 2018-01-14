@@ -1,0 +1,103 @@
+{
+  "status": "active", 
+  "unique_views": 123, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-09T00:23:20Z", 
+      "data": "j7ckhklcsjk133", 
+      "uid": "ij7cuo4hbht346"
+    }, 
+    {
+      "uid": "gy4twfv45cg5o6", 
+      "type": "i_answer", 
+      "when": "2017-09-09T01:23:43Z", 
+      "to": "j7ckhklagkm132", 
+      "anon": "no", 
+      "data": "j7cmn8ey36q6c4"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j7ckhklagkm132", 
+  "bookmarked": 3, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-09T01:23:43Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "ij7cuo4hbht346"
+      ], 
+      "id": "j7cmn8elhzs6c2", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Patrick Ward", 
+          "admin": false, 
+          "photo": "1452510909_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "ij7cuo4hbht346"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p></p>\n<p>Seems so. \u00a0I&#39;ll have to fix it at some point. \u00a0--Eric</p>", 
+          "anon": "no", 
+          "created": "2017-09-09T01:23:43Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 231, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "random_algorithms"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 0, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "random_algorithms", 
+    "student"
+  ], 
+  "created": "2017-09-09T00:23:20Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145267332, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>I was trying to follow along with the derivation of the repeated squaring on the &#34;Dealing with Carmichael #&#39;s&#34;, but the calculations I&#39;m getting are different from the screencast.\u00a0</p>\n<p></p>\n<p>For example, the video calculates\u00a0$$298^2 \\mod 561 = 140$$, but I get $$298^2 \\mod 561 = 166$$.</p>\n<p></p>\n<p>Similarly, the video says $$140^2 mod 561 = 67$$, but I get $$140^2 mod 561 = 526$$.\u00a0</p>\n<p></p>\n<p>However, when I use $$166$$ derived from the $$298^2$$ I get $$166^2 \\mod 561 = 67$$, which would bring us to the correct last step.\u00a0</p>\n<p></p>\n<p>So, should the\u00a0$$140$$ in the third step should be $$166$$?\u00a0</p>\n<p></p>", 
+      "anon": "no", 
+      "created": "2017-09-09T00:23:20Z", 
+      "uid": "ij7cuo4hbht346", 
+      "subject": "Calculations in Addendum: Pseudoprimes"
+    }
+  ]
+}

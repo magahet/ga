@@ -1,0 +1,56 @@
+{
+  "status": "active", 
+  "unique_views": 131, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-09T21:19:55Z", 
+      "data": "j8kol3vcy155aw", 
+      "uid": "hyvx0owj4ot1a0"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8kol3v7dby5av", 
+  "bookmarked": 2, 
+  "tags": [
+    "graph_algorithms", 
+    "student"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [], 
+  "nr": 685, 
+  "bucket_order": 2, 
+  "type": "note", 
+  "folders": [
+    "graph_algorithms"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-10-09T21:19:55Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145158699, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>Might just be me, but I am finding it really hard to\u00a0tell the difference between the green and gray edges in the graph.</p>", 
+      "anon": "no", 
+      "created": "2017-10-09T21:19:55Z", 
+      "uid": "hyvx0owj4ot1a0", 
+      "subject": "Errata: GR3.11"
+    }
+  ]
+}

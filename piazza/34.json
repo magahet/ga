@@ -1,0 +1,104 @@
+{
+  "status": "active", 
+  "unique_views": 218, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-08-22T23:14:17Z", 
+      "data": "j6o7jarjxnh2w5", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-08-23T00:23:19Z", 
+      "data": "j6oa02ks2eu4qa", 
+      "uid": "i1v7fed8sw85di"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j6o7jarf8052w4", 
+  "bookmarked": 2, 
+  "tags": [
+    "course", 
+    "logistics", 
+    "student"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [], 
+  "nr": 34, 
+  "bucket_order": 2, 
+  "type": "note", 
+  "folders": [
+    "logistics", 
+    "course"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 2, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-08-22T23:14:17Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145328206, 
+  "tag_good": [
+    {
+      "name": "Xinyu Wang", 
+      "admin": true, 
+      "photo": null, 
+      "us": false, 
+      "role": "ta", 
+      "facebook_id": null, 
+      "id": "ijaqo3bm4133g3"
+    }, 
+    {
+      "name": "Samantha Campo", 
+      "admin": false, 
+      "photo": "1452452625_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "ij7kfkx61zz365"
+    }, 
+    {
+      "name": "Brandon Richards", 
+      "admin": false, 
+      "photo": "1408392221_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hvfeyx7qglF"
+    }
+  ], 
+  "tag_good_arr": [
+    "ijaqo3bm4133g3", 
+    "ij7kfkx61zz365", 
+    "hvfeyx7qglF"
+  ], 
+  "history": [
+    {
+      "content": "<p>Hi All,</p>\n<p></p>\n<p>If you click on the notes in <a href=\"https://8803ga.wordpress.com/lecture-schedule/\">https://8803ga.wordpress.com/lecture-schedule/</a> , it will take you to the old CS6505 course.\u00a0 From there its completely possible to use those navigation buttons and unwittingly end up with the CS6505 schedule etc etc.\u00a0 Confused me until I looked at the address bar!</p>", 
+      "anon": "no", 
+      "created": "2017-08-23T00:23:19Z", 
+      "uid": "i1v7fed8sw85di", 
+      "subject": "Clicking On Notes Takes User to CS6505 Class"
+    }, 
+    {
+      "content": "<p>Hi All,</p>\n<p></p>\n<p>If you click on the notes in <a href=\"https://8803ga.wordpress.com/lecture-schedule/\">https://8803ga.wordpress.com/lecture-schedule/</a> , it will take you to the old CS6505 course.\u00a0 From there its completely possible to use those navigation buttons and unwittingly end up with the CS6505 schedule etc etc.\u00a0 Confused me until I looked at the address bar!</p>", 
+      "anon": "no", 
+      "created": "2017-08-22T23:14:17Z", 
+      "uid": "hvil6y6khgk2ri", 
+      "subject": "Clicking On Notes Takes User to CS6505 Class"
+    }
+  ]
+}

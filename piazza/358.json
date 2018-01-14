@@ -1,0 +1,190 @@
+{
+  "status": "active", 
+  "unique_views": 167, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-20T02:38:38Z", 
+      "data": "j7sf5xnfip937t", 
+      "uid": "hz07uekkjnrpb"
+    }, 
+    {
+      "uid": "hq8hn0qyfuvyr", 
+      "type": "s_answer", 
+      "when": "2017-09-20T02:42:39Z", 
+      "to": "j7sf5xndtx737s", 
+      "anon": "no", 
+      "data": "j7sfb3rkdnx6ap"
+    }, 
+    {
+      "to": "j7sf5xndtx737s", 
+      "anon": "no", 
+      "when": "2017-09-20T12:19:28Z", 
+      "type": "followup", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j7sf5xndtx737s", 
+      "anon": "no", 
+      "when": "2017-09-20T12:53:26Z", 
+      "type": "feedback", 
+      "uid": "i4gzn4buf4Q"
+    }, 
+    {
+      "to": "j7sf5xndtx737s", 
+      "anon": "no", 
+      "when": "2017-09-20T13:02:07Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j7sf5xndtx737s", 
+  "bookmarked": 4, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-20T02:42:39Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [
+        "hz07uekkjnrpb"
+      ], 
+      "id": "j7sfb3rfoun6ao", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Chris Anderson", 
+          "admin": false, 
+          "photo": "1408759905_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hz07uekkjnrpb"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>I think they&#39;re equivalent. Someone can replace this answer with a better answer if they&#39;d like to.</p>", 
+          "anon": "no", 
+          "created": "2017-09-20T02:42:39Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-20T12:19:28Z", 
+      "no_upvotes": 0, 
+      "uid": "i4nkipeofrkrz", 
+      "created": "2017-09-20T12:19:28Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7szww34bs318n", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-20T12:53:26Z", 
+          "uid": "i4gzn4buf4Q", 
+          "created": "2017-09-20T12:53:26Z", 
+          "type": "feedback", 
+          "id": "j7t14l5xfmf3rl", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I think about it a bit differently, but get the same result.\u00a0 The goal for an inverse is to get back to $$w^{0}_{16}$$ (which is 1).\u00a0 You are at $$w^{1}_{16}.$$\u00a0 What do you have to do to move in a forward direction (which in $$w$$ world is counter clockwise) to $$w^{16}_{16} == w^{0}_{16}$$ ---\u00a0 I have to move forward 15 slices which gives me $$w^{15}_{16}$$\u00a0 (by adding that angle to what I had, I&#39;m back at 0).\u00a0</p>\n<p></p>\n<p>If we look at this in degrees, $$w^{1}_{16}$$ is $$22.5^{\\circ}$$.\u00a0 If I add $$337.5^{\\circ}$$ to $$22.5^{\\circ}$$ I get $$360^{\\circ}$$ which is $$0^{\\circ}$$.\u00a0\u00a0\u00a0\u00a0 $$337.5^{\\circ} == w^{15}_{16}$$.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-20T13:02:07Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-09-20T13:02:07Z", 
+          "type": "feedback", 
+          "id": "j7t1fqycd7da9", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Nice :)</p>"
+        }
+      ], 
+      "subject": "<p>Your thinking is correct. You basically want to find the inverse of $$w_{16}$$. You do this by going in a clockwise direction: the 1st of the 16th roots of unity is $$w^{15}_{16}$$.</p>\n<p></p>"
+    }
+  ], 
+  "nr": 358, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "exam"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 0, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "exam", 
+    "student"
+  ], 
+  "created": "2017-09-20T02:38:38Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145229563, 
+  "tag_good": [
+    {
+      "name": "Balaji Sundaresan", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hz03lfq2z6r446"
+    }
+  ], 
+  "tag_good_arr": [
+    "hz03lfq2z6r446"
+  ], 
+  "history": [
+    {
+      "content": "<p>So, I&#39;m reviewing for the exam - going back through the lectures/quiz&#39;s and I came upon one question that I must have got right the first time through, but I&#39;m questioning my understanding so I wanted to\u00a0bounce this off the class to make sure I&#39;m going about this problem correctly.</p>\n<p></p>\n<p>(sorry I don&#39;t know latex...)</p>\n<p></p>\n<p><strong>Consider \u03c9<sub>16</sub>. For what power\u00a0k\u00a0is (\u03c9<sub>16</sub>)<sup>-1</sup>\u00a0= \u03c9<sub>16</sub><sup>k</sup>? In other words, for what\u00a0k\u00a0is \u03c9<sub>16</sub>\u00d7(\u03c9<sub>16</sub>)<sup>k</sup>=1?</strong></p>\n<p></p>\n<p>The answer is k=15, and the way I think about this problem is what would we possibly multiply\u00a0\u03c9<sub>16</sub>\u00a0by to get 1 which is\u00a0(\u03c9<sub>16</sub>)0\u00a0, and since these are polar angles we add the angles up... so\u00a0(\u03c9<sub>16</sub>)1 &#43;\u00a0(\u03c9<sub>16</sub>)15\u00a0 =\u00a0(\u03c9<sub>16</sub>)16 which is\u00a0(\u03c9<sub>16</sub>)0.</p>\n<p></p>\n<p>Is my thinking correct on this, or have I over complicated it?</p>\n<p></p>\n<p>Is it better to think of this as the 1st of 16th roots going clockwise is equal to the 15th of 16th roots going in the counter-clockwise direction?</p>\n<p></p>\n<p>Or are these both equivalent ways of looking at the same problem.</p>", 
+      "anon": "no", 
+      "created": "2017-09-20T02:38:38Z", 
+      "uid": "hz07uekkjnrpb", 
+      "subject": "Roots of unity lecture quiz question"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "status": "active", 
+  "unique_views": 177, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-13T15:59:09Z", 
+      "data": "j8q2w01bopn3hp", 
+      "uid": "iebwjhg152x642"
+    }, 
+    {
+      "uid": "hkjzzued3ef4xh", 
+      "type": "i_answer", 
+      "when": "2017-10-13T20:10:45Z", 
+      "to": "j8q2w0155773hn", 
+      "anon": "no", 
+      "data": "j8qbvkafticb7"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8q2w0155773hn", 
+  "bookmarked": 3, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-13T20:10:45Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "hvil6y6khgk2ri", 
+        "iebwjhg152x642", 
+        "i18w67avy8e1uk"
+      ], 
+      "id": "j8qbvkacwsqb6", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Brent Wagenseller", 
+          "admin": false, 
+          "photo": "1408396390_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hvil6y6khgk2ri"
+        }, 
+        {
+          "name": "Hugh Woltzen", 
+          "admin": false, 
+          "photo": null, 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "iebwjhg152x642"
+        }, 
+        {
+          "name": "Shihgian Lee", 
+          "admin": false, 
+          "photo": "1420394909_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i18w67avy8e1uk"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>You will need to justify your algorithm, but not necessary as the proof.</p>\n<p></p>\n<p>As long as\u00a0the logic of your algorithm is clean and easy to follow with a few sentences for justification (telling us why the algorithm works), you should be fine.</p>", 
+          "anon": "no", 
+          "created": "2017-10-13T20:10:45Z", 
+          "uid": "hkjzzued3ef4xh", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 711, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw4", 
+    "hw_solutions4"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 3, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw4", 
+    "hw_solutions4", 
+    "student"
+  ], 
+  "created": "2017-10-13T15:59:09Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145151629, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>I noticed that some of the solutions for HW4 have proofs on them. Thanks for providing these -- they are very helpful.</p>\n<p></p>\n<p>Are these proofs provided to help us understand the solution or are we supposed to be providing proofs along with our algorithms?</p>", 
+      "anon": "no", 
+      "created": "2017-10-13T15:59:09Z", 
+      "uid": "iebwjhg152x642", 
+      "subject": "Proofs on HW4"
+    }
+  ]
+}

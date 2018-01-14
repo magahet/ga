@@ -1,0 +1,130 @@
+{
+  "status": "active", 
+  "unique_views": 26, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-27T21:15:39Z", 
+      "data": "j9aecy91i6u2eh", 
+      "uid": "hqa9hej5ny2gl"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-27T21:17:39Z", 
+      "data": "j9aefj3076541y", 
+      "uid": "hqa9hej5ny2gl"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-27T21:18:41Z", 
+      "data": "j9aeguc3sv44z2", 
+      "uid": "hqa9hej5ny2gl"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-27T21:19:14Z", 
+      "data": "j9aehk8bas55or", 
+      "uid": "hqa9hej5ny2gl"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-27T21:19:39Z", 
+      "data": "j9aei3s9mrk5xo", 
+      "uid": "hqa9hej5ny2gl"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-27T22:19:27Z", 
+      "data": "j9agn01f1064w", 
+      "uid": "hqa9hej5ny2gl"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j9aecy8zjf52eg", 
+  "bookmarked": 3, 
+  "no_answer": 1, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [], 
+  "nr": 852, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw6", 
+    "np"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 0, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw6", 
+    "np", 
+    "student", 
+    "unanswered"
+  ], 
+  "created": "2017-10-27T21:15:39Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145118914, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>First, I think there is some typo in the paragraph below as\u00a0shown in my strike-through, please confirm.</p>\n<p></p>\n<p>Consider an input to the INDEPENDENT SET problem. Denote this input as the graph H = (V;E) and an integer k. Now we&#39;ll construct the input to the SUBGRAPH ISOMORPHISM problem. Let G = (<span style=\"text-decoration:line-through\">V</span>V&#39;,<span style=\"text-decoration:line-through\"> E</span>E&#39;) be the graph where |V&#39;| =k and E&#39; ={} ;</p>\n<p></p>\n<p><span style=\"text-decoration:line-through\">Secondly, can we really define a graph G here by simply specifying the number of vertices k?\u00a0 \u00a0The algorithm to construct G from input H is not really defined here and I wonder if we could use &#34;jumps&#34; like this in the exam.</span></p>\n<p>Never mind second part, I came to my senses.\u00a0 I was just thinking hard for problem 8.3 in reverse direction, i.e. reducing STINGY SAT =&gt; SAT.</p>", 
+      "anon": "no", 
+      "created": "2017-10-27T22:19:27Z", 
+      "uid": "hqa9hej5ny2gl", 
+      "subject": "clarifications on practice problem solution for 8.10 part a"
+    }, 
+    {
+      "content": "<p>First, I think there is some typo in the paragraph below as\u00a0shown in my strike-through, please confirm.</p>\n<p></p>\n<p>Consider an input to the INDEPENDENT SET problem. Denote this input as the graph H = (V;E) and an integer k. Now we&#39;ll construct the input to the SUBGRAPH ISOMORPHISM problem. Let G = (<span style=\"text-decoration:line-through\">V</span>V&#39;,<span style=\"text-decoration:line-through\"> E</span>E&#39;) be the graph where |V&#39;| =k and E&#39; ={} ;</p>\n<p></p>\n<p>Secondly, can we really define a graph G here by simply specifying the number of vertices k?\u00a0 \u00a0The algorithm to construct G from input H is not really defined here and I wonder if we could use &#34;jumps&#34; like this in the exam.</p>", 
+      "anon": "no", 
+      "created": "2017-10-27T21:19:39Z", 
+      "uid": "hqa9hej5ny2gl", 
+      "subject": "clarifications on practice problem solution for 8.10 part a"
+    }, 
+    {
+      "content": "<p>First, I think there is some typo in the paragraph below as\u00a0shown in my strike-through, please confirm.</p>\n<p></p>\n<p>Consider an input to the INDEPENDENT SET problem. Denote this input as the graph H = (V;E) and an integer k. Now we&#39;ll construct the input to the SUBGRAPH ISOMORPHISM problem. Let G = (<span style=\"text-decoration:line-through\">V</span>V&#39;,<span style=\"text-decoration:line-through\"> E</span>E&#39;) be the graph where |V&#39;| =k and E&#39; ={} ;</p>\n<p></p>\n<p>Secondly, can we really define a graph G here by simply specifying the number of vertices k?\u00a0 \u00a0The algorithm to construct G from input for H is not really defined here and I wonder if we could use &#34;jumps&#34; like this in the exam.</p>", 
+      "anon": "no", 
+      "created": "2017-10-27T21:19:14Z", 
+      "uid": "hqa9hej5ny2gl", 
+      "subject": "clarifications on practice problem solution for 8.10 part a"
+    }, 
+    {
+      "content": "<p>First, I think there is some typo in the paragraph below as\u00a0shown in my strike-through, please confirm.</p>\n<p></p>\n<p>Consider an input to the INDEPENDENT SET problem. Denote this input as the graph H = (V;E) and an integer k. Now we&#39;ll construct the input to the SUBGRAPH ISOMORPHISM problem. Let G = (<span style=\"text-decoration:line-through\">V</span>V&#39;,<span style=\"text-decoration:line-through\"> E</span>E&#39;) be the graph where |V&#39;| =k and E&#39; ={} ;</p>\n<p></p>\n<p>Secondly, can we really define a graph G here by imply specifying the number of vertices k?\u00a0 \u00a0The algorithm to construct G from input for H is not really defined here and I wonder if we could use &#34;jumps&#34; like this in the exam.</p>", 
+      "anon": "no", 
+      "created": "2017-10-27T21:18:41Z", 
+      "uid": "hqa9hej5ny2gl", 
+      "subject": "clarifications on practice problem solution for 8.10 part a"
+    }, 
+    {
+      "content": "<p>First, I think there is some typo in the paragraph below as\u00a0shown in my strike-through, please confirm.</p>\n<p></p>\n<p><tt>Consider an input to the INDEPENDENT SET problem. Denote this input as the graph H = (V;E) and an integer k. Now we&#39;ll construct the input to the SUBGRAPH ISOMORPHISM problem. Let G = (<strong><span style=\"text-decoration:line-through\">V</span>V&#39;,<span style=\"text-decoration:line-through\">E</span>E&#39;</strong>) be the graph where |V&#39;| =k and E&#39; ={} ;</tt></p>\n<p></p>\n<p>Secondly, can we really define a graph G here by imply specifying the number of vertices k?\u00a0 \u00a0The algorithm to construct G from input for H is not really defined here and I wonder if we could use &#34;jumps&#34; like this in the exam.</p>", 
+      "anon": "no", 
+      "created": "2017-10-27T21:17:39Z", 
+      "uid": "hqa9hej5ny2gl", 
+      "subject": "clarifications on practice problem solution for 8.10 part a"
+    }, 
+    {
+      "content": "<p>First, I think there is some typo in the paragraph below as\u00a0shown in my strike-through, please confirm.</p>\n<p></p>\n<pre>Consider an input to the INDEPENDENT SET problem. Denote this input<br />as the graph H = (V;E) and an integer k. Now we&#39;ll construct the input to the<br />SUBGRAPH ISOMORPHISM problem. Let G = <strong>(<span style=\"text-decoration:line-through\">V</span>V&#39;,<span style=\"text-decoration:line-through\">E</span>E&#39;)</strong> be the graph where |V&#39;| =<br />k and E&#39; ={} ;</pre>\n<p>Secondly, can we really define a graph G here by imply specifying the number of vertices k?\u00a0 \u00a0The algorithm to construct G from input for H is not really defined here and I wonder if we could use &#34;jumps&#34; like this in the exam.</p>", 
+      "anon": "no", 
+      "created": "2017-10-27T21:15:39Z", 
+      "uid": "hqa9hej5ny2gl", 
+      "subject": "clarifications on practice problem solution for 8.10 part a"
+    }
+  ]
+}

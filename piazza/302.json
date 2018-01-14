@@ -1,0 +1,354 @@
+{
+  "status": "active", 
+  "unique_views": 142, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-14T13:18:48Z", 
+      "data": "j7khe3f4l8145j", 
+      "uid": "i8597qyse9c1v2"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-14T13:20:03Z", 
+      "data": "j7khfp8j9yh59z", 
+      "uid": "i8597qyse9c1v2"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-14T13:20:22Z", 
+      "data": "j7khg3yyiay5g6", 
+      "uid": "i8597qyse9c1v2"
+    }, 
+    {
+      "uid": "gy4twfv45cg5o6", 
+      "type": "i_answer", 
+      "when": "2017-09-14T13:50:50Z", 
+      "to": "j7khe3exfl445h", 
+      "anon": "no", 
+      "data": "j7kijabd2zl32l"
+    }, 
+    {
+      "to": "j7khe3exfl445h", 
+      "anon": "no", 
+      "when": "2017-09-14T17:40:17Z", 
+      "type": "followup", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j7khe3exfl445h", 
+      "anon": "no", 
+      "when": "2017-09-14T17:43:14Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j7khe3exfl445h", 
+      "anon": "no", 
+      "when": "2017-09-15T01:14:21Z", 
+      "type": "followup", 
+      "uid": "i8597qyse9c1v2"
+    }, 
+    {
+      "to": "j7khe3exfl445h", 
+      "anon": "no", 
+      "when": "2017-09-15T02:26:42Z", 
+      "type": "feedback", 
+      "uid": "hqa65fnalg83fr"
+    }, 
+    {
+      "to": "j7khe3exfl445h", 
+      "anon": "no", 
+      "when": "2017-09-15T02:57:56Z", 
+      "type": "feedback", 
+      "uid": "i8597qyse9c1v2"
+    }, 
+    {
+      "to": "j7khe3exfl445h", 
+      "anon": "no", 
+      "when": "2017-09-15T06:12:03Z", 
+      "type": "feedback", 
+      "uid": "hqa65fnalg83fr"
+    }, 
+    {
+      "to": "j7khe3exfl445h", 
+      "anon": "no", 
+      "when": "2017-09-15T22:54:53Z", 
+      "type": "feedback", 
+      "uid": "i8597qyse9c1v2"
+    }, 
+    {
+      "to": "j7khe3exfl445h", 
+      "anon": "no", 
+      "when": "2017-09-16T13:40:52Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j7khe3exfl445h", 
+      "anon": "no", 
+      "when": "2017-09-16T16:26:38Z", 
+      "type": "feedback", 
+      "uid": "hqa65fnalg83fr"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j7khe3exfl445h", 
+  "bookmarked": 5, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-14T13:50:50Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "i8597qyse9c1v2"
+      ], 
+      "id": "j7kijab7a3x32k", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Pedro Henrique Rocha Moy", 
+          "admin": false, 
+          "photo": "1452626521_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i8597qyse9c1v2"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p></p>\n<p>That&#39;s a very tricky one, I think it&#39;s $$O(\\log^2{n})$$: \u00a0$$\\sum_i \\log(n/2^i) = \\sum_i (\\log{n} - i) = O(\\log^2{n})$$.</p>", 
+          "anon": "no", 
+          "created": "2017-09-14T13:50:50Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-14T17:40:17Z", 
+      "no_upvotes": 0, 
+      "uid": "i4ket0u1z5q31a", 
+      "created": "2017-09-14T17:40:17Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7kqqd6c7db26q", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-14T17:43:14Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-09-14T17:43:14Z", 
+          "type": "feedback", 
+          "id": "j7kqu5b6cqz3wu", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Yes. \u00a0</p>"
+        }
+      ], 
+      "subject": "<p>Does log$$^{2}$$ n mean log(n)*log(n)?</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-15T01:14:21Z", 
+      "no_upvotes": 0, 
+      "uid": "i8597qyse9c1v2", 
+      "created": "2017-09-15T01:14:21Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7l6yas0fjw2p", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-15T02:26:42Z", 
+          "uid": "hqa65fnalg83fr", 
+          "created": "2017-09-15T02:26:42Z", 
+          "type": "feedback", 
+          "id": "j7l9jc30nt175", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>no because 2^(log n) = n</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-15T02:57:56Z", 
+          "uid": "i8597qyse9c1v2", 
+          "created": "2017-09-15T02:57:56Z", 
+          "type": "feedback", 
+          "id": "j7lanhr3uc970k", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Yes, it looks like we have $$\\sum{2^i}=2^{\\log{n}&#43;1}-1=2n-1$$. So $$O(n)$$ Correct?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-15T06:12:03Z", 
+          "uid": "hqa65fnalg83fr", 
+          "created": "2017-09-15T06:12:03Z", 
+          "type": "feedback", 
+          "id": "j7lhl4jgoun486", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p><br />so you have \u00a0$$2^{0} &#43; 2^{1} &#43; ... &#43; 2^{logN} &lt; 2^{logN} * logN &lt;= NlogN$$<br /><br /></p>\n<p>So we know its at least O(nlogn)<br /><br /><span style=\"background-color:#ffc\">The actual sequence is more like: 1 &#43; 2 &#43; 4 &#43; 8 &#43; .. &#43; N \u00a0 \u00a0 (because $$2^{logN} = N$$)<br /><br /></span></p>\n<p><span style=\"background-color:#ffc\">So the solution of this geometric series is \u00a0$$\\frac{1-2^{log(N)&#43;1}}{1-2} = \\frac{1-2N }{-1} = 2N-1 $$ which is more precisely\u00a0O(n)</span></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-15T22:54:53Z", 
+          "uid": "i8597qyse9c1v2", 
+          "created": "2017-09-15T22:54:53Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j7mhesbaia82sy", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>It looks like the sum of powers of 2 is just $$2^{k&#43;1}-1$$ (<a href=\"https://en.wikipedia.org/wiki/1_%2B_2_%2B_4_%2B_8_%2B_%E2%8B%AF\" target=\"_blank\">Wikipedia</a>)</p>\n<p>If that is the case, then we have $$k=\\log_2{n}$$ and so $$2^{k&#43;1}-1=2^12^{\\log_2{n}}-1=2n-1=O(n)$$ no?\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-16T13:40:52Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-09-16T13:40:52Z", 
+          "type": "feedback", 
+          "id": "j7nd2623lae4cp", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Yes</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-16T16:26:38Z", 
+          "uid": "hqa65fnalg83fr", 
+          "created": "2017-09-16T16:26:38Z", 
+          "type": "feedback", 
+          "id": "j7nizc5lw247om", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>yes.. there was an error in my computation because you have to count the 0th element.. so the value goes not to LogN but 1&#43;logN.\u00a0</p>"
+        }
+      ], 
+      "subject": "<p>How about $$\\sum_{i=0}^{\\log_2{n}}{2^i}=O(n)$$. Is this correct since $$n$$ dominates as n gets large?</p>"
+    }
+  ], 
+  "nr": 302, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw3"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 3, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw3", 
+    "student"
+  ], 
+  "created": "2017-09-14T13:18:48Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145245991, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>Would we say $$\\sum_{i=0}^{\\log_2{n}}{\\log{\\frac{n}{2^i}}}=O(\\log{n})$$ since the leading term $$\\log{n}$$ dominates as n gets large?</p>", 
+      "anon": "no", 
+      "created": "2017-09-14T13:20:22Z", 
+      "uid": "i8597qyse9c1v2", 
+      "subject": "check on asymptotic summation"
+    }, 
+    {
+      "content": "<p>Would we $$\\sum_{i=0}^{\\log_2{n}}{\\log{\\frac{n}{2^i}}}=O(\\log{n})$$ say \u00a0since the leading term $$\\log{n}$$ dominates as n gets large?</p>", 
+      "anon": "no", 
+      "created": "2017-09-14T13:20:03Z", 
+      "uid": "i8597qyse9c1v2", 
+      "subject": "check on asymptotic summation"
+    }, 
+    {
+      "content": "<p>Would we say $\\sum_{i=0}^{\\log_2{n}}{\\log{\\frac{n}{2^i}}}=O(\\log{n})$ since the leading term $\\log{n}$ dominates as n gets large?</p>", 
+      "anon": "no", 
+      "created": "2017-09-14T13:18:48Z", 
+      "uid": "i8597qyse9c1v2", 
+      "subject": "check on asymptotic summation"
+    }
+  ]
+}

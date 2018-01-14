@@ -1,0 +1,117 @@
+{
+  "status": "active", 
+  "unique_views": 182, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-02T16:43:58Z", 
+      "data": "j73jfpn7r2r5uw", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "uid": "isgwdf47kb42f", 
+      "type": "i_answer", 
+      "when": "2017-09-02T17:30:10Z", 
+      "to": "j73jfpn5l945uv", 
+      "anon": "no", 
+      "data": "j73l34xch0a65i"
+    }, 
+    {
+      "to": "j73jfpn5l945uv", 
+      "anon": "no", 
+      "when": "2017-09-02T17:48:10Z", 
+      "type": "followup", 
+      "uid": "gy4twfv45cg5o6"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j73jfpn5l945uv", 
+  "bookmarked": 4, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-02T17:30:10Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j73l34x9ilb65h", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>For this class I think it will be sufficient to assume that multiplying 2 n-bit integers takes O(n^2) and so the fast modular exponentiation algorithm outlined in the lecture, taking an n-bit base and a k-bit exponent, would take O(n^2*k).</p>\n<p></p>\n<p>As you mentioned, using a faster integer multiplication would yield a faster overall algorithm. In general, the algorithm we use takes O(M(n)*k) where M(n) is the complexity of the algorithm used to multiply 2 n-bit integers.</p>", 
+          "anon": "no", 
+          "created": "2017-09-02T17:30:10Z", 
+          "uid": "isgwdf47kb42f", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-02T17:48:10Z", 
+      "no_upvotes": 0, 
+      "uid": "gy4twfv45cg5o6", 
+      "created": "2017-09-02T17:48:10Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j73lqa8q984jt", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p></p>\n<p>Yes, the algorithm presented there is O(n^3).</p>\n<p>You will see a faster multiplication algorithm in the next section on divide and conquer.</p>"
+    }
+  ], 
+  "nr": 152, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw2"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw2", 
+    "student"
+  ], 
+  "created": "2017-09-02T16:43:58Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145289367, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>For the purposes of this class, should we consider the running time of our Fast Modular Exponentiation algorithm as $$O(n^3)$$.</p>\n<p></p>\n<p>There are multiple versions with faster integer multiplication, so I&#39;ve seen that multiple sources give different running times for this algorithm.</p>\n<p></p>\n<p>How should we consider it?</p>", 
+      "anon": "no", 
+      "created": "2017-09-02T16:43:58Z", 
+      "uid": "i4nkipeofrkrz", 
+      "subject": "Fast modular exponentiation total running time"
+    }
+  ]
+}

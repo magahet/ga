@@ -1,0 +1,136 @@
+{
+  "status": "active", 
+  "unique_views": 243, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-08-28T17:51:35Z", 
+      "data": "j6wgnenyjyo189", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j6wgnenwp1d188", 
+      "anon": "no", 
+      "when": "2017-08-28T17:53:44Z", 
+      "type": "followup", 
+      "uid": "ijd70v3g5jd5e9"
+    }, 
+    {
+      "to": "j6wgnenwp1d188", 
+      "anon": "no", 
+      "when": "2017-08-28T17:56:28Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j6wgnenwp1d188", 
+      "anon": "no", 
+      "when": "2017-09-11T00:38:16Z", 
+      "type": "followup", 
+      "uid": "hv8z1ryhi6h6mi"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j6wgnenwp1d188", 
+  "bookmarked": 3, 
+  "tags": [
+    "hw2", 
+    "instructor-note"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-08-28T17:53:44Z", 
+      "no_upvotes": 0, 
+      "uid": "ijd70v3g5jd5e9", 
+      "created": "2017-08-28T17:53:44Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6wgq61kal92cc", 
+      "anon": "no", 
+      "bucket_name": "Week 8/27 - 9/2", 
+      "config": {}, 
+      "bucket_order": 7, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-08-28T17:56:28Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-08-28T17:56:28Z", 
+          "type": "feedback", 
+          "id": "j6wgtoz5444yc", 
+          "anon": "no", 
+          "bucket_name": "Week 8/27 - 9/2", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Oops...fixed hw2 due date (Sept. 11). \u00a0Reload it. \u00a0--Eric</p>"
+        }
+      ], 
+      "subject": "<p>Just to clarify, hw1 and hw2 are due on sep 4th?</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-11T00:38:16Z", 
+      "no_upvotes": 0, 
+      "uid": "hv8z1ryhi6h6mi", 
+      "created": "2017-09-11T00:38:16Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7ffwh7xue849s", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>Should we include our name or ID number in the .pdf file submitted?\u00a0 I see a <tt>\\studentname</tt> definition but it is not displayed anywhere.\u00a0 Is it alright to add it to <tt>\\lhead</tt>, <tt>\\chead</tt>, or <tt>\\rhead</tt>?</p>"
+    }
+  ], 
+  "nr": 103, 
+  "bucket_order": 2, 
+  "type": "note", 
+  "folders": [
+    "hw2"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-08-28T17:51:35Z", 
+  "is_tag_good": false, 
+  "config": {
+    "is_announcement": 1
+  }, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145304849, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p></p>\n<p>I&#39;ve posted hw 2 on RSA:</p>\n<p>\u00a0 \u00a0<a href=\"https://8803ga.wordpress.com/hw-2/\">https://8803ga.wordpress.com/hw-2/</a></p>\n<p></p>\n<p></p>", 
+      "anon": "no", 
+      "created": "2017-08-28T17:51:35Z", 
+      "uid": "gy4twfv45cg5o6", 
+      "subject": "HW 2 posted"
+    }
+  ]
+}

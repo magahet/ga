@@ -1,0 +1,425 @@
+{
+  "status": "active", 
+  "unique_views": 133, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-06T18:12:41Z", 
+      "data": "j8g7krk3cre3qf", 
+      "uid": "hyzqrr6e3u13as"
+    }, 
+    {
+      "uid": "i4nkipeofrkrz", 
+      "type": "s_answer", 
+      "when": "2017-10-06T18:19:39Z", 
+      "to": "j8g7krk1gqi3qe", 
+      "anon": "no", 
+      "data": "j8g7tpz9zb2sw"
+    }, 
+    {
+      "to": "j8g7krk1gqi3qe", 
+      "anon": "no", 
+      "when": "2017-10-06T18:37:35Z", 
+      "type": "followup", 
+      "uid": "hyzqrr6e3u13as"
+    }, 
+    {
+      "to": "j8g7krk1gqi3qe", 
+      "anon": "no", 
+      "when": "2017-10-06T18:40:05Z", 
+      "type": "feedback", 
+      "uid": "idg5nm2lC96"
+    }, 
+    {
+      "uid": "gy4twfv45cg5o6", 
+      "type": "i_answer", 
+      "when": "2017-10-06T18:47:23Z", 
+      "to": "j8g7krk1gqi3qe", 
+      "anon": "no", 
+      "data": "j8g8te261e646g"
+    }, 
+    {
+      "to": "j8g7krk1gqi3qe", 
+      "anon": "no", 
+      "when": "2017-10-06T18:48:14Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j8g7krk1gqi3qe", 
+      "anon": "no", 
+      "when": "2017-10-06T18:49:50Z", 
+      "type": "feedback", 
+      "uid": "idg5nm2lC96"
+    }, 
+    {
+      "to": "j8g7krk1gqi3qe", 
+      "anon": "no", 
+      "when": "2017-10-06T18:53:17Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j8g7krk1gqi3qe", 
+      "anon": "no", 
+      "when": "2017-10-06T18:56:43Z", 
+      "type": "feedback", 
+      "uid": "idg5nm2lC96"
+    }, 
+    {
+      "to": "j8g7krk1gqi3qe", 
+      "anon": "no", 
+      "when": "2017-10-06T19:01:22Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j8g7krk1gqi3qe", 
+      "anon": "no", 
+      "when": "2017-10-06T19:03:44Z", 
+      "type": "feedback", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j8g7krk1gqi3qe", 
+      "anon": "no", 
+      "when": "2017-10-06T19:03:59Z", 
+      "type": "feedback", 
+      "uid": "idg5nm2lC96"
+    }, 
+    {
+      "to": "j8g7krk1gqi3qe", 
+      "anon": "no", 
+      "when": "2017-10-06T19:21:50Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j8g7krk1gqi3qe", 
+      "anon": "no", 
+      "when": "2017-10-06T19:36:10Z", 
+      "type": "feedback", 
+      "uid": "idg5nm2lC96"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8g7krk1gqi3qe", 
+  "bookmarked": 7, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-06T18:19:39Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j8g7tpz3pqs2sv", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>This is the way I interpreted:</p>\n<p></p>\n<p><strong>If you can get to a place from townhall, then you can come back to the townhall </strong><strong>from that\u00a0place.</strong></p>\n<p></p>\n<p>This means that there might be places that you cannot reach from the townhall, and those won&#39;t affect the mayor&#39;s claim.</p>", 
+          "anon": "no", 
+          "created": "2017-10-06T18:19:39Z", 
+          "uid": "i4nkipeofrkrz", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-06T18:37:35Z", 
+      "no_upvotes": 0, 
+      "uid": "hyzqrr6e3u13as", 
+      "created": "2017-10-06T18:37:35Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8g8gsd3tib6hj", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-06T18:40:05Z", 
+          "uid": "idg5nm2lC96", 
+          "created": "2017-10-06T18:40:05Z", 
+          "type": "feedback", 
+          "id": "j8g8k06q9ehph", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>What Mark mentioned in this comment (multiple intersections around a town hall) is my interpretation. I&#39;d love to hear what others think.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-06T18:48:14Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-10-06T18:48:14Z", 
+          "type": "feedback", 
+          "id": "j8g8uhd3xz97k2", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>That will make the problem way more complicated and won&#39;t necessarily test anything new. I&#39;d say, no. TH is just a single node. That&#39;s the way I solved the problem.</p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-06T18:49:50Z", 
+          "uid": "idg5nm2lC96", 
+          "created": "2017-10-06T18:49:50Z", 
+          "type": "feedback", 
+          "id": "j8g8wj3l6xe5xs", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Actually,\u00a0treating a TH as surrounded by intersections\u00a0turns out to be straightforward.\u00a0But, okay, a single node it is then.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-06T18:53:17Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-10-06T18:53:17Z", 
+          "type": "feedback", 
+          "id": "j8g90z2mptu1x", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Well... it will make it simpler as long as the TH is always more than one node, right? You will always try to find a path from one point of the TH to the other point. But for cases where the TH is a single node, this won&#39;t work anymore. Right?</p>\n<p></p>\n<p>Either way, don&#39;t worry about it too much and assume the TH is a single node.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-06T18:56:43Z", 
+          "uid": "idg5nm2lC96", 
+          "created": "2017-10-06T18:56:43Z", 
+          "type": "feedback", 
+          "id": "j8g95dwms4k4lk", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>With a single node, can you reach anywhere in the city and then back, given that the first claim is false? The question says &#34;no matter where you reach,&#34; which I took that to mean anywhere in the city. That seems to only be possible if we treat the town hall to be surrounded by multiple intersections. But, I&#39;ll treat it as a single node.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-06T19:01:22Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-10-06T19:01:22Z", 
+          "type": "feedback", 
+          "id": "j8g9bdr1kgo205", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Which claim is false? Do you mean Part (a)? If so, this claim is not necessarily false. It could be true.</p>\n<p></p>\n<p>If you have this graph: A -&gt; B -&gt; C -&gt; A, and A is the townhall, then the second claim is true. You can also add a couple of nodes D and E to that graph (not connected at all with A, B, or C) and the claim will still be true (although the first claim (Part a) will be false in this case).</p>\n<p></p>\n<p>Does that make sense?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-06T19:03:44Z", 
+          "uid": "i4ket0u1z5q31a", 
+          "created": "2017-10-06T19:03:44Z", 
+          "type": "feedback", 
+          "id": "j8g9efbdbtw47t", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>You could have those extra nodes D and E as sources that connect in to the graph somewhere but there is no route to reach them from town hall.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-06T19:03:59Z", 
+          "uid": "idg5nm2lC96", 
+          "created": "2017-10-06T19:03:59Z", 
+          "type": "feedback", 
+          "id": "j8g9eqovhyo43g", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>\u00a0Part b says &#34;suppose it now turns out that the mayor&#39;s original claim is false.&#34; I&#39;d encourage you to try out a graph where a town hall is not modeled as a vertex. And, I get your point, that was my initial attempt. The phrase &#34;no matter where you reach&#34; led me to try a different approach.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-06T19:21:50Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-10-06T19:21:50Z", 
+          "type": "feedback", 
+          "id": "j8ga1owfi9u6ag", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Oh I see, it makes sense. See the example above where D,E are not connected at all (or what David said). Although the first mayor&#39;s claim is still false, you can actually solve for the second claim.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-06T19:36:10Z", 
+          "uid": "idg5nm2lC96", 
+          "created": "2017-10-06T19:36:10Z", 
+          "type": "feedback", 
+          "id": "j8gak4as3ka2l1", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Yep; glad you can see it too :).</p>"
+        }
+      ], 
+      "subject": "<p>also - should we consider TH as a single intersection (vertex)\u00a0or is it reasonable to say that there are multiple intersections around TH and any of those are valid as being &#34;at TH&#34;? So \u00a0for instance if intersection (vertex) 1 and 2 are next to TH, can I leave from 1, and come back to 2 and say thats valid for part 1.b?</p>"
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-06T18:47:23Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "idg5nm2lC96"
+      ], 
+      "id": "j8g8te25vnq46f", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Dennis Sidharta", 
+          "admin": false, 
+          "photo": "1463366773_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "idg5nm2lC96"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "As Santiago said. \n\nAnd Town Hall is a single intersection.  This is a toy math problem, it&#39;s supposed to be simple.  Be reasonable.", 
+          "anon": "no", 
+          "created": "2017-10-06T18:47:23Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 635, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw4"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 2, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw4", 
+    "student"
+  ], 
+  "created": "2017-10-06T18:12:41Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145171117, 
+  "tag_good": [
+    {
+      "name": "Dennis Sidharta", 
+      "admin": false, 
+      "photo": "1463366773_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "idg5nm2lC96"
+    }, 
+    {
+      "name": "Shihgian Lee", 
+      "admin": false, 
+      "photo": "1420394909_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i18w67avy8e1uk"
+    }
+  ], 
+  "tag_good_arr": [
+    "idg5nm2lC96", 
+    "i18w67avy8e1uk"
+  ], 
+  "history": [
+    {
+      "content": "<p>For 1.b on HW4, should we interpret the problem as the mayor claiming for any place in the city from town hall (but not necessarily all places) you can get there and back or should it be that you can reach all places from town hall and get back?</p>", 
+      "anon": "no", 
+      "created": "2017-10-06T18:12:41Z", 
+      "uid": "hyzqrr6e3u13as", 
+      "subject": "Hw4 1.b"
+    }
+  ]
+}

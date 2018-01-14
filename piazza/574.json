@@ -1,0 +1,60 @@
+{
+  "status": "active", 
+  "unique_views": 120, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-03T19:50:26Z", 
+      "data": "j8c0qx14t4l355", 
+      "uid": "hju4w9odatf30"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8c0qx104gm354", 
+  "bookmarked": 2, 
+  "tags": [
+    "course", 
+    "instructor-note", 
+    "logistics"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [], 
+  "nr": 574, 
+  "bucket_order": 2, 
+  "type": "note", 
+  "folders": [
+    "logistics", 
+    "course"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 0, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-10-03T19:50:26Z", 
+  "is_tag_good": false, 
+  "config": {
+    "bypass_email": 1
+  }, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145186719, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>Hi everyone,\u00a0<br /><br />I will be holding the office hours today from 7:00 - 8:00pm EST.\u00a0</p>\n<div>Youtube Link:\u00a0<a href=\"https://www.youtube.com/watch?v=jNQsnhDXzjo\" target=\"_blank\">https://www.youtube.com/watch?v=jNQsnhDXzjo</a></div>\n<div>Slido event code: CS8803-Tues</div>\n<p><a href=\"https://www.youtube.com/watch?v=HBqJ_vn6Afs\" target=\"_blank\"><br /></a>Thanks,\u00a0<br />Murali</p>", 
+      "anon": "no", 
+      "created": "2017-10-03T19:50:26Z", 
+      "uid": "hju4w9odatf30", 
+      "subject": "Office Hours today 7pm - 8pm"
+    }
+  ]
+}

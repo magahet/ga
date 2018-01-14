@@ -1,0 +1,620 @@
+{
+  "status": "active", 
+  "unique_views": 175, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-13T02:36:30Z", 
+      "data": "j7if084060r4yi", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j7if083a7cx4yd", 
+      "anon": "no", 
+      "when": "2017-09-13T03:39:06Z", 
+      "type": "followup", 
+      "uid": "ig9fx44bzwr74x"
+    }, 
+    {
+      "to": "j7if083a7cx4yd", 
+      "anon": "no", 
+      "when": "2017-09-13T04:01:19Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j7if083a7cx4yd", 
+      "anon": "no", 
+      "when": "2017-09-13T04:39:27Z", 
+      "type": "feedback", 
+      "uid": "i18w67avy8e1uk"
+    }, 
+    {
+      "to": "j7if083a7cx4yd", 
+      "anon": "no", 
+      "when": "2017-09-13T23:41:28Z", 
+      "type": "followup", 
+      "uid": "hz03lfq2z6r446"
+    }, 
+    {
+      "to": "j7if083a7cx4yd", 
+      "anon": "no", 
+      "when": "2017-09-14T01:08:19Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j7if083a7cx4yd", 
+      "anon": "no", 
+      "when": "2017-09-14T12:43:11Z", 
+      "type": "feedback", 
+      "uid": "hz03lfq2z6r446"
+    }, 
+    {
+      "to": "j7if083a7cx4yd", 
+      "anon": "no", 
+      "when": "2017-09-14T20:32:23Z", 
+      "type": "followup", 
+      "uid": "idfwkf5jgsm3gg"
+    }, 
+    {
+      "to": "j7if083a7cx4yd", 
+      "anon": "no", 
+      "when": "2017-09-14T21:08:01Z", 
+      "type": "followup", 
+      "uid": "i4fxg6tfzh211n"
+    }, 
+    {
+      "to": "j7if083a7cx4yd", 
+      "anon": "no", 
+      "when": "2017-09-15T01:35:17Z", 
+      "type": "followup", 
+      "uid": "hz46706oA2e"
+    }, 
+    {
+      "to": "j7if083a7cx4yd", 
+      "anon": "no", 
+      "when": "2017-09-15T01:44:53Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j7if083a7cx4yd", 
+      "anon": "no", 
+      "when": "2017-09-15T06:51:06Z", 
+      "type": "feedback", 
+      "uid": "idfwkf5jgsm3gg"
+    }, 
+    {
+      "to": "j7if083a7cx4yd", 
+      "anon": "no", 
+      "when": "2017-09-15T14:45:10Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j7if083a7cx4yd", 
+      "anon": "no", 
+      "when": "2017-09-15T15:16:13Z", 
+      "type": "feedback", 
+      "uid": "idfwkf5jgsm3gg"
+    }, 
+    {
+      "to": "j7if083a7cx4yd", 
+      "anon": "no", 
+      "when": "2017-09-15T15:25:42Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j7if083a7cx4yd", 
+      "anon": "no", 
+      "when": "2017-09-15T15:33:51Z", 
+      "type": "feedback", 
+      "uid": "idfwkf5jgsm3gg"
+    }, 
+    {
+      "to": "j7if083a7cx4yd", 
+      "anon": "no", 
+      "when": "2017-09-15T15:43:46Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j7if083a7cx4yd", 
+      "anon": "no", 
+      "when": "2017-09-15T17:22:31Z", 
+      "type": "feedback", 
+      "uid": "idfwkf5jgsm3gg"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j7if083a7cx4yd", 
+  "bookmarked": 9, 
+  "tags": [
+    "hw3", 
+    "student"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-09-13T03:39:06Z", 
+      "no_upvotes": 0, 
+      "uid": "ig9fx44bzwr74x", 
+      "created": "2017-09-13T03:39:06Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7ih8qfpw003mu", 
+      "anon": "no", 
+      "bucket_name": "Week 9/10 - 9/16", 
+      "config": {}, 
+      "bucket_order": 7, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-13T04:01:19Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-09-13T04:01:19Z", 
+          "type": "feedback", 
+          "id": "j7ii1atoand2x2", 
+          "anon": "no", 
+          "bucket_name": "Week 9/10 - 9/16", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>DPV page 67 explains a divide and conquer approach using these matrixes.</p>\n<p></p>\n<p>Obviously, the solution explained here is not using divide and conquer. Turns out that computers are really good solving recurrences, but humans are really bad at them. There&#39;s really no point in manually running a recursion to solve FFT when we can easily do it as explained above.</p>\n<p></p>\n<p>The professor confirmed in &#64;280 that this approach is valid for both the homework and the exam.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-13T04:39:27Z", 
+          "uid": "i18w67avy8e1uk", 
+          "created": "2017-09-13T04:39:27Z", 
+          "type": "feedback", 
+          "id": "j7ijecaq1f22qj", 
+          "anon": "no", 
+          "bucket_name": "Week 9/10 - 9/16", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thanks for posting the example, Santiago. I will take a look.\u00a0</p>\n<p></p>\n<p>You are correct that human is not good at doing machine work. After a lot of pencil pushing and mistakes, I managed to multiply the polynomials using FFT and IFFT presented in the lectures. I don&#39;t think I can go another around of multiplying polynomials using FFT by hand.</p>\n<p></p>\n<p>EDIT: Our TA, Tiancheng Gong provided an example of the Matrix approach too. &#64;277.</p>"
+        }
+      ], 
+      "subject": "<p>So is the Matrix approach here considered a divide and conquer approach or is that debatable?</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-13T23:41:28Z", 
+      "no_upvotes": 0, 
+      "uid": "hz03lfq2z6r446", 
+      "created": "2017-09-13T23:41:28Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7jo6zl9b7x1ms", 
+      "anon": "no", 
+      "bucket_name": "Week 9/10 - 9/16", 
+      "config": {}, 
+      "bucket_order": 7, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-14T01:08:19Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-09-14T01:08:19Z", 
+          "type": "feedback", 
+          "id": "j7jraogsayu4zn", 
+          "anon": "no", 
+          "bucket_name": "Week 9/10 - 9/16", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Do you refer to the step when we determine c by multiplying a with b? The answer is no: you might end up with some i&#39;s here.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-14T12:43:11Z", 
+          "uid": "hz03lfq2z6r446", 
+          "created": "2017-09-14T12:43:11Z", 
+          "type": "feedback", 
+          "id": "j7kg4a2x9x52wc", 
+          "anon": "no", 
+          "bucket_name": "Week 9/10 - 9/16", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Yes and thank you\u00a0</p>"
+        }
+      ], 
+      "subject": "<p>Does i \u00a0(for w^n when n is odd) always cancel out when we multiply two polynomials?<br /><br /></p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-14T20:32:23Z", 
+      "no_upvotes": 0, 
+      "uid": "idfwkf5jgsm3gg", 
+      "created": "2017-09-14T20:32:23Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7kwvoaayyk57u", 
+      "anon": "no", 
+      "bucket_name": "Week 9/10 - 9/16", 
+      "config": {}, 
+      "bucket_order": 7, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-15T01:44:53Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-09-15T01:44:53Z", 
+          "type": "feedback", 
+          "id": "j7l81jufz7c3dd", 
+          "anon": "no", 
+          "bucket_name": "Week 9/10 - 9/16", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>n will be 4 as well.</p>\n<p></p>\n<p>The idea is that you will choose a value of n such as n is greater or equal to the degree of the resultant multiplication and n is a power of 2.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-15T06:51:06Z", 
+          "uid": "idfwkf5jgsm3gg", 
+          "created": "2017-09-15T06:51:06Z", 
+          "type": "feedback", 
+          "id": "j7lizcxwx3p25a", 
+          "anon": "no", 
+          "bucket_name": "Week 9/10 - 9/16", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>But in that case,\u00a0FFT(a,\u03c9) = (2, 0, 2, 0) and\u00a0FFT(b,\u03c9) = (2, 0, 2, 0) and c = (4, 0, 4, 0)</p>\n<p></p>\n<p>So for computing FFT<sup>-1</sup>(c)\u00a0= n<sup>-1</sup>FFT(c,\u00a0\u03c9<sup>-1</sup>)</p>\n<p></p>\n<p>$$\\frac{1}{4}$$$$\\begin{bmatrix}1&amp; 1 &amp; 1 &amp;1 \\\\1&amp; -i&amp; -1&amp; i\\\\ 1&amp; -1&amp; 1&amp; -1\\\\ 1&amp; i&amp; -1&amp; i\\end{bmatrix}$$ X $$\\begin{bmatrix}4\\\\ 0\\\\ 4\\\\ 0\\end{bmatrix} $$ = (2, 0, 2, 0)</p>\n<p></p>\n<p>Then the solution will be 2$$x^{3}$$ &#43; 2x, which is not correct.</p>\n<p></p>\n<p>Am I missing here something ?</p>\n<p></p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-15T14:45:10Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-09-15T14:45:10Z", 
+          "type": "feedback", 
+          "id": "j7lzx0kqapw3uc", 
+          "anon": "no", 
+          "bucket_name": "Week 9/10 - 9/16", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I think you are absolutely right. To select $$n$$ we need to add 1 to the degree of the resultant polynomial and then select n as the next power of two.</p>\n<p></p>\n<p>In this case, the degree of the polynomial will be 4, so we need n to be greater than 5, so we will select 8.</p>\n<p></p>\n<p>That should solve the problem.</p>\n<p></p>\n<p>What do you think?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-15T15:16:13Z", 
+          "uid": "idfwkf5jgsm3gg", 
+          "created": "2017-09-15T15:16:13Z", 
+          "type": "feedback", 
+          "id": "j7m10xguvta6h4", 
+          "anon": "no", 
+          "bucket_name": "Week 9/10 - 9/16", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Yes I think you are right. But if we select n=8 then the computation starts becoming tricky as in this case,</p>\n<p></p>\n<p>$$w^{k}$$ = $$e^{\\frac{i2\u03c0k}{n}}$$ and n = 8</p>\n<p>$$w^{0}$$ = 1</p>\n<p>$$w^{1}$$ =\u00a0$$e^{\\frac{i2\u03c0}{8}}$$ = cos$$\\frac{\u03c0}{4}$$ &#43; i.sin$$\\frac{\u03c0}{4}$$ =\u00a0$$\\frac{1}{\\sqrt{2}}$$ &#43; $$\\frac{1}{\\sqrt{2}}$$ i</p>\n<p>$$w^{2}$$ = i</p>\n<p>and so on..</p>\n<p>Don&#39;t you think, this computation will not be as simple as it was for n=4?</p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-15T15:25:42Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-09-15T15:25:42Z", 
+          "type": "feedback", 
+          "id": "j7m1d50i36c7b1", 
+          "anon": "no", 
+          "bucket_name": "Week 9/10 - 9/16", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>The professor already confirmed that they are not going to ask us to run FFT manually. For anything that&#39;s greater than n = 4, it will be really tricky to do it manually.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-15T15:33:51Z", 
+          "uid": "idfwkf5jgsm3gg", 
+          "created": "2017-09-15T15:33:51Z", 
+          "type": "feedback", 
+          "id": "j7m1nlxh5ht7en", 
+          "anon": "no", 
+          "bucket_name": "Week 9/10 - 9/16", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Ok. One\u00a0last question. I just saw that in post &#64;277, professor mentioned that when the degree of polynomial is d, then we determine d &#43; 1 points. So do you think for polynomial of degree 4, n will be 5 instead of 8 ?</p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-15T15:43:46Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-09-15T15:43:46Z", 
+          "type": "feedback", 
+          "id": "j7m20d724445s2", 
+          "anon": "no", 
+          "bucket_name": "Week 9/10 - 9/16", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I think that&#39;s exactly what I was missing above. d &#43; 1 is the degree we should consider to compute $$n$$, but n should always be a power of 2. It won&#39;t work if it isn&#39;t.</p>\n<p></p>\n<p>So, in your example, we need to consider d &#43; 1 = 5, so we need to use $$n = 8$$.</p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-15T17:22:31Z", 
+          "uid": "idfwkf5jgsm3gg", 
+          "created": "2017-09-15T17:22:31Z", 
+          "type": "feedback", 
+          "id": "j7m5jd8cqjk4qm", 
+          "anon": "no", 
+          "bucket_name": "Week 9/10 - 9/16", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Ok great. This answers my doubt. Thank you so much Santiago for your help.</p>"
+        }
+      ], 
+      "subject": "<p>Thank you for the post Santiago.</p>\n<p>I got stuck in choosing value of n while solving similar problems. How do we choose value of n?</p>\n<p>For example, if we have two polynomials A(x) =\u00a0x\u00b2 &#43; 1 and B(x) =\u00a0x\u00b2 &#43; 1, then as per the logic mentioned above, the output polynomial will be of degree 4. In this case, what will be the value of n?</p>\n<p></p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-14T21:08:01Z", 
+      "no_upvotes": 0, 
+      "uid": "i4fxg6tfzh211n", 
+      "created": "2017-09-14T21:08:01Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7ky5hv2rey436", 
+      "anon": "no", 
+      "bucket_name": "Week 9/10 - 9/16", 
+      "config": {}, 
+      "bucket_order": 7, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>Thanks for this post, Santiago. It couldn&#39;t be better explained.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-15T01:35:17Z", 
+      "no_upvotes": 0, 
+      "uid": "hz46706oA2e", 
+      "created": "2017-09-15T01:35:17Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7l7p7ypksq3qb", 
+      "anon": "no", 
+      "bucket_name": "Week 9/10 - 9/16", 
+      "config": {}, 
+      "bucket_order": 7, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>&#43;1 Great post Santiago - I could not have done the HW problem without this!</p>"
+    }
+  ], 
+  "nr": 284, 
+  "bucket_order": 2, 
+  "type": "note", 
+  "folders": [
+    "hw3"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 21, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-09-13T02:36:30Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": true, 
+  "default_anonymity": "no", 
+  "t": 1509145118021, 
+  "tag_good": [
+    {
+      "name": "Collin Lee", 
+      "admin": false, 
+      "photo": "1494898056_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "ig9fx44bzwr74x"
+    }, 
+    {
+      "name": "Shihgian Lee", 
+      "admin": false, 
+      "photo": "1420394909_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i18w67avy8e1uk"
+    }, 
+    {
+      "name": "Zack Gow", 
+      "admin": false, 
+      "photo": "1476241357_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hyzyc8nwswo6z5"
+    }, 
+    {
+      "name": "Estelle Yeh", 
+      "admin": false, 
+      "photo": "1421544945_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4fxg6tfzh211n"
+    }, 
+    {
+      "name": "Nikita Nerkar", 
+      "admin": false, 
+      "photo": "1455312357_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "idfwkf5jgsm3gg"
+    }, 
+    {
+      "name": "Murali Raghu Babu B", 
+      "admin": true, 
+      "photo": "1503448397_35.png", 
+      "us": false, 
+      "role": "ta", 
+      "facebook_id": null, 
+      "id": "hju4w9odatf30"
+    }, 
+    {
+      "name": "abarysevich", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4t8eakz3ex6lk"
+    }, 
+    {
+      "name": "Jeffrey Skonhovd", 
+      "admin": false, 
+      "photo": "1433190638_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hkvhtvraa6x6cg"
+    }, 
+    {
+      "name": "Nolan Capehart", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "name": "Rishikesh Kulkarni", 
+      "admin": false, 
+      "photo": "1422222032_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4kd2g0n8rw3f6"
+    }, 
+    {
+      "name": "Piyush Makhija", 
+      "admin": false, 
+      "photo": "1471808861_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "iddtex53uvo4xe"
+    }, 
+    {
+      "name": "Isaac Gutierrez", 
+      "admin": false, 
+      "photo": "1420658091_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hzetpo9z5sK"
+    }, 
+    {
+      "name": "Brian Trinh", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hq9zldq5n9mvn"
+    }, 
+    {
+      "name": "Anna", 
+      "admin": false, 
+      "photo": "1484629250_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4je07nkEjF"
+    }
+  ], 
+  "tag_good_arr": [
+    "ig9fx44bzwr74x", 
+    "i18w67avy8e1uk", 
+    "hyzyc8nwswo6z5", 
+    "i4fxg6tfzh211n", 
+    "idfwkf5jgsm3gg", 
+    "hju4w9odatf30", 
+    "i4t8eakz3ex6lk", 
+    "hkvhtvraa6x6cg", 
+    "hq8hn0qyfuvyr", 
+    "i4kd2g0n8rw3f6", 
+    "iddtex53uvo4xe", 
+    "hzetpo9z5sK", 
+    "hq9zldq5n9mvn", 
+    "i4je07nkEjF"
+  ], 
+  "history": [
+    {
+      "content": "<p>(Spoiler alert - DPV 2.9 Part a).</p>\n<p></p>\n<p>The thread &#64;280 prompted some questions regarding the matrix approach that I mentioned as the second method to solve Polynomial Multiplication. I decided to solve the exercise 2.9 Part (a) using this approach to help everyone else and have the instructors correct me if I&#39;m doing something wrong.</p>\n<p></p>\n<p><strong>DPV 2.9 Part (a):</strong> Multiply $$x &#43; 1$$ and $$x^2 &#43; 1$$</p>\n<p></p>\n<p>Let&#39;s have $$A(x) = x &#43; 1$$ and $$B(x) = x^2 &#43; 1$$</p>\n<p></p>\n<p>$$A$$ is a polynomial of degree $$1$$, and $$B$$ is a polynomial of degree $$2$$. Multiplying $$A \\times B$$ will give us a polynomial of degree $$3$$ (degree of $$A$$ &#43; degree of $$B$$), so we need to\u00a0make $$n$$ the next power of $$2$$, in this case, $$n = 4$$.</p>\n<p></p>\n<p>Now let&#39;s define the matrixes $$M_n(\\omega)$$ and\u00a0$$M_n(\\omega^{-1})$$. For $$n = 4$$, we have $$\\omega = i$$, so here are our matrixes:</p>\n<p></p>\n<p>$$\nM_n(\\omega) = M_4(i) = \n\\begin{bmatrix}\n1 &amp; 1 &amp; 1 &amp; 1 \\\\\n1 &amp; \\omega &amp; \\omega^2 &amp; \\omega^3 \\\\\n1 &amp; \\omega^2 &amp; \\omega^4 &amp; \\omega^6 \\\\\n1 &amp; \\omega^3 &amp; \\omega^6 &amp; \\omega^9 \\\\\n\\end{bmatrix}\n=\n\\begin{bmatrix}\n1 &amp; 1 &amp; 1 &amp; 1 \\\\\n1 &amp; i &amp; i^2 &amp; i^3 \\\\\n1 &amp; i^2 &amp; i^4 &amp; i^6 \\\\\n1 &amp; i^3 &amp; i^6 &amp; i^9 \\\\\n\\end{bmatrix}\n=\n\\begin{bmatrix}\n1 &amp; 1 &amp; 1 &amp; 1 \\\\\n1 &amp; i &amp; -1 &amp; -i \\\\\n1 &amp; -1 &amp; 1 &amp; -1 \\\\\n1 &amp; -i &amp; -1 &amp; i \\\\\n\\end{bmatrix}\n $$</p>\n<p></p>\n<p>$$M_n(\\omega^{-1}) = M_4(i^{-1}) = \n\\begin{bmatrix}\n1 &amp; 1 &amp; 1 &amp; 1 \\\\\n1 &amp; \\omega^{-1} &amp; \\omega^{-2} &amp; \\omega^{-3} \\\\\n1 &amp; \\omega^{-2} &amp; \\omega^{-4} &amp; \\omega^{-6} \\\\\n1 &amp; \\omega^{-3} &amp; \\omega^{-6} &amp; \\omega^{-9} \\\\\n\\end{bmatrix}\n=\n\\begin{bmatrix}\n1 &amp; 1 &amp; 1 &amp; 1 \\\\\n1 &amp; i^{-1} &amp; i^{-2} &amp; i^{-3} \\\\\n1 &amp; i^{-2} &amp; i^{-4} &amp; i^{-6} \\\\\n1 &amp; i^{-3} &amp; i^{-6} &amp; i^{-9} \\\\\n\\end{bmatrix}\n=\n\\begin{bmatrix}\n1 &amp; 1 &amp; 1 &amp; 1 \\\\\n1 &amp; -i &amp; -1 &amp; i \\\\\n1 &amp; -1 &amp; 1 &amp; -1 \\\\\n1 &amp; i &amp; -1 &amp; -i \\\\\n\\end{bmatrix}$$</p>\n<p></p>\n<p>The vector $$a$$ represents the coefficients of the polynomial $$A$$, and $$a = (1, 1, 0, 0)$$. We can evaluate $$A(x)$$ by rotating the vector $$a$$ using\u00a0$$M_n(\\omega)$$:</p>\n<p></p>\n<p>$$FFT(a, \\omega) = FFT((1, 1, 0, 0), i) = \n\\begin{bmatrix}\n 1 &amp; 1 &amp; 1 &amp; 1 \\\\\n 1 &amp; i &amp; -1 &amp; -i \\\\\n 1 &amp; -1 &amp; 1 &amp; -1 \\\\\n 1 &amp; -i &amp; -1 &amp; i \\\\\n\\end{bmatrix}\n\\times\n\\begin{bmatrix}\n 1 \\\\\n 1 \\\\\n 0 \\\\\n 0 \\\\\n\\end{bmatrix}\n= (2, 1 &#43; i, 0, 1 - i)$$</p>\n<p></p>\n<p>The vector $$b$$ represents the coefficients of the polynomial $$B$$, and $$b = (1, 0, 1, 0)$$. We can evaluate $$B(x)$$ by rotating the vector $$b$$ using\u00a0$$M_n(\\omega)$$:</p>\n<p></p>\n<p>$$FFT(b, \\omega) = FFT((1, 0, 1, 0), i) = \n\\begin{bmatrix}\n1 &amp; 1 &amp; 1 &amp; 1 \\\\\n1 &amp; i &amp; -1 &amp; -i \\\\\n1 &amp; -1 &amp; 1 &amp; -1 \\\\\n1 &amp; -i &amp; -1 &amp; i \\\\\n\\end{bmatrix}\n\\times\n\\begin{bmatrix}\n1 \\\\\n0 \\\\\n1 \\\\\n0 \\\\\n\\end{bmatrix}\n= (2, 0, 2, 0)$$</p>\n<p></p>\n<p>Now we can compute $$C(x) = A(x) \\times B(x)$$:</p>\n<p></p>\n<p>$$c = (2, 1 &#43; i, 0, 1 - i) \\times (2, 0, 2, 0) = (4, 0, 0, 0)$$</p>\n<p></p>\n<p>Finally, we can interpolate our vector $$c$$ to obtain the coefficients of our resultant polynomial using the following formula:</p>\n<p></p>\n<p>$$FFT^{-1}(c) =  \\dfrac{1}{n}FFT(c, \\omega^{-1})$$</p>\n<p></p>\n<p>Substituting:</p>\n<p></p>\n<p>$$FFT^{-1}((4, 0, 0, 0)) =  \\dfrac{1}{4}FFT((4, 0, 0, 0), i^{-1})$$</p>\n<p></p>\n<p>$$FFT^{-1}((4, 0, 0, 0)) = \\dfrac{1}{4} \\times\n\\begin{bmatrix}\n 1 &amp; 1 &amp; 1 &amp; 1 \\\\\n 1 &amp; -i &amp; -1 &amp; i \\\\\n 1 &amp; -1 &amp; 1 &amp; -1 \\\\\n 1 &amp; i &amp; -1 &amp; -i \\\\\n\\end{bmatrix}\n\\times\n\\begin{bmatrix}\n 4 \\\\\n 0 \\\\\n 0 \\\\\n 0 \\\\\n\\end{bmatrix}\n= \\dfrac{1}{4} \\times (4, 4, 4, 4) = (1, 1, 1, 1)$$</p>\n<p></p>\n<p>So, our solution is the polynomial $$x^3 &#43; x^2 &#43; x &#43; 1$$</p>\n<p></p>", 
+      "anon": "no", 
+      "created": "2017-09-13T02:36:30Z", 
+      "uid": "i4nkipeofrkrz", 
+      "subject": "Solving Polynomial Multiplication using the matrix approach"
+    }
+  ]
+}

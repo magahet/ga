@@ -1,0 +1,432 @@
+{
+  "status": "active", 
+  "unique_views": 290, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-08-21T16:24:39Z", 
+      "data": "j6mdgnaaa3b2ov", 
+      "uid": "hz0jkj9dnctqp"
+    }, 
+    {
+      "to": "j6mdgna8f1e2ou", 
+      "anon": "no", 
+      "when": "2017-08-21T16:28:00Z", 
+      "type": "followup", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j6mdgna8f1e2ou", 
+      "anon": "no", 
+      "when": "2017-08-21T16:54:34Z", 
+      "type": "followup", 
+      "uid": "ijarmqggjkc3gz"
+    }, 
+    {
+      "to": "j6mdgna8f1e2ou", 
+      "anon": "no", 
+      "when": "2017-08-21T17:30:00Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j6mdgna8f1e2ou", 
+      "anon": "no", 
+      "when": "2017-08-21T17:57:47Z", 
+      "type": "feedback", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j6mdgna8f1e2ou", 
+      "anon": "no", 
+      "when": "2017-08-21T20:04:56Z", 
+      "type": "followup", 
+      "uid": "hkvhtvraa6x6cg"
+    }, 
+    {
+      "uid": "gy4twfv45cg5o6", 
+      "type": "i_answer", 
+      "when": "2017-08-22T01:43:50Z", 
+      "to": "j6mdgna8f1e2ou", 
+      "anon": "no", 
+      "data": "j6mxfrbmsv2nh"
+    }, 
+    {
+      "to": "j6mdgna8f1e2ou", 
+      "anon": "no", 
+      "when": "2017-08-22T02:23:52Z", 
+      "type": "followup", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j6mdgna8f1e2ou", 
+      "anon": "no", 
+      "when": "2017-08-22T02:45:53Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j6mdgna8f1e2ou", 
+      "anon": "no", 
+      "when": "2017-08-22T02:55:52Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j6mdgna8f1e2ou", 
+      "anon": "no", 
+      "when": "2017-08-22T12:52:42Z", 
+      "type": "feedback", 
+      "uid": "i4m49pmqc4h14p"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j6mdgna8f1e2ou", 
+  "bookmarked": 9, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-08-21T16:28:00Z", 
+      "no_upvotes": 0, 
+      "uid": "hvil6y6khgk2ri", 
+      "created": "2017-08-21T16:28:00Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6mdkyjh7p47eb", 
+      "anon": "no", 
+      "bucket_name": "Week 8/20 - 8/26", 
+      "config": {}, 
+      "bucket_order": 9, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-08-21T17:57:47Z", 
+          "uid": "i4ket0u1z5q31a", 
+          "created": "2017-08-21T17:57:47Z", 
+          "type": "feedback", 
+          "id": "j6mgsf7gye86o6", 
+          "anon": "no", 
+          "bucket_name": "Week 8/20 - 8/26", 
+          "config": {}, 
+          "bucket_order": 9, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#43;1</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-22T12:52:42Z", 
+          "uid": "i4m49pmqc4h14p", 
+          "created": "2017-08-22T12:52:42Z", 
+          "type": "feedback", 
+          "id": "j6nlbxl2w7uxg", 
+          "anon": "no", 
+          "bucket_name": "Week 8/20 - 8/26", 
+          "config": {}, 
+          "bucket_order": 9, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#43;1</p>"
+        }
+      ], 
+      "subject": "<p>&#43;1.<br /><br /></p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-21T16:54:34Z", 
+      "no_upvotes": 0, 
+      "uid": "ijarmqggjkc3gz", 
+      "created": "2017-08-21T16:54:34Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6mej4axmjg1cw", 
+      "anon": "no", 
+      "bucket_name": "Week 8/20 - 8/26", 
+      "config": {}, 
+      "bucket_order": 9, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-08-21T17:30:00Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-08-21T17:30:00Z", 
+          "type": "feedback", 
+          "id": "j6mfsp453kx4n5", 
+          "anon": "no", 
+          "bucket_name": "Week 8/20 - 8/26", 
+          "config": {}, 
+          "bucket_order": 9, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I have the same understanding.</p>"
+        }
+      ], 
+      "subject": "<p>It&#39;s my understanding that the change from CCA to GA was came with\u00a0a de-emphasis on proofs.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-21T20:04:56Z", 
+      "no_upvotes": 0, 
+      "uid": "hkvhtvraa6x6cg", 
+      "created": "2017-08-21T20:04:56Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6mlbxlonv07l5", 
+      "anon": "no", 
+      "bucket_name": "Week 8/20 - 8/26", 
+      "config": {}, 
+      "bucket_order": 9, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "There are proofs. You can take a glance at the lecture notes. \n\nBut from a short look, It looks like a lot less."
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-08-22T01:43:50Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "hz0jkj9dnctqp", 
+        "hyxsfi1o7md2rh", 
+        "hv8z1thijfq6ns", 
+        "hvil6y6khgk2ri", 
+        "idgjs16yZ4K", 
+        "hz3xzg3uwdmpt", 
+        "i4mub6lmaxh"
+      ], 
+      "id": "j6mxfrbibexng", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Alyssa Hardy", 
+          "admin": false, 
+          "photo": null, 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hz0jkj9dnctqp"
+        }, 
+        {
+          "name": "Thomas Wyrick", 
+          "admin": false, 
+          "photo": null, 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hyxsfi1o7md2rh"
+        }, 
+        {
+          "name": "Vincent Romeo", 
+          "admin": false, 
+          "photo": "1400337266_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hv8z1thijfq6ns"
+        }, 
+        {
+          "name": "Brent Wagenseller", 
+          "admin": false, 
+          "photo": "1408396390_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hvil6y6khgk2ri"
+        }, 
+        {
+          "name": "Jonathan McMahon", 
+          "admin": false, 
+          "photo": "1498602698_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "idgjs16yZ4K"
+        }, 
+        {
+          "name": "Chris Curran", 
+          "admin": false, 
+          "photo": null, 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hz3xzg3uwdmpt"
+        }, 
+        {
+          "name": "Pico Geyer", 
+          "admin": false, 
+          "photo": "1434355342_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i4mub6lmaxh"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p></p>\n<p>There are proofs. \u00a0For example, look at my lectures on RSA and FFT.</p>\n<p>Is it less than the 6505 version of this class, I have no idea. \u00a0That</p>\n<p>was not the intention, the goal was to focus on algorithms. \u00a0There is</p>\n<p>still a lot of mathematics, just perhaps a different flavor. \u00a0And my</p>\n<p>emphasis is that you learn how to design algorithms, using various</p>\n<p>approaches, and also that you understand how certain</p>\n<p>important, beautiful algorithms work, such as RSA and FFT. \u00a0</p>", 
+          "anon": "no", 
+          "created": "2017-08-22T01:43:50Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-22T02:23:52Z", 
+      "no_upvotes": 0, 
+      "uid": "hvil6y6khgk2ri", 
+      "created": "2017-08-22T02:23:52Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6myv97eece5fk", 
+      "anon": "no", 
+      "bucket_name": "Week 8/20 - 8/26", 
+      "config": {}, 
+      "bucket_order": 9, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-08-22T02:45:53Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-08-22T02:45:53Z", 
+          "type": "feedback", 
+          "id": "j6mznkivcyy1x7", 
+          "anon": "no", 
+          "bucket_name": "Week 8/20 - 8/26", 
+          "config": {}, 
+          "bucket_order": 9, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>No. \u00a0I&#39;m not sure what you&#39;re trying to do? \u00a0What is the point of this discussion?</p>\n<p></p>\n<p>If you want to see if you are prepared for this class then there are concrete</p>\n<p>things you can check:</p>\n<p>\u00a0 -- Can you learn DP?</p>\n<p>\u00a0 -- Can you follow the RSA and FFT lectures?</p>\n<p></p>\n<p>--Eric</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-22T02:55:52Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-08-22T02:55:52Z", 
+          "type": "feedback", 
+          "id": "j6n00e8of765c3", 
+          "anon": "no", 
+          "bucket_name": "Week 8/20 - 8/26", 
+          "config": {}, 
+          "bucket_order": 9, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Thanks Dr. Vigoda! I was just rephrasing the question to ensure I understood the answer.  Your answer above solidifies it for me."
+        }
+      ], 
+      "subject": "<p>Thanks, Dr. Vigoda. Based on your answer above, would it be correct to say the following?</p>\n<p></p>\n<pre>We will need to know how to prove the correctness of these algorithms, but they are not the main emphasis; the main emphasis - not <br />only for the exams, but for what you want us to learn - is the design, implementation, and motivation for / understanding of the <br />algorithms we will cover.</pre>\n<p></p>\n<p>Thanks,</p>\n<p>Brent</p>"
+    }
+  ], 
+  "nr": 18, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "logistics"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 2, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "logistics", 
+    "student"
+  ], 
+  "created": "2017-08-21T16:24:39Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145334451, 
+  "tag_good": [
+    {
+      "name": "William Miller", 
+      "admin": false, 
+      "photo": "1408322716_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hv1gl7gmpkj41y"
+    }, 
+    {
+      "name": "Brent Wagenseller", 
+      "admin": false, 
+      "photo": "1408396390_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hvil6y6khgk2ri"
+    }, 
+    {
+      "name": "Jeff Berry", 
+      "admin": false, 
+      "photo": "1452567269_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "ijarmqggjkc3gz"
+    }, 
+    {
+      "name": "Samantha Campo", 
+      "admin": false, 
+      "photo": "1452452625_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "ij7kfkx61zz365"
+    }
+  ], 
+  "tag_good_arr": [
+    "hv1gl7gmpkj41y", 
+    "hvil6y6khgk2ri", 
+    "ijarmqggjkc3gz", 
+    "ij7kfkx61zz365"
+  ], 
+  "history": [
+    {
+      "content": "<p>There has been a lot of talk about whether or not proofs are going to play a large part in this class. I haven&#39;t seen anything where we will have to create proofs yet, though the concepts of DP as explained seem to echo proof by induction.</p>", 
+      "anon": "no", 
+      "created": "2017-08-21T16:24:39Z", 
+      "uid": "hz0jkj9dnctqp", 
+      "subject": "Proof content?"
+    }
+  ]
+}

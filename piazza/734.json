@@ -1,0 +1,317 @@
+{
+  "status": "active", 
+  "unique_views": 153, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-16T17:58:59Z", 
+      "data": "j8uhho4ydan6yh", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-16T18:05:36Z", 
+      "data": "j8uhq62314a15t", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-16T18:08:36Z", 
+      "data": "j8uhu1iotnv4du", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j8uhho4vxni6yg", 
+      "anon": "no", 
+      "when": "2017-10-16T18:21:12Z", 
+      "type": "followup", 
+      "uid": "i4ogin8rDC4"
+    }, 
+    {
+      "to": "j8uhho4vxni6yg", 
+      "anon": "no", 
+      "when": "2017-10-16T18:39:08Z", 
+      "type": "followup", 
+      "uid": "hq9zldy4rr4w1"
+    }, 
+    {
+      "to": "j8uhho4vxni6yg", 
+      "anon": "no", 
+      "when": "2017-10-16T18:49:05Z", 
+      "type": "feedback", 
+      "uid": "hqa9hej5ny2gl"
+    }, 
+    {
+      "to": "j8uhho4vxni6yg", 
+      "anon": "no", 
+      "when": "2017-10-16T18:59:09Z", 
+      "type": "feedback", 
+      "uid": "hq9zldy4rr4w1"
+    }, 
+    {
+      "to": "j8uhho4vxni6yg", 
+      "anon": "no", 
+      "when": "2017-10-16T19:09:28Z", 
+      "type": "feedback", 
+      "uid": "hqa9hej5ny2gl"
+    }, 
+    {
+      "to": "j8uhho4vxni6yg", 
+      "anon": "no", 
+      "when": "2017-10-16T23:52:23Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-17T00:48:47Z", 
+      "data": "j8uw4o3ncbz1dq", 
+      "uid": "hkjzzued3ef4xh"
+    }, 
+    {
+      "to": "j8uhho4vxni6yg", 
+      "anon": "no", 
+      "when": "2017-10-17T01:46:59Z", 
+      "type": "feedback", 
+      "uid": "hqa9hej5ny2gl"
+    }, 
+    {
+      "to": "j8uhho4vxni6yg", 
+      "anon": "no", 
+      "when": "2017-10-17T07:30:09Z", 
+      "type": "feedback", 
+      "uid": "i4hdvab632i522"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8uhho4vxni6yg", 
+  "bookmarked": 9, 
+  "tags": [
+    "exam", 
+    "graph_algorithms", 
+    "student", 
+    "unanswered"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-10-16T18:21:12Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "i4ogin8rDC4", 
+      "created": "2017-10-16T18:21:12Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8uia8lc5pf3g0", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>Yeah I gave up on this practice problem after thinking about it for an hour or two. It&#39;s still bugging me.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-16T18:39:08Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "hq9zldy4rr4w1", 
+      "created": "2017-10-16T18:39:08Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8uixb27raz7bn", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-16T18:49:05Z", 
+          "uid": "hqa9hej5ny2gl", 
+          "created": "2017-10-16T18:49:05Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j8uja32gjy45ah", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Why (7,2,2)?\u00a0 (4,5,2) works too.\u00a0 I used DFS, starting with (4,7,0), and cycling through 6 possible edges for any given vertex, i.e. 4-&gt;7, 4-&gt;10, 7-&gt;4, 7-&gt;10, 10-&gt;4, 10-&gt;7, bypassing invalid edges and back edges.\u00a0 So this is the path I got: (4,7,0) -&gt; (0,7,4) -&gt; (4,3,4)\u00a0-&gt; (0,3,8)\u00a0-&gt; (3,0,8)\u00a0-&gt; (1,0,10)\u00a0-&gt; (0,1,10)\u00a0-&gt; (4,1,6)\u00a0-&gt; (0,5,6)\u00a0-&gt; (4,5,2).</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-16T18:59:09Z", 
+          "uid": "hq9zldy4rr4w1", 
+          "created": "2017-10-16T18:59:09Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j8ujn1nm81k1nx", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I should&#39;ve said like (7,2,2). Though I am not sure if we have more than one solution to this problem. We could actually define all the edges and then try and find a feasible path from (0,7,4) to any sum of containers that equal 11, though some of these could never be connected back to the original graph.\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-16T19:09:28Z", 
+          "uid": "hqa9hej5ny2gl", 
+          "created": "2017-10-16T19:09:28Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j8uk0bfpw385to", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>What&#39;s the previous state to (7,2,2) that allows you transform to (7,2,2) with the legal moves?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-16T23:52:23Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-10-16T23:52:23Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j8uu45egbr4px", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>We really don&#39;t need to find the shortest path, but just any path.</p>\n<p></p>\n<p>As you mentioned, if every vertex\u00a0represents a specific status of the 3 containers, and every edge represents a valid operation, we then have a graph where we can run DFS (or BFS) to find a valid path to a vertex that has 2 in either one of the last two containers.</p>\n<p></p>\n<p>I solved the problem, and here is one of the solutions that I got (My order of containers is 10, then 7, then 4):</p>\n<p></p>\n<p>(0, 7, 4) -&gt; (4, 7, 0) -&gt; (10, 1, 0) -&gt; (6, 1, 4) -&gt; (6, 5, 0) -&gt; (2, 5, 4) -&gt; (2, 7, 2)</p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-17T01:46:59Z", 
+          "uid": "hqa9hej5ny2gl", 
+          "created": "2017-10-17T01:46:59Z", 
+          "type": "feedback", 
+          "id": "j8uy7ixykjm7i9", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thanks for going through the trouble explaining. I had misread the problem and stopped at the first solution that has a 2 in it and did not check which container got the 2.\u00a0 My next move would be (4,5,2) -&gt; (2,7,2) if I had realized a valid solution has to\u00a0be a 2 in the 4- or 7-pint container, not just any container.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-17T07:30:09Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-10-17T07:30:09Z", 
+          "type": "feedback", 
+          "id": "j8vagtvq2n24c3", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Incidentally, save some combinatorics, you only need 2 values to specify a node as the total quantity of water is fixed; so 39 nodes [(0,0) not being feasible]; start node is (7,4), goal nodes are (2,*) or (*,2)\n\nSo a path would be (7,4) -&gt; (7,0) -&gt; (1,0) -&gt; (1,4) -&gt; (5,0) -&gt; (5,4) -&gt; (7,2)"
+        }
+      ], 
+      "subject": "<p>This would definitely be a tuple/graph flow problem. Representing the edges is kinda time-consuming. But once you have that, you just need to find the shortest path between two vertices - (0,7,4)\u00a0 - ( Bucket10, Bucket7, Bucket4 ) to ex:(7,2,2) using ( like ) Dijkstra&#39;s algorithm.\u00a0</p>"
+    }
+  ], 
+  "nr": 734, 
+  "bucket_order": 2, 
+  "type": "note", 
+  "folders": [
+    "exam", 
+    "graph_algorithms"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 6, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-10-16T17:58:59Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145146128, 
+  "tag_good": [
+    {
+      "name": "Hugh Woltzen", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "iebwjhg152x642"
+    }
+  ], 
+  "tag_good_arr": [
+    "iebwjhg152x642"
+  ], 
+  "history": [
+    {
+      "content": "<p>Hi All,</p>\n<p>\u00a0</p>\n<p>I wanted to start a post for each practice problem. This one is for 3.8.\u00a0 I will include the question here and then my solution in the comments - I would appreciate if a few people could validate it.\u00a0 If we can come to a consensus, we can indicate its solved in the students (or instructors?) section.</p>\n<p>\u00a0</p>\n<p>Problem 3.8:</p>\n<p></p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/hvil6y6khgk2ri/j8uh3ub2qj5r/3.8.jpg\" alt=\"\" /></p>\n<p></p>\n<p>To be honest, I dont have any real answer for this; at first I was trying to apply some sort of flow to it OR a weighted edge solution, but I noticed that does not show up until ch4 and this is from ch3 (so that wouldnt be a solution).\u00a0</p>\n<p></p>\n<p>The only other thing I can think of is to use something akin to states a la Reinforcement Learning: put all possible combinations into their own vector (10PintAmt, 7PintAmt, 4PintAmt) and then jump from state to state based on if the next state is possible to reach from the current state.\u00a0 For example, the tuple (0, 7, 4) would represent the first vertex, from which point you could draw a directed edge to (4, 7, 0) as well as vertex (7, 0, 4), and then right on down the line for all possible combinations.\u00a0 What give me pause about this is it seems <em>this would dramatically make this problem harder because you would have to figure out all possible combinations and edges before you make the graph</em>, which seems like thats far harder than the original problem; also, if you do this you have the answer to the question already so why would the graph be run.\u00a0 It seems like this would be akin to building a model house that is fully functional and structurally sound, only to build the &#39;real&#39; house 5 feet away, demolishing the original model. It just feels as if you need to know the answer to the question before you frame the question, and that just doesnt sit right to me.</p>\n<p></p>\n<p>My solution seems like a massive amount of work and hand-waving and relies on the problem already being solved, so I am looking to see what others did for this problem.</p>", 
+      "anon": "no", 
+      "created": "2017-10-17T00:48:47Z", 
+      "uid": "hkjzzued3ef4xh", 
+      "subject": "Practice Problem 3.8"
+    }, 
+    {
+      "content": "<p>Hi All,</p>\n<p>\u00a0</p>\n<p>I wanted to start a post for each practice problem. This one is for 3.8.\u00a0 I will include the question here and then my solution in the comments - I would appreciate if a few people could validate it.\u00a0 If we can come to a consensus, we can indicate its solved in the students (or instructors?) section.</p>\n<p>\u00a0</p>\n<p>Problem 3.8:</p>\n<p></p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/hvil6y6khgk2ri/j8uh3ub2qj5r/3.8.jpg\" alt=\"\" /></p>\n<p></p>\n<p>To be honest, I dont have any real answer for this; at first I was trying to apply some sort of flow to it OR a weighted edge solution, but I noticed that does not show up until ch4 and this is from ch3 (so that wouldnt be a solution).\u00a0</p>\n<p></p>\n<p>The only other thing I can think of is to use something akin to states a la Reinforcement Learning: put all possible combinations into their own vector (10PintAmt, 7PintAmt, 4PintAmt) and then jump from state to state based on if the next state is possible to reach from the current state.\u00a0 For example, the tuple (0, 7, 4) would represent the first vertex, from which point you could draw a directed edge to (4, 7, 0) as well as vertex (7, 0, 4), and then right on down the line for all possible combinations.\u00a0 What give me pause about this is it seems <em>this would dramatically make this problem harder because you would have to figure out all possible combinations and edges before you make the graph</em>, which seems like thats far harder than the original problem; also, if you do this you have the answer to the question already so why would the graph be run.\u00a0 It seems like this would be akin to building a model house that is fully functional and structurally sound, only to build the &#39;real&#39; house 5 feet away, demolishing the original model. It just feels as if you need to know the answer to the question before you frame the question, and that just doesnt sit right to me.</p>\n<p></p>\n<p>My solution seems like a massive amount of work and hand-waving and relies on the problem already being solved, so I am looking to see what others did for this problem.</p>", 
+      "anon": "no", 
+      "created": "2017-10-16T18:08:36Z", 
+      "uid": "hvil6y6khgk2ri", 
+      "subject": "Practice Problem 3.8"
+    }, 
+    {
+      "content": "<p>Hi All,</p>\n<p>\u00a0</p>\n<p>I wanted to start a post for each practice problem. This one is for 3.8.\u00a0 I will include the question here and then my solution in the comments - I would appreciate if a few people could validate it.\u00a0 If we can come to a consensus, we can indicate its solved in the students (or instructors?) section.</p>\n<p>\u00a0</p>\n<p>Problem 3.8:</p>\n<p></p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/hvil6y6khgk2ri/j8uh3ub2qj5r/3.8.jpg\" alt=\"\" /></p>\n<p></p>\n<p>To be honest, I dont have any real answer for this; at first I was trying to apply some sort of flow to it OR a weighted edge solution, but I noticed that does not show up until ch4 and this is from ch3 (so that wouldnt be a solution).\u00a0</p>\n<p></p>\n<p>The only other thing I can think of is to put all possible combinations into their own vector (10PintAmt, 7PintAmt, 4PintAmt) : so for example the tuple (0, 7, 4) would represent the first vertex, from which point you could draw a directed edge to (4, 7, 0) as well as vertex (7, 0, 4), and then right on down the line for all possible combinations.\u00a0 What give me pause about this is it seems <em>this would dramatically make this problem harder because you would have to figure out all possible combinations and edges before you make the graph</em>, which seems like thats far harder than the original problem; also, if you do this you have the answer to the question already so why would the graph be run.\u00a0 It seems like this would be akin to building a model house that is fully functional and structurally sound, only to build the &#39;real&#39; house 5 feet away, demolishing the original model. It just feels as if you need to know the answer to the question before you frame the question, and that just doesnt sit right to me.</p>\n<p></p>\n<p>My solution seems like a massive amount of work and hand-waving and relies on the problem already being solved, so I am looking to see what others did for this problem.</p>", 
+      "anon": "no", 
+      "created": "2017-10-16T18:05:36Z", 
+      "uid": "hvil6y6khgk2ri", 
+      "subject": "Practice Problem 3.8"
+    }, 
+    {
+      "content": "<p>Hi All,</p>\n<p>\u00a0</p>\n<p>I wanted to start a post for each practice problem. This one is for 3.8.\u00a0 I will include the question here and then my solution in the comments - I would appreciate if a few people could validate it.\u00a0 If we can come to a consensus, we can indicate its solved in the students (or instructors?) section.</p>\n<p>\u00a0</p>\n<p>Problem 3.8:</p>\n<p></p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/hvil6y6khgk2ri/j8uh3ub2qj5r/3.8.jpg\" alt=\"\" /></p>\n<p></p>\n<p>To be honest, I dont have any real answer for this; at first I was trying to apply some sort of flow to it OR a weighted edge solution, but I noticed that does not show up until ch4 and this is from ch3 (so that wouldnt be a solution).\u00a0</p>\n<p></p>\n<p>The only other thing I can think of is to put all possible combinations into their own vector (10PintAmt, 7PintAmt, 4PintAmt) : so for example the tuple (0, 7, 4) would represent the first vertex, from which point you could draw a directed edge to (4, 7, 0) as well as vertex (7, 0, 4), and then right on down the line for all possible combinations.\u00a0 What give me pause about this is it seems <em>this would dramatically make this problem harder because you would have to figure out all possible combinations and edges before you make the graph</em>, which seems like thats far harder than the original problem; also, if you do this you have the answer to the question already so why would the graph be run.\u00a0 It seems like this would be akin to building a model house that is fully functional and structurally sound, only to build the &#39;real&#39; house 5 feet away, demolishing the original model.\u00a0</p>\n<p></p>\n<p>My solution seems like a massive amount of work and hand-waving and relies on the problem already being solved, so I am looking to see what others did for this problem.</p>", 
+      "anon": "no", 
+      "created": "2017-10-16T17:58:59Z", 
+      "uid": "hvil6y6khgk2ri", 
+      "subject": "Practice Problem 3.8"
+    }
+  ]
+}

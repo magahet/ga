@@ -1,0 +1,419 @@
+{
+  "status": "active", 
+  "unique_views": 219, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-08T13:17:30Z", 
+      "data": "j8irwvbctzm4wh", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j8irwvb820m4wg", 
+      "anon": "no", 
+      "when": "2017-10-08T13:31:41Z", 
+      "type": "followup", 
+      "uid": "idgk9rl6Wdv"
+    }, 
+    {
+      "to": "j8irwvb820m4wg", 
+      "anon": "no", 
+      "when": "2017-10-08T13:49:30Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j8irwvb820m4wg", 
+      "anon": "no", 
+      "when": "2017-10-08T14:32:58Z", 
+      "type": "feedback", 
+      "uid": "hvfeyx7qglF"
+    }, 
+    {
+      "to": "j8irwvb820m4wg", 
+      "anon": "no", 
+      "when": "2017-10-08T18:11:37Z", 
+      "type": "followup", 
+      "uid": "isb30n9eruy4my"
+    }, 
+    {
+      "to": "j8irwvb820m4wg", 
+      "anon": "no", 
+      "when": "2017-10-08T18:16:27Z", 
+      "type": "feedback", 
+      "uid": "hz0jkj9dnctqp"
+    }, 
+    {
+      "to": "j8irwvb820m4wg", 
+      "anon": "no", 
+      "when": "2017-10-08T19:18:08Z", 
+      "type": "feedback", 
+      "uid": "isb30n9eruy4my"
+    }, 
+    {
+      "to": "j8irwvb820m4wg", 
+      "anon": "no", 
+      "when": "2017-10-08T21:05:57Z", 
+      "type": "feedback", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j8irwvb820m4wg", 
+      "anon": "no", 
+      "when": "2017-10-08T21:54:24Z", 
+      "type": "followup", 
+      "uid": "hve4kbcvx7l4t3"
+    }, 
+    {
+      "to": "j8irwvb820m4wg", 
+      "anon": "no", 
+      "when": "2017-10-08T22:14:53Z", 
+      "type": "feedback", 
+      "uid": "i4j6x4gsbrz70z"
+    }, 
+    {
+      "to": "j8irwvb820m4wg", 
+      "anon": "no", 
+      "when": "2017-10-08T22:54:34Z", 
+      "type": "feedback", 
+      "uid": "isb30n9eruy4my"
+    }, 
+    {
+      "to": "j8irwvb820m4wg", 
+      "anon": "no", 
+      "when": "2017-10-08T22:58:03Z", 
+      "type": "feedback", 
+      "uid": "isb30n9eruy4my"
+    }, 
+    {
+      "to": "j8irwvb820m4wg", 
+      "anon": "no", 
+      "when": "2017-10-09T02:05:36Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j8irwvb820m4wg", 
+      "anon": "no", 
+      "when": "2017-10-09T03:07:37Z", 
+      "type": "feedback", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j8irwvb820m4wg", 
+      "anon": "no", 
+      "when": "2017-10-09T03:36:59Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-10T19:55:43Z", 
+      "data": "j8m10o7e8oi7fe", 
+      "uid": "gy4twfv45cg5o6"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8irwvb820m4wg", 
+  "bookmarked": 12, 
+  "tags": [
+    "instructor-note", 
+    "project"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-10-08T13:31:41Z", 
+      "no_upvotes": 0, 
+      "uid": "idgk9rl6Wdv", 
+      "created": "2017-10-08T13:31:41Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8isf3fakys41c", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-08T13:49:30Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-10-08T13:49:30Z", 
+          "type": "feedback", 
+          "id": "j8it209pb9x43t", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Hi Mike,</p>\n<p></p>\n<p>I asked about the boxes on page 1 not aligning with my write-ups in &#64;581, and John said that would be OK as he would deal when he grades; from what I can understand, so long as your write-up is on page 1 and your graphs on pages 2-3 you will be fine (this is what I am hoping is meant by point 3 above).\u00a0 If this changes now I basically have to re-write my report in under 24 hours, so I am hoping the answer in &#64;581 still holds :)</p>\n<p></p>\n<p>John, its still true that as long as the write-up is on the first page - even if it doesnt align with the boxes - its ok, yes?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-08T14:32:58Z", 
+          "uid": "hvfeyx7qglF", 
+          "created": "2017-10-08T14:32:58Z", 
+          "type": "feedback", 
+          "id": "j8iulwzx5gk481", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Mine was already pretty close to start with. \u00a0I was just missing the first line of my task 3 write-up and the right margin was cutting off a few letters here and there. \u00a0So I just went through several &#34;tweak margins, add/remove blank lines, upload and check if it fits&#34; cycles to get it to be in the squares.... \u00a0just in case.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-09T02:05:36Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-10-09T02:05:36Z", 
+          "type": "feedback", 
+          "id": "j8jjcn2wyc66u", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>OK, I fixed mine up a bit - I set the margins back to the original and took out some things. Still dont fully fit though. Hoping its ok!</p>"
+        }
+      ], 
+      "subject": "<p>When you say anything outside of the bounds will be ignored, are you referring to the page 1 includes all write up. Page 2 all of task 1 plots and page 3 task 3 plots? Because when I upload to gradescope with that format it automatically tries to draw a rectangle around my task1 writeup, task2 writeup and task3 writeup on page 1. The rectangles it draws are close but do not correctly encompass all the text for my tasks. Am I going to have to fiddle with it until gradescope correctly draws the rectangle or is the page 1 writeup, page 2 graph page 3 graph enough?</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-08T18:11:37Z", 
+      "no_upvotes": 0, 
+      "uid": "isb30n9eruy4my", 
+      "created": "2017-10-08T18:11:37Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8j2f3f9k912ox", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-08T18:16:27Z", 
+          "uid": "hz0jkj9dnctqp", 
+          "created": "2017-10-08T18:16:27Z", 
+          "type": "feedback", 
+          "id": "j8j2lbcz1u36zt", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Are you using the seeds/coefficients provided for task 2? It sounds like you might be randomly generating them. The validation files are specific for the provided data.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-08T19:18:08Z", 
+          "uid": "isb30n9eruy4my", 
+          "created": "2017-10-08T19:18:08Z", 
+          "type": "feedback", 
+          "id": "j8j4sn62a232fe", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Yes, I checked, I used the seeds and coefficients provided for task 2 in the\u00a0testConfigHashType1.txt for type 1 and testConfigHashType2.txt for type 2 hash functions. But still get a few thousand mismatches...</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-08T21:05:57Z", 
+          "uid": "i4ket0u1z5q31a", 
+          "created": "2017-10-08T21:05:57Z", 
+          "type": "feedback", 
+          "id": "j8j8na7e2py6fm", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Are you getting the errors for both hash types?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-08T22:54:34Z", 
+          "uid": "isb30n9eruy4my", 
+          "created": "2017-10-08T22:54:34Z", 
+          "type": "feedback", 
+          "id": "j8jciz27x8v14q", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>No, my type 1 get 100% matches.</p>\n<p>What&#39;s weird is, I counted number of False in my first m elements of the bloom filter result and get 0 False. This means my false negative rate is zero. But the autograder says I have 9 incorrect false...</p>\n<p>Is there anything wrong with the autograder?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-08T22:58:03Z", 
+          "uid": "isb30n9eruy4my", 
+          "created": "2017-10-08T22:58:03Z", 
+          "type": "feedback", 
+          "id": "j8jcngecsjt49y", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Figured out why. Find an error in my type 2 hash function... Thanks for helping Alyssa and David!</p>\n<p>Now I get 100% match for both type 1 and type 2 for task 2 :)</p>"
+        }
+      ], 
+      "subject": "<p></p><ul><li>By saying, &#34;If your code fails the auto grader (breaks, doesn&#39;t get a perfect match for type two hashs, or worse) the coding section of your project will get a 0, (50% of the project grade) so be sure your code follows the given conventions .&#34;</li><li>Do you mean if there are incorrect true or false compared with the validation file, the score for coding will be 0? I&#39;m having some incorrect true/false after running task 2 following the command. But I have no idea how to improve the match... Any suggestions?\u00a0When I test input data randomly generated by myself, I get 0 false negative though.\u00a0</li></ul>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-08T21:54:24Z", 
+      "no_upvotes": 0, 
+      "uid": "hve4kbcvx7l4t3", 
+      "created": "2017-10-08T21:54:24Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8jadlej2de57f", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-08T22:14:53Z", 
+          "uid": "i4j6x4gsbrz70z", 
+          "created": "2017-10-08T22:14:53Z", 
+          "type": "feedback", 
+          "id": "j8jb3xwcavh65w", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>1. I have added 4 plots for task1. 2 for each hashType (random vs correlated data). I kind of squeezed all 4 into page2</p>\n<p>2. Yes, they go on different sections</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-09T03:07:37Z", 
+          "uid": "i4ket0u1z5q31a", 
+          "created": "2017-10-09T03:07:37Z", 
+          "type": "feedback", 
+          "id": "j8jlkepnk4u5gy", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Plots go on page 2 for task 1 and on page 3 for task 3.</p>\n<p>You can have 4 for task 3, the 4 that are asked for.</p>\n<p>For task 1 I\u00a0did 9: 4 for scatter plotting the hashing behavior of random and sequential data for each hash type, 4 for bin counting false positive collisions, and an extra one comparing\u00a0inconsistent behavior in the hash function.</p>\n<p>But that might be overkill.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-09T03:36:59Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-10-09T03:36:59Z", 
+          "type": "feedback", 
+          "id": "j8jmm5o8fy51q2", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "&#64;Lekha, I&#39;m sure you can have more than 1 plot for Task 1. I think they didn&#39;t partition the page like they did for Task 3 being they were trying to leave the question more open-ended."
+        }
+      ], 
+      "subject": "<p>Couple of report related Qs. If anyone can provide a quick response that will be much appreciated.\u00a0\u00a0</p>\n<p>1. I see only one slot for task 1 plot. I would like to have 2( with 2 plots on each one for type 1 and another for type 2)\u00a0 for 2 different data sets. Will it break the rules to have 2?</p>\n<p>2. I would prefer my plots to be close to my write up so they can be correlated. But looks like plots go on different section altogether. Is my understanding correct?</p>\n<p>TIA</p>"
+    }
+  ], 
+  "nr": 673, 
+  "bucket_order": 2, 
+  "type": "note", 
+  "folders": [
+    "project"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 0, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-10-08T13:17:30Z", 
+  "is_tag_good": false, 
+  "config": {
+    "is_announcement": 1, 
+    "bypass_email": 1
+  }, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145162275, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "Hi folks\nI&#39;m gonna post a few last minute things for the project, so you can do the best you can.  Posting from phone so will be short.  \n<ul><li>Like I posted Wednesday I&#39;m gone this weekend.  Not going to address anything on piazza directly.</li><li>If your code fails the auto grader (breaks, doesn&#39;t get a perfect match for type two hashs, or worse) the coding section of your project will get a 0, (50% of the project grade) so be sure your code follows the given conventions .</li><li>Your report needs to follow the given configuration on gradescope .  Anything outside the bounds will be ignored.</li><li>Do not submit a zip file to t-square, or anything extra.  Only submit bloom.py, unzipped.  anything not matching this requirement will be treated as no submission.</li></ul>\n\nGood luck for those that are not done yet (most of you have submitted already-good job!) if you have questions search the forums, look at the 6 hours of office hour Vids I did and check out the office hour notes I posted.", 
+      "anon": "no", 
+      "created": "2017-10-10T19:55:43Z", 
+      "uid": "gy4twfv45cg5o6", 
+      "subject": "some last minute project stuff"
+    }, 
+    {
+      "content": "<p>Hi folks</p>\n<p>I&#39;m gonna post a few last minute things for the project, so you can do the best you can. \u00a0Posting from phone so will be short. \u00a0</p>\n<ul><li>Like I posted Wednesday I&#39;m gone this weekend. \u00a0Not going to address anything on piazza directly.</li><li>If your code fails the auto grader (breaks, doesn&#39;t get a perfect match for type two hashs, or worse) the coding section of your project will get a 0, (50% of the project grade) so be sure your code follows the given conventions .</li><li>Your report needs to follow the given configuration on gradescope . \u00a0Anything outside the bounds will be ignored.</li><li>Do not submit a zip file to t-square, or anything extra. \u00a0Only submit bloom.py, unzipped. \u00a0anything not matching this requirement will be treated as no submission.</li></ul>\n<p></p>\n<p>Good luck for those that are not done yet (most of you have submitted already-good job!) if you have questions search the forums, look at the 6 hours of office hour Vids I did and check out the office hour notes I posted. \u00a0</p>\n<p></p>\n<p>#pin</p>", 
+      "anon": "no", 
+      "created": "2017-10-08T13:17:30Z", 
+      "uid": "gns9oa0pgsO", 
+      "subject": "some last minute project stuff"
+    }
+  ]
+}

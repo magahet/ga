@@ -1,0 +1,164 @@
+{
+  "status": "active", 
+  "unique_views": 137, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-09T03:21:55Z", 
+      "data": "j8jm2s2xcc16tc", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "uid": "hq8hn0qyfuvyr", 
+      "type": "s_answer", 
+      "when": "2017-10-09T03:41:52Z", 
+      "to": "j8jm2s2wm2m6tb", 
+      "anon": "no", 
+      "data": "j8jmsg2reng6i5"
+    }, 
+    {
+      "uid": "gy4twfv45cg5o6", 
+      "type": "i_answer", 
+      "when": "2017-10-09T16:17:12Z", 
+      "to": "j8jm2s2wm2m6tb", 
+      "anon": "no", 
+      "data": "j8kdrtatuk63lg"
+    }, 
+    {
+      "to": "j8jm2s2wm2m6tb", 
+      "anon": "no", 
+      "when": "2017-10-09T16:36:10Z", 
+      "type": "followup", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-10-09T16:36:31Z", 
+      "data": "j8kegnl4vkp5a0", 
+      "uid": "hq8hn0qyfuvyr"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8jm2s2wm2m6tb", 
+  "bookmarked": 4, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-09T03:41:52Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j8jmsg2mko46i4", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "You&#39;re correct. The pseudocode in the notes doesn&#39;t match that in the <a href=\"https://classroom.udacity.com/courses/ud401/lessons/10159691481/concepts/101975518320923\" target=\"_blank\">lecture</a>. In the notes, an incrementing of the clock is missing after setting the pre-order number.\n\nUpdate: Professor fixed the notes.", 
+          "anon": "no", 
+          "created": "2017-10-09T16:36:31Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>You&#39;re correct. The pseudocode in the notes doesn&#39;t match that in the <a href=\"https://classroom.udacity.com/courses/ud401/lessons/10159691481/concepts/101975518320923\" target=\"_blank\">lecture</a>. In the notes, an incrementing of the clock is missing after setting the pre-order number.</p>", 
+          "anon": "no", 
+          "created": "2017-10-09T03:41:52Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-09T16:17:12Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j8kdrtasxsq3lf", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "Good catch, thanks.  I fixed the notes, I think?", 
+          "anon": "no", 
+          "created": "2017-10-09T16:17:12Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-09T16:36:10Z", 
+      "no_upvotes": 0, 
+      "uid": "hq8hn0qyfuvyr", 
+      "created": "2017-10-09T16:36:10Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8keg73pdf1507", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "I see the fix in the notes. Thanks!"
+    }
+  ], 
+  "nr": 677, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "graph_algorithms"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 2, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "graph_algorithms", 
+    "student"
+  ], 
+  "created": "2017-10-09T03:21:55Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145161481, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>In the <a href=\"https://cs6505.wordpress.com/schedule/scc/\" target=\"_blank\">SCC notes</a> it shows clock&#43;&#43; at the end of Explore() but since Explore is called recursively and clock is also used to set previsit as well as postvisit shouldn&#39;t clock be incremented in the beginning also so the numbers look those in Figure 3.6 b) in the textbook?</p>", 
+      "anon": "no", 
+      "created": "2017-10-09T03:21:55Z", 
+      "uid": "i4ket0u1z5q31a", 
+      "subject": "When should the clock be incremented in DFS?"
+    }
+  ]
+}

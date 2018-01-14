@@ -1,0 +1,267 @@
+{
+  "status": "active", 
+  "unique_views": 84, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-27T01:44:55Z", 
+      "data": "j998jdbnvcl44d", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-27T01:45:10Z", 
+      "data": "j998jox9dj94eo", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-27T01:49:08Z", 
+      "data": "j998osu3py17ak", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j998jdbks7b444", 
+      "anon": "no", 
+      "when": "2017-10-27T02:34:48Z", 
+      "type": "followup", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j998jdbks7b444", 
+      "anon": "no", 
+      "when": "2017-10-27T12:56:15Z", 
+      "type": "followup", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j998jdbks7b444", 
+      "anon": "no", 
+      "when": "2017-10-27T14:29:41Z", 
+      "type": "followup", 
+      "uid": "hqa9hej5ny2gl"
+    }, 
+    {
+      "to": "j998jdbks7b444", 
+      "anon": "no", 
+      "when": "2017-10-27T14:45:28Z", 
+      "type": "feedback", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "to": "j998jdbks7b444", 
+      "anon": "no", 
+      "when": "2017-10-27T15:05:12Z", 
+      "type": "feedback", 
+      "uid": "hqa9hej5ny2gl"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j998jdbks7b444", 
+  "bookmarked": 8, 
+  "tags": [
+    "course", 
+    "exam", 
+    "student"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-10-27T02:34:48Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "i4ket0u1z5q31a", 
+      "created": "2017-10-27T02:34:48Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j99abis4q3y3hk", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>Nice</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-27T12:56:15Z", 
+      "no_upvotes": 0, 
+      "uid": "gy4twfv45cg5o6", 
+      "created": "2017-10-27T12:56:15Z", 
+      "type": "followup", 
+      "no_answer": 1, 
+      "id": "j99wipkrjai1or", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "We can explore doing this approach on exam 3.  Let&#39;s discuss again closer to..."
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-27T14:29:41Z", 
+      "no_upvotes": 0, 
+      "uid": "hqa9hej5ny2gl", 
+      "created": "2017-10-27T14:29:41Z", 
+      "type": "followup", 
+      "no_answer": 1, 
+      "id": "j99zuv4nkmg26e", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-27T14:45:28Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-10-27T14:45:28Z", 
+          "type": "feedback", 
+          "id": "j9a0f6io49o4g7", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "One aspect that I think no matter how good your handwriting, is far clearer in print: distinguish $$V$$ from $$\\vee$$, $$v$$ from $$\\nu$$"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-27T15:05:12Z", 
+          "uid": "hqa9hej5ny2gl", 
+          "created": "2017-10-27T15:05:12Z", 
+          "type": "feedback", 
+          "id": "j9a14k4gw4a7kr", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Yep, as hard as I try (maybe too hard), I could hardly tell the difference in my own handwriting for these letters.\u00a0 Sometimes I tried to correct it to make it more clear, but always ends up looking worse:).\u00a0 So in that regard, I am grateful the TAs decoded my scribbles with little complaints (or I just did not hear about it).</p>\n<p>I am not complaining, but I am blaming\u00a0the deficiency in my handwriting for some of the obvious mistakes I made in the exams because I never had so many &#34;what in the world was I thinking&#34; moments in one course.\u00a0\u00a0Practice makes it better, and I am hopeful I will\u00a0 get the hang of it before final exam.</p>"
+        }
+      ], 
+      "subject": "<p>Personally I find the Latex code is easier to manager than unicode, but typing in any code is easier than handwriting for me.\u00a0 Actually it&#39;s not hard for me to write with my hand---I still do it all the time, but there has been so many complaints for years from those who had to read my handwriting that I have been relying on typing (in code or else) to share my ideas for a while:).\u00a0 This course is the first time in a long time that someone actually has to read my handwriting:).</p>\n<p></p>\n<p>Not sure we will make it in this session or exam, but if it&#39;s open for change, I think Google Doc (Insert-&gt;) Equation is the most useful and easiest to use among different paths I attempted---again I would go the length to save people from having to read my handwriting.\u00a0 I do not need to remember any code (unicode or Latex) with Goodle Doc, for what we use in this class anyway, and it&#39;s\u00a0in the cloud.</p>"
+    }
+  ], 
+  "nr": 827, 
+  "bucket_order": 2, 
+  "type": "note", 
+  "folders": [
+    "exam", 
+    "course"
+  ], 
+  "no_answer_followup": 2, 
+  "num_favorites": 4, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-10-27T01:44:55Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145124307, 
+  "tag_good": [
+    {
+      "name": "Chris Anderson", 
+      "admin": false, 
+      "photo": "1408759905_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hz07uekkjnrpb"
+    }, 
+    {
+      "name": "Bhavani Subramanian", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "ijawb89brbO"
+    }, 
+    {
+      "name": "Brandon Richards", 
+      "admin": false, 
+      "photo": "1408392221_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hvfeyx7qglF"
+    }, 
+    {
+      "name": "Arvind Sharma", 
+      "admin": false, 
+      "photo": "1503332883_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "j6m1j9wkzk46tu"
+    }, 
+    {
+      "name": "Babak Keyvani", 
+      "admin": false, 
+      "photo": "1408337737_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hyywem7iw0v1jj"
+    }
+  ], 
+  "tag_good_arr": [
+    "hz07uekkjnrpb", 
+    "ijawb89brbO", 
+    "hvfeyx7qglF", 
+    "j6m1j9wkzk46tu", 
+    "hyywem7iw0v1jj"
+  ], 
+  "history": [
+    {
+      "content": "<p>Hello All,</p>\n<p></p>\n<p>I said I would document how it would be possible to potentially type this stuff up in Word, and I wanted to document the characters I use here - so this post is a reference when typing in Word (maybe one can be started for other word processors).\u00a0 To get these special characters, you type out the 4-digit hex number and then immediately press Alt&#43;x in Word.\u00a0 The list (full list available <a href=\"http://www.alanwood.net/unicode/#links\" target=\"_blank\">here</a>):</p>\n<p></p>\n<table><tbody><tr><td>Desc</td><td>Character</td><td>Code</td></tr><tr><td>Subset</td><td>\u2282</td><td>2282</td></tr><tr><td>Not Equals</td><td>\u2260</td><td>2260</td></tr><tr><td>Exists</td><td>\u2208</td><td>2208</td></tr><tr><td>Does Not Exist</td><td>\u2209</td><td>2209</td></tr><tr><td>Arrow</td><td>\u2192</td><td>2192</td></tr><tr><td>Left-Right Double Arrow</td><td>\u21d4</td><td>21d4</td></tr><tr><td>For All</td><td>\u2200</td><td>2200</td></tr></tbody></table>\n<p></p>\n<p>Thanks,</p>\n<p>Brent</p>\n<p>\u00a0</p>", 
+      "anon": "no", 
+      "created": "2017-10-27T01:49:08Z", 
+      "uid": "hvil6y6khgk2ri", 
+      "subject": "Useful Word Character Reference"
+    }, 
+    {
+      "content": "<p>Hello All,</p>\n<p></p>\n<p>I said I would document how it would be possible to potentially type this stuff up in Word, and I wanted to document the characters I use here - so this post is a reference when typing in Word (maybe one can be started for other word processors).\u00a0 To get these special characters, you type out the 4-digit hex number and then immediately press Alt&#43;x in Word.\u00a0 The list (full list available <a href=\"http://www.alanwood.net/unicode/#links\" target=\"_blank\">here</a>):</p>\n<p></p>\n<p>Subset \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0 \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u2282\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 2282</p>\n<p>Not Equals \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u2260 \u00a0 \u00a0 \u00a0\u00a0 2260</p>\n<p>Exists \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0\u00a0\u00a0 \u2208 \u00a0\u00a0 \u00a0\u00a0\u00a0 2208</p>\n<p>Does Not Exist\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u2209 \u00a0 \u00a0 \u00a0 \u00a0 2209</p>\n<p>Arrow\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u2192\u00a0 \u00a0\u00a0 \u00a0\u00a0 2192</p>\n<p>Left-Right Double Arrow\u00a0\u00a0\u00a0\u00a0 \u21d4\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 21d4</p>\n<p>For All\u00a0 \\t \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u2200\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 2200</p>\n<p></p>\n<p>Thanks,</p>\n<p>Brent</p>\n<p>\u00a0</p>", 
+      "anon": "no", 
+      "created": "2017-10-27T01:45:10Z", 
+      "uid": "hvil6y6khgk2ri", 
+      "subject": "Useful Word Character Reference"
+    }, 
+    {
+      "content": "<p>Hello All,</p>\n<p></p>\n<p>I said I would document how it would be possible to potentially type this stuff up in Word, and I wanted to document the characters I use here - so this post is a reference when typing in Word (maybe one can be started for other word processors).\u00a0 To get these special characters, you type out the 4-digit hex number and then immediately press Alt&#43;x in Word.\u00a0 The list (full list available <a href=\"http://www.alanwood.net/unicode/#links\" target=\"_blank\">here</a>):</p>\n<p></p>\n<p>Subset \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0 \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u2282\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 2282</p>\n<p>Not Equals \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u2260 \u00a0 \u00a0 \u00a0\u00a0 2260</p>\n<p>Exists \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0\u00a0\u00a0 \u2208 \u00a0\u00a0 \u00a0\u00a0\u00a0 2208</p>\n<p>Does Not Exist\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u2209 \u00a0 \u00a0 \u00a0 \u00a0 2209</p>\n<p>Arrow\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u2192\u00a0 \u00a0\u00a0 \u00a0\u00a0 2192</p>\n<p>Left-Right Double Arrow\u00a0\u00a0\u00a0\u00a0 \u21d4\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 21d4</p>\n<p>For All\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u2200\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 2200</p>\n<p></p>\n<p>Thanks,</p>\n<p>Brent</p>\n<p>\u00a0</p>", 
+      "anon": "no", 
+      "created": "2017-10-27T01:44:55Z", 
+      "uid": "hvil6y6khgk2ri", 
+      "subject": "Useful Word Character Reference"
+    }
+  ]
+}

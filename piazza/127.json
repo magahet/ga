@@ -1,0 +1,113 @@
+{
+  "status": "active", 
+  "unique_views": 161, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-08-31T16:01:29Z", 
+      "data": "j70n1de9w0r34g", 
+      "uid": "hz03lfq2z6r446"
+    }, 
+    {
+      "uid": "i4nkipeofrkrz", 
+      "type": "s_answer", 
+      "when": "2017-08-31T18:23:22Z", 
+      "to": "j70n1de6bhm34f", 
+      "anon": "no", 
+      "data": "j70s3u2p7munc"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j70n1de6bhm34f", 
+  "bookmarked": 2, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-08-31T18:23:22Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [
+        "isce58miop454k", 
+        "hz03lfq2z6r446"
+      ], 
+      "id": "j70s3u2lt31nb", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Xinyu Wang", 
+          "admin": true, 
+          "photo": null, 
+          "us": false, 
+          "role": "ta", 
+          "facebook_id": null, 
+          "id": "isce58miop454k"
+        }, 
+        {
+          "name": "Balaji Sundaresan", 
+          "admin": false, 
+          "photo": null, 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hz03lfq2z6r446"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>As long as you submit a PDF (or image files), you should be good using whatever you prefer.</p>", 
+          "anon": "no", 
+          "created": "2017-08-31T18:23:22Z", 
+          "uid": "i4nkipeofrkrz", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 127, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw1"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw1", 
+    "student"
+  ], 
+  "created": "2017-08-31T16:01:29Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145297298, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>Can we use R Studio rmd files to generate HW latex pdf?</p>\n<p>The latex syntax is much easier here than overleaf.\u00a0</p>\n<p>Thanks.</p>", 
+      "anon": "no", 
+      "created": "2017-08-31T16:01:29Z", 
+      "uid": "hz03lfq2z6r446", 
+      "subject": "Using R Studio Rmd files to generate HW latex Pdf"
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "status": "active", 
+  "unique_views": 146, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-04T02:46:46Z", 
+      "data": "j8cfmbc7a4p3v9", 
+      "uid": "hve4k9bj2u4qu"
+    }, 
+    {
+      "uid": "gy4twfv45cg5o6", 
+      "type": "i_answer", 
+      "when": "2017-10-04T12:32:49Z", 
+      "to": "j8cfmbbrrn13v8", 
+      "anon": "no", 
+      "data": "j8d0jzv1z9c3uc"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8cfmbbrrn13v8", 
+  "bookmarked": 2, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-04T12:32:49Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "idg5nm2lC96", 
+        "hveop63kovn61t", 
+        "hve4k9bj2u4qu", 
+        "i4fxg6tfzh211n"
+      ], 
+      "id": "j8d0jzuwcp73ub", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Dennis Sidharta", 
+          "admin": false, 
+          "photo": "1463366773_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "idg5nm2lC96"
+        }, 
+        {
+          "name": "Sterling Taylor", 
+          "admin": false, 
+          "photo": "1427505602_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hveop63kovn61t"
+        }, 
+        {
+          "name": "Josh Clum", 
+          "admin": false, 
+          "photo": "1431566311_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hve4k9bj2u4qu"
+        }, 
+        {
+          "name": "Estelle Yeh", 
+          "admin": false, 
+          "photo": "1421544945_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i4fxg6tfzh211n"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "I don&#39;t mean to be snarky, but what else is there?  Memorizing the pseudocode?  I&#39;ve never asked that.  Maybe knowing how to implement min-heap data structure?  I won&#39;t ask you that, but you should know that anyways.", 
+          "anon": "no", 
+          "created": "2017-10-04T12:32:49Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 584, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw4"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 4, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw4", 
+    "student"
+  ], 
+  "created": "2017-10-04T02:46:45Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145183788, 
+  "tag_good": [
+    {
+      "name": "abarysevich", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4t8eakz3ex6lk"
+    }, 
+    {
+      "name": "Dennis Sidharta", 
+      "admin": false, 
+      "photo": "1463366773_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "idg5nm2lC96"
+    }, 
+    {
+      "name": "Estelle Yeh", 
+      "admin": false, 
+      "photo": "1421544945_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4fxg6tfzh211n"
+    }, 
+    {
+      "name": "Bhavani Subramanian", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "ijawb89brbO"
+    }
+  ], 
+  "tag_good_arr": [
+    "i4t8eakz3ex6lk", 
+    "idg5nm2lC96", 
+    "i4fxg6tfzh211n", 
+    "ijawb89brbO"
+  ], 
+  "history": [
+    {
+      "content": "<p>From the homework practice problem 1, is it safe to assume that for\u00a0Dijkstra\u2019s those three points are all we need to know (input/output, runtime, main idea)? Basically just enough information for us to be able to use it as a black box for another problem? I think so, just want some affirmation on this.</p>", 
+      "anon": "no", 
+      "created": "2017-10-04T02:46:45Z", 
+      "uid": "hve4k9bj2u4qu", 
+      "subject": "Dijkstra\u2019s Algorithm"
+    }
+  ]
+}

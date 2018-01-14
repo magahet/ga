@@ -1,0 +1,367 @@
+{
+  "status": "active", 
+  "unique_views": 165, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-18T02:45:59Z", 
+      "data": "j8wfr8o9n7nhf", 
+      "uid": "i4pmksfnape"
+    }, 
+    {
+      "uid": "idg5nm2lC96", 
+      "type": "s_answer", 
+      "when": "2017-10-18T06:30:53Z", 
+      "to": "j8wfr8o73m8he", 
+      "anon": "no", 
+      "data": "j8wnsgxqvhk5sv"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-10-18T06:33:15Z", 
+      "data": "j8wnvie8j4i75o", 
+      "uid": "idg5nm2lC96"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-10-18T06:35:27Z", 
+      "data": "j8wnycj43bzpk", 
+      "uid": "idg5nm2lC96"
+    }, 
+    {
+      "to": "j8wfr8o73m8he", 
+      "anon": "no", 
+      "when": "2017-10-18T06:54:44Z", 
+      "type": "followup", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-10-18T07:20:19Z", 
+      "data": "j8wpk17zoge3oi", 
+      "uid": "idg5nm2lC96"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-10-18T08:14:32Z", 
+      "data": "j8wrhrmdro56hn", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-10-18T08:14:56Z", 
+      "data": "j8wria0j2cd6nt", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-10-18T08:25:32Z", 
+      "data": "j8wrvwm1na03f5", 
+      "uid": "idg5nm2lC96"
+    }, 
+    {
+      "to": "j8wfr8o73m8he", 
+      "anon": "no", 
+      "when": "2017-10-18T08:27:48Z", 
+      "type": "feedback", 
+      "uid": "idg5nm2lC96"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-10-18T08:33:13Z", 
+      "data": "j8ws5slhm3w5", 
+      "uid": "idg5nm2lC96"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-10-18T08:34:10Z", 
+      "data": "j8ws707koiv4at", 
+      "uid": "idg5nm2lC96"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-10-18T08:50:33Z", 
+      "data": "j8wss31riwh3m1", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "to": "j8wfr8o73m8he", 
+      "anon": "no", 
+      "when": "2017-10-18T08:54:31Z", 
+      "type": "feedback", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "to": "j8wfr8o73m8he", 
+      "anon": "no", 
+      "when": "2017-10-19T00:29:59Z", 
+      "type": "feedback", 
+      "uid": "i4pmksfnape"
+    }, 
+    {
+      "to": "j8wfr8o73m8he", 
+      "anon": "no", 
+      "when": "2017-10-19T02:47:31Z", 
+      "type": "feedback", 
+      "uid": "idg5nm2lC96"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8wfr8o73m8he", 
+  "bookmarked": 6, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-18T06:30:53Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [
+        "i4pmksfnape"
+      ], 
+      "id": "j8wnsgxnsuh5su", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Soe Naing", 
+          "admin": false, 
+          "photo": null, 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i4pmksfnape"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<span style=\"text-decoration:underline\">Mark&#39;s Edit:</span>\nI think a small modification to the network at the <a href=\"https://en.wikipedia.org/wiki/Edmonds%E2%80%93Karp_algorithm#Example\">Wikipedia page</a> would work; say for instance the edge $$DE$$ had capacity 1, then according to the sequence of augmentations listed there, $$DE$$ would be removed from the residual graph after the first augmentation along $$ADEG$$, then added back during the 4th augmentation along $$ABCEDFG$$\n<img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/i4hdvab632i522/j8wspsx29z0/Edmonds_Karp_re_Adding.png\" alt=\"\" />\n<span style=\"text-decoration:underline\">Dennis&#39; Edit (take 2):</span>\nHere&#39;s an example that I came up with:\n\n<img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/idg5nm2lC96/j8ws5o7yhfp4/edmonds_karp.png\" alt=\"\" />\n\nIn the first iteration, augment $$c(\\mathcal{P}) = 7$$ along $$s \\rightarrow a \\rightarrow b \\rightarrow c \\rightarrow t$$.", 
+          "anon": "no", 
+          "created": "2017-10-18T08:50:33Z", 
+          "uid": "i4hdvab632i522", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p><span style=\"text-decoration:underline\">Mark&#39;s Edit:</span><br />I think a small modification to the network at the <a href=\"https://en.wikipedia.org/wiki/Edmonds%E2%80%93Karp_algorithm#Example\">Wikipedia page</a> would work; say for instance the edge $$DE$$ had capacity 1, then according to the sequence of augmentations listed there, $$DE$$ would be removed from the residual graph after the first augmentation along $$ADEG$$, then added back during the 4th augmentation along $$ABCEDFG$$</p>\n<p></p>\n<p><span style=\"text-decoration:underline\">Dennis&#39; Edit (take 2):</span></p>\n<p>Here&#39;s an example that I came up with:</p>\n<p></p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/idg5nm2lC96/j8ws5o7yhfp4/edmonds_karp.png\" alt=\"\" /></p>\n<p></p>\n<p>In the first iteration, augment $$c(\\mathcal{P}) = 7$$ along $$s \\rightarrow a \\rightarrow b \\rightarrow c \\rightarrow t$$.</p>", 
+          "anon": "no", 
+          "created": "2017-10-18T08:34:10Z", 
+          "uid": "idg5nm2lC96", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p><span style=\"text-decoration:underline\">Mark&#39;s Edit:</span><br />I think a small modification to the network at the <a href=\"https://en.wikipedia.org/wiki/Edmonds%E2%80%93Karp_algorithm#Example\">Wikipedia page</a> would work; say for instance the edge $$DE$$ had capacity 1, then according to the sequence of augmentations listed there, $$DE$$ would be removed from the residual graph after the first augmentation along $$ADEG$$, then added back during the 4th augmentation along $$ABCEDFG$$</p>\n<p></p>\n<p><span style=\"text-decoration:underline\">Dennis&#39; Edit (take 2):</span></p>\n<p>Here&#39;s an example that I came up with:</p>\n<p></p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/idg5nm2lC96/j8ws5o7yhfp4/edmonds_karp.png\" alt=\"\" /></p>\n<p></p>\n<p>In the first iteration, augment $$c(\\mathcal{P}) = 7$$ along $$s \\rightarrow a \\rightarrow b \\rightarrow c \\rightarrow t$$. Mark, could you please check, just in case I missed anything?</p>", 
+          "anon": "no", 
+          "created": "2017-10-18T08:33:13Z", 
+          "uid": "idg5nm2lC96", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p><span style=\"text-decoration:underline\">Mark&#39;s Edit:</span><br />I think a small modification to the network at the <a href=\"https://en.wikipedia.org/wiki/Edmonds%E2%80%93Karp_algorithm#Example\">Wikipedia page</a> would work; say for instance the edge $$DE$$ had capacity 1, then according to the sequence of augmentations listed there, $$DE$$ would be removed from the residual graph after the first augmentation along $$ADEG$$, then added back during the 4th augmentation along $$ABCEDFG$$</p>\n<p></p>\n<p><span style=\"text-decoration:underline\">Dennis&#39; Edit (take 2):</span></p>\n<p>Here&#39;s an example that I came up with:</p>\n<p></p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/idg5nm2lC96/j8wrtq9xpicn/edmonds_karp.png\" alt=\"\" /></p>\n<p></p>\n<p>In the first iteration, augment $$c(\\mathcal{P}) = 7$$ along $$s \\rightarrow a \\rightarrow b \\rightarrow c \\rightarrow t$$. Mark, could you please check, just in case I missed anything?</p>", 
+          "anon": "no", 
+          "created": "2017-10-18T08:25:32Z", 
+          "uid": "idg5nm2lC96", 
+          "subject": ""
+        }, 
+        {
+          "content": "EDIT: Mark is right. I don&#39;t know how I could&#39;ve possibly missed that this is asking for Edmonds-Karp.... I&#39;d blame it on all the smoke that&#39;s been in the air in the SF bay area :). Thinking for an example.\n\n<u>Mark&#39;s Edit:</u>\nI think a small modification to the network at the <a href=\"https://en.wikipedia.org/wiki/Edmonds%E2%80%93Karp_algorithm#Example\">Wikipedia page</a> would work; say for instance the edge $$DE$$ had capacity 1, then according to the sequence of augmentations listed there, $$DE$$ would be removed from the residual graph after the first augmentation along $$ADEG$$, then added back during the 4th augmentation along $$ABCEDFG$$", 
+          "anon": "no", 
+          "created": "2017-10-18T08:14:56Z", 
+          "uid": "i4hdvab632i522", 
+          "subject": ""
+        }, 
+        {
+          "content": "EDIT: Mark is right. I don&#39;t know how I could&#39;ve possibly missed that this is asking for Edmonds-Karp.... I&#39;d blame it on all the smoke that&#39;s been in the air in the SF bay area :). Thinking for an example.\n\n<u>Mark&#39;s Edit:</u>\nI think a small modification to the network at the <a href=\"https://en.wikipedia.org/wiki/Edmonds%E2%80%93Karp_algorithm#Example\">Wikipedia page</a> would work; say for instance the edge $$DE$$ had capacity 1, then according to the sequence of augmentations listed there, DE would be removed from the residual graph after the first augmentation along $$ADEG$$, then added back during the 4th augmentation along $$ABCEDFG$$", 
+          "anon": "no", 
+          "created": "2017-10-18T08:14:32Z", 
+          "uid": "i4hdvab632i522", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>EDIT: Mark is right. I don&#39;t know how I could&#39;ve possibly missed that this is asking for Edmonds-Karp.... I&#39;d blame it on all the smoke that&#39;s been in the air in the SF bay area :). Thinking for an example.</p>", 
+          "anon": "no", 
+          "created": "2017-10-18T07:20:19Z", 
+          "uid": "idg5nm2lC96", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>Here&#39;s an example graph $$G$$ from the Ford-Fulkerson lecture:\u00a0</p>\n<p></p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/idg5nm2lC96/j8wnf865mzdw/ff.png\" alt=\"\" /></p>\n<p>Initially, when $$f = 0$$, the residual network $$G^f$$ is the same as the original $$G$$. Suppose that $$c(\\mathcal{P}) = 10$$ is augmented along $$\\vec{ab}$$, then $$f_{ab} = 10$$. In the corresponding $$G^f$$, $$\\vec{ab}$$ is deleted, and $$\\vec{ba}$$ is added with $$c_{ba} = 10$$. Suppose that later we augment $$c(\\mathcal{P}) = 7$$ along $$\\vec{ba}$$, then $$\\vec{ab}$$ is added back in, and $$c_{ab} = 7$$ and $$c_{ba} = 3$$.</p>", 
+          "anon": "no", 
+          "created": "2017-10-18T06:35:27Z", 
+          "uid": "idg5nm2lC96", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>Here&#39;s an example graph $$G$$ from the Ford-Fulkerson lecture:\u00a0</p>\n<p></p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/idg5nm2lC96/j8wnf865mzdw/ff.png\" alt=\"\" /></p>\n<p>Initially, when $$f = 0$$, the residual network $$G^f$$ is the same as the original $$G$$. Suppose that $$c(\\mathcal{P}) = 10$$ is augmented along $$\\vec{ab}$$, then $$f_{ab} = 10$$. In the corresponding $$G^f$$, $$\\vec{ab}$$ is deleted, and $$\\vec{ba}$$ is added. Suppose that later we augment $$c(\\mathcal{P}) = 7$$ along $$\\vec{ba}$$, then $$\\vec{ab}$$ is added back in, and $$c_{ab} = 7$$ and $$c_{ba} = 3$$.</p>", 
+          "anon": "no", 
+          "created": "2017-10-18T06:33:15Z", 
+          "uid": "idg5nm2lC96", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>Here&#39;s an example graph $$G$$ from the Ford-Fulkerson lecture:\u00a0</p>\n<p></p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/idg5nm2lC96/j8wnf865mzdw/ff.png\" alt=\"\" /></p>\n<p>Initially, when $$f = 0$$, the residual network $$G^f$$ is the same as the original $$G$$. Suppose that $$c(\\mathcal{P}) = 10$$ is augmented along $$\\vec{ab}$$, then $$f_{ab} = 10$$. In the corresponding $$G^f$$, $$\\vec{ab}$$ is deleted, and $$\\vec{ba}$$ is added. Suppose that later we augment $$c(\\mathcal{P}) = 7$$ along $$\\vec{ba}$$, then $$\\vec{ab}$$ is added back in, and $$c_{ab} = 3$$.</p>", 
+          "anon": "no", 
+          "created": "2017-10-18T06:30:53Z", 
+          "uid": "idg5nm2lC96", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-18T06:54:44Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "i4hdvab632i522", 
+      "created": "2017-10-18T06:54:44Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8won4wg9er22a", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-18T08:27:48Z", 
+          "uid": "idg5nm2lC96", 
+          "created": "2017-10-18T08:27:48Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j8wrytz0l664ew", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>You&#39;re right. Just updated my answer above. Could you please check, just in case I missed anything?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-18T08:54:31Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-10-18T08:54:31Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j8wsx6syloc2zv", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "That looks right to me; simpler to grok than the modification of the wikipedia network, too :-D"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-19T00:29:59Z", 
+          "uid": "i4pmksfnape", 
+          "created": "2017-10-19T00:29:59Z", 
+          "type": "feedback", 
+          "id": "j8xqc7hoyhp4gb", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thanks to both of you for offering your explanations. The example above really helped, and I can see now that deleted edges can be added back. Just for clarification, deleted edges can be added back with both EK and FF, correct?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-19T02:47:31Z", 
+          "uid": "idg5nm2lC96", 
+          "created": "2017-10-19T02:47:31Z", 
+          "type": "feedback", 
+          "id": "j8xv92emv9f53d", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Yes, that&#39;s correct.</p>"
+        }
+      ], 
+      "subject": "Of course, Dennis, the question refers to Edmonds-Karp; strictly speaking, even though it is a correct illustration of a sound general principle, your original answer only works for Ford-Fulkerson, as Edmonds-Karp would augment along the shortest path, namely 7 along $$sat$$ in the first round then 7 along $$sbt$$ in the 2nd round, then 3 along $$sabt$$.\n\nIt&#39;s precisely the case of that shape network when $$c(sa) = c(at) = c(sb) = c(bt) = 2^{100}, c(ab) = 1$$, that is an often-quoted may-be-pathological-according-to-path-selection-priority case for Ford-Fulkerson yet Edmonds-Karp solves it in 3."
+    }
+  ], 
+  "nr": 750, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw1"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 4, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw1", 
+    "student"
+  ], 
+  "created": "2017-10-18T02:45:59Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145140116, 
+  "tag_good": [
+    {
+      "name": "Soe Naing", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4pmksfnape"
+    }
+  ], 
+  "tag_good_arr": [
+    "i4pmksfnape"
+  ], 
+  "history": [
+    {
+      "content": "<p>Hi all-</p>\n<p></p>\n<p>I\u00a0pretty much understand the Ford-Fulkerson (FF) algorithm, and the role that residual networks play in the algorithm. And although Edmonds Karp (EK) algorithm is supposed to be a type of FF algorithm, I&#39;m having a hard time understanding the condition where deleted edges get readded to the Residual network. I\u00a0know that the minimum capacity edge gets deleted from the residual graph every round and that edges may get added as a result of deleted edges as well.</p>\n<p></p>\n<p>On slide 4 of MF3, the professor states that &#34;<strong>edges may get added back in the residual graph, in particular an edge might get deleted in one round and added back in in a later round</strong>&#34;. I can&#39;t seem to imagine the scenario that may see a deleted edge added back in. I thought that after an edge gets deleted in the residual graph, we just continue looking for an augmenting path among the remaining edges.\u00a0</p>\n<p></p>\n<p>Can an instructor or a student who has full grasp of this &#34;adding back deleted edges&#34; concept do me a huge favor and explain the concept, maybe with an example if possible?</p>\n<p></p>\n<p>Thanks,</p>\n<p>Soe</p>", 
+      "anon": "no", 
+      "created": "2017-10-18T02:45:59Z", 
+      "uid": "i4pmksfnape", 
+      "subject": "Edmonds-Karp Algorithm: readding back deleted edges in Residual Network"
+    }
+  ]
+}

@@ -1,0 +1,564 @@
+{
+  "status": "active", 
+  "unique_views": 149, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "stud", 
+      "when": "2017-09-15T15:04:31Z", 
+      "data": "j7m0lwhriyh3e9"
+    }, 
+    {
+      "uid": "gy4twfv45cg5o6", 
+      "type": "i_answer", 
+      "when": "2017-09-15T15:06:37Z", 
+      "to": "j7m0lwhpoln3e8", 
+      "anon": "no", 
+      "data": "j7m0olciud95kt"
+    }, 
+    {
+      "to": "j7m0lwhpoln3e8", 
+      "anon": "stud", 
+      "when": "2017-09-15T15:09:38Z", 
+      "type": "followup"
+    }, 
+    {
+      "to": "j7m0lwhpoln3e8", 
+      "anon": "stud", 
+      "when": "2017-09-15T15:17:16Z", 
+      "type": "feedback"
+    }, 
+    {
+      "to": "j7m0lwhpoln3e8", 
+      "anon": "no", 
+      "when": "2017-09-15T15:18:27Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-09-15T15:20:51Z", 
+      "data": "j7m16w0k71t3o4", 
+      "uid": "i4iufvhm2nj4s1"
+    }, 
+    {
+      "to": "j7m0lwhpoln3e8", 
+      "anon": "no", 
+      "when": "2017-09-15T19:23:45Z", 
+      "type": "followup", 
+      "uid": "ijarmqggjkc3gz"
+    }, 
+    {
+      "to": "j7m0lwhpoln3e8", 
+      "anon": "no", 
+      "when": "2017-09-15T19:45:15Z", 
+      "type": "feedback", 
+      "uid": "i4j6wvmu7he6v1"
+    }, 
+    {
+      "to": "j7m0lwhpoln3e8", 
+      "anon": "no", 
+      "when": "2017-09-15T19:46:20Z", 
+      "type": "feedback", 
+      "uid": "ijarmqggjkc3gz"
+    }, 
+    {
+      "to": "j7m0lwhpoln3e8", 
+      "anon": "no", 
+      "when": "2017-09-16T01:14:17Z", 
+      "type": "feedback", 
+      "uid": "hqa9hej5ny2gl"
+    }, 
+    {
+      "to": "j7m0lwhpoln3e8", 
+      "anon": "no", 
+      "when": "2017-09-16T13:40:32Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j7m0lwhpoln3e8", 
+      "anon": "no", 
+      "when": "2017-09-16T20:11:16Z", 
+      "type": "feedback", 
+      "uid": "i4iufvhm2nj4s1"
+    }, 
+    {
+      "to": "j7m0lwhpoln3e8", 
+      "anon": "no", 
+      "when": "2017-09-16T21:24:18Z", 
+      "type": "feedback", 
+      "uid": "hqa9hej5ny2gl"
+    }, 
+    {
+      "to": "j7m0lwhpoln3e8", 
+      "anon": "no", 
+      "when": "2017-09-16T21:43:08Z", 
+      "type": "feedback", 
+      "uid": "i4iufvhm2nj4s1"
+    }, 
+    {
+      "to": "j7m0lwhpoln3e8", 
+      "anon": "no", 
+      "when": "2017-09-17T03:22:58Z", 
+      "type": "feedback", 
+      "uid": "i4iufvhm2nj4s1"
+    }, 
+    {
+      "to": "j7m0lwhpoln3e8", 
+      "anon": "no", 
+      "when": "2017-09-17T03:42:20Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j7m0lwhpoln3e8", 
+      "anon": "no", 
+      "when": "2017-09-18T04:49:23Z", 
+      "type": "followup", 
+      "uid": "hz0pec4uduL"
+    }, 
+    {
+      "to": "j7m0lwhpoln3e8", 
+      "anon": "no", 
+      "when": "2017-09-18T18:18:44Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j7m0lwhpoln3e8", 
+      "anon": "no", 
+      "when": "2017-09-18T20:58:37Z", 
+      "type": "feedback", 
+      "uid": "hv5exp71kfz754"
+    }, 
+    {
+      "to": "j7m0lwhpoln3e8", 
+      "anon": "no", 
+      "when": "2017-09-20T12:49:42Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j7m0lwhpoln3e8", 
+      "anon": "no", 
+      "when": "2017-09-20T13:51:55Z", 
+      "type": "feedback", 
+      "uid": "hqa9hej5ny2gl"
+    }, 
+    {
+      "to": "j7m0lwhpoln3e8", 
+      "anon": "no", 
+      "when": "2017-09-20T14:05:06Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j7m0lwhpoln3e8", 
+  "bookmarked": 8, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-15T15:06:37Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j7m0olchat55ks", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p></p>\n<p>Isn&#39;t there a practice problem 6.7 on palindrome subsequence?</p>\n<p>Is that what you want?</p>\n<p>I think the solution is on TSquare, right?</p>", 
+          "anon": "no", 
+          "created": "2017-09-15T15:06:37Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-15T15:09:38Z", 
+      "no_upvotes": 0, 
+      "created": "2017-09-15T15:09:38Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7m0shehhup7g3", 
+      "anon": "stud", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-15T15:17:16Z", 
+          "created": "2017-09-15T15:17:16Z", 
+          "type": "feedback", 
+          "id": "j7m12a6ff244rr", 
+          "anon": "stud", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>For example, in &#34;P A Q Y Z D A O P&#34; the longest Palindrome is &#34;PAAP&#34;. \u00a0The order stays relevant, but it can be ANY combination of letters in the string.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-15T15:18:27Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-09-15T15:18:27Z", 
+          "type": "feedback", 
+          "id": "j7m13t8s5dzvj", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Make public please so others can answer you.</p>\n<p></p>\n<p>That is a subsequence.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-15T19:45:15Z", 
+          "uid": "i4j6wvmu7he6v1", 
+          "created": "2017-09-15T19:45:15Z", 
+          "type": "feedback", 
+          "id": "j7mamx47g3d12w", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>A quick point of clarification...\u00a0 The longest substring for the problem would actually be of length 5 and not 4.\u00a0 &#34;P,A,&lt;Insert Character&gt;, A, P&#34;</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-15T19:46:20Z", 
+          "uid": "ijarmqggjkc3gz", 
+          "created": "2017-09-15T19:46:20Z", 
+          "type": "feedback", 
+          "id": "j7maoaukmxh61m", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Good catch Laremy."
+        }
+      ], 
+      "subject": "<p>That&#39;s a contiguous sequence. \u00a0I am talking about &#34;Any combination of the previous input letters&#34;. \u00a0I know DPV defines &#34;substring&#34; vs &#34;subsequence&#34; differently than lecture, so I believe your definition of subsequence is to what I am referring.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-15T19:23:45Z", 
+      "no_upvotes": 0, 
+      "uid": "ijarmqggjkc3gz", 
+      "created": "2017-09-15T19:23:45Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7m9v9pi1fp4mm", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-16T01:14:17Z", 
+          "uid": "hqa9hej5ny2gl", 
+          "created": "2017-09-16T01:14:17Z", 
+          "type": "feedback", 
+          "id": "j7mme26bhan5ww", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I do not see a solution for 6.7 in T-square, so here is my attempt:</p>\n<p>\u00a0 T[i,j] is the size of longest palindrome sub-sequence in substring $$x_i$$\u00a0$$\\dots x_j$$</p>\n<p>\u00a0The recurrence is:</p>\n<p>$$$$if x_i = x_j T[i,j] =T[i&#43;1, j-1] &#43; 2\u00a0</p>\n<p>$$$$else T[i,j] =max(T[i, j-1], T[i&#43;1, j])$$$$</p>\n<p></p>\n<p>Would appreciate any sanity check here since Palindrome tricked me many ways before.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-16T13:40:32Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-09-16T13:40:32Z", 
+          "type": "feedback", 
+          "id": "j7nd1qm4wk47t", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p></p><div>\n<div>\n<div>\n<p>QIngyun is correct. \u00a0When it&#39;s subsequence you don&#39;t need the extra condition about containing the last character. \u00a0When it&#39;s substring you do need it.</p>\n<p></p>\n<p>I found this solution from the undergrad class:</p>\n<p>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0<a href=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/gy4twfv45cg5o6/j7nczat5oqv/Palindrome.pdf\" target=\"_blank\">Palindrome.pdf</a></p>\n<div>\n<div>\n<div>\n<p>\u00a0</p>\n<p></p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-16T20:11:16Z", 
+          "uid": "i4iufvhm2nj4s1", 
+          "created": "2017-09-16T20:11:16Z", 
+          "type": "feedback", 
+          "id": "j7nr08bjr8l24n", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I attempted using the pseudocode in this solution several times with several different examples. \u00a0I do not see how it is correct. \u00a0Can you run through a table showing the values for a simple case, say &#34;PACVAP&#34;? \u00a0</p>\n<p></p>\n<p>It relies on xsubi = xsubi &#43; 1, which doesn&#39;t work if the problem has no adjacent characters that are the same. \u00a0For instance in the example I provided the case is never true.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-16T21:24:18Z", 
+          "uid": "hqa9hej5ny2gl", 
+          "created": "2017-09-16T21:24:18Z", 
+          "type": "feedback", 
+          "id": "j7ntm5pjz7z70c", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>For your example, based on the recurrence above, I got:</p>\n<p>\u00a0T[i,j]=1 for j-i&lt;=2.</p>\n<p></p>\n<p>For j-i = 3, I have: T[1,4]= 1, T[2,5]=T[3,4] &#43; 2 = 3, T[3,6]=1;</p>\n<p>For j-i = 4, I have T[1,5] = max{T[1,4],T[2,5]} = 3, T[2,6]=max{T[2,5], T[3,6]}=3;</p>\n<p>For j-i = 5, T[1,6] = T[2,5] &#43; 2 = 5.</p>\n<p></p>\n<p>Is this not what you are expecting?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-16T21:43:08Z", 
+          "uid": "i4iufvhm2nj4s1", 
+          "created": "2017-09-16T21:43:08Z", 
+          "type": "feedback", 
+          "id": "j7nuad5vgbegf", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Are you basing this off of the solution the professor posted? \u00a0Because this cant be\u00a0that. \u00a0The solution posted only specified j = i &#43; 1. \u00a0That means something like T[1, 4] would not be possible. \u00a0Does that make sense?</p>\n<p></p>\n<p>Also, how is T[1,4] = 1? \u00a0The setup posted in the problem only sets 1 to T[i,i]. \u00a0Meaning the closest 1 is T[2,2] or T[3,3], but that is further away than T[i, j-1] or T[i &#43; 1, j]. \u00a0This value should stay 0. \u00a0T[2, 5] should be 2 since 2 &#43; 0 = 2. \u00a0T[3, 6] should be 0.</p>\n<p></p>\n<p>Then for w = 4, T[1,5] = 0, T[2,6] = 0,\u00a0</p>\n<p>For w = 5, T[1,6] = T[2, 5] &#43; 2 = 2.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-17T03:22:58Z", 
+          "uid": "i4iufvhm2nj4s1", 
+          "created": "2017-09-17T03:22:58Z", 
+          "type": "feedback", 
+          "id": "j7o6fedfdo6cl", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Professor, I am fairly certain the solution you posted should have:</p>\n<p></p>\n<p>j = i &#43; w instead of j = i &#43; 1. \u00a0This is what is causing the width of the palindrome to expand.</p>\n<p></p>\n<p>Also, I am fairly certain the values set during initialization either need to be set to 2 if there is a string of two that are identical, or 1 if not. \u00a0This gives the correct answer.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-17T03:42:20Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-09-17T03:42:20Z", 
+          "type": "feedback", 
+          "id": "j7o74b28ao21e", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I don&#39;t think you&#39;re reading the entire solution. \u00a0j=i&#43;1 is a base case. \u00a0Below that it does the general case P(i,j) for\u00a0</p>\n<div>\n<div>\n<div>\n<p>j  i &gt; 2.</p>\n</div>\n</div>\n</div>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-18T18:18:44Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-09-18T18:18:44Z", 
+          "type": "feedback", 
+          "id": "j7qhv7d3tiy3cf", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "I see what Derek means. In the pseudocode, in the inner loop, these lines:\n<blockquote>\n\tj = i &#43; 1\n\tif x<sub>i</sub> = x<sub>i&#43;1</sub> then\n</blockquote>\nshould be\n<blockquote>\n\tj = i &#43; w - 1\n\tif x<sub>i</sub> = x<sub>j</sub> then\n</blockquote>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-18T20:58:37Z", 
+          "uid": "hv5exp71kfz754", 
+          "created": "2017-09-18T20:58:37Z", 
+          "type": "feedback", 
+          "id": "j7qnkts0h554k", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I came back here to report it being incorrect as well.</p>"
+        }
+      ], 
+      "subject": "I think the key is to strengthen your subproblem. It would be the longest palindromic subsequence between i &amp; j that also includes elements i &amp; j in the palindrome."
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-18T04:49:23Z", 
+      "no_upvotes": 0, 
+      "uid": "hz0pec4uduL", 
+      "created": "2017-09-18T04:49:23Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7poydhbpwj3q8", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-20T12:49:42Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-09-20T12:49:42Z", 
+          "type": "feedback", 
+          "id": "j7t0zs8hx9q20w", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Yes I think that&#39;s correct."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-20T13:51:55Z", 
+          "uid": "hqa9hej5ny2gl", 
+          "created": "2017-09-20T13:51:55Z", 
+          "type": "feedback", 
+          "id": "j7t37s1cr9kac", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Now I am confused. \u00a0substring X[i-1::j&#43;1] is longer than substring X[i::j], how could T[i-1,j&#43;1] be a smaller sub-problem used to solve T[i,j] and how is it possible T[i,j] ever be one more than T[i-1, j&#43;1]?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-20T14:05:06Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-09-20T14:05:06Z", 
+          "type": "feedback", 
+          "id": "j7t3oqpi711l5", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Yes, it should be T(i,j) = 2 &#43; T(i&#43;1,j-1)  for i"
+        }
+      ], 
+      "subject": "<p>Would T(i,j) = 1 &#43; T(i-1, j&#43;1) if xi == xj be an alternate recurrence that could be used to solve this problem?</p>"
+    }
+  ], 
+  "nr": 312, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "dynamic_programming"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 2, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "dynamic_programming", 
+    "student"
+  ], 
+  "created": "2017-09-15T15:04:31Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145242775, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>What if the Palindrome problem didn&#39;t require the palindrome to be a substring, (contiguous), but any subsequence of the string?</p>\n<p></p>\n<p>For example, in &#34;A B C X Y C B A&#34;, the longest palindrome would be &#34;ABCCBA&#34;.</p>\n<p></p>\n<p>The T(i, j) = j - i &#43; 1 if T(i &#43; 1, j - 1), xi = xj doesn&#39;t hold anymore. \u00a0I have been chewing on this problem, and I am stuck.</p>\n<p></p>\n<p>I am thinking we need another variable? \u00a0We need a way to keep track of not only the length of the longest palindrome but a way to verify a given letter is a part of a palindrome.</p>\n<p></p>\n<p>Any advice on this? \u00a0</p>", 
+      "anon": "no", 
+      "created": "2017-09-15T15:20:51Z", 
+      "uid": "i4iufvhm2nj4s1", 
+      "subject": "Alternate Palindrome Problem"
+    }, 
+    {
+      "content": "<p>What if the Palindrome problem didn&#39;t require the palindrome to be a substring, (contiguous), but any subsequence of the string?</p>\n<p></p>\n<p>For example, in &#34;A B C X Y C B A&#34;, the longest palindrome would be &#34;ABCCBA&#34;.</p>\n<p></p>\n<p>The T(i, j) = j - i &#43; 1 if T(i &#43; 1, j - 1), xi = xj doesn&#39;t hold anymore. \u00a0I have been chewing on this problem, and I am stuck.</p>\n<p></p>\n<p>I am thinking we need another variable? \u00a0We need a way to keep track of not only the length of the longest palindrome but a way to verify a given letter is a part of a palindrome.</p>\n<p></p>\n<p>Any advice on this? \u00a0</p>", 
+      "anon": "stud", 
+      "created": "2017-09-15T15:04:31Z", 
+      "subject": "Alternate Palindrome Problem"
+    }
+  ]
+}

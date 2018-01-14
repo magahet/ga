@@ -1,0 +1,511 @@
+{
+  "status": "active", 
+  "unique_views": 128, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-11T02:12:46Z", 
+      "data": "j8mehjyikjh7f6", 
+      "uid": "i4ogin8rDC4"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-11T02:13:34Z", 
+      "data": "j8meil0xim53nz", 
+      "uid": "i4ogin8rDC4"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-10-11T02:18:00Z", 
+      "data": "j8meoaanmzq4iu", 
+      "uid": "i4ogin8rDC4"
+    }, 
+    {
+      "to": "j8mehjydghv7f5", 
+      "anon": "no", 
+      "when": "2017-10-11T02:24:10Z", 
+      "type": "followup", 
+      "uid": "hkvdb9dig3v511"
+    }, 
+    {
+      "to": "j8mehjydghv7f5", 
+      "anon": "no", 
+      "when": "2017-10-11T02:25:29Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j8mehjydghv7f5", 
+      "anon": "no", 
+      "when": "2017-10-11T02:28:17Z", 
+      "type": "followup", 
+      "uid": "hkvdb9dig3v511"
+    }, 
+    {
+      "to": "j8mehjydghv7f5", 
+      "anon": "no", 
+      "when": "2017-10-11T02:31:08Z", 
+      "type": "feedback", 
+      "uid": "i4ogin8rDC4"
+    }, 
+    {
+      "to": "j8mehjydghv7f5", 
+      "anon": "no", 
+      "when": "2017-10-11T02:32:35Z", 
+      "type": "feedback", 
+      "uid": "i4ogin8rDC4"
+    }, 
+    {
+      "to": "j8mehjydghv7f5", 
+      "anon": "no", 
+      "when": "2017-10-11T02:35:45Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j8mehjydghv7f5", 
+      "anon": "no", 
+      "when": "2017-10-11T02:39:30Z", 
+      "type": "feedback", 
+      "uid": "i4ogin8rDC4"
+    }, 
+    {
+      "to": "j8mehjydghv7f5", 
+      "anon": "no", 
+      "when": "2017-10-11T02:47:23Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "uid": "i4nkipeofrkrz", 
+      "type": "s_answer", 
+      "when": "2017-10-11T02:51:50Z", 
+      "to": "j8mehjydghv7f5", 
+      "anon": "no", 
+      "data": "j8mfvsp7hl4w7"
+    }, 
+    {
+      "to": "j8mehjydghv7f5", 
+      "anon": "no", 
+      "when": "2017-10-11T02:52:40Z", 
+      "type": "feedback", 
+      "uid": "i4ogin8rDC4"
+    }, 
+    {
+      "to": "j8mehjydghv7f5", 
+      "anon": "no", 
+      "when": "2017-10-11T03:18:10Z", 
+      "type": "feedback", 
+      "uid": "ijarmqggjkc3gz"
+    }, 
+    {
+      "to": "j8mehjydghv7f5", 
+      "anon": "no", 
+      "when": "2017-10-11T05:24:36Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j8mehjydghv7f5", 
+      "anon": "no", 
+      "when": "2017-10-11T11:23:00Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j8mehjydghv7f5", 
+      "anon": "no", 
+      "when": "2017-10-11T22:49:14Z", 
+      "type": "feedback", 
+      "uid": "hve4kb0lopy4sl"
+    }, 
+    {
+      "to": "j8mehjydghv7f5", 
+      "anon": "no", 
+      "when": "2017-10-12T06:46:43Z", 
+      "type": "feedback", 
+      "uid": "i4hdvab632i522"
+    }, 
+    {
+      "to": "j8mehjydghv7f5", 
+      "anon": "no", 
+      "when": "2017-10-12T14:52:06Z", 
+      "type": "feedback", 
+      "uid": "hve4kb0lopy4sl"
+    }, 
+    {
+      "to": "j8mehjydghv7f5", 
+      "anon": "no", 
+      "when": "2017-10-12T17:53:25Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8mehjydghv7f5", 
+  "bookmarked": 8, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-10-11T02:24:10Z", 
+      "no_upvotes": 0, 
+      "uid": "hkvdb9dig3v511", 
+      "created": "2017-10-11T02:24:10Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8mew8aqzlw3eb", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-11T02:25:29Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-10-11T02:25:29Z", 
+          "type": "feedback", 
+          "id": "j8mexwuegd4a4", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>This is the solution to this. It should take $$O(|V| &#43; |E|)$$ time.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-11T02:31:08Z", 
+          "uid": "i4ogin8rDC4", 
+          "created": "2017-10-11T02:31:08Z", 
+          "type": "feedback", 
+          "id": "j8mf56z7ned1ws", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Hmm, I guess I was stuck thinking of an adjacency list as a map of lists,</p>\n<p></p>\n<p>e.g. <tt>{ &#34;A&#34; : [B,C], &#34;B&#34; : [A,C], &#34;C&#34; : [A,B] }</tt></p>\n<p></p>\n<p>Rather than a more simple list implementation like you described:</p>\n<p></p>\n<p><tt>[(A,B), (A,C), (B,A), (B,C), (C,A), (C,B)]</tt></p>\n<p></p>\n<p>Makes sense, thanks for clarifying!</p>"
+        }
+      ], 
+      "subject": "Why can\u2019t you just take the adjacency list (v, w) and just flip all the entries (w, v) ?<div><br /></div><div>That would certainly take linear time.\u00a0</div>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-11T02:28:17Z", 
+      "no_upvotes": 0, 
+      "uid": "hkvdb9dig3v511", 
+      "created": "2017-10-11T02:28:17Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8mf1ip9d4t78b", 
+      "anon": "no", 
+      "bucket_name": "This week", 
+      "config": {}, 
+      "bucket_order": 4, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-11T02:32:35Z", 
+          "uid": "i4ogin8rDC4", 
+          "created": "2017-10-11T02:32:35Z", 
+          "type": "feedback", 
+          "id": "j8mf71mjdh83ge", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Right, if the simpler list data structure is used like you described above then I agree the resulting runtime should be $$O(|E|)$$.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-11T02:35:45Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-10-11T02:35:45Z", 
+          "type": "feedback", 
+          "id": "j8mfb3zw95b72n", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>It really depends on how you store the graph. If you have an adjacency list, then the runtime is\u00a0$$O(|V| &#43; |E|)$$. The only way you can have $$O(|E|)$$ time is if you store a list of\u00a0edges only (and not an adjacency list).</p>\n<p></p>\n<p>Make sure you take this into account to solve the problems. Most of the time you are given a graph represented by its adjacency list, so reversing that graph will\u00a0take\u00a0$$O(|V| &#43; |E|)$$.\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-11T02:39:30Z", 
+          "uid": "i4ogin8rDC4", 
+          "created": "2017-10-11T02:39:30Z", 
+          "type": "feedback", 
+          "id": "j8mffyb4s0z2x2", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Alright now I&#39;m confused again. Could you elaborate on this a bit? What would the data structure for the adjacency list look like? And if it is essentially a map of lists like I described above, what does the\u00a0$$O(|V|&#43;|E|)$$ algorithm look like?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-11T02:47:23Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-10-11T02:47:23Z", 
+          "type": "feedback", 
+          "id": "j8mfq2t51254cv", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Look at it this way: to reverse a graph you need to go through all the vertices and all the edges, right? For example, if you use DFS you&#39;ll be\u00a0able to go through all the vertices and edges of the graph. So this should prove that you don&#39;t need anything more than DFS.\u00a0</p>\n<p></p>\n<p>What is the runtime of DFS? $$O(|V| &#43; |E|)$$. This means that you can reverse a graph in\u00a0$$O(|V| &#43; |E|)$$ time.</p>\n<p></p>\n<p></p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-11T02:52:40Z", 
+          "uid": "i4ogin8rDC4", 
+          "created": "2017-10-11T02:52:40Z", 
+          "type": "feedback", 
+          "id": "j8mfwvv6isg1nn", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Sorry, I can&#39;t find the facepalm emoticon.</p>\n<p></p>\n<p>Thanks Santiago.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-11T03:18:10Z", 
+          "uid": "ijarmqggjkc3gz", 
+          "created": "2017-10-11T03:18:10Z", 
+          "type": "feedback", 
+          "id": "j8mgto88qjc77l", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Why do you need to visit all the vertices to reverse the edges? A graph can have a million vertices and only one edge. Reversing the edge list can be done in O(|E|) time."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-11T05:24:36Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-10-11T05:24:36Z", 
+          "type": "feedback", 
+          "id": "j8mlc9j5t6y7ix", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Above, Andrew mentioned a couple of the possible ways to store the edges. The first method he mentioned, like { &#34;A&#34; : [B,C], &#34;B&#34; : [A,C], &#34;C&#34; : [A,B] }, is essentially like using adjacency lists. To access all the edges using such a structure, you have to visit each vertex, regardless of whether they each have an edge, and then you have to visit each edge, giving O(|V| &#43; |E|).\n\nAndrew also mentioned the possibility of storing the edges as pairs in a list. For such a data structure, visiting each edge would only take O(|E|) time. However, note that first of all, that&#39;s not what the practice question asked about, since that&#39;s not what an adjacency list is. And secondly, that representation has its downsides. Consider what it would take to find the nodes that are adjacent to a given node. In an adjacency list representation, that takes O(the number of nodes adjacent to the given node), but in the other data structure, that&#39;s O(|E|)."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-11T11:23:00Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-10-11T11:23:00Z", 
+          "type": "feedback", 
+          "id": "j8my55soh706dz", 
+          "anon": "no", 
+          "bucket_name": "This week", 
+          "config": {}, 
+          "bucket_order": 4, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#64;Jeff, think about this: if you are only storing all the edges, then you could reverse all of them in $$O(1)$$ time. To do this, you will also store a boolean value that indicates the direction. By changing this value, you can tell the rest of your code how to interpret the direction of the edges, making the operation $$O(1)$$.</p>\n<p></p>\n<p>The point here is that the running time depends on the data structure that you selected to store the information. In most of the problems that we have seen in class, they give us an adjacency list, so you need to assume that reversing a graph is $$O(|V| &#43; |E|)$$ time.\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-11T22:49:14Z", 
+          "uid": "hve4kb0lopy4sl", 
+          "created": "2017-10-11T22:49:14Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j8nmnny3gov1wm", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>We were told to use adjacency list format for this algorithm but where is that defined before it is introduced in the exercise?\u00a0 I only saw adjacency matrix format for undirected graphs defined in 3.1.1.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-12T06:46:43Z", 
+          "uid": "i4hdvab632i522", 
+          "created": "2017-10-12T06:46:43Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j8o3ppqk4qf2xl", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "p82, the last paragraph of 3.1.1 &#34;An alternative representation, with size proportional to the number of edges, is the <i>adjacency list</i>&#34; etcetera"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-12T14:52:06Z", 
+          "uid": "hve4kb0lopy4sl", 
+          "created": "2017-10-12T14:52:06Z", 
+          "type": "feedback", 
+          "id": "j8ol1x4ruef1qp", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thanks, I must have missed that first time through it.\u00a0 I should try coding this data structure in Python.\u00a0 Were any solutions posted to the practice problems (or maybe covered during office hours)?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-12T17:53:25Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-10-12T17:53:25Z", 
+          "type": "feedback", 
+          "id": "j8orj3kalbk36w", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "I did a web search to confirm what I remembered about the meaning of &#34;adjacency list&#34;. Basically, it just means that for each vertex, you have a list of the adjacent vertices. In the case of a directed graph, instead of adjacent vertices, it would be typically the vertices to which edges go."
+        }
+      ], 
+      "subject": "I think it would only take O( |e| ) time. \u00a0We don\u2019t care about vertices here just flipping the directions of each edge"
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-11T02:51:50Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j8mfvsp4efpw6", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>A runtime of $$O(|V| * |E|)$$ indicates that for each vertex you have to go through all the edges of the graph. This is not true for an adjacency list representation: for each vertex, you only need to visit the edges that\u00a0start on that vertex, not all of the edges.</p>\n<p></p>\n<p>See below for more comments on the runtime of this algorithm.</p>", 
+          "anon": "no", 
+          "created": "2017-10-11T02:51:50Z", 
+          "uid": "i4nkipeofrkrz", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 696, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "graph_algorithms"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 3, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "graph_algorithms", 
+    "student"
+  ], 
+  "created": "2017-10-11T02:12:46Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145157030, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>I&#39;m still working through some of the practice problems in chapter 3 and 3.5 has me confused. The question asks for a linear time algorithm to reverse a graph G written in adjacency list format. The first thought I had was:</p>\n<p></p>\n<ol><li>Create a new adjacency list to hold the resulting reversed graph Grev</li><li>Loop thru adjacency list keys (i.e. all vertices in V) ==&gt; O(|V|)</li><li>For each vertex s (i.e. source vertex), loop through the corresponding list of destination vertices d and\u00a0update Grev[d] to include s. ==&gt; O(|E| - 1) = O(|E|)</li></ol>\n<p></p>\n<p>But this algorithm, if I&#39;m not mistaken, equates to a non-linear runtime of O(|V| * |E|) and not O(|V| &#43; |E|). Could someone please enlighten me?</p>", 
+      "anon": "no", 
+      "created": "2017-10-11T02:18:00Z", 
+      "uid": "i4ogin8rDC4", 
+      "subject": "Practice question 3.5"
+    }, 
+    {
+      "content": "<p>I&#39;m still working through some of the practice problems in chapter 3 and 3.5 has me confused. The question asks for a linear time algorithm to reverse a graph G written in adjacency list format. The first thought I had was:</p>\n<p></p>\n<ol><li>Create a new adjacency list to hold the resulting reversed graph Grev</li><li>Loop thru adjacency list keys (i.e. all vertices in V) ==&gt; O(|V|)</li><li>For each vertex s (i.e. source vertex), loop through the corresponding list of destination vertices d and\u00a0update Grev[d] to include s.</li></ol>\n<p></p>\n<p>But this algorithm, if I&#39;m not mistaken, equates to a non-linear runtime of O(|V| * |E|) and not O(|V| &#43; |E|). Could someone please enlighten me?</p>", 
+      "anon": "no", 
+      "created": "2017-10-11T02:13:34Z", 
+      "uid": "i4ogin8rDC4", 
+      "subject": "Practice question 3.5"
+    }, 
+    {
+      "content": "<p>I&#39;m still working through some of the practice problems in chapter 3 and 3.5 has me confused. The question asks for a linear time algorithm to reverse a graph G written in adjacency list format. The first thought I had was:</p>\n<p></p>\n<ol><li>Create a new adjacency list to hold the resulting reversed graph Grev</li><li>Loop thru adjacency list keys (i.e. all vertices in V) ==&gt; O(|V|)</li><li>For each vertex s (i.e. source vertex), loop through the corresponding list of destination vertices d and\u00a0update Grev[d] to include s.</li></ol>\n<p></p>\n<p>But this algorithm, if I&#39;m not mistaken, equates to a runtime of O(|V| * |E|) and not O(|V| &#43; |E|). Could someone please enlighten me?</p>", 
+      "anon": "no", 
+      "created": "2017-10-11T02:12:46Z", 
+      "uid": "i4ogin8rDC4", 
+      "subject": "Practice question 3.5"
+    }
+  ]
+}

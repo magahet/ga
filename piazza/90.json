@@ -1,0 +1,133 @@
+{
+  "status": "active", 
+  "unique_views": 181, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-08-27T02:25:01Z", 
+      "data": "j6u43zu24j63ek", 
+      "uid": "hqa9hej5ny2gl"
+    }, 
+    {
+      "uid": "gy4twfv45cg5o6", 
+      "type": "i_answer", 
+      "when": "2017-08-27T02:48:37Z", 
+      "to": "j6u43zu0zxt3ej", 
+      "anon": "no", 
+      "data": "j6u4yc3jn3f7df"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j6u43zu0zxt3ej", 
+  "bookmarked": 2, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-08-27T02:48:37Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "ij7kfkx61zz365", 
+        "hqa9hej5ny2gl", 
+        "i4hdvab632i522", 
+        "hqa65fnalg83fr"
+      ], 
+      "id": "j6u4yc3gquo7de", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Samantha Campo", 
+          "admin": false, 
+          "photo": "1452452625_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "ij7kfkx61zz365"
+        }, 
+        {
+          "name": "Qingyun Liu", 
+          "admin": false, 
+          "photo": "1495251168_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hqa9hej5ny2gl"
+        }, 
+        {
+          "name": "MarkBenjamin1@gatech.edu", 
+          "admin": false, 
+          "photo": "1420465436_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i4hdvab632i522"
+        }, 
+        {
+          "name": "Amin Mansuri", 
+          "admin": false, 
+          "photo": "1400911910_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hqa65fnalg83fr"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p></p>\n<p>I&#39;d suggest following the wordpress schedule. \u00a0It&#39;s like skipping around in the [DPV] textbook. \u00a0--Eric</p>", 
+          "anon": "no", 
+          "created": "2017-08-27T02:48:37Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 90, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "course"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 0, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "course", 
+    "student"
+  ], 
+  "created": "2017-08-27T02:25:01Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145309213, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>I noticed the Udacity course has Hash and bloom filter module before the Divide and Conquer modules, but the course schedule on wordpress.com shows Divide and Condquer modules before the hashing. \u00a0Should I follow the wordpress schedule and go out of order in Udacity modules?\u00a0</p>", 
+      "anon": "no", 
+      "created": "2017-08-27T02:25:01Z", 
+      "uid": "hqa9hej5ny2gl", 
+      "subject": "class schedule not matching the Udacity course order"
+    }
+  ]
+}

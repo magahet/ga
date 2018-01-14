@@ -1,0 +1,150 @@
+{
+  "status": "active", 
+  "unique_views": 167, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-08-30T23:58:48Z", 
+      "data": "j6zoncg4ju74gm", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "to": "j6zoncg2uhk4gl", 
+      "anon": "no", 
+      "when": "2017-08-31T00:07:52Z", 
+      "type": "followup", 
+      "uid": "ijarmqggjkc3gz"
+    }, 
+    {
+      "uid": "gy4twfv45cg5o6", 
+      "type": "i_answer", 
+      "when": "2017-08-31T00:14:27Z", 
+      "to": "j6zoncg2uhk4gl", 
+      "anon": "no", 
+      "data": "j6zp7h33jgf1yr"
+    }, 
+    {
+      "uid": "i4nkipeofrkrz", 
+      "type": "s_answer", 
+      "when": "2017-08-31T00:19:34Z", 
+      "to": "j6zoncg2uhk4gl", 
+      "anon": "no", 
+      "data": "j6zpe1w9ko934i"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j6zoncg2uhk4gl", 
+  "bookmarked": 4, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-08-31T00:07:52Z", 
+      "no_upvotes": 0, 
+      "uid": "ijarmqggjkc3gz", 
+      "created": "2017-08-31T00:07:52Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6zoz0l6cq658y", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "I&#39;m not following your logic exactly but I agree there are cases where it&#39;s more intuitive to iterate over the table in reverse order. For example the matrix multiply problem where we fill out the table starting on the diagonal as the base case.<div><br /></div><div>For this particular problem (HW 1.3 I assume) I think there are other solutions that do not require adding another dimension to the table (like maybe adding a second Boolean table of equal size) that would be easier to read.</div>"
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-08-31T00:14:27Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j6zp7h2yurf1yq", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p></p>\n<p>No extra counter. \u00a0Usually you have a dimension in the table to indicate how many items available to use.</p>\n<p></p>\n<p>If you send your proposed answer I can give more concrete advice.</p>", 
+          "anon": "no", 
+          "created": "2017-08-31T00:14:27Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-08-31T00:19:34Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [], 
+      "id": "j6zpe1w85lc34h", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>While coding you might want to use a counter to solve something specific, but then it won&#39;t be a dynamic programming solution, IMO.</p>", 
+          "anon": "no", 
+          "created": "2017-08-31T00:19:34Z", 
+          "uid": "i4nkipeofrkrz", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 120, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "dynamic_programming"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 2, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "dynamic_programming", 
+    "student"
+  ], 
+  "created": "2017-08-30T23:58:48Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145298983, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>Is this considered acceptable in dynamic programming? For example, if you have a counter, or something such as &#34;you can use no more than n items&#34;, it seems excessive to make an entire table storing that, when you can simply just decrement it.</p>\n<p></p>\n<p>Can you do something like T(i) = T(i -1) and n = n - 1 where n &gt; 0?</p>\n<p></p>\n<p>If not, is the only option to make another dimension in the table and drag along n?</p>", 
+      "anon": "no", 
+      "created": "2017-08-30T23:58:48Z", 
+      "uid": "ijbr5ddtwyt6pa", 
+      "subject": "Adding another parameter to solution without adding it to the table"
+    }
+  ]
+}

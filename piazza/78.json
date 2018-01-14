@@ -1,0 +1,1035 @@
+{
+  "status": "active", 
+  "unique_views": 228, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-08-26T03:18:08Z", 
+      "data": "j6sqkg3b6g66xc", 
+      "uid": "hve4k9bj2u4qu"
+    }, 
+    {
+      "type": "update", 
+      "anon": "no", 
+      "when": "2017-08-26T03:19:27Z", 
+      "data": "j6sqm4ymz4z28", 
+      "uid": "hve4k9bj2u4qu"
+    }, 
+    {
+      "uid": "idej2kl6hh1", 
+      "type": "s_answer", 
+      "when": "2017-08-26T06:10:15Z", 
+      "to": "j6sqkg3845g6xb", 
+      "anon": "no", 
+      "data": "j6swps3ail84e5"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-08-26T06:11:17Z", 
+      "data": "j6swr43mk0p4mk", 
+      "uid": "idej2kl6hh1"
+    }, 
+    {
+      "uid": "gy4twfv45cg5o6", 
+      "type": "i_answer", 
+      "when": "2017-08-26T13:59:38Z", 
+      "to": "j6sqkg3845g6xb", 
+      "anon": "no", 
+      "data": "j6tdheofs0u1uf"
+    }, 
+    {
+      "to": "j6sqkg3845g6xb", 
+      "anon": "no", 
+      "when": "2017-08-26T15:34:02Z", 
+      "type": "followup", 
+      "uid": "ija2ufzr6l0f7"
+    }, 
+    {
+      "to": "j6sqkg3845g6xb", 
+      "anon": "no", 
+      "when": "2017-08-26T19:21:24Z", 
+      "type": "feedback", 
+      "uid": "i4iys7m3lpq2ij"
+    }, 
+    {
+      "to": "j6sqkg3845g6xb", 
+      "anon": "no", 
+      "when": "2017-08-26T19:41:20Z", 
+      "type": "followup", 
+      "uid": "hve4k9bj2u4qu"
+    }, 
+    {
+      "to": "j6sqkg3845g6xb", 
+      "anon": "no", 
+      "when": "2017-08-27T18:53:03Z", 
+      "type": "followup", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j6sqkg3845g6xb", 
+      "anon": "no", 
+      "when": "2017-08-31T01:21:34Z", 
+      "type": "followup", 
+      "uid": "hz03lfq2z6r446"
+    }, 
+    {
+      "to": "j6sqkg3845g6xb", 
+      "anon": "no", 
+      "when": "2017-08-31T01:23:24Z", 
+      "type": "followup", 
+      "uid": "iecy8j5dNYG"
+    }, 
+    {
+      "to": "j6sqkg3845g6xb", 
+      "anon": "no", 
+      "when": "2017-08-31T01:35:47Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j6sqkg3845g6xb", 
+      "anon": "no", 
+      "when": "2017-08-31T02:07:52Z", 
+      "type": "feedback", 
+      "uid": "hz03lfq2z6r446"
+    }, 
+    {
+      "to": "j6sqkg3845g6xb", 
+      "anon": "no", 
+      "when": "2017-08-31T02:08:11Z", 
+      "type": "feedback", 
+      "uid": "hz03lfq2z6r446"
+    }, 
+    {
+      "to": "j6sqkg3845g6xb", 
+      "anon": "no", 
+      "when": "2017-08-31T02:08:23Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j6sqkg3845g6xb", 
+      "anon": "no", 
+      "when": "2017-08-31T02:13:53Z", 
+      "type": "feedback", 
+      "uid": "iecy8j5dNYG"
+    }, 
+    {
+      "to": "j6sqkg3845g6xb", 
+      "anon": "no", 
+      "when": "2017-08-31T04:44:00Z", 
+      "type": "followup", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j6sqkg3845g6xb", 
+      "anon": "no", 
+      "when": "2017-08-31T11:32:06Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j6sqkg3845g6xb", 
+      "anon": "no", 
+      "when": "2017-08-31T14:08:45Z", 
+      "type": "feedback", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j6sqkg3845g6xb", 
+      "anon": "no", 
+      "when": "2017-08-31T14:11:58Z", 
+      "type": "feedback", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j6sqkg3845g6xb", 
+      "anon": "no", 
+      "when": "2017-08-31T14:58:20Z", 
+      "type": "feedback", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j6sqkg3845g6xb", 
+      "anon": "no", 
+      "when": "2017-08-31T15:06:53Z", 
+      "type": "feedback", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j6sqkg3845g6xb", 
+      "anon": "no", 
+      "when": "2017-08-31T15:07:52Z", 
+      "type": "feedback", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j6sqkg3845g6xb", 
+      "anon": "no", 
+      "when": "2017-08-31T15:21:39Z", 
+      "type": "feedback", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j6sqkg3845g6xb", 
+      "anon": "no", 
+      "when": "2017-08-31T15:29:59Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j6sqkg3845g6xb", 
+      "anon": "no", 
+      "when": "2017-08-31T15:36:43Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j6sqkg3845g6xb", 
+      "anon": "no", 
+      "when": "2017-08-31T15:53:03Z", 
+      "type": "feedback", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j6sqkg3845g6xb", 
+      "anon": "no", 
+      "when": "2017-08-31T15:56:06Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j6sqkg3845g6xb", 
+      "anon": "no", 
+      "when": "2017-08-31T15:56:36Z", 
+      "type": "feedback", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j6sqkg3845g6xb", 
+      "anon": "no", 
+      "when": "2017-08-31T15:57:13Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j6sqkg3845g6xb", 
+      "anon": "no", 
+      "when": "2017-08-31T16:03:02Z", 
+      "type": "feedback", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j6sqkg3845g6xb", 
+      "anon": "no", 
+      "when": "2017-08-31T16:05:29Z", 
+      "type": "feedback", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j6sqkg3845g6xb", 
+      "anon": "no", 
+      "when": "2017-08-31T18:03:16Z", 
+      "type": "followup", 
+      "uid": "j6m1j9wkzk46tu"
+    }, 
+    {
+      "to": "j6sqkg3845g6xb", 
+      "anon": "no", 
+      "when": "2017-08-31T18:22:23Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j6sqkg3845g6xb", 
+      "anon": "no", 
+      "when": "2017-09-01T17:36:53Z", 
+      "type": "followup", 
+      "uid": "i4j6x5bv5ua71n"
+    }, 
+    {
+      "to": "j6sqkg3845g6xb", 
+      "anon": "no", 
+      "when": "2017-09-02T23:54:34Z", 
+      "type": "feedback", 
+      "uid": "hviwm6agQCk"
+    }, 
+    {
+      "to": "j6sqkg3845g6xb", 
+      "anon": "no", 
+      "when": "2017-09-03T02:54:02Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j6sqkg3845g6xb", 
+      "anon": "no", 
+      "when": "2017-09-03T04:43:11Z", 
+      "type": "feedback", 
+      "uid": "i4j6x5bv5ua71n"
+    }, 
+    {
+      "to": "j6sqkg3845g6xb", 
+      "anon": "no", 
+      "when": "2017-09-04T15:20:25Z", 
+      "type": "feedback", 
+      "uid": "hqa65fnalg83fr"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j6sqkg3845g6xb", 
+  "bookmarked": 13, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-08-26T06:10:15Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [
+        "hve4k9bj2u4qu"
+      ], 
+      "id": "j6swps379qn4e4", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Josh Clum", 
+          "admin": false, 
+          "photo": "1431566311_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hve4k9bj2u4qu"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>I think you are going down the wrong path. 6.18 should be solved in O(nv) time, and you should only need a 2D data structure. Think about the subproblem on a prefix of the set of coins. There are 3 possibilities when considering the next coin:</p>\n<ol><li>I already made change, so I\u00a0can make change (with or without this coin)</li><li>Using the coin will allow me to make change if I can use the other coins to make change for V, less the value of this coin</li><li>I can do neither (1) or (2)</li></ol>", 
+          "anon": "no", 
+          "created": "2017-08-26T06:11:17Z", 
+          "uid": "idej2kl6hh1", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>I think you are going down the wrong path. 6.18 should be solved in O(nv) time, and you should only need a 2D data structure. Think about the subproblem on a prefix of the set of coins. There are 3 possibilities when considering the next coin:</p>\n<ol><li>I already made change, so I\u00a0can make change with or without this coin</li><li>Using the coin will allow me to make change if I can use the other coins to make change for V, less the value of this coin</li><li>I can do neither (1) or (2)</li></ol>", 
+          "anon": "no", 
+          "created": "2017-08-26T06:10:15Z", 
+          "uid": "idej2kl6hh1", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-08-26T13:59:38Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "hve4k9bj2u4qu", 
+        "i4fxg6tfzh211n"
+      ], 
+      "id": "j6tdheoephv1ue", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Josh Clum", 
+          "admin": false, 
+          "photo": "1431566311_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hve4k9bj2u4qu"
+        }, 
+        {
+          "name": "Estelle Yeh", 
+          "admin": false, 
+          "photo": "1421544945_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i4fxg6tfzh211n"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p></p>\n<p>Chris&#39;s suggestion is good. \u00a0Also, think about knapsack for intuition.</p>\n<p></p>\n<p>For the hw problem, it is reasonable to consider a 3D solution (I&#39;m trying to challenge you a bit on the homework). \u00a0If you go down that track try to get a poly-time, correct solution. \u00a0Then think about whether you can simplify to a 2D table (often when you simplify it&#39;ll be faster). \u00a0</p>\n<p></p>\n<p>--Eric</p>", 
+          "anon": "no", 
+          "created": "2017-08-26T13:59:38Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-26T15:34:02Z", 
+      "no_upvotes": 0, 
+      "uid": "ija2ufzr6l0f7", 
+      "created": "2017-08-26T15:34:02Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6tgutnn5yl3q3", 
+      "anon": "no", 
+      "bucket_name": "Week 8/20 - 8/26", 
+      "config": {}, 
+      "bucket_order": 7, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-08-26T19:21:24Z", 
+          "uid": "i4iys7m3lpq2ij", 
+          "created": "2017-08-26T19:21:24Z", 
+          "type": "feedback", 
+          "id": "j6toz7ne6jv5as", 
+          "anon": "no", 
+          "bucket_name": "Week 8/20 - 8/26", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>yes, i think so.</p>"
+        }
+      ], 
+      "subject": "<p>Can you solve it using\u00a0O(nv) complexity? I came across a O(nvk) solution and find it hard to reduce further.\u00a0</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-26T19:41:20Z", 
+      "no_upvotes": 0, 
+      "uid": "hve4k9bj2u4qu", 
+      "created": "2017-08-26T19:41:20Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6tpouhyaxd1mk", 
+      "anon": "no", 
+      "bucket_name": "Week 8/20 - 8/26", 
+      "config": {}, 
+      "bucket_order": 7, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>Thanks!\u00a0</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-27T18:53:03Z", 
+      "no_upvotes": 0, 
+      "uid": "i4nkipeofrkrz", 
+      "created": "2017-08-27T18:53:03Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6v3elxgo8f2gi", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>There&#39;s indeed a solution with O(nB) complexity.\u00a0</p>\n<p></p>\n<p>Think about\u00a0what information you need to store on your 2D array to later use it to determine whether change can be made with less than k coins.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-31T01:21:34Z", 
+      "no_upvotes": 0, 
+      "uid": "hz03lfq2z6r446", 
+      "created": "2017-08-31T01:21:34Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6zrls9q3ly3dm", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-08-31T01:35:47Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-08-31T01:35:47Z", 
+          "type": "feedback", 
+          "id": "j6zs42vmvds6df", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p></p>\n<p>Good enough for what? \u00a0Faster is worth more.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-31T02:07:52Z", 
+          "uid": "hz03lfq2z6r446", 
+          "created": "2017-08-31T02:07:52Z", 
+          "type": "feedback", 
+          "id": "j6zt9c4l8to50h", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I think got it down to Q(nB) !!</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-31T02:08:23Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-08-31T02:08:23Z", 
+          "type": "feedback", 
+          "id": "j6zt9zv1m6q1ut", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>$$O(n^2B)$$ is significantly slower than\u00a0$$O(nB)$$. Assuming your answer is correct, try to find a faster solution (but <strong>correct</strong> is worth more points than <strong>fast</strong>).</p>"
+        }
+      ], 
+      "subject": "<p>If the solution is 2D with complexity Q(n^2B), is it good enough?</p>\n<p></p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-31T01:23:24Z", 
+      "no_upvotes": 0, 
+      "uid": "iecy8j5dNYG", 
+      "created": "2017-08-31T01:23:24Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6zro55osuo2pm", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-08-31T02:08:11Z", 
+          "uid": "hz03lfq2z6r446", 
+          "created": "2017-08-31T02:08:11Z", 
+          "type": "feedback", 
+          "id": "j6zt9qy07x557g", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>You are not using B at all?</p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-31T02:13:53Z", 
+          "uid": "iecy8j5dNYG", 
+          "created": "2017-08-31T02:13:53Z", 
+          "type": "feedback", 
+          "id": "j6zth2iapz23dh", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I&#39;m using B, just not as table row or column. I&#39;m not sure whether it is correct or not. I have also figured out the solution with O(nB) complexity and will just use this one.</p>"
+        }
+      ], 
+      "subject": "<p>I&#39;m getting a solution with O(nk) complexity. Not sure whether or not it is correct.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-31T04:44:00Z", 
+      "no_upvotes": 0, 
+      "uid": "i4ket0u1z5q31a", 
+      "created": "2017-08-31T04:44:00Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j6zyu4rxhj67ic", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-08-31T11:32:06Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-08-31T11:32:06Z", 
+          "type": "feedback", 
+          "id": "j70dexwcu3z2v4", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Hmmm... interesting question. You definitively don&#39;t need to do this to get O(nB), but I wonder whether this is valid.</p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-31T14:08:45Z", 
+          "uid": "i4ket0u1z5q31a", 
+          "created": "2017-08-31T14:08:45Z", 
+          "type": "feedback", 
+          "id": "j70j0e7et0r6fq", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I&#39;m doing something wrong each time I try to get O(nB) to work and not go over k coins. \u00a0Either I only get the right answer sometimes (sort of by luck) or I need more data but then blow the k coins restriction and can&#39;t tell.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-31T14:11:58Z", 
+          "uid": "i4ket0u1z5q31a", 
+          "created": "2017-08-31T14:11:58Z", 
+          "type": "feedback", 
+          "id": "j70j4j3iosy5tp", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Are we allowed to assume any particular sorting of the denominations?</p>\n<p>Do we need to?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-31T14:58:20Z", 
+          "uid": "i4ket0u1z5q31a", 
+          "created": "2017-08-31T14:58:20Z", 
+          "type": "feedback", 
+          "id": "j70ks60kgvx6v7", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Are you using a separate tracking array for which coins were used?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-31T15:06:53Z", 
+          "uid": "i4ket0u1z5q31a", 
+          "created": "2017-08-31T15:06:53Z", 
+          "type": "feedback", 
+          "id": "j70l35ee97b43l", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>If I keep two arrays, one for knapsack without replacement and one for coin usage count then I can make it work in O(nB), is that right?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-31T15:07:52Z", 
+          "uid": "i4ket0u1z5q31a", 
+          "created": "2017-08-31T15:07:52Z", 
+          "type": "feedback", 
+          "id": "j70l4f1iyub4r5", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Which is essentially identical to my tuple question, but Santiago you said I shouldn&#39;t need to do that, so what am I still missing to get rid of that second array?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-31T15:21:39Z", 
+          "uid": "i4ket0u1z5q31a", 
+          "created": "2017-08-31T15:21:39Z", 
+          "type": "feedback", 
+          "id": "j70lm5ne99n3n", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Grr, no, I still have a bug. :(</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-31T15:29:59Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-08-31T15:29:59Z", 
+          "type": "feedback", 
+          "id": "j70lwuy7odb4v0", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p></p>\n<p>Hint: add an extra dimension to your table to keep track of the # of coins used. \u00a0</p>\n<p>That solution will be slightly slower than the optimal. \u00a0</p>\n<p></p>\n<p>Once you get that you can try to do it with one less dimension in your table.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-31T15:36:43Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-08-31T15:36:43Z", 
+          "type": "feedback", 
+          "id": "j70m5iy3pks5hh", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#64;David, I&#39;m using only one array. That should be enough to solve the problem.</p>\n<p></p>\n<p>Can you solve the problem with $$O(n^2B)$$? If you can, that will be a good enough solution for the homework. It is not the fastest solution, but it will definitively get you the points.\u00a0</p>\n<p></p>\n<p>If you get there, you then can start thinking about how to reduce that complexity a notch. You already know that you can solve the problem in $$O(nB)$$. What does that tell you about the number of coins used? Obviously, that you don&#39;t need to keep track of them, right?</p>\n<p></p>\n<p>I think the trick to the problem is to find out why you don&#39;t really need to keep track of the number of coins.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-31T15:53:03Z", 
+          "uid": "i4ket0u1z5q31a", 
+          "created": "2017-08-31T15:53:03Z", 
+          "type": "feedback", 
+          "id": "j70mqivhxur4ed", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I fixed the bug and got it working with a separate coin counting array so it is\u00a0not a dimension in the table and there are still O(nB) loops.</p>\n<p>I borrowed the idea from the knapsack trackback is my way of thinking of that second array.</p>\n<p></p>\n<p>However, I still don&#39;t see why I don&#39;t need to count the coins...</p>\n<p>If I have inputs 1, 5, 10, 10, 10, 25 for coins and 30 for B and 2 for k then without counting coins how do I know it picked 5 &#43; 25 as the right answer and not 10 &#43; 10 &#43; 10 which is too many coins used?</p>\n<p>Or if my goal was 25 in 2 coins but I don&#39;t pass in a quarter as one of the denominations the algorithm can still make 25 with 5 &#43; 10 &#43; 10 but that is too many coins so without counting coins used how do you prevent that? \u00a0Because not preventing it is just knapsack right?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-31T15:56:06Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-08-31T15:56:06Z", 
+          "type": "feedback", 
+          "id": "j70mug9krjb4fb", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Answering your own question is the key :)</p>\n<p></p>\n<p>How can you make sure your algorithm selects 5 &#43; 25 instead of 10 &#43; 10 &#43; 10?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-31T15:56:36Z", 
+          "uid": "i4ket0u1z5q31a", 
+          "created": "2017-08-31T15:56:36Z", 
+          "type": "feedback", 
+          "id": "j70mv3fk8gg79y", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Without counting that is where I&#39;m lost.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-31T15:57:13Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-08-31T15:57:13Z", 
+          "type": "feedback", 
+          "id": "j70mvvsck7q4g4", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Maybe you need to go back and rephrase the problem you are trying to solve.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-31T16:03:02Z", 
+          "uid": "i4ket0u1z5q31a", 
+          "created": "2017-08-31T16:03:02Z", 
+          "type": "feedback", 
+          "id": "j70n3dk7vcbev", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Phrasing them at all is the root of my problem I think, I&#39;m extremely used to thinking in code and not in words.</p>\n<p>To get this far I had to write it in Python and run it.</p>\n<p>I&#39;m trying to solve making change without using more than k coins and without doing factorial combinations complexity.</p>\n<p>My head hurts on the rest...</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-31T16:05:29Z", 
+          "uid": "i4ket0u1z5q31a", 
+          "created": "2017-08-31T16:05:29Z", 
+          "type": "feedback", 
+          "id": "j70n6iz066q28j", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Am I allowed to assume the inputs are sorted and I can try largest fit first? \u00a0Do I even need to?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-08-31T18:22:23Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-08-31T18:22:23Z", 
+          "type": "feedback", 
+          "id": "j70s2kl01oa7m5", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>No need to mess with the output or make assumptions about the order.</p>\n<p></p>\n<p>By the way, it took me around 8 hours to realize a way to keep this O(nB). I&#39;m like you, always thinking about code. I&#39;ve also done Python for every single problem as a way to prove that my solutions are correct.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-02T23:54:34Z", 
+          "uid": "hviwm6agQCk", 
+          "created": "2017-09-02T23:54:34Z", 
+          "type": "feedback", 
+          "id": "j73ytgx2g2g4tc", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "&#64;Santiago if you don&#39;t keep track of the coins then wouldn&#39;t you just be stuck using the first k values of something? If there are three potential loops and you need the value loop to test for different amounts of change; you at the very least need a check to determine if you&#39;ve used up your k coins or not, so you need to iterative over something that increments k; and you need to go over every coin separately in a loop to match it up against the values it would have, why wouldn&#39;t you keep track of coins? if anything it seems like you wouldn&#39;t keep track of k and would otherwise directly infer it from other iterating variables."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-03T02:54:02Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-09-03T02:54:02Z", 
+          "type": "feedback", 
+          "id": "j74589qw99n15u", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>There&#39;s no need really to iterate over k at all. If you define your problem correctly, you then can determine whether you can get change with k or fewer number of coins. You don&#39;t need to keep track of how many coins you are using throughout the algorithm.</p>"
+        }
+      ], 
+      "subject": "<p>If we store a tuple of two values in each cell of the 2D array does that violate the spirit of trying to get O(nk)?</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-08-31T18:03:16Z", 
+      "no_upvotes": 0, 
+      "uid": "j6m1j9wkzk46tu", 
+      "created": "2017-08-31T18:03:16Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j70rdzok62l2za", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "got the answer in O(n*B)"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-01T17:36:53Z", 
+      "no_upvotes": 0, 
+      "uid": "i4j6x5bv5ua71n", 
+      "created": "2017-09-01T17:36:53Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j725vwwfcvw7fv", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-03T04:43:11Z", 
+          "uid": "i4j6x5bv5ua71n", 
+          "created": "2017-09-03T04:43:11Z", 
+          "type": "feedback", 
+          "id": "j7494n22x9t3gi", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Ah, figured it out. Don&#39;t know why I struggled so long with this, I just needed to swap my k dimension with weight"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-04T15:20:25Z", 
+          "uid": "hqa65fnalg83fr", 
+          "created": "2017-09-04T15:20:25Z", 
+          "type": "feedback", 
+          "id": "j76bbyylcg4k5", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Yeah.. I banged my head on simplifying it to something smaller.. but it was late. I&#39;ll try again later.</p>\n<p></p>"
+        }
+      ], 
+      "subject": "<p>I was able to come up with a few different O(n^2B) solutions, but struggling with reducing this. I&#39;m currently iterating through a few different strategies for how to solve these problems efficiently. I&#39;m thinking, state all the ways in which we can get the information necessary to answer the question &#34;Can I compute this weight B exactly using up to k coins from n denominations without repeating a denomination?&#34; Then attempting to solve each of these questions.<br /><br />So if we knew</p>\n<p>- The min coins necessary to compute any weight from the given denominations</p>\n<p>- The combined weight of using all combinations of denominations up to k</p>\n<p></p>\n<p>We could answer the question. I must be missing some possibilities here though. Does anyone have any &#34;thought process&#34; tips towards solving dynamic programming problems?</p>"
+    }
+  ], 
+  "nr": 78, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw1"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 7, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw1", 
+    "student"
+  ], 
+  "created": "2017-08-26T03:18:08Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145312922, 
+  "tag_good": [
+    {
+      "name": "Nelson Cheng", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4kxfs7hlxngu"
+    }
+  ], 
+  "tag_good_arr": [
+    "i4kxfs7hlxngu"
+  ], 
+  "history": [
+    {
+      "content": "<p>Probably don&#39;t read unless you&#39;ve solved all the coin problems. This might spoil it for you.</p>\n<p></p>\n<p>I&#39;m working on the coin change problems and have some general questions about intuition when you come to merging similar\u00a0DP\u00a0solutions. From practice problems I&#39;ve worked 6.17 is O(vn), 6.18 is O(vn^2), 6.19 is O(kvn). HW1 problem 3 feels like a combination of 6.18 and 6.19 and while\u00a0I work through it I lean towards combining their algorithms into something like a O(kvn^2), but that&#39;s getting a little crazy. For the problems I&#39;ve been able to double check, my solutions, while they seem to work, are always a bit more complex or are less elegant then the actual solution.</p>\n<p></p>\n<p>Questions:</p>\n<p></p>\n<p>1) Am I going down the right path?</p>\n<p>2) Did I miss a simpler algorithm for one of the previous problems?</p>\n<p>3)\u00a0Doing things like a 3D data structure just get hard to reason about. Any tips for simplifying?</p>", 
+      "anon": "no", 
+      "created": "2017-08-26T03:19:27Z", 
+      "uid": "hve4k9bj2u4qu", 
+      "subject": "Coin Change Problems"
+    }, 
+    {
+      "content": "<p>Probably don&#39;t read unless you&#39;ve solved all the coin problems. This might spoil it for you.</p>\n<p></p>\n<p>I&#39;m working on the coin change problems and have some general questions about intuition when you come to merging similar\u00a0DP\u00a0solutions. From practice problems I&#39;ve worked 6.17 is O(vn), 6.18 is O(vn^2), 6.19 is O(kvn). HW1 problem 3 feels like a combination of 6.18 and 6.19 and while\u00a0I work through it I lean towards combining their algorithms into something like a O(kvn^2), but that&#39;s getting a little crazy. For the problems I&#39;ve been able to double check, my solutions, while they seem to work, are always a bit more complex or are less elegant then the actual solution.</p>\n<p></p>\n<p>Questions:</p>\n<p></p>\n<p>1) Am I going down the right path?</p>\n<p>2) Did I miss a simpler algorithm for one of the previous problems?</p>\n<p>3)\u00a0Doing things like a 3D data structure just get hard to reason about it. Any tips for simplifying?</p>", 
+      "anon": "no", 
+      "created": "2017-08-26T03:18:08Z", 
+      "uid": "hve4k9bj2u4qu", 
+      "subject": "Coin Change Problems"
+    }
+  ]
+}

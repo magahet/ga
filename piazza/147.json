@@ -1,0 +1,913 @@
+{
+  "status": "active", 
+  "unique_views": 188, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-02T03:48:35Z", 
+      "data": "j72rqk281ri14b", 
+      "uid": "hviwm6agQCk"
+    }, 
+    {
+      "uid": "i4iys7m3lpq2ij", 
+      "type": "s_answer", 
+      "when": "2017-09-02T13:18:07Z", 
+      "to": "j72rqk26hj214a", 
+      "anon": "no", 
+      "data": "j73c2zy01hi40o"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-09-02T13:25:43Z", 
+      "data": "j73ccrduioslt", 
+      "uid": "i4iys7m3lpq2ij"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-09-02T13:25:55Z", 
+      "data": "j73cd0bbnyzo4", 
+      "uid": "i4iys7m3lpq2ij"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-09-02T13:26:02Z", 
+      "data": "j73cd5sa2ejp3", 
+      "uid": "i4iys7m3lpq2ij"
+    }, 
+    {
+      "type": "s_answer_update", 
+      "anon": "no", 
+      "when": "2017-09-02T13:27:45Z", 
+      "data": "j73cfdfqtc5144", 
+      "uid": "i4iys7m3lpq2ij"
+    }, 
+    {
+      "uid": "isgwdf47kb42f", 
+      "type": "i_answer", 
+      "when": "2017-09-02T13:38:52Z", 
+      "to": "j72rqk26hj214a", 
+      "anon": "no", 
+      "data": "j73ctoa7nnu41h"
+    }, 
+    {
+      "type": "i_answer_update", 
+      "anon": "no", 
+      "when": "2017-09-02T13:50:47Z", 
+      "data": "j73d8znryu37k", 
+      "uid": "isgwdf47kb42f"
+    }, 
+    {
+      "to": "j72rqk26hj214a", 
+      "anon": "no", 
+      "when": "2017-09-02T17:30:18Z", 
+      "type": "followup", 
+      "uid": "i18w67avy8e1uk"
+    }, 
+    {
+      "to": "j72rqk26hj214a", 
+      "anon": "no", 
+      "when": "2017-09-02T17:40:53Z", 
+      "type": "feedback", 
+      "uid": "isgwdf47kb42f"
+    }, 
+    {
+      "to": "j72rqk26hj214a", 
+      "anon": "no", 
+      "when": "2017-09-02T17:52:49Z", 
+      "type": "feedback", 
+      "uid": "i18w67avy8e1uk"
+    }, 
+    {
+      "to": "j72rqk26hj214a", 
+      "anon": "no", 
+      "when": "2017-09-02T17:53:56Z", 
+      "type": "feedback", 
+      "uid": "i4iys7m3lpq2ij"
+    }, 
+    {
+      "to": "j72rqk26hj214a", 
+      "anon": "no", 
+      "when": "2017-09-02T17:54:22Z", 
+      "type": "feedback", 
+      "uid": "i18w67avy8e1uk"
+    }, 
+    {
+      "to": "j72rqk26hj214a", 
+      "anon": "no", 
+      "when": "2017-09-02T19:20:06Z", 
+      "type": "feedback", 
+      "uid": "isgwdf47kb42f"
+    }, 
+    {
+      "to": "j72rqk26hj214a", 
+      "anon": "no", 
+      "when": "2017-09-02T19:22:55Z", 
+      "type": "followup", 
+      "uid": "hviwm6agQCk"
+    }, 
+    {
+      "to": "j72rqk26hj214a", 
+      "anon": "no", 
+      "when": "2017-09-02T22:54:33Z", 
+      "type": "followup", 
+      "uid": "i4t8eakz3ex6lk"
+    }, 
+    {
+      "to": "j72rqk26hj214a", 
+      "anon": "no", 
+      "when": "2017-09-03T02:52:00Z", 
+      "type": "feedback", 
+      "uid": "i4nkipeofrkrz"
+    }, 
+    {
+      "to": "j72rqk26hj214a", 
+      "anon": "no", 
+      "when": "2017-09-03T03:00:31Z", 
+      "type": "feedback", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "to": "j72rqk26hj214a", 
+      "anon": "no", 
+      "when": "2017-09-03T03:53:30Z", 
+      "type": "feedback", 
+      "uid": "isgwdf47kb42f"
+    }, 
+    {
+      "to": "j72rqk26hj214a", 
+      "anon": "no", 
+      "when": "2017-09-03T14:46:55Z", 
+      "type": "followup", 
+      "uid": "iddoxdl8kz72oc"
+    }, 
+    {
+      "to": "j72rqk26hj214a", 
+      "anon": "no", 
+      "when": "2017-09-03T21:05:25Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j72rqk26hj214a", 
+      "anon": "no", 
+      "when": "2017-09-03T21:12:35Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j72rqk26hj214a", 
+      "anon": "no", 
+      "when": "2017-09-04T00:12:04Z", 
+      "type": "feedback", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "to": "j72rqk26hj214a", 
+      "anon": "no", 
+      "when": "2017-09-04T00:25:53Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j72rqk26hj214a", 
+      "anon": "no", 
+      "when": "2017-09-04T02:43:06Z", 
+      "type": "feedback", 
+      "uid": "idi5567wFgu"
+    }, 
+    {
+      "to": "j72rqk26hj214a", 
+      "anon": "no", 
+      "when": "2017-09-04T02:47:28Z", 
+      "type": "feedback", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "to": "j72rqk26hj214a", 
+      "anon": "no", 
+      "when": "2017-09-04T02:55:15Z", 
+      "type": "feedback", 
+      "uid": "idi5567wFgu"
+    }, 
+    {
+      "to": "j72rqk26hj214a", 
+      "anon": "no", 
+      "when": "2017-09-04T03:09:52Z", 
+      "type": "feedback", 
+      "uid": "idi5567wFgu"
+    }, 
+    {
+      "to": "j72rqk26hj214a", 
+      "anon": "no", 
+      "when": "2017-09-04T05:54:26Z", 
+      "type": "feedback", 
+      "uid": "i4fxg6tfzh211n"
+    }, 
+    {
+      "to": "j72rqk26hj214a", 
+      "anon": "no", 
+      "when": "2017-09-04T06:49:02Z", 
+      "type": "feedback", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "to": "j72rqk26hj214a", 
+      "anon": "no", 
+      "when": "2017-09-04T11:36:05Z", 
+      "type": "feedback", 
+      "uid": "isgwdf47kb42f"
+    }, 
+    {
+      "type": "i_answer_update", 
+      "anon": "no", 
+      "when": "2017-09-04T11:36:35Z", 
+      "data": "j763c4c5cpn3iu", 
+      "uid": "isgwdf47kb42f"
+    }, 
+    {
+      "to": "j72rqk26hj214a", 
+      "anon": "no", 
+      "when": "2017-09-06T19:44:10Z", 
+      "type": "followup", 
+      "uid": "hviwm6agQCk"
+    }, 
+    {
+      "to": "j72rqk26hj214a", 
+      "anon": "no", 
+      "when": "2017-09-09T15:07:38Z", 
+      "type": "feedback", 
+      "uid": "i4iys7m3lpq2ij"
+    }, 
+    {
+      "to": "j72rqk26hj214a", 
+      "anon": "no", 
+      "when": "2017-09-11T20:10:51Z", 
+      "type": "feedback", 
+      "uid": "ijbr5ddtwyt6pa"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j72rqk26hj214a", 
+  "bookmarked": 11, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-02T13:18:07Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [
+        "isgwdf47kb42f", 
+        "i18w67avy8e1uk", 
+        "i4fxg6tfzh211n"
+      ], 
+      "id": "j73c2zxxdze40n", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Michael Meehan", 
+          "admin": true, 
+          "photo": null, 
+          "us": false, 
+          "role": "ta", 
+          "facebook_id": null, 
+          "id": "isgwdf47kb42f"
+        }, 
+        {
+          "name": "Shihgian Lee", 
+          "admin": false, 
+          "photo": "1420394909_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i18w67avy8e1uk"
+        }, 
+        {
+          "name": "Estelle Yeh", 
+          "admin": false, 
+          "photo": "1421544945_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i4fxg6tfzh211n"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>$$\\beta = \\alpha&#39; - \\left \\lfloor {\\frac{x}{y}} \\right \\rfloor*\\beta&#39;$$</p>\n<p>so</p>\n<p>$$103= 1 - \\left \\lfloor {\\frac{360}{7}} \\right \\rfloor*-2$$</p>\n<p></p>\n<p>Finally, $$7^{-1} \\equiv 103 \\mod 360$$ comes from Extended Euclid (proved in lecture):</p>\n<p>$$x^{-1} \\equiv \\alpha \\mod y$$</p>\n<p>and</p>\n<p>$$y^{-1} \\equiv \\beta \\mod x$$</p>\n<p></p>\n<p>Written differently,</p>\n<p>$$\\alpha x \\mod y = 1$$</p>\n<p>$$\\beta y \\mod x = 1$$</p>\n<p>$$\\alpha x &#43; \\beta y = 1$$ since $$\\text{gcd}(x,y)=1$$, meaning an inverse exists.</p>", 
+          "anon": "no", 
+          "created": "2017-09-02T13:27:45Z", 
+          "uid": "i4iys7m3lpq2ij", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>$$\\beta = \\alpha&#39; - \\left \\lfloor {\\frac{x}{y}} \\right \\rfloor*\\beta&#39;$$</p>\n<p>so</p>\n<p>$$103= 1 - \\left \\lfloor {\\frac{360}{7}} \\right \\rfloor*-2$$</p>\n<p></p>\n<p>Finally, $$7^{-1} \\equiv 103 \\mod 360$$ comes from Extended Euclid (proved in lecture):</p>\n<p>$$x^{-1} \\equiv \\alpha \\mod y$$</p>\n<p>and</p>\n<p>$$y^{-1} \\equiv \\beta \\mod x$$</p>\n<p></p>\n<p>Written differently,</p>\n<p>$$\\alpha x \\mod y = 1$$</p>\n<p>$$\\beta y \\mod x = 1$$</p>\n<p>$$\\alpha x &#43; \\beta y = 1$$</p>", 
+          "anon": "no", 
+          "created": "2017-09-02T13:26:02Z", 
+          "uid": "i4iys7m3lpq2ij", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>$$\\beta = \\alpha&#39; - \\left \\lfloor {\\frac{x}{y}} \\right \\rfloor*\\beta&#39;$$</p>\n<p>so</p>\n<p>$$103= 1 - \\left \\lfloor {\\frac{360}{7}} \\right \\rfloor*-2$$</p>\n<p></p>\n<p>Finally, $$7^{-1} \\equiv 103 mod 360$$ comes from Extended Euclid (proved in lecture):</p>\n<p>$$x^{-1} \\equiv \\alpha \\mod y$$</p>\n<p>and</p>\n<p>$$y^{-1} \\equiv \\beta \\mod x$$</p>\n<p></p>\n<p>Written differently,</p>\n<p>$$\\alpha x \\mod y = 1$$</p>\n<p>$$\\beta y \\mod x = 1$$</p>\n<p>$$\\alpha x &#43; \\beta y = 1$$</p>", 
+          "anon": "no", 
+          "created": "2017-09-02T13:25:55Z", 
+          "uid": "i4iys7m3lpq2ij", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>$$\\beta = \\alpha&#39; - \\left \\lfloor {\\frac{x}{y}} \\right \\rfloor*\\beta&#39;$$</p>\n<p>so</p>\n<p>$$103= 1 - \\left \\lfloor {\\frac{360}{7}} \\right \\rfloor*-2$$</p>\n<p></p>\n<p>Finally, $$7^-1 \\equiv 103 mod 360$$ comes from Extended Euclid (proved in lecture):</p>\n<p>$$x^{-1} \\equiv \\alpha \\mod y$$</p>\n<p>and</p>\n<p>$$y^{-1} \\equiv \\beta \\mod x$$</p>\n<p></p>\n<p>Written differently,</p>\n<p>$$\\alpha x \\mod y = 1$$</p>\n<p>$$\\beta y \\mod x = 1$$</p>\n<p>$$\\alpha x &#43; \\beta y = 1$$</p>", 
+          "anon": "no", 
+          "created": "2017-09-02T13:25:43Z", 
+          "uid": "i4iys7m3lpq2ij", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>$$\\beta = \\alpha&#39; - \\left \\lfloor {\\frac{x}{y}} \\right \\rfloor*\\beta&#39;$$</p>\n<p>so</p>\n<p>$$103= 1 - \\left \\lfloor {\\frac{360}{7}} \\right \\rfloor*-2$$</p>", 
+          "anon": "no", 
+          "created": "2017-09-02T13:18:07Z", 
+          "uid": "i4iys7m3lpq2ij", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-02T13:38:52Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "i4fxg6tfzh211n", 
+        "hyxoacu48ea3ls"
+      ], 
+      "id": "j73ctoa5zuf41g", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Estelle Yeh", 
+          "admin": false, 
+          "photo": "1421544945_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "i4fxg6tfzh211n"
+        }, 
+        {
+          "name": "Aditi Mehta", 
+          "admin": false, 
+          "photo": null, 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hyxoacu48ea3ls"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>When y &gt; 0, the function calls itself on (y, x mod y). So in the example the first recursive call is computing ExtEuclid(7, 360 mod 7). This is the (7,3) from the solution steps.</p>\n<p></p>\n<p>When ExtEuclid is called, the &#34;manipulation&#34; of\u00a0\u03b1&#39; and \u03b2&#39; is done at each recursive step that is not the base case. Starting from the bottom, the last recursive call will be when evaluating ExtEuclid(3,1).This recursively calls ExtEuclid(1, 3 mod 1) and since any integer mod 1 is 0, it gets back (d,\u03b1&#39;,\u03b2&#39;) = (1,1,0) from the base case. Before ExtEuclid(3,1) returns, though, it manipulates\u00a0(1,1,0). It will return\u00a0(d,\u03b2&#39;,\u03b1&#39;-floor(x/y)*\u03b2&#39;). In ExtEuclid(3,1), (x,y)=(3,1) and\u00a0(d,\u03b1&#39;,\u03b2&#39;)=(1,1,0) so it will return (1,0,1-floor(3/1)*0)=(1,0,1). It then passes this back to the ExtEuclid(7,3) step which takes (1,0,1) as its\u00a0(d,\u03b1&#39;,\u03b2&#39;), then manipulates it with (x,y)=(7,3), and passes that result to original call which manipulates that for its final answer.</p>\n<p></p>\n<p>So looking at\u00a0a few steps explicitly, starting with the base case:</p>\n<p></p>\n<pre>ExtEuclid(1,0)\n\treturn (1,1,0) // because y=0. note that the first value returned is the first input when the second input is 0\n\nExtEuclid(3,1)\n\t// if statement bypassed since y = 1\n\t(d,\u03b1&#39;,\u03b2&#39;) = ExtEuclid(1, 3 mod 1) // = (1,1,0)\n\treturn (d,\u03b2&#39;,\u03b1&#39;-floor(x/y)*\u03b2&#39;) // = (1,0,1-floor(3,1)*0) = (1,0,1)\n\nExtEuclid(7,3)\n\t// if statement bypassed since y = 3\n\t(d,\u03b1&#39;,\u03b2&#39;) = ExtEuclid(3, 7 mod 3) // = (1,0,1) [note that 7 mod 3 = 1]\n\treturn (d,\u03b2&#39;,\u03b1&#39;-floor(x/y)*\u03b2&#39;) // x=7, y=3</pre>\n<p></p>\n<p>Kate&#39;s answer highlights some notable aspects of the problem. Remember that the d returned from ExtEuclid is the gcd of x and y. So if d=1, then there exists an inverse of y mod x, which is what we wanted ExtEuclid to find for us. It returns the answer as\u00a0\u03b2. So at any step along the way we can take the intermediate\u00a0\u03b1 value and say, for example, that the inverse of 7 mod 3 is 1, and so on.</p>", 
+          "anon": "no", 
+          "created": "2017-09-04T11:36:35Z", 
+          "uid": "isgwdf47kb42f", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>When y &gt; 0, the function calls itself on (y, x mod y). So in the example the first recursive call is computing ExtEuclid(7, 360 mod 7). This is the (7,3) from the solution steps.</p>\n<p></p>\n<p>When ExtEuclid is called, the &#34;manipulation&#34; of\u00a0\u03b1&#39; and \u03b2&#39; is done at each recursive step that is not the base case. Starting from the bottom, the last recursive call will be when evaluating ExtEuclid(3,1).This recursively calls ExtEuclid(1, 3 mod 1) and since any integer mod 1 is 0, it gets back (d,\u03b1&#39;,\u03b2&#39;) = (1,1,0) from the base case. Before ExtEuclid(3,1) returns, though, it manipulates\u00a0(1,1,0). It will return\u00a0(d,\u03b2&#39;,\u03b1&#39;-floor(x/y)*\u03b2&#39;). In ExtEuclid(3,1), (x,y)=(3,1) and\u00a0(d,\u03b1&#39;,\u03b2&#39;)=(1,1,0) so it will return (1,0,1-floor(3/1)*0)=(1,0,1). It then passes this back to the ExtEuclid(7,3) step which takes (1,0,1) as its\u00a0(d,\u03b1&#39;,\u03b2&#39;), then manipulates it with (x,y)=(7,3), and passes that result to original call which manipulates that for its final answer.</p>\n<p></p>\n<p>So looking at\u00a0a few steps explicitly, starting with the base case:</p>\n<p></p>\n<pre>ExtEuclid(1,0)\n\treturn (1,0,1) // because y=0. note that the first value returned is the first input when the second input is 0\n\nExtEuclid(3,1)\n\t// if statement bypassed since y = 1\n\t(d,\u03b1&#39;,\u03b2&#39;) = ExtEuclid(1, 3 mod 1) // = (1,1,0)\n\treturn (d,\u03b2&#39;,\u03b1&#39;-floor(x/y)*\u03b2&#39;) // = (1,0,1-floor(3,1)*0) = (1,0,1)\n\nExtEuclid(7,3)\n\t// if statement bypassed since y = 3\n\t(d,\u03b1&#39;,\u03b2&#39;) = ExtEuclid(3, 7 mod 3) // = (1,0,1) [note that 7 mod 3 = 1]\n\treturn (d,\u03b2&#39;,\u03b1&#39;-floor(x/y)*\u03b2&#39;) // x=7, y=3</pre>\n<p></p>\n<p>Kate&#39;s answer highlights some notable aspects of the problem. Remember that the d returned from ExtEuclid is the gcd of x and y. So if d=1, then there exists an inverse of y mod x, which is what we wanted ExtEuclid to find for us. It returns the answer as\u00a0\u03b2. So at any step along the way we can take the intermediate\u00a0\u03b1 value and say, for example, that the inverse of 7 mod 3 is 1, and so on.</p>", 
+          "anon": "no", 
+          "created": "2017-09-02T13:50:47Z", 
+          "uid": "isgwdf47kb42f", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>When y &gt; 0, the function calls itself on (y, x mod y). So in the example the first recursive call is computing ExtEuclid(7, 360 mod 7). This is the (7,3) from the solution steps.</p>\n<p></p>\n<p>When ExtEuclid is called, the &#34;manipulation&#34; of\u00a0\u03b1&#39; and \u03b2&#39; is done at each recursive step that is not the base case. Starting from the bottom, the last recursive call will be when evaluating ExtEuclid(3,1).This recursively calls ExtEuclid(1, 3 mod 1) and since any integer mod 1 is 0, it gets back (d,\u03b1&#39;,\u03b2&#39;) = (1,1,0) from the base case. Before ExtEuclid(3,1) returns, though, it manipulates\u00a0(1,1,0). It will return\u00a0(d,\u03b2&#39;,\u03b1&#39;-floor(x/y)*\u03b2&#39;). In ExtEuclid(3,1), (x,y)=(3,1) and\u00a0(d,\u03b1&#39;,\u03b2&#39;)=(1,1,0) so it will return (1,0,1-floor(3/1)*0)=(1,0,1). It then passes this back to the ExtEuclid(7,3) step which takes (1,0,1) as its\u00a0(d,\u03b1&#39;,\u03b2&#39;), then manipulates it with (x,y)=(7,3), and passes that result to original call which manipulates that for its final answer.</p>\n<p></p>\n<p>So looking at\u00a0a few steps explicitly, starting with the base case:</p>\n<p></p>\n<pre>ExtEuclid(1,0)<br />\treturn (1,0,1) // because y=0. note that the first value returned is the first input when the second input is 0<br /><br />ExtEuclid(3,1)<br />\t// if statement bypassed since y = 1<br />\t(d,\u03b1&#39;,\u03b2&#39;) = ExtEuclid(1, 3 mod 1) // = (1,1,0)<br />\treturn (d,\u03b2&#39;,\u03b1&#39;-floor(x/y)*\u03b2&#39;) // = (1,0,1-floor(3,1)*0) = (1,0,1)<br /><br />ExtEuclid(7,3)<br />\t// if statement bypassed since y = 3<br />\t(d,\u03b1&#39;,\u03b2&#39;) = ExtEuclid(3, 7 mod 3) // = (1,0,1) [note that 7 mod 3 = 1]\n\treturn (d,\u03b2&#39;,\u03b1&#39;-floor(x/y)*\u03b2&#39;) // x=7, y=3</pre>\n<p></p>", 
+          "anon": "no", 
+          "created": "2017-09-02T13:38:52Z", 
+          "uid": "isgwdf47kb42f", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-02T17:30:18Z", 
+      "no_upvotes": 0, 
+      "uid": "i18w67avy8e1uk", 
+      "created": "2017-09-02T17:30:18Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j73l3atulry44t", 
+      "anon": "no", 
+      "bucket_name": "Week 8/27 - 9/2", 
+      "config": {}, 
+      "bucket_order": 9, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-02T17:40:53Z", 
+          "uid": "isgwdf47kb42f", 
+          "created": "2017-09-02T17:40:53Z", 
+          "type": "feedback", 
+          "id": "j73lgwckqlq153", 
+          "anon": "no", 
+          "bucket_name": "Week 8/27 - 9/2", 
+          "config": {}, 
+          "bucket_order": 9, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Essentially this is showing the other inverse found from ExtEuclid. We have (360)^(-1) mod 7 and -2 mod 7 but neither of those are between 0 and 6, so we rewrite them in a more natural form. 360 = 3 mod 7, so (360)^(-1) mod 7 becomes (3)^(-1) mod 7 and -2 = 5 mod 7 so it becomes 5 mod 7.</p>\n<p></p>\n<p>$$360^{-1} \\equiv -2 \\mod 7 \\\\\nusing\\ \\ 360 \\equiv 3 \\mod 7,\\ 360^{-1} \\equiv 3^{-1} \\mod 7 \\\\\nalso\\ \\ -2 \\equiv 5 \\mod 7\\ \\ since -2&#43;7=5 \\\\\nso\\ \\ 360^{-1} \\equiv -2 \\mod 7\\ \\ \\rightarrow\\ \\ 3^{-1} \\equiv 5 \\mod 7$$</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-02T17:52:49Z", 
+          "uid": "i18w67avy8e1uk", 
+          "created": "2017-09-02T17:52:49Z", 
+          "type": "feedback", 
+          "id": "j73lw8ubqiqsl", 
+          "anon": "no", 
+          "bucket_name": "Week 8/27 - 9/2", 
+          "config": {}, 
+          "bucket_order": 9, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thank you!</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-02T17:53:56Z", 
+          "uid": "i4iys7m3lpq2ij", 
+          "created": "2017-09-02T17:53:56Z", 
+          "type": "feedback", 
+          "id": "j73lxomxfhf5ay", 
+          "anon": "no", 
+          "bucket_name": "Week 8/27 - 9/2", 
+          "config": {}, 
+          "bucket_order": 9, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I think the confusion stems from the typo: $$\u22122 \\equiv 5 \\mod 360$$, this should be\u00a0\u00a0$$\u22122 \\equiv 5 \\mod 7$$</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-02T17:54:22Z", 
+          "uid": "i18w67avy8e1uk", 
+          "created": "2017-09-02T17:54:22Z", 
+          "type": "feedback", 
+          "id": "j73ly8qfqxa1hn", 
+          "anon": "no", 
+          "bucket_name": "Week 8/27 - 9/2", 
+          "config": {}, 
+          "bucket_order": 9, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Kate is right! I will post post this so that it is corrected.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-02T19:20:06Z", 
+          "uid": "isgwdf47kb42f", 
+          "created": "2017-09-02T19:20:06Z", 
+          "type": "feedback", 
+          "id": "j73p0hr0cuv4cc", 
+          "anon": "no", 
+          "bucket_name": "Week 8/27 - 9/2", 
+          "config": {}, 
+          "bucket_order": 9, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Ah, sorry. Good catch! I didn&#39;t catch the typo and if I had noticed it said 360 instead of 7 I might have been able to clear this up earlier!</p>"
+        }
+      ], 
+      "subject": "<p>I know how\u00a0we get $$360\u200b^{-1}\u200b\u200b\u2261\u22122 mod 7$$, from the lecture and also Kate&#39;s post.\u00a0The simplifying step is unclear to me. Can you someone help to detail\u00a0the computation of the simplification step?</p>\n<blockquote>\n<p>Note, we also get that: $$360\u200b^{-1}\u200b\u200b\u2261\u22122 mod 7$$. Simplifying, we have:\u00a0360\u22613\u00a0mod\u00a07\u00a0and\u22122\u22615\u00a0mod\u00a0360. Therefore, $$3\u200b^{-1}\u22615 mod 7$$.\u00a0</p>\n</blockquote>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-02T19:22:55Z", 
+      "no_upvotes": 0, 
+      "uid": "hviwm6agQCk", 
+      "created": "2017-09-02T19:22:55Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j73p44ljw5s2hn", 
+      "anon": "no", 
+      "bucket_name": "Week 8/27 - 9/2", 
+      "config": {}, 
+      "bucket_order": 9, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-04T05:54:26Z", 
+          "uid": "i4fxg6tfzh211n", 
+          "created": "2017-09-04T05:54:26Z", 
+          "type": "feedback", 
+          "id": "j75r43neuxu74m", 
+          "anon": "no", 
+          "bucket_name": "Week 9/3 - 9/9", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thanks for posting this!</p>"
+        }
+      ], 
+      "subject": "FYI we solved this problem in office hours today, so if anyone is as confused as I was, today&#39;s video cleared it all up"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-02T22:54:33Z", 
+      "no_upvotes": 0, 
+      "uid": "i4t8eakz3ex6lk", 
+      "created": "2017-09-02T22:54:33Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j73woan78265np", 
+      "anon": "no", 
+      "bucket_name": "Week 8/27 - 9/2", 
+      "config": {}, 
+      "bucket_order": 9, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-03T02:52:00Z", 
+          "uid": "i4nkipeofrkrz", 
+          "created": "2017-09-03T02:52:00Z", 
+          "type": "feedback", 
+          "id": "j7455nm0z6b4s", 
+          "anon": "no", 
+          "bucket_name": "Week 8/27 - 9/2", 
+          "config": {}, 
+          "bucket_order": 9, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>This video is gold. Thanks for sharing!</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-03T03:00:31Z", 
+          "uid": "ijbr5ddtwyt6pa", 
+          "created": "2017-09-03T03:00:31Z", 
+          "type": "feedback", 
+          "id": "j745glpu5on5t4", 
+          "anon": "no", 
+          "bucket_name": "Week 8/27 - 9/2", 
+          "config": {}, 
+          "bucket_order": 9, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>So, if you watch the video, he does a final subtraction to get of 392 - 29 = 363 to get the inverse, but if we try that in the quiz, we will be incorrect. If you do not do the subtraction, then you will be correct, so instead of d = 1/27 mod 392 where d = 363 we get d = 29.</p>\n<p><img src=\"https://d1b10bmlvqabco.cloudfront.net/attach/j6f5zm92gj34gi/ijbr5ddtwyt6pa/j745ek6o65z5/Screen_Shot_20170902_at_10.56.57_PM.png\" alt=\"\" width=\"716\" height=\"389\" /></p>\n<p>So if d = 1/e mod n and in the case of the quiz (if these were the same values) d = 29 and not 363, then is the quiz wrong or is this method wrong?</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-03T03:53:30Z", 
+          "uid": "isgwdf47kb42f", 
+          "created": "2017-09-03T03:53:30Z", 
+          "type": "feedback", 
+          "id": "j747cqfo2467fk", 
+          "anon": "no", 
+          "bucket_name": "Week 8/27 - 9/2", 
+          "config": {}, 
+          "bucket_order": 9, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I haven&#39;t watched the video so I&#39;m not certain what you&#39;re asking, but it looks like it might be a minus sign confusion.</p>\n<p></p>\n<p>Note that</p>\n<p>$$27^{-1} \\equiv 363 \\mod 392$$.</p>\n<p>Also,</p>\n<p>$$363 \\equiv -29 \\mod 392$$</p>\n<p>so</p>\n<p>$$27^{-1} \\equiv -29 \\mod 392$$.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-04T00:12:04Z", 
+          "uid": "ijbr5ddtwyt6pa", 
+          "created": "2017-09-04T00:12:04Z", 
+          "type": "feedback", 
+          "id": "j75evtd04665k1", 
+          "anon": "no", 
+          "bucket_name": "Week 9/3 - 9/9", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>So, specifically in the quiz we have Michael, if you look at the RSA Exercise\u00a0in RSA 2, you will see that we say d = 103. If you follow this video it would be:</p>\n<p></p>\n<p>360 = 7(51) &#43; 3 --&gt;\u00a0360 &#43; 7(-51) = 3</p>\n<p>7 = 3(2) &#43; 1 \u00a0 \u00a0 \u00a0 --&gt;\u00a07 &#43; 3(-2) =\u00a01</p>\n<p></p>\n<p>So subs:</p>\n<p>7 &#43; (-2)(360 &#43; 7(-51)) = 1\u00a0mod 360</p>\n<p>7 &#43; (-2)(360) &#43; 7(102) = 1\u00a0mod 360</p>\n<p>(-2)(360) &#43; 7(103) = 1 mod 360 \u00a0 \u00a0 \u00a0 \u00a0 &lt;-- In here -2*360 is still 0 so I didn&#39;t think that would matter</p>\n<p></p>\n<p>So according to the video, from here we do 360 - 103 = 257. That means:</p>\n<p></p>\n<p>257 = 1/7 mod 360 or d = 257</p>\n<p></p>\n<p>But the quiz says d = 103</p>\n<p></p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-04T00:25:53Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-09-04T00:25:53Z", 
+          "type": "feedback", 
+          "id": "j75fdlgpo8e584", 
+          "anon": "no", 
+          "bucket_name": "Week 9/3 - 9/9", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Are you asking about the inverse of 7 mod 360? \u00a0That is 103, just check it. \u00a0It is not 256 or 257.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-04T02:43:06Z", 
+          "uid": "idi5567wFgu", 
+          "created": "2017-09-04T02:43:06Z", 
+          "type": "feedback", 
+          "id": "j75ka242byo8v", 
+          "anon": "no", 
+          "bucket_name": "Week 9/3 - 9/9", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Jason, I think it is calculated as follows.</p>\n<p>\u00a0</p>\n<p>7 mod 360</p>\n<p></p>\n<p>Now</p>\n<p></p>\n<p>360 = 7* 51 &#43; 3 \u00a0 ----- \u00a0 \u00a0 \u00a0 \u00a0 so 3 = 360- (7*51)</p>\n<p>7 = 3 * 2 &#43; 1 \u00a0 \u00a0 \u00a0 \u00a0----- \u00a0 \u00a0 \u00a0 \u00a0 \u00a0so 1 = 7 \u2013 (3 * 2)</p>\n<p>\u00a0</p>\n<p>Now start with 1 = 7-(3 * 2)</p>\n<p>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Substituting for 3</p>\n<p>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 7 \u2013 (360 \u2013 (7 * 51)) * 2</p>\n<p>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 7 \u2013 2.360 &#43; 7 * 102</p>\n<p>or</p>\n<p></p>\n<p>1&#43; 2.360 = 7&#43;7.102</p>\n<p>1&#43;2.360 = 7(1&#43;102)</p>\n<p>1 &#43; 2.360 mod 360 = 7.103 mod 360</p>\n<p></p>\n<p>Now (1&#43;2.360) mod 360 = 1 mod 360, so</p>\n<p></p>\n<p>1 mod 360 = 7.103 mod 360</p>\n<p></p>\n<p>So 103 is the inverse.\u00a0\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-04T02:47:28Z", 
+          "uid": "ijbr5ddtwyt6pa", 
+          "created": "2017-09-04T02:47:28Z", 
+          "type": "feedback", 
+          "id": "j75kfnwbvop3h8", 
+          "anon": "no", 
+          "bucket_name": "Week 9/3 - 9/9", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Ok. I am just confused as to why he is subtracting in the final step. I think I&#39;ll just not do that, since it seems to be the correct answer</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-04T02:55:15Z", 
+          "uid": "idi5567wFgu", 
+          "created": "2017-09-04T02:55:15Z", 
+          "type": "feedback", 
+          "id": "j75kposp7onw0", 
+          "anon": "no", 
+          "bucket_name": "Week 9/3 - 9/9", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>He is converting the negative 29 to positive 363 by subtracting from 392 to convert to a positive mod value.</p>\n<p>basically -29 mod 392 = 363 mod 392</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-04T03:09:52Z", 
+          "uid": "idi5567wFgu", 
+          "created": "2017-09-04T03:09:52Z", 
+          "type": "feedback", 
+          "id": "j75l8gsr6nd4j6", 
+          "anon": "no", 
+          "bucket_name": "Week 9/3 - 9/9", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>All your steps are correct as well. In the last step, if you take -2.360 on right side, everything will be good.</p>\n<p></p>\n<p>So your last step,</p>\n<p></p>\n<p>(-2)(360) &#43; 7(103) = 1 mod 360</p>\n<p></p>\n<p>This will be,</p>\n<p></p>\n<p>7.103 = (1&#43; 2.360) mod 360</p>\n<p></p>\n<p>7.103 mod 360 = 1 mod 360 ------ \u00a0because 1&#43;2.360 mod 360 = 1 mod 360.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-04T06:49:02Z", 
+          "uid": "ijbr5ddtwyt6pa", 
+          "created": "2017-09-04T06:49:02Z", 
+          "type": "feedback", 
+          "id": "j75t2c3ehon5z9", 
+          "anon": "no", 
+          "bucket_name": "Week 9/3 - 9/9", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I see what Michael was saying about the negatives now. Thanks!</p>"
+        }
+      ], 
+      "subject": "<p>This is a really good video to understand how we compute it:</p>\n<p></p>\n<p>https://www.youtube.com/watch?v=shaQZg8bqUM</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-03T14:46:55Z", 
+      "no_upvotes": 0, 
+      "uid": "iddoxdl8kz72oc", 
+      "created": "2017-09-03T14:46:55Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j74up1fi8ma1mk", 
+      "anon": "no", 
+      "bucket_name": "Week 9/3 - 9/9", 
+      "config": {}, 
+      "bucket_order": 8, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-03T21:05:25Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-09-03T21:05:25Z", 
+          "type": "feedback", 
+          "id": "j7587smcjmr7gp", 
+          "anon": "no", 
+          "bucket_name": "Week 9/3 - 9/9", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p></p>\n<p>Where is the error? \u00a0Are you saying in the video or in the explanation for the solution?</p>\n<p>Can you please point out which line you are saying is incorrect, otherwise I can&#39;t check.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-03T21:12:35Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-09-03T21:12:35Z", 
+          "type": "feedback", 
+          "id": "j758gzyfrc73xy", 
+          "anon": "no", 
+          "bucket_name": "Week 9/3 - 9/9", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p></p>\n<p>Oh, you mean in Michael&#39;s explanation above? \u00a0<strong attention=\"isgwdf47kb42f\">&#64;Michael Meehan</strong> \u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-04T11:36:05Z", 
+          "uid": "isgwdf47kb42f", 
+          "created": "2017-09-04T11:36:05Z", 
+          "type": "feedback", 
+          "id": "j763bgz1bth3co", 
+          "anon": "no", 
+          "bucket_name": "Week 9/3 - 9/9", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Yes, that was a typo on my part. I&#39;m correcting it now.</p>"
+        }
+      ], 
+      "subject": "<p>In the instructor note, should return of ExtEuclid(1,0) be (1,1,0)?\u00a0</p>\n<pre>ExtEuclid(1,0)\n\treturn (1,0,1) // because y=0. note that the first value returned is the first input when the second input is 0&lt;strong&gt;\n       //should the return be (1,1,0)?\n</pre>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-06T19:44:10Z", 
+      "no_upvotes": 0, 
+      "uid": "hviwm6agQCk", 
+      "created": "2017-09-06T19:44:10Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j79fmuoppz82zf", 
+      "anon": "no", 
+      "bucket_name": "Week 9/3 - 9/9", 
+      "config": {}, 
+      "bucket_order": 8, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-09T15:07:38Z", 
+          "uid": "i4iys7m3lpq2ij", 
+          "created": "2017-09-09T15:07:38Z", 
+          "type": "feedback", 
+          "id": "j7dg2shyjgn56g", 
+          "anon": "no", 
+          "bucket_name": "Week 9/3 - 9/9", 
+          "config": {}, 
+          "bucket_order": 8, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>See &#64;187.</p>\n<p></p>\n<p>If you get\u00a0$$d_{raw} &lt; 0$$ from Ext Euclid (or the other method above), to get $$0\\le d \\le N-1$$, you just compute\u00a0$$d \\equiv d_{raw}\\mod N$$. You can compute\u00a0$$d_{raw}\\mod N$$ using\u00a0$$x - \\left \\lfloor \\frac{x}{N} \\right \\rfloor * N$$, which is the same as $$x &#43; N$$ (a.k.a, \u00a0$$d_{raw} &#43; N$$) for $$ -N &lt; x &lt; 0 $$.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-09-11T20:10:51Z", 
+          "uid": "ijbr5ddtwyt6pa", 
+          "created": "2017-09-11T20:10:51Z", 
+          "type": "feedback", 
+          "id": "j7glsfqndphbn", 
+          "anon": "no", 
+          "bucket_name": "Week 9/10 - 9/16", 
+          "config": {}, 
+          "bucket_order": 7, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>So, negative values can be a valid answer to the mod itself, but for what we are looking at, we need the positive, so we simply just subtract it. So if we get -103 mod 105 we can do 103 - 105 = 2 so 2 mod 105</p>"
+        }
+      ], 
+      "subject": "So if I get -103 instead of 103 (let&#39;s pretend the math worked out that way) would my answer become -103 in that case? Or would I write it in e^-1 = -103 mod N notation?"
+    }
+  ], 
+  "nr": 147, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw2"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 9, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw2", 
+    "student"
+  ], 
+  "created": "2017-09-02T03:48:35Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145291867, 
+  "tag_good": [
+    {
+      "name": "Estelle Yeh", 
+      "admin": false, 
+      "photo": "1421544945_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "i4fxg6tfzh211n"
+    }
+  ], 
+  "tag_good_arr": [
+    "i4fxg6tfzh211n"
+  ], 
+  "history": [
+    {
+      "content": "I&#39;m having difficulty getting all of the alpha prime and beta primes calculated to calculate e inverse for an RSA problem using extended Euclid\n\nCould you show me how in the lecture when you had Euclid(360,7) with\n(360,7)\u2192(7,3)\u2192(3,1)\u2192(1,0) as subproblems you got the alphas and betas as\n(x,y)=(1,0)  (\u03b1,\u03b2)=(1,0) \n(x,y)=(3,1)  (\u03b1,\u03b2)=(0,1)\n(x,y)=(7,3) (\u03b1,\u03b2)=(1,\u22122)\n(x,y)=(360,7) (\u03b1,\u03b2)=(\u22122,103)\n\n7^-1 \u2261103 mod 360\nwith an ultimate answer of 103? I see the proofs explanation of how you got there in the lectures, but I would like to see this working problem through to the end. I need explanation for the alphas and betas and the 103 mod 360 (how 103 was calculated when (\u03b1,\u03b2)=(\u22122,103))\n\u200b\u200b", 
+      "anon": "no", 
+      "created": "2017-09-02T03:48:35Z", 
+      "uid": "hviwm6agQCk", 
+      "subject": "Alpha prime and beta prime"
+    }
+  ]
+}

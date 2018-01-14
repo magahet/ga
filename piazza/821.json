@@ -1,0 +1,729 @@
+{
+  "status": "active", 
+  "unique_views": 207, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-26T15:12:06Z", 
+      "data": "j98lxkurivf7ge", 
+      "uid": "gy4twfv45cg5o6"
+    }, 
+    {
+      "to": "j98lxkumumj7gd", 
+      "anon": "no", 
+      "when": "2017-10-26T15:17:53Z", 
+      "type": "followup", 
+      "uid": "hz4ug66rg6o26j"
+    }, 
+    {
+      "to": "j98lxkumumj7gd", 
+      "anon": "no", 
+      "when": "2017-10-26T15:24:45Z", 
+      "type": "feedback", 
+      "uid": "hyvx0owj4ot1a0"
+    }, 
+    {
+      "to": "j98lxkumumj7gd", 
+      "anon": "no", 
+      "when": "2017-10-26T15:30:57Z", 
+      "type": "feedback", 
+      "uid": "hz46706oA2e"
+    }, 
+    {
+      "to": "j98lxkumumj7gd", 
+      "anon": "no", 
+      "when": "2017-10-26T15:31:28Z", 
+      "type": "followup", 
+      "uid": "i4t8eakz3ex6lk"
+    }, 
+    {
+      "to": "j98lxkumumj7gd", 
+      "anon": "no", 
+      "when": "2017-10-26T15:34:03Z", 
+      "type": "followup", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j98lxkumumj7gd", 
+      "anon": "no", 
+      "when": "2017-10-26T15:35:31Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j98lxkumumj7gd", 
+      "anon": "no", 
+      "when": "2017-10-26T15:44:47Z", 
+      "type": "followup", 
+      "uid": "hv5exp71kfz754"
+    }, 
+    {
+      "to": "j98lxkumumj7gd", 
+      "anon": "no", 
+      "when": "2017-10-26T15:49:05Z", 
+      "type": "followup", 
+      "uid": "hvvxmpxfuyb2eo"
+    }, 
+    {
+      "to": "j98lxkumumj7gd", 
+      "anon": "no", 
+      "when": "2017-10-26T15:56:36Z", 
+      "type": "followup", 
+      "uid": "idfwgv9b5br"
+    }, 
+    {
+      "to": "j98lxkumumj7gd", 
+      "anon": "no", 
+      "when": "2017-10-26T16:48:04Z", 
+      "type": "feedback", 
+      "uid": "hve4kb0lopy4sl"
+    }, 
+    {
+      "to": "j98lxkumumj7gd", 
+      "anon": "no", 
+      "when": "2017-10-26T17:00:36Z", 
+      "type": "followup", 
+      "uid": "i4j6x5bv5ua71n"
+    }, 
+    {
+      "to": "j98lxkumumj7gd", 
+      "anon": "no", 
+      "when": "2017-10-26T17:24:55Z", 
+      "type": "feedback", 
+      "uid": "hz2wlft5i565vr"
+    }, 
+    {
+      "to": "j98lxkumumj7gd", 
+      "anon": "no", 
+      "when": "2017-10-26T18:33:21Z", 
+      "type": "feedback", 
+      "uid": "hz0pn3deX7A"
+    }, 
+    {
+      "to": "j98lxkumumj7gd", 
+      "anon": "no", 
+      "when": "2017-10-26T19:21:13Z", 
+      "type": "feedback", 
+      "uid": "i4ogin8rDC4"
+    }, 
+    {
+      "to": "j98lxkumumj7gd", 
+      "anon": "no", 
+      "when": "2017-10-26T19:25:56Z", 
+      "type": "followup", 
+      "uid": "i4ket0u1z5q31a"
+    }, 
+    {
+      "to": "j98lxkumumj7gd", 
+      "anon": "no", 
+      "when": "2017-10-26T19:29:29Z", 
+      "type": "followup", 
+      "uid": "i4m8xop4ndthr"
+    }, 
+    {
+      "to": "j98lxkumumj7gd", 
+      "anon": "no", 
+      "when": "2017-10-26T20:10:05Z", 
+      "type": "followup", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "to": "j98lxkumumj7gd", 
+      "anon": "no", 
+      "when": "2017-10-26T21:45:25Z", 
+      "type": "feedback", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j98lxkumumj7gd", 
+      "anon": "no", 
+      "when": "2017-10-26T22:59:56Z", 
+      "type": "feedback", 
+      "uid": "hve4kb0lopy4sl"
+    }, 
+    {
+      "to": "j98lxkumumj7gd", 
+      "anon": "no", 
+      "when": "2017-10-27T00:06:11Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j98lxkumumj7gd", 
+      "anon": "no", 
+      "when": "2017-10-27T04:54:37Z", 
+      "type": "feedback", 
+      "uid": "hz3xzg3uwdmpt"
+    }, 
+    {
+      "to": "j98lxkumumj7gd", 
+      "anon": "no", 
+      "when": "2017-10-27T06:50:53Z", 
+      "type": "followup", 
+      "uid": "ij7kfryk8783rj"
+    }, 
+    {
+      "to": "j98lxkumumj7gd", 
+      "anon": "no", 
+      "when": "2017-10-27T15:24:37Z", 
+      "type": "feedback", 
+      "uid": "hyywem7iw0v1jj"
+    }, 
+    {
+      "to": "j98lxkumumj7gd", 
+      "anon": "no", 
+      "when": "2017-10-27T15:24:44Z", 
+      "type": "feedback", 
+      "uid": "hyywem7iw0v1jj"
+    }
+  ], 
+  "id": "j98lxkumumj7gd", 
+  "bookmarked": 20, 
+  "tags": [
+    "instructor-poll", 
+    "polls", 
+    "project"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "updated": "2017-10-26T15:17:53Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "hz4ug66rg6o26j", 
+      "created": "2017-10-26T15:17:53Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j98m50lb5hh7cq", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-26T15:24:45Z", 
+          "uid": "hyvx0owj4ot1a0", 
+          "created": "2017-10-26T15:24:45Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j98mdu30wra2rh", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Agreed.\u00a0 I appreciated how patient John was answering questions and willingness to talk about all aspects of the project with us.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-26T15:30:57Z", 
+          "uid": "hz46706oA2e", 
+          "created": "2017-10-26T15:30:57Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j98mltl15py1mx", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#43;1 - kudos to John!</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-26T15:35:31Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-10-26T15:35:31Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j98mrojvafq7cd", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Hear, hear!</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-26T16:48:04Z", 
+          "uid": "hve4kb0lopy4sl", 
+          "created": "2017-10-26T16:48:04Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j98pczddm7o3hn", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#43;1 - more kudos here, both to John for the implementation success and to Eric for the original project design. I learned a lot and hashing was something that was not really all that well covered in my undergrad days.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-26T17:24:55Z", 
+          "uid": "hz2wlft5i565vr", 
+          "created": "2017-10-26T17:24:55Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j98qodgtit066i", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Agreed. All of the office hours and documentation for this project were spot-on.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-26T21:45:25Z", 
+          "uid": "gns9oa0pgsO", 
+          "created": "2017-10-26T21:45:25Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j98zze245sl6z3", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>thanks folks! : )</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-27T04:54:37Z", 
+          "uid": "hz3xzg3uwdmpt", 
+          "created": "2017-10-27T04:54:37Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j99fbbt6mjt5y7", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Piling in here too. John did a fantastic job running it.</p>"
+        }
+      ], 
+      "subject": "<p>John&#39;s office hours, project write-up, and overall communication patterns on this project were some of the best I&#39;ve seen in my 10 classes.\u00a0 \u00a0Also appreciated the .py templates provided...it helps getting a start on the general expected direction.\u00a0 \u00a0\u00a0\u00a0</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-26T15:31:28Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "i4t8eakz3ex6lk", 
+      "created": "2017-10-26T15:31:28Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j98mmhhnarg4av", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>The only not great thing about this project is it&#39;s interleaving with Exam 1 and HW4. I was not able to complete HW4 since I was focused on the project.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-26T15:34:03Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "hvil6y6khgk2ri", 
+      "created": "2017-10-26T15:34:03Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j98mpsrnh4s6dw", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>IMO this project was perfect - it was relevant, interesting, and the lecture was enough to understand what had to be done. This was one of the better projects in the program.\u00a0 <br /><br />My only suggestion would be to move the project to be due the week after Exam 2 (and actually move Exam2 up a week); this is purely for alleviating the grading for exam 2 before the W deadline. If exam 2 was shifted forward a week and the project due this past Monday, I think that <br />A) this would allow graders for exam 2 to take their time.\u00a0 <br />B) Traditionally, people do far better on projects than tests; I feel even if most people didnt get their project grade back before the W date they would be able to correctly guess their grade.<br /><br />Just a thought! Not sure if anyone else agrees.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-26T15:44:47Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "hv5exp71kfz754", 
+      "created": "2017-10-26T15:44:47Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j98n3lrqw3k1nj", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>John obviously put in a lot of time organizing and answering questions.\u00a0 This was one of those things I had a general idea of how it worked but it was great implementing it and then thinking about why and what it&#39;s doing.</p>\n<p></p>\n<p>I thought it was a good project especially for the first time through.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-26T15:49:05Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "hvvxmpxfuyb2eo", 
+      "created": "2017-10-26T15:49:05Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j98n94m7mkl5ru", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>Great topic! Intriguing and\u00a0doesn&#39;t require much time to implement. May be counting filters and extensions can be considered in future.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-26T15:56:36Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "idfwgv9b5br", 
+      "created": "2017-10-26T15:56:36Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j98nisl6pgb3lh", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-26T19:21:13Z", 
+          "uid": "i4ogin8rDC4", 
+          "created": "2017-10-26T19:21:13Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j98utxvf4i23tf", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Agreed, John did a spectacular job facilitating the project and I think it was scoped very well.</p>"
+        }
+      ], 
+      "subject": "Project was great and John was great."
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-26T17:00:36Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "i4j6x5bv5ua71n", 
+      "created": "2017-10-26T17:00:36Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j98pt3p1jo94z9", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-26T18:33:21Z", 
+          "uid": "hz0pn3deX7A", 
+          "created": "2017-10-26T18:33:21Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j98t4dvvfgd7dp", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I agree that the project was interesting and useful. It helped to solidify my understanding of bloom filters. I also agree that I found the provided code a bit confusing. Though for slightly different reasons (hope you don&#39;t mind piggybacking on your reply.)</p>\n<p>I can imagine that the provided code has gone through some iterations. I think another iteration to clarify some points and goals of the project would be helpful. I think there was some unnecessary confusion caused by differences in the project prompt and the provided code. This leads to students spending more time understanding logistics of the assignment as opposed to the concepts.</p>"
+        }
+      ], 
+      "subject": "I enjoyed the project and thought it was definitely useful. I do think the structure of the provided code was a bit confusing with the hashing/bloom filter classes having knowledge of the project tasks (instead of being a generic API that was configured externally), but the scope of the project was small enough that this didn&#39;t matter so much"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-26T19:25:56Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "i4ket0u1z5q31a", 
+      "created": "2017-10-26T19:25:56Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j98v00c2lk824c", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-27T15:24:44Z", 
+          "uid": "hyywem7iw0v1jj", 
+          "created": "2017-10-27T15:24:44Z", 
+          "type": "feedback", 
+          "id": "j9a1toatsr1170", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#43;1</p>"
+        }
+      ], 
+      "subject": "<p>I think the project was good, it could be slightly improved to be clearer about requirements and where bonus points were available.</p>\n<p>I didn&#39;t realize there was an opportunity to do extra work for more points or I would absolutely have done it.</p>\n<p>Some of the requirements/expectations for scoring could have been clearer but overall I really appreciate the project and wish the grades were based on several projects instead of several exams.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-26T19:29:29Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "i4m8xop4ndthr", 
+      "created": "2017-10-26T19:29:29Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j98v4k6wxow5sy", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-26T22:59:56Z", 
+          "uid": "hve4kb0lopy4sl", 
+          "created": "2017-10-26T22:59:56Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j992n7lyck32ls", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>It&#39;s pretty funny because I had never heard of a bloom filter before this class and two days after I finished my project, I&#39;m talking to my boss and he wants to tell me all about this new data structure he heard about called bloom filters that might be useful on a (conceptual) project we are working.\u00a0 That was some cosmic timing...</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-27T00:06:11Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-10-27T00:06:11Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j9950f1318c1qd", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Nice!</p>"
+        }
+      ], 
+      "subject": "<p>I just loved the topic and the project. What&#39;s even more rewarding is that I was able to implement Bloom Filter in the real project at my work, and I just love how fast this thing works.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-26T20:10:05Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "ijbr5ddtwyt6pa", 
+      "created": "2017-10-26T20:10:05Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j98wkrrafd15bx", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-27T15:24:37Z", 
+          "uid": "hyywem7iw0v1jj", 
+          "created": "2017-10-27T15:24:37Z", 
+          "type": "feedback", 
+          "id": "j9a1til3v4g13m", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#43;1</p>"
+        }
+      ], 
+      "subject": "<p>I don&#39;t think the filter itself took a ton of time, but I spent a good week on just trying to find out how to get the proper test data, and trying to get everything to work within the template. That is my only &#34;complaint&#34;, though the project itself was interesting.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-27T06:50:53Z", 
+      "d-bucket": "Yesterday", 
+      "no_upvotes": 0, 
+      "uid": "ij7kfryk8783rj", 
+      "created": "2017-10-27T06:50:53Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j99jgun7isydl", 
+      "anon": "no", 
+      "bucket_name": "Yesterday", 
+      "config": {}, 
+      "bucket_order": 3, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [], 
+      "subject": "<p>Project was very relevant and interesting. John was great in responding to questions.</p>\n<p></p>\n<p>Few things to consider for next semester.</p>\n<p></p>\n<p>1. Though project had 3 week ends in the calendar,\u00a0 there was a test and a home work. It would have been better to get at least 2 full week ends.</p>\n<p>2. More clarity on extra credit and what would be needed for that.</p>"
+    }
+  ], 
+  "nr": 821, 
+  "bucket_order": 2, 
+  "type": "poll", 
+  "folders": [
+    "project", 
+    "polls"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 3, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "answer": "", 
+    "admin": "", 
+    "has_voted": [
+      2
+    ], 
+    "result": {
+      "1": 4, 
+      "0": 21, 
+      "3": 11, 
+      "2": 146
+    }, 
+    "total_votes": 182
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-10-26T15:12:06Z", 
+  "is_tag_good": false, 
+  "config": {
+    "show_results": "av", 
+    "anonymous": "yes", 
+    "multiple_selections": 0, 
+    "unpublished": 0, 
+    "toggle_visibility_on": 1, 
+    "revote": 0, 
+    "allow_followups": "yes", 
+    "bypass_email": 1, 
+    "always_open": 0, 
+    "close_after": "168", 
+    "publish_later": 0
+  }, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145126856, 
+  "tag_good": [
+    {
+      "name": "Hamel", 
+      "admin": false, 
+      "photo": null, 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "hkvdb9dig3v511"
+    }, 
+    {
+      "name": "Kyle P Davis", 
+      "admin": false, 
+      "photo": "1484080691_35.png", 
+      "us": false, 
+      "role": "student", 
+      "facebook_id": null, 
+      "id": "idiy4usuxxs"
+    }
+  ], 
+  "tag_good_arr": [
+    "hkvdb9dig3v511", 
+    "idiy4usuxxs"
+  ], 
+  "history": [
+    {
+      "content": "I&#39;d like your feedback on the Bloom filter project.  Did you find the topic interesting, was it a reasonable amount of time to do the project?\n\n\n<br/> [o] Required too much time but interesting topic\n[o] Required too much time and boring topic\n[o] OK time and interesting\n[o] OK time but not so interesting", 
+      "anon": "no", 
+      "created": "2017-10-26T15:12:06Z", 
+      "uid": "gy4twfv45cg5o6", 
+      "subject": "Bloom filter project"
+    }
+  ]
+}

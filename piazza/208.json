@@ -1,0 +1,162 @@
+{
+  "status": "active", 
+  "unique_views": 201, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-06T20:17:02Z", 
+      "data": "j79gt4rccex1da", 
+      "uid": "hviwm6agQCk"
+    }, 
+    {
+      "uid": "hkkbz4bujtv5dn", 
+      "type": "i_answer", 
+      "when": "2017-09-06T22:58:17Z", 
+      "to": "j79gt4r754k1d9", 
+      "anon": "no", 
+      "data": "j79mki1vsx83qj"
+    }, 
+    {
+      "type": "i_answer_update", 
+      "anon": "no", 
+      "when": "2017-09-06T23:07:34Z", 
+      "data": "j79mwfbbk203vf", 
+      "uid": "hkkbz4bujtv5dn"
+    }, 
+    {
+      "type": "i_answer_update", 
+      "anon": "no", 
+      "when": "2017-09-08T02:09:13Z", 
+      "data": "j7b8tvwkz9136r", 
+      "uid": "hkkbz4bujtv5dn"
+    }, 
+    {
+      "type": "i_answer_update", 
+      "anon": "no", 
+      "when": "2017-09-08T02:10:12Z", 
+      "data": "j7b8v5rek8m417", 
+      "uid": "hkkbz4bujtv5dn"
+    }, 
+    {
+      "to": "j79gt4r754k1d9", 
+      "anon": "no", 
+      "when": "2017-09-08T02:11:31Z", 
+      "type": "followup", 
+      "uid": "hkkbz4bujtv5dn"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j79gt4r754k1d9", 
+  "bookmarked": 3, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-06T22:58:17Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "idfwkujs17e3ky", 
+        "hyzyc8nwswo6z5"
+      ], 
+      "id": "j79mki1sqhq3qi", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Blaine Spear", 
+          "admin": false, 
+          "photo": "1494887789_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "idfwkujs17e3ky"
+        }, 
+        {
+          "name": "Zack Gow", 
+          "admin": false, 
+          "photo": "1476241357_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "hyzyc8nwswo6z5"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>The existence of\u00a0an efficient decryption algorithm is enough to prove that the proposed cryptosystem is not\u00a0secure. Such a decryption\u00a0algorithm would allow an eavesdropper to decode the contents of an\u00a0encrypted message in a reasonable (not exponential) amount of time.</p>", 
+          "anon": "no", 
+          "created": "2017-09-08T02:10:12Z", 
+          "uid": "hkkbz4bujtv5dn", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>In the RSA cryptosystem, the person who wants to receive an encrypted message (Bob) publishes the public key $$(N, e)$$ for the entire world to see. Then\u00a0when someone (Alice) wants to send\u00a0Bob a message, they can encrypt their message $$m$$ using the encryption formula $$y = m^e \\mod N$$. The encrypted message $$y$$ can only be decoded using the decryption formula $$y^d = (m^e)^d = m^{1 &#43; k\\phi(N)} \\equiv m \\mod N$$. The decryption key $$d$$ is computed as $$d = e^{-1} \\mod \\phi(N) = e^{-1} \\mod ((p-1)(q-1))$$.</p>\n<p></p>\n<p>Bob can compute the decryption key quickly because\u00a0he knows that\u00a0that $$N = pq$$ and therefore $$\\phi(N) = (p-1)(q-1)$$. No one else can\u00a0compute $$d$$ without first factoring $$N$$ into $$p*q$$, which would take an exponential amount of time. The inherent difficulty\u00a0of factoring $$N$$\u00a0is what makes RSA secure.</p>\n<p></p>\n<p>The only difference with this new cryptosystem is that $$N = p$$ (rather than $$N = pq$$).\u00a0So now the decryption key\u00a0is not so\u00a0difficult for an eavesdropper to compute. For this problem, you should\u00a0just describe how an eavesdropper\u00a0could use the public information $$(N=p, e)$$ to decrypt $$y$$ back into the original message $$m$$.</p>", 
+          "anon": "no", 
+          "created": "2017-09-08T02:09:13Z", 
+          "uid": "hkkbz4bujtv5dn", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>The existence of\u00a0an efficient decryption algorithm is enough to prove that the proposed cryptosystem is not\u00a0secure. Such a decryption\u00a0algorithm would allow an eavesdropper to decode the contents of an\u00a0encrypted message in a reasonable (not exponential) amount of time.</p>", 
+          "anon": "no", 
+          "created": "2017-09-06T23:07:34Z", 
+          "uid": "hkkbz4bujtv5dn", 
+          "subject": ""
+        }, 
+        {
+          "content": "<p>For this particular problem,\u00a0you can prove that the proposed cryptosystem is insecure by describing an\u00a0an algorithm that given $$p$$, $$e$$, and $$m^e \\mod p$$ as inputs, computes the original message $$m\\mod p$$ in an efficient amount of time.</p>", 
+          "anon": "no", 
+          "created": "2017-09-06T22:58:17Z", 
+          "uid": "hkkbz4bujtv5dn", 
+          "subject": ""
+        }
+      ]
+    }
+  ], 
+  "nr": 208, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw2"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 2, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw2", 
+    "student"
+  ], 
+  "created": "2017-09-06T20:17:02Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145275021, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "So I think I know what I want to say for the last part of the homework, but I don&#39;t know about putting it in the right format or sequence of steps to be a sound proof.  Is there a general pattern you&#39;d like our proofs to follow? I suppose it wouldn&#39;t be enough to give an example to the contrary of what we&#39;re trying to prove.", 
+      "anon": "no", 
+      "created": "2017-09-06T20:17:02Z", 
+      "uid": "hviwm6agQCk", 
+      "subject": "RSA Proof"
+    }
+  ]
+}

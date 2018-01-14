@@ -1,0 +1,596 @@
+{
+  "status": "active", 
+  "unique_views": 183, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-10-02T23:41:17Z", 
+      "data": "j8atjy99h531s4", 
+      "uid": "hkvdb9dig3v511"
+    }, 
+    {
+      "uid": "gns9oa0pgsO", 
+      "type": "i_answer", 
+      "when": "2017-10-02T23:48:22Z", 
+      "to": "j8atjy985au1s3", 
+      "anon": "no", 
+      "data": "j8att1ven1u32w"
+    }, 
+    {
+      "to": "j8atjy985au1s3", 
+      "anon": "no", 
+      "when": "2017-10-02T23:57:05Z", 
+      "type": "followup", 
+      "uid": "hkvdb9dig3v511"
+    }, 
+    {
+      "to": "j8atjy985au1s3", 
+      "anon": "no", 
+      "when": "2017-10-03T00:06:00Z", 
+      "type": "feedback", 
+      "uid": "hveop63kovn61t"
+    }, 
+    {
+      "to": "j8atjy985au1s3", 
+      "anon": "no", 
+      "when": "2017-10-03T00:07:47Z", 
+      "type": "followup", 
+      "uid": "hq9zldy4rr4w1"
+    }, 
+    {
+      "to": "j8atjy985au1s3", 
+      "anon": "no", 
+      "when": "2017-10-03T00:09:10Z", 
+      "type": "feedback", 
+      "uid": "hkvdb9dig3v511"
+    }, 
+    {
+      "to": "j8atjy985au1s3", 
+      "anon": "no", 
+      "when": "2017-10-03T00:10:48Z", 
+      "type": "feedback", 
+      "uid": "hkvdb9dig3v511"
+    }, 
+    {
+      "to": "j8atjy985au1s3", 
+      "anon": "no", 
+      "when": "2017-10-03T00:36:55Z", 
+      "type": "feedback", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j8atjy985au1s3", 
+      "anon": "no", 
+      "when": "2017-10-03T00:37:53Z", 
+      "type": "feedback", 
+      "uid": "hkvdb9dig3v511"
+    }, 
+    {
+      "to": "j8atjy985au1s3", 
+      "anon": "no", 
+      "when": "2017-10-03T02:21:15Z", 
+      "type": "followup", 
+      "uid": "hve4k9bj2u4qu"
+    }, 
+    {
+      "to": "j8atjy985au1s3", 
+      "anon": "no", 
+      "when": "2017-10-03T02:55:49Z", 
+      "type": "feedback", 
+      "uid": "hq9zldy4rr4w1"
+    }, 
+    {
+      "to": "j8atjy985au1s3", 
+      "anon": "no", 
+      "when": "2017-10-03T04:17:39Z", 
+      "type": "feedback", 
+      "uid": "i4ogin8rDC4"
+    }, 
+    {
+      "to": "j8atjy985au1s3", 
+      "anon": "no", 
+      "when": "2017-10-03T15:06:33Z", 
+      "type": "feedback", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j8atjy985au1s3", 
+      "anon": "no", 
+      "when": "2017-10-03T15:07:00Z", 
+      "type": "feedback", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j8atjy985au1s3", 
+      "anon": "no", 
+      "when": "2017-10-03T19:55:29Z", 
+      "type": "feedback", 
+      "uid": "hq8hn0qyfuvyr"
+    }, 
+    {
+      "to": "j8atjy985au1s3", 
+      "anon": "no", 
+      "when": "2017-10-03T20:04:27Z", 
+      "type": "feedback", 
+      "uid": "gns9oa0pgsO"
+    }, 
+    {
+      "to": "j8atjy985au1s3", 
+      "anon": "no", 
+      "when": "2017-10-04T01:13:08Z", 
+      "type": "feedback", 
+      "uid": "hq9zldy4rr4w1"
+    }, 
+    {
+      "to": "j8atjy985au1s3", 
+      "anon": "no", 
+      "when": "2017-10-04T01:41:34Z", 
+      "type": "feedback", 
+      "uid": "hvil6y6khgk2ri"
+    }, 
+    {
+      "to": "j8atjy985au1s3", 
+      "anon": "no", 
+      "when": "2017-10-06T21:25:14Z", 
+      "type": "followup", 
+      "uid": "hz0pn3deX7A"
+    }, 
+    {
+      "to": "j8atjy985au1s3", 
+      "anon": "no", 
+      "when": "2017-10-07T23:19:02Z", 
+      "type": "feedback", 
+      "uid": "idgjs16yZ4K"
+    }, 
+    {
+      "to": "j8atjy985au1s3", 
+      "anon": "no", 
+      "when": "2017-10-08T00:42:57Z", 
+      "type": "feedback", 
+      "uid": "hz0pn3deX7A"
+    }, 
+    {
+      "to": "j8atjy985au1s3", 
+      "anon": "no", 
+      "when": "2017-10-08T02:57:30Z", 
+      "type": "feedback", 
+      "uid": "idgjs16yZ4K"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j8atjy985au1s3", 
+  "bookmarked": 9, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-10-02T23:48:22Z", 
+      "type": "i_answer", 
+      "tag_endorse_arr": [
+        "ij7kflqnsgm3av"
+      ], 
+      "id": "j8att1vcbz432v", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Dylan Dignan", 
+          "admin": false, 
+          "photo": "1503334101_35.png", 
+          "us": false, 
+          "role": "student", 
+          "facebook_id": null, 
+          "id": "ij7kflqnsgm3av"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "<p>yes, much too long.\u00a0 it should take 4 seconds.\u00a0 an execution that long will time out.\u00a0</p>", 
+          "anon": "no", 
+          "created": "2017-10-02T23:48:22Z", 
+          "uid": "gns9oa0pgsO", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-02T23:57:05Z", 
+      "no_upvotes": 0, 
+      "uid": "hkvdb9dig3v511", 
+      "created": "2017-10-02T23:57:05Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8au49oleoqyu", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-03T00:06:00Z", 
+          "uid": "hveop63kovn61t", 
+          "created": "2017-10-03T00:06:00Z", 
+          "type": "feedback", 
+          "id": "j8aufpv2ibe17e", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Look for other posts talking about running time. The main suggestion is to make sure you aren&#39;t checking for primes while looping.\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-03T00:09:10Z", 
+          "uid": "hkvdb9dig3v511", 
+          "created": "2017-10-03T00:09:10Z", 
+          "type": "feedback", 
+          "id": "j8aujspse8d6ov", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thanks &#64;Sterling - can you tell me which posts are talking about runtime? \u00a0I cannot seem to find them searching on piazza.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-03T00:10:48Z", 
+          "uid": "hkvdb9dig3v511", 
+          "created": "2017-10-03T00:10:48Z", 
+          "type": "feedback", 
+          "id": "j8aulwcfatb6ke", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Nevermind. \u00a0I got it! \u00a0Brilliant suggestion. \u00a0This is exactly what I was doing wrong.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-03T04:17:39Z", 
+          "uid": "i4ogin8rDC4", 
+          "created": "2017-10-03T04:17:39Z", 
+          "type": "feedback", 
+          "id": "j8b3fcm9yge48r", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Wow, this was a huge help for me as well, reduced runtime from ~15 minutes to ~5 seconds. Thanks!</p>"
+        }
+      ], 
+      "subject": "<p><strong attention=\"gns9oa0pgsO\">&#64;john turner</strong>\u00a0 are we allowed to use numpy.arrays? \u00a0 I&#39;m trying to figure out how to speed things up, and maybe avoiding loops would help.</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-03T00:07:47Z", 
+      "no_upvotes": 0, 
+      "uid": "hq9zldy4rr4w1", 
+      "created": "2017-10-03T00:07:47Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8aui0m696gcx", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-03T00:36:55Z", 
+          "uid": "gns9oa0pgsO", 
+          "created": "2017-10-03T00:36:55Z", 
+          "type": "feedback", 
+          "id": "j8avjhpzq345zh", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>if you want to send me your code via a private post, you may.\u00a0 you&#39;re doing something grievously wrong.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-03T00:37:53Z", 
+          "uid": "hkvdb9dig3v511", 
+          "created": "2017-10-03T00:37:53Z", 
+          "type": "feedback", 
+          "id": "j8avkpypkbl4e0", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>&#64;Harshan - make sure you read Sterling&#39;s hint above. \u00a0I think many\u00a0people have been making the same mistake as you. \u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-03T02:55:49Z", 
+          "uid": "hq9zldy4rr4w1", 
+          "created": "2017-10-03T02:55:49Z", 
+          "type": "feedback", 
+          "id": "j8b0i46nd9n3as", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>I was not checking for primes, but am just using findnextprime. I guess similar issue. The instructions say N=P, so I guess use &#34;n&#34; and &#34;N&#34;(=P) from the config file for task 2??</p>\n<p></p>\n<p>Either way \u00a0- I am getting some number of \u00a0incorrect false results. I am guessing that is OK.\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-03T15:06:33Z", 
+          "uid": "gns9oa0pgsO", 
+          "created": "2017-10-03T15:06:33Z", 
+          "type": "feedback", 
+          "id": "j8bqltzkn393jr", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>you don&#39;t check for primes or anything in getHashList other than the hash calculation.\u00a0 that function is executed for every data element you are adding and checking in your bloom filter.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-03T19:55:29Z", 
+          "uid": "hq8hn0qyfuvyr", 
+          "created": "2017-10-03T19:55:29Z", 
+          "type": "feedback", 
+          "id": "j8c0xer7zxp54f", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Harshan, I think that when you run task 2, your results should match perfectly with the verification files. I was able to do this without too much difficulty. If you get any mismatches, you might be doing something wrong."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-03T20:04:27Z", 
+          "uid": "gns9oa0pgsO", 
+          "created": "2017-10-03T20:04:27Z", 
+          "type": "feedback", 
+          "id": "j8c18y1melouh", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>yes you must get the message that the filter works as expected or your grade will be affected.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-04T01:13:08Z", 
+          "uid": "hq9zldy4rr4w1", 
+          "created": "2017-10-04T01:13:08Z", 
+          "type": "feedback", 
+          "id": "j8cc9x394aw2k6", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>John,\u00a0</p>\n<p></p>\n<p>\u00a0 For Task 2 when you say the size of hash table is &#34;n&#34; - you mean the configdata[&#39;n&#39;] - correct? and this is the same &#34;n&#34; used in\u00a0 &#34;mod n&#34;</p>\n<p></p>\n<p>Also not sure what n = mc means - since we are not actually using m and c\u00a0</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-04T01:41:34Z", 
+          "uid": "hvil6y6khgk2ri", 
+          "created": "2017-10-04T01:41:34Z", 
+          "type": "feedback", 
+          "id": "j8cdahdnyy16ij", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>The size of the hash table - the list in your BloomFilter object that stores the 1s and 0s that represent your hash - that list will be of size n. It is indeed the same n in mod n.</p>\n<p><br />As for n = mc, you will have to figure out n from c*m in task 3 (matter of fact, you will have to ensure its also prime - so you will find n and then find the next highest prime from that number).</p>"
+        }
+      ], 
+      "subject": "<p>Isn&#39;t Task2 actually adding 100000 rows into the Hash table ( using Python int array ) and checking the existence for twice that number using a K value of 13 hashes? How can it run in a few secs. I am confused. Mine takes a few hours</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-03T02:21:15Z", 
+      "no_upvotes": 0, 
+      "uid": "hve4k9bj2u4qu", 
+      "created": "2017-10-03T02:21:15Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8az9ngnosm15f", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-03T15:07:00Z", 
+          "uid": "gns9oa0pgsO", 
+          "created": "2017-10-03T15:07:00Z", 
+          "type": "feedback", 
+          "id": "j8bqmf916rp3zn", 
+          "anon": "no", 
+          "bucket_name": "Last week", 
+          "config": {}, 
+          "bucket_order": 5, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>that&#39;s probably fine.\u00a0 if you want to verify you can pm me your code.</p>"
+        }
+      ], 
+      "subject": "<p><strong attention=\"gns9oa0pgsO\">&#64;john turner</strong>\u00a0 is 9 sec ok?</p>"
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-10-06T21:25:14Z", 
+      "no_upvotes": 0, 
+      "uid": "hz0pn3deX7A", 
+      "created": "2017-10-06T21:25:14Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j8gege0rqft2nu", 
+      "anon": "no", 
+      "bucket_name": "Last week", 
+      "config": {}, 
+      "bucket_order": 5, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-10-07T23:19:02Z", 
+          "uid": "idgjs16yZ4K", 
+          "created": "2017-10-07T23:19:02Z", 
+          "type": "feedback", 
+          "d-bucket": "Yesterday", 
+          "id": "j8hxyl0yd1t1n5", 
+          "anon": "no", 
+          "bucket_name": "Yesterday", 
+          "config": {}, 
+          "bucket_order": 3, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Mine takes about 20-25 seconds for type 1. Type 2 is about 5 seconds, same as what others have said."
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-08T00:42:57Z", 
+          "uid": "hz0pn3deX7A", 
+          "created": "2017-10-08T00:42:57Z", 
+          "type": "feedback", 
+          "id": "j8i0yiiovbf5nd", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "<p>Thanks. I also saw 20-25 seconds.</p>"
+        }, 
+        {
+          "folders": [], 
+          "updated": "2017-10-08T02:57:30Z", 
+          "uid": "idgjs16yZ4K", 
+          "created": "2017-10-08T02:57:30Z", 
+          "type": "feedback", 
+          "id": "j8i5rjhjl73ma", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "I just noticed in the office hours notes, the instructor confirm both of these approx. runtimes."
+        }
+      ], 
+      "subject": "<p>I have a runtime of ~5 seconds for Task2 Type 2. Out of curiousity, what is the expected runtime for Task2 Type1? What is everyone seeing?</p>"
+    }
+  ], 
+  "nr": 551, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "project"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "project", 
+    "student"
+  ], 
+  "created": "2017-10-02T23:41:17Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145190645, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>When I test task 2 using:</p>\n<p></p>\n<pre>python bloom.py -c testConfigHashType2.txt -i testInput.txt -o testOutput.txt -v validResHashType2.txt\u00a0</pre>\n<p></p>\n<p>it takes quite a long time to finish (&gt; 15 minutes). \u00a0Is this too long? \u00a0Does the auto-grader have a time limit?\u00a0</p>", 
+      "anon": "no", 
+      "created": "2017-10-02T23:41:17Z", 
+      "uid": "hkvdb9dig3v511", 
+      "subject": "Bloom Filter: Task 2 Test: Runtime"
+    }
+  ]
+}

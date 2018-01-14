@@ -1,0 +1,154 @@
+{
+  "status": "active", 
+  "unique_views": 157, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-11T01:36:46Z", 
+      "data": "j7fhzpyqlwp5sw", 
+      "uid": "ijbr5ddtwyt6pa"
+    }, 
+    {
+      "uid": "i4nkipeofrkrz", 
+      "type": "s_answer", 
+      "when": "2017-09-11T02:05:05Z", 
+      "to": "j7fhzpymhcu5sv", 
+      "anon": "no", 
+      "data": "j7fj04qo9snsz"
+    }, 
+    {
+      "to": "j7fhzpymhcu5sv", 
+      "anon": "no", 
+      "when": "2017-09-20T12:43:46Z", 
+      "type": "followup", 
+      "uid": "hqj2wfy7NUZ"
+    }, 
+    {
+      "to": "j7fhzpymhcu5sv", 
+      "anon": "no", 
+      "when": "2017-09-20T12:50:26Z", 
+      "type": "feedback", 
+      "uid": "gy4twfv45cg5o6"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j7fhzpymhcu5sv", 
+  "bookmarked": 5, 
+  "no_answer": 0, 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [
+    {
+      "folders": [], 
+      "is_tag_endorse": false, 
+      "created": "2017-09-11T02:05:05Z", 
+      "type": "s_answer", 
+      "tag_endorse_arr": [
+        "gy4twfv45cg5o6"
+      ], 
+      "id": "j7fj04qkz6bsy", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "tag_endorse": [
+        {
+          "name": "Eric Vigoda", 
+          "admin": true, 
+          "photo": null, 
+          "us": false, 
+          "role": "instructor", 
+          "facebook_id": null, 
+          "id": "gy4twfv45cg5o6"
+        }
+      ], 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": []
+      }, 
+      "children": [], 
+      "history": [
+        {
+          "content": "True/False should be enough.", 
+          "anon": "no", 
+          "created": "2017-09-11T02:05:05Z", 
+          "uid": "i4nkipeofrkrz", 
+          "subject": ""
+        }
+      ]
+    }, 
+    {
+      "folders": [], 
+      "updated": "2017-09-20T12:43:46Z", 
+      "no_upvotes": 0, 
+      "uid": "hqj2wfy7NUZ", 
+      "created": "2017-09-20T12:43:46Z", 
+      "type": "followup", 
+      "no_answer": 0, 
+      "id": "j7t0s58qadz4pk", 
+      "anon": "no", 
+      "bucket_name": "Today", 
+      "config": {}, 
+      "bucket_order": 2, 
+      "data": {
+        "embed_links": null
+      }, 
+      "children": [
+        {
+          "folders": [], 
+          "updated": "2017-09-20T12:50:26Z", 
+          "uid": "gy4twfv45cg5o6", 
+          "created": "2017-09-20T12:50:26Z", 
+          "type": "feedback", 
+          "id": "j7t10pkwdft2dd", 
+          "anon": "no", 
+          "bucket_name": "Today", 
+          "config": {}, 
+          "bucket_order": 2, 
+          "data": {
+            "embed_links": null
+          }, 
+          "children": [], 
+          "subject": "Correct."
+        }
+      ], 
+      "subject": "<p>I think the answer is binary search that runs in O(log n). \u00a0Or am I missing something?</p>"
+    }
+  ], 
+  "nr": 259, 
+  "bucket_order": 2, 
+  "type": "question", 
+  "folders": [
+    "hw3"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 1, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "tags": [
+    "hw3", 
+    "student"
+  ], 
+  "created": "2017-09-11T01:36:46Z", 
+  "is_tag_good": false, 
+  "config": {}, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145260327, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p>The problem:</p>\n<p></p>\n<p><em>Given a sorted array of distinct integers A[1, . . . , n], you want to find out whether there is an index i for which A[i] = i. Give a divide-and-conquer algorithm that runs in time O(log n).\u00a0</em></p>\n<p><em></em></p>\n<p>So, this just returns true if there is\u00a0\u00a0an index\u00a0i\u00a0for which\u00a0A[i] =\u00a0i? Or does it return the index?</p>\n<div>\n<div>\n<div>\n<p></p>\n</div>\n</div>\n</div>", 
+      "anon": "no", 
+      "created": "2017-09-11T01:36:46Z", 
+      "uid": "ijbr5ddtwyt6pa", 
+      "subject": "2.17 (Practice)"
+    }
+  ]
+}

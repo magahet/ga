@@ -1,0 +1,58 @@
+{
+  "status": "active", 
+  "unique_views": 199, 
+  "request_instructor_me": false, 
+  "change_log": [
+    {
+      "type": "create", 
+      "anon": "no", 
+      "when": "2017-09-13T21:10:28Z", 
+      "data": "j7jissuineu4eh", 
+      "uid": "gy4twfv45cg5o6"
+    }
+  ], 
+  "upvote_ids": [], 
+  "id": "j7jissugb104eg", 
+  "bookmarked": 2, 
+  "tags": [
+    "hw2", 
+    "instructor-note"
+  ], 
+  "i_edits": [], 
+  "is_bookmarked": false, 
+  "children": [], 
+  "nr": 292, 
+  "bucket_order": 2, 
+  "type": "note", 
+  "folders": [
+    "hw2"
+  ], 
+  "no_answer_followup": 0, 
+  "num_favorites": 0, 
+  "bucket_name": "Today", 
+  "q_edits": [], 
+  "data": {
+    "embed_links": []
+  }, 
+  "request_instructor": 0, 
+  "created": "2017-09-13T21:10:28Z", 
+  "is_tag_good": false, 
+  "config": {
+    "is_announcement": 1
+  }, 
+  "s_edits": [], 
+  "my_favorite": false, 
+  "default_anonymity": "no", 
+  "t": 1509145249037, 
+  "tag_good": [], 
+  "tag_good_arr": [], 
+  "history": [
+    {
+      "content": "<p></p>\n<p>I allowed late hw 2 submissions on Gradescope due to the hurricane. \u00a0If you submitted your hw late you need to send us a private note on Piazza to explain why you were affected by the hurricane. \u00a0Otherwise, late submissions are not allowed. \u00a0Thanks, Eric</p>", 
+      "anon": "no", 
+      "created": "2017-09-13T21:10:28Z", 
+      "uid": "gy4twfv45cg5o6", 
+      "subject": "Late HW 2"
+    }
+  ]
+}
