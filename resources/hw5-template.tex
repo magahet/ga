@@ -1,0 +1,221 @@
+\documentclass{article}
+\usepackage[T1]{fontenc}
+\usepackage{amssymb, amsmath, graphicx, subfigure, enumerate}
+\usepackage{amsthm,alltt} 
+\usepackage[margin=1.25in]{geometry} %geometry (sets margin) and other useful packages
+\usepackage{graphicx,ctable,booktabs}
+\usepackage{mathtools}
+\usepackage[boxed]{algorithm2e}
+\usepackage{mathdots}
+\usepackage{fancyhdr} %Fancy-header package to modify header/page numbering
+\usepackage{cleveref}
+
+\setlength{\oddsidemargin}{.25in}
+\setlength{\evensidemargin}{.25in}
+\setlength{\textwidth}{6in}
+\setlength{\topmargin}{-0.4in}
+\setlength{\textheight}{8.5in}
+
+
+
+\newcommand{\heading}[6]{
+  \renewcommand{\thepage}{\arabic{page}} % used to be #1-\arabic{page}
+  \noindent
+  \begin{center}
+  \framebox{
+    \vbox{
+      \hbox to 5.78in { \textbf{#2} \hfill #3 }
+      \vspace{4mm}
+      \hbox to 5.78in { {\Large \hfill #6  \hfill} }
+      \vspace{2mm}
+      \hbox to 5.78in { \textit{Instructor: #4 \hfill #5} }
+    }
+  }
+  \end{center}
+  \vspace*{4mm}
+}
+
+%Redefining sections as problems
+\makeatletter
+\newenvironment{problem}{\@startsection
+       {section}
+       {2}
+       {-.2em}
+       {-3.5ex plus -1ex minus -.2ex}
+       {2.3ex plus .2ex}
+       {\pagebreak[3]%forces pagebreak when space is small; use \eject for better results
+       \large\bf\noindent{Problem }
+       }
+       }
+       %{%\vspace{1ex}\begin{center} \rule{0.3\linewidth}{.3pt}\end{center}}
+       %\begin{center}\large\bf \ldots\ldots\ldots\end{center}}
+\makeatother
+
+
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem{definition}[theorem]{Definition}
+\newtheorem{remark}[theorem]{Remark}
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{proposition}[theorem]{Proposition}
+\newtheorem{claim}[theorem]{Claim}
+\newtheorem{observation}[theorem]{Observation}
+\newtheorem{fact}[theorem]{Fact}
+\newtheorem{assumption}[theorem]{Assumption}
+
+%\newenvironment{proof}{\noindent{\bf Proof:} \hspace*{1mm}}{
+% \hspace*{\fill} $\Box$ }
+%\newenvironment{proof_of}[1]{\noindent {\bf Proof of #1:}
+% \hspace*{1mm}}{\hspace*{\fill} $\Box$ }
+%\newenvironment{proof_claim}{\begin{quotation} \noindent}{
+% \hspace*{\fill} $\diamond$ \end{quotation}}
+
+\newcommand{\problemset}[3]{\heading{#1}{\classname}{#2}{\instructor}{#3}{Problem Set #1}} % Don't change this line
+%%%%%%%%%%%%%%%%%%%%%%%%%% Change this stuff below, don't change the line above this one
+\newcommand{\problemsetnum}{5}            % problem set number
+\newcommand{\duedate}{2/26/2018} % problem set deadline
+\newcommand{\studentname}{Student Name: }      % name of student (i.e., you)
+\newcommand{\classname}{CS 8803 GA -- HW 5.  \ \ Due: \duedate \ \ \ Name:   }
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\pagestyle{fancy}
+%\addtolength{\headwidth}{\marginparsep} %these change header-rule width
+%\addtolength{\headwidth}{\marginparwidth}
+\lhead{\classname} %Problem \thesection}
+\chead{} 
+\rhead{\thepage} 
+%\lfoot{\small\scshape \classname}
+\cfoot{} 
+%\rfoot{\footnotesize PS \#\problemsetnum} 
+\renewcommand{\headrulewidth}{.3pt} 
+\renewcommand{\footrulewidth}{.3pt}
+\setlength\voffset{-0.25in}
+\setlength\textheight{648pt}
+
+
+\newcommand{\sit}{\shortintertext}
+\newcommand\deq{\mathrel{\overset{\makebox[0pt]{\mbox{\normalfont\tiny\sffamily def}}}{=}}}
+\newcommand{\ones}{\mathbbm{1}}
+\newcommand{\e}{\vec{e}}
+\newcommand{\tr}{\text{tr}}
+\newcommand{\bs}{\boldsymbol}
+\mathchardef\mhyphen="2D
+\newcommand{\C}{\mathbb{C}}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\II}{\mathcal{I}}
+\newcommand{\FF}{\mathcal{F}}
+\newcommand{\X}{\mathcal{X}}
+\newcommand{\Y}{\mathcal{Y}}
+\newcommand{\ra}{\rightarrow}
+\newcommand{\Ra}{\Rightarrow}
+\newcommand{\PP}{\mathbb{P}}
+\newcommand{\sse}{\subseteq}
+\newcommand{\eps}{\epsilon}
+\newcommand{\N}{\mathcal{N}}
+\newcommand{\poly}{\textup{poly}}
+
+\newcommand{\dom}{\textup{dom}}
+
+\renewcommand{\thesubsection}{\thesection.\roman{subsection}}
+
+
+% auto sized delimiters
+\newcommand{\Br}[1]{\left\{#1\right\}}
+\newcommand{\br}[1]{\left[#1\right]}
+\newcommand{\pr}[1]{\left(#1\right)}
+\newcommand{\ceil}[1]{\left\lceil#1\right\rceil}
+\newcommand{\floor}[1]{\left\lfloor#1\right\rfloor}
+\newcommand{\abs}[1]{\left|#1\right|}
+\newcommand{\sgn}{\textup{sgn}}
+
+%default delimiter for Pr and E
+\DeclarePairedDelimiter{\defaultDelim}{[}{]}
+
+\DeclareMathOperator{\capPr}{Pr}
+\renewcommand{\Pr}[2][]{\capPr_{#1}\defaultDelim*{#2}}
+\DeclareMathOperator{\capE}{E}
+\newcommand{\E}[2][]{\capE_{#1}\defaultDelim*{#2}}
+\DeclareMathOperator{\capVar}{Var}
+\newcommand{\Var}[2][]{\capVar_{#1}\defaultDelim*{#2}}
+
+%\DeclareMathOperator*{}{} puts subscript below
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+% \problemset{\problemsetnum}{\duedate}{\studentname}
+{\bf \noindent  Practice problems (don't turn in):}
+\begin{enumerate}
+	\item[1.] [DPV] Problem 7.10 (max-flow = min-cut example)
+	
+	\item[2.] [DPV] Problem 7.17  (bottleneck edges)  \\
+	(Part (e) where you devise an algorithm to find bottleneck edges 
+	is more challenging but a nice problem to try.)
+	
+	\item[3.] [DPV] Problem 7.19 (verifying max-flow)
+	
+	\item[4.] For a bipartite graph $G=(V_1\cup V_2,E)$ where $|V_1|=|V_2|=n$ a {\em 
+	perfect matching} is a subset $S$ of edges where each vertex is incident exactly 1
+	edge in $S$.  In other words, it's a matching of size $n$.   Given a bipartite graph $G$
+	show how to determine if $G$ has a perfect matching by a reduction to the max-flow 
+	problem.  So given $G$ define an input to the max-flow problem, and given a max-flow
+	for this input how do you determine if the original graph $G$ has a perfect matching or not?
+	What is the running time of your algorithm? \\
+	(For hints see [DPV] Chapter 7.3 (Bipartite matching) and the beginning of Problem 7.24.)
+
+	
+\end{enumerate}
+%
+%
+%\newpage
+%
+%
+%\begin{problem} {[DPV] Problem 7.17 (e)}
+%	Give an efficient algorithm to identify all bottleneck edges in a network. \textbf{Do as fast as possible}.\\
+%	\textit{(Hint: Start by running the usual network flow algorithm, and then examine the residual graph.)}\\\\
+%	\textbf{Answer:}
+%
+%\end{problem}
+
+\newpage
+\begin{problem} {[DPV] Problem 7.18 (a) (b)}
+	Solve the following problems by reducing to the original max-flow problem.
+	In other words, explain how to solve the
+new flow variant problem using an algorithm for solving max-flow as a black-box.
+	Explain how to take an input for the new problem and define an input for the original max-flow problem.  Then given a max-flow $f^*$ to this input you just defined, explain how to get the solution
+	to the new problem.
+	\begin{itemize}
+		\item[(a)] There are many sources and many sinks, and we wish to maximize the total flow from all sources to all sinks.
+		\item[(b)] Each vertex also has a capacity on the maximum flow that can enter it.
+	\end{itemize}
+	\textbf{Answer:}
+\end{problem}
+
+\newpage
+\begin{problem} {[DPV] Problem 5.22 (a)}
+	Prove the following property carefully:\\
+	Pick any cycle in the graph (denote it by $C$), and let $e^*$ be the heaviest edge in that cycle $C$.  Thus, $w(e^*)\geq w(e')$ for all $e'\in C$. 
+	Then there is a minimum spanning tree $T'$ that does not contain $e^*$.\\\\
+	Hint: Take a MST $T$ which contains $e^*$.  Construct a new tree $T'$ which does not
+	contain $e^*$ and $w(T')\leq w(T)$.   
+	\\
+	\textbf{Answer:}
+	
+	
+\end{problem}
+
+ \newpage
+ \begin{problem}{[DPV] Problem 5.9 (d)}
+ 
+ If the lightest edge in a graph is unique, then it must be part of every MST.
+
+\end{problem}
+
+Is the above statement True or False?  
+\\
+If True, then prove that is correct (explain why it always holds).  Or if it is
+False then give a counterexample (show a graph where it does not hold).  \\
+	\textbf{Answer:}
+
+
+\end{document}

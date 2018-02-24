@@ -1,0 +1,428 @@
+\documentclass[12pt]{article}
+
+\usepackage{amsmath}    % need for subequations
+\usepackage{graphicx}   % need for figures
+\usepackage{verbatim}   % useful for program listings
+\usepackage{subfigure}  % use for side-by-side figures
+\usepackage{hyperref}   % use for hypertext links, including those to external documents and URLs
+\usepackage{clrscode}
+\usepackage{algorithmic}
+\usepackage{amssymb}
+\usepackage{algorithm}
+\usepackage{url,hyperref}
+\usepackage{amsthm}
+
+% don't need the following. simply use defaults
+%\setlength{\baselineskip}{50.0pt}    % 16 pt usual spacing between lines
+%\setlength{\parskip}{3pt plus 2pt}
+%\setlength{\parindent}{20pt}
+%\setlength{\oddsidemargin}{0.5cm}
+%\setlength{\evensidemargin}{0.5cm}
+%\setlength{\marginparsep}{0.75cm}
+%\setlength{\marginparwidth}{2.5cm}
+%\setlength{\marginparpush}{1.0cm}
+%\setlength{\textwidth}{150mm}
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem{lemma}[theorem]{Lemma}
+
+\algsetup{indent=1cm}
+
+\begin{document}
+
+\begin{center}
+{\large 
+Solutions for HW 1 Dynamic Programming Problems} \\
+\end{center}
+
+{\noindent \bf [DPV] Problem 6.1 --  Max contiguous subsequence}
+
+{\noindent \bf Solution:}
+Let's first solve the problem of finding the maximum sum obtainable by a contiguous
+subsequence, and then we'll see it's easy to modify that algorithm to output a valid
+subsequence.
+
+For solving the problems using dynamic programming, we first identify the subproblems and then
+we try to express a recurrence for the solution to the subproblem in
+terms of smaller subproblems.
+Our first attempt is often to consider {\em prefixes} for the subproblem.
+For the first $i$ numbers, find the maximum contiguous subsequence within it.
+However, one will realize that the recurrence is hard to write down because we have to
+maintain  the property that the solution is contiguous.
+As in the longest increasing
+subsequence problem, we have to strengthen the subproblem so that we consider
+the best solution that includes the number $a_i$.
+
+We define the subproblem as:
+\begin{eqnarray*}
+S(i) = & \mbox{ the maximum sum attainable by a contiguous subsequence from the list } \\
+& \mbox{ of numbers $a_1,a_2,a_3,...,a_i$ with the extra constraint that } \\
+& \mbox{ the contiguous subsequence has to end with $a_i$. }
+\end{eqnarray*}
+
+The reason to force the subproblem to have this extra condition is that, just
+as for the longest increasing subsequence problem that we saw in class, it is 
+necessary in order to write a recursive formula for $S(i)$ in terms of $S(1),\dots, S(i-1)$.
+
+Let's look at the example in the book, $A = [5, 15, -30, 10, -5, 40, 10]$.
+Then, $S(1) = 5$ since $5$ itself is the only option.
+$S(2)=20$ since $5,15$ has larger sum than $15$ by itself.
+Similarly, $S(3) = -10$ since $5+15-30 =-10$ is larger than $-30$ by itself.
+Note, $S(4)=10$ since that is larger than $5+15-30+10=0$.
+The whole table is $S = [5, 20, -10, 10, 5, 45, 55]$.
+
+Notice that to compute $S(i)$ we either consider adding $a_i$ to the optimal
+subsequence ending at $a_{i-1}$ or we consider $a_i$ by itself.
+Hence, the recurrence is the following:
+\[ S(i) = \max\{ a_i, a_i+S(i-1)\}.
+\]
+
+It is easy to see that once we define these subproblems, the final solution to the original problem is the best solution among $S(1), S(2),..., S(n)$ which can be computed in $O(n)$ time assuming that all the subproblems are solved.
+The pseudocode for filling the table is below.
+
+To obtain a valid subsequence, as in the longest increasing subsequence problem
+that we did in class, we just have to ``backtrack'' in the table $S$ to determine if the
+optimal subsequence only includes $a_i$, or if it continues to the optimal subsequence ending at $a_{i-1}$.
+To this end we add use the table $prev()$ to keep track of which value achieves
+the maximum in the recurrence.
+
+\begin{algorithm}[h!]
+\caption{Max sum of contiguous subsequence($a_1,a_2,\dots,a_n$)}
+\begin{algorithmic}
+\STATE $S(0) = 0$.
+\FOR{$i=1$ to $n$}
+\IF{$S(i-1) + a_i \ge a_i$}
+\STATE $S(i) = S(i-1)+a_i$
+\STATE $prev(i) = i-1$
+\ELSE
+\STATE $S(i) = a_i$
+\STATE $prev(i) = NULL$
+\ENDIF
+\ENDFOR
+\STATE $max=1$
+\FOR{$i=2$ to $n$}
+\IF{$S(i)>S(max)$} 
+\STATE $max=i$
+\ENDIF
+\ENDFOR
+\RETURN $S(max)$
+\end{algorithmic}
+\end{algorithm}
+
+
+The running time is $O(n)$.
+
+To output a contiguous subsequence obtaining the maximum sum we add
+the following to the algorithm.
+
+\begin{algorithm}[h!]
+\caption{Outputting a contiguous subsequence of maximum sum}
+\begin{algorithmic}
+\STATE $i=max$
+\STATE $output(i)$
+\WHILE{$prev(i)\neq NULL$}  
+\STATE $i = prev(i)$
+\STATE  $output(i)$
+  \ENDWHILE
+\end{algorithmic}
+\end{algorithm}
+
+
+
+
+
+
+%\vspace{1in}
+\newpage
+
+{\noindent \bf [DPV] Problem 6.2 --  Hotel stops}
+
+ {\noindent \bf Solution:}
+
+As in Problem 1, we strengthen the subproblem so that we consider
+ the best subsequence which includes hotel $i$.
+
+ Therefore, we define the following subproblem.  
+
+ For $1\le i \le n$, let
+\begin{eqnarray*}
+  P(i)  = & \mbox{ minimum penalty obtainable for the trip} \\
+&   \mbox{ from mile 0
+ to mile $a_i$ with the last stop at hotel $i$.}
+ \end{eqnarray*}
+
+ To figure out the recurrence, we consider the choices for the last
+ hotel stop prior to $i$.  Say that this penultimate stop is at hotel $k$ which is at mile $a_k$.  
+ Then the cost for the last segment of the trip is $(200 - (a_i - a_k))^2$,
+ and it's $P(k)$ for the beginning segment of the trip ending at hotel $k$.
+ Therefore, the total cost for this trip with a penultimate stop at the $k$-th hotel is
+ $P(k) + (200 - (a_i - a_k))^2$.
+We then try all possibilities for $k$, so all $k$ where $0\le k\le i-1$.
+Note, $k=0$ corresponds to having no stops prior to the $i$-th hotel.
+Finally, the recurrence is
+\[ P(i) = \min_{k} \{P(k) + (200 - (a_i - a_k))^2 : 0\le k\le i-1\}
+\]
+This says that $P(i)$ is the minimum over $k$, where $k$ is
+restricted to be at least $0$ and at most $i-1$, and we're
+minimizing the quantity $P(k) +  (200 - (a_i - a_k))^2$.
+The base case is $P(0) = 0$.
+
+Below is the pseudocode for filling the table.  To implement the minimum over $k$,
+we first set $P(i)$ to the value from the $k=0$ case,
+then we try other choices of $k$ and redefine $P(i)$ if a smaller
+cost is found.
+
+To find a set of locations with the minimum penalty we add the $prev(i)$ to
+store the $k$ which achieves the minimum in the recurrence, and then we backtrack.
+
+\begin{algorithm}[h!]
+\caption{Hotel stops($a_1,a_2,\dots,a_n$)}
+\begin{algorithmic}
+\STATE $P(0) = 0$
+\FOR{$i=1$ to $n$}
+\STATE $P(i) = (200 - a_i)^2$
+\STATE $prev(i) = NULL$
+\FOR{$k=1$ to $i-1$}
+\IF{$P(i) > P(k) + (200 - (a_i - a_k))^2$}
+\STATE $P(i)=P(k) + (200 - (a_i - a_k))^2$
+\STATE $prev(i) = k$
+\ENDIF
+\ENDFOR
+\ENDFOR
+
+\COMMENT{**$P(n)$ is the minimum penalty obtainable**}
+
+\COMMENT{**The following outputs a set of locations obtaining the minimum penalty**}
+\STATE $i=n$
+\STATE $output(i)$
+\WHILE{$prev(i)\neq NULL$}  
+\STATE $i = prev(i)$
+\STATE  $output(i)$
+  \ENDWHILE
+\end{algorithmic}
+\end{algorithm}
+
+The running time is $O(n^2)$.
+
+
+\newpage
+
+{\noindent \bf [DPV] Problem 6.3 -- YuckDonald's}
+
+{\noindent \bf Solution:}
+Again this problem is exactly the same flavor as Problems 1 and~2.
+We define the subproblem as:
+\begin{eqnarray*}
+  L(i) = & \mbox{maximum profit from a valid subset of locations $m_1,m_2,...,m_i$} \\
+& \mbox{ with the extra
+constraint that $m_i$ has to be included.}
+\end{eqnarray*}
+ The final solution to the problem is therefore
+$\max_i L(i)$.
+
+The base case is $L(0) = 0$. To define the recurrence for $L(i)$, 
+since we are putting a restaurant at location $m_i$, we gain profit $p_i$ from it,
+and then the penultimate location must be at least $k$ miles away.
+Hence, the penultimate location can only be those $j$ where $m_j\leq m_i - k$.
+We try all possibilities for this penultimate location $m_j$, and
+the maximum profit we obtain for a subset of locations $1,\dots,j$ is
+captured in $L(j)$.  Hence, if the penultimate location is $m_j$ the total
+profit we obtain is $p_i+L(j)$.  Therefore, the recurrence is the following:
+\[
+L(i) = p_i + \max_{j}  \{L(j) : m_j \le m_i - k \}.
+\]
+
+Here is the pseudocode for filling the table:
+\begin{algorithm}[h!]
+\caption{YuckDonalds($a_1,a_2,\dots,a_n$)}
+\begin{algorithmic}
+\STATE $L(0) = 0$.
+\FOR{$i=1$ to $n$}
+\STATE $L(i) = p_i$.
+\FOR{$j=1$ to $i-1$}
+\IF {$m_j \le m_i - k$}
+\IF{$L(i) < L(j) + p_i$}
+\STATE $L(i)=L(j) + p_i$
+\ENDIF
+\ENDIF
+\ENDFOR
+\ENDFOR
+\RETURN $\max_i L(i)$
+\end{algorithmic}
+\end{algorithm}
+
+The running time is $O(n^2)$.
+
+\medskip
+
+{\bf Alternative Solution:}
+
+One can also solve the problem by defining the subproblem as follows:
+\[
+  P(i) =  \mbox{maximum profit from a valid subset of locations }  m_1,m_2,...,m_i
+  \]
+Hence, we have dropped the extra constraint that $m_i$ has to be included.
+ In this case, the final solution to the problem is therefore simply $P(n)$.
+
+To figure out the recurrence, we have two cases, either $m_i$ is included or 
+it is not included.  If it is not included, then the best subset of locations $m_1,\dots,m_i$
+is the same as the best subset of locations $m_1,\dots,m_{i-1}$.  Hence, in this
+case, $P(i)=P(i-1)$.  If location $m_i$ is included then the penultimate location
+must be at least $k$ miles away.  Let $last(i)$ denote the last possible location 
+that is at least $k$ miles from $m_i$, in other words:
+\[  last(i) = \max\{\ell: m_\ell\leq m_i-k\}.
+\]  Now if location $m_i$ is included, then
+the remaining solution must be a subset of locations $m_1,\dots,m_\ell$
+where $\ell=last(i)$.  Hence, in this case where location $m_i$ is included, we have
+that $P(i) = p_i + P(last(i))$.
+Therefore, the recurrence is the following:
+\[
+P(i) = \max\{ P(i-1), p_i + P(last(i)) \}
+\]
+
+It is easy to modify the earlier pseudocode to obtain an $O(n^2)$ time
+solution.  In fact, by first calculating $last(i)$ for $i=1\rightarrow n$, 
+and then calculating $P(i)$ for $i=1\rightarrow n$, one obtains an $O(n)$
+time solution.
+
+Here is the pseudocode for the faster solution:
+\begin{algorithm}[h!]
+\caption{FasterYuckDonalds($a_1,a_2,\dots,a_n$)}
+\begin{algorithmic}
+\STATE $a_0 = 0$.
+\STATE $\ell = 0$.
+\FOR{$i=1$ to $n$}
+\WHILE{$\ell<i-1$ and $m_{\ell+1}\leq m_i-k$}
+\STATE $\ell = \ell+1$.
+\ENDWHILE
+\STATE $last(i) = \ell$.
+\ENDFOR
+\STATE $P(0) = 0$.
+\FOR{$i=1$ to $n$}
+\STATE $P(i) = \max\{ P(i-1), p_i + P(last(i))\}$.
+\ENDFOR
+\RETURN $P(n)$
+\end{algorithmic}
+\end{algorithm}
+
+
+\newpage
+
+{\noindent \bf [DPV] Problem 6.17 --  Making change I}
+
+
+{\noindent \bf Solution:}
+
+In this problem,
+ you have $n$ denominations
+$x_1,\dots,x_n$ (with unlimited supply of each)
+and a value $V$, and you are asked to determine in $O(nV)$ time whether there
+is a set of coins with total value $V$.
+This problem is similar to the knapsack problem (with repetition).
+
+We make a one dimensional table.  For $0\le w\le V$, let
+\[  S(w) = \{\mbox{{\tt TRUE} or {\tt FALSE} whether there is a subset of coins
+with total value $w$}\}.
+\]
+By considering the last coin used, we get that $S(w)$ is {\tt TRUE} if
+there is a denomination $1\le i \le n$ where $S(w-x_i)$ is {\tt TRUE}.
+Hence, we get the following recurrence, where $\bigvee$ denotes OR.
+For $0\le w\le V$,
+\[ S(w) = \bigvee_{i}\{ S(w-x_i) :
+1\le i\le n, x_i\le w\}
+\]
+This yields an $O(nV)$ time algorithm with 2 for-loops.
+
+\begin{algorithm}[h!]
+\caption{Coin Changing I} 
+\begin{algorithmic}
+\STATE $S(0) = {\tt TRUE}$.
+\FOR{$j=1$ to $v$}
+\STATE $S(j) = {\tt FALSE}$.
+\ENDFOR
+\FOR{$i=1$ to $v$}
+\FOR{$j=1$ to $n$}
+\IF {$i - x_j \geq 0$}
+\STATE $S(i) \leftarrow S(i-x_j) \vee S(i)$
+\ENDIF
+\ENDFOR
+\ENDFOR
+\RETURN $S(v)$
+\end{algorithmic}
+\end{algorithm}
+
+\newpage
+
+{\noindent \bf [DPV] Problem 6.18 -- Making change II}
+
+{\noindent \bf Solution:}
+This problem is very similar to the knapsack problem without
+repetition that we saw in class.
+
+First of all, let's identify the subproblems.
+Since each denomination is used at most once, consider the situation
+for $x_n$.
+There are two cases, either
+\begin{itemize}
+\item We do not use $x_n$ then we need to use
+a subset of $x_1,\dots,x_{n-1}$ to form value~$v$;
+\item We use $x_n$ then we need to use
+a subset of $x_1,\dots,x_{n-1}$ to form value $v-x_n$.
+Note this case is only possible if $x_n \leq v$.
+\end{itemize}
+If either of the two cases is {\tt TRUE}, then the answer for the original problem is {\tt TRUE}, otherwise it is {\tt FALSE}. These two subproblems can depend further on
+some subproblems defined in the same way recursively, namely,
+ a subproblem considers a prefix of the denominations and some value.
+
+We define a $n\times v$ sized table $D$ defined as:
+\begin{eqnarray*}
+D(i,j) = & \{\mbox{{\tt TRUE} or {\tt FALSE} where 
+there is a subset of the
+coins of } \\
+& \mbox{ denominations $x_1$,...,$x_i$ to form the value $j$.} \}
+\end{eqnarray*}
+Our final answer is stored in the entry $D(n,v)$.
+
+Analogous to the above scenario with denomiation $x_n$ we have the
+following recurrence relation for $D(i,j)$.
+For $i>0$ and $j>0$ then we have:
+\[
+D(i,j) =
+\begin{cases}
+D(i-1,j) \vee D(i-1,j-x_i) & \mbox{if } x_i\le j \\
+D(i-1,j) & \mbox{if } x_i>j.
+\end{cases}
+\]
+ (Recall, $\vee$ denotes Boolean OR.)
+
+The base cases are $D(0,0)={\tt TRUE}$ and
+for all $j=1,2,\dots,v$,
+$D(0,j) = {\tt FALSE}$.
+
+The algorithm for filling in the table is the following.
+\begin{algorithm}[h!]
+\caption{Coin Changing II}
+\begin{algorithmic}
+\STATE $D(0,0) = {\tt TRUE}$.
+\FOR{$j=1$ to $v$}
+\STATE $(0,j) = {\tt FALSE}$.
+\ENDFOR
+\FOR{$i=1$ to $n$}
+\FOR{$j=0$ to $v$}
+\IF{$x_i\le j$}
+\STATE $D(i,j) \leftarrow D(i-1,j) \vee D(i-1,j-v_i)$
+\ELSE \STATE
+$D(i,j)  \leftarrow D(i-1,j)$
+\ENDIF
+\ENDFOR
+\ENDFOR
+\RETURN $D(n,v)$
+\end{algorithmic}
+\end{algorithm}
+
+Each entry takes $O(1)$ time to compute, and there are
+$O(nv)$ entries.  Hence, the total running time is $O(nv)$.
+
+
+
+
+\end{document}

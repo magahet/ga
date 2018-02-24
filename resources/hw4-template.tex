@@ -1,0 +1,244 @@
+\documentclass{article}
+\usepackage[T1]{fontenc}
+\usepackage{amssymb, amsmath, graphicx, subfigure, enumerate}
+\usepackage{amsthm,alltt} 
+\usepackage[margin=1.25in]{geometry} %geometry (sets margin) and other useful packages
+\usepackage{graphicx,ctable,booktabs}
+\usepackage{mathtools}
+\usepackage[boxed]{algorithm2e}
+\usepackage{mathdots}
+\usepackage{fancyhdr} %Fancy-header package to modify header/page numbering
+\usepackage{cleveref}
+
+\setlength{\oddsidemargin}{.25in}
+\setlength{\evensidemargin}{.25in}
+\setlength{\textwidth}{6in}
+\setlength{\topmargin}{-0.4in}
+\setlength{\textheight}{8.5in}
+
+
+
+\newcommand{\heading}[6]{
+  \renewcommand{\thepage}{\arabic{page}} % used to be #1-\arabic{page}
+  \noindent
+  \begin{center}
+  \framebox{
+    \vbox{
+      \hbox to 5.78in { \textbf{#2} \hfill #3 }
+      \vspace{4mm}
+      \hbox to 5.78in { {\Large \hfill #6  \hfill} }
+      \vspace{2mm}
+      \hbox to 5.78in { \textit{Instructor: #4 \hfill #5} }
+    }
+  }
+  \end{center}
+  \vspace*{4mm}
+}
+
+%Redefining sections as problems
+\makeatletter
+\newenvironment{problem}{\@startsection
+       {section}
+       {2}
+       {-.2em}
+       {-3.5ex plus -1ex minus -.2ex}
+       {2.3ex plus .2ex}
+       {\pagebreak[3]%forces pagebreak when space is small; use \eject for better results
+       \large\bf\noindent{Problem }
+       }
+       }
+       %{%\vspace{1ex}\begin{center} \rule{0.3\linewidth}{.3pt}\end{center}}
+       %\begin{center}\large\bf \ldots\ldots\ldots\end{center}}
+\makeatother
+
+
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem{definition}[theorem]{Definition}
+\newtheorem{remark}[theorem]{Remark}
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{proposition}[theorem]{Proposition}
+\newtheorem{claim}[theorem]{Claim}
+\newtheorem{observation}[theorem]{Observation}
+\newtheorem{fact}[theorem]{Fact}
+\newtheorem{assumption}[theorem]{Assumption}
+
+%\newenvironment{proof}{\noindent{\bf Proof:} \hspace*{1mm}}{
+% \hspace*{\fill} $\Box$ }
+%\newenvironment{proof_of}[1]{\noindent {\bf Proof of #1:}
+% \hspace*{1mm}}{\hspace*{\fill} $\Box$ }
+%\newenvironment{proof_claim}{\begin{quotation} \noindent}{
+% \hspace*{\fill} $\diamond$ \end{quotation}}
+
+\newcommand{\problemset}[2]{\heading{#1}{\classname}{#2}{Problem Set #1}} % Don't change this line
+%%%%%%%%%%%%%%%%%%%%%%%%%% Change this stuff below, don't change the line above this one
+\newcommand{\problemsetnum}{4}            % problem set number
+\newcommand{\duedate}{2/19/2018} % problem set deadline
+\newcommand{\studentname}{Student Name: }      % name of student (i.e., you)
+\newcommand{\classname}{CS 8803 GA -- HW 4.  \ \ Due: \duedate \ \ \ Name:   }
+%\newcommand{\instructor}{Prof. Eric Vigoda}
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\pagestyle{fancy}
+%\addtolength{\headwidth}{\marginparsep} %these change header-rule width
+%\addtolength{\headwidth}{\marginparwidth}
+\lhead{\classname} %Problem \thesection}
+\chead{} 
+\rhead{\thepage} 
+%\lfoot{\small\scshape \classname}
+\cfoot{} 
+%\rfoot{\footnotesize PS \#\problemsetnum} 
+\renewcommand{\headrulewidth}{.3pt} 
+\renewcommand{\footrulewidth}{.3pt}
+\setlength\voffset{-0.25in}
+\setlength\textheight{648pt}
+
+
+\newcommand{\sit}{\shortintertext}
+\newcommand\deq{\mathrel{\overset{\makebox[0pt]{\mbox{\normalfont\tiny\sffamily def}}}{=}}}
+\newcommand{\ones}{\mathbbm{1}}
+\newcommand{\e}{\vec{e}}
+\newcommand{\tr}{\text{tr}}
+\newcommand{\bs}{\boldsymbol}
+\mathchardef\mhyphen="2D
+\newcommand{\C}{\mathbb{C}}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\II}{\mathcal{I}}
+\newcommand{\FF}{\mathcal{F}}
+\newcommand{\X}{\mathcal{X}}
+\newcommand{\Y}{\mathcal{Y}}
+\newcommand{\ra}{\rightarrow}
+\newcommand{\Ra}{\Rightarrow}
+\newcommand{\PP}{\mathbb{P}}
+\newcommand{\sse}{\subseteq}
+\newcommand{\eps}{\epsilon}
+\newcommand{\N}{\mathcal{N}}
+\newcommand{\poly}{\textup{poly}}
+
+\newcommand{\dom}{\textup{dom}}
+
+\renewcommand{\thesubsection}{\thesection.\roman{subsection}}
+
+
+% auto sized delimiters
+\newcommand{\Br}[1]{\left\{#1\right\}}
+\newcommand{\br}[1]{\left[#1\right]}
+\newcommand{\pr}[1]{\left(#1\right)}
+\newcommand{\ceil}[1]{\left\lceil#1\right\rceil}
+\newcommand{\floor}[1]{\left\lfloor#1\right\rfloor}
+\newcommand{\abs}[1]{\left|#1\right|}
+\newcommand{\sgn}{\textup{sgn}}
+
+%default delimiter for Pr and E
+\DeclarePairedDelimiter{\defaultDelim}{[}{]}
+
+\DeclareMathOperator{\capPr}{Pr}
+\renewcommand{\Pr}[2][]{\capPr_{#1}\defaultDelim*{#2}}
+\DeclareMathOperator{\capE}{E}
+\newcommand{\E}[2][]{\capE_{#1}\defaultDelim*{#2}}
+\DeclareMathOperator{\capVar}{Var}
+\newcommand{\Var}[2][]{\capVar_{#1}\defaultDelim*{#2}}
+
+%\DeclareMathOperator*{}{} puts subscript below
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+%\problemset{\problemsetnum}{\duedate}{\studentname}
+
+{\bf \noindent  Practice problems (don't turn in):}
+\begin{enumerate}
+\item[1.] Dijkstra's algorithm:  This is not covered in the lectures because it's the sort of thing 
+many of you have seen before, possibly multiple times (GT undergrads see it at least 3 times in their algorithms, data structures, and combinatorics class).  If you haven't seen it, or need a refresher, look at Chapter 4.4 of [DPV].
+\begin{enumerate}
+\item What is the input and output for Dijkstra's algorithm?
+\item What is the running time of Dijkstra's algorithm using min-heap (aka priority queue) data structure?  (Don't worry about the Fibonacci heap implementation or running time using it.)
+\item What is the main idea for Dijkstra's algorithm?
+\end{enumerate}
+
+\item[2.] [DPV] Problem 3.3 (Topological ordering example)
+
+\item[3.] [DPV] Problem 3.4 (SCC algorithm example)
+
+\item[4.] [DPV] Problem 3.5 (Reverse of graph)
+
+\item[5.] [DPV] Problem 3.8 (Pouring water)
+
+\end{enumerate}
+
+
+{\noindent \bf Instructions: }  
+In the algorithm design problems: 
+use the algorithms from class, such as DFS, BFS, Dijkstra's, connected components, etc., as a
+black-box subroutine for your algorithm.  So say what you are giving as input, then what algorithm you are running, and what's the output you're taking from it.  
+Here's an example:
+
+{\tt I take the input graph $G$, I first find the vertex with largest degree, call it $v^*$.
+I take the complement of the graph $G$, call it $\overline{G}$.
+Run Dijkstra's algorithm on $\overline{G}$ with $s=v^*$ and then I get the
+array $dist[v]$ of the 
+shortest path lengths from $s$ to every other vertex in the graph $\overline{G}$. 
+I square each of these distances and return this new array. }
+
+We don't want you to go into the details of these algorithms and tinker with it, just
+use it as a black-box as I did with Dijkstra's algorithm above.
+If you attempt to modify 
+one of these algorithms you will not receive full credit, even if it is correct.
+Make sure to explain your algorithm in words, no pseudocode.  
+
+
+\newpage
+
+
+\begin{problem} {[DPV] Problem 3.15 (Computopia)}
+Note, linear time means $O(n+m)$ where $n=|V|$ and $m=|E|$.
+
+\noindent \textbf{Part (a):}
+
+\vspace{4in}
+
+\noindent \textbf{Part (b):}
+
+\end{problem}
+
+\newpage
+\begin{problem} {[DPV] Problem 4.14  (shortest paths through $v_0$)}
+A faster algorithm is worth more.  Be sure to state/explain the running time of your algorithm.  
+Hint: Use Dijkstra's algorithm as a black-box.  How many runs of Dijkstra's algorithm do you need?
+
+\textbf{Answer:  (Explain your algorithm in words and analyze its running time.  No pseudocode.)}
+	
+\end{problem}
+
+\newpage
+\begin{problem} {Global Destination}
+
+In this problem: use the algorithms from class, such as DFS, BFS, Dijkstra's, connected components, etc., as a
+black-box subroutine for your algorithm; see the instructions on the front page.
+Make sure to explain your algorithm in words.  (Note, this is problem 3.22 in [DPV].)
+
+\smallskip
+
+Let $G=(V,E)$ be a {\bf directed} graph given in its adjacency list
+representation. A vertex $v$ is called a {\bf global destination}
+if every other vertex has a path to $v$.
+
+\smallskip
+
+{\bf Part (a).}
+Give an algorithm that takes as input a directed graph $G=(V,E)$
+and a specific vertex $s$, and determines if $s$ is a global destination.
+Your algorithm should have linear running time, i.e., $O(n+m) = O(|V|+|E|)$.
+
+\vspace{4in}
+
+
+{\bf Part (b). More Global Destination:}
+
+Given an input graph $G=(V,E)$ determine if $G$ has a global destination or not.
+The running time of your algorithm should still be $O(|V|+|E|)$.
+In this problem you are no longer given $s$, and you need to determine
+whether or not $G$ contains a global destination.
+
+\end{problem}
+\end{document}
