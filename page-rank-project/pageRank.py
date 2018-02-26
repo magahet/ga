@@ -2,7 +2,7 @@
 """
 Created on Wed Jan 03 14:40:02 2018
 
-@author: your full name as it appears in gradescope here
+@author: Magahet Mendiola
 """
 
 import time
@@ -32,7 +32,7 @@ class PageRank(object):
         #whether using self loops or using alpha==0 for sinks
         self.selfLoops = selfLoops
         #make output file name
-        self.outFileName = util.makeResOutFileName(self.inFileName,self.alpha, self.selfLoops)   
+        self.outFileName = util.makeResOutFileName(self.inFileName, self.alpha, self.selfLoops)   
 
         #this is only placed here to prevent errors when running empty template code
         self.rankVec = []        
@@ -53,12 +53,27 @@ class PageRank(object):
     5. initialize self.rankVec : pagerank vector -> initialize properly(uniformly)
     """
     def initAllStructs(self):
+        # 1. conditionally add self loops to self.adjList : for type 1 sink handling only
+        if self.selfLoops:
+            for id_ in self.nodeIDs:
+                if id_ not in self.adjList.get(id_, []):
+                    self.adjList[id_].append(id_)
+                    
+        # 2. build in-list structure to relate a node to all the nodes pointing to it
+        self.inList = defaultdict(set)
+        for source, outList in self.adjList.iteritems():
+            for destination in outList:
+                self.inList[destination].add(source)
+                
+        # 3. build out-degree structure to hold reference to the out degree of all nodes
+        self.outDegree = {k:len(v) for k, v in self.adjList.iteritems()}
         
+        # 4. conditionally build list of all sink nodes, for type 3 sink handling only)
+        if not self.selfLoops:
+            self.sinkNodes = [bool(self.adjList.get(n)) for n in self.nodeIDs]
         
-        #your code goes here < 1 >
-        
-        
-        pass
+        # 5. initialize self.rankVec : pagerank vector -> initialize properly(uniformly)
+        self.rankVec = [1.0 / len(self.nodeIDs) for _ in self.nodeIDs]
         
     """
     Task 2 : using in-list structure, out-degree structure, (and sink-related 
@@ -67,15 +82,27 @@ class PageRank(object):
     Perform single iteration of PageRank algorithm and return resultant vector
     """
     def solveRankIter(self, oldRankVec):
+        def get_idx(id_):
+            return self.nodeIDs.index(id_)
+            
+        def get_alpha(id_):
+            if self.selfLoops:
+                return self.alpha
+            else:
+                return 0 if id_ in self.sinkNodes else self.alpha
+                
+        def prob(y, x):
+            alpha = get_alpha(y)
+            if y in self.inList[x]:
+                return ((1 - alpha) / self.N) + (alpha / self.outDegree[y])
+            else:
+                return (1 - alpha) / self.N
+            
         #need to make copy of old rank vector 
-        newRankVec = [r for r in oldRankVec]
-        
-        
-        #your code goes here < 2 >
-        
-        
-
-        return newRankVec
+        return [
+            sum([oldRankVec[i] * prob(y, x) for i, y in enumerate(self.nodeIDs)])
+            for x in self.nodeIDs
+        ]
     
     """
     Task 3 : Find page rank vector by iterating through solveRankIter calls  
@@ -83,13 +110,26 @@ class PageRank(object):
     """
     def solveRankToEps(self, eps):
         #copy current page rank vector
-        newRankVec = [r for r in self.rankVec]
+        rankVec = self.rankVec[:]
+        newRankVec = [r + eps for r in self.rankVec]
+        last_update = time.time() - 10
+        eps_delta = eps
         
-        
-        #your code goes here < 3 >
-        
-                
-        return newRankVec    
+        while eps_delta >= eps:
+            if time.time() - last_update > 10:
+                print eps_delta
+                last_update = time.time()
+            rankVec = newRankVec[:]
+            newRankVec = self.solveRankIter(rankVec)
+            # print rankVec
+            # print newRankVec
+            # print eps_delta
+            # print
+            eps_delta = sum([
+                newRankVec[i] - rankVec[i]
+                for i in xrange(self.N)
+            ])
+        return newRankVec
     
     
     """
