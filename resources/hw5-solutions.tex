@@ -1,0 +1,182 @@
+
+\documentclass[12pt]{amsart}
+\usepackage{amsmath,amsfonts,amssymb}
+\usepackage{algorithm}
+\usepackage{pifont}
+\usepackage{algpseudocode}
+\usepackage{caption}
+\usepackage{enumerate}
+\usepackage{float}
+\usepackage[margin=1in]{geometry}
+\usepackage{graphicx}
+\usepackage{parskip}
+\usepackage{subcaption}
+\usepackage{tikz}
+\usepackage{tcolorbox}
+\tcbuselibrary{skins, breakable}
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+\usepackage{listings}% http://ctan.org/pkg/listings
+\lstset{
+	basicstyle=\ttfamily,
+	language=Python,
+	showstringspaces=false,
+	mathescape
+}
+\usepackage{blkarray}
+\newcommand{\matindex}[1]{\mbox{\scriptsize#1}}% Matrix index
+
+\theoremstyle{plain}
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{proposition}[theorem]{Proposition}
+
+\theoremstyle{definition}
+\newtheorem{definition}[theorem]{Definition}
+\newtheorem{example}[theorem]{Example}
+\newtheorem{conjecture}[theorem]{Conjecture}
+\newtheorem{question}[theorem]{Question}
+\theoremstyle{remark}
+\newtheorem{remark}[theorem]{Remark}
+
+\newcommand{\cF}{\mathcal F}
+\newcommand{\cD}{\mathcal D}
+\newcommand{\cP}{\mathcal P}
+\newcommand{\cR}{\mathcal R}
+\newcommand{\cS}{\mathcal S}
+\newcommand{\fS}{\mathfrak S}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\dist}{\text{dist}}
+\newcommand{\pf}{\text{pf}}
+\newcommand{\PP}{\text{P}}
+\newcommand{\NP}{\text{NP}}
+\newcommand{\Z}{\mathbb{Z}}
+\newcommand{\ord}{\text{ord}}
+\newcommand{\OPT}{\text{OPT}}
+\newcommand{\cost}{\text{cost}}
+\newcommand{\price}{\text{price}}
+\newcommand{\E}{\text{E}}
+
+\tcbset{breakable, enhanced jigsaw, parbox=false, title=Solution.}
+
+% Header ---------------------------------------------------------------------------
+\lhead{CS 8803GA}
+\chead{Homework 5 Solutions}
+\rhead{\today}
+% ----------------------------------------------------------------------------------
+
+\begin{document}
+	\thispagestyle{fancy}
+	\pagestyle{plain}
+
+
+	\noindent{\bf Problem 1: DPV 7.18 (a) and (b)}  \\
+
+	Solve the following problems by reducing to the original max-flow problem.
+	In other words, explain how to solve the
+new flow variant problem using an algorithm for solving max-flow as a black-box.
+	Explain how to take an input for the new problem and define an input for the original max-flow problem.  Then given a max-flow $f^*$ to this input you just defined, explain how to get the solution to the new problem.
+
+
+	
+	(a) There are many sources and many sinks, and we wish to maximize the total flow from all sources to all sinks.
+	
+	\begin{tcolorbox}
+		Suppose we have as input to this problem a directed graph $G = (V,E)$, with a set of sources $S \subseteq V$ and a set of sinks $T \subseteq V$.  We will construct a new graph $G' = (V', E')$ on which we can run the original max-flow problem, then use the flow $f^*$ from the original problem to create a solution for this variant problem.
+		
+		To construct $G'$, we will add a new super-source node $s'$ and a super-sink node $t'$.  We will connect the super-source to each of the sources in the input graph with an edge of infinite capacity, and connect each sink in the input graph to the super-sink with an edge of infinite capacity.  Then, $V' = V \cup \{s',t'\}$ and $E' = E \cup \{(s',s) : s \in S\} \cup \{(t,t') : t \in T\}$.
+		
+		Now we can run the original max-flow algorithm on $G'$.  Suppose this finds the flow $f^*$.  To find the maximum flow from all of the input sources to all of the input sinks on $G$, simply ignore all flow from the super-source to the sources, and from the sinks to the super-sink  (keep only the flows on edges in the input graph).  Since the added edges could not have been bottlenecks, their addition could not have affected the flow.
+		
+		*An infinite capacity edge can be implemented as an edge with sufficiently large capacity to never be saturated.  For example, an edge with capacity $|E|w^*$, where $w^*$ is the maximum weight of an edge in the graph, will never be saturated.
+	\end{tcolorbox}
+	
+	\newpage
+	(b) Each vertex also has a capacity on the maximum flow that can enter it.
+	
+	\begin{tcolorbox}
+		Suppose we have as input to this problem a directed graph $G = (V,E)$, with a source $s \in V$, a sink $t \in V$, and a capacity $c_v$ for each non-source vertex $v \in V \backslash \{s\}$.  We will construct a new graph $G' = (V', E')$ on which we can run the original max-flow problem, then use the flow $f^*$ from the original problem to create a solution for this variant problem.
+		
+		To construct $G'$, we will replace each vertex in the original graph with a pair of vertices connected by an edge with weight equal to the capacity of that vertex (with the exception of the source vertex).  Then, $V' = \{s\} \cup \{v_{in} : v \in V \backslash \{s\}\} \cup \{v_{out} : v \in V \backslash \{s\}\}$ and $E' = E \cup \{(v_{in},v_{out}) : v \in V \backslash \{s\}\}, w_{v_{in},v_{out}}=c_v$.
+		
+		Now we can run the original max-flow algorithm on $G'$.  Suppose this finds the flow $f^*$.  To find the maximum flow on the input graph with vertex capacities, combine each $v_{in},v_{out}$ pair and look at the flow on the original vertices.  Since the flow from $f^*$ going through a vertex cannot be more than the capacity of the edge ``inside'' that vertex, this flow will not exceed each vertex's capacity.  The source does not have this constraint, since no flow can enter the source.
+	\end{tcolorbox}
+
+
+
+
+
+
+%	\begin{itemize}
+%		\item[(a)] There are many sources and many sinks, and we wish to maximize the total flow from all sources to all sinks.
+%\begin{tcolorbox}
+%	\textbf{(a):} Create a supersource then connect it to the sources using edges of infinite capacity. Similarly, create a supersink then connect all sinks to it using edges of infinite capacity. Run max flow on the new graph. After removal of the new supersource, supersink \& new edges, the flow maximizes the total flow from all sources to all sinks.
+%\end{tcolorbox}
+%		\item[(b)] Each vertex also has a capacity on the maximum flow that can enter it.
+%\begin{tcolorbox}
+%	\textbf{(b):}  For every vertex $v$, replace it with two new vertices $v_1$ and $v_2$ in the following way. Let all incoming edges of $v$ come to $v_1$ and let all outgoing edges of $v$ come from~$v_2$. Finally, create a directed edge from $v_1$ to $v_2$ with capacity equal to the capacity of~$v$. Run max flow on the new graph. After reunification of the vertices, the flow found corresponds to a max flow with the vertex capacities.
+%\end{tcolorbox}
+%	\end{itemize}
+	
+
+\newpage
+
+	\noindent{\bf Problem 2: DPV 5.22 (a)}  \\
+	Prove the following property carefully:\\
+	Pick any cycle in the graph (denote it by $C$), and let $e^*$ be the heaviest edge in that cycle $C$.  Thus, $w(e^*)\geq w(e')$ for all $e'\in C$. 
+	Then there is a minimum spanning tree $T'$ that does not contain $e^*$.\\\\
+	Hint: Take a MST $T$ which contains $e^*$.  Construct a new tree $T'$ which does not
+	contain $e^*$ and $w(T')\leq w(T)$.   
+	
+\begin{tcolorbox}
+	Consider a cycle $C$; let $e^*$ be the heaviest edge in $C$. 
+	Consider a MST $T$ containing the edge~$e^*$.  If there is no such MST $T$ then we
+	are done, there is nothing to prove.  The difficult case is when {\em every} MST contains
+	$e^*$.  Consider one such MST containing $e^*$, call this MST $T$.  
+	We will prove there exists a tree $T'$ which does not contain $e^*$ and where 
+	$w(T')\leq w(T)$, and thus $T'$ is a MST which does not contain $e^*$ which proves the
+	property.
+	
+	To create $T'$, remove $e^*$ from $T$.  Since $T$ is a spanning tree and $e^* \in T$, 
+	then $T -  e^* $ consists of two disjoint trees, namely $T_A$ and $T_B$. 
+	Say the endpoints of $e^*$ are vertices $a\in T_A$ and $b\in T_B$.  
+	Note that $C - e^*$ is a path between vertex $a$ in $T_A$ and vertex $b$ in $T_B$. 
+	Therefore, there must be at least one edge $e' \in C -  e^*$ crossing between $T_A$ and $T_B$. 
+	 It follows that $T' = T\cup e' - e^*$ is a spanning tree that does not contain $e^*$. 
+	Moreover, since $e^*$ is the heaviest edge in $C$ we have $w(e')\leq w(e^*)$ and
+	\[  w(T') = w(T) + w(e') - w(e^*) \leq w(T). 
+	\]
+	Therefore, $T'$ is a MST which does not contain $e^*$.
+\end{tcolorbox}
+
+ \newpage
+ 	\noindent{\bf Problem 3: DPV 5.9 (d)}  \\ 
+If the lightest edge in a graph is unique, then it must be part of every MST.\\
+Is the above statement True or False?   
+\\
+If True, then prove that is correct (explain why it always holds).  Or if it is
+False then give a counterexample (show a graph where it does not hold).  
+
+\begin{tcolorbox}
+	{\bf True.}
+	
+	Let $e^*=(u,v)$ be the unique lightest edge in the graph $G=(V,E)$ and 
+	thus $w(e^*)<w(e')$ for all $e'\in E-e^*$.  
+	
+	We will prove the claim by contradiction.  Suppose there is a MST $T$ which does
+	not include edge $e^*$.  We will construct a tree $T'$ where $w(T')<w(T)$ and thus
+	$T$ is not a MST, which gives the contradiction and hence proves the claim.
+	
+	So consider MST $T$ where $e^*\notin T$.   Add $e^*$ to $T$.  
+	This creates a cycle $C$.  Remove the heaviest edge $e'$ in this cycle.  
+	Note $e'$ is not $e^*$ because $e^*$ is strictly 
+	lighter than every other edge on the cycle $C$.
+	Let $T' = T\cup e^* - e'$ denote this new set.  Note $T'$ is a tree and 
+	\[ w(T') = w(T) + w(e^*) - w(e') < w(T) \mbox{ since } w(e^*) < w(e').
+	\] Therefore we have constructed a new tree $T'$ with smaller weight than $T$,  
+	contradicting the assumption that $T$ was an MST.
+\end{tcolorbox}
+
+
+\end{document}
