@@ -17,6 +17,8 @@ from collections import defaultdict
 # to build a dictionary that will have a list as its value
 # use : mydict = defaultdict(list)
 
+import numpy as np
+
 
 # PageRank object to hold graph representation and code to solve for algorithm
 class PageRank(object):
@@ -49,14 +51,21 @@ class PageRank(object):
 
     """
     Task 1 : using self.adjList, do the following, in this order :
-    1. conditionally add self loops to self.adjList : for type 1 sink handling only
+    1. conditionally add self loops to self.adjList : for type 1 sink handling
+        only
     2. build in-list structure to relate a node to all the nodes pointing to it
-    3. build out-degree structure to hold reference to the out degree of all nodes
-    4. conditionally build list of all sink nodes, for type 3 sink handling only)
-    5. initialize self.rankVec : pagerank vector -> initialize properly(uniformly)
+    3. build out-degree structure to hold reference to the out degree of all
+        nodes
+    4. conditionally build list of all sink nodes, for type 3 sink handling
+        only)
+    5. initialize self.rankVec : pagerank vector -> initialize
+        properly(uniformly)
     """
 
     def initAllStructs(self):
+        # Assume self.nodeIDs and indices of rankVec are the same
+        assert(self.nodeIDs == range(self.N))
+
         # 1. conditionally add self loops to self.adjList : for type 1 sink
         # handling only
         if self.selfLoops:
@@ -66,25 +75,25 @@ class PageRank(object):
 
         # 2. build in-list structure to relate a node to all the nodes pointing
         # to it
-        self.inList = defaultdict(set)
+        inList = defaultdict(list)
         for source, outList in self.adjList.iteritems():
             for destination in outList:
-                self.inList[destination].add(source)
+                inList[destination].append(source)
+        self.inList = [np.array(inList[i], dtype=int) for i in xrange(self.N)]
 
         # 3. build out-degree structure to hold reference to the out degree of
         # all nodes
-        self.outDegree = {k: len(v) for k, v in self.adjList.iteritems()}
+        self.outDegree = np.array([len(self.adjList[n]) for n in self.nodeIDs])
 
         # 4. conditionally build list of all sink nodes, for type 3 sink
         # handling only)
+        self.sinks = np.array([], dtype=int)
         if not self.selfLoops:
-            self.sinkNodes = set([n for n in self.nodeIDs
-                                  if not self.outDegree.get(n)])
-        # print 'Sink nodes:', self.sinkNodes
+            self.sinks = np.where(self.outDegree == 0)[0]
 
         # 5. initialize self.rankVec : pagerank vector -> initialize
         # properly(uniformly)
-        self.rankVec = [1.0 / self.N for _ in self.nodeIDs]
+        self.rankVec = np.ones(self.N) / self.N
 
     """
     Task 2 : using in-list structure, out-degree structure, (and sink-related
@@ -94,23 +103,25 @@ class PageRank(object):
     """
 
     def solveRankIter(self, oldRankVec):
-        def get_idx(id_):
-            return self.nodeIDs.index(id_)
+        prob = np.zeros(self.N)
 
-        def get_alpha(id_):
-            if self.selfLoops:
-                return self.alpha
-            else:
-                return 0.0 if id_ in self.sinkNodes else self.alpha
+        # Contributions from random jumps
+        prob += (1.0 - self.alpha) / self.N
 
-        return [
-           (
-               ((1.0 - get_alpha(x)) / self.N) +
-               get_alpha(x) * sum([oldRankVec[get_idx(y)] / self.outDegree[y]
-                                   for y in self.inList.get(x, [])])
-           )
-           for x in self.nodeIDs
-        ]
+        # Contributions from sinks
+        prob += self.alpha * np.sum(oldRankVec[self.sinks]) / self.N
+
+        # Contributions from inLinks
+        for x in xrange(self.N):
+            yList = self.inList[x]
+            if yList.size == 0:
+                continue
+            prob[x] += (
+                self.alpha *
+                np.sum(oldRankVec[yList] /
+                       self.outDegree[yList])
+            )
+        return prob
 
     """
     Task 3 : Find page rank vector by iterating through solveRankIter calls
@@ -118,23 +129,16 @@ class PageRank(object):
     """
 
     def solveRankToEps(self, eps):
-        newRankVec = self.rankVec[:]
-        eps_delta = eps
+        newRankVec = self.rankVec.copy()
+        delta = eps
 
-        while eps_delta >= eps:
-            rankVec = newRankVec[:]
+        while delta >= eps:
+            rankVec = newRankVec
             newRankVec = self.solveRankIter(rankVec)
-            print 'ranks:', rankVec
-            # print newRankVec
-            # print eps_delta
-            # print 'SUM:', sum(newRankVec)
-            # print
-            # if abs(1 - sum(newRankVec)) > 0.1:
-            #     break
-            eps_delta = sum([abs(x - y) for x, y in zip(newRankVec, rankVec)])
+            delta = np.linalg.norm(newRankVec - rankVec, np.inf)
+            print 'delta:', delta
 
-        print 'SUM:', sum(newRankVec)
-        return newRankVec
+        return list(newRankVec)
 
     """
         find page rank vector, save results.  Optionally sort results, although
@@ -149,7 +153,8 @@ class PageRank(object):
 
         if(len(self.rankVec) > 0):
             if(sortRes):
-                # when converges, to sort self.rankVec also need to sort self.nodeIDs
+                # when converges, to sort self.rankVec also need to sort
+                # self.nodeIDs
                 # so that rankvec is descending and node ids still aligns with
                 # it
                 sortedIDXs, self.rankVec = util.getSortResIDXs(self.rankVec)
