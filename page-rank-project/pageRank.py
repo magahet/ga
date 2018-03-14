@@ -136,7 +136,6 @@ class PageRank(object):
             rankVec = newRankVec
             newRankVec = self.solveRankIter(rankVec)
             delta = np.linalg.norm(newRankVec - rankVec, np.inf)
-            print 'delta:', delta
 
         return list(newRankVec)
 
