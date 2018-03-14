@@ -103,6 +103,10 @@ class PageRank(object):
     """
 
     def solveRankIter(self, oldRankVec):
+        is_list = isinstance(oldRankVec, list)
+        if is_list:
+            oldRankVec = np.array(oldRankVec)
+
         prob = np.zeros(self.N)
 
         # Contributions from random jumps
@@ -121,6 +125,8 @@ class PageRank(object):
                 np.sum(oldRankVec[yList] /
                        self.outDegree[yList])
             )
+        if is_list:
+            return list(prob)
         return prob
 
     """
