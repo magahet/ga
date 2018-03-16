@@ -1,0 +1,91 @@
+$ python test.py 
+Making pagerank object using input file testCaseSmall.txt and alpha 0.75 and Type 3 sink handling.
+PageRank object made.  Elapsed time : 0.00685095787048 seconds
+PageRank vector calculated.  Elapsed time : 0.0834100246429 seconds
+Succssfully matched
+---------------------------------------------------------------------------
+Making pagerank object using input file testCaseSmall.txt and alpha 0.75 and self-loop sink handling.
+PageRank object made.  Elapsed time : 0.00799584388733 seconds
+PageRank vector calculated.  Elapsed time : 0.0774490833282 seconds
+Succssfully matched
+---------------------------------------------------------------------------
+Making pagerank object using input file testCaseSmall.txt and alpha 0.85 and Type 3 sink handling.
+PageRank object made.  Elapsed time : 0.00693321228027 seconds
+PageRank vector calculated.  Elapsed time : 0.139727830887 seconds
+Succssfully matched
+---------------------------------------------------------------------------
+Making pagerank object using input file testCaseSmall.txt and alpha 0.85 and self-loop sink handling.
+PageRank object made.  Elapsed time : 0.00807309150696 seconds
+PageRank vector calculated.  Elapsed time : 0.116039991379 seconds
+Succssfully matched
+---------------------------------------------------------------------------
+Making pagerank object using input file testCaseSmall.txt and alpha 0.95 and Type 3 sink handling.
+PageRank object made.  Elapsed time : 0.00706315040588 seconds
+PageRank vector calculated.  Elapsed time : 0.432076931 seconds
+Succssfully matched
+---------------------------------------------------------------------------
+Making pagerank object using input file testCaseSmall.txt and alpha 0.95 and self-loop sink handling.
+PageRank object made.  Elapsed time : 0.00840783119202 seconds
+PageRank vector calculated.  Elapsed time : 0.204225063324 seconds
+Succssfully matched
+---------------------------------------------------------------------------
+Making pagerank object using input file testCase3k.txt and alpha 0.75 and Type 3 sink handling.
+PageRank object made.  Elapsed time : 0.0325779914856 seconds
+PageRank vector calculated.  Elapsed time : 0.0902299880981 seconds
+Succssfully matched
+---------------------------------------------------------------------------
+Making pagerank object using input file testCase3k.txt and alpha 0.75 and self-loop sink handling.
+PageRank object made.  Elapsed time : 0.0381209850311 seconds
+PageRank vector calculated.  Elapsed time : 0.24666595459 seconds
+Succssfully matched
+---------------------------------------------------------------------------
+Making pagerank object using input file testCase3k.txt and alpha 0.85 and Type 3 sink handling.
+PageRank object made.  Elapsed time : 0.0309031009674 seconds
+PageRank vector calculated.  Elapsed time : 0.0897281169891 seconds
+Succssfully matched
+---------------------------------------------------------------------------
+Making pagerank object using input file testCase3k.txt and alpha 0.85 and self-loop sink handling.
+PageRank object made.  Elapsed time : 0.0376811027527 seconds
+PageRank vector calculated.  Elapsed time : 0.2134308815 seconds
+Succssfully matched
+---------------------------------------------------------------------------
+Making pagerank object using input file testCase3k.txt and alpha 0.95 and Type 3 sink handling.
+PageRank object made.  Elapsed time : 0.0312829017639 seconds
+PageRank vector calculated.  Elapsed time : 0.0964419841766 seconds
+Succssfully matched
+---------------------------------------------------------------------------
+Making pagerank object using input file testCase3k.txt and alpha 0.95 and self-loop sink handling.
+PageRank object made.  Elapsed time : 0.037896156311 seconds
+PageRank vector calculated.  Elapsed time : 0.255524873734 seconds
+Succssfully matched
+---------------------------------------------------------------------------
+Making pagerank object using input file large.txt and alpha 0.75 and Type 3 sink handling.
+PageRank object made.  Elapsed time : 9.0015001297 seconds
+PageRank vector calculated.  Elapsed time : 202.921745062 seconds
+Match Failed
+---------------------------------------------------------------------------
+Making pagerank object using input file large.txt and alpha 0.75 and self-loop sink handling.
+PageRank object made.  Elapsed time : 9.92769289017 seconds
+PageRank vector calculated.  Elapsed time : 162.97458005 seconds
+Match Failed
+---------------------------------------------------------------------------
+Making pagerank object using input file large.txt and alpha 0.85 and Type 3 sink handling.
+PageRank object made.  Elapsed time : 9.08539295197 seconds
+PageRank vector calculated.  Elapsed time : 315.054396152 seconds
+Succssfully matched
+---------------------------------------------------------------------------
+Making pagerank object using input file large.txt and alpha 0.85 and self-loop sink handling.
+PageRank object made.  Elapsed time : 9.40755796432 seconds
+PageRank vector calculated.  Elapsed time : 236.068634987 seconds
+Succssfully matched
+---------------------------------------------------------------------------
+Making pagerank object using input file large.txt and alpha 0.95 and Type 3 sink handling.
+PageRank object made.  Elapsed time : 8.79034996033 seconds
+PageRank vector calculated.  Elapsed time : 959.999143124 seconds
+Match Failed
+---------------------------------------------------------------------------
+Making pagerank object using input file large.txt and alpha 0.95 and self-loop sink handling.
+PageRank object made.  Elapsed time : 10.0129389763 seconds
+PageRank vector calculated.  Elapsed time : 658.777224064 seconds
+Match Failed
+---------------------------------------------------------------------------
